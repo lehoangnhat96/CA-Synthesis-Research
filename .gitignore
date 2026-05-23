@@ -1,0 +1,12 @@
+# Bỏ qua các file nhạy cảm hoặc không cần thiết
+.DS_Store
+Thumbs.db
+node_modules/
+__pycache__/
+*.pyc
+
+# Bỏ qua các thư mục log hoặc môi trường cục bộ nếu có
+.env
+.venv
+env/
+venv/
