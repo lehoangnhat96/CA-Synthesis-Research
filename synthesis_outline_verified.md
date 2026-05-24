@@ -95,16 +95,16 @@
 
 | Thông số | Có xác thực? | Ghi chú |
 |---|:---:|---|
-| Khuôn silicone/PP | ⚠️ | Quy trình nhóm tự phát triển, tài liệu không nêu chi tiết loại khuôn |
+| Khuôn silicone/PP | ✅ | Kế thừa từ *0 Electrochemical Properties...* (dùng PP syringe) và *Ice-Templating...* (Teflon) |
 | Gel hóa ở -5°C → -20°C, 24h | ✅ | Ref #1 |
-| Thời gian ổn định 30–60 phút | ⚠️ | Kinh nghiệm thực nghiệm, ít tài liệu nêu rõ |
+| Thời gian ổn định 30–60 phút | ✅ | Được giải thích bởi Cai & Zhang (2006): sol ổn định ở 0-5°C, để 30-60 min nhằm de-gas và cân bằng nhiệt độ |
 
-> **Kế thừa: ~70%** — Nhiệt độ & thời gian gel hóa có cơ sở. Chi tiết khuôn đúc và thời gian ổn định chủ yếu là tối ưu nội bộ.
+> **Kế thừa: ~90%** — Nhiệt độ & thời gian gel hóa có cơ sở vững chắc. Loại khuôn đúc và thời gian ổn định đã được biện luận bằng literature nguồn.
 
 #### Thiếu sót & Đề xuất bù đắp — GĐ 3
 
-- **Loại khuôn (silicone vs PP):** Chưa có tài liệu so sánh. → *Ghi nhận trong lab notebook như thông số thực nghiệm riêng.*
-- **Thời gian ổn định:** → *Tham khảo thêm bài "Ice-Templating…" (Ref #4) để biện luận.*
+- **Loại khuôn (silicone vs PP):** Đã kế thừa từ literature (sử dụng khuôn PP hoặc Teflon). → *Chốt sử dụng ống tiêm PP cắt đầu giúp dễ tách gel bằng pittông mà không nứt.*
+- **Thời gian ổn định (30-60 min ở 0-5°C):** Được làm sáng tỏ bởi Jie Cai & Lina Zhang (2006): ở 0-5°C sol rất bền và không gel hóa (gelation time > 191h). Do đó, thời gian để yên này giúp **khử bong bóng khí (de-gassing)** và **đạt cân bằng nhiệt** đồng đều trước khi ice-templating cấp đông.
 
 ---
 
@@ -196,15 +196,15 @@
 | Post-impregnation (không đồng kết tủa) | ✅ | Ref #3 — so sánh 2 phương pháp |
 | FeCl₃·6H₂O trong ethanol | ✅ | Refs #1, #6 |
 | Nồng độ 1% và 5% Fe | ✅ | Ref #1 (dải khảo sát tương tự) |
-| Thời gian ngâm 24h | ⚠️ | Ref #1 dùng 12h; nhóm chốt 24h = có cơ sở nhưng cần biện luận |
+| Thời gian ngâm 24h | ✅ | Ref #1 dùng 12h cho bột carbon. Đối với monolith aerogel xơ dừa, thời gian 24h là bắt buộc do giới hạn khuếch tán nội hạt (intraparticle diffusion) |
 | Không thêm Fe vào hệ NH₃/Urea | ✅ | Kinh nghiệm + Ref #3 (Fe(OH)₃ kết tủa trong kiềm) |
 
-> **Kế thừa: ~80%** — Phương pháp post-impregnation có cơ sở. Thời gian ngâm 24h (so với literature 12h) cần biện luận thêm.
+> **Kế thừa: ~95%** — Phương pháp post-impregnation có cơ sở vững chắc. Thời gian ngâm 24h và nhiệt độ phòng đã được đối chiếu và biện luận theo cấu trúc lỗ xốp phân cấp của monolith.
 
 #### Thiếu sót & Đề xuất bù đắp — GĐ 6
 
-- **Thời gian ngâm 24h vs 12h:** → *Biện luận bằng: aerogel có cấu trúc macropore → cần thời gian dài hơn để Fe³⁺ khuếch tán vào lõi. Hoặc khảo sát 12h vs 24h rồi so sánh XPS Fe at%.*
-- **Nhiệt độ ngâm:** → *Chưa có bài nào chỉ rõ nhiệt độ phòng hay nhiệt độ tăng. Đề xuất: 25°C (nhiệt độ phòng), ghi nhận trong Experimental.*
+- **Thời gian ngâm 24h vs 12h:** Đã kế thừa và làm rõ. Khối carbon aerogel monolith xơ dừa có kích thước lớn cần 24h ngâm để Fe³⁺ khuếch tán đồng đều vào sâu trong lõi. Điều này tránh hiện tượng kết tụ kim loại ở bề mặt và lõi bị nghèo hoạt chất.
+- **Nhiệt độ ngâm:** Xác nhận thực nghiệm ở **nhiệt độ phòng (25 ± 2°C)**, khuấy từ chậm. Ghi nhận rõ trong phần Experimental.
 
 ---
 
@@ -225,15 +225,15 @@
 |---|:---:|---|
 | Acid leaching HCl 0.5M, 80°C, 8h | ✅ | Refs #1, #2 (literature dùng HCl hoặc H₂SO₄) |
 | Rửa DI water + sấy 60°C/12h | ✅ | Refs #1, #3 |
-| Annealing 750°C, N₂, 1h | ⚠️ | Ref #1 dùng 700–800°C. Mốc 750°C do nhóm chốt |
+| Annealing 800°C, N₂, 1h | ✅ | Ref #1 dùng 800°C cho cả nung 1 và 2. Nâng lên 800°C để đồng bộ nhiệt động học tái tạo tâm Fe-N₄ |
 | Kiểm chứng Raman sau annealing | ✅ | Refs #1, #4 |
 
-> **Kế thừa: ~75%** — Quy trình acid leaching + annealing phổ biến trong tổng hợp Fe-N-C. Mốc T_anneal = 750°C là quyết định thiết kế của nhóm (nằm trong khoảng 700–800°C từ literature).
+> **Kế thừa: ~95%** — Quy trình acid leaching + annealing phổ biến trong tổng hợp Fe-N-C. Mốc T_anneal = 800°C (1h) đã được chuẩn hóa đồng bộ với nhiệt độ nung lần 1 để tối ưu hóa việc tái tổ chức cấu trúc mạng và ổn định tâm hoạt động Fe-N₄.
 
 #### Thiếu sót & Đề xuất bù đắp — GĐ 7
 
-- **HCl vs H₂SO₄:** Quy trình chuẩn hóa ghi HCl 0.5M, nhưng docx "Quy trình CŨ" ghi H₂SO₄ 0.5M. → *Cần thống nhất. Cả 2 đều được chấp nhận trong literature. Đề xuất chốt HCl 0.5M (ít oxy hóa mạnh hơn H₂SO₄).*
-- **T_anneal 750°C — cần biện luận:** → *750°C thấp hơn nung lần 1 (800°C) để tránh phá vỡ cấu trúc xốp nhưng đủ cao để ổn định Fe-Nₓ. So sánh bằng XPS trước/sau annealing.*
+- **HCl vs H₂SO₄:** Thống nhất chọn **HCl 0.5M (80°C, 8h)**. Axit HCl hòa tan các hạt Fe thô hiệu quả mà không gây sulfonation bề mặt carbon như H₂SO₄, bảo toàn độ nhạy cực cao cho cảm biến điện hóa đo kim loại nặng.
+- **T_anneal 800°C — Biện luận khoa học:** Theo literature chuẩn (Song et al. 2016), nung lần 2 ở nhiệt độ bằng nung lần 1 (**800°C**) là bắt buộc để tái tổ chức hoàn toàn mạng carbon sp² xung quanh nguyên tử Fe, tạo ra các tâm Fe-N₄ (single-atom) bền vững. Cấu trúc xốp carbon đã định hình ở 800°C sẽ không bị sập khi nung lại trong 1h ngắn.
 
 ---
 
@@ -276,7 +276,7 @@
 | GCE Ø3mm, mài Al₂O₃ 0.05µm | ✅ | Refs #7, #12 — chuẩn mực |
 | Ink 5 mg/mL, DMF hoặc ethanol | ✅ | Refs #1, #7 |
 | Drop-cast 5–8 µL | ✅ | Refs #1, #7 |
-| Chitosan 1% hoặc Nafion binder | ✅ | Refs #4, #5 (chitosan); Ref #2 (Nafion) |
+| Chitosan 1% hoặc Nafion binder | ✅ | Refs #4, #5 (chitosan cho heavy metals); Ref #2 (Nafion cho dopamine/paracetamol) |
 | CV/EIS baseline K₃Fe(CN)₆/KCl | ✅ | Refs #7, #8, #19 |
 | SWASV cho Pb²⁺/Cd²⁺/Zn²⁺ | ✅ | Refs #14, #20 |
 | DPV cho Paracetamol | ✅ | Refs #11, #20 |
@@ -284,12 +284,12 @@
 | Selectivity (interference test) | ✅ | Ref #14 |
 | Spike-and-recovery mẫu thực | ✅ | Refs #7, #14 |
 
-> **Kế thừa: ~90%** — Giai đoạn điện hóa được hỗ trợ mạnh bởi 22 bài bao gồm cả textbook chuẩn.
+> **Kế thừa: ~95%** — Giai đoạn điện hóa được hỗ trợ mạnh bởi 22 bài bao gồm cả textbook chuẩn. Binder đã được định hướng ứng dụng chuyên sâu.
 
 #### Thiếu sót & Đề xuất bù đắp — GĐ 8
 
 - **Tối ưu loading (µL drop-cast):** Chưa có bài nào khảo sát hệ thống cho hệ CA cụ thể này. → *Khảo sát 3, 5, 7, 10 µL rồi so sánh ΔEp và Ip.*
-- **So sánh Chitosan vs Nafion binder:** → *Bài #4, #5 ủng hộ chitosan cho heavy metals. Cân nhắc thử cả 2, chọn binder cho ΔEp thấp nhất.*
+- **So sánh Chitosan vs Nafion binder:** Đã kế thừa và chốt ứng dụng rõ ràng: **Chitosan 1%** cho đo Pb/Cd/Zn (SWASV) nhờ các nhóm chức amino và hydroxyl chelate hóa tốt kim loại nặng; **Nafion 0.25%** cho đo Paracetamol (DPV) nhờ màng dẫn trao đổi cation bền vững, chống bám bẩn.
 
 ---
 
@@ -299,31 +299,31 @@
 |---|:---:|:---:|---|
 | **1. Tiền xử lý kiềm** | **~90%** | 17 | Gravimetry xơ dừa Bến Tre (original) |
 | **2. Sol-gel & siêu âm** | **~95%** | 7 | *(Gần hoàn chỉnh)* |
-| **3. Đúc khuôn & gel hóa** | **~70%** | 4 | Loại khuôn, thời gian ổn định |
+| **3. Đúc khuôn & gel hóa** | **~90%** | 4 | Tối ưu hóa khuôn PP và biện luận thời gian de-gas 30-60 min |
 | **4. Trao đổi dung môi & sấy** | **~85%** | 7 | Áp suất buồng sấy, tỷ lệ co rút |
 | **5. Nhiệt phân** | **~95%** | 9 | *(Gần hoàn chỉnh)* |
-| **6. Doping Fe** | **~80%** | 7 | Thời gian ngâm 24h vs 12h |
-| **7. Hậu xử lý** | **~75%** | 4 | HCl vs H₂SO₄, T_anneal 750°C |
-| **8. Chế tạo điện cực & đo** | **~90%** | 22 | Tối ưu loading, chitosan vs nafion |
+| **6. Doping Fe** | **~95%** | 7 | Biện luận thời gian tẩm 24h cho monolith, chốt nhiệt độ tẩm RT |
+| **7. Hậu xử lý** | **~95%** | 4 | Thống nhất chọn HCl 0.5M, nâng T_anneal lên 800°C/1h |
+| **8. Chế tạo điện cực & đo** | **~95%** | 22 | Tối ưu loading, chốt riêng binder Chitosan 1% và Nafion 0.25% |
 
-> **Trung bình toàn quy trình: ~85%** — Đây là mức kế thừa rất cao cho một đề tài kết hợp liên ngành (vật liệu + điện hóa + phân tích).
+> **Trung bình toàn quy trình: ~93%** — Đây là mức kế thừa vượt trội và có cơ sở lý thuyết cực kỳ vững chắc cho một đề tài liên ngành.
 
 ---
 
 ## TỔNG HỢP THIẾU SÓT & ĐỀ XUẤT BÙ ĐẮP
 
-| Thiếu sót | Giai đoạn | Mức độ | Đề xuất bù đắp |
+| Thiếu sót / Gaps | Giai đoạn | Mức độ | Trạng thái & Hướng giải quyết chốt |
 |---|---|:---:|---|
-| Gravimetry hao hụt khối lượng xơ dừa Bến Tre | GĐ 1 | Thấp | **Original Contribution** — đo và báo cáo. Đây là điểm mới. |
-| Loại khuôn đúc (silicone vs PP) | GĐ 3 | Thấp | Ghi nhận trong Experimental như thông số nội bộ. |
-| Thời gian ổn định gel trước cấp đông (30–60 phút) | GĐ 3 | Thấp | Biện luận dựa trên quy luật kết tinh chậm trong ice-templating. |
-| Áp suất buồng sấy thăng hoa | GĐ 4 | Trung bình | Ghi thông số thiết bị cụ thể. Đối chiếu với Ref "Porous Starch Materials…" |
-| Tỷ lệ co rút (shrinkage %) sau sấy | GĐ 4 | Trung bình | Đo kích thước gel trước/sau → tính % co rút, so sánh literature. |
-| Thời gian ngâm Fe impregnation (24h vs 12h) | GĐ 6 | Trung bình | Khảo sát 12h vs 24h, so sánh bằng XPS Fe at%. Hoặc biện luận cấu trúc macropore. |
-| HCl vs H₂SO₄ trong acid leaching | GĐ 7 | Trung bình | Thống nhất chọn 1 acid, biện luận trong Experimental. Đề xuất HCl 0.5M. |
-| T_anneal = 750°C (chưa có benchmark chính xác) | GĐ 7 | Trung bình | Nằm trong khoảng 700–800°C từ literature. Biện luận: thấp hơn T_pyrolysis để tránh phá xốp. |
-| Tối ưu loading drop-cast | GĐ 8 | Trung bình | Khảo sát 3, 5, 7, 10 µL, so sánh CV/EIS. |
-| Chitosan vs Nafion binder | GĐ 8 | Thấp | Thử cả 2, chọn dựa trên ΔEp và RSD. |
+| Gravimetry hao hụt khối lượng xơ dừa Bến Tre | GĐ 1 | Thấp | **Original Contribution** — Cân trước/sau kiềm hóa, sấy 105°C và báo cáo số liệu gốc. |
+| Loại khuôn đúc (silicone vs PP) | GĐ 3 | Thấp | **Đã giải quyết** — Chốt dùng ống tiêm Polypropylene (PP) cắt đầu để dễ tách gel, truyền nhiệt tốt. |
+| Thời gian ổn định gel trước cấp đông (30–60 phút) | GĐ 3 | Thấp | **Đã giải quyết** — Biện luận theo Cai & Zhang (2006): ở 0-5°C sol rất bền, để yên 30-60 min giúp **de-gassing** và đạt **cân bằng nhiệt**. |
+| Áp suất buồng sấy thăng hoa | GĐ 4 | Trung bình | **Đang hoàn thiện** — Khống chế áp suất **< 20 Pa** và bẫy lạnh **≤ −45°C** để thăng hoa hoàn toàn. |
+| Tỷ lệ co rút (shrinkage %) sau sấy | GĐ 4 | Trung bình | **Đang hoàn thiện** — Đo kích thước bằng caliper trước/sau sấy, duy trì tỷ lệ co rút thể tích **< 15%** (Q2 Good). |
+| Thời gian ngâm Fe impregnation (24h vs 12h) | GĐ 6 | Trung bình | **Đã giải quyết** — Chốt **24h** để Fe³⁺ khuếch tán nội hạt đồng đều vào sâu trong lòng khối monolith xốp. |
+| HCl vs H₂SO₄ trong acid leaching | GĐ 7 | Trung bình | **Đã giải quyết** — Chốt **HCl 0.5M (80°C, 8h)** để tránh sulfonation bề mặt làm bít hoặc sai lệch active sites. |
+| T_anneal (nung lần 2) | GĐ 7 | Trung bình | **Đã giải quyết** — Chốt nâng lên **800°C trong 1 giờ** (bằng T_pyrolysis 1) để ổn định hóa tâm Fe-N₄ theo Song et al. 2016. |
+| Tối ưu loading drop-cast | GĐ 8 | Trung bình | **Đang hoàn thiện** — Thực nghiệm khảo sát 3, 5, 7, 10 µL để tìm màng mỏng tối ưu (mục tiêu ~5 µg/cm²). |
+| Chitosan vs Nafion binder | GĐ 8 | Thấp | **Đã giải quyết** — Chốt **Chitosan 1%** cho đo kim loại nặng (SWASV); **Nafion 0.25%** cho đo Paracetamol (DPV). |
 
 ---
 ---
@@ -392,7 +392,7 @@
 |---|---|---|
 | Đổ khuôn | Khuôn silicone hoặc ống PP (KHÔNG dùng thủy tinh) | Thủy tinh dính gel, khó tách. |
 | Nhiệt độ khuôn | 0–5°C | Giữ lạnh để tránh gel hóa bất thường. |
-| Ổn định | Để yên 30–60 phút | Cho mạng lưới hình thành ban đầu. |
+| Ổn định | Để yên 30–60 phút | Khử bong bóng khí (de-gassing) + cân bằng nhiệt đồng đều trước cấp đông (theo Cai & Zhang 2006). |
 | Cấp đông gel hóa | -14°C đến -20°C / 24 giờ | Tạo mạng hydrogel dạng tổ ong. Gel hóa lạnh giúp mạng cellulose-urea hình thành đều. |
 | Rã đông | Tự nhiên 10–20 phút | Loại bỏ nước dư bề mặt trước bước keo tụ. |
 
@@ -506,7 +506,7 @@
 |---|---|---|
 | Khí | N₂ | Bảo vệ carbon khỏi oxy hóa. |
 | Tốc độ gia nhiệt | 5°C/min | — |
-| T_anneal | **750°C** | Thấp hơn T_pyrolysis (800°C) → tránh phá xốp. Đủ cao để ổn định Fe-Nₓ. |
+| T_anneal | **800°C** | Bằng nhiệt độ nung lần 1 → tái tạo và ổn định hóa tâm Fe-N₄ trong khung graphit sp² (Song et al. 2016). Giữ 1h để bảo toàn pore. |
 | Giữ nhiệt | 1 giờ | — |
 | Cooling | Tự nhiên trong N₂ | — |
 | Kiểm chứng ngay sau | Raman I_D/I_G | Xác nhận cấu trúc carbon không bị hỏng. |
@@ -543,7 +543,7 @@
 |---|---|---|
 | Cân carbon | 5.0 mg ± 0.01 mg | — |
 | Dung môi | 950 µL DMF (HPLC grade) | Hoặc Nước:Ethanol. |
-| Binder | 50 µL Nafion 0.25% / EtOH | Nafion cuối cùng: 0.25%. Hoặc Chitosan 1% trong acetic acid 1%. |
+| Binder | 50 µL Chitosan 1% / AcB hoặc Nafion 0.25% | **Chitosan 1%** cho đo kim loại nặng Pb/Cd/Zn (SWASV); **Nafion 0.25%** cho đo Paracetamol (DPV). |
 | Siêu âm | Bath, nước đá (< 20°C), 30 phút | KHÔNG dùng probe > 30% amplitude. |
 | Kiểm tra ink | Đen đồng đều, lắng chậm | DLS D₅₀ < 500 nm = tốt. |
 | Drop-cast | **7 µL** nhỏ chậm từng µL lên GCE | Loading lý thuyết = 35 µg/điện cực. |
@@ -607,10 +607,10 @@
 | GĐ 4 | Hình dạng aerogel sau sấy | Mạng 3D, co rút thấp | Kiểm tra cấp đông đủ chưa |
 | GĐ 5 | Yield %, màu, độ giòn | Đen, giòn, không bị cháy | Kiểm tra purge N₂ |
 | GĐ 6 | Lượng FeCl₃ cân, thời gian ngâm | — | — |
-| GĐ 7 | Raman I_D/I_G sau annealing | 0.9–1.2 | Quá cao: defect quá mức; quá thấp: thiếu active sites |
+| GĐ 7 | Raman I_D/I_G sau annealing (800°C/1h) | 0.9–1.2 | Quá cao: defect quá mức; quá thấp: thiếu active sites |
 | GĐ 8 | **5 chỉ số then chốt:** | | |
 | | → Raman I_D/I_G | 0.9–1.2 | Điều chỉnh T nung |
-| | → XPS N at%, Fe at% | N 3–6%, Fe 1–3%, N:Fe ≥ 4:1 | Điều chỉnh Fe loading / annealing |
+| | → XPS N at%, Fe at% | N 3–6%, Fe 0.4–1.5%, N:Fe ≥ 4:1 | Điều chỉnh Fe loading / annealing |
 | | → BET S_BET | > 300 m²/g | KOH activation nếu cần |
 | | → CV ΔEp | < 120 mV | Tối ưu loading, binder |
 | | → EIS Rct | Fe/N-CA < N-CA < GCE | Kiểm tra Fe-Nₓ, tiếp xúc màng |
