@@ -12,6 +12,23 @@
 			},
 			"gallery": "https://api.mcp.github.com",
 			"version": "1.0.4"
+		},
+		"python-mcp": {
+			"type": "stdio",
+			"command": "C:/Users/ADMIN/AppData/Local/Programs/Python/Python312/python.exe",
+			"args": [
+				"-m",
+				"modelcontextprotocol.server.python"
+			]
+		},
+		"filesystem": {
+			"type": "stdio",
+			"command": "npx.cmd",
+			"args": [
+				"-y",
+				"@modelcontextprotocol/server-filesystem",
+				"d:\\1 Master of Analytical Chemistry\\1 Master's thesis\\Carbon Aerogel"
+			]
 		}
 	},
 	"inputs": [
