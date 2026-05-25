@@ -10,3 +10,7 @@ __pycache__/
 .venv
 env/
 venv/
+
+# Bỏ qua các tệp/thư mục tạm thời sinh ra từ script convert PDF
+_temp_*
+
