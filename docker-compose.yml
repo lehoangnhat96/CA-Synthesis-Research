@@ -1,0 +1,33 @@
+services:
+  pdf-processor:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: ca-pdf-processor
+    working_dir: /app
+    volumes:
+      - ./:/app
+      - cache_volume:/app/__pycache__
+    environment:
+      - PYTHONUNBUFFERED=1
+      - PYTHONIOENCODING=utf-8
+    command: convert_pdfs.py
+    restart: "no"
+
+  classifier:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: ca-classifier
+    working_dir: /app
+    volumes:
+      - ./:/app
+    environment:
+      - PYTHONUNBUFFERED=1
+    command: classify_all_auto.py
+    depends_on:
+      - pdf-processor
+    restart: "no"
+
+volumes:
+  cache_volume:
