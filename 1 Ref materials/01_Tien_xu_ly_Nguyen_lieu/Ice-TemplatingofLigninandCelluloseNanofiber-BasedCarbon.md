@@ -1,19 +1,19 @@
 Article 
 
 
-![](Ice-TemplatingofLigninandCelluloseNanofiber-BasedCarbon_images/image-0001-03.png)
+![](_temp_914b3326_convert__images/_temp_914b3326_convert_.pdf-0001-03.png)
 
 
 
-![](Ice-TemplatingofLigninandCelluloseNanofiber-BasedCarbon_images/image-0001-04.png)
+![](_temp_914b3326_convert__images/_temp_914b3326_convert_.pdf-0001-04.png)
 
 
 
-![](Ice-TemplatingofLigninandCelluloseNanofiber-BasedCarbon_images/image-0001-05.png)
+![](_temp_914b3326_convert__images/_temp_914b3326_convert_.pdf-0001-05.png)
 
 
 
-![](Ice-TemplatingofLigninandCelluloseNanofiber-BasedCarbon_images/image-0001-06.png)
+![](_temp_914b3326_convert__images/_temp_914b3326_convert_.pdf-0001-06.png)
 
 
 www.acsanm.org 
@@ -29,7 +29,7 @@ Cite This: ACS Appl. Nano Mater. 2022, 5, 7954−7966 Read Online
 Metrics & More Article Recommendations *sı Supporting Information 
 
 
-![](Ice-TemplatingofLigninandCelluloseNanofiber-BasedCarbon_images/image-0001-13.png)
+![](_temp_914b3326_convert__images/_temp_914b3326_convert_.pdf-0001-13.png)
 
 
 ABSTRACT: Hierarchically porous carbon aerogels (CAs) were synthesized by following a green, facile preparation route involving ice-templating and lyophilization followed by carbonization. For the first time, we report CAs prepared with a cooling rate of 7.5 K/ min, demonstrating a very high specific surface area (SSA) of 1260 m[2] g[−][1] without any physical or chemical activation steps, and the electrode prepared using the latter aerogel showed superior electrochemical performance with a specific capacitance of 410 F g[−][1] at 2 m V s[−][1] with a cyclic stability of 94% after 4500 charge−discharge cycles. The effects of the ice-templating cooling rate and the solid content of lignin and cellulose nanofibers (CNFs) in the suspension on the structure and electrochemical performance of the CAs were investigated. The ice-templating process and the cooling rate were found to have a large effect on the generation of the nanoporous structure and the specific surface area of carbon aerogels, while the solid content of the lignin-nanocellulose suspension showed negligible effects. When assembled as a supercapacitor (SC), a remarkable specific capacitance of 240 F g[−][1] at 0.1 A g[−][1] was achieved. The relaxation time constant for the prepared SC was 1.3 s, which shows the fast response of these SCs. In addition, an energy density of 4.3 Wh kg[−][1] was also obtained at a power density of 500 W kg[−][1] . Thus, this study opens new perspectives for the preparation of green, environment-friendly, free-standing, high-performance CA electrodes for future energy storage applications. KEYWORDS: carbon aerogels, ice-templating, nanoporous structure, supercapacitors, specific capacitance 
@@ -43,7 +43,7 @@ chemical activation steps for generating high SSA.[7][,][8] With the increasing 
 One of the recent advancements for efficiently isolating lignin from black liquor is the invention of the LignoBoost process, which offers lignin with high purity, high yield, and 
 
 
-![](Ice-TemplatingofLigninandCelluloseNanofiber-BasedCarbon_images/image-0001-19.png)
+![](_temp_914b3326_convert__images/_temp_914b3326_convert_.pdf-0001-19.png)
 
 
 Received: March 9, 2022 Accepted: May 10, 2022 Published: May 24, 2022 
@@ -94,7 +94,7 @@ Article
 www.acsanm.org 
 
 
-![](Ice-TemplatingofLigninandCelluloseNanofiber-BasedCarbon_images/image-0003-03.png)
+![](_temp_914b3326_convert__images/_temp_914b3326_convert_.pdf-0003-03.png)
 
 
 Figure 1. Schematic representation of various processes involved in the preparation of CAs. 
@@ -114,13 +114,13 @@ The viscosity of L/CNF suspensions was measured using a constant shear rate vibr
 The carbon yield of the L/CNF aerogels was determined by dividing the mass of the carbon aerogel obtained after carbonization with the mass of L/CNF aerogels before carbonization. Porosity of the carbon aerogels was measured using eq 1, where ρb is the bulk density of CA and ρc is the density of amorphous carbon (2.26 g/ cm[3] ).[23] 
 
 
-![](Ice-TemplatingofLigninandCelluloseNanofiber-BasedCarbon_images/image-0003-12.png)
+![](_temp_914b3326_convert__images/_temp_914b3326_convert_.pdf-0003-12.png)
 
 
 Bulk density was calculated by dividing the mass of CAs with their bulk volume. Bulk volume was obtained by measuring the physical dimensions of CAs. Volume shrinkage during the carbonization process was estimated using eq 2 
 
 
-![](Ice-TemplatingofLigninandCelluloseNanofiber-BasedCarbon_images/image-0003-14.png)
+![](_temp_914b3326_convert__images/_temp_914b3326_convert_.pdf-0003-14.png)
 
 
 where Vi and Vf are the initial volume before and the final volume after carbonization, respectively. 
@@ -140,7 +140,7 @@ Article
 www.acsanm.org 
 
 
-![](Ice-TemplatingofLigninandCelluloseNanofiber-BasedCarbon_images/image-0004-03.png)
+![](_temp_914b3326_convert__images/_temp_914b3326_convert_.pdf-0004-03.png)
 
 
 Figure 2. (a) AFM height image for CNFs, (b) viscosity of aqueous L/CNF suspensions measured at around 22 °C, (c) thermal behavior of L and CNFs in similar conditions used for the carbonization process, and (d) carbon yield obtained after carbonization of the L/CNF aerogels at 1000 °C. 
@@ -154,7 +154,7 @@ X-ray microtomography (XMT) technique was used for the quantitative microstructu
 Orientation of CNFs in the L/CNF aerogels was studied in the MAX IV synchrotron laboratory (Lund, Sweden) using a NanoMAX beamline, based on the diffractogram of the cellulose crystals. A photon energy of 10 keV was used, which corresponds to a wavelength of 0.123984 nm. The beam size was 250 × 250 nm[2] , and a sample area of 80 × 40 μm[2] was analyzed in a single scan. The obtained scattering vector q was converted to the scattering angle 2θ using eq 3. 
 
 
-![](Ice-TemplatingofLigninandCelluloseNanofiber-BasedCarbon_images/image-0004-09.png)
+![](_temp_914b3326_convert__images/_temp_914b3326_convert_.pdf-0004-09.png)
 
 
 where λ is the wavelength of the X-ray beam. 
@@ -162,7 +162,7 @@ where λ is the wavelength of the X-ray beam.
 Princeton Applied Research VerstaSTAT 3 potentiostat/galvanostat (AMETEK Scientific Instruments, Wokingham, U.K.) connected with a three-electrode cell kit (Pine Research Instrumentation, Durham, NC) was used for electrochemical analysis of the CAs. Platinum was used as the counter electrode, and Ag/AgCl was used as the reference electrode. The electrolyte was 1 M sulfuric acid (H2SO4). Cyclic voltammetry (CV) measurements were done at different scan rates ranging from 2 to 100 mV s[−][1] in the voltage window of 0−1 V. Specific capacitance from CV measurements was calculated using eq 4 
 
 
-![](Ice-TemplatingofLigninandCelluloseNanofiber-BasedCarbon_images/image-0004-12.png)
+![](_temp_914b3326_convert__images/_temp_914b3326_convert_.pdf-0004-12.png)
 
 
 where C is the specific capacitance in F g[−][1] , m is the mass of active materials loaded as the working electrode in mg, I (A) is the discharge current, v (mV s[−][1] ) is the scan rate, and V1 (V) and V2 (V) are the lower and upper limits of the voltage window used in the CV test, respectively. 
@@ -170,7 +170,7 @@ where C is the specific capacitance in F g[−][1] , m is the mass of active mat
 Galvanostatic charge−discharge (GCD) measurements were performed to evaluate the rate capabilities of CAs in the current densities ranging from 0.1 to 1 A g[−][1] . Specific capacitance from GCD was calculated using eq 5 
 
 
-![](Ice-TemplatingofLigninandCelluloseNanofiber-BasedCarbon_images/image-0004-15.png)
+![](_temp_914b3326_convert__images/_temp_914b3326_convert_.pdf-0004-15.png)
 
 
 where C (F g[−][1] ) is the specific capacitance, I (A) is the discharge current, Δt (s) is the discharge time, ΔV (V) is the potential window, and m (mg) is the total mass of the electrode material. 
@@ -178,7 +178,7 @@ where C (F g[−][1] ) is the specific capacitance, I (A) is the discharge curre
 Specific energy density (E) and specific power density (P) derived from galvanostatic tests can be calculated from eqs 6 and 7 
 
 
-![](Ice-TemplatingofLigninandCelluloseNanofiber-BasedCarbon_images/image-0004-18.png)
+![](_temp_914b3326_convert__images/_temp_914b3326_convert_.pdf-0004-18.png)
 
 
 7957 
@@ -192,7 +192,7 @@ Article
 www.acsanm.org 
 
 
-![](Ice-TemplatingofLigninandCelluloseNanofiber-BasedCarbon_images/image-0005-03.png)
+![](_temp_914b3326_convert__images/_temp_914b3326_convert_.pdf-0005-03.png)
 
 
 Figure 3. (a) N2 adsorption isotherms of CAs prepared with different ice-templating cooling rates; (b) pore-size distribution for corresponding CAs; (c) specific surface area of CAs; and (d) Raman spectrum for C7.5W7. 
@@ -236,7 +236,7 @@ Table 2. Results from BET Analysis[a]
 > aSpecific surface area (SSA), contribution of micropores to SSA, combined SSA by mesopores and macropores, pore volume, average pore diameter, and percentage micropore SSA of the total SSA. 
 
 
-![](Ice-TemplatingofLigninandCelluloseNanofiber-BasedCarbon_images/image-0006-05.png)
+![](_temp_914b3326_convert__images/_temp_914b3326_convert_.pdf-0006-05.png)
 
 
 Figure 4. SEM images of L/CNF CAs at different ice-templating cooling rates of 10, 7.5, and 5 K/min. (a) Transverse cross section (perpendicular to the direction of ice crystal growth during ice-templating) and (b) longitudinal section of CAs (parallel to the direction of crystal growth during ice-templating). 
@@ -262,7 +262,7 @@ Article
 www.acsanm.org 
 
 
-![](Ice-TemplatingofLigninandCelluloseNanofiber-BasedCarbon_images/image-0007-03.png)
+![](_temp_914b3326_convert__images/_temp_914b3326_convert_.pdf-0007-03.png)
 
 
 Figure 5. (a) Longitudinal section of C7.5W7. (b) Magnified images of the cell-wall microstructure showing the presence of wrinkled layers in nanodimensions. (c) Enlarged view of the wrinkles circled in Figure 4b. 
@@ -300,7 +300,7 @@ ACS Applied Nano Materials
 Article 
 
 
-![](Ice-TemplatingofLigninandCelluloseNanofiber-BasedCarbon_images/image-0008-02.png)
+![](_temp_914b3326_convert__images/_temp_914b3326_convert_.pdf-0008-02.png)
 
 
 **----- Start of picture text -----**<br>
@@ -308,7 +308,7 @@ www.acsanm.org<br>**----- End of picture text -----**<br>
 
 
 
-![](Ice-TemplatingofLigninandCelluloseNanofiber-BasedCarbon_images/image-0008-03.png)
+![](_temp_914b3326_convert__images/_temp_914b3326_convert_.pdf-0008-03.png)
 
 
 Figure 6. Three-dimensional X-ray microtomography results for CAs prepared using different ice-templating cooling rates (10, 7.5, 5 K/min). (a) Experimental setup of the XMT-scanning showing the Zeiss Xradia 510 Versa system, a close-up of the carbon foam sample, and the position and dimension of the reconstructed ROI within the sample; (b) 3D reconstruction of CAs (c) and (d) 2D slices of the CAs in the transverse and longitudinal sections, respectively. 
@@ -332,7 +332,7 @@ Article
 www.acsanm.org 
 
 
-![](Ice-TemplatingofLigninandCelluloseNanofiber-BasedCarbon_images/image-0009-03.png)
+![](_temp_914b3326_convert__images/_temp_914b3326_convert_.pdf-0009-03.png)
 
 
 Figure 7. Electrochemical behavior of CAs obtained from the three-electrode method. (a, b) Comparison of CVs (scan rate 5 mV s[−][1] ) and GCDs (current density 0.1 A g[−][1] ) obtained for CAs prepared using different ice-templating cooling rates. (c, d) CVs and GCDs of best-performing C7.5W7 at different scan rates and current densities, respectively. (e, f) Specific capacitances (F g[−][1] ) of CAs at different scan rates and current densities obtained from CV and GCD analyses. 
@@ -350,7 +350,7 @@ https://doi.org/10.1021/acsanm.2c01033 ACS Appl. Nano Mater. 2022, 5, 7954−796
 ACS Applied Nano Materials 
 
 
-![](Ice-TemplatingofLigninandCelluloseNanofiber-BasedCarbon_images/image-0010-01.png)
+![](_temp_914b3326_convert__images/_temp_914b3326_convert_.pdf-0010-01.png)
 
 
 **----- Start of picture text -----**<br>
@@ -358,13 +358,13 @@ www.acsanm.org Article<br>**----- End of picture text -----**<br>
 
 
 
-![](Ice-TemplatingofLigninandCelluloseNanofiber-BasedCarbon_images/image-0010-02.png)
+![](_temp_914b3326_convert__images/_temp_914b3326_convert_.pdf-0010-02.png)
 
 
 Figure 8. Electrochemical behavior of the C7.5W7 analyzed using the two-electrode method. (a) Images showing the actual dimensions of the electrode used for the study and its wettability in 1 M H2SO4. (b, c) CVs and GCDs for the CA materials at different scan rates and current densities. (d) Specific capacitance obtained for the CA electrode at different current densities. (e) Ragone plot showing the energy density of CA at different power densities. (f) Comparison of the specific capacitance vs SSA for C7.5W7 with the already-reported carbon-based SC electrodes. 
 
 
-![](Ice-TemplatingofLigninandCelluloseNanofiber-BasedCarbon_images/image-0010-04.png)
+![](_temp_914b3326_convert__images/_temp_914b3326_convert_.pdf-0010-04.png)
 
 
 Figure 9. Electrochemical impedance spectroscopy (EIS) results obtained from the two-electrode analysis for C7.5W7. (a) Nyquist plot of CA in the frequency range between 10−2 and 105 Hz. (b) Variation of absolute impedance |Z| (Ohm) vs frequency (Hz). (c) Bode plot showing the characteristic frequency (f 0). Evolution of real (d) and imaginary (e) capacitance with respect to the frequency. (f) Cyclic stability of the electrode up to 4500 charge−discharge cycles measured using the three-electrode system, and the inset showing the charge−discharge cycles during GCD analysis from 4475 to 4500 cycles. 
@@ -534,7 +534,7 @@ www.acsanm.org
 (41) Sun, X.; Cheng, P.; Wang, H.; Xu, H.; Dang, L.; Liu, Z.; Lei, Z. Activation of Graphene Aerogel with Phosphoric Acid for Enhanced Electrocapacitive Performance. Carbon 2015, 92, 1−10. 
 
 
-![](Ice-TemplatingofLigninandCelluloseNanofiber-BasedCarbon_images/image-0013-05.png)
+![](_temp_914b3326_convert__images/_temp_914b3326_convert_.pdf-0013-05.png)
 
 
 7966 

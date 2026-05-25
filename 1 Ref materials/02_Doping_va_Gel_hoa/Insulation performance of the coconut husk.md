@@ -1,7 +1,7 @@
 IOP Conference Series: Earth and Environmental Science 
 
 
-![](Insulation performance of the coconut husk_images/image-0001-01.png)
+![](_temp_6af8d228_convert__images/_temp_6af8d228_convert_.pdf-0001-01.png)
 
 
 ## **PAPER • OPEN ACCESS** 
@@ -113,15 +113,15 @@ doi:10.1088/1755-1315/1548/1/012017
 SEM-EDX analysis was employed in evaluating the aerogel’s microporosity composed of coconut husk. This combined analytical approach offering essential insight to assess the material's potential as an efficient thermal insulator. It has been discovered that a non-uniform but connected porous structure is depicted in SEM images at 100x and 500x resolution of figures 1 (a) and (b), demonstrating good thermal insulation features. The role of sodium alginate, which promotes cross-linking inside the coconut husk matrix during gel formation and creates a more stable and porous network, influences this structure (Cao et al., 2021). The EDX data in table 1 further confirm the elemental uniformity and successful integration of the components, with the table presenting the composition of coconut husk and coconut husk aerogel. 
 
 
-![](Insulation performance of the coconut husk_images/image-0005-08.png)
+![](_temp_6af8d228_convert__images/_temp_6af8d228_convert_.pdf-0005-08.png)
 
 
 
-![](Insulation performance of the coconut husk_images/image-0005-09.png)
+![](_temp_6af8d228_convert__images/_temp_6af8d228_convert_.pdf-0005-09.png)
 
 
 
-![](Insulation performance of the coconut husk_images/image-0005-10.png)
+![](_temp_6af8d228_convert__images/_temp_6af8d228_convert_.pdf-0005-10.png)
 
 
 **----- Start of picture text -----**<br>
@@ -179,15 +179,15 @@ CENVIRON-2025 IOP Conf. Series: Earth and Environmental Science **1548** (2025) 
 (C=O), revealing reduced hydroxyl groups and the formation of new bonds due to interactions with phytic acid and sodium alginate (Zhang et al., 2018). The new P=O and C–O–C bonds signify structural modifications that enhance aerogel thermal resistance and moisture interaction, supporting coconut husk aerogel's potential as a stable and efficient insulating material. 
 
 
-![](Insulation performance of the coconut husk_images/image-0007-03.png)
+![](_temp_6af8d228_convert__images/_temp_6af8d228_convert_.pdf-0007-03.png)
 
 
 
-![](Insulation performance of the coconut husk_images/image-0007-04.png)
+![](_temp_6af8d228_convert__images/_temp_6af8d228_convert_.pdf-0007-04.png)
 
 
 
-![](Insulation performance of the coconut husk_images/image-0007-05.png)
+![](_temp_6af8d228_convert__images/_temp_6af8d228_convert_.pdf-0007-05.png)
 
 
 **----- Start of picture text -----**<br>
@@ -223,7 +223,7 @@ doi:10.1088/1755-1315/1548/1/012017
 Figure 3 illustrates the thermal conductivity values measured at varying coconut husk concentrations (5% to 25%) and compares them with standard benchmarks for common insulation materials. As reported by Mededji et al. (2024), wood (0.15 – 0.40 W/m.K) serves as a representative good insulator and glass wool (0.03 – 0.05 W/m.K) exemplifies an excellent thermal insulator. Overall, the coconut husk aerogel recording averagely at 0.15 W/m.K, almost half the value recorded for wood (0.40 W/m.K) resulted a significant enhancement in thermal performance. Among the samples, the 10% coconut husk composition exhibited the highest thermal conductivity of approximately 0.1937 W/m.K, exceeding the upper limit of the wood benchmark. In contrast, the 5% and 25% compositions recorded lower values at 0.1318 W/m.K and 0.1341 W/m.K, respectively, falling within the typical wood range and suggesting comparatively better insulation characteristics. The samples with 15% and 20% coconut husk demonstrated intermediate thermal conductivities of around 0.1771 W/m.K and 0.1574 W/m.K. None of the formulations approached the thermal performance of glass wool, whose benchmark remains significantly lower. 
 
 
-![](Insulation performance of the coconut husk_images/image-0008-04.png)
+![](_temp_6af8d228_convert__images/_temp_6af8d228_convert_.pdf-0008-04.png)
 
 
 **----- Start of picture text -----**<br>

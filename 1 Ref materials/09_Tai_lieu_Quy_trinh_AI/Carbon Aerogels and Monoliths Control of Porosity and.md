@@ -3,7 +3,7 @@ Review
 pubs.acs.org/cm 
 
 
-![](Carbon Aerogels and Monoliths Control of Porosity and_images/image-0001-02.png)
+![](_temp_96cfa616_convert__images/_temp_96cfa616_convert_.pdf-0001-02.png)
 
 
 ## Carbon Aerogels and Monoliths: Control of Porosity and − Nanoarchitecture via Sol Gel routes 
@@ -15,7 +15,7 @@ Department of Colloid Chemistry, Max-Planck-Institute of Colloids and Interfaces
 ABSTRACT: The synthesis of carbon aerogels by sol−gel like processes, i.e., hard templating, phase demixing, hydrothermal carbonization techniques, as well as by ionothermal syntheses are reviewed. In all these techniques, we start with a liquid reaction solution, wherecontrolled by experimental parameters and structuredirecting additivesa porous carbon material with high conductivity, high pore volume, and high specific surface area is obtained. Many of these synthesis approaches give the resulting material in simple, rather sustainable processes, and the structures can be employed directly after isolation without further activation processes. The article will discuss also some applications, such as battery and electrode materials as well as catalyst supports. 
 
 
-![](Carbon Aerogels and Monoliths Control of Porosity and_images/image-0001-07.png)
+![](_temp_96cfa616_convert__images/_temp_96cfa616_convert_.pdf-0001-07.png)
 
 
 KEYWORDS: carbon aerogels, sol−gel chemistry of carbon, hydrothermal carbonization, salt templating 
@@ -75,7 +75,7 @@ Chemistry of Materials
 Review 
 
 
-![](Carbon Aerogels and Monoliths Control of Porosity and_images/image-0003-02.png)
+![](_temp_96cfa616_convert__images/_temp_96cfa616_convert_.pdf-0003-02.png)
 
 
 Figure 1. (a, b) Photographs representing silica monoliths used as a mold (white) and nanocasting carbon (carbonized at 700 °C) replica (black). (c) SEM image of silica template at a lower magnification, (d) SEM images of nanocasting carbon (carbonized at 700 °C) replica at a lower magnification, (e) at a higher magnification, and (f) TEM image of nanocasting carbon replica. Pictures used with permission from ref 34. Copyright 2007 Wiley. 
@@ -97,7 +97,7 @@ Chemistry of Materials
 Review 
 
 
-![](Carbon Aerogels and Monoliths Control of Porosity and_images/image-0004-02.png)
+![](_temp_96cfa616_convert__images/_temp_96cfa616_convert_.pdf-0004-02.png)
 
 
 Figure 2. SEM of 3dom hard carbons; (a) low magnification illustrates the long-range order of the opals; (b) high magnification the local perfection, including the cubic interlinks between macropores. Pictures used with permission from ref 39. Copyright 2005 Wiley. 
@@ -123,13 +123,13 @@ Chemistry of Materials
 Review 
 
 
-![](Carbon Aerogels and Monoliths Control of Porosity and_images/image-0005-02.png)
+![](_temp_96cfa616_convert__images/_temp_96cfa616_convert_.pdf-0005-02.png)
 
 
 Figure 3. (a) Photograph of a polystyrene-templated monolith. Scanning electron microscopy images showing the macroporous structure of a sample carbonized at (b) 340 °C (33 wt % PS) and (c) 600 °C (66 wt % PS). (d) Hg porosimetry measurements of a sample carbonized at 340 °C (33 wt % PS). Pictures used with permission from ref 42. Copyright 2007 Wiley. 
 
 
-![](Carbon Aerogels and Monoliths Control of Porosity and_images/image-0005-04.png)
+![](_temp_96cfa616_convert__images/_temp_96cfa616_convert_.pdf-0005-04.png)
 
 
 Figure 4. Two-step reaction as precondition for resinification chemistry in (A) “classical” RF system and (B) schematic HTC system. 
@@ -149,13 +149,13 @@ Chemistry of Materials
 Review 
 
 
-![](Carbon Aerogels and Monoliths Control of Porosity and_images/image-0006-02.png)
+![](_temp_96cfa616_convert__images/_temp_96cfa616_convert_.pdf-0006-02.png)
 
 
 Figure 5. (a) Low-magnification SEM image of monolithic “Carbogel” materials after ScCO2 drying; after carbonization at T = 550 ◦C; (b, c) HR-TEM images of Carbogels prepared at 900 °C in differet magnifications. Pictures used with permission from ref 44. Copyright 2011 Royal Society of Chemistry. 
 
 
-![](Carbon Aerogels and Monoliths Control of Porosity and_images/image-0006-04.png)
+![](_temp_96cfa616_convert__images/_temp_96cfa616_convert_.pdf-0006-04.png)
 
 
 Figure 6. Borax mediated HTC aerogel monoliths and TEM images of monoliths with (a) 150, (b) 300, and (c) 600 mg borax in the recipe. 
@@ -171,7 +171,7 @@ The TEM images (Figure 6, right) show the typical boraxmediated aerogel morpholo
 The primary aerogels obtained after HTC at 180 °C contained around 65 wt % carbon and can therefore be classified as “organic” aerogels. In order to obtain carbon aerogels with an increased conductivity and material stability, postcarbonization at 900 °C was carried out. These carbon aerogels contained around 90 wt % carbon and have retained their relative heteroatom content after pyrolysis. The electronic conductivity of all those samples was rather high, while the conductivity increases with increasing particle size. Their use in electrocatalytic applications is discussed below in the application paragraph. 
 
 
-![](Carbon Aerogels and Monoliths Control of Porosity and_images/image-0006-11.png)
+![](_temp_96cfa616_convert__images/_temp_96cfa616_convert_.pdf-0006-11.png)
 
 
 Figure 7. SEM micrographs of carbonaceous materials obtained from reaction mixtures of glucose, water, and zinc chloride using highly diluted (left) and hypersaline (right) conditions. (c) TEM picture of a hypersaline sample, illustrating the primary particle structure. 
@@ -199,7 +199,7 @@ Here, it is also to mention that the carbonaceous materials obtained from hypers
 Compared to the work discussed above in the previous paragraphs, these samples are constituted of smaller particles than the albumin-derived aerogels and are comparable to the very best borax-mediated aerogel samples. Again, it is to emphasize that the carbons could be recovered from simple washing with water instead of elaborated supercritical CO2 drying, a behavior, even hardly found for silica aerogels which are also preferentially dried in a supercritical fashion or after solvent exchange. Nitrogen sorption measurements were carried out for detailed porosity analysis (Figure 8). 
 
 
-![](Carbon Aerogels and Monoliths Control of Porosity and_images/image-0007-09.png)
+![](_temp_96cfa616_convert__images/_temp_96cfa616_convert_.pdf-0007-09.png)
 
 
 Figure 8. Nitrogen sorption isotherms of three carbon aerogels synthesized with Li−Zn 15/3 (black), Na−Zn13/3 (red), and K−Zn14/3 (green) eutectic salt mixtures. For details, see ref 52. 
@@ -217,7 +217,7 @@ Chemistry of Materials
 Review 
 
 
-![](Carbon Aerogels and Monoliths Control of Porosity and_images/image-0008-02.png)
+![](_temp_96cfa616_convert__images/_temp_96cfa616_convert_.pdf-0008-02.png)
 
 
 Figure 9. TEM (upper row) and SEM pictures (lower row) of N-dCs using Bmp-dca as precursor templated with LiCl/ZnCl2 (LiZ, left), NaCl/ ZnCl2 (SZ, middle), and KCl/ZnCl2 (PZ, right) at equal mass ratios synthesized at 1000 °C. In SEM, the monolithic aerogel character is clearly revealed. Used with permission from ref 55. Copyright 2013 Wiley. 
@@ -245,7 +245,7 @@ Chemistry of Materials
 Review 
 
 
-![](Carbon Aerogels and Monoliths Control of Porosity and_images/image-0009-02.png)
+![](_temp_96cfa616_convert__images/_temp_96cfa616_convert_.pdf-0009-02.png)
 
 
 Figure 10. Upper row: Nitrogen sorption isotherms of Bmp-dca (left), Emim-dca (middle), and Emim-tcb (right) derived carbons templated with Li−Zn, Na−Zn, and K−Zn at equal mass ratios. Lower row: Schematic representation of pore formation for carbons templated with Li−Zn (left), Na−Zn (middle), and K−Zn (right) at similar mass ratios. Each left image depicts the carbon (gray)/salt (red) composite and each right side the carbon aerogel structure after washing. Taken with permission from ref 55. Copyright 2010 Wiley. 
@@ -275,13 +275,13 @@ Chemistry of Materials
 Review 
 
 
-![](Carbon Aerogels and Monoliths Control of Porosity and_images/image-0010-02.png)
+![](_temp_96cfa616_convert__images/_temp_96cfa616_convert_.pdf-0010-02.png)
 
 
 Figure 11. Galvanostatic discharge (Li insertion, voltage decreases)/charge (Li extraction, voltage increases) curves of carbon aerogels carbonized at 700 °C, cycled at a rate of C/5, and (b) cycling performance of carbon sample carbonized at 700 °C cycled at a rate of C/5. Used with permission from ref 37. Copyright 2006 Wiley. 
 
 
-![](Carbon Aerogels and Monoliths Control of Porosity and_images/image-0010-04.png)
+![](_temp_96cfa616_convert__images/_temp_96cfa616_convert_.pdf-0010-04.png)
 
 
 Figure 12. (a) As-determined supercapacitance of a PANI/carbon aerogel hybrid in direct comparison with a corresponding carbon nanotube reinforced sample, (b) Ragone plot of the specific power/specific energy performance of the same samples. Used with permission from ref 78. Copyright 2007 Wiley. 
@@ -317,7 +317,7 @@ Chemistry of Materials
 Review 
 
 
-![](Carbon Aerogels and Monoliths Control of Porosity and_images/image-0011-02.png)
+![](_temp_96cfa616_convert__images/_temp_96cfa616_convert_.pdf-0011-02.png)
 
 
 Figure 13. Left: Deionization of a fixed volume of 100 μS/cm NaCl solution. Complete recycle of 4 L at a rate of 1 L/min. The apparatus included 192 aged electrode pairs operated at a cell voltage of 1.2 V. Right: Data for both NaCl and NaNO3 solutions showing the effect of aging on the electrosorption capacity of carbon aerogel electrodes. Salt removal a cell voltages ranging from 0.6 to 1.2 V. Complete recycle of a 4 l volume of a solution at a rate of 1 l/min. Data for new electrodes are represented by (1); data for electrodes cycled for several weeks are represented by (2); and data for aged electrodes that have been cycled for several month are represented by (3). Note that represents aged electrodes that have been regenerated by potential reversal. Used with permission from ref 77. Copyright 1996 The Electrochemical Society. 
@@ -325,7 +325,7 @@ Figure 13. Left: Deionization of a fixed volume of 100 μS/cm NaCl solution. Com
 Table 1. Conversion, Yields, and Selectivities to Methanol and Catalytic Activities (determined in 2 different fashions) in a Periana Reaction[a] 
 
 
-![](Carbon Aerogels and Monoliths Control of Porosity and_images/image-0011-05.png)
+![](_temp_96cfa616_convert__images/_temp_96cfa616_convert_.pdf-0011-05.png)
 
 
 |entity|catalyst|X (%)|Y (%)|S (%)|TOFb (h−1)|TOFc(h−1)|
@@ -359,13 +359,13 @@ Review
 Table 2. Cu-Catalyzed Ullmann Type O-, N- and S-Arylatition with Arylhalides[a] 
 
 
-![](Carbon Aerogels and Monoliths Control of Porosity and_images/image-0012-03.png)
+![](_temp_96cfa616_convert__images/_temp_96cfa616_convert_.pdf-0012-03.png)
 
 
 > aTable taken with permission from ref 87. bReaction onditions: Ary] halide (1 mmol), phenol/amine/imidazol/thiophenol (L5 mmol), Cul (0.15 mmol), Meso−N-C-1 (50 ing), KOH [3 nnol), DMSO [4 mL), 100 °C.[c] GC yield with biphenyl as internal standard (isolated yield in parentheses).[d] Reaction temperature: 125 °C.[e] Second run to test the reusability of catalyst.[f] Third Tun to test the reusability of the catalyst.[g] Fourth run to test the reusability of the atalyst.[h] Fifth run to test the reusability of the catalyst.h.[i] In Ar atmosphere. 
 
 
-![](Carbon Aerogels and Monoliths Control of Porosity and_images/image-0012-05.png)
+![](_temp_96cfa616_convert__images/_temp_96cfa616_convert_.pdf-0012-05.png)
 
 
 Figure 14. Left: RDE polarization curves at 1600 rpm of doped carbon aerogels compared to 20 wt % Pt@C and Vulcan in 0.1 M KOH. Right: Electron transfer numbers at various voltages. 

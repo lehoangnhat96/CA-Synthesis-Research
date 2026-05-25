@@ -3,27 +3,27 @@ This article is licensed under CC-BY-NC-ND 4.0
 Article 
 
 
-![](Sustainable Approach to Fabricate High-Performance Symmetry_images/image-0001-02.png)
+![](_temp_ffbbe720_convert__images/_temp_ffbbe720_convert_.pdf-0001-02.png)
 
 
 
-![](Sustainable Approach to Fabricate High-Performance Symmetry_images/image-0001-03.png)
+![](_temp_ffbbe720_convert__images/_temp_ffbbe720_convert_.pdf-0001-03.png)
 
 
 
-![](Sustainable Approach to Fabricate High-Performance Symmetry_images/image-0001-04.png)
+![](_temp_ffbbe720_convert__images/_temp_ffbbe720_convert_.pdf-0001-04.png)
 
 
 
-![](Sustainable Approach to Fabricate High-Performance Symmetry_images/image-0001-05.png)
+![](_temp_ffbbe720_convert__images/_temp_ffbbe720_convert_.pdf-0001-05.png)
 
 
 
-![](Sustainable Approach to Fabricate High-Performance Symmetry_images/image-0001-06.png)
+![](_temp_ffbbe720_convert__images/_temp_ffbbe720_convert_.pdf-0001-06.png)
 
 
 
-![](Sustainable Approach to Fabricate High-Performance Symmetry_images/image-0001-07.png)
+![](_temp_ffbbe720_convert__images/_temp_ffbbe720_convert_.pdf-0001-07.png)
 
 
 http://pubs.acs.org/journal/acsodf 
@@ -43,7 +43,7 @@ Article Recommendations
 ABSTRACT: This paper reports high specific capacitance of an activated carbon nickel oxide nanocomposite (PCNiO) electrode that has been synthesized from natural coconut shell using carbonization and an activated PCNiO nanocomposite with the help of a hydrothermal process. The structural phase, chemical change, morphology, and pore structure of the PCNiO nanocomposite were investigated using a variety of techniques including X-ray diffraction (XRD), Fourier transform infrared (FTIR), Brunauer−Emmett−Teller (BET), thermo-gravimetric analysis (TGA), Raman spectroscopy, field emission scanning electron microscopy (FESEM), and high-resolution transmission electron microscopy (HRTEM) techniques. Among the prepared samples, PCNiO-150 displays the most significant characteristics that were 
 
 
-![](Sustainable Approach to Fabricate High-Performance Symmetry_images/image-0001-16.png)
+![](_temp_ffbbe720_convert__images/_temp_ffbbe720_convert_.pdf-0001-16.png)
 
 
 used to create symmetric supercapacitors (SSCs). It had a specific capacitance ( _C_ sp) of 598.6 F/g at a scan rate of 10 mV/s. The Galvanostatic charging−discharging (GCD) curves showed a high specific capacitance ( _C_ sp) of 656.2 F/g at a current density (CD) of 1.5 A/g. Additionally, even after 5000 cycles, it had achieved long-term cycle stability with capacitance retention of 78.34% and Coulombic efficiency of 97.55%. Its highest energy density (ED) and power density (PD) were 44 Wh kg[−][1] and 562.5 W kg[−][1] , respectively. Additionally, the fabricated SSC device is serially connected to turn on a commercial green LED for 30−40 s at the time of the experiment. This paper proposes a novel environmentally sustainable and easy-to-use carbon source as well as a cost-effective and technologically unique approach for carbon supercapacitors in environmental applications. 
@@ -55,7 +55,7 @@ The development of sustainable and clean energy technology is a challenge for re
 interface are the focus of the faradaic process, which serves as the framework for pseudocapacitors.[14][,][15] EDLC-based capacitors have relatively low energy density, and the pseudocapacitance materials provide higher energy density but have lower power density. The proper synthesis and fabrication strategy of these two materials can be expected to significantly improve the performance of supercapacitors.[16] The electrode material is a crucial component of a supercapacitor because it impacts the device’s major performance.[17] There are several factors involved, such as the chemical composition, electrical conductivity, specific surface area (SSA), and the structure of electrode materials, which are important factors affecting the 
 
 
-![](Sustainable Approach to Fabricate High-Performance Symmetry_images/image-0001-21.png)
+![](_temp_ffbbe720_convert__images/_temp_ffbbe720_convert_.pdf-0001-21.png)
 
 
 Received: October 27, 2024 Revised: January 23, 2025 Accepted: February 25, 2025 Published: March 17, 2025 
@@ -103,13 +103,13 @@ fluoride (PVDF), and charcoal were purchased from SigmaAldrich, India. The solve
 The specific capacitance and electrochemical efficiency of the electrode were evaluated using a variety of experimental techniques, including cyclic voltammetry (CV), galvanostatic − charging discharging (GCD), and electrochemical impedance spectroscopy (EIS). These investigations were conducted with the assistance of a CHI 660E electrochemical workstation model. The specific capacitance ( _C_ sp) is obtained from the CV curve by using the following equation 
 
 
-![](Sustainable Approach to Fabricate High-Performance Symmetry_images/image-0003-08.png)
+![](_temp_ffbbe720_convert__images/_temp_ffbbe720_convert_.pdf-0003-08.png)
 
 
 The Galvano charging−discharging curves can be used to calculate the _C_ sp according to the following equations 
 
 
-![](Sustainable Approach to Fabricate High-Performance Symmetry_images/image-0003-10.png)
+![](_temp_ffbbe720_convert__images/_temp_ffbbe720_convert_.pdf-0003-10.png)
 
 
 where _I_ (A) represents the current in both charging and discharging operations, while the quantity of the active electrode material is denoted as “ _m_ ” (gm). The scan rate is denoted as _φ_ (V/s), the change in potential is represented by Δ _V_ (volts), and the discharge time is denoted as “Δ _t_ ” (s). 
@@ -117,7 +117,7 @@ where _I_ (A) represents the current in both charging and discharging operations
 The Coulombic efficiency ( _η_ ) of the supercapacitor was determined by using the subsequent equation 
 
 
-![](Sustainable Approach to Fabricate High-Performance Symmetry_images/image-0003-13.png)
+![](_temp_ffbbe720_convert__images/_temp_ffbbe720_convert_.pdf-0003-13.png)
 
 
 where Δ _t_ d and Δ _t_ c denote the time of discharge and charge, respectively. 
@@ -125,11 +125,11 @@ where Δ _t_ d and Δ _t_ c denote the time of discharge and charge, respectivel
 The practical application of supercapacitors (SCs) is determined by two critical factors: the energy density (ED) and power density (PD), which can be calculated using the following equations 
 
 
-![](Sustainable Approach to Fabricate High-Performance Symmetry_images/image-0003-16.png)
+![](_temp_ffbbe720_convert__images/_temp_ffbbe720_convert_.pdf-0003-16.png)
 
 
 
-![](Sustainable Approach to Fabricate High-Performance Symmetry_images/image-0003-17.png)
+![](_temp_ffbbe720_convert__images/_temp_ffbbe720_convert_.pdf-0003-17.png)
 
 
 **2.5. Characterization Techniques.** The structural change was examined using a benchtop X-ray diffractometer, RigaKu 600 miniflex (XRD). A Fourier transform infrared (FTIR) spectrometer (model _α_ BRUKER) was used to analyze the chemical interaction. The surface morphology was examined using field emission scanning electron microscopy (Sigma Zeiss) and high-resolution transmission electron microscopy (model JEOL, JEM-2100). High spectroscopic resolution Raman images were provided by the Lab RAM HR (UV) spectroscopic equipment. Thermogravimetric and differential thermal analyses (TG/DTA) were conducted using the SDT Q600 V20.9 Build 20 instrument to investigate the thermal stability of the electrode materials. The surface area and poresize distribution were examined using the Brunauer−Emmett− Teller (BET) model (Autosorb IQ-XR-XR, Anton Paar, Austria). 
@@ -149,7 +149,7 @@ https://doi.org/10.1021/acsomega.4c09778 _ACS Omega_ 2025, 10, 11077−11090
 Article 
 
 
-![](Sustainable Approach to Fabricate High-Performance Symmetry_images/image-0004-03.png)
+![](_temp_ffbbe720_convert__images/_temp_ffbbe720_convert_.pdf-0004-03.png)
 
 
 Figure 1. XRD pattern spectra of PCNiO-0, PCNiO-50, PCNiO-100, and PCNiO-150 nanocomposites. 
@@ -159,7 +159,7 @@ result of XRD patterns clearly showed that porous carbon enhanced the porosity w
 **3.2. FTIR Analysis.** FTIR was used to understand chemical functional groups in the synthesized activated porous carbon, and its PCNiO-0, PCNiO-50, PCNiO-100, and PCNiO-150 nanocomposites are depicted in Figure 2. The main peak of 
 
 
-![](Sustainable Approach to Fabricate High-Performance Symmetry_images/image-0004-07.png)
+![](_temp_ffbbe720_convert__images/_temp_ffbbe720_convert_.pdf-0004-07.png)
 
 
 Figure 2. FTIR spectra of PCNiO-0, PCNiO-50, PCNiO-100, and PCNiO-150 nanocomposites. 
@@ -183,13 +183,13 @@ https://doi.org/10.1021/acsomega.4c09778 _ACS Omega_ 2025, 10, 11077−11090
 Article 
 
 
-![](Sustainable Approach to Fabricate High-Performance Symmetry_images/image-0005-03.png)
+![](_temp_ffbbe720_convert__images/_temp_ffbbe720_convert_.pdf-0005-03.png)
 
 
 Figure 3. FESEM images of (a) PCNiO-0, (b) PCNiO-50, (c) PCNiO-100, and (d) PCNiO-150 nanocomposites. 
 
 
-![](Sustainable Approach to Fabricate High-Performance Symmetry_images/image-0005-05.png)
+![](_temp_ffbbe720_convert__images/_temp_ffbbe720_convert_.pdf-0005-05.png)
 
 
 Figure 4. EDS images of (a) PCNiO-0, (b) PCNiO-50, (c) PCNiO-100, and (d) PCNiO-150 nanocomposites. 
@@ -209,13 +209,13 @@ https://doi.org/10.1021/acsomega.4c09778 _ACS Omega_ 2025, 10, 11077−11090
 Article 
 
 
-![](Sustainable Approach to Fabricate High-Performance Symmetry_images/image-0006-03.png)
+![](_temp_ffbbe720_convert__images/_temp_ffbbe720_convert_.pdf-0006-03.png)
 
 
 Figure 5. (a, b) TEM and (c) HRTEM images of PCNiO-0 (inset: corresponding selected-area electron diffraction (SAED) pattern), (d, e) TEM and (f) HRTEM images of PCNiO-150 (inset: corresponding SAED pattern), and (g) STEM elemental mapping analysis of PCNiO-150. 
 
 
-![](Sustainable Approach to Fabricate High-Performance Symmetry_images/image-0006-05.png)
+![](_temp_ffbbe720_convert__images/_temp_ffbbe720_convert_.pdf-0006-05.png)
 
 
 Figure 6. Raman spectra of PCNiO-0, PCNiO-50, PCNiO-100, and PCNiO-150 nanocomposites. 
@@ -239,7 +239,7 @@ https://doi.org/10.1021/acsomega.4c09778 _ACS Omega_ 2025, 10, 11077−11090
 Article 
 
 
-![](Sustainable Approach to Fabricate High-Performance Symmetry_images/image-0007-03.png)
+![](_temp_ffbbe720_convert__images/_temp_ffbbe720_convert_.pdf-0007-03.png)
 
 
 Figure 7. (a) Nitrogen adsorption/desorption isotherms and (b) pore-size distribution curves of PCNiO-0, PCNiO-50, and PCNiO-150 nanocomposites. 
@@ -258,7 +258,7 @@ incorporation of more NiO fills the mesopores within the activated carbon. As a 
 PCNiO-100, and PCNiO-150 nanocomposites from room temperature to 900 °C with a heating rate of 10 °C min[−][1] , as depicted in Figure 8a−d. The TGA curve of the PCNiO-0 sample demonstrated three main regions: the evaporation of water molecules (up to 150 °C with 11.6% weight loss),[67] degradation of residual organic materials in coconut fibers (150−550 °C with 67.6% weight loss), and completion of the activated carbonization process (550−900 °C with 11.2% weight loss)[32] as shown in Figure 8a. It is seen that the two main regions of weight loss curves of PCNiO-50, PCNiO-100, and PCNiO-150 nanocomposites are shown in Figure 8b−d. The first region is due to the desorption of surface-bound water up to 250 °C, and the second region is due to the decomposition of oxygen-containing groups and the carbon substrate, which occurs between 250 and 650 °C. Additionally, the significant reduction in mass starts at around 452 °C for PCNiO-0 as it was detected in the TDA curve. Furthermore, the PCNiO-50 is recorded, and this peak at approximately 461 °C is sharp. On the other hand, PCNiO-100 and PCNiO-150 
 
 
-![](Sustainable Approach to Fabricate High-Performance Symmetry_images/image-0007-10.png)
+![](_temp_ffbbe720_convert__images/_temp_ffbbe720_convert_.pdf-0007-10.png)
 
 
 Figure 8. TGA/DTA curves of (a) PCNiO-0, (b) PCNiO-50, (c) PCNiO-100, and (d) PCNiO-150 nanocomposites. 
@@ -274,7 +274,7 @@ https://doi.org/10.1021/acsomega.4c09778 _ACS Omega_ 2025, 10, 11077−11090
 Article 
 
 
-![](Sustainable Approach to Fabricate High-Performance Symmetry_images/image-0008-03.png)
+![](_temp_ffbbe720_convert__images/_temp_ffbbe720_convert_.pdf-0008-03.png)
 
 
 Figure 9. CV curves of (a) PCNiO-0, (b) PCNiO-50, (c) PCNiO-100, (d) PCNiO-150, and (e) CV curves of PCNiO-0, PCNiO-50, PCNiO-100, and PCNiO-150 at a scan rate of 10 mV/s. (f) Variation of specific capacitance for scan rates from 10 to 50 mV/s. 
@@ -288,7 +288,7 @@ The CV curve of PCNiO-0 exhibits characteristics of both double-layer behavior a
 from surface contaminants and functional groups introduced during the activation method with KOH.[26] While the CV curves of all composite electrodes typically exhibit a couple of redox peaks with a symmetric shape, this indicates pseudocapacitive behavior due to the presence of NiO and double-layer capacity behavior of the activated porous carbon.[42][,][44] The anodic peak at 0.1 V results from the oxidation of NiO to NiOOH, whereas the cathodic peak at −0.12 V indicates the reverse process, as illustrated in the redox reaction given by the following equation 
 
 
-![](Sustainable Approach to Fabricate High-Performance Symmetry_images/image-0008-09.png)
+![](_temp_ffbbe720_convert__images/_temp_ffbbe720_convert_.pdf-0008-09.png)
 
 
 The specific capacitance ( _C_ sp) values of PCNiO electrodes were calculated using eq 1 and an estimated value of 221.5, 378.7, 467.2, and 598.6 F/g at a scan rate of 10 mV/s for PCNiO-0, PCNiO-50, PCNiO-100, and PCNiO-150 electrodes, respectively, as depicted in Figure 9a−d. The PCNiO-150 electrode typically shows an increase in the area of the CV curve compared with other PCNiO-0, PCNiO-50, and 
@@ -304,7 +304,7 @@ https://doi.org/10.1021/acsomega.4c09778 _ACS Omega_ 2025, 10, 11077−11090
 Article 
 
 
-![](Sustainable Approach to Fabricate High-Performance Symmetry_images/image-0009-03.png)
+![](_temp_ffbbe720_convert__images/_temp_ffbbe720_convert_.pdf-0009-03.png)
 
 
 Figure 10. GCD curves of (a) PCNiO-0, (b) PCNiO-50, (c) PCNiO-100, and (d) PCNiO-150. 
@@ -339,7 +339,7 @@ https://doi.org/10.1021/acsomega.4c09778 _ACS Omega_ 2025, 10, 11077−11090
 Article 
 
 
-![](Sustainable Approach to Fabricate High-Performance Symmetry_images/image-0010-03.png)
+![](_temp_ffbbe720_convert__images/_temp_ffbbe720_convert_.pdf-0010-03.png)
 
 
 Figure 11. (a) Variation of _C_ sp for different CDs from 1.5 to 2.25 A/g, (b) Nyquist plots of PCNiO-0, PCNiO-50, PCNiO-100, PCNiO-150, (c) Fitted curve with equivalent circuit of PCNiO-150, (d) Capacitance retention and Coulombic efficiency of the PCNiO-150 SSC device; inset: the last 10 cycles of the GCD curve, (e) Ragone plots of the PCNiO-150 SSC device, and (f) digital image of the assembly PCNiO-150 SSC device glows with green LED. 

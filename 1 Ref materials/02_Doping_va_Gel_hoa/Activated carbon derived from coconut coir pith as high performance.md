@@ -1,7 +1,7 @@
 Journal of Energy Storage 25 (2019) 100910 
 
 
-![](Activated carbon derived from coconut coir pith as high performance_images/image-0001-01.png)
+![](_temp_3efe3535_convert__images/_temp_3efe3535_convert_.pdf-0001-01.png)
 
 
 Contents lists available at ScienceDirect 
@@ -11,13 +11,13 @@ Journal of Energy Storage
 journal homepage: www.elsevier.com/locate/est 
 
 
-![](Activated carbon derived from coconut coir pith as high performance_images/image-0001-05.png)
+![](_temp_3efe3535_convert__images/_temp_3efe3535_convert_.pdf-0001-05.png)
 
 
 ## Activated carbon derived from coconut coir pith as high performance supercapacitor electrode material 
 
 
-![](Activated carbon derived from coconut coir pith as high performance_images/image-0001-07.png)
+![](_temp_3efe3535_convert__images/_temp_3efe3535_convert_.pdf-0001-07.png)
 
 
 ## T. Sesuk, P. Tammawat, P. Jivaganont, K. Somton, P. Limthongkul, W. Kobsiriphat[⁎] 
@@ -99,7 +99,7 @@ _Journal of Energy Storage 25 (2019) 100910_
 T. Sesuk, et al. 
 
 
-![](Activated carbon derived from coconut coir pith as high performance_images/image-0003-02.png)
+![](_temp_3efe3535_convert__images/_temp_3efe3535_convert_.pdf-0003-02.png)
 
 
 where I(A) is the discharge current, Δt(s) is the discharge time, ΔV(V) is the potential drop during discharge (with the IR drop subtracted) and m (g) is the mass of the active material in both electrodes. 
@@ -109,7 +109,7 @@ where I(A) is the discharge current, Δt(s) is the discharge time, ΔV(V) is the
 ## 3.1. Raw material characterization 
 
 
-![](Activated carbon derived from coconut coir pith as high performance_images/image-0003-06.png)
+![](_temp_3efe3535_convert__images/_temp_3efe3535_convert_.pdf-0003-06.png)
 
 
 Fig. 3. Micropore size distribution of activated carbon samples AC-1, -2 and -3. 
@@ -119,7 +119,7 @@ carried out in the frequency range of 10[−][2] –10[5] Hz and a signal amplit
 To better understand the structure of the raw material and determine appropriate conditions for carbonization and activation, thermal analysis was performed (Fig. 1) by heating raw CCP from room temperature to 1100 °C at a rate of 10 °C min[−][1] under N2 flow of 20 ml min[−][1] . Four major decomposition stages were found: at <160 °C, water is desorbed and removed from the structure; between 160 °C and 300 °C, cellulose structural water is expelled, hemicellulose decomposes and cellulose begins to decompose; between 300 °C and 385 °C, which is where the largest mass loss occurs, cellulose continues to decompose, lignin begins decomposition, as well as chain scissions or depolymerization and breaking of CeO and CeC bonds with glucopyranose rings take place, resulting in water, CO and CO2 formation. Finally, above 385 °C, lignin continues to decompose up to 500 °C while graphitic layers are formed via carbon aromatization [9,18]. The carbonization temperature chosen for this study was 650 °C in order to ensure complete decomposition of lignin and aid the graphitization of carbon, which was expected to improve its conductivity. The surface area of the carbonized CCP was ≈600 m[2] g[−][1] . 
 
 
-![](Activated carbon derived from coconut coir pith as high performance_images/image-0003-10.png)
+![](_temp_3efe3535_convert__images/_temp_3efe3535_convert_.pdf-0003-10.png)
 
 
 Fig. 4. Scanning electron micrographs of AC-1 (a, b), AC-2 (c, d) and AC-3 (e, f) at different magnifications. 
@@ -131,7 +131,7 @@ _Journal of Energy Storage 25 (2019) 100910_
 T. Sesuk, et al. 
 
 
-![](Activated carbon derived from coconut coir pith as high performance_images/image-0004-02.png)
+![](_temp_3efe3535_convert__images/_temp_3efe3535_convert_.pdf-0004-02.png)
 
 
 Fig. 5. Transmission electron micrographs of AC-1 (a), AC-2 (b) and AC-3 (c). 
@@ -161,7 +161,7 @@ _Journal of Energy Storage 25 (2019) 100910_
 T. Sesuk, et al. 
 
 
-![](Activated carbon derived from coconut coir pith as high performance_images/image-0005-02.png)
+![](_temp_3efe3535_convert__images/_temp_3efe3535_convert_.pdf-0005-02.png)
 
 
 Fig. 7. Raman spectra obtained from AC-1, AC-2 and AC-3. 
@@ -192,7 +192,7 @@ Table 2 shows the metal content from the activated carbons measured by inductive
 The activated carbon samples were formed into electrodes and 
 
 
-![](Activated carbon derived from coconut coir pith as high performance_images/image-0005-13.png)
+![](_temp_3efe3535_convert__images/_temp_3efe3535_convert_.pdf-0005-13.png)
 
 
 Fig. 8. Comparison of cyclic voltammograms obtained from AC-1, -2 and -3 at a potential scan rate of 10 mV s[−][1] . 
@@ -204,7 +204,7 @@ _Journal of Energy Storage 25 (2019) 100910_
 T. Sesuk, et al. 
 
 
-![](Activated carbon derived from coconut coir pith as high performance_images/image-0006-02.png)
+![](_temp_3efe3535_convert__images/_temp_3efe3535_convert_.pdf-0006-02.png)
 
 
 Fig. 9. Charge-discharge curves of (a) AC-1, (b) AC-2 and (c) AC-3 at different current densities. 
@@ -212,7 +212,7 @@ Fig. 9. Charge-discharge curves of (a) AC-1, (b) AC-2 and (c) AC-3 at different 
 tested for their electrochemical performance in symmetrical cells. A comparison of the cyclic voltammograms of AC-1, -2 and -3 at a potential scan rate of 10 mV s[−][1] is shown in Fig. 8. All activated carbons exhibited ideal rectangular-shaped curves without visible redox peaks. 
 
 
-![](Activated carbon derived from coconut coir pith as high performance_images/image-0006-05.png)
+![](_temp_3efe3535_convert__images/_temp_3efe3535_convert_.pdf-0006-05.png)
 
 
 Fig. 10. Specific capacitance of AC-1, -2 and -3 measured at 0.1, 0.2, 0.5 and 1.0 A g[−][1] . 
@@ -231,7 +231,7 @@ Estimated CDL and CPS contributions to the total capacitance based on the BET su
 
 
 
-![](Activated carbon derived from coconut coir pith as high performance_images/image-0006-10.png)
+![](_temp_3efe3535_convert__images/_temp_3efe3535_convert_.pdf-0006-10.png)
 
 
 Fig. 11. Cycle performance of symmetrical AC-1, -2 and -3 pouch cells. 
@@ -245,13 +245,13 @@ _Journal of Energy Storage 25 (2019) 100910_
 T. Sesuk, et al. 
 
 
-![](Activated carbon derived from coconut coir pith as high performance_images/image-0007-02.png)
+![](_temp_3efe3535_convert__images/_temp_3efe3535_convert_.pdf-0007-02.png)
 
 
 As the total capacitance is the sum of the double layer and pseudocapacitance (CPC) contributions, the pseudocapacitance contribution was estimated using Eq. (3) [41]. The results of the estimations are shown in Table 3. 
 
 
-![](Activated carbon derived from coconut coir pith as high performance_images/image-0007-04.png)
+![](_temp_3efe3535_convert__images/_temp_3efe3535_convert_.pdf-0007-04.png)
 
 
 Based on our calculations, the pseudocapacitance contributions were not negligible. The pseudocapacitance originated from the oxygen surface functionalities as observed in the FT-IR and XPS results (Figs. 6 and S3, respectively). However, its contribution to total capacitance decreased with increasing NaOH:C ratio used during the activation process. In other words, with increasing micropore volume (and BET surface area), the micropore content contribution to the total capacitance became increasingly significant. 
@@ -269,7 +269,7 @@ The rate capability (R) was determined by the ratio of the capacitance measured 
 Based on EIS measurements, the charge transfer resistance of AC-3 (0.46 Ω cm[2] ) < AC-2 (1.85 Ω cm[2] ) < AC-1 (3.33 Ω cm[2] ) (Fig. S5, supplementary material). Because there were no major differences in the type and amount of surface functional groups among the activated carbons, the reduction of charge transfer resistance with increasing NaOH:C ratio was attributed to the macropore structure, which allowed easy access of electrolyte to the carbon surface in different areas of the electrode. The slightly higher graphitic content of AC-3 compared to AC-1 and -2 as determined by Raman spectroscopy may have also assisted in charge transfer. The superior electrochemical properties of AC3 compared to AC-1 and AC-2 point to the pertinence of the activated carbon surface area, micropore volume, micropore size and microstructure in accommodating electrolyte ions and allowing for efficient charge transfer which lead to higher capacitance. The interconnected pore structure of AC-3 may have had a large effect on the available surface area for electric double layer formation, compared to a closed pore structure, such as that observed in AC-1 and -2. There was clearly a 
 
 
-![](Activated carbon derived from coconut coir pith as high performance_images/image-0007-12.png)
+![](_temp_3efe3535_convert__images/_temp_3efe3535_convert_.pdf-0007-12.png)
 
 
 Fig. 13. Capacitance of a symmetrical AC-3 pouch cell at 0.1–10 A g[−][1] before and after cycling. 
@@ -281,7 +281,7 @@ _Journal of Energy Storage 25 (2019) 100910_
 T. Sesuk, et al. 
 
 
-![](Activated carbon derived from coconut coir pith as high performance_images/image-0008-02.png)
+![](_temp_3efe3535_convert__images/_temp_3efe3535_convert_.pdf-0008-02.png)
 
 
 Fig. 14. Scanning electron micrographs at different magnifications (a, b) and transmission electron micrograph (c) of AC-3 composite electrode after operating at 0.5 A g[−][1] over 5000 cycles. 

@@ -1,7 +1,7 @@
 ## Sensors & Diagnostics 
 
 
-![](Emerging trends in aerogel technology for sensing and biosensing applications_images/image-0001-02.png)
+![](_temp_9232e4c3_convert__images/_temp_9232e4c3_convert_.pdf-0001-02.png)
 
 
 ## CRITICAL REVIEW 
@@ -9,7 +9,7 @@
 ## **View Journal** 
 
 
-![](Emerging trends in aerogel technology for sensing and biosensing applications_images/image-0001-05.png)
+![](_temp_9232e4c3_convert__images/_temp_9232e4c3_convert_.pdf-0001-05.png)
 
 
 Cite this: DOI: 10.1039/d5sd00100e 
@@ -43,7 +43,7 @@ Critical review
 Sensors & Diagnostics 
 
 
-![](Emerging trends in aerogel technology for sensing and biosensing applications_images/image-0002-04.png)
+![](_temp_9232e4c3_convert__images/_temp_9232e4c3_convert_.pdf-0002-04.png)
 
 
 Fig. 1 (A) Year-wise number of publications from 2010 to 2025 based on the Scopus database using the search term ‘aerogel’(accessed on 11th June 2025). (B) Advantages of aerogels over conventional sensing materials. (C) Roadmap of the advancements in aerogel technology. 
@@ -73,7 +73,7 @@ Aerogels possess several advantages over conventional sensing materials (Fig. 1B
 Aerogels are classified based on origin, appearance, synthesis, microstructure, and drying process (Fig. 2). They are primarily categorized according to their composition, 
 
 
-![](Emerging trends in aerogel technology for sensing and biosensing applications_images/image-0003-08.png)
+![](_temp_9232e4c3_convert__images/_temp_9232e4c3_convert_.pdf-0003-08.png)
 
 
 Fig. 2 Classification of aerogels based on origin, synthesis, microstructure, appearance, and drying process. 
@@ -206,7 +206,7 @@ Critical review
 Sensors & Diagnostics 
 
 
-![](Emerging trends in aerogel technology for sensing and biosensing applications_images/image-0006-04.png)
+![](_temp_9232e4c3_convert__images/_temp_9232e4c3_convert_.pdf-0006-04.png)
 
 
 Fig. 3 (A) Schematic representation of the electrochemical detection of hydrogen peroxide on a screen-printed carbon electrode modified with Pd nanoparticle-embedded polyethyleneimine–reduced graphene oxide aerogel. Reproduced with permission from ref. 62. Copyright 2022, Elsevier. (B) One-pot synthesis of carbon–graphene aerogel for the electrochemical detection of hydrogen peroxide and dopamine. Reprinted with permission from ref. 60.Copyright 2022, Elsevier. (C) One-step synthesis of Pt–Pd bimetallic aerogel for the nonenzymatic detection of hydrogen peroxide. Reproduced from ref. 59. (D) Schematic representation of the electrochemical determination of hydrogen peroxide and bisphenol A on reduced graphene oxide anchored polyterthiophene conductive aerogel modified electrodes. Reprinted with permission from ref. 61. Copyright 2022, Elsevier. 
@@ -228,7 +228,7 @@ Critical review
 ## Sensors & Diagnostics 
 
 
-![](Emerging trends in aerogel technology for sensing and biosensing applications_images/image-0007-04.png)
+![](_temp_9232e4c3_convert__images/_temp_9232e4c3_convert_.pdf-0007-04.png)
 
 
 Fig. 4 (A) Fabrication of biomass-derived iron and nitrogen-doped carbon aerogels for the dual-mode detection of glucose. Reproduced with permission from ref. 50. Copyright 2021, American Chemical Society. (B) Electrochemical detection of glucose on carbon nanofiber aerogels. Reproduced with permission from ref. 83. Copyright 2021, Elsevier. (C) Schematic representation of the synthesis of nitrogen-doped carbon aerogel embedded with CoNx sites for electrochemical detection of glucose. Reproduced with permission from ref. 51. Copyright 2022, Elsevier. (D) Schematic representation of the synthesis of Pd–Cu bimetallic aerogels for nonenzymatic electrochemical determination of glucose. Reproduced with permission from ref. 53. Copyright 2025, Elsevier. (E) Co-MOF/Au aerogel for the nonenzymatic electrochemical determination of glucose. Reproduced with permission from ref. 52. Copyright 2025, Elsevier. (F) Bismuth-incorporated Au aerogels for nonenzymatic electrochemical determination of glucose. Reproduced with permission from ref. 49. Copyright 2022, American Chemical Society. 
@@ -250,7 +250,7 @@ Critical review
 Sensors & Diagnostics 
 
 
-![](Emerging trends in aerogel technology for sensing and biosensing applications_images/image-0008-04.png)
+![](_temp_9232e4c3_convert__images/_temp_9232e4c3_convert_.pdf-0008-04.png)
 
 
 Fig. 5 (A) Nitrogen-doped graphene aerogel/Co3O4-modified electrode for the sensitive monitoring of dopamine from living cells. Reproduced with permission from ref. 87. Copyright 2022, Elsevier. (B) Electrochemical detection of dopamine on glassy carbon electrodes modified with porous Co3O4 nanocubes/3D MXene-reduced graphene oxide aerogel. Reproduced with permission from ref. 67. Copyright 2025, Elsevier. (C) Mo–W–O/graphene aerogel-modified glassy carbon electrode for the electrochemical detection of dopamine and tyrosine. Reproduced with permission from ref. 70. Copyright 2021, Elsevier. (D) Simultaneous electrochemical determination of dopamine, ascorbic acid, and uric acid on holey nitrogen-doped graphene aerogel-modified glassy carbon electrode. Reproduced with permission from ref. 66. Copyright 2021, Elsevier. (E) Electrochemical determination of dopamine and 4-nitrophenol on a glassy carbon electrode modified with copper aerogel. Reproduced with permission from ref. 88. Copyright 2025, Elsevier. 
@@ -272,7 +272,7 @@ Critical review
 ## Sensors & Diagnostics 
 
 
-![](Emerging trends in aerogel technology for sensing and biosensing applications_images/image-0009-04.png)
+![](_temp_9232e4c3_convert__images/_temp_9232e4c3_convert_.pdf-0009-04.png)
 
 
 Fig. 6 (A) Apple-derived carbon nanorod-assembled meso–macroporous carbon aerogel for the electrochemical determination of ascorbic acid and hydrogen peroxide. Reproduced with permission from ref. 92. Copyright 2019, Elsevier. (B) Schematic representation of Pd–Fe nanoparticledecorated graphene oxide aerogel for the electrochemical detection of ascorbic acid, dopamine, uric acid, 8-hydroxyguanine, guanine, adenine, thymine, and cytosine. Reproduced with permission from ref. 74. Copyright 2023, American Chemical Society. (C) Schematic illustration of the fabrication of palladium nanoparticle-supported carbon aerogel nanocomposite for the electrochemical detection of melatonin and dopamine. Reproduced with permission from ref. 73. Copyright 2017, the Royal Society of Chemistry. (D) Schematic illustration of urate oxidase enzymeimmobilized Ni–Co and Pd–Co aerogels for the electrochemical determination of uric acid. Calibration curves of Co/UOx, Ni-Co/UOx, Pd-Co/UOx, and UOx in a) PBS 7.4 containing 0–500 μM uric acid, and b) pH 5.6 containing 0–500 μM uric acid. Reproduced with permission from ref. 65. Copyright 2025, Elsevier. 
@@ -298,7 +298,7 @@ Sensors & Diagnostics
 ## Critical review 
 
 
-![](Emerging trends in aerogel technology for sensing and biosensing applications_images/image-0010-04.png)
+![](_temp_9232e4c3_convert__images/_temp_9232e4c3_convert_.pdf-0010-04.png)
 
 
 Fig. 7 (A) Schematic representation of graphene aerogel-based aptasensors for prostate-specific antigen detection. Reproduced with permission from ref. 101. Copyright 2023, Elsevier. (B) Molybdenum disulfide/carbon aerogel composite-based electrochemical detection of platelet-derived growth factor BB (PDGF-BB). Reproduced with permission from ref. 108. Copyright 2015, Elsevier. (C) Schematic representation of the CEA immunosensor based on a screen-printed carbon electrode modified Ab/Tb@FNS-NH2/β-CD-COOH/rGO aerogel. Reproduced with permission from ref. 98. Copyright 2025, Elsevier. (D) Polymeric β-cyclodextrin/graphene aerogel-modified anti-CA15-3 for the detection of breast cancer biomarker CA 15-3. Reproduced with permission from ref. 103. Copyright 2018, Springer. 
@@ -397,7 +397,7 @@ Critical review
 Sensors & Diagnostics 
 
 
-![](Emerging trends in aerogel technology for sensing and biosensing applications_images/image-0012-04.png)
+![](_temp_9232e4c3_convert__images/_temp_9232e4c3_convert_.pdf-0012-04.png)
 
 
 Fig. 8 (A) Schematics and working principle of N-doped reduced graphene oxide/Au aerogel-based nonenzymatic wearable uric acid sensor. Reproduced with permission from ref. 64. Copyright 2023, American Chemical Society. (B) Schematic illustration of the construction and working principle of the 3D graphene MXene aerogel-based integrated sweat glucose monitoring sensor. Reproduced with permission from ref. 125. Copyright 2024, American Chemical Society. (C) Illustration of wearable non-invasive dynamic monitoring of sweat uric acid based on silver nanowires@Prussian blue aerogel. Reproduced with permission from ref. 63. Copyright 2024, Elsevier. (D) Illustration of metal aerogel-based wearable biofuel cells for energy harvesting, sweat collection, and biosensor. Reproduced with permission from ref. 127. Copyright 2024, Wiley-VCH GmbH. 
@@ -441,7 +441,7 @@ Critical review
 Sensors & Diagnostics 
 
 
-![](Emerging trends in aerogel technology for sensing and biosensing applications_images/image-0014-04.png)
+![](_temp_9232e4c3_convert__images/_temp_9232e4c3_convert_.pdf-0014-04.png)
 
 
 Fig. 9 (A) Schematic illustration of the membrane-based microfluidic adsorption detection platform for the determination of tetracyclic antibiotics. (B) Flow chart depicting the preparation of aerogel and the detection process. Reproduced with permission from ref. 140. Copyright 2024, Elsevier. (C) Schematic illustrations of the electrochemical ethanol detection from sweat using a gold nanowire aerogel-based biosensor. (D) Synthesis of gold nanowire aerogel, demonstrating (a) gold seed formation, (b) growth of the gold nanowire aerogel, and (c) the synthesis of gold nanowire aerogel. Reproduced with permission from ref. 141. Copyright 2022, American Chemical Society. 
@@ -467,7 +467,7 @@ Critical review
 ## Sensors & Diagnostics 
 
 
-![](Emerging trends in aerogel technology for sensing and biosensing applications_images/image-0015-04.png)
+![](_temp_9232e4c3_convert__images/_temp_9232e4c3_convert_.pdf-0015-04.png)
 
 
 Fig. 10 (A) Schematic representation of silanized cellulose aerogels for enhancing the energy efficiency of glazing windows in buildings. Reproduced from ref. 150. (B) Illustration of MXene/bacterial cellulose aerogel for human–computer interaction. Reproduced with permission from ref. 151. Copyright 2025, American Chemical Society. (C) Design, fabrication, and thermal insulation properties of encapsulated aerogel fiber. Reproduced from ref. 153. (D) MXene composite aerogel-based pressure sensors for speech recognition and deep learning. Reproduced from ref. 144. (E) Schematic representation of the applications of self-powered e-textile fire alarms in energy harvesting, smart firefighting, location sharing, and real-time fire warning. Reproduced with permission from ref. 142. Copyright 2022, American Chemical Society. 
@@ -497,7 +497,7 @@ the transfer of the photogenerated electrons, providing high signal output and s
 In another study, melamine-doped rGO/MXene aerogel was employed as an electrode material for the electrochemical detection of heavy metal ions Zn[2+] , Cd[2+] , and Pb[2+] .[165] In this case, the composite material significantly enhanced the conductivity of the electrode, while the 
 
 
-![](Emerging trends in aerogel technology for sensing and biosensing applications_images/image-0016-07.png)
+![](_temp_9232e4c3_convert__images/_temp_9232e4c3_convert_.pdf-0016-07.png)
 
 
 Fig. 11 (A) Schematic illustration of the photoelectrochemical detection of glyphosate on phenylethynylcopper/nitrogen-doped graphene aerogel electrode. Reproduced with permission from ref. 160. Copyright 2024, Elsevier. (B) Melamine-doped rGO/MXene aerogel-modified electrodes for the detection of heavy metals Zn[2+] , Cd[2+] , and Pb[2+] . Reproduced with permission from ref. 165. Copyright 2023, Elsevier. (C) Representation of the Au NP–graphene aerogels for toxic dye elimination and humidity monitoring. Reproduced with permission from ref. 174. Copyright 2021, Springer Nature. (D) Schematic representation of the synthesis of zinc oxide nanoparticle-incorporated graphene aerogel for the electrochemical determination of NO2. Reproduced with permission from ref. 167. Copyright 2021, Elsevier. (E) Schematic representation of the fluorescent determination of formaldehyde gas on silica aerogel. Reproduced with permission from ref. 172. Copyright 2021, Elsevier. (F) Schematic representation of the multiplexed detection of volatile organic compounds (VOCs) at graphene/AuNPs@ZIF-8 aerogel. Reproduced with permission from ref. 175. Copyright 2024, Elsevier. (G) Schematic representation of the voltammetric determination of imidacloprid pesticide on an anthraquinone/CNT/biomass-derived aerogel-modified glassy carbon electrode. Reproduced with permission from ref. 162. Copyright 2024, Elsevier. 
@@ -521,7 +521,7 @@ frameworks, enhanced the concentration of volatile organic compounds. The sensor
 The colorimetric sensing applications of aerogels are significantly influenced by their high surface area, porous structure, chemical tunability, structural tunability, stability, and, in some cases, optical transparency. In most aerogelbased colorimetric sensors, the optical probes are immobilized within the aerogel pores. The large surface area and tunable properties enhance the optical signals, leading to improved detection. In some instances, the aerogel material itself catalyzes the colorimetric reaction. For instance, Yan et al.[176] reported a Pt–Bi aerogel colorimetric sensor for the discrimination of antioxidants. Here, antioxidants inhibit the intrinsic peroxidase-like activity of 
 
 
-![](Emerging trends in aerogel technology for sensing and biosensing applications_images/image-0017-08.png)
+![](_temp_9232e4c3_convert__images/_temp_9232e4c3_convert_.pdf-0017-08.png)
 
 
 Fig. 12 (A) Schematic representation of the Pt–Bi aerogel-based colorimetric sensor array for the discrimination of antioxidants. Reproduced with permission from ref. 176. Copyright 2025, Elsevier. (B) Synthesis of poly(vinyl alcohol) and nanocellulose-based bio-aerogel for the colorimetric determination of ammonia. Reproduced with permission from ref. 177. Copyright 2024, American Chemical Society. (C) Development of 3D polyimide aerogel for the colorimetric detection of breath acetone. Reproduced with permission from ref. 178. Copyright 2024, Elsevier. (D) Schematic representation of the synthesis of sulfonated spirocyclic pyran aerogel for the visual detection of ammonia. Reproduced with permission from ref. 173. Copyright 2025, Elsevier. 
@@ -543,7 +543,7 @@ Pan et al.[177] reported an environmentally friendly biobased aerogel for the co
 responsive radish anthocyanins were introduced into cellulose nanofibers to construct the colorimetric aerogel. The anthocyanins changed the color of the aerogel upon exposure to ammonia, and the aerogel successfully detected ammonia in the concentration range of 10–100 ppm (Fig. 12B). Cao et al.[178] demonstrated a colorimetric sensor for breath acetone based on polyimide nanofiber aerogels incorporated with hydroxylamine sulfate and thymol blue. The sensor principle involved the conversion of hydroxylamine sulfate to acetoxime and sulfuric acid in the presence of acetone. The sulfuric acid then reacted with thymol blue to produce pink-colored thymol blue (Fig. 12C). Liu et al.[173] reported a cost-effective ammoniasensitive aerogel based on sulfonic acid-functionalized spiropyran (Fig. 12D). The sensor operates on a straightforward mechanism of ammonia-mediated proton 
 
 
-![](Emerging trends in aerogel technology for sensing and biosensing applications_images/image-0018-07.png)
+![](_temp_9232e4c3_convert__images/_temp_9232e4c3_convert_.pdf-0018-07.png)
 
 
 Fig. 13 (A) Schematic representation of the synthesis of nanostructured cellulose lignin aerogel. Reproduced from ref. 179. (B) Schematic representation of the synthesis of cotton-reinforced alginate aerogels. Reproduced with permission from ref. 182. Copyright 2024, Springer. (C) Illustration of the preparation and chemical structure of pectin aerogels. Reproduced from ref. 185. (D) One-step green synthesis of cellulose aerogel (the inset shows the cyclic DSC curves of cellulose nanocrystals/polyethylene glycol). Reproduced with permission from ref. 188. Copyright 2022, Elsevier. (E) Illustration of the synthesis of chitosan graphene oxide aerogel. Reproduced with permission from ref. 198. Copyright 2020, Royal Society of Chemistry. (F) Microwaveassisted synthesis of gelatin graphene oxide aerogel. Reproduced with permission from ref. 192. Copyright 2020, Elsevier. 

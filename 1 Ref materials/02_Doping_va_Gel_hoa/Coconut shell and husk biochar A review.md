@@ -5,7 +5,7 @@ _Review Article_
 _Waste Management & Research_ 2023, Vol. 41(1) 37 –51 © The Author(s) 2022 
 
 
-![](Coconut shell and husk biochar A review_images/image-0001-03.png)
+![](_temp_1d74b5f6_convert__images/_temp_1d74b5f6_convert_.pdf-0001-03.png)
 
 
 Article reuse guidelines: sagepub.com/journals-permissions https://doi.orgDOI: 10.1177 **/** 10.1177/0734242X2211271670734242X221127167 journals.sagepub.com/home/wmr 

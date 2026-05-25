@@ -1,5 +1,5 @@
 
-![](Activated carbons derived from coconut_images/image-0001-00.png)
+![](_temp_1769be7b_convert__images/_temp_1769be7b_convert_.pdf-0001-00.png)
 
 
 ## OPEN Activated carbons derived from coconut shells as high energy density cathode BATTERIES material for Li-ion capacitors 
@@ -27,7 +27,7 @@ SCIENTIFIC REPORTS | 3 : 3002 | DOI: 10.1038/srep03002
 1 
 
 
-![](Activated carbons derived from coconut_images/image-0002-00.png)
+![](_temp_1769be7b_convert__images/_temp_1769be7b_convert_.pdf-0002-00.png)
 
 
 **----- Start of picture text -----**<br>
@@ -41,7 +41,7 @@ for desired applications and availability. Several biomass sources such as cocon
 Figure 1a shows nitrogen adsorption-desorption isotherms of ACs prepared at different conditions. P and HTP exhibit type I isotherm that is indicative of the presence of microporosity. ZP and ZHTP prepared with the ZnCl2 displayed a combination of both type II and type IV isotherms. In addition the hysteresis loops are more pronounced for both cases which suggest the formation of mesoporosity due to creation of additional pores and widening of small pores. Impregnation with ZnCl2 results in degradation of the cellulosic 
 
 
-![](Activated carbons derived from coconut_images/image-0002-04.png)
+![](_temp_1769be7b_convert__images/_temp_1769be7b_convert_.pdf-0002-04.png)
 
 
 Figure 1 | (a) Nitrogen adsorption isotherms of activated carbons synthesized at different experimental conditions, (b) Pore size distribution of activated carbons using DFT (Density Functional theory) model. 
@@ -55,7 +55,7 @@ SCIENTIFIC REPORTS | 3 : 3002 | DOI: 10.1038/srep03002
 2 
 
 
-![](Activated carbons derived from coconut_images/image-0003-00.png)
+![](_temp_1769be7b_convert__images/_temp_1769be7b_convert_.pdf-0003-00.png)
 
 
 **----- Start of picture text -----**<br>
@@ -79,13 +79,13 @@ Areame: Mesoporous surface area, Areat: Total surface area, Vme: Mesoporous volu
 PF62 anions and subsequent double layer formation across the electrode/electrolyte interface[28,37] . The commercially available AC was also tested in half-cell configuration and compared along with CS derived AC under the same current rates. The half-cell delivered initial reversible capacities of 5, 44, 58, 71 and 33 mAh g[–1] for P, HTP, ZP, ZHTP and CAC, respectively. The observed discharge capacities can be converted to specific capacitances according to the following relation that is valid for linear variation of voltage with time[2] . 
 
 
-![](Activated carbons derived from coconut_images/image-0003-05.png)
+![](_temp_1769be7b_convert__images/_temp_1769be7b_convert_.pdf-0003-05.png)
 
 
 where, I is applied current (A), Dt is discharge time (s), m weight of the active material (g) and DU is testing window (i.e. potential difference) of the aforementioned half-cell configuration (mV, 1600 mV). Initial specific discharge capacitance of , 11, , 99, , 132, , 159, and , 74 F g[–1] are obtained for P, HTP, ZP, ZHTP and CAC, respectively. It is worth noting that increase in mesoporosity results the increase in specific capacitance and is consistent with the results of Simon and Gogosti[35] . Plot of specific discharge capacitance vs. cycle number is given in Figure 3b. Very stable specific capacitance profiles are observed during prolonged cycling for all samples, except for a small drop in the second cycle. Further, the observed capacitance value is linear with specific surface area which is also consistent with the literature[28] . Since increase in surface area and mesoporosity leads to the accommodation of more anions, the AC 
 
 
-![](Activated carbons derived from coconut_images/image-0003-07.png)
+![](_temp_1769be7b_convert__images/_temp_1769be7b_convert_.pdf-0003-07.png)
 
 
 Figure 2 | FE-TEM images ACs synthesized at different conditions: (a) P, (b) ZP (c) HTP and (d) ZHTP. Scale bar of 20 nm is fixed for all the four images. 
@@ -93,7 +93,7 @@ Figure 2 | FE-TEM images ACs synthesized at different conditions: (a) P, (b) ZP 
 is able to provide higher specific capacitance. ZP and ZHTP delivered specific discharge capacitances that are almost two times higher than those obtained using CAC electrodes (Figure 3). Therefore, a similar enhancement in the performance is expected in Li-HEC configuration when coupled with spinel phase Li4Ti5O12 anode. Furthermore, HTP also delivers higher reversible adsorption/de-sorption behavior than commercial AC powders. This clearly suggests that the tailoring of carbonaceous materials with appropriate pore sizes is very crucial to yield high performance materials. The enhancement of such AC are mainly because of phase purity (Table T1) and high surface area with mesopores, which are required for easy access of the electrolyte solution and thereby enables facile adsorption/de-sorption of PF62 anions especially at high current rates[38] . Based on the electrochemical performance of both AC cathodes derived from CS (Li/AC) and spinel phase Li4Ti5O12 (Li/Li4Ti5O12, Figure S2, supporting information) in half-cell configuration under same current densities, the mass loading optimized and adjusted by the ratio of anode to cathode is 153.88, 152.91 and 152.41 for samples HTP, ZP, and ZHTP, respectively. However, the performance of sample P is found to be very inferior compared to the rest of the ACs; therefore, the powder is not been tested in Li-HEC configuration. 
 
 
-![](Activated carbons derived from coconut_images/image-0003-10.png)
+![](_temp_1769be7b_convert__images/_temp_1769be7b_convert_.pdf-0003-10.png)
 
 
 Figure 3 | (a) Typical galvanostatic charge-discharge curves of various carbonaceous materials in half-cell or single electrode configuration between 3–4.6 V vs. Li at current density of 100 mA g[–1] , in which metallic lithium act as counter and reference electrode, and (b) Plot of specific discharge capacitance vs. cycle number for above mentioned cells in ambient conditions. Data points are collected after every 10 cycles. 
@@ -103,7 +103,7 @@ SCIENTIFIC REPORTS | 3 : 3002 | DOI: 10.1038/srep03002
 3 
 
 
-![](Activated carbons derived from coconut_images/image-0004-00.png)
+![](_temp_1769be7b_convert__images/_temp_1769be7b_convert_.pdf-0004-00.png)
 
 
 **----- Start of picture text -----**<br>
@@ -117,7 +117,7 @@ Figure 4a–c shows the galvanostatic cycling profiles of Li-HEC comprising vari
 the ACs tested such as ZP (,52 Wh kg[–1] ), HTP (,36 Wh kg[–1] ) and CAC (,36 Wh kg[–1] ). Apart from the dramatic two fold increase in energy density, the enhancement in power density of the Li-HEC system comprising CS-ZHTP is noteworthy. The observed energy densities are much higher than to drive HEV (,7.5–8.3 Wh kg[–1] ), but still further enhancement are required to drive PHEV (,57– 97 Wh kg[–1] ) and EV (min. 150 Wh kg[–1] )[7] . In addition, present results are much higher than the those reported by Stoller et al.[29] , in which KOH treated microwave exfoliated graphite oxide was used as cathode active material along with Li4Ti5O12 anode to deliver a maximum energy density of 40.8 Wh kg[–1] . Recently, we reported the performance of trigol reduced graphene oxide nanosheets as cathode active material in Li-HEC assembly with Li4Ti5O12 anode and such assembly delivered a maximum energy density of , 45 Wh kg[–139] . Further, Li-HEC is also capable of driving miniature electronic applications for example; various light emitting diodes (LED) are tested with charged Li-HEC and shown in figure S5. This clearly suggests, Li-HEC not only drive the high power applications likely HEV and also can able to power small scale electronic devices. To the best of our knowledge, the observed value is one of the best values reported in Li-HEC applications, other than graphitic anodes[5,29] . The present study clearly shows that CS derived AC with appropriate mesoporosity and specific surface area can be used as prospective electrode material for high performance Li-HEC applications. Internal resistance of the Li-HEC plays the vital role to enhance the power density of the system irrespective of the electrolyte medium used. In this line, variation in the potential drop vs. applied current densities is 
 
 
-![](Activated carbons derived from coconut_images/image-0004-04.png)
+![](_temp_1769be7b_convert__images/_temp_1769be7b_convert_.pdf-0004-04.png)
 
 
 Figure 4 | Galvanostatic charge-discharge curves of Li-HEC comprising spinel phase Li4Ti5O12 anode and coconut shell derived carbons as cathode (a) ZP (b) HTP and (c) ZHTP, and (d) Ragone plot of Li-HEC along with CAC cathode and activated graphene (AG) based Li-HEC by Stoller et al.[29] , trigol reduced graphene oxide (TRGO) based Li-HEC by Aravindan et al.[39] . 
@@ -127,7 +127,7 @@ SCIENTIFIC REPORTS | 3 : 3002 | DOI: 10.1038/srep03002
 4 
 
 
-![](Activated carbons derived from coconut_images/image-0005-00.png)
+![](_temp_1769be7b_convert__images/_temp_1769be7b_convert_.pdf-0005-00.png)
 
 
 **----- Start of picture text -----**<br>
@@ -135,7 +135,7 @@ www.nature.com/scientificreports<br>**----- End of picture text -----**<br>
 
 
 
-![](Activated carbons derived from coconut_images/image-0005-01.png)
+![](_temp_1769be7b_convert__images/_temp_1769be7b_convert_.pdf-0005-01.png)
 
 
 Figure 5 | Plot of potential drop (IR drop) vs. applied current density. 
@@ -149,7 +149,7 @@ measured and given in Figure 5. The increase in resistance with respect to appli
 Cycleability is another important criterion for evaluation of materials as cathode in Li-HEC applications. Duplicate cells were made from CS AC along with Li4Ti5O12 anode and cycled at a current rate of 1.5 A g[–1] for 100% depth of discharge (Figure 6). Li-HEC rendered good cycleability for 2000 cycles and retained the initial discharge capacitance to the extent of , 85, , 85 and , 83% for ZHTP, HTP and ZP, respectively. The small capacitance loss during cycling is mainly due to the intrinsic nature of the commercial Li4Ti5O12 insertion type anode (Figure S2), whereas very stable cycleability is noted for carbonaceous cathodes (Figure 3). Moreover, this fading issue can be alleviated by adopting highly conducting networks such as CNT or carbon nanofibers as suggested by Naoi and co-workers[4–6,20,21] . As described above, this study certainly provides a new platform to employ high surface area AC from bio-masses for real time energy storage applications, preferably in Li-HEC to realize high energy and 
 
 
-![](Activated carbons derived from coconut_images/image-0005-07.png)
+![](_temp_1769be7b_convert__images/_temp_1769be7b_convert_.pdf-0005-07.png)
 
 
 Figure 6 | (Normalized) Cycling profiles of Li-HEC comprising high surface area carbonaceous anode materials between 1–3 V at current density of 1.5 A g[–1] . 
@@ -173,7 +173,7 @@ SCIENTIFIC REPORTS | 3 : 3002 | DOI: 10.1038/srep03002
 5 
 
 
-![](Activated carbons derived from coconut_images/image-0006-00.png)
+![](_temp_1769be7b_convert__images/_temp_1769be7b_convert_.pdf-0006-00.png)
 
 
 **----- Start of picture text -----**<br>

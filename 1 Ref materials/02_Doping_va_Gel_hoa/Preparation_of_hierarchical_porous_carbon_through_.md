@@ -1,9 +1,9 @@
 
-![](Preparation_of_hierarchical_porous_carbon_through__images/image-0001-00.png)
+![](_temp_403a5381_convert__images/_temp_403a5381_convert_.pdf-0001-00.png)
 
 
 
-![](Preparation_of_hierarchical_porous_carbon_through__images/image-0001-01.png)
+![](_temp_403a5381_convert__images/_temp_403a5381_convert_.pdf-0001-01.png)
 
 
 Northeast Petroleum University 
@@ -45,7 +45,7 @@ Coconut shell is mainly consists of cellulose, lignin and pentosan. It is a low-
 Page 3/22 
 
 
-![](Preparation_of_hierarchical_porous_carbon_through__images/image-0004-00.png)
+![](_temp_403a5381_convert__images/_temp_403a5381_convert_.pdf-0004-00.png)
 
 
 Coconut shell carbon was purchased from Wenxian Boyuan activated carbon factory. Potassium hydroxide (KOH), muriatic acid (HCl) and N-Methyl-2-pyrrolidinone (NMP) were purchased from Tianjin Damao Chemical Reagent Factory. Poly (vinylidene �uoride) (PVDF) was purchased from Aladdin Reagent Co., Ltd. Carbon black were acquired by Cabot Investment Co., Ltd. The carbon cloth (WOS 1009, CC) was purchased from the Taiwan carbon energy corporation. 
@@ -61,7 +61,7 @@ Page 4/22
 test was carried out in the potential range of -1-0 V at a series of scan rates from 5 to 200 mV s[− 1] . The galvanostatic charge–discharge (GCD) measurement was operated at different current density from 0.5 to 20 A g[− 1] with a potential window of -1-0 V. Electrochemical impedance spectroscopy (EIS) was conducted in a frequency range from 10[− 1] to 10[5] Hz with an amplitude of 5 mV. In addition, the electrochemical measurement of symmetrical SCs was carried out by using a two-electrode system. The gravimetric speci�c capacitance (C, F·g[− 1] ) of the electrode composites based on the three-electrode system and symmetric supercapacitors were calculated from galvanostatic charge-discharge (GCD) curve pro�les according to the following eqation: 
 
 
-![](Preparation_of_hierarchical_porous_carbon_through__images/image-0005-01.png)
+![](_temp_403a5381_convert__images/_temp_403a5381_convert_.pdf-0005-01.png)
 
 
 1 
@@ -71,7 +71,7 @@ Where I (A), Δt (s), ΔV (V) and m (g) refers to the discharge current, dischar
 Gravimetric energy density (E) in two-electrode system was evaluated through the equation below. 
 
 
-![](Preparation_of_hierarchical_porous_carbon_through__images/image-0005-05.png)
+![](_temp_403a5381_convert__images/_temp_403a5381_convert_.pdf-0005-05.png)
 
 
 2 
@@ -79,7 +79,7 @@ Gravimetric energy density (E) in two-electrode system was evaluated through the
 Gravimetric power density (P) in two-electrode system was evaluated through the equation below: 
 
 
-![](Preparation_of_hierarchical_porous_carbon_through__images/image-0005-08.png)
+![](_temp_403a5381_convert__images/_temp_403a5381_convert_.pdf-0005-08.png)
 
 
 3 
@@ -87,7 +87,7 @@ Gravimetric power density (P) in two-electrode system was evaluated through the 
 Where C represents the speci�c capacitance, ΔV refers to working potential, and t is the discharge time of symmetric supercapacitors. 
 
 
-![](Preparation_of_hierarchical_porous_carbon_through__images/image-0005-11.png)
+![](_temp_403a5381_convert__images/_temp_403a5381_convert_.pdf-0005-11.png)
 
 
 Figure 1 shows the microstructural properties of the carbon samples. It can be observed from Fig. 1(a) and 1(b) that CSC is composed of numerous irregularly shaped objects with rough surface and no obvious pores. However, the obtained CSCK-800-2 presents a 3D structure with rich connected holes and thin hole walls (Fig. 1(c) and 1(d)). The differences in the micromorphology and microstructure of CSC 
@@ -111,31 +111,31 @@ The pore size distribution curves of carbon samples shown in Fig. 4(b) and 4(d) 
 Based on the above analysis, the process of the porous carbon formation was proposed as follows. The carbon was activated with KOH at high temperature, and a series of redox reactions take place to etch the carbon frame and generate H2, CO2 and CO which were occupied by the resultant potassium compounds and then washed with distilled water and diluted HCl and boost number of micropores and small mesopores effectively. The activation mechanism was based on the following equations [21]. 
 
 
-![](Preparation_of_hierarchical_porous_carbon_through__images/image-0007-03.png)
+![](_temp_403a5381_convert__images/_temp_403a5381_convert_.pdf-0007-03.png)
 
 
 1 
 
 
-![](Preparation_of_hierarchical_porous_carbon_through__images/image-0007-05.png)
+![](_temp_403a5381_convert__images/_temp_403a5381_convert_.pdf-0007-05.png)
 
 
 2 
 
 
-![](Preparation_of_hierarchical_porous_carbon_through__images/image-0007-07.png)
+![](_temp_403a5381_convert__images/_temp_403a5381_convert_.pdf-0007-07.png)
 
 
 3 
 
 
-![](Preparation_of_hierarchical_porous_carbon_through__images/image-0007-09.png)
+![](_temp_403a5381_convert__images/_temp_403a5381_convert_.pdf-0007-09.png)
 
 
 4 
 
 
-![](Preparation_of_hierarchical_porous_carbon_through__images/image-0007-11.png)
+![](_temp_403a5381_convert__images/_temp_403a5381_convert_.pdf-0007-11.png)
 
 
 5 
@@ -149,7 +149,7 @@ vital contribution to the formation of the pore structure. As the KOH/C ratio an
 Table 1 Summary of the structure parameters for all samples 
 
 
-![](Preparation_of_hierarchical_porous_carbon_through__images/image-0008-02.png)
+![](_temp_403a5381_convert__images/_temp_403a5381_convert_.pdf-0008-02.png)
 
 
 |||(m<br>2<br>� g<br>− 1<br>)|(m<br>2<br>� g<br>− 1<br>)|( cm<br>3<br>� g<br>−|1<br>)|(<br>Ω<br>)|(<br>Ω<br>)||
@@ -183,7 +183,7 @@ in�uenced by the contact resistance between the active material and current co
 Table 2 Comparision of elctrochemical performance of biomass-derived carbon materials. 
 
 
-![](Preparation_of_hierarchical_porous_carbon_through__images/image-0010-02.png)
+![](_temp_403a5381_convert__images/_temp_403a5381_convert_.pdf-0010-02.png)
 
 
 ||g<br><br>density(A·g<br>− 1<br>)|(mol·L<br>− 1<br>)|/Cycle|capability<br>(from a<br>A/gto b<br>A/g)||
@@ -211,7 +211,7 @@ curves demonstrates a typical EDLCs behavior. The CV curves retain quasi-rectang
 In summary, a simple one-step KOH activation approach to prepare a cost-effective coconut shell-derived hierarchical porous carbon for high-performance supercapacitor was described. The effects of carbonization temperature and KOH/C ratio on the structure and electrochemical properties were studied systematically, with the aim to design a low-cost biomass carbon material for e�cient supercapacitor. It is proved that the KOH activation can generate mesopores mainly at 4 nm and a small amount near 14 nm. The synthesized CSCK-800-2, which possessed unique hierarchical porous with an ultra-high surface of 2143.6 m[2] ·g[− 1] , exhibited the best supercapacitor performance because of the four characteristics (micipores could increase surface area to ensure high energy storage capacity, small mesopores for fast ion transfer, large mesopores shorten ion-transport channels with a minimized inner-pore resistance, and localized graphitic structure can enhance conductivity). It delivers high speci�c capacitances up to 317 F·g[− 1] at a current density of 0.5 A·g[− 1] , and maintains high capacitance retention of 68.1% at 20 A·g[− 1] . The energy density of 13.5 Wh·kg[− 1] at a power density of 250 W·kg[− 1] can be achieved. Moreover, the capacitance loss is kept below 0.3% after 10000 charge − discharge cycles at 5 A g[− 1] . The coconut shellderived porous carbon is proved to be a promising, low cost and attractive electrochemical material. 
 
 
-![](Preparation_of_hierarchical_porous_carbon_through__images/image-0011-02.png)
+![](_temp_403a5381_convert__images/_temp_403a5381_convert_.pdf-0011-02.png)
 
 
 Yutong Zhao: Conceptualization, Methodology, Writing – original draft, Formal analysis, Validation, Project administration. Yuanyuan Wang: Validation, Investigation. Yanxiu Liu: Formal analysis.  Huan Wang: Funding acquisition. Hua Song: Writing review & editing, Supervision, Project administration, Funding acquisition. 
@@ -407,7 +407,7 @@ Scheme 1 is available in Supplementary Files section.
 Page 16/22 
 
 
-![](Preparation_of_hierarchical_porous_carbon_through__images/image-0017-00.png)
+![](_temp_403a5381_convert__images/_temp_403a5381_convert_.pdf-0017-00.png)
 
 
 SEM images of CSC, CSCK-800-2, EDX spectrum and element mapping analyses of CSCK800-2 
@@ -415,13 +415,13 @@ SEM images of CSC, CSCK-800-2, EDX spectrum and element mapping analyses of CSCK
 Page 17/22 
 
 
-![](Preparation_of_hierarchical_porous_carbon_through__images/image-0018-00.png)
+![](_temp_403a5381_convert__images/_temp_403a5381_convert_.pdf-0018-00.png)
 
 
 XRD curves of pristine CSC and CSCK-800-x, CSC and CSCK-T-2 
 
 
-![](Preparation_of_hierarchical_porous_carbon_through__images/image-0018-02.png)
+![](_temp_403a5381_convert__images/_temp_403a5381_convert_.pdf-0018-02.png)
 
 
 Raman curves of pristine CSC and CSCK-800-x, CSC and CSCK-T-2 
@@ -429,13 +429,13 @@ Raman curves of pristine CSC and CSCK-800-x, CSC and CSCK-T-2
 Page 18/22 
 
 
-![](Preparation_of_hierarchical_porous_carbon_through__images/image-0019-00.png)
+![](_temp_403a5381_convert__images/_temp_403a5381_convert_.pdf-0019-00.png)
 
 
 and Nitrogen adsorption/desorption isotherms, and pore size distributions of all samples 
 
 
-![](Preparation_of_hierarchical_porous_carbon_through__images/image-0019-02.png)
+![](_temp_403a5381_convert__images/_temp_403a5381_convert_.pdf-0019-02.png)
 
 
 Page 19/22 
@@ -443,7 +443,7 @@ Page 19/22
 XPS survey spectra of CSCK-800-2, C 1s spectrum and O 1s spectrum 
 
 
-![](Preparation_of_hierarchical_porous_carbon_through__images/image-0020-01.png)
+![](_temp_403a5381_convert__images/_temp_403a5381_convert_.pdf-0020-01.png)
 
 
 Page 20/22 
@@ -451,7 +451,7 @@ Page 20/22
 Electrochemical performance of all samples in a three-electrode system: CV curves at 50 mV·s[-1] , GCD curves at a current density of 0.5 A·g[-1] , CV curves of CSCK-800-2 at different scan rates, GCD curves of CSCK-800-2 at different current density, variation of speci�c capacitance with current density of CSC and CSCK-800-2, Nyquist plots 
 
 
-![](Preparation_of_hierarchical_porous_carbon_through__images/image-0021-01.png)
+![](_temp_403a5381_convert__images/_temp_403a5381_convert_.pdf-0021-01.png)
 
 
 Electrochemical performances of a symmetric supercapacitor prepared by CSCK-800-2 in 6 M KOH electrolyte. CV curves at 5~200 mV s[-1] scan rates, GCD curves at 5~20A·g[-1] current densities, Comparison of Ragone plots of the CSCK-800-2 with other work, The capacitance retention ratio of CSCK-800-2-based SC after 10000 charge−discharge cycles at 5 A·g[-1] 

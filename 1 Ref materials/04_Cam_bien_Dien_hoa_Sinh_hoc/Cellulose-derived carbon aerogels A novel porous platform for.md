@@ -1,7 +1,7 @@
 Materials & Design 219 (2022) 110778 
 
 
-![](Cellulose-derived carbon aerogels A novel porous platform for_images/image-0001-01.png)
+![](_temp_67ce2ada_convert__images/_temp_67ce2ada_convert_.pdf-0001-01.png)
 
 
 Contents lists available at ScienceDirect 
@@ -11,13 +11,13 @@ Contents lists available at ScienceDirect
 journal homepage: www.elsevier.com/locate/matdes 
 
 
-![](Cellulose-derived carbon aerogels A novel porous platform for_images/image-0001-05.png)
+![](_temp_67ce2ada_convert__images/_temp_67ce2ada_convert_.pdf-0001-05.png)
 
 
 ## Cellulose-derived carbon aerogels: A novel porous platform for supercapacitor electrodes 
 
 
-![](Cellulose-derived carbon aerogels A novel porous platform for_images/image-0001-07.png)
+![](_temp_67ce2ada_convert__images/_temp_67ce2ada_convert_.pdf-0001-07.png)
 
 
 ## Chonghao Zhang[a] , Haochen Wang[a] , Yanfeng Gao[a][,][⇑] , Caichao Wan[b][,][⇑] 
@@ -39,7 +39,7 @@ journal homepage: www.elsevier.com/locate/matdes
 - Unveil the challenges and perspectives of CDCA-based electrodes and devices. 
 
 
-![](Cellulose-derived carbon aerogels A novel porous platform for_images/image-0001-17.png)
+![](_temp_67ce2ada_convert__images/_temp_67ce2ada_convert_.pdf-0001-17.png)
 
 
 ## a r t i c l e i n f o 
@@ -115,19 +115,19 @@ Materials & Design 219 (2022) 110778
 C. Zhang, H. Wang, Y. Gao et al. 
 
 
-![](Cellulose-derived carbon aerogels A novel porous platform for_images/image-0003-02.png)
+![](_temp_67ce2ada_convert__images/_temp_67ce2ada_convert_.pdf-0003-02.png)
 
 
 Fig. 1. Configuration of a MnO2//FeOCl@CDCA asymmetric supercapacitor (ASC). (Positive electrode: MnO2; Negative electrode: FeOCl@CDCA; Separator: cellulose paper; Current collector: Ni foam; Packaging material: PTFE plate). (Reprinted with permission from [57]. Copyright 2019 The Royal Society of Chemistry.). 
 
 
-![](Cellulose-derived carbon aerogels A novel porous platform for_images/image-0003-04.png)
+![](_temp_67ce2ada_convert__images/_temp_67ce2ada_convert_.pdf-0003-04.png)
 
 
 Fig. 2. Charge storage mechanism of different types of supercapacitors. (Reprinted with permission from [60]. Copyright 2019 The Royal Society of Chemistry.). 
 
 
-![](Cellulose-derived carbon aerogels A novel porous platform for_images/image-0003-06.png)
+![](_temp_67ce2ada_convert__images/_temp_67ce2ada_convert_.pdf-0003-06.png)
 
 
 Fig. 3. Regeneration mechanism of cellulose I from its LiCl/DMAc solution. (Reprinted with permission from [72]. Copyright 2017 The Royal Society of Chemistry.). 
@@ -173,7 +173,7 @@ Materials & Design 219 (2022) 110778
 C. Zhang, H. Wang, Y. Gao et al. 
 
 
-![](Cellulose-derived carbon aerogels A novel porous platform for_images/image-0005-02.png)
+![](_temp_67ce2ada_convert__images/_temp_67ce2ada_convert_.pdf-0005-02.png)
 
 
 Fig. 4. Schematic diagram of nanofibrillated cellulose from cellulose fiber bundles (cellulose microfibers). (Reprinted with permission from [80]. Copyright 2021 The Royal Society of Chemistry.). 
@@ -199,7 +199,7 @@ C. Zhang, H. Wang, Y. Gao et al.
 Materials & Design 219 (2022) 110778 
 
 
-![](Cellulose-derived carbon aerogels A novel porous platform for_images/image-0006-02.png)
+![](_temp_67ce2ada_convert__images/_temp_67ce2ada_convert_.pdf-0006-02.png)
 
 
 Fig. 5. Preparation method and microstructure of CDCAs and their precursors. (a) Schematic representation of RCAs prepared from wheat straw; (b) scanning electron microscopy (SEM) image of RCAs; (c-d) SEM images of NCAs (the inset in panel c is a digital photograph of the lightweight NCAs, and the inset in panel d presents the diameter distribution of the nanofibrillated cellulose); (e) Van Krevelan diagram of cellulose char from different temperatures; (f-g) SEM images of (f) RCAs and (g) CDCAs before and after pyrolysis (the inset in panel f shows the energy dispersive X-ray (EDX) spectra). ((a-b) Reprinted with permission from [44]. Copyright 2015 Taylor & Francis. (c-d) Reprinted with permission from [45]. Copyright 2015 Wiley. (e) Reprinted with permission from [85]. Copyright 2015 Elsevier. (f-g) Reprinted with permission from [79]. Copyright 2015 Elsevier.). 
@@ -270,7 +270,7 @@ C. Zhang, H. Wang, Y. Gao et al.
 Materials & Design 219 (2022) 110778 
 
 
-![](Cellulose-derived carbon aerogels A novel porous platform for_images/image-0008-02.png)
+![](_temp_67ce2ada_convert__images/_temp_67ce2ada_convert_.pdf-0008-02.png)
 
 
 Fig. 6. Preparation method, microstructure, and energy storage property of RCA-derived CDCAs. (a) Schematic illustration of the fabrication process of the carbon fiber aerogel (CFA) and its microstructure; (b) galvanostatic charge/discharge (GCD) curves of the activated CFA (A- CFAx, X means the activated temperature) and CFA electrodes at current density of 0.5 A g[�][1] ; (c) capacitance retention of the A-CFAx at different current densities; (d) photographs of typical samples including microcrystalline cellulose powders, supercritical CO2-dried aerogel (cellulose- SCD), carbon aerogel (CA-SCD), and activated carbon aerogel (ACA-SCD); (d-e) pore-size distributions of typical cellulose aerogels and carbon aerogels; (g) schematic fabrication process of the N, S dual-doped hierarchical porous carbon aerogel; (h) schematic SSCs; (i) specific capacitances of the carbon aerogel and N-doped carbon aerogel at different currents. ((a-c) Reprinted with permission from [86]. Copyright 2018 Elsevier. (d-f) Reprinted with permission from [87]. Copyright 2016 Elsevier. (g-h) Reprinted with permission from [89]. Copyright 2020 American Chemical Society. (i) Reprinted with permission from [90]. Copyright 2019 MDPI.). 
@@ -296,7 +296,7 @@ Materials & Design 219 (2022) 110778
 C. Zhang, H. Wang, Y. Gao et al. 
 
 
-![](Cellulose-derived carbon aerogels A novel porous platform for_images/image-0009-02.png)
+![](_temp_67ce2ada_convert__images/_temp_67ce2ada_convert_.pdf-0009-02.png)
 
 
 Fig. 7. Preparation method, microstructure, and energy storage property of RCA-derived CDCA-based composite electrodes. (a) Schematic fabrication process of the 3D hierarchical porous carbon aerogel/PPy composite; (b) SEM images of the carbon aerogel and carbon aerogel/PPy composite; (c) schematic for the crystalline structure of FeOCl and the fabrication of the FeOCl@CDCA by ball-milling; (d) cycle stability and coulombic efficiency of the FeOCl@CDCA at 50 mA cm[�][2] and the inset is its SEM image after 10,000 cycles; (e) Ragone plot of the MnO2//FeOCl@CDCA ASC compared with the data of some other ASCs. ((a-b) Reprinted with permission from [96]. Copyright 2019 Elsevier. (c-e) Reprinted with permission from [57]. Copyright 2019 The Royal Society of Chemistry.). 
@@ -320,7 +320,7 @@ adsorption ability of cellulose aerogels, it is interesting and fascinating for 
 In contrast to the hetero-atom doping, integrating CDCAs with pseudocapacitive materials (e.g., conductive polymers and metallic compounds) is usually more powerful. A typical example is that 
 
 
-![](Cellulose-derived carbon aerogels A novel porous platform for_images/image-0010-06.png)
+![](_temp_67ce2ada_convert__images/_temp_67ce2ada_convert_.pdf-0010-06.png)
 
 
 Fig. 8. Preparation method, microstructure, and energy storage property of NCA-derived CDCAs. (a-b) Schematic illustrations of the (a) fabrication of nanocellulose-derived hierarchical porous carbon (HPC) and HPC/NiCo2O4 composite aerogels and (b) their assembly into an all- nanofiber ASC device; (c) optical photographs of the green LEDs and a fan powered by a prototype ASC cell; (d) illustration of the fabrication of wood-derived NCAs; (e) synthetic route to the tubular carbon aerogel with N-containing sandwich-like wall; (f) schematic illustration for the synthesis of the carbon nanofibril (CTOCN)/MnO2 composite aerogel; (g) SEM images of the CTOCN (up) and CTOCN/ MnO2 (down); (h) cycling stability of the CTOCN/MnO2//activated carbon ASC at 3 A g[�][1] over 4500 cycles. ((a-c) Reprinted with permission from [97]. Copyright 2019 American Chemical Society. (d) Reprinted with permission from [61]. Copyright 2018 Wiley. (e) Reprinted with permission from [98]. Copyright 2019 Elsevier. (f-h) Reprinted with permission from [100]. Copyright 2021 Elsevier.). 

@@ -1,5 +1,5 @@
 
-![](New Class of Carbon-Nanotube Aerogel Electrodes_images/image-0001-01.png)
+![](_temp_62a71bcc_convert__images/_temp_62a71bcc_convert_.pdf-0001-01.png)
 
 
 ## **DOI: 10.1002/adma.200701498** 
@@ -31,7 +31,7 @@ A further important feature of these nanocomposites is their lack of binder. Ind
 Figure 1 shows scanning electron microscopy (SEM) and transmission electron microscopy (TEM) images of the pristine CAG. This material looks like a sponge with a highly connected structure (Fig. 1b). The TEM image reveals that CAGs consist of a network of particles arranged in an interconnected chain-like structure (Fig. 1c). Figure 2 shows SEM images of the prepared CNAG composites. Most of the substrate is covered with CAG (Fig. 2a–c) of texture similar to that ob- 
 
 
-![](New Class of Carbon-Nanotube Aerogel Electrodes_images/image-0001-16.png)
+![](_temp_62a71bcc_convert__images/_temp_62a71bcc_convert_.pdf-0001-16.png)
 
 
 **815** 
@@ -41,11 +41,11 @@ Figure 1 shows scanning electron microscopy (SEM) and transmission electron micr
 _Adv. Mater._ **2008** , _20_ , 815–819 
 
 
-![](New Class of Carbon-Nanotube Aerogel Electrodes_images/image-0002-01.png)
+![](_temp_62a71bcc_convert__images/_temp_62a71bcc_convert_.pdf-0002-01.png)
 
 
 
-![](New Class of Carbon-Nanotube Aerogel Electrodes_images/image-0002-02.png)
+![](_temp_62a71bcc_convert__images/_temp_62a71bcc_convert_.pdf-0002-02.png)
 
 
 **Scheme 1.** Concept of making CNAG nanocomposites. 
@@ -53,15 +53,15 @@ _Adv. Mater._ **2008** , _20_ , 815–819
 nanoparticles can protect ferromagnetic particles from oxidation, making it an interesting magnetic medium. The CNAGs developed here could then constitute new structures for ferromagnetic elements such as Fe and Ni/Fe,[[16]] or Co/Fe, which are already used for CNT synthesis. 
 
 
-![](New Class of Carbon-Nanotube Aerogel Electrodes_images/image-0002-05.png)
+![](_temp_62a71bcc_convert__images/_temp_62a71bcc_convert_.pdf-0002-05.png)
 
 
 
-![](New Class of Carbon-Nanotube Aerogel Electrodes_images/image-0002-06.png)
+![](_temp_62a71bcc_convert__images/_temp_62a71bcc_convert_.pdf-0002-06.png)
 
 
 
-![](New Class of Carbon-Nanotube Aerogel Electrodes_images/image-0002-07.png)
+![](_temp_62a71bcc_convert__images/_temp_62a71bcc_convert_.pdf-0002-07.png)
 
 
 Raman spectra of the pristine CAG (for comparison), the pristine MWNTs (for comparison), and the CNAG samples shown in Figures 2b,e are shown in Figure 4. All the samples exhibit mainly two Raman bands, at around 1343 cm[–1] (D band) and 1583 cm[–1] (G band). The G band indicates original graphite features, whereas the D band is known to be related to disorder features of graphitic structures.[[17]] It is well known that the _R_ value, the relative intensity ratio of the D band to the G band, depends on both the degree of graphitization and the alignment of the graphitic planes of carbon materials.[[18]] Also, the _R_ value is sensitive to the ratio of the concentration of graphite edge planes and/or crystal boundaries to standard graphite planes, i.e., the lower the _R_ value, the greater the amount of sp[2] (graphite) clusters on the sample. The intensity ratios of the D band to the G band ( _I_ D/ _I_ G) were determined and were found to be 0.58, 0.999, 0.925, and 0.900 for CAG, MWNT, CNAG (of Fig. 2e), and CNAG (of Fig. 2b), respectively. These results indicate that the new CNAG specimens are disordered carbon. 
@@ -81,13 +81,13 @@ Atomic concentrations obtained by X-ray photoelectron spectroscopy (XPS) survey 
 _Adv. Mater._ **2008** , _20_ , 815–819 
 
 
-![](New Class of Carbon-Nanotube Aerogel Electrodes_images/image-0003-01.png)
+![](_temp_62a71bcc_convert__images/_temp_62a71bcc_convert_.pdf-0003-01.png)
 
 
 bination of MWNTs (mesoporous) and CAG (mostly microporous) gives the CNAG a textural porosity of almost of 50/50 mesoporous and microporous, which should be interesting for electrochemical capacitor applications. In fact, the micropores will participate in the charge storage processes, and wide pathways, that is, mesopores, will permit a fast accessibility of ions, thus a high energy at a high rate.[[21]] 
 
 
-![](New Class of Carbon-Nanotube Aerogel Electrodes_images/image-0003-03.png)
+![](_temp_62a71bcc_convert__images/_temp_62a71bcc_convert_.pdf-0003-03.png)
 
 
 Preliminary testing to evaluate the potential of these newly developed CNAG composites for supercapacitors was carried out in 5M KOH electrolyte. Figure 6 shows typical cyclic voltammograms (CVs) for a CNAG electrode recorded at 20 mV s[–1] scan rate. The CNAG electrode exhibited excellent capacitor behavior: the curve presents the typical rectangular shape expected for an ideal double-layer capacitor. Experiments at scan rates ranging from 5 to 100 mV s[–1] were performed and results showed that the current increases with increasing scan rate with no significant degeneration of the shape of the cyclic voltammograms at the high scan rates. It is known that specific capacitance can be estimated well from constant current (CC) charge–discharge measurements.[[22]] Thus, by means of CC charge– discharge experiments, it was found that CNAG delivered an outstanding high specific capacitance of 524 F g[–1] , almost four times that of CAG (134 F g[–1] ). To the best of our knowledge this is by far the highest capacitance for carbonaceous materials ever reported in the open literature. For comparison, the highest capacitance obtained with activated carbon was 320 F g[–1] .[[23]] 
@@ -95,7 +95,7 @@ Preliminary testing to evaluate the potential of these newly developed CNAG comp
 **Figure 2.** SEM images of CNAG nanocomposites. 
 
 
-![](New Class of Carbon-Nanotube Aerogel Electrodes_images/image-0003-06.png)
+![](_temp_62a71bcc_convert__images/_temp_62a71bcc_convert_.pdf-0003-06.png)
 
 
 **Figure 3.** TEM images of CNAG nanocomposites. White arrows in (a) indicate pores. 
@@ -124,11 +124,11 @@ Measurements of the SSA and pore dimensions analysis are summarized in Table 2. 
 _Adv. Mater._ **2008** , _20_ , 815–819 
 
 
-![](New Class of Carbon-Nanotube Aerogel Electrodes_images/image-0004-01.png)
+![](_temp_62a71bcc_convert__images/_temp_62a71bcc_convert_.pdf-0004-01.png)
 
 
 
-![](New Class of Carbon-Nanotube Aerogel Electrodes_images/image-0004-02.png)
+![](_temp_62a71bcc_convert__images/_temp_62a71bcc_convert_.pdf-0004-02.png)
 
 
 **----- Start of picture text -----**<br>
@@ -169,17 +169,17 @@ The synthesis of MWNTs on MFCP substrate was performed by chemical vapor deposit
 _Adv. Mater._ **2008** , _20_ , 815–819 
 
 
-![](New Class of Carbon-Nanotube Aerogel Electrodes_images/image-0005-01.png)
+![](_temp_62a71bcc_convert__images/_temp_62a71bcc_convert_.pdf-0005-01.png)
 
 
 
-![](New Class of Carbon-Nanotube Aerogel Electrodes_images/image-0005-02.png)
+![](_temp_62a71bcc_convert__images/_temp_62a71bcc_convert_.pdf-0005-02.png)
 
 
 **Figure 5.** XPS high-resolution spectra (C 1s region) for CNAG nanocomposites. 
 
 
-![](New Class of Carbon-Nanotube Aerogel Electrodes_images/image-0005-04.png)
+![](_temp_62a71bcc_convert__images/_temp_62a71bcc_convert_.pdf-0005-04.png)
 
 
 Leica microscope, and an electrically refrigerated charge-coupled device (CCD) camera. The spectra shown here were obtained with 20× magnification objective lenses. The laser output was 50 mW. Acquisition time was 5 min. The software employed for data acquisition and analysis was WIRE for Windows and Galactic Industries GRAMS/ 32TM. Ten scans were recorded to improve the signal-to-noise ratio. Spectra at three different points were taken for each sample to minimize problems arising because of the possible lack of sample uniformity. The Raman spectra presented are the representative measurements of the three points. 

@@ -1,11 +1,11 @@
 
-![](3 Kinetics of Supercritical Drying of Gels_images/image-0001-00.png)
+![](_temp_e2fa1eb1_convert__images/_temp_e2fa1eb1_convert_.pdf-0001-00.png)
 
 
 ## _**gels**_ 
 
 
-![](3 Kinetics of Supercritical Drying of Gels_images/image-0001-02.png)
+![](_temp_e2fa1eb1_convert__images/_temp_e2fa1eb1_convert_.pdf-0001-02.png)
 
 
 _Review_ 
@@ -45,7 +45,7 @@ _Gels_ **2018** , _4_ , 3
 also be prepared by different techniques such as dripping method [7], emulsion-gelation method [8], and spraying [9]. Sometimes the gels are aged to strengthen their solid network. Subsequently, the liquid inside the gel is removed and replaced by air while preserving the original gel structure. 
 
 
-![](3 Kinetics of Supercritical Drying of Gels_images/image-0002-03.png)
+![](_temp_e2fa1eb1_convert__images/_temp_e2fa1eb1_convert_.pdf-0002-03.png)
 
 
 **Figure 1.** Schematic representation of sol-gel method to produce aerogels. 
@@ -59,7 +59,7 @@ The removal of pore filling liquid should be performed while preserving the pore
 - supercritical drying 
 
 
-![](3 Kinetics of Supercritical Drying of Gels_images/image-0002-09.png)
+![](_temp_e2fa1eb1_convert__images/_temp_e2fa1eb1_convert_.pdf-0002-09.png)
 
 
 **Figure 2.** Phase diagram of a pure substance illustrating different drying routes. Adopted with permission from [10]. 
@@ -69,7 +69,7 @@ The removal of pore filling liquid should be performed while preserving the pore
 Ambient pressure drying is the process of drying the wet gels by evaporating the pore liquid at ambient pressures and at temperatures ranging from room temperature to 200 _[◦]_ C [11]. If the wet gel is dried under ambient conditions without matrix strengthening, it can shrink significantly, losing its porous structure. The most important feature of aerogels, their nano-sized pores is also the main reason for this shrinkage. As the solvent evaporates from the pores of the gel network, the radius of curvature of vapor-liquid interface decreases, exerting a pressure on the gel surface. The maximum pressure caused by the resulting meniscus in a pore of diameter _d_ can be calculated as follows for a completely wetting solvent [10] 
 
 
-![](3 Kinetics of Supercritical Drying of Gels_images/image-0002-13.png)
+![](_temp_e2fa1eb1_convert__images/_temp_e2fa1eb1_convert_.pdf-0002-13.png)
 
 
 _Gels_ **2018** , _4_ , 3 
@@ -79,7 +79,7 @@ _Gels_ **2018** , _4_ , 3
 where _γLV_ is the surface tension of the vapor-liquid interface, _d_ is the diameter of the pore, and _δ_ is the thickness of the liquid layer adsorbed on the solid surface, as represented in Figure 3. 
 
 
-![](3 Kinetics of Supercritical Drying of Gels_images/image-0003-03.png)
+![](_temp_e2fa1eb1_convert__images/_temp_e2fa1eb1_convert_.pdf-0003-03.png)
 
 
 **Figure 3.** Illustration of a meniscus in a pore of wet gel. Adopted with permission from [10]. 
@@ -115,7 +115,7 @@ Freezing might damage the nanostructured gels as freezing could lead to the grow
 Supercritical drying which can be described as the extraction of the solvent from the pores of the gel with the use of supercritical fluids is another method which can be used for drying the wet gels. As shown in Figure 2, a fluid reaches its supercritical conditions when it is compressed and heated above its critical temperature and pressure. Supercritical fluids (SCFs) have liquid-like densities which enable them to function as solvents. Moreover, higher diffusion coefficients in supercritical fluids than in liquids combined with their gas like viscosities result in enhanced mass transfer characteristics. Supercritical drying generally yields aerogels which have higher pore volumes and porosities, higher surface areas when compared to freeze drying and ambient pressure drying [18–20]. A comparison of the two gels dried using supercritical CO2 and ambient drying is shown in Figure 4 which shows that shrinkage is significantly less (high porosity) with supercritical drying [21]. 
 
 
-![](3 Kinetics of Supercritical Drying of Gels_images/image-0004-05.png)
+![](_temp_e2fa1eb1_convert__images/_temp_e2fa1eb1_convert_.pdf-0004-05.png)
 
 
 **Figure 4.** Silica gel images obtained by supercritical drying ( **left** ) and ambient drying ( **right** ). Reprinted with the permission from [21]. 
@@ -125,7 +125,7 @@ Supercritical drying which can be described as the extraction of the solvent fro
 A typical flow diagram of a continuous supercritical drying process is shown in Figure 5. 
 
 
-![](3 Kinetics of Supercritical Drying of Gels_images/image-0004-09.png)
+![](_temp_e2fa1eb1_convert__images/_temp_e2fa1eb1_convert_.pdf-0004-09.png)
 
 
 **Figure 5.** Flowsheet of a supercritical CO2 drying cycle. 
@@ -201,15 +201,15 @@ The next step is to fill the vessel with the gel. In most of the studies, excess
 Another important consideration is the flow direction of scCO2 in the vessel. Figure 6 shows three different flow configurations such as downflow, upflow, and horizontal flow for a cylindrical vessel and gel material. 
 
 
-![](3 Kinetics of Supercritical Drying of Gels_images/image-0007-04.png)
+![](_temp_e2fa1eb1_convert__images/_temp_e2fa1eb1_convert_.pdf-0007-04.png)
 
 
 
-![](3 Kinetics of Supercritical Drying of Gels_images/image-0007-05.png)
+![](_temp_e2fa1eb1_convert__images/_temp_e2fa1eb1_convert_.pdf-0007-05.png)
 
 
 
-![](3 Kinetics of Supercritical Drying of Gels_images/image-0007-06.png)
+![](_temp_e2fa1eb1_convert__images/_temp_e2fa1eb1_convert_.pdf-0007-06.png)
 
 
 **Figure 6.** Different flow systems used in supercritical drying experiments. ( **a** ) Downflow; ( **b** ) upflow; ( **c** ) horizontal. Arrow directions show entrance of pure CO2 and exit of the effluent stream consisting of CO2 and the solvent whereas the dark blue cylinder represents the gel placed inside the vessel. 
@@ -247,7 +247,7 @@ _Gels_ **2018** , _4_ , 3
 gels during drying were obtained. Although this technique was powerful, it required the installation of an optical set-up, use of a custom high pressure chamber, and data analysis tools. Thus, we strongly recommend this technique if the purpose of the experiment is to study fundamentals of transport mechanism and measure composition dependent diffusion coefficient. Recently, Baloch et al. developed an experimental technique to measure the composition of ethanol-CO2 mixtures at high pressures by frequency response of microcantilevers [41,42]. 
 
 
-![](3 Kinetics of Supercritical Drying of Gels_images/image-0009-03.png)
+![](_temp_e2fa1eb1_convert__images/_temp_e2fa1eb1_convert_.pdf-0009-03.png)
 
 
 **Figure 7.** Schematic representation of process flow diagram of drying unit used in our studies (1. CO2 tank, 2. Valve, 3. Cooler, 4. Pressure transducer, 5. Pump, 6. Tubular extraction vessel, 7. Oven, 8. Micro-metering Valve, 9. Thermocouple, 10. Sample collection vial, 11. Dry ice cooling bath, 12. Rotameter). Adopted with permission from [5]. 
@@ -273,19 +273,19 @@ When a wet gel is subjected to scCO2 stream, convective mass transfer of CO2 fro
 Diffusion in aerogels takes place through a cramped and tortuous interconnected open pore network of the aerogels [11,38,48]. The mass transfer flux of pore liquid, _Na_ , by diffusion throughout the fluid-filled pores in aerogels is typically described by modified Fick’s Law [49] 
 
 
-![](3 Kinetics of Supercritical Drying of Gels_images/image-0010-07.png)
+![](_temp_e2fa1eb1_convert__images/_temp_e2fa1eb1_convert_.pdf-0010-07.png)
 
 
 where _De_ is the effective diffusion coefficient, _xa_ is the mole fraction of the solvent species, _∂Ca_ / _∂x_ is the concentration gradient. _De_ is less than the binary diffusion coefficient of pore liquid and CO2 ( _D_ 12) due to the effects of aerogel porosity ( _ε_ ) and tortuosity ( _τ_ ) and it is usually given by [39,49] 
 
 
-![](3 Kinetics of Supercritical Drying of Gels_images/image-0010-09.png)
+![](_temp_e2fa1eb1_convert__images/_temp_e2fa1eb1_convert_.pdf-0010-09.png)
 
 
 Diffusion coefficient strongly depends on the structural properties of the aerogels. Sometimes this can be corrected further by a term containing ( _λ_ / _dp_ ) where _λ_ is ratio of the size of the molecules and _dp_ is the pore diameter [48,49]. Knudsen gas diffusion and molecular or bulk diffusion are significant diffusion mechanisms that occur in the aerogel pores. Aerogels have a pore size distribution, generally in the mesopore range and hardly in the micropore range, with pores typically ranging from 5 to 100 nm and an average pore diameter between 20 and 40 nm [11,48,50]. Diffusion in mesopores is mostly governed by molecular diffusion since the pore size is at least one order of magnitude larger than the mean free path of gas molecules. Knudsen diffusion takes place when the mean free path of the molecules is larger than the pore size so that the diffusing molecules collide more frequently with the pore walls than with the other diffusing species, which can be significant within the pores in the micropore range [48,49]. The overall diffusion coefficient ( _Dt_ ) in a binary mixture in aerogel considering _D_ 12 and Knudsen diffusivity ( _Dk_ ) is therefore calculated by [11,46] 
 
 
-![](3 Kinetics of Supercritical Drying of Gels_images/image-0010-11.png)
+![](_temp_e2fa1eb1_convert__images/_temp_e2fa1eb1_convert_.pdf-0010-11.png)
 
 
 _Gels_ **2018** , _4_ , 3 
@@ -293,7 +293,7 @@ _Gels_ **2018** , _4_ , 3
 11 of 29 
 
 
-![](3 Kinetics of Supercritical Drying of Gels_images/image-0011-02.png)
+![](_temp_e2fa1eb1_convert__images/_temp_e2fa1eb1_convert_.pdf-0011-02.png)
 
 
 where _rp_ is pore radius; _M_ is molecular weight of CO2, kg/kmol; _R_ is ideal gas constant, kJ/kmol; and _T_ is temperature, K. 
@@ -305,7 +305,7 @@ Aerogel tortuosity is typically used to characterize connecting pore channels th
 The binary diffusion coefficient is a function of CO2 mole fraction [46]. Composition dependence of binary diffusion coefficient of pore liquid and CO2 can be predicted using an empirical correlation given by Equation (6) which was proposed by Vignes et al. for concentrated liquid mixtures where _D_ 12[∞][is][binary][diffusion][coefficient][of][CO][2][in][the][pore][liquid][at][infinite][dilution][and] _[D]_ 21[∞][is][binary] diffusion coefficient of the pore liquid in scCO2 at infinite dilution, _x_ 1 is mole fraction of CO2, and _α_ is a thermodynamic correction factor assumed to be 1 based on the ideal solution approximation for the binary solution in the pores [57]. It is generally agreed that Vignes expression gives excellent agreement with experimental results in the case of ideal solutions [57,58]. 
 
 
-![](3 Kinetics of Supercritical Drying of Gels_images/image-0011-07.png)
+![](_temp_e2fa1eb1_convert__images/_temp_e2fa1eb1_convert_.pdf-0011-07.png)
 
 
 Since the pores of the wet gel are filled with organic solvents, commonly ethanol and acetone, their binary diffusion coefficients in scCO2 at infinite dilution are needed to utilize Equation (6). Many studies on the measurements of the infinite-dilution diffusion coefficients for binary systems of organic solvents and CO2 were reported in the literature, and most of them employed the Taylor dispersion technique. In this measurement technique, a small amount of a solute is injected into a cylindrical diffusion column through which scCO2 is flowing in fully developed laminar flow. Tracer concentration profile as a function of time is obtained at the column exit using a detector. The analysis of the profiles enables one to extract the diffusion coefficient. Figure 8 gives the binary diffusion coefficient of acetone in scCO2 at infinite dilution as a function of pressure at 308 and 323 K measured by Funazukuri et al. [59,60]. 
@@ -315,87 +315,87 @@ _Gels_ **2018** , _4_ , 3
 12 of 29 
 
 
-![](3 Kinetics of Supercritical Drying of Gels_images/image-0012-02.png)
+![](_temp_e2fa1eb1_convert__images/_temp_e2fa1eb1_convert_.pdf-0012-02.png)
 
 
 
-![](3 Kinetics of Supercritical Drying of Gels_images/image-0012-03.png)
+![](_temp_e2fa1eb1_convert__images/_temp_e2fa1eb1_convert_.pdf-0012-03.png)
 
 
 
-![](3 Kinetics of Supercritical Drying of Gels_images/image-0012-04.png)
+![](_temp_e2fa1eb1_convert__images/_temp_e2fa1eb1_convert_.pdf-0012-04.png)
 
 
 
-![](3 Kinetics of Supercritical Drying of Gels_images/image-0012-05.png)
+![](_temp_e2fa1eb1_convert__images/_temp_e2fa1eb1_convert_.pdf-0012-05.png)
 
 
 
-![](3 Kinetics of Supercritical Drying of Gels_images/image-0012-06.png)
+![](_temp_e2fa1eb1_convert__images/_temp_e2fa1eb1_convert_.pdf-0012-06.png)
 
 
 
-![](3 Kinetics of Supercritical Drying of Gels_images/image-0012-07.png)
+![](_temp_e2fa1eb1_convert__images/_temp_e2fa1eb1_convert_.pdf-0012-07.png)
 
 
 
-![](3 Kinetics of Supercritical Drying of Gels_images/image-0012-08.png)
+![](_temp_e2fa1eb1_convert__images/_temp_e2fa1eb1_convert_.pdf-0012-08.png)
 
 
 
-![](3 Kinetics of Supercritical Drying of Gels_images/image-0012-09.png)
+![](_temp_e2fa1eb1_convert__images/_temp_e2fa1eb1_convert_.pdf-0012-09.png)
 
 
 
-![](3 Kinetics of Supercritical Drying of Gels_images/image-0012-10.png)
+![](_temp_e2fa1eb1_convert__images/_temp_e2fa1eb1_convert_.pdf-0012-10.png)
 
 
 
-![](3 Kinetics of Supercritical Drying of Gels_images/image-0012-11.png)
+![](_temp_e2fa1eb1_convert__images/_temp_e2fa1eb1_convert_.pdf-0012-11.png)
 
 
 
-![](3 Kinetics of Supercritical Drying of Gels_images/image-0012-12.png)
+![](_temp_e2fa1eb1_convert__images/_temp_e2fa1eb1_convert_.pdf-0012-12.png)
 
 
 
-![](3 Kinetics of Supercritical Drying of Gels_images/image-0012-13.png)
+![](_temp_e2fa1eb1_convert__images/_temp_e2fa1eb1_convert_.pdf-0012-13.png)
 
 
 
-![](3 Kinetics of Supercritical Drying of Gels_images/image-0012-14.png)
+![](_temp_e2fa1eb1_convert__images/_temp_e2fa1eb1_convert_.pdf-0012-14.png)
 
 
 
-![](3 Kinetics of Supercritical Drying of Gels_images/image-0012-15.png)
+![](_temp_e2fa1eb1_convert__images/_temp_e2fa1eb1_convert_.pdf-0012-15.png)
 
 
 
-![](3 Kinetics of Supercritical Drying of Gels_images/image-0012-16.png)
+![](_temp_e2fa1eb1_convert__images/_temp_e2fa1eb1_convert_.pdf-0012-16.png)
 
 
 
-![](3 Kinetics of Supercritical Drying of Gels_images/image-0012-17.png)
+![](_temp_e2fa1eb1_convert__images/_temp_e2fa1eb1_convert_.pdf-0012-17.png)
 
 
 
-![](3 Kinetics of Supercritical Drying of Gels_images/image-0012-18.png)
+![](_temp_e2fa1eb1_convert__images/_temp_e2fa1eb1_convert_.pdf-0012-18.png)
 
 
 
-![](3 Kinetics of Supercritical Drying of Gels_images/image-0012-19.png)
+![](_temp_e2fa1eb1_convert__images/_temp_e2fa1eb1_convert_.pdf-0012-19.png)
 
 
 
-![](3 Kinetics of Supercritical Drying of Gels_images/image-0012-20.png)
+![](_temp_e2fa1eb1_convert__images/_temp_e2fa1eb1_convert_.pdf-0012-20.png)
 
 
 
-![](3 Kinetics of Supercritical Drying of Gels_images/image-0012-21.png)
+![](_temp_e2fa1eb1_convert__images/_temp_e2fa1eb1_convert_.pdf-0012-21.png)
 
 
 
-![](3 Kinetics of Supercritical Drying of Gels_images/image-0012-22.png)
+![](_temp_e2fa1eb1_convert__images/_temp_e2fa1eb1_convert_.pdf-0012-22.png)
 
 
 **Figure 8.** Binary diffusion coefficients of acetone in scCO2 at infinite dilution obtained by curve fitting in the time domain (FTD) method vs. pressure at three different temperatures. Adopted with permissions from [59,60]. 
@@ -403,7 +403,7 @@ _Gels_ **2018** , _4_ , 3
 Kong et al. also measured the infinite dilution diffusion coefficients of a variety of polar compounds such as mono-alcohols and at 313.2 K at pressures higher than 9.5 MPa by using a technique called chromatographic impulse response (CIR) to diminish errors in the Taylor dispersion method [61]. In this technique, a polymer coated capillary tube is used as a diffusion column and a model is used to describe partitioning of a solute species between the polymer phase and supercritical phase. Measured binary diffusion coefficients of various organic solvents in scCO2 at infinite dilution at 313.15 K measured using CIR are given in Figure 9 [61]. 
 
 
-![](3 Kinetics of Supercritical Drying of Gels_images/image-0012-25.png)
+![](_temp_e2fa1eb1_convert__images/_temp_e2fa1eb1_convert_.pdf-0012-25.png)
 
 
 **Figure 9.** Binary diffusion coefficient of various organic solvents in scCO2 at infinite dilution at 313.15 K as a function of pressure. Adopted with permission from [61]. Copyright (2017) American Chemical Society. 
@@ -417,7 +417,7 @@ _Gels_ **2018** , _4_ , 3
 **Table 2.** Empirical correlations to predict diffusion coefficients for solutes in supercritical fluids at 
 
 
-![](3 Kinetics of Supercritical Drying of Gels_images/image-0013-03.png)
+![](_temp_e2fa1eb1_convert__images/_temp_e2fa1eb1_convert_.pdf-0013-03.png)
 
 
 The other term in the Vignes correlation is the infinite dilution diffusion coefficient of CO2 in the organic solvent. These can be calculated using the correlations developed for diffusion of gases in liquids assuming that it is almost pressure-independent since the solvent density does not change appreciably when pressure is raised from 1 atm to pressures employed in supercritical drying. There are also some available experimental data for infinite dilution binary diffusion coefficients of CO2 in various organic liquids at varying temperatures. These measured diffusion coefficients of CO2 in various organic solvents at infinite dilution are provided in Figure 10 and Table 3. 
@@ -427,83 +427,83 @@ _Gels_ **2018** , _4_ , 3
 14 of 29 
 
 
-![](3 Kinetics of Supercritical Drying of Gels_images/image-0014-02.png)
+![](_temp_e2fa1eb1_convert__images/_temp_e2fa1eb1_convert_.pdf-0014-02.png)
 
 
 
-![](3 Kinetics of Supercritical Drying of Gels_images/image-0014-03.png)
+![](_temp_e2fa1eb1_convert__images/_temp_e2fa1eb1_convert_.pdf-0014-03.png)
 
 
 
-![](3 Kinetics of Supercritical Drying of Gels_images/image-0014-04.png)
+![](_temp_e2fa1eb1_convert__images/_temp_e2fa1eb1_convert_.pdf-0014-04.png)
 
 
 
-![](3 Kinetics of Supercritical Drying of Gels_images/image-0014-05.png)
+![](_temp_e2fa1eb1_convert__images/_temp_e2fa1eb1_convert_.pdf-0014-05.png)
 
 
 
-![](3 Kinetics of Supercritical Drying of Gels_images/image-0014-06.png)
+![](_temp_e2fa1eb1_convert__images/_temp_e2fa1eb1_convert_.pdf-0014-06.png)
 
 
 
-![](3 Kinetics of Supercritical Drying of Gels_images/image-0014-07.png)
+![](_temp_e2fa1eb1_convert__images/_temp_e2fa1eb1_convert_.pdf-0014-07.png)
 
 
 
-![](3 Kinetics of Supercritical Drying of Gels_images/image-0014-08.png)
+![](_temp_e2fa1eb1_convert__images/_temp_e2fa1eb1_convert_.pdf-0014-08.png)
 
 
 
-![](3 Kinetics of Supercritical Drying of Gels_images/image-0014-09.png)
+![](_temp_e2fa1eb1_convert__images/_temp_e2fa1eb1_convert_.pdf-0014-09.png)
 
 
 
-![](3 Kinetics of Supercritical Drying of Gels_images/image-0014-10.png)
+![](_temp_e2fa1eb1_convert__images/_temp_e2fa1eb1_convert_.pdf-0014-10.png)
 
 
 
-![](3 Kinetics of Supercritical Drying of Gels_images/image-0014-11.png)
+![](_temp_e2fa1eb1_convert__images/_temp_e2fa1eb1_convert_.pdf-0014-11.png)
 
 
 
-![](3 Kinetics of Supercritical Drying of Gels_images/image-0014-12.png)
+![](_temp_e2fa1eb1_convert__images/_temp_e2fa1eb1_convert_.pdf-0014-12.png)
 
 
 
-![](3 Kinetics of Supercritical Drying of Gels_images/image-0014-13.png)
+![](_temp_e2fa1eb1_convert__images/_temp_e2fa1eb1_convert_.pdf-0014-13.png)
 
 
 
-![](3 Kinetics of Supercritical Drying of Gels_images/image-0014-14.png)
+![](_temp_e2fa1eb1_convert__images/_temp_e2fa1eb1_convert_.pdf-0014-14.png)
 
 
 
-![](3 Kinetics of Supercritical Drying of Gels_images/image-0014-15.png)
+![](_temp_e2fa1eb1_convert__images/_temp_e2fa1eb1_convert_.pdf-0014-15.png)
 
 
 
-![](3 Kinetics of Supercritical Drying of Gels_images/image-0014-16.png)
+![](_temp_e2fa1eb1_convert__images/_temp_e2fa1eb1_convert_.pdf-0014-16.png)
 
 
 
-![](3 Kinetics of Supercritical Drying of Gels_images/image-0014-17.png)
+![](_temp_e2fa1eb1_convert__images/_temp_e2fa1eb1_convert_.pdf-0014-17.png)
 
 
 
-![](3 Kinetics of Supercritical Drying of Gels_images/image-0014-18.png)
+![](_temp_e2fa1eb1_convert__images/_temp_e2fa1eb1_convert_.pdf-0014-18.png)
 
 
 
-![](3 Kinetics of Supercritical Drying of Gels_images/image-0014-19.png)
+![](_temp_e2fa1eb1_convert__images/_temp_e2fa1eb1_convert_.pdf-0014-19.png)
 
 
 
-![](3 Kinetics of Supercritical Drying of Gels_images/image-0014-20.png)
+![](_temp_e2fa1eb1_convert__images/_temp_e2fa1eb1_convert_.pdf-0014-20.png)
 
 
 
-![](3 Kinetics of Supercritical Drying of Gels_images/image-0014-21.png)
+![](_temp_e2fa1eb1_convert__images/_temp_e2fa1eb1_convert_.pdf-0014-21.png)
 
 
 **Figure 10.** Diffusion coefficients of CO2 in methanol and ethanol at infinite dilution as a function of temperature. Adopted with permission from [64,71]. Copyright (2017) American Chemical Society. 
@@ -524,13 +524,13 @@ _Gels_ **2018** , _4_ , 3
 Binary diffusion coefficients of CO2 in some organic solvents were also correlated. Snijder et al. provided a correlation for diffusion coefficient of CO2 in ethanol for the range of 298 to 333 K given by [71] 
 
 
-![](3 Kinetics of Supercritical Drying of Gels_images/image-0014-26.png)
+![](_temp_e2fa1eb1_convert__images/_temp_e2fa1eb1_convert_.pdf-0014-26.png)
 
 
 Frank et al. also correlated diffusion coefficient of CO2 in methanol as follows [64] 
 
 
-![](3 Kinetics of Supercritical Drying of Gels_images/image-0014-28.png)
+![](_temp_e2fa1eb1_convert__images/_temp_e2fa1eb1_convert_.pdf-0014-28.png)
 
 
 Some of the estimates in the literature for effective diffusivities in aerogels are given in Table 4. 
@@ -555,11 +555,11 @@ _Gels_ **2018** , _4_ , 3
 The mass flux from the gel surface towards the flowing stream and the mass flux due to convection in the flowing stream are described by Equations (13) and (14), respectively. 
 
 
-![](3 Kinetics of Supercritical Drying of Gels_images/image-0015-04.png)
+![](_temp_e2fa1eb1_convert__images/_temp_e2fa1eb1_convert_.pdf-0015-04.png)
 
 
 
-![](3 Kinetics of Supercritical Drying of Gels_images/image-0015-05.png)
+![](_temp_e2fa1eb1_convert__images/_temp_e2fa1eb1_convert_.pdf-0015-05.png)
 
 
 where _Na_ , _s_ is convective mass flux of pore liquid from the gel surface into the flowing stream, _Na_ , _z_ is convective mass flux of pore liquid in the flowing stream, _kx_ is an external mass transfer coefficient, _Cs_ is concentration of the pore liquid on the gel surface, _Cv_ is the average concentration of pore liquid in the flowing stream, _vz_ is velocity of the scCO2. 
@@ -588,13 +588,13 @@ _Gels_ **2018** , _4_ , 3
 pressure, leading to substantial increase in percent volume change as in Figure 11 [79]. Relative volume expansion of a system in the presence of CO2 can be calculated using Equation (15) [80] as follows 
 
 
-![](3 Kinetics of Supercritical Drying of Gels_images/image-0016-03.png)
+![](_temp_e2fa1eb1_convert__images/_temp_e2fa1eb1_convert_.pdf-0016-03.png)
 
 
 where ∆ _V_ / _V_ is relative volume expansion, _T_ is temperature, _P_ is pressure, _P_ 0 is the ambient pressure, _ρL_ and _ρ_ 2 are density of liquid mixture and the solvent, respectively; _x_ 1 is the mole fraction of the solvent, _M_ 1 and _M_ 2 are molecular weights of carbon dioxide and solvent, respectively. 
 
 
-![](3 Kinetics of Supercritical Drying of Gels_images/image-0016-05.png)
+![](_temp_e2fa1eb1_convert__images/_temp_e2fa1eb1_convert_.pdf-0016-05.png)
 
 
 **Figure 11.** Relative volume expansion of ethanol vs. liquid mole fraction of carbon dioxide ( **a** ) and pressure ( **b** ) at 298.15 K. Plots are regenerated using the data available at [79]. 
@@ -606,13 +606,13 @@ _Gels_ **2018** , _4_ , 3
 17 of 29 
 
 
-![](3 Kinetics of Supercritical Drying of Gels_images/image-0017-02.png)
+![](_temp_e2fa1eb1_convert__images/_temp_e2fa1eb1_convert_.pdf-0017-02.png)
 
 
 **Figure 12.** Densities of CO2 + ethanol mixture with respect to mole fraction of CO2 at 313.15 K: , 10 MPa; ▲, 9 MPa; ■, 8 MPa; ♦, 7 MPa; ▼, 6 MPa; �, 5 MPa; ∆, 4 MPa; □, 3 MPa; ♦, 2 MPa; _▽_ , 1 MPa. Adapted with permission from [81]. Copyright 2017 American Chemical Society. 
 
 
-![](3 Kinetics of Supercritical Drying of Gels_images/image-0017-04.png)
+![](_temp_e2fa1eb1_convert__images/_temp_e2fa1eb1_convert_.pdf-0017-04.png)
 
 
 **Figure 13.** Density of acetone-CO2 mixture with respect to CO2 weight fraction at ~325 K and ~14 MPa. Data is taken from [82]. Copyright 2017 American Chemical Society. 
@@ -624,7 +624,7 @@ Some researchers tried to incorporate the transport mechanism via spillage of th
 Axial dispersion is a phenomenon in which the concentration of the solvent in flowing CO2 stream changes in the flow direction due to diffusion in the axial direction and non-uniform velocity profiles. In the case of supercritical drying of packed bed of gel particles, axial dispersion of the solvent in the flowing CO2 stream should also be considered. A criterion was proposed by Han et al. as follows [83]: 
 
 
-![](3 Kinetics of Supercritical Drying of Gels_images/image-0017-09.png)
+![](_temp_e2fa1eb1_convert__images/_temp_e2fa1eb1_convert_.pdf-0017-09.png)
 
 
 where _L_ is bed length, _dp_ is particle diameter, _Pe_ is Peclet number, and _∈b_ is bed void fraction. 
@@ -644,13 +644,13 @@ Aerogel and vessel geometry are important for derived model equations to be suff
 The partial differential equation obtained from the mass balance in a differential volume element in a cylindrical gel rod is given by 
 
 
-![](3 Kinetics of Supercritical Drying of Gels_images/image-0018-06.png)
+![](_temp_e2fa1eb1_convert__images/_temp_e2fa1eb1_convert_.pdf-0018-06.png)
 
 
 where _Ca_ is concentration of the pore liquid in the gel, (kmol/m[3] ); _De_ is effective diffusion coefficient, (m[2] /s); _R_ is radius of the gel (m); _t_ is time (s); _z_ and _r_ is the direction that diffusion occurs in the gel. The partial differential equation obtained from a mass balance in a differential volume element outside of the gel in the fluid phase is given by 
 
 
-![](3 Kinetics of Supercritical Drying of Gels_images/image-0018-08.png)
+![](_temp_e2fa1eb1_convert__images/_temp_e2fa1eb1_convert_.pdf-0018-08.png)
 
 
 where _kx_ is an external mass transfer coefficient (m/s); _Rv_ is inner radius of the vessel (m); _vz_ is velocity of scCO2 (m/s). 
@@ -658,11 +658,11 @@ where _kx_ is an external mass transfer coefficient (m/s); _Rv_ is inner radius 
 The left hand side of Equation (18) accounts for convective mass transfer of the pore liquid, the first term represents the mass transfer taking place between the gel surface and the flowing stream of scCO2 and the second term denotes the mass transfer of the pore liquid by convection in the _z_ direction in the vessel. The right hand side of the equation represents the accumulation of the pore liquid in the flowing stream. In Equation (18), _vz_ is assumed to be constant and is given by 
 
 
-![](3 Kinetics of Supercritical Drying of Gels_images/image-0018-11.png)
+![](_temp_e2fa1eb1_convert__images/_temp_e2fa1eb1_convert_.pdf-0018-11.png)
 
 
 
-![](3 Kinetics of Supercritical Drying of Gels_images/image-0018-12.png)
+![](_temp_e2fa1eb1_convert__images/_temp_e2fa1eb1_convert_.pdf-0018-12.png)
 
 
 where _Q_ is the volumetric flow rate of scCO2 (m[3] /s); _Ac_ is cross sectional area of the annulus between ˙ the vessel wall and aerogel surface (m[2] ); m is mass flow rate of the scCO2 (kg/s); _ρ_ is density of scCO2 
@@ -674,33 +674,33 @@ _Gels_ **2018** , _4_ , 3
 (kg/m[3] ); m is constant in the system, and since change in˙ _ρ_ is negligible, _Q_ is assumed to be constant in the system. Since _Ac_ and _Q_ are constant in the system, _vz_ is constant. The initial and boundary conditions are given by: Initial conditions: 
 
 
-![](3 Kinetics of Supercritical Drying of Gels_images/image-0019-03.png)
+![](_temp_e2fa1eb1_convert__images/_temp_e2fa1eb1_convert_.pdf-0019-03.png)
 
 
 
-![](3 Kinetics of Supercritical Drying of Gels_images/image-0019-04.png)
+![](_temp_e2fa1eb1_convert__images/_temp_e2fa1eb1_convert_.pdf-0019-04.png)
 
 
 Boundary conditions: 
 
 
-![](3 Kinetics of Supercritical Drying of Gels_images/image-0019-06.png)
+![](_temp_e2fa1eb1_convert__images/_temp_e2fa1eb1_convert_.pdf-0019-06.png)
 
 
 
-![](3 Kinetics of Supercritical Drying of Gels_images/image-0019-07.png)
+![](_temp_e2fa1eb1_convert__images/_temp_e2fa1eb1_convert_.pdf-0019-07.png)
 
 
 
-![](3 Kinetics of Supercritical Drying of Gels_images/image-0019-08.png)
+![](_temp_e2fa1eb1_convert__images/_temp_e2fa1eb1_convert_.pdf-0019-08.png)
 
 
 
-![](3 Kinetics of Supercritical Drying of Gels_images/image-0019-09.png)
+![](_temp_e2fa1eb1_convert__images/_temp_e2fa1eb1_convert_.pdf-0019-09.png)
 
 
 
-![](3 Kinetics of Supercritical Drying of Gels_images/image-0019-10.png)
+![](_temp_e2fa1eb1_convert__images/_temp_e2fa1eb1_convert_.pdf-0019-10.png)
 
 
 where _Ci_ is initial concentration of pore liquid, _L_ is the length of the gel, _ra_ is radius of the gel, _kx_ is mass transfer coefficient, _Na_ , _s_ is convective mass flux of pore liquid from the gel surface into the flowing stream, _Na_ , _z_ is diffusive flux of pore liquid within the gel in the _z_ direction, and _Na_ , _r_ is diffusive flux of pore liquid within the gel in the r direction. 
@@ -710,13 +710,13 @@ The initial condition in Equation (21) indicates that the concentration of pore 
 Similar equations can be written for the case of superficial drying of spherical gel particles in a packed bed. Partial differential equation governing mass transfer of the solvent inside a spherical gel is given by 
 
 
-![](3 Kinetics of Supercritical Drying of Gels_images/image-0019-14.png)
+![](_temp_e2fa1eb1_convert__images/_temp_e2fa1eb1_convert_.pdf-0019-14.png)
 
 
 The mass balance of the solvent in the flowing carbon dioxide stream along in the flow direction yields 
 
 
-![](3 Kinetics of Supercritical Drying of Gels_images/image-0019-16.png)
+![](_temp_e2fa1eb1_convert__images/_temp_e2fa1eb1_convert_.pdf-0019-16.png)
 
 
 where _r_ is the radial direction, _R_ is the particle radius, _k_ is the mass transfer coefficient, and _εb_ is the void fraction of the packed bed. 
@@ -724,11 +724,11 @@ where _r_ is the radial direction, _R_ is the particle radius, _k_ is the mass t
 The initial and boundary conditions are given by Initial conditions: 
 
 
-![](3 Kinetics of Supercritical Drying of Gels_images/image-0019-19.png)
+![](_temp_e2fa1eb1_convert__images/_temp_e2fa1eb1_convert_.pdf-0019-19.png)
 
 
 
-![](3 Kinetics of Supercritical Drying of Gels_images/image-0019-20.png)
+![](_temp_e2fa1eb1_convert__images/_temp_e2fa1eb1_convert_.pdf-0019-20.png)
 
 
 _Gels_ **2018** , _4_ , 3 
@@ -738,15 +738,15 @@ _Gels_ **2018** , _4_ , 3
 Boundary conditions: 
 
 
-![](3 Kinetics of Supercritical Drying of Gels_images/image-0020-03.png)
+![](_temp_e2fa1eb1_convert__images/_temp_e2fa1eb1_convert_.pdf-0020-03.png)
 
 
 
-![](3 Kinetics of Supercritical Drying of Gels_images/image-0020-04.png)
+![](_temp_e2fa1eb1_convert__images/_temp_e2fa1eb1_convert_.pdf-0020-04.png)
 
 
 
-![](3 Kinetics of Supercritical Drying of Gels_images/image-0020-05.png)
+![](_temp_e2fa1eb1_convert__images/_temp_e2fa1eb1_convert_.pdf-0020-05.png)
 
 
 Temperature and pressure are significant operating parameters affecting the kinetics of the drying process due to large changes of density and viscosity with these parameters. 
@@ -758,7 +758,7 @@ There are a few studies in the literature on modeling of supercritical drying of
 As an example of 1D mass transfer models, the study of Orlovic et al., on the drying of alumina/silica alcogel the pores of which were filled with 1-butanol can be given [86]. The developed model was represented as an unsteady one-dimensional diffusion of solvent through pores of the gel. Drying of the alcogels was also experimentally monitored by the change of the weight of wet gel with time. The researchers tested four models which were shrinking core model 1 and 2, parallel pore model, and pore in series model. In shrinking core model 1, they neglected Knudsen diffusivity and used an average overall diffusivity. Whereas in shrinking core model 2, they included Knudsen diffusivity. In those models, the use of a single diffusivity value for the whole aerogel sample failed to predict the drying behavior accurately. However, the parallel pore model and the pore in series model which were developed on the basis of measured porous structure of the aerogel, involved the use of different diffusivity values for each pore size and consequently resulted in better agreement with experimental data as seen in Figure 14. 
 
 
-![](3 Kinetics of Supercritical Drying of Gels_images/image-0020-10.png)
+![](_temp_e2fa1eb1_convert__images/_temp_e2fa1eb1_convert_.pdf-0020-10.png)
 
 
 **Figure 14.** Comparison of experimental data with model results (SCM: shrinking core model; PPM: parallel pore model; PSM: pore in series model). Adopted with permission from [86]. 
@@ -772,7 +772,7 @@ _Gels_ **2018** , _4_ , 3
 numerically as shown in Figure 15. Assumption of zero ethanol concentration outside of the alcogel for the analytical solution resulted in greater deviations from the experimental results compared to the numerical solution. 
 
 
-![](3 Kinetics of Supercritical Drying of Gels_images/image-0021-03.png)
+![](_temp_e2fa1eb1_convert__images/_temp_e2fa1eb1_convert_.pdf-0021-03.png)
 
 
 **Figure 15.** Comparison of the experimental data to the model results (both analytical and numerical solutions). Adopted with permission from [38]. 
@@ -782,7 +782,7 @@ Another study involving the use of an analytical solution to describe supercriti
 In the study of Garcia-Gonzalez et al., the amount of ethanol removed as a function of time was calculated using again the analytical solution of a model based on Fick’s second law but this time in cylindrical coordinates [33]. It was assumed that Fickian diffusion was the single mass transfer mechanism for the modeling of ethanol removal from silica alcogels. As a consequence, the model failed to predict the initial drying stage as seen in Figure 16 where convective mass transfer was also significant. However, the later stages of the drying were accurately predicted with the same model indicating that the last stage of the supercritical drying should be diffusion controlled. 
 
 
-![](3 Kinetics of Supercritical Drying of Gels_images/image-0021-07.png)
+![](_temp_e2fa1eb1_convert__images/_temp_e2fa1eb1_convert_.pdf-0021-07.png)
 
 
 **Figure 16.** Normalized parity plot of experimental values of ethanol extracted by supercritical drying of a starch aerogel. Adopted with permission from [33]. 
@@ -796,7 +796,7 @@ To be more realistic in terms of mass transfer in supercritical drying, 2D mass 
 Subsequently, a more comprehensive 2D model was proposed by Ozbakır and Erkey [5]. The model treated the alcogel phase and flowing scCO2 phase separately. 2D (axial and radial) diffusive model based on Fick’s second law was considered for the transfer of ethanol from alcogel to flowing stream. On the other hand, transfer mechanisms in the flowing scCO2 stream were convective mass transfer of ethanol from alcogel surface to bulk CO2 and convection in the axial direction. There was a good agreement between the proposed model results and experimental percent removal data as a function of time as shown in Figure 17. 
 
 
-![](3 Kinetics of Supercritical Drying of Gels_images/image-0022-04.png)
+![](_temp_e2fa1eb1_convert__images/_temp_e2fa1eb1_convert_.pdf-0022-04.png)
 
 
 **Figure 17.** Comparison of experimental extraction profile of a silica alcogel to model data at 100 bar, 40 _[◦]_ C [5]. 
@@ -814,7 +814,7 @@ Another approach was adopted by Novak and Knez [37]. They observed non-transpare
 Another experimental study on supercritical drying was carried out by Quino et al. where one-dimensional Raman spectroscopy was used to provide some insights into the mass transport processes that are involved during supercritical drying of a silica gel [34]. They have visualized in situ temporally and spatially resolved composition and concentration fields developing inside a silica gel monolith during drying as shown in Figure 18. The evolution of concentration fields showed that ethanol was continuously transported out of the gel. 
 
 
-![](3 Kinetics of Supercritical Drying of Gels_images/image-0023-04.png)
+![](_temp_e2fa1eb1_convert__images/_temp_e2fa1eb1_convert_.pdf-0023-04.png)
 
 
 **Figure 18.** Representative composition profiles xCO2 at different times (light blue color indicate the region out of the gel) [34]. 
@@ -828,7 +828,7 @@ _Gels_ **2018** , _4_ , 3
 24 of 29 
 
 
-![](3 Kinetics of Supercritical Drying of Gels_images/image-0024-02.png)
+![](_temp_e2fa1eb1_convert__images/_temp_e2fa1eb1_convert_.pdf-0024-02.png)
 
 
 **Figure 19.** Comparison of supercritical drying profiles of starch aerogel particles and monoliths. Adopted with permission from [32]. Picture on the left: monolith, picture on the right: particles. 
@@ -850,11 +850,11 @@ who demonstrated that simulated values of percent ethanol removal at different f
 Previous studies on drying kinetics discussed above show that supercritical of drying of a bed of gel particles was not studied in detail. We recently studied the effect of operating conditions on drying kinetics in a fixed bed of calcium alginate alcogels in the form of spherical beads with a particle size of 0.4 cm. Experiments were carried out in three different temperatures at 10 MPa with an exit CO2 gas flow rate of 2 L/min to investigate the effect of temperature on concentration profiles of ethanol at the exit of the extraction vessel. Results in Figure 20 indicate that, although temperature changes the exit ethanol concentration profiles mainly due to change in density, drying time is not affected considerably. 
 
 
-![](3 Kinetics of Supercritical Drying of Gels_images/image-0025-04.png)
+![](_temp_e2fa1eb1_convert__images/_temp_e2fa1eb1_convert_.pdf-0025-04.png)
 
 
 
-![](3 Kinetics of Supercritical Drying of Gels_images/image-0025-05.png)
+![](_temp_e2fa1eb1_convert__images/_temp_e2fa1eb1_convert_.pdf-0025-05.png)
 
 
 **Figure 20.** Ethanol exit concentration change ( **a** ) and percent removal ( **b** ) with time for different temperatures for supercritical drying of calcium alginate beads. 
@@ -1058,7 +1058,7 @@ _Gels_ **2018** , _4_ , 3
 86. Orlovi´c, A.M.; Petrovi´c, S.; Skala, D.U. Mathematical modeling and simulation of gel drying with supercritical carbon dioxide. _J. Serbian Chem. Soc._ **2005** , _70_ , 125–136. [CrossRef] 
 
 
-![](3 Kinetics of Supercritical Drying of Gels_images/image-0029-15.png)
+![](_temp_e2fa1eb1_convert__images/_temp_e2fa1eb1_convert_.pdf-0029-15.png)
 
 
 - © 2017 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (http://creativecommons.org/licenses/by/4.0/). 

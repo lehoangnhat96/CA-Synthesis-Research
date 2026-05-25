@@ -1,11 +1,11 @@
 _**nanomaterials**_ 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0001-01.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0001-01.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0001-02.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0001-02.png)
 
 
 ## _Review_ 
@@ -29,7 +29,7 @@ Academic Editor: Jooheon Kim
 Received: 10 July 2023 Revised: 13 August 2023 Accepted: 16 August 2023 Published: 23 August 2023 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0001-13.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0001-13.png)
 
 
 **Copyright:** © 2023 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https:// creativecommons.org/licenses/by/ 4.0/). 
@@ -75,11 +75,11 @@ _Nanomaterials_ **2023** , _13_ , 2397
 4 of 30 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0004-02.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0004-02.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0004-03.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0004-03.png)
 
 
 **Figure 1.** Schematic diagram for the preparation process of CA. Copyright 2016 by the Elsevier from [34]. 
@@ -177,13 +177,13 @@ ORR normally occurs at the cathode of electrochemical energy devices. The produc
    - (i) 4e _[−]_ pathway: 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0008-07.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0008-07.png)
 
 
 - (ii) 2e _[−]_ pathway: 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0008-09.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0008-09.png)
 
 
 - (2) Under acidic electrolytes: 
@@ -191,13 +191,13 @@ ORR normally occurs at the cathode of electrochemical energy devices. The produc
    - (i) 4e _[−]_ pathway: 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0008-12.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0008-12.png)
 
 
 - (ii) 2e _[−]_ pathway: 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0008-14.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0008-14.png)
 
 
 In principle, the 4e _[−]_ reaction pathway is more favorable for energy conversion. However, the two-electron reaction pathway is easier to generate peroxides and strongly corrode the electrocatalyst, which is not conducive to the stability of metal–air batteries [57]. Therefore, it is expected that the ORR process is all based on the 4e _[−]_ reaction pathway. However, the 2e _[−]_ reaction pathway still inevitably occurs due to various factors such as the catalyst activity on the electrode surface, the pH value of the electrolyte, the diffusion rate of oxygen molecules, and the reaction temperature [58]. 
@@ -211,7 +211,7 @@ _Nanomaterials_ **2023** , _13_ , 2397
 electrode surface will affect the desorption of H2O and even hinder the further adsorption of O2 molecules by the active sites on the electrode surface [59,60]. As shown in Figure 2a, researchers have verified that the ORR catalytic activity of various metals has a “volcanic” relationship with the binding energy of O atoms and the noble metal (Pt) is superior to the transition metals (Fe, Co, Ni, etc.) in an ideal position, which means Pt has a higher ORR electrocatalytic activity [7,61,62]. 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0009-03.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0009-03.png)
 
 
 **Figure 2.** ( **a** ) ORR volcano plot for metals. ( **b** ) 2D volcano plot showing the “standard” scaling relationship (∆GOOH* = ∆GOH* + 3.2) for OOH* and OH* for metals, which also limits the performance of a wide variety of 2D materials. ( **c** ) OER volcano plot for metal oxides. ( **d** ) Relation between the OER catalytic activity and the occupancy of the eg-symmetry electron of the transition metal (B in ABO3). Copyright 2017 by the Wiley from reference [7]. 
@@ -235,13 +235,13 @@ _∗_ + OH _[−]_ (aq) _−_ e _[−] →_ OH _[∗]_ OH _[∗]_ + OH _[−]_ (
 (2) Under acidic electrolytes: 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0010-04.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0010-04.png)
 
 
 In addition, there is another reaction pathway for O2 generation in alkaline or acidic electrolytes as shown below: 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0010-06.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0010-06.png)
 
 
 Among them, * represents the active site on the catalyst surface, and the binding energy between the catalytic reaction intermediates (O*, OH*, and HOO*) and the catalyst surface significantly impacts the OER activity [65]. 
@@ -279,251 +279,251 @@ _Nanomaterials_ **2023** , _13_ , 2397
 of amorphous and flawed carbon structures together with layers of graphene that are irregularly orientated (Figure 3h). At high temperatures, free radicals generated by NH3 decomposition can etch away carbon fragments, leaving newly created micropores that contain nitrogen-containing active sites. Additional nitrogen-containing groups are also produced owing to the substitution reaction between oxygen-containing species on the carbon surface and NH3. The resulting doped-nitrogen flaws in the edges and planes of graphene can function as ORR active sites. Therefore, N-CNF shows remarkable ORR performance, displaying an onset potential (Eonset) of 0.83 V and a half-wave potential (E1/2) of 0.80 V, which is merely 50 mV less active than that of the Pt/C catalyst (Figure 3i). N-CNF CAs had a higher ORR activity than that of NH3-treated carbon black, CNT, and reduced graphene oxide aerogels, as well as the majority of reported metal-free catalysts (Figure 3j). Owing to the distinctive 3D nanofiber network structure of CNF CA, it is easier to have intimate contact with gaseous NH3 molecules than other carbon materials, leading to a more efficient activation process and a more uniform distribution of functionalized sites. Also, ZAB made of N-CNF has an open-circuit voltage of 1.50 V, a specific capacity of 615 mAh _·_ g _[−]_[1] , and a gravimetric energy density of 760 Wh _·_ kg _[−]_[1] , which is comparable to that made of Pt/C. The ORR and OER performance of all the catalysts mentioned above ~~and also below are summarized in Table 2.~~ 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0012-03.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0012-03.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0012-04.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0012-04.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0012-05.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0012-05.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0012-06.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0012-06.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0012-07.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0012-07.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0012-08.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0012-08.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0012-09.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0012-09.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0012-10.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0012-10.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0012-11.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0012-11.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0012-12.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0012-12.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0012-13.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0012-13.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0012-14.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0012-14.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0012-15.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0012-15.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0012-16.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0012-16.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0012-17.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0012-17.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0012-18.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0012-18.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0012-19.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0012-19.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0012-20.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0012-20.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0012-21.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0012-21.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0012-22.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0012-22.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0012-23.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0012-23.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0012-24.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0012-24.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0012-25.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0012-25.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0012-26.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0012-26.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0012-27.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0012-27.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0012-28.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0012-28.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0012-29.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0012-29.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0012-30.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0012-30.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0012-31.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0012-31.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0012-32.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0012-32.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0012-33.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0012-33.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0012-34.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0012-34.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0012-35.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0012-35.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0012-36.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0012-36.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0012-37.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0012-37.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0012-38.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0012-38.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0012-39.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0012-39.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0012-40.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0012-40.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0012-41.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0012-41.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0012-42.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0012-42.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0012-43.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0012-43.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0012-44.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0012-44.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0012-45.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0012-45.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0012-46.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0012-46.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0012-47.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0012-47.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0012-48.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0012-48.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0012-49.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0012-49.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0012-50.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0012-50.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0012-51.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0012-51.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0012-52.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0012-52.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0012-53.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0012-53.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0012-54.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0012-54.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0012-55.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0012-55.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0012-56.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0012-56.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0012-57.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0012-57.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0012-58.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0012-58.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0012-59.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0012-59.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0012-60.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0012-60.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0012-61.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0012-61.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0012-62.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0012-62.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0012-63.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0012-63.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0012-64.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0012-64.png)
 
 
 **Figure 3.** ( **a** ) Several different types of N-configurations in N-doped carbon. Copyright 2021 by the Royal Society of Chemistry from reference [77]. ( **b** ) Schematic mechanism of the possible role of KOH 
@@ -547,7 +547,7 @@ _Nanomaterials_ **2023** , _13_ , 2397
 14 of 30 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0014-02.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0014-02.png)
 
 
 **Figure 4.** ( **a** ) Several different types of B-configurations in B-doped carbon. Copyright 2021 by the Royal Society of Chemistry from reference [77]. ( **b** ) Schematic diagram of the synthesis of BN _−_ CA _−_ 900. ( **c** ) TEM and ( **d** ) HRTEM image of BN _−_ CA _−_ 900. ( **e** ) ORR curves of BN _−_ CA _−_ 900. Copyright 2019 by the Wiley from reference [80]. ( **f** ) Several different types of S-configurations in S-doped carbon. Copyright 2021 by the Royal Society of Chemistry from reference [77]. ( **g** ) SEM and ( **h** ) TEM image of N1S1 _−_ CNW _−_ 900. ( **i** ) ORR curves of N1S1 _−_ CNW _−_ 900. Copyright 2016 by the Springer Link from reference [82]. 
@@ -581,207 +581,207 @@ _Nanomaterials_ **2023** , _13_ , 2397
 materials. Combined with the results of the extended X-ray absorption fine structure (EXAFS) test, it can be demonstrated that Fe species dispersed as FeN4 exhibit the best ORR performance (E1/2 = 0.88 V), even better than commercial Pt/C. The outstanding ORR activity of FeNC-900-8 is attributed to the copious micropores and expansive specific surface area (1364 m[2] /g), which allows the full exposure of active sites to ensure the effective participation in the catalytic reaction. As a cathode catalyst for ZABs, FeNC-900-8 also exhibits exceptional performance. The FeNC-900-8-based ZAB reaches an open circuit voltage of 1.67 V and provides a peak power density of 124.9 mW _·_ cm _[−]_[1] . At 5 mA _·_ cm _[−]_[1] , the specific capacity was calculated to be 816.4 mA h/g, which is close to the theoretical capacity. ~~These characteristics hold signifcant promise for deployment in energy conversion de~~ vices. 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0017-03.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0017-03.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0017-04.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0017-04.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0017-05.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0017-05.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0017-06.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0017-06.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0017-07.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0017-07.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0017-08.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0017-08.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0017-09.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0017-09.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0017-10.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0017-10.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0017-11.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0017-11.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0017-12.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0017-12.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0017-13.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0017-13.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0017-14.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0017-14.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0017-15.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0017-15.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0017-16.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0017-16.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0017-17.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0017-17.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0017-18.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0017-18.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0017-19.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0017-19.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0017-20.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0017-20.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0017-21.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0017-21.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0017-22.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0017-22.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0017-23.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0017-23.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0017-24.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0017-24.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0017-25.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0017-25.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0017-26.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0017-26.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0017-27.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0017-27.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0017-28.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0017-28.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0017-29.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0017-29.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0017-30.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0017-30.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0017-31.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0017-31.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0017-32.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0017-32.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0017-33.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0017-33.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0017-34.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0017-34.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0017-35.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0017-35.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0017-36.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0017-36.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0017-37.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0017-37.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0017-38.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0017-38.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0017-39.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0017-39.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0017-40.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0017-40.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0017-41.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0017-41.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0017-42.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0017-42.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0017-43.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0017-43.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0017-44.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0017-44.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0017-45.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0017-45.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0017-46.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0017-46.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0017-47.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0017-47.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0017-48.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0017-48.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0017-49.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0017-49.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0017-50.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0017-50.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0017-51.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0017-51.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0017-52.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0017-52.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0017-53.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0017-53.png)
 
 
 **Figure 5.** ( **a** ) Schematic diagram for the synthesis of NCAST/Fe. ( **b** ) HAADF _−_ STEM image of the NCALR/Fe aerogel where the red circles are marked with Fe single atoms. ( **c** ) Corresponding EXAFS spectrum and fitting curve for NCALR/Fe. ( **d** ) ORR curves of NCALR/Fe and comparison samples. Copyright 2019 by the Royal Society of Chemistry from reference [88]. ( **e** ) Schematic diagram for the synthesis procedure of the FeNC catalysts. Copyright 2021 by the Elsevier from reference [89]. ( **f** ) Schematic diagram for the synthesis procedure of Fe–N _−_ CNTAs. ( **g** ) TEM images of Fe-N-CNTA and ( **h** ) the white circles are marked with Fe single atoms. Copyright 2017 by the Wiley from reference [90]. ( **i** ) Schematic diagram of the synthesis of Co-SAs/NCNA. ( **j** ) Open-circuit voltage of the Co SAs/NCNA-based ZAB. ( **k** ) Photo of the lighted LED by two ZABs in series. ( **l** ) Galvanostatic discharge curves and ( **m** ) polarization/power density curves of Co SAs/NCNA-based ZAB and Pt/C + RuO2-based ZAB. Copyright 2023 by the Elsevier from reference [91]. 
@@ -813,251 +813,251 @@ _Nanomaterials_ **2023** , _13_ , 2397
 of CoFe2O4/CNF composites provide more catalytic sites for electrocatalytic reactions and improve the transfer of reactants, electrolytes, and electrons (Figure 6h). 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0020-03.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0020-03.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0020-04.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0020-04.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0020-05.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0020-05.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0020-06.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0020-06.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0020-07.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0020-07.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0020-08.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0020-08.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0020-09.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0020-09.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0020-10.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0020-10.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0020-11.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0020-11.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0020-12.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0020-12.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0020-13.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0020-13.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0020-14.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0020-14.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0020-15.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0020-15.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0020-16.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0020-16.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0020-17.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0020-17.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0020-18.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0020-18.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0020-19.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0020-19.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0020-20.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0020-20.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0020-21.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0020-21.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0020-22.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0020-22.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0020-23.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0020-23.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0020-24.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0020-24.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0020-25.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0020-25.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0020-26.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0020-26.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0020-27.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0020-27.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0020-28.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0020-28.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0020-29.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0020-29.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0020-30.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0020-30.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0020-31.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0020-31.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0020-32.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0020-32.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0020-33.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0020-33.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0020-34.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0020-34.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0020-35.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0020-35.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0020-36.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0020-36.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0020-37.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0020-37.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0020-38.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0020-38.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0020-39.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0020-39.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0020-40.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0020-40.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0020-41.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0020-41.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0020-42.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0020-42.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0020-43.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0020-43.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0020-44.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0020-44.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0020-45.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0020-45.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0020-46.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0020-46.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0020-47.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0020-47.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0020-48.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0020-48.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0020-49.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0020-49.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0020-50.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0020-50.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0020-51.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0020-51.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0020-52.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0020-52.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0020-53.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0020-53.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0020-54.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0020-54.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0020-55.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0020-55.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0020-56.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0020-56.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0020-57.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0020-57.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0020-58.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0020-58.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0020-59.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0020-59.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0020-60.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0020-60.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0020-61.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0020-61.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0020-62.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0020-62.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0020-63.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0020-63.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0020-64.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0020-64.png)
 
 
 **Figure 6.** ( **a** ) Schematic diagram for synthesis of the FeP/Fe2O3@NPCA. ( **b** ) Comparison photos of FeP/Fe2O3@NPCA before and after compression. ( **c** ) SEM image of FeP/Fe2O3@NPCA. ( **d** , **e** ) Schematic diagram of aqueous rechargeable and solid-state ZAB. Copyright 2020 by the Wiley from reference [92]. ( **f** ) Schematic diagram for the synthesis of CFO/CNF nanocomposite. ( **g** , **h** ) SEM images of CFO/CNF nanocomposite. Copyright 2016 by the Elsevier from reference [93]. ( **i** ) Schematic diagram for the synthesis of Co9S8/N, P _−_ APC. ( **j** ) TEM image of Co9S8/N, P _−_ APC. ( **k** ) OER free energy diagrams at different potentials. ( **l** ) Several different reaction intermediates configurations. Copyright 2019 by the Elsevier from reference [16]. 
@@ -1085,227 +1085,227 @@ _Nanomaterials_ **2023** , _13_ , 2397
 activity of the two monometallic samples also differed, with Fe/N-DNC (Eonset = 0.86 V, E1/2 = 0.75 V) outperforming Co/N-DNC (Eonset = 0.83 V, E1/2 = 0.70 V), indicating that the Co doping was beneficial for improving the conductivity and activating the Fe sites of ~~the catalyst (Figure 7f,g).~~ 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0022-03.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0022-03.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0022-04.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0022-04.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0022-05.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0022-05.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0022-06.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0022-06.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0022-07.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0022-07.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0022-08.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0022-08.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0022-09.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0022-09.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0022-10.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0022-10.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0022-11.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0022-11.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0022-12.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0022-12.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0022-13.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0022-13.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0022-14.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0022-14.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0022-15.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0022-15.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0022-16.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0022-16.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0022-17.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0022-17.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0022-18.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0022-18.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0022-19.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0022-19.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0022-20.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0022-20.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0022-21.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0022-21.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0022-22.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0022-22.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0022-23.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0022-23.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0022-24.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0022-24.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0022-25.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0022-25.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0022-26.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0022-26.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0022-27.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0022-27.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0022-28.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0022-28.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0022-29.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0022-29.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0022-30.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0022-30.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0022-31.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0022-31.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0022-32.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0022-32.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0022-33.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0022-33.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0022-34.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0022-34.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0022-35.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0022-35.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0022-36.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0022-36.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0022-37.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0022-37.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0022-38.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0022-38.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0022-39.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0022-39.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0022-40.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0022-40.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0022-41.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0022-41.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0022-42.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0022-42.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0022-43.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0022-43.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0022-44.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0022-44.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0022-45.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0022-45.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0022-46.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0022-46.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0022-47.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0022-47.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0022-48.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0022-48.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0022-49.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0022-49.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0022-50.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0022-50.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0022-51.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0022-51.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0022-52.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0022-52.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0022-53.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0022-53.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0022-54.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0022-54.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0022-55.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0022-55.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0022-56.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0022-56.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0022-57.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0022-57.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0022-58.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0022-58.png)
 
 
 **Figure 7.** ( **a** ) Schematic diagram for the synthesis of FeCo@NS _−_ CA. ( **b** ) XPS results before and after catalyst cycling test. ( **c** ) ORR and OER curves of FeCo@NS _−_ CA and comparison samples. Copyright 2021 by the American Chemical Society from reference [98]. ( **d** ) Schematic diagram for the synthesis of FeCo/N _−_ DNC aerogels. ( **e** ) Schematic diagram of the structural advantages of FeCo/N _−_ DNC aerogels as an efficient bifunctional catalyst. ( **f** ) SEM and ( **g** ) TEM images of FeCo/N _−_ DNC. Copyright 2018 by the Royal Society of Chemical from reference [14]. 
@@ -1319,159 +1319,159 @@ _Nanomaterials_ **2023** , _13_ , 2397
 have also demonstrated the bifunctional electrocatalytic properties of transition metal alloys. Chen et al., developed N-doped CA with Fe-Co bimetallic sites (NCAG/Fe-Co) using the modified gelatin gel as a 3D template and precursor (Figure 8a) [101]. The results from X- ray absorption spectroscopy and other measurements demonstrate that FeN3 and CoN3 are partially formed on mutually orthogonal planes, with the direct interaction between Fe and Co bonds (Figure 8b–d). Furthermore, it is demonstrated that Co considerably enhances the 4e _[−]_ ORR selectivity of Fe for bifunctional electrocatalysis by preventing undesirable H2O2 byproducts. Simultaneously, in contrast to the NCAG/Fe and NCAG/Co samples based on single-atom, the Fe-modulated Co atoms exhibit controlled oxygen intermediate adsorption energy, resulting in faster OER kinetics (Figure 8e,f). Electrochemical tests indicate that NCAG/Fe-Co exhibits exceptional bifunctional electrocatalytic activity, with a mere 0.64 V ORR/OER potential difference at 10 mA _·_ cm _[−]_[2] . When applied in a flexible ZAB, the dual-metal NCAG/Fe–Co catalyst also shows a remarkable performance, with a high open-circuit voltage of 1.47 V, a maximum power density of 117 mW _·_ cm _[−]_[2] , as well as good rechargeability and flexibility. Apart from Fe and Co, other transition metal atoms within the metal alloy structure have also been observed to exhibit a bifunctional effect, enhancing the intrinsic ORR/OER performances. Fu et al., reported the exceptional performance of NiCo nanoparticles supported on porous fibrous CA (NiCo/PFC) as bifunctional catalysts for ZAB (Figure 8g,h) [102]. Ni/PFC and Co/PFC were also produced as the control samples of monometallic Ni or Co atoms, respectively. Through a comparison of the intrinsic activity of Ni/PFC and Co/PFC, it has been discovered that the Co atoms function as active sites for ORR, whereas the OER electrocatalytic activity can be attributed to the Ni atoms. The presence of Ni-Co dual-metal sites in NiCo/PFC results in not only higher ORR activity (Eonset = 0.92 V, E1/2 = 0.79 V) than Co/PFC (Eonset = 0.85 V, E1/2 = 0.68 V), but also higher OER activity (E10 = 0.40 V) than Ni/PFC (E10 = 0.57 V) (Figure 8i–k). This outcome suggests that the proximity of metal atoms promotes the reaction on both Ni and Co sites, increasing electrocatalytic activity for both ORR and OER processes. 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0023-03.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0023-03.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0023-04.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0023-04.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0023-05.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0023-05.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0023-06.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0023-06.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0023-07.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0023-07.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0023-08.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0023-08.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0023-09.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0023-09.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0023-10.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0023-10.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0023-11.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0023-11.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0023-12.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0023-12.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0023-13.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0023-13.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0023-14.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0023-14.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0023-15.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0023-15.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0023-16.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0023-16.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0023-17.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0023-17.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0023-18.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0023-18.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0023-19.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0023-19.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0023-20.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0023-20.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0023-21.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0023-21.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0023-22.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0023-22.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0023-23.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0023-23.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0023-24.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0023-24.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0023-25.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0023-25.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0023-26.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0023-26.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0023-27.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0023-27.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0023-28.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0023-28.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0023-29.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0023-29.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0023-30.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0023-30.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0023-31.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0023-31.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0023-32.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0023-32.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0023-33.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0023-33.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0023-34.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0023-34.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0023-35.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0023-35.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0023-36.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0023-36.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0023-37.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0023-37.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0023-38.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0023-38.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0023-39.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0023-39.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0023-40.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0023-40.png)
 
 
 
-![](Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes_images/image-0023-41.png)
+![](_temp_14577e8e_convert__images/_temp_14577e8e_convert_.pdf-0023-41.png)
 
 
 **Figure 8.** ( **a** ) Schematic diagram for the synthesis of the NCAG/Fe _−_ Co. ( **b** ) Fe K-edge EXAFS of NCAG/Fe _−_ Co and the fitting curve and schematic illustration of the structure of the Fe _−_ Co dual metal 

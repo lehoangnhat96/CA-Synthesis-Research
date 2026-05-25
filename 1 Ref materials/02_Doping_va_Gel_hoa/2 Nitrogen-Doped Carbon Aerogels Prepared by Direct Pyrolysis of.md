@@ -1,7 +1,7 @@
 Article 
 
 
-![](2 Nitrogen-Doped Carbon Aerogels Prepared by Direct Pyrolysis of_images/image-0001-02.png)
+![](_temp_4b6f1c12_convert__images/_temp_4b6f1c12_convert_.pdf-0001-02.png)
 
 
 pubs.acs.org/IECR 
@@ -17,7 +17,7 @@ ACCESS Metrics & More Article Recommendations
 ABSTRACT: In this paper, a new method using an ammonia− urea system was proposed to prepare cellulose aerogels from coir fibers as the starting material for non-ordered porous nitrogendoped carbon aerogels. Direct pyrolysis of the as-prepared carbon aerogels has successfully produced nitrogen-doped carbon aerogels using the cellulose aerogel derived from the nitrogen-rich coir fibers. The as-prepared carbon aerogel inherits the three-dimensional nonordered porous network of the cellulose aerogel, maintaining its high specific surface area (SSA) and the large pore volume. In addition, the honeycomb-like structure of internal pores in individual fibers could also be maintained, and the pores are even larger than those of the corresponding cellulose aerogel. In the ammonia−urea system, ammonia not only served as an agent 
 
 
-![](2 Nitrogen-Doped Carbon Aerogels Prepared by Direct Pyrolysis of_images/image-0001-09.png)
+![](_temp_4b6f1c12_convert__images/_temp_4b6f1c12_convert_.pdf-0001-09.png)
 
 
 to assist the cellulose dissolution but also played an important role in exfoliating the carbon aerogel to form defects that cause a few layer disorders. The defects caused the SSA and the pore volume of the aerogel to increase significantly after carbonization. The surface area increased from approximately 70 to 3730 m[2] /g and the pore volume from 0.54 to 4.20 cm[3] /g. The porous nitrogendoped carbon aerogel showed excellent electrocatalytic activity toward the oxygen reduction reaction (ORR) in alkaline media following a two-electron-transfer mechanism. 
@@ -33,7 +33,7 @@ alternative because of their ability to serve both as the catalyst support and t
 Carbon aerogels, one of the most attractive carbon-based nanomaterials, have very high specific surface area (SSA), very large pore volume, outstanding electrical conductivity, and excellent chemical and thermal stabilities. These properties make carbon aerogels suitable for various applications including sorbents for environmental conservation and electro- 
 
 
-![](2 Nitrogen-Doped Carbon Aerogels Prepared by Direct Pyrolysis of_images/image-0001-16.png)
+![](_temp_4b6f1c12_convert__images/_temp_4b6f1c12_convert_.pdf-0001-16.png)
 
 
 Received: July 30, 2020 Revised: November 12, 2020 Accepted: November 13, 2020 
@@ -83,13 +83,13 @@ pubs.acs.org/IECR
 Article 
 
 
-![](2 Nitrogen-Doped Carbon Aerogels Prepared by Direct Pyrolysis of_images/image-0003-03.png)
+![](_temp_4b6f1c12_convert__images/_temp_4b6f1c12_convert_.pdf-0003-03.png)
 
 
 Figure 1. Photographs of (a) cellulose aerogel, (b) carbon−NaOH aerogel, and (c) carbon−NH4OH aerogel. 
 
 
-![](2 Nitrogen-Doped Carbon Aerogels Prepared by Direct Pyrolysis of_images/image-0003-05.png)
+![](_temp_4b6f1c12_convert__images/_temp_4b6f1c12_convert_.pdf-0003-05.png)
 
 
 Figure 2. SEM images of the cellulose aerogel and the corresponding carbon aerogel prepared by NaOH−urea and NH4OH−urea systems: (a1− c1) cellulose aerogel; (a2−c2) carbon−NaOH aerogel; and (a3−c3) carbon−NH4OH aerogel. 
@@ -101,7 +101,7 @@ The CV measurements were performed by scanning the potential between −1.0 and 
 The electrical conductivity of the carbon aerogel was calculated using 
 
 
-![](2 Nitrogen-Doped Carbon Aerogels Prepared by Direct Pyrolysis of_images/image-0003-10.png)
+![](_temp_4b6f1c12_convert__images/_temp_4b6f1c12_convert_.pdf-0003-10.png)
 
 
 where κ is the conductivity (S/cm), L is the distance between two probes (cm), w is the width of the sample (cm), t is the thickness of the sample (cm), and R is the resistance of the sample (Ω). The resistance was measured by a two-point probe using a multimeter.[37] 
@@ -129,7 +129,7 @@ Observing the individual fibers of cellulose aerogels and the corresponding carb
 Figure 3 shows TEM images of carbon aerogels prepared by NaOH and NH4OH that consist of a network structure with a random pattern. For the case of carbon−NaOH (Figure 3a1), many pores can be observed inside the network with an average diameter of approximately 534 nm. Hence, the aerogel can be classified as macroporous materials according to the IUPAC classification. At higher magnifications, as shown in Figure 3a2, a small amount of spherical particles can be observed on the wall of the fiber. The particles are unevenly distributed throughout the fiber and only concentrated on some places. On the other hand, for the carbon−NH4OH fiber, the spherical particles are uniformly distributed throughout the wall of the fiber. The presence of spherical particles on the 
 
 
-![](2 Nitrogen-Doped Carbon Aerogels Prepared by Direct Pyrolysis of_images/image-0004-06.png)
+![](_temp_4b6f1c12_convert__images/_temp_4b6f1c12_convert_.pdf-0004-06.png)
 
 
 **----- Start of picture text -----**<br>
@@ -137,7 +137,7 @@ pubs.acs.org/IECR<br>**----- End of picture text -----**<br>
 
 
 
-![](2 Nitrogen-Doped Carbon Aerogels Prepared by Direct Pyrolysis of_images/image-0004-07.png)
+![](_temp_4b6f1c12_convert__images/_temp_4b6f1c12_convert_.pdf-0004-07.png)
 
 
 Figure 3. TEM images of the prepared (a1,a2) carbon−NaOH and (b1,b2) carbon−NH4OH fibers. 
@@ -147,7 +147,7 @@ fiber wall might improve the strength of the fiber that could maintain the inter
 The NH4OH−urea system present a different physical appearance and morphology than that of the obtained carbon aerogel. It seems that NH4OH plays an important role in the structure of aerogel formed. Therefore, it is necessary to investigate further the effect of base used to dissolve cellulose on the cellulose structure. Figure 4 shows the XRD patterns of cellulose pulp after delignification (a) and cellulose aerogels prepared by (b) NaOH−urea and (c) NH4OH−urea systems. The pulp (Figure 4a) has a profound diffraction peak at 2θ of 22.23°, which can be attributed to the (200) plane. In addition, a broader peak at 16.08° can also be observed, which can be attributed to the overlapping of (110) and (110) planes. These 
 
 
-![](2 Nitrogen-Doped Carbon Aerogels Prepared by Direct Pyrolysis of_images/image-0004-11.png)
+![](_temp_4b6f1c12_convert__images/_temp_4b6f1c12_convert_.pdf-0004-11.png)
 
 
 Figure 4. XRD patterns of (a) cellulose pulp, (b) cellulose−NaOH aerogel, and (c) cellulose−NH4OH aerogel. 
@@ -163,7 +163,7 @@ pubs.acs.org/IECR
 Article 
 
 
-![](2 Nitrogen-Doped Carbon Aerogels Prepared by Direct Pyrolysis of_images/image-0005-03.png)
+![](_temp_4b6f1c12_convert__images/_temp_4b6f1c12_convert_.pdf-0005-03.png)
 
 
 Figure 5. Thermogravimetric analysis of coir fibers, cellulose−NaOH aerogel, and cellulose−NH4OH aerogel. 
@@ -189,7 +189,7 @@ pubs.acs.org/IECR
 Article 
 
 
-![](2 Nitrogen-Doped Carbon Aerogels Prepared by Direct Pyrolysis of_images/image-0006-03.png)
+![](_temp_4b6f1c12_convert__images/_temp_4b6f1c12_convert_.pdf-0006-03.png)
 
 
 Figure 6. FTIR spectra of (a) carbon−NaOH aerogel and (b) carbon−NH4OH aerogel. 
@@ -203,7 +203,7 @@ results are presented in Figure 7. It can be observed in Figure 7a that both car
 Figure 8 shows the Raman spectra of (a) carbon−NaOH and (b) carbon−NH4OH aerogels. For both cases, there are 
 
 
-![](2 Nitrogen-Doped Carbon Aerogels Prepared by Direct Pyrolysis of_images/image-0006-09.png)
+![](_temp_4b6f1c12_convert__images/_temp_4b6f1c12_convert_.pdf-0006-09.png)
 
 
 Figure 7. (a) XPS spectra of carbon−NaOH and carbon−NH4OH aerogels; XPS fine spectra of (b) N 1s and (c) C 1s for carbon−NaOH and carbon−NH4OH aerogels. 
@@ -219,7 +219,7 @@ pubs.acs.org/IECR
 Article 
 
 
-![](2 Nitrogen-Doped Carbon Aerogels Prepared by Direct Pyrolysis of_images/image-0007-03.png)
+![](_temp_4b6f1c12_convert__images/_temp_4b6f1c12_convert_.pdf-0007-03.png)
 
 
 Figure 8. Raman spectra of (a) carbon−NaOH aerogel and (b) carbon−NH4OH aerogel. 
@@ -229,7 +229,7 @@ two intensive bands at 1350 and 1590 cm[−][1] that can be assigned to the D an
 Figure 9 shows the XRD patterns of carbon−NaOH and carbon−NH4OH aerogels at several different OH[−] concentrations, which are 5, 8, 11, and 14 N. The XRD pattern of carbon−NaOH aerogel had two broad diffraction peaks at 24° (002) and 44° (101), which could be indexed to amorphous carbon. While for the carbon−NH4OH aerogels, the diffraction peak of the (002) plane became broader and slightly shifted to ° the right to 26.4 . The shift of the diffraction peak indicated that carbon had experienced an exfoliation into the monolayer or few layers and long-range disorders.[42] The exfoliation might cause nitrogen doping into the carbon structure, which resulted in CN functional groups, as aforementioned in the discussion on FTIR spectra. The (101) plane of all carbon−NH4OH aerogels appeared to be less developed than carbon−NaOH, which explained the distortion of crystalline regularity due to the presence of C−N bonding.[61] The concentration of NH4OH solution slightly had an impact on the crystallinity of the prepared carbon−NH4OH, whose (002) peak intensity increased at higher concentrations but decreased at 14 N carbon. It showed that the presence of nitrogen might 
 
 
-![](2 Nitrogen-Doped Carbon Aerogels Prepared by Direct Pyrolysis of_images/image-0007-07.png)
+![](_temp_4b6f1c12_convert__images/_temp_4b6f1c12_convert_.pdf-0007-07.png)
 
 
 Figure 9. XRD patterns of prepared carbon aerogels. 
@@ -245,7 +245,7 @@ https://dx.doi.org/10.1021/acs.iecr.0c03771 Ind. Eng. Chem. Res. XXXX, XXX, XXX�
 Industrial & Engineering Chemistry Research pubs.acs.org/IECR Article 
 
 
-![](2 Nitrogen-Doped Carbon Aerogels Prepared by Direct Pyrolysis of_images/image-0008-01.png)
+![](_temp_4b6f1c12_convert__images/_temp_4b6f1c12_convert_.pdf-0008-01.png)
 
 
 Figure 10. (a) Adsorption−desorption isotherm profile and (b) pore size distribution of the as-prepared carbon aerogels. 
@@ -263,7 +263,7 @@ chemically creating exfoliation and defects on the carbon structure, and simulta
 3.3. Electrocatalytic Properties of Carbon Aerogels. The electrochemical properties of carbon aerogels were studied for their use as an electrocatalyst for the ORR. Figure 11 shows the CV curves of carbon aerogels in O2- and N2-saturated 0.1 M KOH solutions at a scan rate of 50 mV/s. A reduction peak appears at −0.39 V (vs Ag/AgCl) in the CV curves of both carbon aerogels in the O2-saturated 0.1 KOH solution (full lines). On the contrary, no reduction peak appears in the CV curves of both carbon aerogels in the N2-saturarted 0.1 KOH solution (dashed lines). These indicated that the peaks appearing in the O2-saturated KOH solution could surely be attributed to the ORR. The current densities at the reduction peak for both carbon aerogels were quite different. It took the value of approximately 1.05 mA/cm[2] for carbon−NH4OH, which was 2 times higher than that of carbon−NaOH. It is apparent that the carbon−NH4OH aerogel could serve as an active electrocatalyst for the ORR with better performance. 
 
 
-![](2 Nitrogen-Doped Carbon Aerogels Prepared by Direct Pyrolysis of_images/image-0008-07.png)
+![](_temp_4b6f1c12_convert__images/_temp_4b6f1c12_convert_.pdf-0008-07.png)
 
 
 Figure 11. Cyclic voltammograms of the prepared carbon aerogels. 
@@ -275,7 +275,7 @@ https://dx.doi.org/10.1021/acs.iecr.0c03771 Ind. Eng. Chem. Res. XXXX, XXX, XXX�
 Industrial & Engineering Chemistry Research pubs.acs.org/IECR Article 
 
 
-![](2 Nitrogen-Doped Carbon Aerogels Prepared by Direct Pyrolysis of_images/image-0009-01.png)
+![](_temp_4b6f1c12_convert__images/_temp_4b6f1c12_convert_.pdf-0009-01.png)
 
 
 Figure 12. (a) Linear sweep voltammograms of the prepared carbon aerogels at a rotation speed of 3600 rpm; (b) linear sweep voltammograms of carbon-5 N with the rotation speed ranging from 400 to 3600 rpm; (c) K−L plots of the prepared carbon aerogels at −0.8 V versus Ag/AgCl; and (d) the number of electrons transferred during ORR at different potentials based on K−L plots. 
@@ -285,17 +285,17 @@ Further examination on the kinetics of the ORR over the carbon aerogels as an el
 The corresponding ORR performance of the carbon aerogel would be further evaluated using K−L plots. Figure 12c,d shows the K−L plots for the prepared carbon aerogels at an applied voltage of −0.8 V versus Ag/AgCl. It could be seen in the figures that the relationship between ω[−][1/2] and −i[−][1] was linear. The slope was used to determine the number of electrons, n, involved in ORR according to the K−L equation[63] 
 
 
-![](2 Nitrogen-Doped Carbon Aerogels Prepared by Direct Pyrolysis of_images/image-0009-05.png)
+![](_temp_4b6f1c12_convert__images/_temp_4b6f1c12_convert_.pdf-0009-05.png)
 
 
 
-![](2 Nitrogen-Doped Carbon Aerogels Prepared by Direct Pyrolysis of_images/image-0009-06.png)
+![](_temp_4b6f1c12_convert__images/_temp_4b6f1c12_convert_.pdf-0009-06.png)
 
 
 In eqs 2 and 3, i is the measured current density (mA/cm[2] ), ω is the angular velocity of the disk (rpm), ik is the kinetic current density (mA/cm[2] ), n is the number of electrons transferred per oxygen molecule in the ORR, F is the Faraday constant, DO2 is the diffusion coefficient of O2 molecules in 0.1 M KOH electrolyte solution (1.9 × 10[−][5] cm[2] /s), and ν is the kinematic viscosity of the electrolyte solution (8.73 × 10[−][3] cm[2] /s). The oxygen concentration, CO2, was calculated as[64] 
 
 
-![](2 Nitrogen-Doped Carbon Aerogels Prepared by Direct Pyrolysis of_images/image-0009-08.png)
+![](_temp_4b6f1c12_convert__images/_temp_4b6f1c12_convert_.pdf-0009-08.png)
 
 
 From the slope of the K−L plots and the parameters, the number of electrons transferred for the prepared carbon aerogels at different applied potentials was calculated and presented in Figure 12d. The carbon−H4OH aerogel could transfer higher number of electrons than that of carbon− NaOH. The number of electrons transferred during ORR for the carbon-5, 8, 11, and 14 N was 2.49, 3.69, 3.14, and 2.23, respectively. Whereas the calculated number of electrons for carbon−NaOH was 1.78, which was too low for performing ORR. The electron numbers, n ≈ 2, suggests that the ORR 
@@ -313,11 +313,11 @@ Article
 mechanism of carbon aerogel in alkaline media follows the following reactions 
 
 
-![](2 Nitrogen-Doped Carbon Aerogels Prepared by Direct Pyrolysis of_images/image-0010-04.png)
+![](_temp_4b6f1c12_convert__images/_temp_4b6f1c12_convert_.pdf-0010-04.png)
 
 
 
-![](2 Nitrogen-Doped Carbon Aerogels Prepared by Direct Pyrolysis of_images/image-0010-05.png)
+![](_temp_4b6f1c12_convert__images/_temp_4b6f1c12_convert_.pdf-0010-05.png)
 
 
 Equation 5 represents the reduction of an O2 molecule to hydrogen peroxide ions through the two-electron pathway. Then, the hydrogen peroxide ions are further electrochemically reduced to hydroxide ions involving two electrons that follows eq 6. It has been demonstrated that the carbon−NH4OH aerogel follows the two-electron ORR mechanism, which is catalytically active toward peroxide decomposition. In terms of catalytic performance during ORR, which was determined by the value of the obtained current density and the number of electrons transferred, it seemed that the presence of nitrogen significantly improved the performance. Meanwhile, the higher concentration of NH4OH used did not exert a proportional effect on the electrical performance. Nitrogen greatly increased the surface area and pore volume, which provided more active site to the carbon catalyst to perform ORR. However, the current density and the number of electrons transferred did not proportionally increase as the NH4OH concentration rises. It seemed that the amount of nitrogen contained in the carbon structure neither contributed much to the catalytic activity nor played an important role in the ORR mechanism. Simultaneous formation of several nitrogen species raised another challenge to clarify the specific active site because of the difficulty in controlling nitrogen precisely.[65][−][68] These results suggest that the carbon−NH4OH aerogel synthesized from the cellulose aerogel using the NH4OH−urea system without additional NH3 activation is promising for its use as an active catalyst for ORR. 
@@ -325,7 +325,7 @@ Equation 5 represents the reduction of an O2 molecule to hydrogen peroxide ions 
 Figure 13 presents the electrical conductivity of the prepared carbon aerogels. Carbon−NaOH had the lowest conductivity 
 
 
-![](2 Nitrogen-Doped Carbon Aerogels Prepared by Direct Pyrolysis of_images/image-0010-08.png)
+![](_temp_4b6f1c12_convert__images/_temp_4b6f1c12_convert_.pdf-0010-08.png)
 
 
 Figure 13. Electrical conductivity of the prepared carbon aerogels. 

@@ -39,7 +39,7 @@ solution have not been investigated much. In this article, we studied the rheolo
 **Materials.** Five kinds of cotton linter pulps supplied by Hubei Chemical Fiber Co. Ltd. (Xiangfan, China) were selected as cellulose samples. Their viscosity-average molecular weights ( _Mη_ ) were determined in cadoxen at 25 ° C by viscometry and calculated by[24] 
 
 
-![](Unique Gelation Behavior of Cellulose in NaOH Urea Aqueous Solution_images/image-0002-05.png)
+![](_temp_5408b7d1_convert__images/_temp_5408b7d1_convert_.pdf-0002-05.png)
 
 
 The obtained _Mη_ values were 4.5 × 10[4] , 6.2 × 10[4] , 8.3 × 10[4] , 9.4 × 10[4] , and 11.4 × 10[4] , and they were coded as M4, M6, M8, M9, and M11, respectively. The cellulose samples were vacuum-dried at 55 ° C for 24 h to remove any moisture before use. NaOH and urea of analytical grade (Shanghai Chemical Reagent Co. Ltd., China) were used without further purification. 
@@ -55,7 +55,7 @@ The obtained _Mη_ values were 4.5 × 10[4] , 6.2 × 10[4] , 8.3 × 10[4] , 9.4 
 The temperature effect on gelation of the cellulose solutions was measured by using the dynamic viscoelastic method. Figure 1 shows the shear storage modulus ( _G_ ′ ) at various temperatures as a function of angular frequency ( _ω_ ) for a 4 wt % cellulose 
 
 
-![](Unique Gelation Behavior of Cellulose in NaOH Urea Aqueous Solution_images/image-0002-12.png)
+![](_temp_5408b7d1_convert__images/_temp_5408b7d1_convert_.pdf-0002-12.png)
 
 
 **Figure 1.** Storage modulus G′ as a function of angular frequency _ω_ at various temperatures for 4 wt % cellulose solution. 
@@ -67,13 +67,13 @@ Cellulose Gelation in NaOH/Urea Aqueous Solution
 Biomacromolecules, Vol. 7, No. 1, 2006 **185** 
 
 
-![](Unique Gelation Behavior of Cellulose in NaOH Urea Aqueous Solution_images/image-0003-02.png)
+![](_temp_5408b7d1_convert__images/_temp_5408b7d1_convert_.pdf-0003-02.png)
 
 
 **Figure 2.** Storage modulus G′ and loss modulus G′′ as a function of angular frequency _ω_ for cellulose solutions with different concentrations at 25 °C. The data are shifted along the vertical axis by 10[a] to avoid overlapping. 
 
 
-![](Unique Gelation Behavior of Cellulose in NaOH Urea Aqueous Solution_images/image-0003-04.png)
+![](_temp_5408b7d1_convert__images/_temp_5408b7d1_convert_.pdf-0003-04.png)
 
 
 **Figure 3.** Storage modulus G′ and loss modulus G′′ as a function of angular frequency _ω_ for 5 wt % cellulose solutions having different molecular weights at 25 °C. The data are shifted along the vertical axis by 10[a] to avoid overlapping. 
@@ -83,7 +83,7 @@ hydrogen bonds of cellulose tended to increase as a result of its strong self-as
 Figures 2 and 3 show the _G_ ′ and _G_ ′′ curves as a function of angular frequency for the cellulose solution with different concentrations and molecular weights, respectively. At the concentration below 3.5 wt %, the cellulose has a _G_ ′ far smaller than _G_ ′′ at all frequencies, and both _G_ ′ and _G_ ′′ are strongly dependent on the frequency in Figure 2. It is noted that at very low frequencies the relations _G_ ′ ∼ _ω_[2] and _G_ ′′ ∼ _ω_ can be observed for the cellulose solutions with the concentration of 2.0 to 2.5 wt %; this presents a nonentangled polymer solution behavior.[27] In such a case, deformation of the cellulose solution takes place so slowly that the majority of the energy is dissipated by viscous flow, leading to the liquid state. As the cellulose 
 
 
-![](Unique Gelation Behavior of Cellulose in NaOH Urea Aqueous Solution_images/image-0003-08.png)
+![](_temp_5408b7d1_convert__images/_temp_5408b7d1_convert_.pdf-0003-08.png)
 
 
 **Figure 4.** Storage modulus G′ and loss modulus G′′ as a function of angular frequency _ω_ for 4 wt % cellulose solutions at different times at 8 °C. The data are shifted along the vertical axis by 10[a] to avoid overlapping. 
@@ -97,7 +97,7 @@ Cai and Zhang
 **186** Biomacromolecules, Vol. 7, No. 1, 2006 
 
 
-![](Unique Gelation Behavior of Cellulose in NaOH Urea Aqueous Solution_images/image-0004-02.png)
+![](_temp_5408b7d1_convert__images/_temp_5408b7d1_convert_.pdf-0004-02.png)
 
 
 **Figure 5.** Temperature dependence of the storage modulus G′ and loss modulus G′′ for cellulose solutions with different concentrations. The data are shifted along the vertical axis by 10[a] to avoid overlapping. 
@@ -109,13 +109,13 @@ weakly aggregated cellulose system, and finally to a gel network which remained 
 The effects of the cellulose concentrations on _G_ ′ and _G_ ′′ values are illustrated in Figure 5, and the gelation temperature and _G_ gel as a function of concentration are plotted in Figure 6. 
 
 
-![](Unique Gelation Behavior of Cellulose in NaOH Urea Aqueous Solution_images/image-0004-07.png)
+![](_temp_5408b7d1_convert__images/_temp_5408b7d1_convert_.pdf-0004-07.png)
 
 
 **Figure 6.** Gelation temperature and Ggel as a function of the cellulose concentration. 
 
 
-![](Unique Gelation Behavior of Cellulose in NaOH Urea Aqueous Solution_images/image-0004-09.png)
+![](_temp_5408b7d1_convert__images/_temp_5408b7d1_convert_.pdf-0004-09.png)
 
 
 **Figure 7.** Temperature dependence of the storage modulus G′ and loss modulus G′′ for 5 wt % cellulose solutions with different molecular weights. The data are shifted along the vertical axis by 10[a] to avoid overlapping. 
@@ -131,13 +131,13 @@ Cellulose Gelation in NaOH/Urea Aqueous Solution
 Biomacromolecules, Vol. 7, No. 1, 2006 **187** 
 
 
-![](Unique Gelation Behavior of Cellulose in NaOH Urea Aqueous Solution_images/image-0005-02.png)
+![](_temp_5408b7d1_convert__images/_temp_5408b7d1_convert_.pdf-0005-02.png)
 
 
 **Figure 8.** Time dependence of the storage modulus G′ and loss modulus G′′ for 4 wt % cellulose solution with different temperature. 
 
 
-![](Unique Gelation Behavior of Cellulose in NaOH Urea Aqueous Solution_images/image-0005-04.png)
+![](_temp_5408b7d1_convert__images/_temp_5408b7d1_convert_.pdf-0005-04.png)
 
 
 **Figure 9.** Gelation time and Ggel as a function of temperature for 4 wt % cellulose solution. 
@@ -147,13 +147,13 @@ process might be the causes. And it was also related to other factors including 
 Figure 9 shows the dependence of the gelation time and _G_ gel on temperature. It appears that gelation time dramatically increases from 1.6 h at -8 ° C to the maximum of 191.3 h at 0 ° C, and then reduces greatly to 38 h at 15 ° C. With further raised temperature, the decrease of gelation time slowly slows down. It is interesting to see that, above 45 ° C, the cellulose solutions had been gelled prior to the measurement. The unique dependence of the gelation time on temperature in the cellulose solution was observed. For the first time, we experienced that either a heating or a cooling treatment can induce the gelation processing. However, the cellulose solution can be stored at 0 to 5 ° C for a long time and still remains in its stable liquid state. In addition, the fact that the _G_ gel values decrease with increased temperature indicates a relatively high modulus formed at low temperature. This suggests that the energy of the hydrogen bonds is higher at low temperature causing the strong tendency of aggregation of the cellulose molecules, which is a necessary prerequisite for the interchain cross-linking. We have proved that the examined cellulose can be dissolved completely to form a transparent solution rather than suspensions of swollen cellulose by using polarized light microscopy, X-ray diffraction (XRD), and[13] C NMR in this case.[22] Therefore, cellulose gels were formed rather than becoming precipitated and/or suspended 
 
 
-![](Unique Gelation Behavior of Cellulose in NaOH Urea Aqueous Solution_images/image-0005-08.png)
+![](_temp_5408b7d1_convert__images/_temp_5408b7d1_convert_.pdf-0005-08.png)
 
 
 **Figure 10.** Arrhenius plots for the dependence of the gelation time of 4 wt % cellulose solution on temperature. The number represents the slope of the line. 
 
 
-![](Unique Gelation Behavior of Cellulose in NaOH Urea Aqueous Solution_images/image-0005-10.png)
+![](_temp_5408b7d1_convert__images/_temp_5408b7d1_convert_.pdf-0005-10.png)
 
 
 **Figure 11.** Storage modulus G′ and loss modulus G′′ as a function of temperature in a heating and cooling process for 4.5 wt % cellulose solution. 
@@ -169,7 +169,7 @@ Cai and Zhang
 **188** Biomacromolecules, Vol. 7, No. 1, 2006 
 
 
-![](Unique Gelation Behavior of Cellulose in NaOH Urea Aqueous Solution_images/image-0006-02.png)
+![](_temp_5408b7d1_convert__images/_temp_5408b7d1_convert_.pdf-0006-02.png)
 
 
 **Figure 12.** Photos of cellulose solution at ambient temperature (a), the cellulose gels formed at 8 °C for 4 days (b), at - 20 °C for 1 h (c), and at 50 °C for 1 h (d). 

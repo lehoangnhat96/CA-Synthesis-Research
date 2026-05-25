@@ -286,8 +286,18 @@ def main():
         
         # Kiểm tra xem file MD đã tồn tại chưa và dung lượng lớn hơn 100 bytes
         long_md_check = make_long_path(output_md_path)
-        if os.path.exists(long_md_check) and os.path.getsize(long_md_check) > 100:
-            print(f"  -> Bỏ qua (Đã tồn tại file Markdown của bài viết này)")
+        long_images_dir = make_long_path(images_dir)
+        
+        has_md = os.path.exists(long_md_check) and os.path.getsize(long_md_check) > 100
+        has_images = False
+        if os.path.exists(long_images_dir):
+            try:
+                has_images = len(os.listdir(long_images_dir)) > 0
+            except:
+                pass
+
+        if has_md and has_images:
+            print(f"  -> Bỏ qua (Đã tồn tại file Markdown và có hình ảnh)")
             success_count += 1
             continue
             

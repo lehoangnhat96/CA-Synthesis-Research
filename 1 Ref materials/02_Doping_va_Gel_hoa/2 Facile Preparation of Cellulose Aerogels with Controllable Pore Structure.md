@@ -1,11 +1,11 @@
 _**nanomaterials**_ 
 
 
-![](2 Facile Preparation of Cellulose Aerogels with Controllable Pore Structure_images/image-0001-01.png)
+![](_temp_9ba62dd4_convert__images/_temp_9ba62dd4_convert_.pdf-0001-01.png)
 
 
 
-![](2 Facile Preparation of Cellulose Aerogels with Controllable Pore Structure_images/image-0001-02.png)
+![](_temp_9ba62dd4_convert__images/_temp_9ba62dd4_convert_.pdf-0001-02.png)
 
 
 ## _Article_ 
@@ -33,7 +33,7 @@ Academic Editor: Pablo Guardia
 Received: 4 January 2023 Revised: 26 January 2023 Accepted: 31 January 2023 Published: 3 February 2023 
 
 
-![](2 Facile Preparation of Cellulose Aerogels with Controllable Pore Structure_images/image-0001-15.png)
+![](_temp_9ba62dd4_convert__images/_temp_9ba62dd4_convert_.pdf-0001-15.png)
 
 
 **Copyright:** © 2023 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https:// creativecommons.org/licenses/by/ 4.0/). 
@@ -85,7 +85,7 @@ was performed using an X-ray diffractometer (Bruker AXS D8 X-ray diffractometer,
 Figure 1 is the schematic illustration of the preparation of cellulose aerogel preparation in NaOH/urea solution. Firstly, NaOH and urea are dissolved in water to form a mixed solution, and then the cellulose is added into the solution under continuous stirring. NaOH “hydrate” is more easily attracted by the cellulose chain through the formation of a new hydrogen bond network, which is relatively stable at low temperatures, while urea embeds NaOH and cellulose connected by a hydrogen bond in the form of a shell to generate an inclusion compound with a sheath structure, which leads to the dissolution of cellulose and the formation of sol [25]. When the sol is heated at the proper temperature, the hydrogen bond between cellulose molecules becomes a more stable connection mode, and the cellulose molecules are gathered in the sol to form the gel. The deionized water is used for solvent replacement to wash NaOH and urea in the wet gel, and the wet gel is quickly frozen with liquid nitrogen. The growth of ice crystals will destroy the cellulose network and squeeze the cellulose network between the ice crystals for aggregation [26]. Finally, the cellulose aerogel with a lamellar network structure can be obtained through freeze-drying. 
 
 
-![](2 Facile Preparation of Cellulose Aerogels with Controllable Pore Structure_images/image-0003-06.png)
+![](_temp_9ba62dd4_convert__images/_temp_9ba62dd4_convert_.pdf-0003-06.png)
 
 
 **Figure 1.** Schematic illustration of cellulose aerogel preparation in NaOH/urea solution. 
@@ -101,7 +101,7 @@ _Nanomaterials_ **2023** , _13_ , 613
 concentration plays an important role in the micromorphology of cellulose aerogels. When the cellulose concentration is 1 wt%, the pore size of the cellulose aerogel is very large, reaching more than 20 µm, and a bulk density of 0.1062 g _·_ cm _[−]_[3] can be achieved with thicker skeletons. When the cellulose concentration increases to 2 wt%, the skeleton thickness and the pore size are significantly reduced, and the pore size decreases to about 10 µm. The bulk density also decreases, becoming 0.0905 g _·_ cm _[−]_[3] . When the cellulose concentration reaches 3 wt%, the skeleton thickness and the pore size further decrease, the pore size dwindles to below 5 µm, and the bulk density falls to 0.0736 g _·_ cm _[−]_[3] . With the further increase of the cellulose concentration to 4 wt%, the micromorphology of the cellulose aerogel almost does not change anymore, while the bulk density decreases slightly to 0.0675 g _·_ cm _[−]_[3] . As a result, with the increase of the cellulose concentration, the skeleton and pore size of cellulose aerogels will decrease. The cellulose concentration can determine the formation of the hydrogel skeleton network of cellulose aerogels. A higher cellulose concentration can form a dense gel skeleton network, which can withstand the growth of ice crystals during freeze-drying and results in the formation of a smaller pore structure and finer skeleton. 
 
 
-![](2 Facile Preparation of Cellulose Aerogels with Controllable Pore Structure_images/image-0004-03.png)
+![](_temp_9ba62dd4_convert__images/_temp_9ba62dd4_convert_.pdf-0004-03.png)
 
 
 **Figure 2.** SEM images of cellulose aerogels prepared in NaOH/urea solution with different cellulose concentrations: ( **a** ) 1 wt%, ( **b** ) 2 wt%, ( **c** ) 3 wt%, and ( **d** ) 4 wt%. 
@@ -117,7 +117,7 @@ _Nanomaterials_ **2023** , _13_ , 613
 5 of 10 
 
 
-![](2 Facile Preparation of Cellulose Aerogels with Controllable Pore Structure_images/image-0005-02.png)
+![](_temp_9ba62dd4_convert__images/_temp_9ba62dd4_convert_.pdf-0005-02.png)
 
 
 **Figure 3.** SEM images of cellulose aerogels prepared in NaOH/urea solution after different aging times: ( **a** ) 4 h, ( **b** ) 12 h, ( **c** ) 24 h, and ( **d** ) 48 h. 
@@ -125,7 +125,7 @@ _Nanomaterials_ **2023** , _13_ , 613
 Figure 4 shows the TG/DTG curves of raw cellulose powder and cellulose aerogels prepared under different conditions when heated in N2 atmosphere. From the TG curve, it can be seen that the weight-loss rates of cellulose aerogels prepared under different conditions after complete decomposition are smaller than that of raw cellulose powder. After complete decomposition, the residual weight of raw cellulose powder is about 5%, the residual weight of freeze-dried cellulose aerogel becomes about 15%, while the residual weight of supercritical dried cellulose aerogel reaches about 30%. It can be seen from the DTG curve that the decomposition temperature of raw cellulose powder is the highest, and there is a weight loss peak at about 360 _[◦]_ C, indicating a high decomposition temperature. The decomposition temperature of cellulose aerogels prepared by NaOH/urea solution & freeze-drying is slightly lower, at about 330 _[◦]_ C. The decomposition temperature of cellulose aerogels prepared by ionic liquid & freeze-drying is only 250 _[◦]_ C. In contrast, the cellulose aerogels prepared by NaOH/urea solution & supercritical drying have two weight-loss peaks at 120 and 250 _[◦]_ C, respectively, which can be attributed to the volatilization of adsorbed water and decomposition of cellulose. In combination with XRD patterns, the decomposition temperature is mainly related to the crystallinity of cellulose. A high crystallinity of cellulose can obtain a higher decomposition temperature for cellulose. 
 
 
-![](2 Facile Preparation of Cellulose Aerogels with Controllable Pore Structure_images/image-0005-05.png)
+![](_temp_9ba62dd4_convert__images/_temp_9ba62dd4_convert_.pdf-0005-05.png)
 
 
 **Figure 4.** ( **a** ) TG curve and ( **b** ) DTG curve of raw cellulose powder and cellulose aerogels prepared under different conditions. 
@@ -139,7 +139,7 @@ _Nanomaterials_ **2023** , _13_ , 613
 characteristic peaks of cellulose with different crystalline structures are given in Table 1. The X-ray diffraction pattern of raw cellulose powder shows that there are three obvious diffraction peaks at 14.8 _[◦]_ , 16.3 _[◦]_ and 22.6 _[◦]_ , which indicates that it has a Cellulose I structure. The X-ray diffraction peaks of cellulose aerogels prepared with NaOH/urea solution as the solvent are 12.1 _[◦]_ , 19.8 _[◦]_ and 22.0 _[◦]_ , which indicates that as-prepared cellulose aerogels belong to a Cellulose II structure. The cellulose molecules have enough time to arrange themselves, since the gel process is relatively slow, which causes the regenerated cellulose to have a relatively high crystallinity [27]. The other peaks in the X-ray diffraction patterns of these two samples belong to a small amount of residual NaOH. In contrast, cellulose aerogels prepared in ionic liquid have no obvious diffraction peaks, indicating that there is almost no crystal region between cellulose molecules. As mentioned above, in the ionic liquid system, the cellulose network structure is formed through non-solvent induced phase separation, and the rapid phase separation process does not allow enough time for cellulose to arrange the crystal region [28]. The diffraction peak of the (020) crystal plane is selected to compare the crystallinity of raw cellulose powder and cellulose aerogels prepared under different conditions through the Scherrer equation. One can find that the raw cellulose powder obviously has a larger crystal area, which corresponds to the higher decomposition temperature on the TG curve. 
 
 
-![](2 Facile Preparation of Cellulose Aerogels with Controllable Pore Structure_images/image-0006-03.png)
+![](_temp_9ba62dd4_convert__images/_temp_9ba62dd4_convert_.pdf-0006-03.png)
 
 
 **Figure 5.** X-ray diffraction patterns of raw cellulose powder and cellulose aerogels prepared under different conditions. 
@@ -162,7 +162,7 @@ _Nanomaterials_ **2023** , _13_ , 613
 below 100 nm can also be observed. This reveals that the cellulose network structure in ionic liquid is strong enough to not be damaged by ice crystals during freezing [30]. The cellulose aerogel prepared by NaOH/urea solutions & supercritical drying also possesses a 3D fibrous network structure. The skeletons are thicker than those of cellulose aerogels prepared in ionic liquids, and the overall pore size is smaller, at about 50 nm. In terms of structure, the cellulose aerogel prepared by NaOH/urea solution & freeze-drying is quite different from the former two aerogels, being composed of schistose skeletons with a pore diameter of 2 µm. This is because the growth of ice crystals destroys the original cellulose network structure and squeezes the cellulose network for aggregation. 
 
 
-![](2 Facile Preparation of Cellulose Aerogels with Controllable Pore Structure_images/image-0007-03.png)
+![](_temp_9ba62dd4_convert__images/_temp_9ba62dd4_convert_.pdf-0007-03.png)
 
 
 **Figure 6.** SEM images of ( **a** ) raw cellulose powder and cellulose aerogels prepared under different conditions: ( **b** ) ionic liquids & freeze-drying, ( **c** ) NaOH/urea solutions & supercritical drying, and ( **d** ) NaOH/urea solutions & freeze-drying. 
@@ -178,13 +178,13 @@ _Nanomaterials_ **2023** , _13_ , 613
 the actual value. This test can only conduct a rough analysis of the pore structure of cellulose aerogels. 
 
 
-![](2 Facile Preparation of Cellulose Aerogels with Controllable Pore Structure_images/image-0008-03.png)
+![](_temp_9ba62dd4_convert__images/_temp_9ba62dd4_convert_.pdf-0008-03.png)
 
 
 **Figure 7.** ( **a** – **c** ) N2 adsorption–desorption isotherms and ( **d** – **f** ) BJH pore-size distribution of cellulose aerogels prepared under different conditions: ( **a** , **d** ) ionic liquid & freeze-drying, ( **b** , **e** ) NaOH/urea solution & supercritical drying, and ( **c** , **f** ) NaOH/urea solution & freeze-drying. The BET result of cellulose aerogels is respectively inserted in the figures. 
 
 
-![](2 Facile Preparation of Cellulose Aerogels with Controllable Pore Structure_images/image-0008-05.png)
+![](_temp_9ba62dd4_convert__images/_temp_9ba62dd4_convert_.pdf-0008-05.png)
 
 
 **Figure 8.** Macropore size distribution (as shown in the red line) of cellulose aerogels prepared by using NaOH/urea solution as solvent via freeze-drying by mercury intrusion method. The blue line shows the pore size corresponding to the peak. 

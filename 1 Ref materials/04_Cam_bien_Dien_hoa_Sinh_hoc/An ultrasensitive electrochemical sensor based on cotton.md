@@ -5,7 +5,7 @@ ORIGINAL PAPER
 # An ultrasensitive electrochemical sensor based on cotton carbon fiber composites for the determination of superoxide anion release from cells 
 
 
-![](An ultrasensitive electrochemical sensor based on cotton_images/image-0001-03.png)
+![](_temp_fb3c1a78_convert__images/_temp_fb3c1a78_convert_.pdf-0001-03.png)
 
 
 Tiaodi Wu[1] & Lin Li[1] & Guangjie Song[1] & Miaomiao Ran[1] & Xiaoquan Lu[1] & Xiuhui Liu[1] 
@@ -33,7 +33,7 @@ measurements, electrochemical method is the most promising method for O2•− d
 In recent years, conforming to green economy and sustainable development of society, biomass-derived carbon fiber (CFs) has received considerable attention. Compared to inorganic and synthetic organic products, natural products are abundant, renewable, biodegradable, low in cost, and suitable for large-scale production and practical applications [11]. Notably, biomass-derived carbon fiber has its advantages in the development of electrochemical sensors, such as good adsorption performance, large specific surface area, and no agglomeration [12, 13]. However, CFs usually needs special activation and modification to achieve high performance in sensors. So far, many efforts have been made to enhance the performance through modifying the surface property. One efficient way is chemical activation by KOH, ZnCl2, and K2CO3 [14–16]. Another is doping hetero atoms or introducing surface functional groups. Among them, nitrogen doping 
 
 
-![](An ultrasensitive electrochemical sensor based on cotton_images/image-0001-16.png)
+![](_temp_fb3c1a78_convert__images/_temp_fb3c1a78_convert_.pdf-0001-16.png)
 
 
 Page 2 of 9 
@@ -61,7 +61,7 @@ The degreasing cotton was obtained from Henan Piaoan Group Co., Ltd. (https://ww
 NCFs were synthesized by a two-step process. In the first step, 1.0 g of cotton was torn into pieces and soaked in 50 mL ultrapure water containing 6.0 g of urea. Then the cotton was sonicated for approximately 3 h to allow the cotton to disperse evenly in the urea solution. Finally, the cotton was dried in a vacuum oven at 80 °C for 24 h. In the second step, 
 
 
-![](An ultrasensitive electrochemical sensor based on cotton_images/image-0002-12.png)
+![](_temp_fb3c1a78_convert__images/_temp_fb3c1a78_convert_.pdf-0002-12.png)
 
 
 Scheme 1 Schematic illustration of the procedure for the preparation of the NCF-based electrochemical sensor and application for detection of superoxide anion released from cells 
@@ -107,7 +107,7 @@ Page 4 of 9
 Microchim Acta 
 
 
-![](An ultrasensitive electrochemical sensor based on cotton_images/image-0004-02.png)
+![](_temp_fb3c1a78_convert__images/_temp_fb3c1a78_convert_.pdf-0004-02.png)
 
 
 Fig. 1 SEM images of various modified GCE substrates: a NCF/GCE, b AgNP/NCF/GCE; TEM images of AgNP/NCF/GCE c and d; e HRTEM image of AgNP/NCF/GCE; f Raman spectra of CFs and NCF 
@@ -123,7 +123,7 @@ Microchim Acta
 Fig. 2 CVs of different electrodes in the absence (presence of 1.0 mM Oa) and the2•− (b) in N2-saturated 0.2 M PBS (pH 7.0): a bare GCE, b NCF/GCE, c AgNP/GCE and d AgNP/NCF/ GCE, at 100 mV/s 
 
 
-![](An ultrasensitive electrochemical sensor based on cotton_images/image-0005-03.png)
+![](_temp_fb3c1a78_convert__images/_temp_fb3c1a78_convert_.pdf-0005-03.png)
 
 
 reduction on the AgNP/NCF/GCE is shifted to more positive, and the result further illustrates that AgNP/NCF/GCE shows excellent catalytic ability toward O2•− [20]. 
@@ -153,7 +153,7 @@ Microchim Acta
 Fig. 3 LSV curves obtained at AgNP/NCF/GCE for the analysisof different concentrations of O2•− in N2-saturated 0.2 M PBS (pH 7.0) under continuous stirring. Fig.responses of O 3a and c are current2•− in the lowconcentration (from (a) to (i): 0, 6.96 × 10[−][15] , 7.60 × 10[−][14] , 7.62 × 10[−][13] , 7.57 × 10[−][12] , 7.52 × 10[−][11] , 7.66 × 10[−][10] , 7.42 × 10[−][9] , 7.37 × 10[−][8] M) and the highconcentration (from (j) to (p): 3.57 × 10[−][7] , 1.75 × 10[−][6] , 7.63 × 10[−][6] , 1.65 × 10[−][5] , 3.52 × 10[−][5] , 5.37 × 10[−][5] , 7.22 × 10[−][5] M), respectively; Fig. 3b and d show the corresponding calibration plots of current response between•− the logarithm of the O2 concentration and the concentration of O2•−. Each point is expressed as mean ± standard deviation (n = 3), at 100 mV/s 
 
 
-![](An ultrasensitive electrochemical sensor based on cotton_images/image-0006-03.png)
+![](_temp_fb3c1a78_convert__images/_temp_fb3c1a78_convert_.pdf-0006-03.png)
 
 
 0.5 mM ascorbic acid (AA), uric acid (UA), dopamine (DA), NO2−, NO3− and ONOO−. Fig. 4 showed the current responses of interfering species on AgNP/NCF/GCE. Compared to the significant current of O2•−, these electrochemical responses of the potentially interfering substances can be negligible, confirming that AgNP/NCF/GCE per•− formed superior selectivity toward O2 and had potential ca•− pacity for O2 detection in complex biological environments. 
@@ -187,7 +187,7 @@ Page 7 of 9
 Microchim Acta 
 
 
-![](An ultrasensitive electrochemical sensor based on cotton_images/image-0007-02.png)
+![](_temp_fb3c1a78_convert__images/_temp_fb3c1a78_convert_.pdf-0007-02.png)
 
 
 andof various species (0.5 mM each of AA, UA, DA, NOFig. 4twiceAmperometric i-t response of AgNP/NCF/GCE upon the additionaddition of 1 × 10[−][5] M O2•− in 0.2 M PBS2−(pH, NO7.0)3−, ONOOunder−a) stirring condition, at −0.50 V 
@@ -201,7 +201,7 @@ Firstly, we studied the electrochemical responses obtained at the AgNP/NCF/GCE i
 Secondly, we also studied the influence of DADS dose on the amount of O2•− producing by U87 cells in Fig. 5b. The current response increased along with the concentrations of DADS (20, 40, 60, 100 μM) and reached a maximum at 60 μM. When DADS were added at 150 s again, the similar 
 
 
-![](An ultrasensitive electrochemical sensor based on cotton_images/image-0007-08.png)
+![](_temp_fb3c1a78_convert__images/_temp_fb3c1a78_convert_.pdf-0007-08.png)
 
 
 Fig. 5 a Time course of the blank PBS (a), the U87 cells (b), U87 cells uponAmperometricthe additionresponsesof 40of μOM2•−DADSreleasedandfrom300U87U/mLcells inducedSOD (cwith); b differentcorresponding current changes;concentrations of DADS. c Current responses of OInset is a columnar2•−comparisonreleased fromof U87 cells in the absence of antioxidants (a) and presence of antioxidants: 

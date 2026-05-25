@@ -87,7 +87,7 @@ The morphology of the as-prepared material was detected on the Scanning Electron
 The electrochemical measurements were tested in three-electrode system, that were carried on a Model CHI660D device. The work electrode was made as follows. The as-obtained samples, Super P and polyvinylidene difluoride (PVDF) were mixed in the mass ratio of 80:10:10 with absolute alcohol to a homogeneous slurry with certain fluidity. Then, coat the mixing slurry onto the cleaned nickel foam (1.5 × 2 = 3 cm[2] ) with a glass rod, followed drying in vacuum drying oven at 80 ℃ for 6 h. The thickness of the slurry was about 100 μm. Took the prepared electrode, Pt plate and Hg/HgO electrode respectively acting as the work, counter and reference electrode. The aqueous solution KOH with molar concentration of 1 M was regarded as the testing solution. The voltage range of cyclic voltammetry (CV) and galvanostatic charge-discharge (GCD) tests was -1.0-0 V, and the scan rates of CV tests were 10, 15, 20, 30, 40, 50 mVꞏs[-1] , respectively. Set the frequency and amplitude of electrochemical impedance spectroscopy (EIS) measurements to 0.01 Hz -100 kHz and 10 mV. The calculation formula of specific capacitance, energy density and power density are as the following equations: 
 
 
-![](A_carbonized_coconut_husk_for_supercapacitor_elect_images/image-0004-07.png)
+![](_temp_ecb8d3e3_convert__images/_temp_ecb8d3e3_convert_.pdf-0004-07.png)
 
 
 Where, _I_ (A) is the current of discharge,  _t_ (s) is the the discharge time, _m_ (g) is the mass of the CHDC material,  _U_ (V) is the voltage range, _CS_ (Fꞏg[-1] ) is the specific capacitance, _ED_ (Whꞏkg[-1] ) is the energy density, _PD_ (Wꞏkg[-1] ) is the power density. 
@@ -95,11 +95,11 @@ Where, _I_ (A) is the current of discharge,  _t_ (s) is the the discharge tim
 ## **3. Experimental results** 
 
 
-![](A_carbonized_coconut_husk_for_supercapacitor_elect_images/image-0004-10.png)
+![](_temp_ecb8d3e3_convert__images/_temp_ecb8d3e3_convert_.pdf-0004-10.png)
 
 
 
-![](A_carbonized_coconut_husk_for_supercapacitor_elect_images/image-0004-11.png)
+![](_temp_ecb8d3e3_convert__images/_temp_ecb8d3e3_convert_.pdf-0004-11.png)
 
 
 **----- Start of picture text -----**<br>
@@ -125,7 +125,7 @@ doi:10.1088/1742-6596/2563/1/012031
 storage characteristics. With the increase of scanning rate, the rectangle deformed gradually, which is because the material cannot absorb the charge in time. Extraordinary, CHDC-3 shows the largest current change at the same scanning rate. 
 
 
-![](A_carbonized_coconut_husk_for_supercapacitor_elect_images/image-0005-06.png)
+![](_temp_ecb8d3e3_convert__images/_temp_ecb8d3e3_convert_.pdf-0005-06.png)
 
 
 Figure 2. Electrochemical tests results of different samples: (a), (c), (e) CV curves and (b), (d), (f) GCD curves of CHDC-1, CHDC-2, and CHDC-3, respectively. 
@@ -143,7 +143,7 @@ NEMD-2023 IOP Publishingg Journal of Physics: Conference Series **2563** (2023) 
 the minimum interface impedance, while the slope of CHDC-1 in the low frequency indicates the maximum diffusion impedance. This is also consistent with the results of GCD tests, indicating that the activity of KOH and longer hydrothermal pre-carbonization time are beneficial to the energy storage of the material. 
 
 
-![](A_carbonized_coconut_husk_for_supercapacitor_elect_images/image-0006-03.png)
+![](_temp_ecb8d3e3_convert__images/_temp_ecb8d3e3_convert_.pdf-0006-03.png)
 
 
 **Figure 3.** Nyquist plots for CHDC-1, CHDC-2, and CHDC-3. 

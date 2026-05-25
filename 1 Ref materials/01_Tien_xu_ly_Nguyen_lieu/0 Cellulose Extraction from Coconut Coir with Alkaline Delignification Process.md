@@ -1,13 +1,13 @@
 - Journal of Fibers and Polymer Composites 1(2): 106 116 (2022) 
 
 
-![](0 Cellulose Extraction from Coconut Coir with Alkaline Delignification Process_images/image-0001-01.png)
+![](_temp_7d48a630_convert__images/_temp_7d48a630_convert_.pdf-0001-01.png)
 
 
 ## **Journal of Fibers and Polymer Composites** 
 
 
-![](0 Cellulose Extraction from Coconut Coir with Alkaline Delignification Process_images/image-0001-03.png)
+![](_temp_7d48a630_convert__images/_temp_7d48a630_convert_.pdf-0001-03.png)
 
 
 **https://journals.gesociety.org/index.php/jfpc/index** 
@@ -69,11 +69,11 @@ Journal of Fibers and Polymer Composites 1(2): 106-116 (2022)
 the coconut coir solids were dried in an oven at 45°C until constant weight. The dried samples were treated with 10 ml 72% for 4 hours. Then mixed with 150 ml H₂SO₄ 1N and refluxed using a three-neck flask at 100°C for 1 hour. After refluxing, the fibers were washed with distilled water and dried in an oven at 45°C. The dried samples were put into the furnace until getting the ash. Then, treated coconut coir was calculated to determine the content of lignocellulosic components using the following calculations: 
 
 
-![](0 Cellulose Extraction from Coconut Coir with Alkaline Delignification Process_images/image-0004-02.png)
+![](_temp_7d48a630_convert__images/_temp_7d48a630_convert_.pdf-0004-02.png)
 
 
 
-![](0 Cellulose Extraction from Coconut Coir with Alkaline Delignification Process_images/image-0004-03.png)
+![](_temp_7d48a630_convert__images/_temp_7d48a630_convert_.pdf-0004-03.png)
 
 
 ## **Note:** 
@@ -101,11 +101,11 @@ In this study, the raw material used as cellulose fiber is coconut coir, carried
 Journal of Fibers and Polymer Composites 1(2): 106-116 (2022) 
 
 
-![](0 Cellulose Extraction from Coconut Coir with Alkaline Delignification Process_images/image-0005-01.png)
+![](_temp_7d48a630_convert__images/_temp_7d48a630_convert_.pdf-0005-01.png)
 
 
 
-![](0 Cellulose Extraction from Coconut Coir with Alkaline Delignification Process_images/image-0005-02.png)
+![](_temp_7d48a630_convert__images/_temp_7d48a630_convert_.pdf-0005-02.png)
 
 
 Figure 1. Discoloration of the cellulose extraction after delignification process (left) and bleaching process (right) 
@@ -121,7 +121,7 @@ In this study, various sizes were carried out (60, 80, and 100 mesh) using scree
 Journal of Fibers and Polymer Composites 1(2): 106-116 (2022) 80, and 100 mesh was 50.00%, 53.63%, and 57.27%, respectively.  According to that data, the optimum percentage of cellulose was 57.27 % at 100 mesh because the smaller the particle size, the more cellulose content was obtained. The smaller the size of particles indicated, the broader the surface area. Then, the greater the amount of adsorption can affect the percentage of extraction of cellulose. The smaller the particle size, the bigger potential sample will produce cellulose at higher percentage. So, when carrying out the delignification process, size is one of the main factors that must be considered to produce cellulose in the most optimum conditions [16]. Otherwise, increasing the lignin content that becomes the barrier to the cellulose is getting less. This is influenced because the extraction is carried out by refluxing coconut coir solids through the delignification process using alkaline NaOH. 
 
 
-![](0 Cellulose Extraction from Coconut Coir with Alkaline Delignification Process_images/image-0006-01.png)
+![](_temp_7d48a630_convert__images/_temp_7d48a630_convert_.pdf-0006-01.png)
 
 
 Figure 2. The effect of particle size of coconut coir on the percentage of cellulose, lignin, hemicellulose, and ash. 
@@ -137,7 +137,7 @@ Journal of Fibers and Polymer Composites 1(2): 106-116 (2022) concentrations of 
 The alkaline in the pretreatment of the delignification process reduces the lignin content in coconut coir. It can increase the cellulose content quickly. The higher the concentration of alkaline in this research was NaOH, the ability of NaOH to reduce lignin levels in coconut fiber increased. Because NaOH acts to separate lignin and some hemicellulose, the percentage of cellulose in coconut fiber can be easier to obtain. Furthermore, the more NaOH is given, the easier the lignin degradation because lignin has a low softening point and melting pointF. The increase in the cellulose fiber content was caused by some of the lignin dissolved in the delignification process. 
 
 
-![](0 Cellulose Extraction from Coconut Coir with Alkaline Delignification Process_images/image-0007-02.png)
+![](_temp_7d48a630_convert__images/_temp_7d48a630_convert_.pdf-0007-02.png)
 
 
 Figure 3. The effect of NaOH concentration of coconut coir on the percentage of cellulose, lignin, hemicellulose, and ash 
@@ -151,7 +151,7 @@ Delignification time was observed due to the optimum delignification process. Va
 Journal of Fibers and Polymer Composites 1(2): 106-116 (2022) 
 
 
-![](0 Cellulose Extraction from Coconut Coir with Alkaline Delignification Process_images/image-0008-01.png)
+![](_temp_7d48a630_convert__images/_temp_7d48a630_convert_.pdf-0008-01.png)
 
 
 Figure 4. The effect of delignification time of coconut coir on the percentage of cellulose, lignin, hemicellulose, and ash. 
@@ -171,13 +171,13 @@ Journal of Fibers and Polymer Composites 1(2): 106-116 (2022)
 increases the ability of the delignification process of the cooking solution so that more lignin has been dissolved. The lowest lignin was found at 80°C, which was 14.55%. It follows the data obtained that the greater temperature used for the cooking process in the delignification process, the greater the cellulose obtained. On the other hand, the higher the temperature, the lower the lignin content obtained. 
 
 
-![](0 Cellulose Extraction from Coconut Coir with Alkaline Delignification Process_images/image-0009-02.png)
+![](_temp_7d48a630_convert__images/_temp_7d48a630_convert_.pdf-0009-02.png)
 
 
 Figure 5 . Effect of delignification temperature on the percentage of cellulose, lignin, hemicellulose, and ash in coconut coir 
 
 
-![](0 Cellulose Extraction from Coconut Coir with Alkaline Delignification Process_images/image-0009-04.png)
+![](_temp_7d48a630_convert__images/_temp_7d48a630_convert_.pdf-0009-04.png)
 
 
 Figure 6. SEM Photo morphology of cellulose from coconut coir. 
