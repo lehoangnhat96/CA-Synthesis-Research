@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "a818beb3aba24e77",
+    "type": "split",
+    "children": [
+      {
+        "id": "01b1d7d2a773bca2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "696c03fb4075e582",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Xem biểu đồ"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ce08832bf2aaaa3a",
+    "type": "split",
+    "children": [
+      {
+        "id": "4130e062aca9e702",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "74d8ef42cb08b1cd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Trình duyệt tệp"
+            }
+          },
+          {
+            "id": "b9eeda67192e2518",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Tìm kiếm"
+            }
+          },
+          {
+            "id": "b8ba5a21b6db0e92",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Đánh dấu"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8d62dc97d229dfc3",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c106f42ad355f3f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd8f5c40a6611928",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Liên kết đến"
+            }
+          },
+          {
+            "id": "7276c9607fa978ce",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Liên kết đi ra"
+            }
+          },
+          {
+            "id": "8e6d31136fcfefad",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Thẻ"
+            }
+          },
+          {
+            "id": "da5b750d53c56339",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Tất cả thuộc tính"
+            }
+          },
+          {
+            "id": "4e824efd4299279d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Đề cương"
+            }
+          },
+          {
+            "id": "c864a3bbc476ccd9",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 462.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Mở bộ chuyển đổi nhanh": false,
+      "graph:Mở xem biểu đồ": false,
+      "canvas:Tạo bảng mới": false,
+      "daily-notes:Mở ghi chú hôm nay": false,
+      "templates:Chèn mẫu": false,
+      "command-palette:Mở khay lệnh": false,
+      "bases:Tạo cơ sở mới": false,
+      "copilot:Open Copilot Chat": false
+    }
+  },
+  "active": "696c03fb4075e582",
+  "lastOpenFiles": [
+    "09_Tai_lieu_Quy_trinh_AI/0 Fe_N_Carbon_Aerogel_Research_Plan_v2.md",
+    "04_Cam_bien_Dien_hoa_Sinh_hoc/Electrochemical sensor based on N-doped carbon dots decorated with manganese oxide nanospheres for simultaneous detection of p-aminophenol and paracetamol.md",
+    "04_Cam_bien_Dien_hoa_Sinh_hoc/Electroanalytical Overview  Screen‐Printed Electrochemical Sensing Platforms.md",
+    "o.md",
+    "Electroanalytical.md",
+    "04_Cam_bien_Dien_hoa_Sinh_hoc/3D nitrogen-doped graphene aerogel a low-cost, facile H2O2.md",
+    "copilot/copilot-conversations/What_key_questions_does_answer@20260525_194054.md",
+    "copilot/copilot-conversations",
+    "copilot",
+    "copilot/copilot-custom-prompts/Remove URLs.md",
+    "copilot/copilot-custom-prompts/Make shorter.md",
+    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
+    "copilot/copilot-custom-prompts/Clip Web Page.md",
+    "copilot/copilot-conversations/Trích_xuất_Dữ_liệu_Khoa_học@20260525_154819.md",
+    "Chưa đặt tên.canvas",
+    "Chưa đặt tên 2.canvas",
+    "Chưa đặt tên 1.canvas",
+    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot/copilot-custom-prompts/Generate glossary.md",
+    "copilot/copilot-custom-prompts/Generate table of contents.md",
+    "copilot/copilot-custom-prompts/Make longer.md",
+    "copilot/copilot-custom-prompts/Emojify.md",
+    "copilot/copilot-custom-prompts/Explain like I am 5.md",
+    "copilot/copilot-custom-prompts/Simplify.md",
+    "copilot/copilot-custom-prompts/Summarize.md",
+    "copilot/copilot-custom-prompts/Translate to Chinese.md",
+    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
+    "copilot/copilot-custom-prompts"
+  ]
+}
