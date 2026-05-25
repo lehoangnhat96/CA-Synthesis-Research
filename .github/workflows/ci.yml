@@ -31,11 +31,11 @@ jobs:
       - name: Lint with pylint (optional)
         run: |
           pip install pylint
-          pylint --fail-under=7.0 *.py || true
+          pylint --fail-under=7.0 scripts/*.py || true
       
       - name: Run script syntax check
         run: |
-          python -m py_compile *.py
+          python -m py_compile scripts/*.py
 
   build-image:
     runs-on: ubuntu-latest

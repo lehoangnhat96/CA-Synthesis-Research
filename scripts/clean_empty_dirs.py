@@ -63,7 +63,7 @@ def delete_empty_dirs_recursive(dir_path, exclude_prefixes):
     return deleted_count
 
 def main():
-    workspace_dir = Path(os.path.dirname(os.path.abspath(__file__)))
+    workspace_dir = Path(os.path.dirname(os.path.abspath(__file__))).parent
     print(f"=== Bắt đầu dọn dẹp các thư mục rỗng cũ trong: {workspace_dir} ===")
     
     # Danh sách các tiền tố/thư mục không được xóa

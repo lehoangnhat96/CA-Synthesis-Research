@@ -214,7 +214,7 @@ def convert_pdf_with_timeout(pdf_path, output_md_path, images_dir, workspace_dir
 
 
 def main():
-    workspace_dir = Path(os.path.dirname(os.path.abspath(__file__)))
+    workspace_dir = Path(os.path.dirname(os.path.abspath(__file__))).parent
     print(f"=== Bắt đầu quét và chuyển đổi PDF trong thư mục: {workspace_dir} ===")
     
     # 1. Quét tìm tất cả các file PDF trong workspace (bỏ qua thư mục .git, backup và tệp tạm)

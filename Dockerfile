@@ -29,14 +29,14 @@ ENV PATH=/home/worker/.local/bin:$PATH \
     PYTHONIOENCODING=utf-8
 
 # Copy application code
-COPY --chown=worker:worker *.py ./
+COPY --chown=worker:worker scripts/ ./scripts/
 
 # Switch to non-root user
 USER worker
 
 # Health check
 HEALTHCHECK --interval=30s --timeout=3s --start-period=5s --retries=1 \
-    CMD python -m py_compile *.py || exit 1
+    CMD python -m py_compile scripts/*.py || exit 1
 
 # Default command
 ENTRYPOINT [ "python" ]
