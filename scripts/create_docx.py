@@ -14,7 +14,7 @@ from docx.oxml import parse_xml
 import os
 
 OUTPUT = os.path.join(
-    r"D:\1 Master of Analytical Chemistry\1 Master's thesis\Carbon Aerogel",
+    r"D:\1 Master's Ana Chem\1 Master's thesis\Carbon Aerogel",
     "OUTLINE_THONG_SO_TONG_HOP_CA.docx",
 )
 
