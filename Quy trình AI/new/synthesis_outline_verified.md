@@ -405,15 +405,22 @@
 
 **Mục đích:** Thay thế nước trong gel bằng dung môi dễ thăng hoa, sau đó sấy loại dung môi mà không phá vỡ mạng 3D.
 
-### 4a. Keo tụ / Coagulation (Chia 2 mẫu song song)
+### 4a. Rã đông & Đông tụ / Thawing & Coagulation (Chia 2 mẫu song song)
 
-| Mẫu | Điều kiện ngâm | Mục đích |
+> [!IMPORTANT]
+> * **Rã đông (Thawing) trước khi đông tụ:** Gel sau khi lấy ra khỏi tủ đông sinh hàn phải được **rã đông ở nhiệt độ phòng (25°C) trong 1 giờ** (hoặc ngăn mát 0–5°C trong 2–3 giờ) để tinh thể đá tan hoàn toàn thành nước lỏng trước khi ngâm cồn. Nếu không rã đông, cồn sẽ không thể khuếch tán vào lõi gel bị đông đá.
+> * **Nhiệt độ lưu trữ khi đông tụ (Storage Temp during Coagulation):** Quá trình ngâm đông tụ kéo dài 24–48h **bắt buộc phải lưu trữ ở nhiệt độ lạnh 0–5°C (trong tủ lạnh)** để hạn chế sự khuếch tán và rửa trôi nhanh của Urea/Ammonia (nguồn N-doping) ra ngoài dung dịch cồn, giúp giữ lại lượng tiền chất nitơ tối đa trong ma trận gel, đảm bảo hiệu suất N-doping cao khi nung.
+
+| Mẫu | Điều kiện ngâm | Mục đích & Lưu ý |
 |---|---|---|
-| **N-CA** | Ethanol 98% lạnh (0–5°C), 15 mL/mL gel, 24–48h | Thay thế nước trong gel bằng ethanol. |
-| **Fe/N-CA** | Ethanol 98% chứa FeCl₃·6H₂O (0–5°C), 24–48h | Đồng thời keo tụ + tẩm Fe vào cấu trúc gel. |
+| **N-CA** | Ethanol 98% lạnh (0–5°C), tỷ lệ 15 mL/mL gel, ngâm **24–48h ở nhiệt độ 0–5°C** | Đông tụ cellulose chậm, bảo toàn cấu trúc mạng xốp 3D và giữ lại tối đa tiền chất Urea/Ammonia. |
+| **Fe/N-CA** | Ethanol 98% lạnh (0–5°C) chứa FeCl₃·6H₂O, tỷ lệ 15 mL/mL gel, ngâm **24–48h ở nhiệt độ 0–5°C** | Đồng thời đông tụ chậm và tẩm Fe³⁺ vào cấu trúc xốp mao quản. |
 
-- Lượng FeCl₃·6H₂O: **1% Fe → 0.048g** hoặc **5% Fe → 0.242g** (tính trên 1g xơ dừa)
-- Thay ethanol mới sau 24h nếu kéo dài 36–48h
+* **Thông số & Tỷ lệ tối ưu:**
+  * **Nồng độ cồn tối ưu:** **Ethanol 98%** (Merck, Reagent Grade). Cồn tuyệt đối hoạt động như chất khử nước mạnh mẽ, phá vỡ lớp vỏ hydrat hóa của cellulose để tái liên kết hydro nhanh. Nồng độ cồn thấp (như 70% hay 90%) chứa nhiều nước tự do sẽ làm sập cấu trúc gel khi sấy do sức căng bề mặt lớn.
+  * **Tỷ lệ thể tích cồn / gel:** **15 mL ethanol / 1 mL gel** (theo Fauziyah 2020) để đảm bảo lượng cồn dư thừa lớn, không bị nước đi ra làm loãng dưới ngưỡng đông tụ hiệu quả (> 90%).
+  * **Lượng FeCl₃·6H₂O:** **1% Fe → 0.048g** hoặc **5% Fe → 0.242g** (tính trên 1g xơ dừa).
+  * **Thay cồn mới:** Thay cồn ethanol 98% lạnh mới sau **24 giờ đầu** nếu kéo dài thời gian đông tụ đến 36–48 giờ đối với các gel có kích thước monolith lớn hoặc gel yếu để loại bỏ hoàn toàn nước tàn dư trong lõi.
 
 ### 4b. Rửa / Solvent Exchange
 
@@ -423,7 +430,7 @@
 | Gradient TBA (optional) | 15% TBA 6–8h → 30% TBA 12–24h | Giúp tinh thể hóa tốt hơn khi cấp đông. Thay TBA 1 lần giữa chu kỳ. |
 
 > [!TIP]
-> **KHÔNG rửa quá nhiều lần** — tránh rửa trôi urea còn liên kết trong gel (giảm nguồn N-doping).
+> **KHÔNG rửa quá nhiều lần** — tránh rửa trôi các tiền chất nitrogen (Urea/Ammonia) còn bám dính vật lý trong gel, giúp duy trì hàm lượng N-doping lý tưởng (XPS N at% đạt 3-6%).
 
 ### 4c. Sấy thăng hoa / Freeze Drying
 

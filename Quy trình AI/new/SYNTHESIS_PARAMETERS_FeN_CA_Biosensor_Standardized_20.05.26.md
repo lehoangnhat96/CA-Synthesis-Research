@@ -110,14 +110,17 @@ Bước này bắt buộc để tránh sụp đổ mạng lưới 3D.
 
 ### 4.1 Đông tụ / Coagulation
 
-| Thông số | Giá trị chuẩn |
-|---|---:|
-| Môi trường | Ethanol 98% |
-| Tỷ lệ | 15 mL ethanol / 1 mL gel |
-| Nhiệt độ ethanol | 0–5°C |
-| Thời gian chuẩn | 24h |
-| Backup an toàn | 36–48h nếu gel yếu hoặc còn co rút |
-| Thay ethanol | Có thể thay sau 24h nếu kéo dài 36–48h |
+> [!IMPORTANT]
+> * **Rã đông (Thawing) trước khi ngâm cồn:** Bắt buộc **rã đông hydrogel đã đông băng ở nhiệt độ phòng (25°C) trong 1 giờ** trước khi cho vào bể cồn.
+> * **Nhiệt độ lưu trữ khi đông tụ (Storage & Coagulation Temp):** Toàn bộ bình chứa gel và cồn **phải được đặt trong tủ lạnh ở nhiệt độ lạnh 0–5°C (4°C)** trong suốt 24–48h. Nhiệt độ lạnh làm giảm động học khuếch tán của Urea/Ammonia ra ngoài, giúp giữ lại tối đa tiền chất N bên trong ma trận gel, nâng cao hiệu suất N-doping thực tế sau này.
+
+| Thông số | Giá trị chuẩn | Cơ sở biện luận & Tối ưu |
+|---|---|---|
+| Môi trường | **Ethanol 98%** (Merck, Reagent Grade) | Khử nước mạnh, phá vỡ lớp vỏ hydrat hóa của cellulose để tái tạo gel ổn định. Nồng độ cồn thấp (70%, 90%) có nhiều nước tự do sẽ gây co sập gel do sức căng bề mặt lớn. |
+| Tỷ lệ cồn / gel | **15 mL cồn / 1 mL gel** | Bảo đảm lượng cồn dư lớn, nước đi ra không làm loãng cồn hiệu dụng dưới ngưỡng hoạt động (> 90%). |
+| Nhiệt độ | **0–5°C** (Bắt buộc giữ lạnh) | Giảm tốc độ khuếch tán của Urea (precursor N-doping) ra ngoài cồn và làm chậm quá trình tách pha vật lý, tăng độ bền cơ học và giảm co rút gel. |
+| Thời gian | **24 giờ** (hoặc **36–48 giờ** cho monolith lớn) | Đảm bảo nước trong gel được trao đổi hoàn toàn bằng ethanol. |
+| Thay cồn mới | Thay cồn 98% lạn mới sau **24 giờ đầu** | Áp dụng khi ngâm kéo dài 36–48h để duy trì nồng độ cồn cao tuyệt đối trong gel. |
 
 ### 4.2 Rửa trôi / Washing
 
