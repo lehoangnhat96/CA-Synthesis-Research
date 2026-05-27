@@ -184,9 +184,9 @@ Bảng tổng hợp toàn bộ các thông số điều kiện phản ứng cố
 2.  **Làm sạch siêu âm:** Nhúng GCE vào cốc nước cất DI, siêu âm làm sạch trong **1 phút** (lặp lại 3 lần với nước DI mới). Siêu âm tráng nhanh bằng cồn ethanol tuyệt đối trong **1 phút** để khử ẩm.
 3.  **Anodize hoạt hóa kiềm:** Nhúng điện cực GCE vào dung dịch **NaOH 0.1 M**. Áp thế điện thế phân cực dương **+1.8 V vs. Ag/AgCl trong thời gian 10 giây**. Rửa lại bằng nước cất DI.
 4.  **Kiểm tra độ sạch (CV redox probe):**
-    *   Dung dịch đo: **5.0mM K₃Fe(CN)₆ trong nền 0.1M KCl**.
+    *   Dung dịch đo: **5.0 mM K₃Fe(CN)₆ trong nền 0.1 M KCl**.
     *   Quét thế tuần hoàn CV ở tốc độ quét **50 mV/s** (quét 3 chu kỳ).
-    *   ✓ **Tiêu chí Pass:** Thế hiệu đỉnh tách biệt **ΔE_p < 70 mV** và tỷ số dòng điện đỉnh đối xứng ***I*_pa/*I*_pc ≈ 0.95 - 1.05**.
+    *   ✓ **Tiêu chí Pass:** Thế hiệu đỉnh tách biệt **ΔE_p < 70 mV** và tỷ số dòng điện đỉnh đối xứng **I_pa/I_pc ≈ 0.95–1.05**.
 
 ### GIAI ĐOẠN 1: PHA CHẾ MỰC IN BINDER & PHỦ ĐIỆN CỰC (Drop-casting)
 
@@ -194,16 +194,16 @@ Bảng tổng hợp toàn bộ các thông số điều kiện phản ứng cố
     Tùy thuộc vào phương pháp phủ màng và chất phân tích, nồng độ pha chế của chất kết dính (binder) được tính toán nghiêm ngặt để cân bằng giữa độ bền liên kết và độ dẫn điện bề mặt:
 
     *   **🧪 Phương pháp A: Mực Hợp Phần Đồng Nhất (Single-pot Composite Ink - Khuyên dùng):**
-        *   **Điện cực Fe/N-CA / Chitosan/GCE (Đo kim loại nặng SWASV):** Bột Carbon Aerogel (Fe/N-CA): **5.0 mg** + dung môi DMF tinh khiết: **950 µL** + dung dịch **Chitosan 1 wt%** (trong acid acetic 1%): **50 µL** (Cho nồng độ Chitosan cuối trong mực là **0.05 wt%**, đây là "Sweet Spot" chelate Pb²⁺ tối ưu mà không cản trở dòng điện).
-        *   **Điện cực N-CA-700 / Nafion/GCE (Đo Paracetamol DPV):** Bột Carbon Aerogel (N-CA-700): **5.0 mg** + dung môi DMF tinh khiết: **950 µL** + dung dịch **Nafion 5 wt% thương mại**: **50 µL** (Cho nồng độ Nafion cuối trong mực đạt đúng **0.25 wt%** hoạt tính cao).
+        *   **Điện cực Fe/N-CA / Chitosan/GCE (Đo kim loại nặng SWASV):** Bột Carbon Aerogel (Fe/N-CA): **5.0 mg** + dung môi DMF tinh khiết: **950 µL** + dung dịch **Chitosan 1 wt%** (trong acid acetic 1%): **50 µL** (Cho nồng độ Chitosan cuối trong mực là **0.05 wt%**, đây là tỷ lệ tối ưu chelate Pb²⁺ mà không cản trở dòng điện, tham chiếu: A screen-printed carbon electrode modified with a chitosan-based film for in situ heavy metal ions measurement, thư mục 05_Cross_Linker_va_Tao_mang, hướng chất liên kết chitosan đo kim loại nặng bằng SWASV).
+        *   **Điện cực N-CA-700 / Nafion/GCE (Đo Paracetamol DPV):** Bột Carbon Aerogel (N-CA-700): **5.0 mg** + dung môi DMF tinh khiết: **950 µL** + dung dịch **Nafion 5 wt% thương mại**: **50 µL** (Cho nồng độ Nafion cuối trong mực đạt đúng **0.25 wt%** hoạt tính cao, tham chiếu: Facile Synthesis of Fe-Doped, Algae Residue-Derived Carbon Aerogels for Electrochemical Dopamine Biosensors, thư mục 02_Doping_va_Gel_hoa, hướng chất liên kết Nafion đo paracetamol/dopamine bằng DPV).
     *   **🧪 Phương pháp B: Phủ Màng Từng Lớp (Layer-by-Layer Coating - Tùy chọn):**
         *   *Lớp carbon nền:* Nhỏ **5.0 µL** mực carbon thuần (5.0 mg N-CA-700 trong 1000 µL DMF tinh khiết, không chứa binder). Sấy khô nhẹ ở 40 °C trong 15 phút.
         *   *Lớp màng bảo vệ:* Nhỏ phủ tiếp **2.0 µL** dung dịch **Nafion 0.25 wt%** (pha loãng bằng cách trộn 10 µL Nafion 5 wt% thương mại + 190 µL Ethanol tuyệt đối) lên trên lớp carbon đã khô, để khô tự nhiên.
 
 2.  **Thao tác thực hiện:**
-    *   **Siêu âm phân tán mực:** Bình chứa mực được đậy kín nắp, đặt vào bể siêu âm nước đá lạnh (nhiệt độ duy trì **< 15 °C** để ngăn bay hơi và keo tụ binder). Siêu âm liên tục trong **30 - 60 phút** ở chế độ thường.
+    *   **Siêu âm phân tán mực:** Bình chứa mực được đậy kín nắp, đặt vào bể siêu âm nước đá lạnh (nhiệt độ duy trì **< 15 °C** để ngăn bay hơi và keo tụ binder). Siêu âm liên tục trong **30–60 phút** ở chế độ thường.
     *   **Drop-casting:** Dùng pipette vi lượng hút chính xác **5.0 µL** mực in (đối với cả Phương pháp A và lớp nền Phương pháp B) nhỏ lên trung tâm bề mặt điện cực GCE đã được dựng thẳng đứng trên giá đỡ.
-    *   **Sấy khô màng mỏng (Bắt buộc):** Úp ngược một cốc thủy tinh sạch che bụi lên điện cực GCE, để màng khô tự nhiên hoàn toàn ở nhiệt độ phòng (25 °C) trong **2 - 3 giờ** trong tủ hút.
+    *   **Sấy khô màng mỏng (Bắt buộc):** Úp ngược một cốc thủy tinh sạch che bụi lên điện cực GCE, để màng khô tự nhiên hoàn toàn ở nhiệt độ phòng (25 °C) trong **2–3 giờ** trong tủ hút.
     > [!IMPORTANT]
     > **⚠️ Cấm sấy gia nhiệt nhanh:** Tuyệt đối không sấy gia nhiệt nhanh, không thổi khí N₂, không sấy chân không đối với màng ướt để tránh hiệu ứng "vành cà phê" (coffee-ring) phá hỏng cấu trúc bề mặt màng.
 
@@ -216,76 +216,76 @@ Bảng tổng hợp toàn bộ các thông số điều kiện phản ứng cố
 
 | Thông số thiết lập | Giá trị cài đặt tiêu chuẩn |
 | :--- | :---: |
-| **Thế làm giàu khử (E_dep)** | **-1.1V** vs. Ag/AgCl |
-| **Thời gian làm giàu (t_dep)** | **120 giây** (khuấy từ 400 rpm) |
+| **Thế lắng khử (E_dep)** | **–1.1 V** vs. Ag/AgCl |
+| **Thời gian lắng khử (t_dep)** | **120 giây** (khuấy từ 400 rpm) |
 | **Thời gian yên lặng (Quiet time)** | **10 giây** (không khuấy từ) |
-| **Khoảng quét thế hòa tan** | **-1.4V đến -0.2V** vs. Ag/AgCl |
+| **Khoảng quét thế hòa tan** | **–1.4 V đến –0.2 V** vs. Ag/AgCl |
 | **Tần số sóng vuông (SW Frequency)** | **25 Hz** |
 | **Biên độ sóng vuông (SW Amplitude)** | **25 mV** |
 | **Bước thế (Step potential)** | **5 mV** |
-| **Thế điện cực làm sạch (Cleaning potential)**| **+0.2V** vs. Ag/AgCl trong 30 giây (600 rpm) |
+| **Thế điện cực làm sạch (Cleaning potential)**| **+0.2 V** vs. Ag/AgCl trong 30 giây (600 rpm) |
 
-*   **Đỉnh hòa tan cực đại của Chì (Pb⁰ → Pb²⁺ + 2e⁻):** Xuất hiện tại **≈ -0.5V**.
+*   **Đỉnh hòa tan cực đại của chì (Pb⁰ → Pb²⁺ + 2e⁻):** Xuất hiện tại **≈ –0.5 V** (tham chiếu: A screen-printed carbon electrode modified with a chitosan-based film for in situ heavy metal ions measurement, thư mục 05_Cross_Linker_va_Tao_mang, hướng đo kim loại nặng bằng SWASV; tham chiếu lý thuyết đo: ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITION, thư mục 07_Giao_trinh_Ly_thuyet, hướng lý thuyết điện phân hòa tan sóng vuông SWASV).
 
 #### 2. Mở rộng đo đồng thời đa ion kim loại nặng (Zn²⁺, Cd²⁺, Pb²⁺, Cu²⁺) bằng kỹ thuật SWASV
 *   **Dung dịch điện ly nền:** Đệm Acetate 0.1 M, pH = 4.5.
 *   **Quy trình đo đồng thời (Simultaneous SWASV):**
-    *   Đặt thế làm giàu khử âm sâu: **E_dep = -1.30V vs. Ag/AgCl** trong thời gian **t_dep = 120 - 180 giây** dưới lực khuấy từ 400 rpm.
+    *   Đặt thế lắng khử âm sâu: **E_dep = –1.30 V vs. Ag/AgCl** trong thời gian **t_dep = 120–180 giây** dưới lực khuấy từ 400 rpm.
     *   Quiet time: 10 giây.
-    *   Quét sóng vuông hòa tan anode xuôi từ **-1.40V đến +0.40V** vs. Ag/AgCl.
-*   **Thế hiệu đỉnh hòa tan (Stripping Potentials) đặc trưng:**
+    *   Quét sóng vuông hòa tan anode xuôi từ **–1.40 V đến +0.40 V** vs. Ag/AgCl.
+*   **Thế hiệu đỉnh hòa tan (Stripping Potentials) đặc trưng (tham chiếu: A screen-printed carbon electrode modified with a chitosan-based film for in situ heavy metal ions measurement, thư mục 05_Cross_Linker_va_Tao_mang, hướng phát hiện đồng thời Zn²⁺, Cd²⁺, Pb²⁺, Cu²⁺):**
 
 | Ion kim loại nặng | Stripping Peak Potential (vs. Ag/AgCl) |
 | :--- | :---: |
-| **Kẽm (Zn²⁺)** | **≈ -1.10V** |
-| **Cadmium (Cd²⁺)** | **≈ -0.80V** |
-| **Chì (Pb²⁺)** | **≈ -0.50V** |
-| **Đồng (Cu²⁺)** | **≈ +0.05V** |
+| **Kẽm (Zn²⁺)** | **≈ –1.10 V** |
+| **Cadmium (Cd²⁺)** | **≈ –0.80 V** |
+| **Chì (Pb²⁺)** | **≈ –0.50 V** |
+| **Đồng (Cu²⁺)** | **≈ +0.05 V** |
 
 #### 3. Thiết lập quy trình đo riêng lẻ Thủy ngân (Hg²⁺) và Thạch tín (As³⁺)
 *   **Dung dịch điện ly nền:** Đệm Acetate 0.1 M, pH = 4.5 (cho Hg²⁺) hoặc đệm H₂SO₄ loãng (cho As³⁺).
 *   **Quy trình đo đơn Hg²⁺ / As³⁺:**
-    *   Áp thế làm giàu khử chọn lọc: **E_dep = -0.20V đến -0.40V vs. Ag/AgCl** trong thời gian **120 - 180 giây** (tránh phản ứng phụ giải phóng hydro HER phá hỏng màng).
+    *   Áp thế lắng khử chọn lọc: **E_dep = –0.20 V đến –0.40 V vs. Ag/AgCl** trong thời gian **120–180 giây** (tránh phản ứng phụ giải phóng hydro HER phá hỏng màng).
     *   Quiet time: 10 giây.
-    *   Quét thế hòa tan sóng vuông từ **0.0V đến +0.6V** vs. Ag/AgCl.
+    *   Quét thế hòa tan sóng vuông từ **0.0 V đến +0.6 V** vs. Ag/AgCl.
 *   **Thế hiệu đỉnh hòa tan đặc trưng:**
-    *   **Thạch tín (As³⁺):** Xuất hiện tại **≈ +0.15V đến +0.20V**.
-    *   **Thủy ngân (Hg²⁺):** Xuất hiện tại **≈ +0.25V đến +0.30V**.
+    *   **Thạch tín (As³⁺):** Xuất hiện tại **≈ +0.15 V đến +0.20 V**.
+    *   **Thủy ngân (Hg²⁺):** Xuất hiện tại **≈ +0.25 V đến +0.30 V**.
 
 #### 4. Phép đo cảm biến Paracetamol bằng kỹ thuật xung vi phân (DPV)
 *   **Điện cực làm việc (WE):** Điện cực N-CA-700 / Nafion/GCE.
-*   **Dung dịch điện ly nền:** Phosphate Buffered Saline (PBS) 0.1 M, pH = 7.0 - 7.4.
+*   **Dung dịch điện ly nền:** Phosphate Buffered Saline (PBS) 0.1 M, pH = 7.0–7.4.
 *   **Bảng thông số cài đặt thiết bị đo (DPV Parameters):**
 
 | Thông số thiết lập | Giá trị cài đặt tiêu chuẩn |
 | :--- | :---: |
-| **Thế làm giàu khử (E_dep)** | **Không áp dụng (Không cần làm giàu)** |
-| **Khoảng thế quét** | **0.0V đến +0.8V** vs. Ag/AgCl |
+| **Thế lắng khử (E_dep)** | **Không áp dụng (Không cần lắng khử)** |
+| **Khoảng thế quét** | **0.0 V đến +0.8 V** vs. Ag/AgCl |
 | **Tốc độ quét thế (Scan rate)** | **20 mV/s** |
 | **Biên độ xung (Pulse Amplitude)** | **50 mV** |
 | **Độ rộng xung (Pulse Width)** | **50 ms** |
 | **Bước thế (Step potential)** | **5 mV** |
 
-*   **Peak oxy hóa Paracetamol:** Xuất hiện rõ nét tại **≈ +0.34V** vs. Ag/AgCl.
+*   **Peak oxy hóa Paracetamol:** Xuất hiện rõ nét tại **≈ +0.34 V** vs. Ag/AgCl (tham chiếu: Facile Synthesis of Fe-Doped, Algae Residue-Derived Carbon Aerogels for Electrochemical Dopamine Biosensors, thư mục 02_Doping_va_Gel_hoa, hướng chất kết dính Nafion đo hoạt chất paracetamol/dopamine bằng DPV).
 
 ---
 
 ### GIAI ĐOẠN 3: ĐO ĐẠC ĐẶC TÍNH ĐỐI CHỨNG ĐỒNG DẠNG NÂNG CAO (ORR & Siêu Tụ Điện)
 
-#### 1. Phép đo Xúc tác khử Oxy (ORR) làm "Proof of Concept" chứng minh tâm Fe-N₄
+#### 1. Phép đo Xúc tác khử Oxy (ORR) làm "Proof of Concept" chứng minh tâm Fe–N₄
 *   **WE sử dụng:** Điện cực Fe/N-CA / Chitosan/GCE.
 *   **Điện ly nền:** Dung dịch **KOH 0.1 M**.
 *   **Quy trình đo đạc:**
-  1.  Sục khí Nitơ (N₂) tinh khiết liên tục trong 30 phút vào bình điện giải. Quét CV từ **-1.0V đến +0.2V vs. Ag/AgCl** ở tốc độ quét 50 mV/s để thu được dòng điện dung nền.
-  2.  Chuyển sang sục liên tục khí Oxy (O₂) trong 30 phút để bão hòa. Chạy quét thế CV tương tự. Đường phổ CV bắt buộc phải xuất hiện một peak khử oxy cực kỳ sắc nét ở thế dương hơn **-0.2V vs. Ag/AgCl** với cường độ dòng đỉnh khử đạt ***I*_c ≥ 1.0mA/cm²**.
-  3.  Đo linear sweep voltammetry (LSV) trên điện cực quay RDE ở các tốc độ quay từ 400 rpm đến 3600 rpm để tính toán số electron chuyển tải (n ≈ 3.14 - 3.69 tiệm cận cơ chế 4 electron).
+  1.  Sục khí Nitơ (N₂) tinh khiết liên tục trong 30 phút vào bình điện giải. Quét CV từ **–1.0 V đến +0.2 V vs. Ag/AgCl** ở tốc độ quét 50 mV/s để thu được dòng điện dung nền.
+  2.  Chuyển sang sục liên tục khí Oxy (O₂) trong 30 phút để bão hòa. Chạy quét thế CV tương tự. Đường phổ CV bắt buộc phải xuất hiện một peak khử oxy cực kỳ sắc nét ở thế dương hơn **–0.2 V vs. Ag/AgCl** với cường độ dòng đỉnh khử đạt **I_c ≥ 1.0 mA/cm²**.
+  3.  Đo linear sweep voltammetry (LSV) trên điện cực quay RDE ở các tốc độ quay từ 400 rpm đến 3600 rpm để tính toán số electron chuyển tải (n ≈ 3.14–3.69 tiệm cận cơ chế 4 electron).
 
 #### 2. Phép đo Siêu tụ điện hóa (Supercapacitor) của mẫu đối chứng NaOH-Urea
 *   **WE sử dụng:** Mẫu carbon NaOH-Urea ép viên drop-cast.
 *   **Điện ly nền:** Dung dịch **KOH 6.0 M** siêu đậm đặc.
 *   **Quy trình đo đạc:**
-  1.  Chạy CV trong KOH 6.0 M ở các tốc độ quét từ 5 - 100 mV/s trong khoảng thế tĩnh từ -1.0V → 0.0V vs. Ag/AgCl. Đường CV phải có dạng **hình hộp chữ nhật đối xứng chuẩn** đại diện cho điện dung lớp kép lý tưởng.
-  2.  Đo phóng nạp dòng hằng GCD ở các mật độ dòng từ 0.5 - 10A/g. Đường phóng nạp GCD phải có dạng tam giác cân đối xứng, xác định điện dung riêng cụ thể (*C*_sF/g) để viết phần biện luận đối chứng cho luận văn.
+  1.  Chạy CV trong KOH 6.0 M ở các tốc độ quét từ 5–100 mV/s trong khoảng thế tĩnh từ **–1.0 V đến 0.0 V vs. Ag/AgCl**. Đường CV phải có dạng **hình hộp chữ nhật đối xứng chuẩn** đại diện cho điện dung lớp kép lý tưởng.
+  2.  Đo phóng nạp dòng hằng GCD ở các mật độ dòng từ 0.5–10 A/g. Đường phóng nạp GCD phải có dạng tam giác cân đối xứng, xác định điện dung riêng cụ thể (*C*_s) để viết phần biện luận đối chứng cho luận văn.
 
 ---
 

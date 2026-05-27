@@ -285,9 +285,9 @@ Hướng ORR tương đồng ~55–60% — khai thác phần Fe–Nₓ sites:
 | Thông số | Khoảng khảo sát | Tham chiếu |
 |----------|----------------|------------|
 | pH dung dịch nền | 3.5–6.0 | Acetate buffer — tối ưu thường 4.5 |
-| Điện thế làm giàu E_dep | −0.8 đến −1.4 V vs Ag/AgCl | Pb²⁺: −1.0V; Zn²⁺: −1.3V thường gặp |
-| Thời gian làm giàu t_dep | 60–240 s | 120s là phổ biến |
-| Tốc độ khuấy | 200–600 rpm | Trong quá trình deposition |
+| Thế lắng khử (E_dep) | –0.8 V đến –1.4 V vs. Ag/AgCl | Pb²⁺: –1.1 V; Zn²⁺: –1.3 V hoặc –1.4 V |
+| Thời gian lắng khử (t_dep) | 60–240 s | 120 s là phổ biến |
+| Tốc độ khuấy | 200–600 rpm | Trong quá trình lắng khử |
 | Biên độ SW (amplitude) | 10–50 mV | Thường 25 mV |
 | Tần số SW (frequency) | 10–100 Hz | Thường 25 Hz |
 | Bước thế (step potential) | 2–10 mV | Thường 5 mV |
@@ -303,7 +303,7 @@ Hướng ORR tương đồng ~55–60% — khai thác phần Fe–Nₓ sites:
 | Thời gian xung (pulse width) | 10–100 ms | Thường 50 ms |
 | Bước thế (step potential) | 2–10 mV | Thường 5 mV |
 | Tốc độ quét | 5–100 mV/s | — |
-| Thể tích drop cast | 3–10 µL | Tối ưu tín hiệu vs background |
+| Thể tích drop cast | 3–10 µL | Tối ưu tín hiệu vs background (khuyên dùng 5.0 µL) |
 
 ---
 

@@ -22,24 +22,22 @@ Ghi chú thuật ngữ:
 ## 1. TIỀN XỬ LÝ KIỀM (Alkali Pretreatment)
 
 - Hóa chất: NaOH 5–6 wt%
-- Nhiệt độ: 75–80°C
-- Thời gian: 2–4h
+- Nhiệt độ: 75–80 °C
+- Thời gian: 2–4 giờ
 - Khuấy: liên tục bằng máy khuấy từ + khuấy tay 20–30 phút
-- Yêu cầu: xơ dừa phải được nghiền trước khi xử lý
+- Yêu cầu: xơ dừa phải được nghiền trước khi xử lý, rây lấy kích thước hạt < 100 mesh (~150 µm) để tăng diện tích tiếp xúc kiềm (tham chiếu: Cellulose Extraction from Coconut Coir with Alkaline Delignification Process, thư mục 01_Tien_xu_ly_Nguyen_lieu, hướng trích ly cellulose bằng kiềm)
 - Không tẩy trắng: **no bleaching**
 - Ràng buộc hình thái: giữ lại cấu trúc phân cấp và nhóm chức dị tố tự nhiên của xơ dừa
-- Dữ liệu gốc bắt buộc: sấy 105°C và cân khối lượng trước/sau xử lý
+- Dữ liệu gốc bắt buộc: sấy 105 °C và cân khối lượng trước/sau xử lý
 - Output: **gravimetric weight-loss** của xơ dừa Bến Tre
 
 Công thức ghi nhận hao hụt khối lượng:
 
-$$
-\text{Weight loss}(\%) = \frac{m_0 - m_1}{m_0} \times 100
-$$
+Weight-loss (%) = [(m_0 – m_1) / m_0] × 100
 
 Trong đó:
-- $m_0$: khối lượng xơ dừa khô trước xử lý kiềm
-- $m_1$: khối lượng xơ dừa khô sau xử lý kiềm
+- m_0: khối lượng xơ dừa khô trước xử lý kiềm
+- m_1: khối lượng xơ dừa khô sau xử lý kiềm
 
 Ý nghĩa:
 - NaOH loại một phần lignin/hemicellulose, làm lộ cellulose và tăng khả năng tạo gel.
@@ -159,9 +157,9 @@ Chương trình nhiệt:
 |---|---|---:|---:|
 | Ramp 1 | 25 → 150°C | 5°C/min | 30 phút |
 | Ramp 2 | 150 → 400°C | 5°C/min | 30 phút |
-| Ramp 3 | 400°C → $T_{target}$ | 5°C/min | 2h |
+| Ramp 3 | 400 °C → T_target | 5 °C/phút | 2 giờ |
 
-$T_{target}$:
+T_target:
 
 | Mẫu | Nhiệt độ nhiệt phân |
 |---|---:|
@@ -193,14 +191,7 @@ Tuyệt đối không thêm Fe trực tiếp vào hệ NH₃/Urea/H₂O vì có 
 
 Công thức tính lượng FeCl₃·6H₂O:
 
-$$
-m_{\mathrm{FeCl_3\cdot 6H_2O}}
-=
-m_{\mathrm{sample}}
-\times w_{\mathrm{Fe}}
-\times
-\frac{270.3}{55.845}
-$$
+m_FeCl₃·6H₂O = m_sample × w_Fe × (270.3 / 55.845)
 
 Ví dụ với 1.000 g mẫu:
 
@@ -233,10 +224,10 @@ Ghi chú thiết kế mẫu:
 |---|---:|
 | Khí | N₂ |
 | Tốc độ gia nhiệt | 5°C/min |
-| $T_{anneal}$ | 750°C |
+| T_anneal | 750 °C |
 | Thời gian giữ | 1h |
 | Làm mát | Tự nhiên trong N₂ |
-| Kiểm chứng bắt buộc | Raman $I_D/I_G$ ngay sau annealing |
+| Kiểm chứng bắt buộc | Raman I_D/I_G ngay sau annealing |
 
 Cơ chế:
 - Acid leaching loại Fe không phối trí, giúp giảm nhiễu và giảm nguy cơ peak giả.
@@ -256,12 +247,13 @@ Nội suy từ hệ tương đương: doi:10.3390/s24092787
 | Diện tích hình học | 0.0707 cm² |
 | Nồng độ mực | 5 mg vật liệu / 1 mL dung môi |
 | Dung môi phân tán | Nước:cồn hoặc DMF |
-| Siêu âm mực | Ít nhất 1h |
-| Binder 1 | Chitosan 1% trong acid acetic 1% |
-| Binder 2 | Nafion 117 |
-| Tỷ lệ Nafion | Ink:Nafion = 40:1 v/v |
-| Drop-casting | 5–8 µL |
-| Sấy màng | Tự nhiên hoặc dưới đèn hồng ngoại |
+| Siêu âm mực | Ít nhất 30–60 phút (trong nước đá < 15 °C) |
+| Binder 1 | Chitosan 1 wt% trong acid acetic 1% (tham chiếu: A screen-printed carbon electrode modified with a chitosan-based film for in situ heavy metal ions measurement, thư mục 05_Cross_Linker_va_Tao_mang, hướng chất liên kết chitosan đo kim loại nặng bằng SWASV) |
+| Binder 2 | Nafion 5 wt% thương mại (tham chiếu: Facile Synthesis of Fe-Doped, Algae Residue-Derived Carbon Aerogels for Electrochemical Dopamine Biosensors, thư mục 02_Doping_va_Gel_hoa, hướng chất liên kết Nafion đo paracetamol/dopamine bằng DPV) |
+| Tỷ lệ Chitosan trong ink | Cho nồng độ cuối đạt **0.05 wt%** |
+| Tỷ lệ Nafion trong ink | Ink:Nafion = 40:1 v/v (nồng độ cuối đạt **0.25 wt%**) |
+| Drop-casting | 5.0 µL |
+| Sấy màng | Tự nhiên trong tủ hút ở 25 °C (2–3 giờ, **cấm sấy gia nhiệt nhanh/đèn hồng ngoại** để tránh coffee-ring) |
 
 Loading ước tính:
 
@@ -283,8 +275,8 @@ Trước khi chế tạo điện cực chính thức, cần sàng lọc vật li
 
 | Kỹ thuật | Thông số | Tiêu chí mục tiêu |
 |---|---|---|
-| Raman | $I_D/I_G$ | 0.9–1.2 |
-| Độ dẫn điện pellet | $\sigma = L/(R \times A)$ | > 1 S/cm |
+| Raman | I_D/I_G | 0.9–1.2 |
+| Độ dẫn điện pellet | σ = L / (R × A) | > 1 S/cm |
 | Contact angle | Độ thấm ướt | < 90° |
 | Dispersibility | Phân tán trong ethanol/nước | Không vón rõ sau 30 phút |
 
@@ -303,8 +295,8 @@ Trước khi chế tạo điện cực chính thức, cần sàng lọc vật li
 |---|---|---|
 | SEM | Hình thái bề mặt, kích thước lỗ xốp, cấu trúc tổ ong | Macropore liên thông, hierarchical |
 | TEM | Cấu trúc lớp carbon, phân bố Fe | Lớp carbon mỏng, Fe phân tán đều |
-| BET, N₂ 77K | $S_{BET}$ | > 300 m²/g; cạnh tranh > 400 m²/g |
-| BJH | $V_{meso}$, $D_{pore}$ | Mesopore 2–50 nm; $V_{meso} > 0.3$ cm³/g |
+| BET, N₂ 77K | S_BET | > 300 m²/g; cạnh tranh > 400 m²/g |
+| BJH | V_meso, D_pore | Mesopore 2–50 nm; V_meso > 0.3 cm³/g |
 | TGA | Độ bền nhiệt, % tro | Tro < 5% |
 
 Nguồn DOI: doi:10.3390/mi14091688; doi:10.3390/s24092787
@@ -326,7 +318,7 @@ Nguồn DOI: doi:10.1021/acs.iecr.0c03771; doi:10.1021/acsomega.3c09297
 | Kỹ thuật | Thông số đo | Giá trị mục tiêu |
 |---|---|---|
 | Raman | D-band ~1340 cm⁻¹, G-band ~1579 cm⁻¹ | Xác nhận cấu trúc carbon |
-| Raman | $I_D/I_G$ | 0.9–1.2 |
+| Raman | I_D/I_G | 0.9–1.2 |
 | Raman | 2D-band ~2700 cm⁻¹ | Đánh giá mức độ graphene hóa |
 | XRD | Peak (002) ~26°, (100) ~43° | Bán tinh thể, không cần graphite hóa hoàn toàn |
 
@@ -336,7 +328,7 @@ Nguồn DOI: doi:10.3390/nano13050817
 
 | Kỹ thuật | Thông số đo | Giá trị mục tiêu |
 |---|---|---|
-| 4-point probe hoặc pellet | Độ dẫn điện $\sigma$ | > 1 S/cm |
+| 4-point probe hoặc pellet | Độ dẫn điện σ | > 1 S/cm |
 | Contact angle | Độ ưa nước | < 90° |
 | Dispersibility | Khả năng phân tán trong ethanol/nước | Phân tán đều, không vón sau 30 phút |
 
@@ -349,15 +341,13 @@ Nguồn DOI: doi:10.3390/nano13050817
 | Redox probe | 5–10 mM K₃Fe(CN)₆ |
 | Điện ly nền | 0.1M KCl |
 | CV | Khảo sát đa tốc độ quét |
-| EIS | So sánh $R_{ct}$ giữa GCE, N-CA, Fe/N-CA |
-| Tiêu chí CV | $\Delta E_p < 120$ mV |
-| Tiêu chí EIS | $R_{ct}$(Fe/N-CA) < $R_{ct}$(N-CA) < $R_{ct}$(bare GCE) |
+| EIS | So sánh R_ct giữa GCE, N-CA, Fe/N-CA |
+| Tiêu chí CV | ΔE_p < 120 mV |
+| Tiêu chí EIS | R_ct(Fe/N-CA) < R_ct(N-CA) < R_ct(bare GCE) |
 
 Công thức Randles–Ševčík:
 
-$$
-I_p = 2.69 \times 10^5 n^{3/2} A D^{1/2} C \nu^{1/2}
-$$
+I_p = 2.69 × 10⁵ × n^(3/2) × A × D^(1/2) × C × ν^(1/2)
 
 Từ đó có thể tính:
 - EASA
@@ -374,11 +364,11 @@ Từ đó có thể tính:
 | Kỹ thuật | SWASV |
 | Nền điện ly | Acetate buffer pH 4.5 |
 | Khoảng pH khảo sát | 3.5–6.0 |
-| Điện thế làm giàu $E_{dep}$ | −0.8 đến −1.4 V vs Ag/AgCl |
-| Giá trị khởi đầu Pb²⁺ | khoảng −1.0 V |
-| Giá trị khởi đầu Zn²⁺ | khoảng −1.3 V |
-| Thời gian làm giàu $t_{dep}$ | 60–240 s |
-| Giá trị khởi đầu $t_{dep}$ | 120 s |
+| Thế lắng khử (E_dep) | –0.8 V đến –1.4 V vs. Ag/AgCl |
+| Giá trị khởi đầu Pb²⁺/Cd²⁺ | khoảng –1.1 V vs. Ag/AgCl (lọc sạch Pb/Cd) |
+| Giá trị khởi đầu Zn²⁺ | khoảng –1.3 V hoặc –1.4 V vs. Ag/AgCl |
+| Thời gian lắng khử (t_dep) | 60–240 s |
+| Giá trị khởi đầu t_dep | 120 s |
 | Tốc độ khuấy | 200–600 rpm |
 | SW amplitude | 10–50 mV; khởi đầu 25 mV |
 | SW frequency | 10–100 Hz; khởi đầu 25 Hz |
@@ -388,7 +378,7 @@ Mục tiêu hiệu năng:
 
 | Chất phân tích | Mục tiêu |
 |---|---|
-| Pb²⁺ | LOD < 0.1 µg/L |
+| Pb²⁺ | LOD < 0.1 µg/L (tham chiếu: A screen-printed carbon electrode modified with a chitosan-based film for in situ heavy metal ions measurement, thư mục 05_Cross_Linker_va_Tao_mang) |
 | Zn²⁺ | LOD < 10 nM |
 | Cd²⁺ | Cần benchmark riêng trước khi chốt |
 | Recovery mẫu thực | 95–105% |
@@ -410,13 +400,13 @@ Tiêu chí chấp nhận:
 |---|---|
 | Vật liệu ưu tiên | N-CA |
 | Kỹ thuật | DPV/CV |
-| Dung dịch nền | PBS pH 7.0–7.4 |
+| Dung dịch nền | PBS 0.1 M, pH 7.0–7.4 |
 | Khoảng pH khảo sát | 5.0–8.0 |
 | Pulse amplitude | 10–75 mV; khởi đầu 50 mV |
 | Pulse width | 10–100 ms; khởi đầu 50 ms |
 | Step potential | 2–10 mV; khởi đầu 5 mV |
 | Tốc độ quét CV | 5–100 mV/s |
-| Mục tiêu LOD | < 0.05–0.1 µM |
+| Mục tiêu LOD | < 0.05–0.1 µM (tham chiếu: Facile Synthesis of Fe-Doped, Algae Residue-Derived Carbon Aerogels for Electrochemical Dopamine Biosensors, thư mục 02_Doping_va_Gel_hoa, hướng chất kết dính Nafion đo hoạt chất paracetamol/dopamine bằng DPV) |
 | Linear range mục tiêu | 0.1–100 µM |
 | Real sample | Thuốc viên paracetamol |
 | Recovery | 95–105% |
@@ -431,13 +421,13 @@ Ascorbic acid (AA), uric acid (UA), dopamine (DA), glucose, diclofenac, nimesuli
 
 | Thông số | Công thức / phương pháp | Mục tiêu |
 |---|---|---|
-| LOD | $3\sigma/slope$ | Pb²⁺ < 0.1 µg/L; paracetamol < 0.1 µM |
-| LOQ | $10\sigma/slope$ | Báo cáo theo đường chuẩn |
+| LOD | 3σ / slope | Pb²⁺ < 0.1 µg/L; paracetamol < 0.1 µM |
+| LOQ | 10σ / slope | Báo cáo theo đường chuẩn |
 | Sensitivity | Slope / EASA | So sánh literature |
-| Linear range | $I_p$ hoặc current response theo nồng độ | Phủ vùng nồng độ thực tế |
+| Linear range | I_p hoặc current response theo nồng độ | Phủ vùng nồng độ thực tế |
 | Selectivity | Interference test | Tín hiệu thay đổi < 10% |
-| Repeatability | RSD%, n=5 cùng điện cực | RSD < 5% |
-| Reproducibility | RSD%, n=5 điện cực khác nhau | RSD < 8% |
+| Repeatability | RSD%, n = 5 cùng điện cực | RSD < 5% |
+| Reproducibility | RSD%, n = 5 điện cực khác nhau | RSD < 8% |
 | Stability | % giữ tín hiệu sau 7–30 ngày | > 90% sau 14 ngày |
 | Real sample | Spike-and-recovery | 95–105% |
 
@@ -473,11 +463,11 @@ Kết luận:
 | Gelation | Hình dạng gel | Không nứt/sụp rõ | Kéo dài gel hóa hoặc tối ưu ethanol exchange |
 | Freeze drying | Hình dạng aerogel | Giữ mạng 3D, co rút thấp | Không dùng sấy nhiệt; kiểm tra trao đổi dung môi |
 | Pyrolysis | Yield, màu, độ giòn | Carbon đen, không cháy oxy hóa | Kiểm tra purge N₂ |
-| Raman | $I_D/I_G$ | 0.9–1.2 | Quá cao: defect quá mức; quá thấp: thiếu active sites |
+| Raman | I_D/I_G | 0.9–1.2 | Quá cao: defect quá mức; quá thấp: thiếu active sites |
 | XPS | N, Fe at% | N 3–6%; Fe 1–3%; N:Fe ≥ 4:1 | Điều chỉnh Fe loading/annealing |
-| BET/BJH | $S_{BET}$, $V_{meso}$ | >300 m²/g; mesopore 2–50 nm | Tối ưu freeze drying/activation |
-| CV baseline | $\Delta E_p$ | <120 mV | Màng quá dày, dẫn kém hoặc binder che phủ |
-| EIS | $R_{ct}$ | Fe/N-CA < N-CA | Fe sites chưa hiệu quả hoặc tiếp xúc màng kém |
+| BET/BJH | S_BET, V_meso | >300 m²/g; mesopore 2–50 nm | Tối ưu freeze drying/activation |
+| CV baseline | ΔE_p | <120 mV | Màng quá dày, dẫn kém hoặc binder che phủ |
+| EIS | R_ct | Fe/N-CA < N-CA | Fe sites chưa hiệu quả hoặc tiếp xúc màng kém |
 | Sensor | LOD, linear range | Đạt benchmark mục tiêu | Tối ưu pH, loading, deposition time |
 | Real sample | Recovery | 95–105% | Matrix effect hoặc interference chưa kiểm soát |
 
@@ -493,7 +483,7 @@ Kết luận:
 | Gel hóa | Chưa tách rõ | −5°C/24h | Tạo mạng hydrogel ổn định |
 | Ethanol coagulation | 36–48h | 24h chuẩn; 36–48h backup | 24h đủ làm thông số chuẩn, kéo dài khi gel yếu |
 | Fe impregnation | 12–24h | 24h | Đảm bảo Fe³⁺ khuếch tán vào mao quản |
-| $T_{anneal}$ | Chưa chốt | 750°C/1h | Ổn định Fe–Nₓ và phục hồi carbon backbone |
+| T_anneal | Chưa chốt | 750 °C/1h | Ổn định Fe–Nₓ và phục hồi carbon backbone |
 | Ink concentration | Thiếu | 5 mg/mL | Cần để tính loading, EASA, sensitivity |
 | Drop-casting | Thiếu | 5–8 µL | Cần để đảm bảo repeatability |
 | Nafion ratio | Chưa định lượng | Ink:Nafion = 40:1 v/v | Giảm nguy cơ binder che phủ active sites |
@@ -512,7 +502,7 @@ Nếu ethanol exchange hoặc freeze drying không đủ, mạng 3D bị sụp. 
 
 ### 18.3 Fe loading cao nhưng không tạo Fe–Nₓ
 
-Nếu Fe chỉ tạo Fe oxide/Fe carbide, XPS Fe có thể cao nhưng $R_{ct}$ không giảm. Kiểm chứng bằng XPS Fe 2p, N 1s, Raman và EIS.
+Nếu Fe chỉ tạo Fe oxide/Fe carbide, XPS Fe có thể cao nhưng R_ct không giảm. Kiểm chứng bằng XPS Fe 2p, N 1s, Raman và EIS.
 
 ### 18.4 Màng điện cực quá dày
 
@@ -547,7 +537,7 @@ Nếu drop-cast vượt vùng 5–8 µL ở mực 5 mg/mL, peak có thể tăng 
 - Cấu trúc kết quả đề xuất:
   1. Characterization: SEM, TEM, BET, Raman, XPS Fe/N, XRD
   2. Electrochemical baseline: CV/EIS GCE vs N-CA vs Fe/N-CA
-  3. Optimization SWASV: pH, $E_{dep}$, $t_{dep}$, SW parameters
+  3. Optimization SWASV: pH, E_dep, t_dep, SW parameters
   4. Analytical performance Pb²⁺
   5. Analytical performance Zn²⁺
   6. Simultaneous detection: peak separation Pb²⁺/Zn²⁺
@@ -633,6 +623,6 @@ Cấu hình chuẩn để triển khai là:
 
 Điểm kiểm chứng quan trọng sau mẻ đầu tiên:
 
-**Raman $I_D/I_G$ → XPS N/Fe → BET/BJH → CV $\Delta E_p$ → EIS $R_{ct}$**
+**Raman I_D/I_G → XPS N/Fe → BET/BJH → CV ΔE_p → EIS R_ct**
 
 Nếu 5 chỉ số này đạt, vật liệu đủ nền để chuyển sang tối ưu DPV/SWASV và xây dựng phần analytical performance.

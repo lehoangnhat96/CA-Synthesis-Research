@@ -17,17 +17,17 @@
 > Do đó, xơ dừa sau kiềm hóa thu được bột **DCF (Delignified Coir Fiber)** có màu nâu nhạt sẽ được dùng trực tiếp để làm sol-gel.
 
 ### 1. Quy trình thực nghiệm chuẩn (Step-by-Step Parameters)
-1. Chuẩn bị xơ dừa xay nghiền, rây lấy kích thước hạt < 125 µm, sấy khô ở 80 °C trong 24 giờ.
+1. Chuẩn bị xơ dừa xay nghiền, rây lấy kích thước hạt < 100 mesh (~150 µm) để tăng diện tích tiếp xúc kiềm (tham chiếu: Cellulose Extraction from Coconut Coir with Alkaline Delignification Process, thư mục 01_Tien_xu_ly_Nguyen_lieu, hướng trích ly cellulose bằng kiềm), sấy khô ở 80 °C trong 24 giờ.
 2. Ngâm 50 g bột xơ dừa khô trong 1000 mL nước nóng (80 °C) trong 4 giờ dưới lực khuấy từ 600 rpm để rửa sạch bụi bẩn và sáp cơ học. Lọc qua phễu Buchner.
 3. Cho bã xơ dừa vào bình tam giác 1000 mL chứa dung dịch **NaOH 6 wt%** (pha 60 g NaOH rắn trong 1000 mL nước cất DI, tỷ lệ rắn/lỏng = 1:20 w/v).
-4. Duy trì nhiệt độ ở **80 ± 2 °C** trong **4 giờ** liên tục, tốc độ khuấy 600 rpm. Bọc kín miệng bình bằng màng PP chịu nhiệt.
-5. Lọc bã qua phễu Buchner. Rửa bằng nước cất DI nóng (60 °C) đến khi pH trung tính (pH = 6.5 - 7.0).
+4. Duy trì nhiệt độ ở **80 ± 2 °C** trong **4 giờ** liên tục, tốc độ khuấy 600 rpm (tham chiếu: Cellulose Extraction from Coconut Coir with Alkaline Delignification Process, thư mục 01_Tien_xu_ly_Nguyen_lieu, hướng trích ly cellulose bằng kiềm). Bọc kín miệng bình bằng màng PP chịu nhiệt.
+5. Lọc bã qua phễu Buchner. Rửa bằng nước cất DI nóng (60 °C) đến khi pH trung tính (pH = 6.5–7.0).
 6. Sấy khô bột ở 80 °C trong 12 giờ thu được bột xơ dừa kiềm hóa **DCF**. Cân xác định hiệu suất hao hụt khối lượng (**Gravimetric Weight-loss %**).
 
 ### 2. Chỉ tiêu kiểm soát chất lượng (Pass/Fail Specification)
-*   **Hiệu suất hao hụt khối lượng DCF:** Phải nằm trong dải **30% - 38%** (xác nhận loại bỏ lignin thành công).
-*   **Đường kính sợi (SEM):** Đạt kích thước **20 - 50 µm** (lộ cấu trúc cellulose hình ống sần sùi).
-*   **Độ tinh thể hóa (XRD):** Đạt **≥ 55%** (Pha tinh thể Cellulose I sạch).
+*   **Hiệu suất hao hụt khối lượng DCF:** Phải nằm trong dải **30%–38%** (xác nhận loại bỏ lignin thành công).
+*   **Đường kính sợi (SEM):** Đạt kích thước **20–50 µm** (lộ cấu trúc cellulose hình ống sần sùi).
+*   **Độ tinh thể hóa (XRD):** Đạt **≥ 55%** (Xuất hiện các đỉnh đặc trưng của Cellulose I tại góc quét 2θ ≈ 16.08° (110) và 22.23° (200)).
 *   **Hàm lượng cellulose bề mặt:** Đạt **≥ 69.8 wt%** (FT-IR giảm >90% đỉnh ester tại 1735 cm⁻¹, xuất hiện peak dao động kéo giãn C-O-C ở 1050 cm⁻¹).
 
 ---
