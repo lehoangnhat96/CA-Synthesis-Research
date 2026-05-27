@@ -1,7 +1,7 @@
 TYPE Mini Review PUBLISHED 26 January 2023 DOI 10.3389/fenrg.2022.957032 
 
 
-![](_temp_3d7cf037_convert__images/_temp_3d7cf037_convert_.pdf-0001-01.png)
+![](_images/Carbonaceous electrode_images/_temp_536396a9_convert_.pdf-0001-01.png)
 
 
 ## OPEN ACCESS 
@@ -71,7 +71,7 @@ Frontiers in Energy Research
 Lv et al. 
 
 
-![](_temp_3d7cf037_convert__images/_temp_3d7cf037_convert_.pdf-0003-02.png)
+![](_images/Carbonaceous electrode_images/_temp_536396a9_convert_.pdf-0003-02.png)
 
 
 FIGURE 1 An expression of a typical curves of (A) CV and (B) GCD, (C) Nyquist plots, (D) Bode phase diagram (Mansuera et al., 2022); equations for calculations of capacitances (C, Cm, Cs, C′, C″), energy and power density (E, P) as well as coulombic efficiency (η) (Taberna et al., 2003; Wei et al., 2010; Cheng et al., 2011). 

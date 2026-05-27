@@ -1,7 +1,7 @@
 Catalysis Today 418 (2023) 114067 
 
 
-![](_temp_2284ac09_convert__images/_temp_2284ac09_convert_.pdf-0001-01.png)
+![](_images/1 N-doped carbon xerogels from urea-resorcinol-formaldehyde as carbon matrix for_images/_temp_d47d4727_convert_.pdf-0001-01.png)
 
 
 Contents lists available at ScienceDirect 
@@ -11,13 +11,13 @@ Contents lists available at ScienceDirect
 journal homepage: www.elsevier.com/locate/cattod 
 
 
-![](_temp_2284ac09_convert__images/_temp_2284ac09_convert_.pdf-0001-05.png)
+![](_images/1 N-doped carbon xerogels from urea-resorcinol-formaldehyde as carbon matrix for_images/_temp_d47d4727_convert_.pdf-0001-05.png)
 
 
 N-doped carbon xerogels from urea-resorcinol-formaldehyde as carbon matrix for Fe-N-C catalysts for oxygen reduction in fuel cells 
 
 
-![](_temp_2284ac09_convert__images/_temp_2284ac09_convert_.pdf-0001-07.png)
+![](_images/1 N-doped carbon xerogels from urea-resorcinol-formaldehyde as carbon matrix for_images/_temp_d47d4727_convert_.pdf-0001-07.png)
 
 
 Laura Alvarez-Manuel , Cinthia Alegre[´][*] , David Sebastian , Alberto Eizaguerri , Pedro F. Napal , ´ María J. Lazaro´[* ] 
@@ -93,7 +93,7 @@ consisted of a glassy carbon disk of 5 mm diameter. A rotating ring-disk electro
 The Koutecky-Levich method was used to determine the number of exchanged electrons by considering the following formula: 
 
 
-![](_temp_2284ac09_convert__images/_temp_2284ac09_convert_.pdf-0003-04.png)
+![](_images/1 N-doped carbon xerogels from urea-resorcinol-formaldehyde as carbon matrix for_images/_temp_d47d4727_convert_.pdf-0003-04.png)
 
 
 where _j_ and _jk_ stand for the absolute value of current density and kinetic current density, respectively, and _n_ , _F_ , _DO2_ , _ν_ , _CO2_ and _ω_ refer to: the number of electrons transferred in ORR, the Faraday’s constant (96,485 C mol[−][1] ), the diffusion coefficient of oxygen in the electrolyte (1.5⋅10[−][5 ] cm[2 ] s[−][1] ), the kinematic viscosity of the electrolyte (0.01 cm[2 ] s[−][1] ), the concentration of oxygen (in mol cm[−][3] ) and the rotation rate of 
@@ -101,7 +101,7 @@ where _j_ and _jk_ stand for the absolute value of current density and kinetic c
 the electrode (rad s[−][1] ). The calculation of hydrogen peroxide in the RRDE equipment was carried out using the following equation: 
 
 
-![](_temp_2284ac09_convert__images/_temp_2284ac09_convert_.pdf-0003-07.png)
+![](_images/1 N-doped carbon xerogels from urea-resorcinol-formaldehyde as carbon matrix for_images/_temp_d47d4727_convert_.pdf-0003-07.png)
 
 
 where _iring_ and _idisk_ are the absolute values of the measured current at the ring and disk, respectively, and N is the collection efficiency for the RRDE electrode (0.249). 
@@ -111,15 +111,15 @@ where _iring_ and _idisk_ are the absolute values of the measured current at the
 Fuel cell experiments were carried out in a 5 cm[2 ] single cell, with serpentine flow channels at both sides, in a Fuel Cell Technologies Inc. station. Cell temperature was maintained with external heating at 80[◦] C as measured at the cathode side, close to the flow channel. Fully humidified hydrogen and oxygen, pre-heated to 85[◦] C, were fed to the cell, at flow rates corresponding to 1.3 and 1.5 the stoichiometric value, respectively (minimum flow of 50 Ncm[3 ] min[−][1] ). A backpressure of 150 kPa gauge in the cathode and 130 kPa gauge in the anode was used in all experiments. Membrane-electrode assemblies (MEAs) were prepared by hot-pressing cathode (Fe-N-C catalyst, 4 mg cm[−][2] , 45 wt% Nafion®, accounting for an ionomer to catalyst ratio of 0.82) and anode (commercial Pt/C, 0.2 mgPt cm[−][2] , 33 wt% Nafion®) with Nafion®212 R membrane). The electrodes were prepared by spraying the catalyst on a GDL-39 BC (Sigracet) gas diffusion layer. The ink was prepared by dispersing the catalyst and the ionomer in isopropyl alcohol. 
 
 
-![](_temp_2284ac09_convert__images/_temp_2284ac09_convert_.pdf-0003-11.png)
+![](_images/1 N-doped carbon xerogels from urea-resorcinol-formaldehyde as carbon matrix for_images/_temp_d47d4727_convert_.pdf-0003-11.png)
 
 
 
-![](_temp_2284ac09_convert__images/_temp_2284ac09_convert_.pdf-0003-12.png)
+![](_images/1 N-doped carbon xerogels from urea-resorcinol-formaldehyde as carbon matrix for_images/_temp_d47d4727_convert_.pdf-0003-12.png)
 
 
 
-![](_temp_2284ac09_convert__images/_temp_2284ac09_convert_.pdf-0003-13.png)
+![](_images/1 N-doped carbon xerogels from urea-resorcinol-formaldehyde as carbon matrix for_images/_temp_d47d4727_convert_.pdf-0003-13.png)
 
 
 **Fig. 1.** (a) Nitrogen adsorption/desorption isotherms. (b) pore size distribution calculated from NLDFT and (c) pore size distribution obtained from Hg-porosimetry for CXG and N-CXGs. 
@@ -166,7 +166,7 @@ _Catalysis Today 418 (2023) 114067_
 _L. Alvarez-Manuel et al._[´] 
 
 
-![](_temp_2284ac09_convert__images/_temp_2284ac09_convert_.pdf-0005-02.png)
+![](_images/1 N-doped carbon xerogels from urea-resorcinol-formaldehyde as carbon matrix for_images/_temp_d47d4727_convert_.pdf-0005-02.png)
 
 
 **Fig. 2.** SEM micrographs at 20,000 magnification for (a) CXG, (b) N-CXG-0.5, (c) N-CXG-1, (d) N-CXG-1.3. 
@@ -192,15 +192,15 @@ _Catalysis Today 418 (2023) 114067_
 _L. Alvarez-Manuel et al._[´] 
 
 
-![](_temp_2284ac09_convert__images/_temp_2284ac09_convert_.pdf-0006-02.png)
+![](_images/1 N-doped carbon xerogels from urea-resorcinol-formaldehyde as carbon matrix for_images/_temp_d47d4727_convert_.pdf-0006-02.png)
 
 
 
-![](_temp_2284ac09_convert__images/_temp_2284ac09_convert_.pdf-0006-03.png)
+![](_images/1 N-doped carbon xerogels from urea-resorcinol-formaldehyde as carbon matrix for_images/_temp_d47d4727_convert_.pdf-0006-03.png)
 
 
 
-![](_temp_2284ac09_convert__images/_temp_2284ac09_convert_.pdf-0006-04.png)
+![](_images/1 N-doped carbon xerogels from urea-resorcinol-formaldehyde as carbon matrix for_images/_temp_d47d4727_convert_.pdf-0006-04.png)
 
 
 **Fig. 3.** N2-adsorption/desorption isotherms for (a) CXG, N-CXG-1.3 and Fe-N-CXG-1.3 (b) Fe-N-CXGs catalysts obtained at variable U/R ratio, (c) pore size distribution obtained from Hg-porosimetry for N-CXGs and Fe-N-CXGs catalysts obtained at variable U/R ratio (d) N2-adsorption/desorption isotherms for Fe-N-CXG-1.3 subjected to successive acid leaching/thermal treatments and, (e) pore size distribution obtained from Hg-porosimetry for N-CXG-1.3, Fe-N-CXG-1.3 and Fe-N-CXG1.3-TT3. 
@@ -247,11 +247,11 @@ The catalysts activity towards the oxygen reduction reaction (ORR) was evaluated
 Fig. 6b and c show the effect of the acid leaching and thermal treatment in the activity of the catalysts Fe-N-CXG-1.3-TT1 and Fe-NCXG-1-TT1 respectively. First, there is a significant improvement of activity upon a first cycle process (acid leaching/thermal treatment), by comparing Fe-N-CXG-1.3 and Fe-N-CXG-1.3-TT1, accounting for 
 
 
-![](_temp_2284ac09_convert__images/_temp_2284ac09_convert_.pdf-0007-12.png)
+![](_images/1 N-doped carbon xerogels from urea-resorcinol-formaldehyde as carbon matrix for_images/_temp_d47d4727_convert_.pdf-0007-12.png)
 
 
 
-![](_temp_2284ac09_convert__images/_temp_2284ac09_convert_.pdf-0007-13.png)
+![](_images/1 N-doped carbon xerogels from urea-resorcinol-formaldehyde as carbon matrix for_images/_temp_d47d4727_convert_.pdf-0007-13.png)
 
 
 **Fig. 4.** Iron concentration from ICP against N/C ratio calculated from elemental analysis (EA) and XPS for Fe-N-CXGs obtained varying the urea to resorcinol (U/R) ratio. 
@@ -273,7 +273,7 @@ _Catalysis Today 418 (2023) 114067_
 _L. Alvarez-Manuel et al._[´] 
 
 
-![](_temp_2284ac09_convert__images/_temp_2284ac09_convert_.pdf-0008-02.png)
+![](_images/1 N-doped carbon xerogels from urea-resorcinol-formaldehyde as carbon matrix for_images/_temp_d47d4727_convert_.pdf-0008-02.png)
 
 
 **Fig. 5.** XPS high resolution N1s spectra for (a) N-OXG and (b) N-CXG obtained with U/R = 1.3, (c) Fe-N-CXG-1-TT2 and (d) Fe-N-CXG-1.3-TT2. 
@@ -317,7 +317,7 @@ _Catalysis Today 418 (2023) 114067_
 _L. Alvarez-Manuel et al._[´] 
 
 
-![](_temp_2284ac09_convert__images/_temp_2284ac09_convert_.pdf-0009-02.png)
+![](_images/1 N-doped carbon xerogels from urea-resorcinol-formaldehyde as carbon matrix for_images/_temp_d47d4727_convert_.pdf-0009-02.png)
 
 
 **Fig. 6.** (a) LSVs recorded during the ORR at 1600 rpm for Fe-N-CXG catalysts. All the catalysts shown were subjected to one acid leaching treatment, followed by a thermal treatment in inert atmosphere; (b) and (c) LSVs recorded during the ORR at 1600 rpm for catalysts Fe-N-CXG-1.3 and Fe-N-CXG-1 subjected to successive acid leaching-thermal treatments indicated as TT _n_ ( _n_ is the number of treatments). 
@@ -349,13 +349,13 @@ _Catalysis Today 418 (2023) 114067_
 _L. Alvarez-Manuel et al._[´] 
 
 
-![](_temp_2284ac09_convert__images/_temp_2284ac09_convert_.pdf-0010-02.png)
+![](_images/1 N-doped carbon xerogels from urea-resorcinol-formaldehyde as carbon matrix for_images/_temp_d47d4727_convert_.pdf-0010-02.png)
 
 
 **Fig. 7.** (a) Koutecky-Levich diagrams obtained at 0.55 V vs. RHE; (b) Tafel plot from LSV at 1600 rpm for the ORR for Fe-N-CXG-1-TT2 and Fe-N-CXG-1.3-TT2 compared to a commercial Pt/C catalyst; (c) Hydrogen peroxide formation for Fe-N-CXG-1-TT2 at 1600 rpm in a RRDE electrode with the platinum ring signal at fixed potential of 1.2 V vs. RHE. 
 
 
-![](_temp_2284ac09_convert__images/_temp_2284ac09_convert_.pdf-0010-04.png)
+![](_images/1 N-doped carbon xerogels from urea-resorcinol-formaldehyde as carbon matrix for_images/_temp_d47d4727_convert_.pdf-0010-04.png)
 
 
 **Fig. 8.** Polarization curves for MEAs comprising cathodes made with Fe-N-CXG catalysts (4 mg cm[−][2] ), Nafion® NR212 membrane, and Pt40%/C (0.2 mgPt cm[−][2] ) at the anode; before (BoT) and at the end (EoT) of a 20 h operation test at 0.5 V. Operating conditions: 80[◦] C; H2/O2 at λ = 1.3/1.5, 100% RH, and back pressure of 1.5 bar-gauge. 

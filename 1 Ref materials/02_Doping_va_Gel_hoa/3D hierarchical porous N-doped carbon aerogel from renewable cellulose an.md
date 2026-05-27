@@ -1,7 +1,7 @@
 ## RSC Advances 
 
 
-![](_temp_581f7a78_convert__images/_temp_581f7a78_convert_.pdf-0001-02.png)
+![](_images/3D hierarchical porous N-doped carbon aerogel from renewable cellulose an_images/_temp_a7293bdf_convert_.pdf-0001-02.png)
 
 
 ## PAPER 
@@ -9,7 +9,7 @@
 **View Article Online View Journal | View Issue** 
 
 
-![](_temp_581f7a78_convert__images/_temp_581f7a78_convert_.pdf-0001-05.png)
+![](_images/3D hierarchical porous N-doped carbon aerogel from renewable cellulose an_images/_temp_a7293bdf_convert_.pdf-0001-05.png)
 
 
 Cite this: RSC Adv., 2016, 6, 15788 
@@ -87,7 +87,7 @@ To evaluate the electrochemical performances of the asprepared carbon aerogels, 
 The gravimetric specic capacitances of the electrodes at various scan rates were calculated on the basis of CV curves according to the following equation: 
 
 
-![](_temp_581f7a78_convert__images/_temp_581f7a78_convert_.pdf-0003-08.png)
+![](_images/3D hierarchical porous N-doped carbon aerogel from renewable cellulose an_images/_temp_a7293bdf_convert_.pdf-0003-08.png)
 
 
 where I is the current (A), n is the scan rate (V s[�][1] ), DV is the applied potential window (V), and m is the mass of the working electrode active material (g). 
@@ -95,7 +95,7 @@ where I is the current (A), n is the scan rate (V s[�][1] ), DV is the applied
 The specic capacitances of the electrodes at different current densities were calculated basing on the galvanostatic charge/discharge curves according to the following equation: 
 
 
-![](_temp_581f7a78_convert__images/_temp_581f7a78_convert_.pdf-0003-11.png)
+![](_images/3D hierarchical porous N-doped carbon aerogel from renewable cellulose an_images/_temp_a7293bdf_convert_.pdf-0003-11.png)
 
 
 where I is current loaded (A), V is the potential (V), m is the mass of active material (g), Dt is the discharge time (s), and DV is the range of potential (V). 
@@ -105,13 +105,13 @@ where I is current loaded (A), V is the potential (V), m is the mass of active m
 The micro morphologies of hierarchical porous N-free and N- doped carbon aerogels were analyzed by SEM and TEM, respectively, as shown in Fig. 1 and 2. Both N-free CA-800 and N- doped CA-800 have a hierarchical porous structure with various pores ranging from nano-meter to micro-meter (Fig. 1). This hierarchical porous structure is signicantly different from meso-porous and micro-porous carbons that mesopores and 
 
 
-![](_temp_581f7a78_convert__images/_temp_581f7a78_convert_.pdf-0003-15.png)
+![](_images/3D hierarchical porous N-doped carbon aerogel from renewable cellulose an_images/_temp_a7293bdf_convert_.pdf-0003-15.png)
 
 
 Fig. 1 SEM of N-free CA-800 (a) and N-doped CA-800 (b). 
 
 
-![](_temp_581f7a78_convert__images/_temp_581f7a78_convert_.pdf-0003-17.png)
+![](_images/3D hierarchical porous N-doped carbon aerogel from renewable cellulose an_images/_temp_a7293bdf_convert_.pdf-0003-17.png)
 
 
 Fig. 2 TEM images of N-free CA-800 (a and b) and N-doped CA-800 (c and d). 
@@ -131,7 +131,7 @@ RSC Advances
 Paper 
 
 
-![](_temp_581f7a78_convert__images/_temp_581f7a78_convert_.pdf-0004-04.png)
+![](_images/3D hierarchical porous N-doped carbon aerogel from renewable cellulose an_images/_temp_a7293bdf_convert_.pdf-0004-04.png)
 
 
 Scheme 1 Illustration of the preparations and applications of hierarchical porous N-doped carbon aerogel. 
@@ -141,7 +141,7 @@ N-free CA-800 and N-doped CA-800 have a continuous porous structure with interco
 Fig. 3a shows the XRD patterns of N-free CA and N-doped CA prepared at different temperatures. All carbon aerogels show a similar diffraction feature with a main characteristic peak located at 2q z 23[�] . This broad and low intensity diffraction peak is attributed to the graphite (002) plane, suggesting that N- free CA and N-doped CA possess a low degree of graphitization.[37] Raman spectra (Fig. 3b) show that all samples exhibit two distinct peaks located at 1320 cm[�][1] and 1591 cm[�][1] . The strong peak at 1320 cm[�][1] , signed as the D band, is associated with a double-resonance effect of disordered carbonaceous structure.[38] The peak at 1591 cm[�][1] , designated as the G band, corresponds to the ordered graphite in-plane vibrations with E2g symmetry. The low-intensity G band peak of N-doped CA-700 indicates an unperfect graphite structure and some defects existed in carbon framework.[39] Overall, the intensities of D bands are obviously higher than those of G bands for all samples, indicating a higher amorphous carbon concentration in these carbon aerogels, which well agrees with the results 
 
 
-![](_temp_581f7a78_convert__images/_temp_581f7a78_convert_.pdf-0004-08.png)
+![](_images/3D hierarchical porous N-doped carbon aerogel from renewable cellulose an_images/_temp_a7293bdf_convert_.pdf-0004-08.png)
 
 
 Fig. 3 XRD pattern (a) and Raman spectra (b) of N-free CA and N- doped CA. 
@@ -159,7 +159,7 @@ Table 1 N contents and porous properties of N-free CA-800 and N- doped CA-800
 
 
 
-![](_temp_581f7a78_convert__images/_temp_581f7a78_convert_.pdf-0004-12.png)
+![](_images/3D hierarchical porous N-doped carbon aerogel from renewable cellulose an_images/_temp_a7293bdf_convert_.pdf-0004-12.png)
 
 
 Fig. 4 Surveys of N-free CA-800 and N-doped CA-800 (a), highresolution C1s spectra of N-free CA-800 (b) and N-doped CA-800 (c), high-resolution N1s spectrum of N-doped CA-800 (d). 
@@ -181,7 +181,7 @@ RSC Advances
 Paper 
 
 
-![](_temp_581f7a78_convert__images/_temp_581f7a78_convert_.pdf-0005-04.png)
+![](_images/3D hierarchical porous N-doped carbon aerogel from renewable cellulose an_images/_temp_a7293bdf_convert_.pdf-0005-04.png)
 
 
 Fig. 5 N2 adsorption–desorption isotherms (a) and pore size distributions calculated from the adsorption isotherms (b) of N-free CA800 and N-doped CA-800. 
@@ -191,13 +191,13 @@ that mesopores and macropores exist in the carbon aerogels. A sharp increase at 
 CO2 capture by carbon-based materials has spurred great interest due to their a variety of advantages, such as low cost, large pore volume, easy-to-design pore structure, hydrophobicity, high thermal stability, and low energy consumption for regeneration, etc.[30,45] Among various carbons, N-doped carbons are especially promising because the doped N groups act as CO2-philic sites that increase the CO2 uptake capacity.[46,47] The as-prepared hierarchical porous carbon aerogel with large amounts of N functionalities would be an excellent alternative for CO2 capture. Table 1 and Fig. 6 demonstrate that N-free CA800 has a good CO2 adsorption capacity of 3.56 mmol g[�][1] , while N-doped CA-800 shows an excellent CO2 capture performance with a very high CO2 adsorption capacity of 4.99 mmol g[�][1] , which is much higher than that of N-free CA-800 and those of other N-doped carbon materials, such as N-doped porous – carbon (2.41 3.20 mmol g[�][1] ),[48,49] porous carbon nitride spheres (2.90 mmol g[�][1] ),[50] and biomass-based porous carbon (4.8 mmol 
 
 
-![](_temp_581f7a78_convert__images/_temp_581f7a78_convert_.pdf-0005-08.png)
+![](_images/3D hierarchical porous N-doped carbon aerogel from renewable cellulose an_images/_temp_a7293bdf_convert_.pdf-0005-08.png)
 
 
 Fig. 6 CO2 adsorption isotherms of N-free CA-800 and N-doped CA800. 
 
 
-![](_temp_581f7a78_convert__images/_temp_581f7a78_convert_.pdf-0005-10.png)
+![](_images/3D hierarchical porous N-doped carbon aerogel from renewable cellulose an_images/_temp_a7293bdf_convert_.pdf-0005-10.png)
 
 
 Fig. 7 CV curves at 20 mV s[�][1] (a) and galvanostatic charge/discharge curves at 1.0 A g[�][1] (b) of carbon aerogels. 
@@ -219,7 +219,7 @@ This journal is © The Royal Society of Chemistry 2016
 Paper 
 
 
-![](_temp_581f7a78_convert__images/_temp_581f7a78_convert_.pdf-0006-03.png)
+![](_images/3D hierarchical porous N-doped carbon aerogel from renewable cellulose an_images/_temp_a7293bdf_convert_.pdf-0006-03.png)
 
 
 Fig. 8 Electrochemical behaviours of N-free CA and N-doped CA: CV curves at different scan rates (a and b), specific capacitances as a function of scan rate (c), galvanostatic charge/discharge curves at different current densities (d), specific capacitances as a function of current density (e), and Nyquist plots (f). 
@@ -235,7 +235,7 @@ Fig. 8f shows the Nyquist plots of N-free CA-800 and N-doped CA-800 at an open c
 Thus, the high CO2 uptake and electrochemical performances of N-doped CA-800 can be ascribed to its unique features: (1) the hierarchical porous structure containing numerous macropores, mesopores, and micropores permits electrolytes to transfer fast; (2) good conductivity resulting from partial graphitization structure allows electrons transport in a high-rate way and electrochemical stability; (3) remarkably, the presence of N species in carbon network improves its electrical conductivity, wettability, and thus results in a high 
 
 
-![](_temp_581f7a78_convert__images/_temp_581f7a78_convert_.pdf-0006-10.png)
+![](_images/3D hierarchical porous N-doped carbon aerogel from renewable cellulose an_images/_temp_a7293bdf_convert_.pdf-0006-10.png)
 
 
 Fig. 9 The cycling stability of N-doped CA-800 at a current density of 1.0 A g[�][1] . 

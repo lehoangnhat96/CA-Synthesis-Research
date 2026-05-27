@@ -53,7 +53,7 @@ Trong các công trình đã công bố, chủ yếu đề cập đến thành p
 khoảng 5%, N khoảng 0,92% và các thành phần khác có hàm lượng nhỏ [10]. Trong nghiên cứu này, phân tích hàm lượng mặt ngoài và mặt trong của rơm cho thấy sự khác nhau về hình thái bề mặt (Hình 1a và d) và hàm lượng các nguyên tố (Hình 1b, d và Bảng 1). Ta thấy mặt trong của rơm rạ nhẵn hơn so với mặt ngoài. Hàm lượng O và Cl không thay đổi nhiều giữa hai mặt. Tuy nhiên, đối với hàm lượng nguyên tố C, Mg và Ca của mặt trong lớn hơn mặt ngoài. Còn lại các nguyên tố khác có hàm lượng mặt ngoài lớn hơn mặt trong, đặc biệt Si thể hiện rất rõ sự khác nhau. Sự khác nhau này có thể là do tiếp xúc môi trường khác nhau. Áp dụng các phương pháp xác định hàm 
 
 
-![](_temp_8a727511_convert__images/_temp_8a727511_convert_.pdf-0003-05.png)
+![](_images/SU ANH HUONG CUA CAC YEU TO TOI QUA TRINH_images/_temp_6436af06_convert_.pdf-0003-05.png)
 
 
 **----- Start of picture text -----**<br>
@@ -89,7 +89,7 @@ Cố định nhiệt độ tách là 90[o] C, nồng độ NaOH là 2 M, kích t
 khoảng từ 0,5 đến 4 giờ, kết quả tách lignin và cellulose biểu diễn ở Hình 3. Đúng như dự đoán, hiệu suất tách tăng mạnh từ 0,5 giờ đến 1 giờ và tăng nhẹ ở 2 giờ, sau đó hầu như không tăng mà còn có chiều hướng giảm nhỏ. Đây có thể là do thời gian dài, nhiệt độ và nồng độ NaOH cao có khả năng gây phân hủy một phần nhỏ lignin, dẫn đến việc thu hồi khó khăn. 
 
 
-![](_temp_8a727511_convert__images/_temp_8a727511_convert_.pdf-0004-07.png)
+![](_images/SU ANH HUONG CUA CAC YEU TO TOI QUA TRINH_images/_temp_6436af06_convert_.pdf-0004-07.png)
 
 
 **----- Start of picture text -----**<br>
@@ -103,7 +103,7 @@ _Hình 2. Ảnh hưởng của nhiệt độ đến hiệu suất tách lignin v
 Xử lý kiềm sẽ làm phá vỡ thành tế bào bởi vì kiềm hòa tan hemicellulose, lignin và silica, phân hủy liên kết este của acid uronic và acetic, làm trương cellulose, làm giảm độ kết tinh của cellulose [11]. Hơn nữa, kiềm phá vỡ liên kết  -ete giữa lignin và hemicellulose, liên kết este giữa lignin và/hoặc hemicellulose và các acid 
 
 
-![](_temp_8a727511_convert__images/_temp_8a727511_convert_.pdf-0004-11.png)
+![](_images/SU ANH HUONG CUA CAC YEU TO TOI QUA TRINH_images/_temp_6436af06_convert_.pdf-0004-11.png)
 
 
 **----- Start of picture text -----**<br>
@@ -117,7 +117,7 @@ _Hình 3. Ảnh hưởng của thời gian  đến hiệu suất tách lignin v�
 hydroxycinnamic như acid p-coumaric, acid ferulic [12]. Do đó, nồng độ NaOH là một trong những yếu tố khá quan trọng ảnh hưởng đến hiệu suất tách lignin và cellulose. Trong nghiên cứu này thực hiện ở các điều kiện nhiệt độ tách là 90[o] C, kích thước nguyên liệu là 0,1 cm, rơm/dung dịch NaOH là 1/20 g/ml, thời gian gia nhiệt là 2 giờ và nồng độ NaOH dao động từ 0,5 đến 2,5 M. Với điều kiện này, hiệu suất tách lignin tăng khi nồng độ NaOH tăng, từ 54,2% đến 85,7%, cellulose giảm từ 125,7% đến 95,6%. Khi nồng độ NaOH trên 2 M, hiệu suất tách được cải thiện không đáng kể. Do vậy, nồng độ NaOH sử dụng cho tách lignin và cellulose được áp dụng cho thí nghiệm tiếp theo là 2 M. 
 
 
-![](_temp_8a727511_convert__images/_temp_8a727511_convert_.pdf-0005-01.png)
+![](_images/SU ANH HUONG CUA CAC YEU TO TOI QUA TRINH_images/_temp_6436af06_convert_.pdf-0005-01.png)
 
 
 **----- Start of picture text -----**<br>
@@ -133,7 +133,7 @@ Theo như dự đoán, kích thước càng nhỏ thì diện tích tiếp xúc 
 khảo sát sự ảnh hưởng của kích thước trong khoảng từ 0,1 đến 2 cm, với tỷ lệ rơm/dung dịch NaOH là 1/20 g/ml và các điều kiện đã tìm được ở trên. Kết quả được thể hiện ở Hình 5. Đúng như dự đoán với điều kiện thí nghiệm, kích thước nguyên liệu càng nhỏ thì hiệu suất tách càng cao, với kích thước rơm là 0,1 cm, thì lignin thu được là 86,3%, cellulose thu được là 95,7%. 
 
 
-![](_temp_8a727511_convert__images/_temp_8a727511_convert_.pdf-0005-06.png)
+![](_images/SU ANH HUONG CUA CAC YEU TO TOI QUA TRINH_images/_temp_6436af06_convert_.pdf-0005-06.png)
 
 
 **----- Start of picture text -----**<br>
@@ -151,7 +151,7 @@ Lượng dung môi cũng là một trong những yếu tố quan trọng ảnh h
 hóa chất, điện năng... lớn, dẫn đến hiệu quả kinh tế không cao. Do đó, trong nghiên cứu này chọn tỷ lệ rơm/dung dịch NaOH là 1/15 g/ml cho hiệu suất tách lignin là 85,9% và cellulose là 96,2%. 
 
 
-![](_temp_8a727511_convert__images/_temp_8a727511_convert_.pdf-0006-01.png)
+![](_images/SU ANH HUONG CUA CAC YEU TO TOI QUA TRINH_images/_temp_6436af06_convert_.pdf-0006-01.png)
 
 
 **----- Start of picture text -----**<br>

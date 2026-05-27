@@ -1,7 +1,7 @@
 Journal of Industrial and Engineering Chemistry 16 (2010) 401–405 
 
 
-![](_temp_f82dd18f_convert__images/_temp_f82dd18f_convert_.pdf-0001-01.png)
+![](_images/A carbon electrode fabricated using a polyvinylidene fluoride binder controlled_images/_temp_dead8461_convert_.pdf-0001-01.png)
 
 
 Contents lists available at ScienceDirect 
@@ -11,7 +11,7 @@ Contents lists available at ScienceDirect
 journal homepage: www.elsevier.com/locate/jiec 
 
 
-![](_temp_f82dd18f_convert__images/_temp_f82dd18f_convert_.pdf-0001-05.png)
+![](_images/A carbon electrode fabricated using a polyvinylidene fluoride binder controlled_images/_temp_dead8461_convert_.pdf-0001-05.png)
 
 
 ## A carbon electrode fabricated using a poly(vinylidene fluoride) binder controlled the Faradaic reaction of carbon powder 
@@ -109,7 +109,7 @@ J.-Y. Choi, J.-H. Choi / Journal of Industrial and Engineering Chemistry 16 (201
 403 
 
 
-![](_temp_f82dd18f_convert__images/_temp_f82dd18f_convert_.pdf-0003-02.png)
+![](_images/A carbon electrode fabricated using a polyvinylidene fluoride binder controlled_images/_temp_dead8461_convert_.pdf-0003-02.png)
 
 
 Fig. 1. SEM images of the PVdF15 electrode: (a) cross-sectional view (3000�) and (b) top view (20,000�). 
@@ -117,13 +117,13 @@ Fig. 1. SEM images of the PVdF15 electrode: (a) cross-sectional view (3000�) a
 known that the deviation from the rectangular shape of cyclic voltammogram is due to the Faradaic current [24]. The functional groups on the carbon surface, i.e., carbonyl and quinine groups, influence current changes by electrical oxidation and reduction reactions. From the cyclic voltammograms, the electrochemical 
 
 
-![](_temp_f82dd18f_convert__images/_temp_f82dd18f_convert_.pdf-0003-05.png)
+![](_images/A carbon electrode fabricated using a polyvinylidene fluoride binder controlled_images/_temp_dead8461_convert_.pdf-0003-05.png)
 
 
 Fig. 2. Cyclic voltammograms measured on the PVdF15 electrodes at different potential sweep rates. 
 
 
-![](_temp_f82dd18f_convert__images/_temp_f82dd18f_convert_.pdf-0003-07.png)
+![](_images/A carbon electrode fabricated using a polyvinylidene fluoride binder controlled_images/_temp_dead8461_convert_.pdf-0003-07.png)
 
 
 Fig. 3. Variation of DI (the difference between anodic and cathodic charging current) with potential sweep rate in cyclic voltammograms. 
@@ -151,7 +151,7 @@ J.-Y. Choi, J.-H. Choi / Journal of Industrial and Engineering Chemistry 16 (201
 404 
 
 
-![](_temp_f82dd18f_convert__images/_temp_f82dd18f_convert_.pdf-0004-02.png)
+![](_images/A carbon electrode fabricated using a polyvinylidene fluoride binder controlled_images/_temp_dead8461_convert_.pdf-0004-02.png)
 
 
 Fig. 4. The changes in current with time during the charging and discharging process for the PVdF12 electrode. 
@@ -161,7 +161,7 @@ electrode surface, the charging current would converge to zero. Thus, the curren
 Capacitances were estimated from the chronoamperometric results by fitting the current transients with the following Q1 equations; the results are listed in Table 2 [29]. 
 
 
-![](_temp_f82dd18f_convert__images/_temp_f82dd18f_convert_.pdf-0004-06.png)
+![](_images/A carbon electrode fabricated using a polyvinylidene fluoride binder controlled_images/_temp_dead8461_convert_.pdf-0004-06.png)
 
 
 where DE is step potential, R is equivalent series resistance, and C is the specific capacitance. The capacitance values determined by chronoamperometry methods were slightly lower than were those obtained from a cyclic voltammetry method. 
@@ -169,7 +169,7 @@ where DE is step potential, R is equivalent series resistance, and C is the spec
 The effect of PVdF content on the Faradaic current was investigated. Faradaic current at a certain time corresponds to the current difference between charging and discharging current. Fig. 5 shows the Faradaic current as a function of time for different carbon electrodes. Faradaic current decreased slightly as time went on. Moreover, the current was reduced with increasing PVdF content. Especially, the Faradaic current sharply decreased for the PVdF18 electrode. These results indicate that the electrochemical reaction on the carbon surface was suppressed due to the PVdF binder. 
 
 
-![](_temp_f82dd18f_convert__images/_temp_f82dd18f_convert_.pdf-0004-09.png)
+![](_images/A carbon electrode fabricated using a polyvinylidene fluoride binder controlled_images/_temp_dead8461_convert_.pdf-0004-09.png)
 
 
 Fig. 5. Faradaic current (the difference between charging and discharging current) for the carbon electrodes prepared with different PVdF contents. 
@@ -183,7 +183,7 @@ CDI technology may be attractive for desalination of low salinity brackish water
 The best method to measure double layer capacitance is to assess electrochemical impedance spectroscopy measurements [28]. Specific capacitance (C) can be derived from the imaginary part (Z[00] ) of the impedance spectra according to [30]: 
 
 
-![](_temp_f82dd18f_convert__images/_temp_f82dd18f_convert_.pdf-0004-15.png)
+![](_images/A carbon electrode fabricated using a polyvinylidene fluoride binder controlled_images/_temp_dead8461_convert_.pdf-0004-15.png)
 
 
 where v denotes the angular frequency of the applied ac-signal. 
@@ -193,7 +193,7 @@ Specific capacitances determined by impedance spectroscopy are shown in Fig. 6 a
 Capacitances increased steeply with decreasing frequency up to about 0.2 Hz. The ac-signal can attain and charge more inner surface sites of the carbon electrode with decreasing frequency, resulting in a higher capacitance. At frequencies below 0.2 Hz, the signal attains almost the total surface of the carbon, so that the capacitance remains at almost a constant value [25,30]. As shown in Fig. 6, capacitances decreased with PVdF binder content 
 
 
-![](_temp_f82dd18f_convert__images/_temp_f82dd18f_convert_.pdf-0004-19.png)
+![](_images/A carbon electrode fabricated using a polyvinylidene fluoride binder controlled_images/_temp_dead8461_convert_.pdf-0004-19.png)
 
 
 Fig. 6. Specific capacitances of the various carbon electrodes derived from impedance data as a function of frequency. 
@@ -203,7 +203,7 @@ J.-Y. Choi, J.-H. Choi / Journal of Industrial and Engineering Chemistry 16 (201
 405 
 
 
-![](_temp_f82dd18f_convert__images/_temp_f82dd18f_convert_.pdf-0005-02.png)
+![](_images/A carbon electrode fabricated using a polyvinylidene fluoride binder controlled_images/_temp_dead8461_convert_.pdf-0005-02.png)
 
 
 Fig. 7. Charging resistance of the various carbon electrodes derived from the impedance data as a function of frequency. 

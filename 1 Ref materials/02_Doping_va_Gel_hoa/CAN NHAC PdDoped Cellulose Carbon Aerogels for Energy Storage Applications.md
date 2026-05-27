@@ -3,11 +3,11 @@
 **www.advmatinterfaces.de** 
 
 
-![](_temp_08ac8e24_convert__images/_temp_08ac8e24_convert_.pdf-0001-02.png)
+![](_images/CAN NHAC PdDoped Cellulose Carbon Aerogels for Energy Storage Applications_images/_temp_4eb6a622_convert_.pdf-0001-02.png)
 
 
 
-![](_temp_08ac8e24_convert__images/_temp_08ac8e24_convert_.pdf-0001-03.png)
+![](_images/CAN NHAC PdDoped Cellulose Carbon Aerogels for Energy Storage Applications_images/_temp_4eb6a622_convert_.pdf-0001-03.png)
 
 
 ## **Pd-Doped Cellulose Carbon Aerogels for Energy Storage Applications** 
@@ -45,7 +45,7 @@ The ORCID identification number(s) for the author(s) of this article can be foun
 _Adv. Mater. Interfaces_ **2021** , _8_ , 2100310 
 
 
-![](_temp_08ac8e24_convert__images/_temp_08ac8e24_convert_.pdf-0002-01.png)
+![](_images/CAN NHAC PdDoped Cellulose Carbon Aerogels for Energy Storage Applications_images/_temp_4eb6a622_convert_.pdf-0002-01.png)
 
 
 **----- Start of picture text -----**<br>
@@ -53,11 +53,11 @@ www.advancedsciencenews.com<br>**----- End of picture text -----**<br>
 
 
 
-![](_temp_08ac8e24_convert__images/_temp_08ac8e24_convert_.pdf-0002-02.png)
+![](_images/CAN NHAC PdDoped Cellulose Carbon Aerogels for Energy Storage Applications_images/_temp_4eb6a622_convert_.pdf-0002-02.png)
 
 
 
-![](_temp_08ac8e24_convert__images/_temp_08ac8e24_convert_.pdf-0002-03.png)
+![](_images/CAN NHAC PdDoped Cellulose Carbon Aerogels for Energy Storage Applications_images/_temp_4eb6a622_convert_.pdf-0002-03.png)
 
 
 **----- Start of picture text -----**<br>
@@ -65,7 +65,7 @@ www.advmatinterfaces.de<br>**----- End of picture text -----**<br>
 
 
 
-![](_temp_08ac8e24_convert__images/_temp_08ac8e24_convert_.pdf-0002-04.png)
+![](_images/CAN NHAC PdDoped Cellulose Carbon Aerogels for Energy Storage Applications_images/_temp_4eb6a622_convert_.pdf-0002-04.png)
 
 
 **Figure 1.** Diagram of the synthesis process of Pd-doped cellulose carbon aerogels. 
@@ -99,11 +99,11 @@ _Adv. Mater. Interfaces_ **2021** , _8_ , 2100310
 **www.advancedsciencenews.com** 
 
 
-![](_temp_08ac8e24_convert__images/_temp_08ac8e24_convert_.pdf-0003-02.png)
+![](_images/CAN NHAC PdDoped Cellulose Carbon Aerogels for Energy Storage Applications_images/_temp_4eb6a622_convert_.pdf-0003-02.png)
 
 
 
-![](_temp_08ac8e24_convert__images/_temp_08ac8e24_convert_.pdf-0003-03.png)
+![](_images/CAN NHAC PdDoped Cellulose Carbon Aerogels for Energy Storage Applications_images/_temp_4eb6a622_convert_.pdf-0003-03.png)
 
 
 **----- Start of picture text -----**<br>
@@ -111,7 +111,7 @@ www.advmatinterfaces.de<br>**----- End of picture text -----**<br>
 
 
 
-![](_temp_08ac8e24_convert__images/_temp_08ac8e24_convert_.pdf-0003-04.png)
+![](_images/CAN NHAC PdDoped Cellulose Carbon Aerogels for Energy Storage Applications_images/_temp_4eb6a622_convert_.pdf-0003-04.png)
 
 
 **Figure 2.** a) Pore size distributions and b) isotherms of CAs with different Pd contents. 
@@ -150,11 +150,11 @@ _Adv. Mater. Interfaces_ **2021** , _8_ , 2100310
 **www.advancedsciencenews.com** 
 
 
-![](_temp_08ac8e24_convert__images/_temp_08ac8e24_convert_.pdf-0004-02.png)
+![](_images/CAN NHAC PdDoped Cellulose Carbon Aerogels for Energy Storage Applications_images/_temp_4eb6a622_convert_.pdf-0004-02.png)
 
 
 
-![](_temp_08ac8e24_convert__images/_temp_08ac8e24_convert_.pdf-0004-03.png)
+![](_images/CAN NHAC PdDoped Cellulose Carbon Aerogels for Energy Storage Applications_images/_temp_4eb6a622_convert_.pdf-0004-03.png)
 
 
 **----- Start of picture text -----**<br>
@@ -162,7 +162,7 @@ www.advmatinterfaces.de<br>**----- End of picture text -----**<br>
 
 
 
-![](_temp_08ac8e24_convert__images/_temp_08ac8e24_convert_.pdf-0004-04.png)
+![](_images/CAN NHAC PdDoped Cellulose Carbon Aerogels for Energy Storage Applications_images/_temp_4eb6a622_convert_.pdf-0004-04.png)
 
 
 **Figure 3.** SEM images of a,e) CA-Blank, b,f) CA-Pd20, c,g) CA-Pd40, and d,h) CA-Pd80. The bottom row images correspond to the magnification of the region marked with a yellow circle in the top images. 
@@ -174,7 +174,7 @@ SEM images of the analyzed samples are presented in **Figure 3** . At the micro-
 the sol–gel method.[[44]] As observed, CA-Blank presents open hierarchical porous structure highly meso/macroporous with pores in a wide range of sizes from 0.1 – 1 μm. The samples CA-PdX exhibit this same distinctive feature even at the higher Pd content, which confirms that Pd particles have no remarkable effect on the microstructure of carbon aerogels. Additionally, the images with higher resolution (Figure 3f–h) display uniform distribution of Pd particles embedded in the carbonaceous matrix. Distribution of Pd, C, and O in CA-PdX was evaluated by SEM-EDX mapping, the analyzed samples show that Pd particles are homogeneously distributed in the whole carbon matrix (see **Figure 4** ). Additionally, inductively coupled plasma optical emission spectrometry (ICP-OES) measurements were 
 
 
-![](_temp_08ac8e24_convert__images/_temp_08ac8e24_convert_.pdf-0004-09.png)
+![](_images/CAN NHAC PdDoped Cellulose Carbon Aerogels for Energy Storage Applications_images/_temp_4eb6a622_convert_.pdf-0004-09.png)
 
 
 **Figure 4.** SEM-EDX elemental mapping of a) CA-Pd20, b) CA-Pd40, and c) CA-Pd80. The upper row images correspond to the scanned surface to obtain the shown maps. 
@@ -190,11 +190,11 @@ _Adv. Mater. Interfaces_ **2021** , _8_ , 2100310
 **www.advancedsciencenews.com** 
 
 
-![](_temp_08ac8e24_convert__images/_temp_08ac8e24_convert_.pdf-0005-03.png)
+![](_images/CAN NHAC PdDoped Cellulose Carbon Aerogels for Energy Storage Applications_images/_temp_4eb6a622_convert_.pdf-0005-03.png)
 
 
 
-![](_temp_08ac8e24_convert__images/_temp_08ac8e24_convert_.pdf-0005-04.png)
+![](_images/CAN NHAC PdDoped Cellulose Carbon Aerogels for Energy Storage Applications_images/_temp_4eb6a622_convert_.pdf-0005-04.png)
 
 
 **Figure 5.** TEM and high-resolution TEM images of a,c) CA-Pd80 and b,d) CA-Blank . 
@@ -226,15 +226,15 @@ _Adv. Mater. Interfaces_ **2021** , _8_ , 2100310
 **www.advmatinterfaces.de** 
 
 
-![](_temp_08ac8e24_convert__images/_temp_08ac8e24_convert_.pdf-0006-03.png)
+![](_images/CAN NHAC PdDoped Cellulose Carbon Aerogels for Energy Storage Applications_images/_temp_4eb6a622_convert_.pdf-0006-03.png)
 
 
 
-![](_temp_08ac8e24_convert__images/_temp_08ac8e24_convert_.pdf-0006-04.png)
+![](_images/CAN NHAC PdDoped Cellulose Carbon Aerogels for Energy Storage Applications_images/_temp_4eb6a622_convert_.pdf-0006-04.png)
 
 
 
-![](_temp_08ac8e24_convert__images/_temp_08ac8e24_convert_.pdf-0006-05.png)
+![](_images/CAN NHAC PdDoped Cellulose Carbon Aerogels for Energy Storage Applications_images/_temp_4eb6a622_convert_.pdf-0006-05.png)
 
 
 crystallite size along graphite basal planes (1/ _La_ ) provide a first approximation of _La_ .[[53,54]] It means that _R_ is increasing with decay of size of the perfect graphene units, as the disorder is growing and the D-mode is becoming more active. The Raman spectra of CAs were deconvoluted to G and D bands by using two Lorentzians on top of a linear background. The parameters obtained are summarized in Table S2, Supporting Information. The full width at half maximum (FWHM) of the G bands ranges from 81 to 85 cm[−][1] . These values are higher than one reported for highly oriented pyrolytic graphite (15 – 23 cm[−][1] ), which indicates a low degree of crystalline order in the studied samples, especially in samples decorated with Pd. Additionally, from the obtained _R_ values, an important structural change can be identified in the analyzed samples. The lateral sizes obtained from the Raman spectra reflect a decrease with increasing Pd content indicating that the growth of the sp[2] carbon domains of the CA-PdX is affected by the metal content. Other, previously reported Pd decorated carbonaceous materials have shown the same trend in _R_ . These found that the addition of nanometals within the carbon matrix decreases the degree of graphitization, since the graphitiferous carbon atoms used their π electrons to coordinate the nanometals.[[18,20,25]] 
@@ -244,7 +244,7 @@ From the Raman analysis, it can be concluded that doping with Pd facilitates cha
 ## _2.1.4. FTIR Analysis_ 
 
 
-![](_temp_08ac8e24_convert__images/_temp_08ac8e24_convert_.pdf-0006-09.png)
+![](_images/CAN NHAC PdDoped Cellulose Carbon Aerogels for Energy Storage Applications_images/_temp_4eb6a622_convert_.pdf-0006-09.png)
 
 
 **Figure 6.** a) XRD, b) Raman, and c) FTIR spectra of CAs with different Pd contents. 
@@ -260,7 +260,7 @@ The FTIR spectra of the analyzed CAs and their corresponding cellulose aerogel p
 _Adv. Mater. Interfaces_ **2021** , _8_ , 2100310 
 
 
-![](_temp_08ac8e24_convert__images/_temp_08ac8e24_convert_.pdf-0007-01.png)
+![](_images/CAN NHAC PdDoped Cellulose Carbon Aerogels for Energy Storage Applications_images/_temp_4eb6a622_convert_.pdf-0007-01.png)
 
 
 **----- Start of picture text -----**<br>
@@ -268,11 +268,11 @@ www.advancedsciencenews.com<br>**----- End of picture text -----**<br>
 
 
 
-![](_temp_08ac8e24_convert__images/_temp_08ac8e24_convert_.pdf-0007-02.png)
+![](_images/CAN NHAC PdDoped Cellulose Carbon Aerogels for Energy Storage Applications_images/_temp_4eb6a622_convert_.pdf-0007-02.png)
 
 
 
-![](_temp_08ac8e24_convert__images/_temp_08ac8e24_convert_.pdf-0007-03.png)
+![](_images/CAN NHAC PdDoped Cellulose Carbon Aerogels for Energy Storage Applications_images/_temp_4eb6a622_convert_.pdf-0007-03.png)
 
 
 **----- Start of picture text -----**<br>
@@ -280,7 +280,7 @@ www.advmatinterfaces.de<br>**----- End of picture text -----**<br>
 
 
 
-![](_temp_08ac8e24_convert__images/_temp_08ac8e24_convert_.pdf-0007-04.png)
+![](_images/CAN NHAC PdDoped Cellulose Carbon Aerogels for Energy Storage Applications_images/_temp_4eb6a622_convert_.pdf-0007-04.png)
 
 
 **Figure 7.** CVs curves of carbon aerogel cells at different scan rates a) CA-Pd80, b) CA-Pd40, d) CA-Pd20, e) CA-Blank, c) specific capacitances from CVs areas, and f) cyclic stability of CA cells at 200 mV s[−][1] . 
@@ -308,7 +308,7 @@ Figure 7f shows the evolution of _Cs_ of the carbon aerogel electrodes through 1
 _Adv. Mater. Interfaces_ **2021** , _8_ , 2100310 
 
 
-![](_temp_08ac8e24_convert__images/_temp_08ac8e24_convert_.pdf-0008-01.png)
+![](_images/CAN NHAC PdDoped Cellulose Carbon Aerogels for Energy Storage Applications_images/_temp_4eb6a622_convert_.pdf-0008-01.png)
 
 
 **----- Start of picture text -----**<br>
@@ -316,11 +316,11 @@ www.advancedsciencenews.com<br>www.advmatinterfaces.de<br>**----- End of picture
 
 
 
-![](_temp_08ac8e24_convert__images/_temp_08ac8e24_convert_.pdf-0008-02.png)
+![](_images/CAN NHAC PdDoped Cellulose Carbon Aerogels for Energy Storage Applications_images/_temp_4eb6a622_convert_.pdf-0008-02.png)
 
 
 
-![](_temp_08ac8e24_convert__images/_temp_08ac8e24_convert_.pdf-0008-03.png)
+![](_images/CAN NHAC PdDoped Cellulose Carbon Aerogels for Energy Storage Applications_images/_temp_4eb6a622_convert_.pdf-0008-03.png)
 
 
 **Figure 8.** GCD curves of a) CA cells at 1 A g[−][1] and b) CA-PdX cells at 1 and 2 A g[−][1] . c) Admittance, d,e) Nyquist plots, and f) specific capacitance from EIS measurements of CA cells. 
@@ -361,7 +361,7 @@ _Adv. Mater. Interfaces_ **2021** , _8_ , 2100310 **2100310 (8 of 12)**
 ## **www.advancedsciencenews.com** 
 
 
-![](_temp_08ac8e24_convert__images/_temp_08ac8e24_convert_.pdf-0009-02.png)
+![](_images/CAN NHAC PdDoped Cellulose Carbon Aerogels for Energy Storage Applications_images/_temp_4eb6a622_convert_.pdf-0009-02.png)
 
 
 **www.advmatinterfaces.de** 
@@ -395,7 +395,7 @@ _Adv. Mater. Interfaces_ **2021** , _8_ , 2100310
 ## **www.advancedsciencenews.com** 
 
 
-![](_temp_08ac8e24_convert__images/_temp_08ac8e24_convert_.pdf-0010-02.png)
+![](_images/CAN NHAC PdDoped Cellulose Carbon Aerogels for Energy Storage Applications_images/_temp_4eb6a622_convert_.pdf-0010-02.png)
 
 
 **www.advmatinterfaces.de** 
@@ -411,7 +411,7 @@ _Transmission Electron Microscopy_ : The nanostructure of the CAs was studied by
 _X-Ray Diffraction_ : X-ray diffraction patterns of the samples were obtained by means of Bruker AXS/D8 Advance diffractometer, it was operated at 20 °C, 40 kV, and 40 mA using CuKα radiation (λ = 0.15418 nm). Each measurement was done in a 2θ range from 10° and 90°, with a step size of 0.01°, and 12 s per step. For the analysis of the CAs, the monolithic samples were placed on X-ray amorphous PVC holders. The average Pd particle diameter ( _D_ ) of the CA-PdX samples were calculated from {111}, {200}, {220}, and {311} reflections applying the DebyeScherrer equation,[[62]] 
 
 
-![](_temp_08ac8e24_convert__images/_temp_08ac8e24_convert_.pdf-0010-09.png)
+![](_images/CAN NHAC PdDoped Cellulose Carbon Aerogels for Energy Storage Applications_images/_temp_4eb6a622_convert_.pdf-0010-09.png)
 
 
 where _K_ is the shape factor (fixed to 0.9 according to the literature regarding Pd nanoparticles), λ is the wavelength of the radiation, b is the full width at half maximum (FWHM) calculated from the radian of the reflections, and θ is the corresponding reflection positions in radians. OriginPro 8.5 software was used for deconvolution of the diffractograms. Gaussian fitting was performed to find the reflection parameters (FWHM, reflection positions 2θ). 
@@ -421,7 +421,7 @@ _Raman Spectroscopy_ : Raman spectra were recorded using a Bruker Senterra Raman
 according to the so-called Knight formula,[[51]] considering a wavelength dependency of C, where _C_ 0 and _C_ 1 are: -126 Å and 0.033,[[53]] respectively 
 
 
-![](_temp_08ac8e24_convert__images/_temp_08ac8e24_convert_.pdf-0010-13.png)
+![](_images/CAN NHAC PdDoped Cellulose Carbon Aerogels for Energy Storage Applications_images/_temp_4eb6a622_convert_.pdf-0010-13.png)
 
 
 _FTIR Spectroscopy_ : ATR-FTIR spectra of cellulose aerogels (CellAs) and CAs were recorded to characterize the surface chemistry. Powder samples were analyzed at room temperature using a Agilent Cary 630 FTIR spectrometer equipped with a diamond attenuated total reflectance (ATR) sampling accessory between 4000 and 630 cm[−][1] at a resolution of 2 cm[−][1] . 
@@ -433,25 +433,25 @@ _Preparation of Coated Electrodes_ : Conductive indium tin oxide coated glass sl
 _Cyclic Voltammetry_ : CV was performed with a Potentiostat/ Galvanostat Metrohm Autolab PGSTA T204. CV curves were measured in a potential window between −1.0 and −0.2 V (vs Ag/AgCl) with a scan rate of 1, 5, 50, 100, or 200 mV s[−][1] . The specific capacitance obtained from CV ( _C_ s _cv_ , F g[−][1] ) was calculated from the integrated area under the CV curve (∫ _Idv_ , A V), the voltage window (Δ _V_ , V), the scan rate ( _s_ , V s[−][1] ), and the mass of the electroactive materials in the electrode ( _m_ , g) as follows,[[27,28]] 
 
 
-![](_temp_08ac8e24_convert__images/_temp_08ac8e24_convert_.pdf-0010-18.png)
+![](_images/CAN NHAC PdDoped Cellulose Carbon Aerogels for Energy Storage Applications_images/_temp_4eb6a622_convert_.pdf-0010-18.png)
 
 
 _Galvanostatic Charge/Discharge_ : The GCD measurements were performed with a discharge current of 1 and 2 A g[−][1] . The specific capacitances obtained from GCD data ( _C_ s, F g[−][1] ) of the analyzed samples were calculated from the discharge current _I_ (A), the discharge time Δ _t_ (s), the mass of the electroactive materials in the electrodes _m_ (g), and the potential window Δ _V_ (V) subtracting _iR_ drop, as follows,[[27]] 
 
 
-![](_temp_08ac8e24_convert__images/_temp_08ac8e24_convert_.pdf-0010-20.png)
+![](_images/CAN NHAC PdDoped Cellulose Carbon Aerogels for Energy Storage Applications_images/_temp_4eb6a622_convert_.pdf-0010-20.png)
 
 
 Additionally, energy density ( _E_ , Wh kg[−][1] ), and power density ( _P_ , W kg[−][1] ) of the characterized CAs cells were calculated as shown below,[[27,29]] 
 
 
-![](_temp_08ac8e24_convert__images/_temp_08ac8e24_convert_.pdf-0010-22.png)
+![](_images/CAN NHAC PdDoped Cellulose Carbon Aerogels for Energy Storage Applications_images/_temp_4eb6a622_convert_.pdf-0010-22.png)
 
 
 _Electrochemical Impedance Spectroscopy_ : EIS was done with a Modulab XM ECS potentiostat from Solatron. The measurements were performed by applying an amplitude of 10 mV in the frequency range from 0.1 Hz to 100 kHz. For the analysis of EIS data, the admittance were calculated as follows,[[61,64]] 
 
 
-![](_temp_08ac8e24_convert__images/_temp_08ac8e24_convert_.pdf-0010-24.png)
+![](_images/CAN NHAC PdDoped Cellulose Carbon Aerogels for Energy Storage Applications_images/_temp_4eb6a622_convert_.pdf-0010-24.png)
 
 
 **2100310 (10 of 12)** 
@@ -463,7 +463,7 @@ _Adv. Mater. Interfaces_ **2021** , _8_ , 2100310
 ## **www.advancedsciencenews.com** 
 
 
-![](_temp_08ac8e24_convert__images/_temp_08ac8e24_convert_.pdf-0011-02.png)
+![](_images/CAN NHAC PdDoped Cellulose Carbon Aerogels for Energy Storage Applications_images/_temp_4eb6a622_convert_.pdf-0011-02.png)
 
 
 ## **www.advmatinterfaces.de** 
@@ -471,7 +471,7 @@ _Adv. Mater. Interfaces_ **2021** , _8_ , 2100310
 where _Z_ ′ is the real impedance, _Z_ ″ is the imaginary impedance, and ‖ _Z_ ‖ is the impedance module. In addition, the corresponding real and imaginary admittances were calculated as _Z_ ′/‖ _Z_ ‖[2] = _Y_ ′ and − _Z_ ″/‖ _Z_ ‖[2] = _Y_ ″. The specific capacitance from EIS data was determined as follows,[[65]] 
 
 
-![](_temp_08ac8e24_convert__images/_temp_08ac8e24_convert_.pdf-0011-05.png)
+![](_images/CAN NHAC PdDoped Cellulose Carbon Aerogels for Energy Storage Applications_images/_temp_4eb6a622_convert_.pdf-0011-05.png)
 
 
 where _f_ is the frequency (Hz) and _m_ is the mass of the electroactive materials in the electrodes (g). 
@@ -583,7 +583,7 @@ _Adv. Mater. Interfaces_ **2021** , _8_ , 2100310
 ## **www.advancedsciencenews.com** 
 
 
-![](_temp_08ac8e24_convert__images/_temp_08ac8e24_convert_.pdf-0012-02.png)
+![](_images/CAN NHAC PdDoped Cellulose Carbon Aerogels for Energy Storage Applications_images/_temp_4eb6a622_convert_.pdf-0012-02.png)
 
 
 ## **www.advmatinterfaces.de** 

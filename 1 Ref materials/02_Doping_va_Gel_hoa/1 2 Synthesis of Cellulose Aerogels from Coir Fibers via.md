@@ -1,7 +1,7 @@
 565 
 
 
-![](_temp_8f18a83c_convert__images/_temp_8f18a83c_convert_.pdf-0001-01.png)
+![](_images/1 2 Synthesis of Cellulose Aerogels from Coir Fibers via_images/_temp_5783c92f_convert_.pdf-0001-01.png)
 
 
 ## _**CHEMICAL ENGINEERING TRANSACTIONS**_ 
@@ -51,13 +51,13 @@ Coir fibers were alkaline treated for the first time with 6 % NaOH solution with
 The bulk density of the aerogels (ρcellulose aerogels) was calculated using the Eq(1): 
 
 
-![](_temp_8f18a83c_convert__images/_temp_8f18a83c_convert_.pdf-0002-10.png)
+![](_images/1 2 Synthesis of Cellulose Aerogels from Coir Fibers via_images/_temp_5783c92f_convert_.pdf-0002-10.png)
 
 
 where m (g) is mass of cellulose aerogel, V (cm[3] ) is the volume of cellulose aerogels. The porosity of the cellulose aerogel was calculated in the Eq(2): 
 
 
-![](_temp_8f18a83c_convert__images/_temp_8f18a83c_convert_.pdf-0002-12.png)
+![](_images/1 2 Synthesis of Cellulose Aerogels from Coir Fibers via_images/_temp_5783c92f_convert_.pdf-0002-12.png)
 
 
 Where  ρcellulose (1.528 g/cm[3] ) is the density of bulk cellulose (Wan et al., 2015). 
@@ -73,7 +73,7 @@ Methylene blue (MB) (50 ppm) solution was prepared before testing. Adsorption ex
 (3) 
 
 
-![](_temp_8f18a83c_convert__images/_temp_8f18a83c_convert_.pdf-0003-02.png)
+![](_images/1 2 Synthesis of Cellulose Aerogels from Coir Fibers via_images/_temp_5783c92f_convert_.pdf-0003-02.png)
 
 
 where qe is the adsorption capacity at equilibrium, C0 and Ce are the initial and equilibrium MB concentration, V and m are the volume of the MB solution and mass of the adsorbent. 
@@ -85,7 +85,7 @@ where qe is the adsorption capacity at equilibrium, C0 and Ce are the initial an
 Figure 1 shows the dependence of density and porosity of cellulose aerogels on fiber concentrations. The cellulose aerogels obtained have extremely low densities (0.0099-0.0158 g/cm[3] ) and high porosities (98.9699.35 vol%), which indicates the light weight and the porous structures of the cellulose aerogels. The cellulose aerogels have denser network and less porosity with increasing cellulose concentration. Therefore, it can be larger cellulose concentrations in the initial solution can take up more space in the cellulose aerogels. More cross-linking bonding fewer can cause more packed and less air pockets in the cellulose aerogel network, as shown in Figure 3. 
 
 
-![](_temp_8f18a83c_convert__images/_temp_8f18a83c_convert_.pdf-0003-07.png)
+![](_images/1 2 Synthesis of Cellulose Aerogels from Coir Fibers via_images/_temp_5783c92f_convert_.pdf-0003-07.png)
 
 
 _Figure 1: Densities and porosities of the cellulose aerogels with the different cellulose concentrations_ 
@@ -93,7 +93,7 @@ _Figure 1: Densities and porosities of the cellulose aerogels with the different
 The FTIR spectra of the different samples are presented in Figure 2. For all samples, there were four main bands corresponding to cellulose. 
 
 
-![](_temp_8f18a83c_convert__images/_temp_8f18a83c_convert_.pdf-0003-10.png)
+![](_images/1 2 Synthesis of Cellulose Aerogels from Coir Fibers via_images/_temp_5783c92f_convert_.pdf-0003-10.png)
 
 
 _Figure 2: The FTIR spectra of different samples: (a) original coir; (b) delignined coir; (c) bleached coir; and (d) coir aerogel_ 
@@ -105,7 +105,7 @@ The band at 3,474 cm[-1] can be attributed to intramolecular hydrogen bonding (O
 Figure 3 shows the SEM images of the cellulose aerogels. The highly porous structure aerogel consists of an interconnected network of homogeneous cellulose fibers, as depicted in Figure 3a. The structures consist of a three-dimensional network of macrospore-forming filaments, each 20–200 µm in diameter. This lattice structure, which is formed by cross-linking of cellulose as mentioned above, confirms that NaOH-urea has good solubility. Figures 3b and 3c show the longitudinal and cross-sectional images of the cellulose fibers. The fibers themselves have a cylindrical-like structure with a diameter of 40–70 µm and are successfully self-assembled via hydrogen bonding to form a network of open pores. The fibers also have pores with a diameter of 2–4 µm, as depicted in Figure 3c. The internal fiber pores also contribute to the increased porosity of the aerogel. 
 
 
-![](_temp_8f18a83c_convert__images/_temp_8f18a83c_convert_.pdf-0004-03.png)
+![](_images/1 2 Synthesis of Cellulose Aerogels from Coir Fibers via_images/_temp_5783c92f_convert_.pdf-0004-03.png)
 
 
 **----- Start of picture text -----**<br>
@@ -123,7 +123,7 @@ The thermal behaviour of cellulose aerogel with different fiber concentrations w
 aerogel cellulose 4 wt% and 6 wt% are carbonized with an average coal yield of 19 %. The decomposition temperatures of cellulose aerogels were higher than those of materials prepared from coconut shells (200-400 °C) (Wan et al., 2015) and shredded paper (230-330 °C) (Nguyen et al., 2014), possibly due to the presence of residual lignin in the pulp. 
 
 
-![](_temp_8f18a83c_convert__images/_temp_8f18a83c_convert_.pdf-0005-02.png)
+![](_images/1 2 Synthesis of Cellulose Aerogels from Coir Fibers via_images/_temp_5783c92f_convert_.pdf-0005-02.png)
 
 
 _Figure 4: Thermogravimetric analysis (TGA) results for coir fiber and cellulose aerogels_ 
@@ -133,7 +133,7 @@ _Figure 4: Thermogravimetric analysis (TGA) results for coir fiber and cellulose
 Figure 5 shows that methylene blue (MB) adsorption by cellulose aerogel is similar to different fiber concentrations. During the initial 30 min, the adsorption capacity increased rapidly. The MB adsorption capacity is inversely proportional to the fiber concentration in the adsorbent sample. At 15 min, the 2 wt% sample had an adsorption capacity of 17.68 mg/g and the 6 wt% sample was 14.14 mg/g. In 2020, Beh reports cellulose aerogel derived from sago pith waste was efficient in MB removal with a maximum MB adsorption of 222.2 mg/g at 20 °C (Beh et al., 2020). While cellulose aerogels from polyvinyl alcohol and M-K10 fibers have a low density of 0.0193 g/cm[3] and methylene blue (20 ppm) adsorption capacity is 2.28 mg/g (Luo et al., 2021). This proves that samples with low fibers concentration will have high porosity and better MB adsorption. Over time, the adsorption rate gradually decreased. More active sites exist on cellulose aerogels in the initial state of adsorption, and the higher MB concentration results in higher adsorption rates. As the adsorption time increased, the adsorption sites of cellulose aerogel were occupied by MB, the MB concentration decreased, and the adsorption pulse decreased, so the adsorption rate decreased. 
 
 
-![](_temp_8f18a83c_convert__images/_temp_8f18a83c_convert_.pdf-0005-06.png)
+![](_images/1 2 Synthesis of Cellulose Aerogels from Coir Fibers via_images/_temp_5783c92f_convert_.pdf-0005-06.png)
 
 
 _Figure 5: Effect of fibres concentration on MB adsorption capacity_ 

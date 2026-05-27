@@ -1,0 +1,23 @@
+﻿BẢNG ĐẶC TRƯNG VẬT LIỆU & CHỈ TIÊU ĐIỆN HÓA – CƠ SỞ SO SÁNH & ĐỊNH LƯỢNG
+A. ĐẶC TRƯNG VẬT LIỆU (Material Characterization)
+Phương pháp,Thông tin thu được,Thông số kỳ vọng (Fe-N-CA tốt),Thiết bị,Điều kiện đo,Mẫu đối chứng cần thiết,Lưu ý phân tích,Liên quan đến bài báo nào,Ưu tiên
+XRD (Powder),"Cấu trúc tinh thể, mức độ carbon hóa, peak Fe₃C/Fe-N","Peak C(002) ~26°, D-band/G-band ratio; không có peak Fe oxide lớn",Máy XRD (Cu-Kα),"2θ: 5–80°, step 0.02°/s","Graphite chuẩn, CA-không doping",Dùng Debye-Scherrer để tính kích thước tinh thể,"P1, P2, P4",★★★
+Raman Spectroscopy,Tỉ lệ D/G band → độ khuyết tật; peak 2D → graphitization,"I_D/I_G: 0.8–1.2 (khuyết tật vừa, tốt cho sensor)",Raman 532nm laser,"5 điểm đo, power <5mW tránh cháy mẫu","CA-N, CA-Fe, CA-blank",Plot 3D map nếu có confocal Raman,"P1, P2, P4",★★★
+BET (N₂ adsorption),"Diện tích bề mặt, phân bố lỗ xốp (mesopore/micropore)",S_BET >500 m²/g; V_pore >0.5 cm³/g; d_pore 2–50nm (mesopore),BET analyzer,"Degass 200°C, 6h trước đo",CA-bare (không doping),Dùng BJH cho phân bố lỗ xốp,"P1, P2, P3",★★★
+SEM + EDX,"Hình thái bề mặt, phân bố Fe, N","Cấu trúc 3D xốp; EDX: N ~2–8 at%, Fe ~1–5 at%",SEM-EDX,"10 kV, coating Au/Pd",CA-bare,"Chụp ít nhất 5 vùng, phóng đại 1k–50k×","P1, P2",★★★
+TEM + SAED,"Cấu trúc nano, Fe nanoparticles (<10nm)","Fe NPs phân tán đều, d<5nm; SAED: vòng graphite mờ",HRTEM,200 kV,CA-Fe (không N),Đếm kích thước ≥50 particles,P4,★★
+XPS (X-ray Photoelectron),"Trạng thái hóa học Fe (Fe²⁺/Fe³⁺), N (pyridinic/pyrrolic/graphitic)",N: pyridinic-N chiếm ưu thế (398.5 eV); Fe 2p: Fe-Nx ~710 eV,XPS,"Al-Kα, pass energy 20eV","CA-blank, CA-N",Deconvolution peak dùng CasaXPS/Origin,"P1, P2, P4",★★★
+TGA,"Độ bền nhiệt, hàm lượng tro (Fe oxide còn lại)",Mất khối <5% dưới 400°C; tro ~5–15%,TGA,"N₂, 25→900°C, 10°C/min",CA-bare,Tính % Fe thực tế trong mẫu,P1,★★
+FTIR,"Nhóm chức (−OH, C=N, Fe−N, C−N)","Mất peak −OH sau carbon hóa; xuất hiện C≡N, C−N",FTIR (KBr pellet hoặc ATR),400–4000 cm⁻¹,"Xơ dừa ban đầu, cellulose chuẩn",So sánh trước/sau carbonization,P4,★★
+B. CHỈ TIÊU ĐIỆN HÓA – CƠ SỞ SO SÁNH (Electrochemical Performance)
+Thông số,Định nghĩa / Công thức,Giá trị kỳ vọng tốt,Phương pháp đo,Điều kiện cụ thể,Mẫu so sánh,Sai lầm thường gặp,Yêu cầu báo cáo Q1,Ưu tiên
+LOD (Limit of Detection),"LOD = 3σ/S (σ: noise SD, S: độ nhạy)",Pb²⁺: <0.05 ppb; DA: <10 nM,DPV/ASV,"Đường chuẩn 10 nồng độ, mỗi nồng độ 3 lần","GCE bare, CA/GCE không doping",Dùng sai công thức (không tính σ từ blank); LOD quá thấp bất hợp lý,Phải báo cáo theo IUPAC; kèm đường chuẩn,★★★
+LOQ (Limit of Quantification),LOQ = 10σ/S,LOQ = 3.3 × LOD,DPV,Như trên,—,Thường bị bỏ qua → reviewer yêu cầu,Cần kèm LOD,★★
+Sensitivity (độ nhạy),Độ dốc đường chuẩn (µA/nM hoặc µA/ppb·cm²),DA: >1 µA/nM·cm²; Pb²⁺: >100 µA/ppb·cm²,DPV,Chuẩn bị fresh mỗi ngày,GCE bare,Không chuẩn hóa theo diện tích điện cực → so sánh không công bằng,Normalize theo electrode area,★★★
+Linear Range (khoảng tuyến tính),Khoảng nồng độ có R² >0.99,DA: 0.01–100 µM; Pb: 0.01–10 ppb,DPV,Pha loãng serial,—,Chỉ báo cáo 1 range hẹp để có R² cao,Cần ít nhất 2 linear ranges (low & high),★★★
+Selectivity (tính chọn lọc),Peak current thay đổi <10% khi thêm interferent,"DA: chịu AA, UA, glucose 10× excess; Pb: chịu Cu²⁺, Zn²⁺",DPV,"Thêm từng interferent riêng, 10 mM vs 1 mM analyte",—,Chỉ test 1–2 interferent → không đủ,≥10 interferents là tiêu chuẩn Q1,★★★
+Repeatability (RSD),%RSD của 5 lần đo liên tiếp,RSD <3%,DPV/CV,"Cùng điện cực, cùng ngày, n=5",—,Nhầm repeatability vs reproducibility,Cần cả repeatability + reproducibility,★★
+Reproducibility,RSD giữa 5 điện cực chế tạo độc lập,RSD <5%,DPV,5 GCE khác nhau,—,Chỉ test 1 điện cực → reviewer từ chối,Cần n=5 independent electrodes,★★★
+Stability,% thay đổi peak sau bảo quản 30 ngày,">90% còn lại sau 30 ngày, 4°C",DPV,"Đo ngày 1, 7, 14, 21, 30",—,Không đo đủ time points,Cần ít nhất 4 time points,★★
+Real sample recovery,"% recovery trong mẫu thực (nước sông, nước tiểu)",Recovery 95–105%,DPV/Standard addition,Spike 3 nồng độ vào mẫu thực,HPLC/ICP hoặc certified reference material,Không dùng standard addition method,Bắt buộc cho Q1; ≥3 mẫu thực,★★★
+EIS (Rct),Điện trở chuyển điện tích (charge transfer resistance),Rct giảm mạnh sau khi modify GCE,EIS,Freq: 0.01–100kHz; AC amp 5mV; DC = E°,"GCE bare, CA/GCE",Không dùng Randles circuit phù hợp,Phải giải thích Rct và fit model,★★

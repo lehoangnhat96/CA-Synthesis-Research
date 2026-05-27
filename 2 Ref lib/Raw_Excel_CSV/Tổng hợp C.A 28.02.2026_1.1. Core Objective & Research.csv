@@ -1,0 +1,52 @@
+﻿,"Tổng hợp Carbon Aerogel (CA) từ xơ dừa, ứng dụng C.A làm màng điện cực phân tích điện hóa "
+,Hướng ứng dụng: Biosensor
+,1. Bảng xác định Gap Research 
+,"Note: 
+- Sự lựa chọn các yếu tố vật tư trong đề tài có thể linh hoạt bởi các yếu tố: Tận dụng tài nguyên có sẵn (hóa chất thiết bị)
+- Tương thích 85% - 95% đối với mảng Siêu tụ điện (Supercapacitors) & Khử muối điện dung (CDI). Dựa trên cơ sở: EDLC và pseudocapacitance"
+,Giai đoạn,Quy trình/Yếu tố đã nghiên cứu,Khoảng trống nghiên cứu (Gap),Giới hạn phạm vi trong đề tài,Ý nghĩa đối với Biosensor
+,Nguyên liệu,"Sử dụng xơ dừa thô, xử lý kiềm/tẩy trắng truyền thống.",Độ lặp lại (Reproducibility): Sự biến thiên thành phần cellulose/lignin theo vùng miền và tuổi cây dừa chưa được chuẩn hóa.,"Đang lựa chọn nguồn cung xơ dừa, thống nhất 1 nguồn cho đề tài này",Tín hiệu nền (background current) và độ nhạy (sensitivity) của sensor không ổn định giữa các lô sản xuất.
+,Sấy cấu trúc,Chủ yếu sấy thăng hoa (freeze-drying) hoặc sấy tới hạn.,Sấy áp suất khí quyển: Quy trình sấy thăng hoa tiêu tốn năng lượng cao và khó kiểm soát hình thái nano chính xác.,"Sấy thường có sử dụng dung môi trao đổi, hỗ trợ quá trình sấy: ethanol, cồn, hexane",Sấy thường nhưng vẫn giữ được hệ lỗ xốp mesopore (2-50nm) để chất phân tích khuếch tán.
+,Biến tính/Doping,"Doping Nitơ (N) hoặc kim loại (Ni, Co, Fe) bằng cách ngâm tẩm hoặc in-situ.",Độ đồng nhất của vị trí hoạt động: Khó kiểm soát tỷ lệ chính xác của các dạng Nitơ (như Pyridinic-N vs Graphitic-N) trên bề mặt.,"Lựa chọn Doping: Fe, N
+Có thể linh hoạt thay đổi sang: S, P nếu cần thiết","Pyridinic-N quyết định khả năng xúc tác cho biosensor, nếu không đồng đều sẽ làm sai lệch giới hạn phát hiện (LOD)."
+,Cấu trúc lỗ xốp,Tập trung vào diện tích bề mặt (SSA) cực lớn (>2000 m2/g).,"Tối ưu hóa cho phân tử sinh học: Hầu hết nghiên cứu tập trung vào hấp phụ dầu hoặc siêu tụ điện, chưa tối ưu kích thước lỗ xốp cho enzyme hoặc DNA lớn.",Có thể cân nhắc để tối ưu đồng thời trong giai đoạn doping,"Nếu lỗ xốp quá nhỏ (<2nm), các phân tử sinh học lớn không thể xâm nhập vào bên trong electrode."
+,Nhiệt độ Carbonization,"Nhiệt Độ Pyrolysis: 
+600°C_Pyrrolic
+700°C_Pyridinic
+> 800°C_Graphitic",Tỷ lệ doping ảnh hưởng đến Carbonization,Khảo sát nhiệt độ từ 600-900 độ (tăng lên 100°C cho mỗi thử nghiệm),Hình thành khung mạng lưới carbon
+,Chế tạo màng (có 2 hướng),"1. Màng tự đứng (free-standing)*
+2. Dùng cross-linker/binder: Trộn slurry với chất kết dính (PVDF, Nafion).
+Thông thường: polymer/binder làm cross-linker",Độ bền bám dính & truyền dẫn: Sự đánh đổi giữa hàm lượng binder (giúp bền màng) và độ dẫn điện (giảm do binder bao phủ).,"Hướng 1*: sử dụng hệ dung môi doping đồng thời hỗ trợ làm cross-linker (có thể ứng dụng tiếp làm wearable biosensor)
+Hướng 2: Sử dụng tấm phim (foil) nhôm kết hợp với chất cross-linker ",Màng dễ bong khi đo trong dung dịch đệm (PBS) hoặc trở kháng (Rct) quá cao làm chậm phản ứng của sensor.
+,2. Xác định các yếu tố ảnh hưởng (giới hạn biến số)
+,2.1. Lựa chọn nguyên tố doping (1-3 nguyên tố)
+,Phân loại Doping,Nguyên tố pha tạp,Đối tượng phân tích / Ứng dụng điện hóa,Cơ chế / Tính chất nổi bật hỗ trợ phân tích
+,Doping Đơn (Single Doping),Nitơ (N),"- Paracetamol (PA) và Hydrogen peroxide (H2​O2​)
+- Dopamine (DA)
+- Uric acid, Ascorbic acid, Glucose
+- Ion kim loại nặng (Cu, Pb, Cr, Cd)","Nitơ tạo ra sự phi định xứ điện tích (charge delocalization), tăng độ ưa nước, tạo tâm xúc tác Pyridinic-N và Pyrrolic-N giúp tăng dòng oxy hóa/khử."
+,Doping Đa nguyên tố (Co-doping),"Nitơ - Lưu huỳnh (N, S)","- Gốc tự do DPPH và Gốc Superoxide (kiểm tra hoạt tính chống oxy hóa)
+- Ion kim loại nặng (Cd)",Hiệu ứng hiệp đồng giữa chênh lệch độ âm điện của N và độ phân cực cao của S giúp hệ π liên hợp dễ dàng cho electron.
+,,"Nitơ - Phốt pho (N, P)",- p-Nitrophenol (p-NP) (Xúc tác khử điện hóa),"Tạo nhiều khiếm khuyết, làm tăng tỷ lệ N-oxide và N-pyrrolic, mở rộng diện tích bề mặt và cải thiện khả năng truyền điện tử."
+,,"Nitơ - Bo (N, B) / Nitơ - Flo (N, F)",- Phản ứng khử oxy (ORR) trong pin nhiên liệu,"Tái phân bố mật độ spin, tạo điện tích bất đối xứng, tạo nhiều tâm hoạt tính xúc tác mạnh mẽ."
+,,"Nitơ - Kim loại chuyển tiếp (Fe, Co, Ni, Cu)
+Trong đề tài này lựa chọn nguyên tố 
+N và Fe để doping","- Glucose (cảm biến không dùng enzyme)
+- Acetaminophen (cảm biến điện hóa)
+- Phản ứng khử Oxy (ORR)
+- Dopamine, Cd²⁺, Zn²⁺,Pb2+, Glucose/non-enzymatic (Fe3+/Fe2+ redox)
+- Uric acid (UA)","N cố định và phân tán các nguyên tử kim loại (tạo tâm M-N dạng single-atom), chống kết tụ kim loại, thúc đẩy quá trình proton hóa và trao đổi electron cực nhanh"
+,2.3. Phương pháp tạo màng
+,Phương Pháp,Vật Tư Cần Thiết,Chi Phí (USD),Đánh Giá Q2
+,Cross-linker + GCE,"GCE(3mm), Nafion 0.5%, DMF/EtOH",3-5$/electrode,Tốt nhất pmc.ncbi.nlm.nih​
+,Màng tự đứng,"Press machine, Cu foil, PET film, PDMS",25-50$/electrode,Trung bình
+,2.3.1. Màng sử dụng Cross-linker
+,Nhóm thành phần,Hóa chất chính,Tỷ lệ / Giá tham khảo,Thay thế linh hoạt,Ghi chú kỹ thuật
+,Polymer binder / cross-linker,PVDF / Nafion,"5–15 wt%, ~0.5 USD/g",PAN / PTFE (~0.2 USD/g) hoặc chitosan tự nhiên (từ cua),"Tạo liên kết cơ học, cố định cấu trúc CA"
+,Resin,Resorcinol–formaldehyde,—,"Sinh khối rẻ (chitosan, cellulose từ xơ dừa)",Dùng làm khung carbon aerogel
+,Dung môi phân tán,DMF / NMP,—,"Nước / ethanol (rẻ, xanh hơn) nếu dùng hydrogel CA",Phù hợp hệ gel nước
+,Conductive additive,Carbon black (CB),5–10 wt%,Graphene oxide tự làm từ graphite (~0.1 USD/g),Tăng độ dẫn điện
+,Mục tiêu cải thiện,Phương pháp,Thành phần / Điều kiện,Kết quả đạt được
+,Tăng độ linh hoạt,Thêm plasticizer hoặc fiber,PEG (1–5 wt%) hoặc cellulose fiber (10 wt%),Tránh nứt khi uốn cong
+,Cải thiện dẫn điện,Doping N–Fe trong slurry trước nén,FeCl₃ + urea,Tăng active sites cho DA / H₂O₂
+,Độ xốp cao & đồng đều,Hot-pressing,120°C / 5 MPa,"Porosity >70%, độ dày 100–200 μm"

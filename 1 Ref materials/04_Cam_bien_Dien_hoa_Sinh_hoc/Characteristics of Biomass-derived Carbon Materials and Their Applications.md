@@ -164,7 +164,7 @@ Table 1 Several methods of biomass carbonization of product
 性能的影响,组装了固态对称超级电容器,并证明了在放电电流密度为 0. 5 A/ g 时具有 142. 1 F/ g 的比电 容。 层状多孔碳的高能量储存能力归功于其特殊设计的孔结构,即微孔和中孔共存。 
 
 
-![](_temp_ef0747de_convert__images/_temp_ef0747de_convert_.pdf-0007-04.png)
+![](_images/Characteristics of Biomass-derived Carbon Materials and Their Applications_images/_temp_eca00fd6_convert_.pdf-0007-04.png)
 
 
 图 1 碳基材料的分级孔结构示例[[][63][]] ( a) 和多孔碳的理论比容量及离子在孔中的分布示意[[][64][]] ( b) 
@@ -218,11 +218,11 @@ Table 3 Electrochemical properties of biomass carbon materials with different po
 3. 3. 1 表面官能团 自然界中的生物质材料本身富含各种元素,如氧、氮、硫等。 在炭化过程中,会产 生一些自由基和离子,这些活性物质可以与碳原子发生反应,进一步促进元素掺杂。 例如,氧自由基可 以与碳原子反应生成羰基、羧基等含氧官能团;氮离子可以与碳原子反应生成吡啶、吡咯等含氮官能 团;硫离子可以与碳原子反应生成噻吩、硫醇等含硫官能团。 通过引入官能团或杂原子可以进一步提 高生物质衍生碳材料的赝电容,增强储能性能。 生物质衍生碳材料的表面化学成分会影响其稳定性、 导电性以及在电解液中的润湿性。 例如,含氧官能团的存在可以有效改善生物质衍生碳材料在电解液 中的润湿性,增加电解液在孔隙中的渗透性。 一些亲水性基团如羧基、羰基等能通过氧化还原反应提 供赝电容,有助于提高生物质衍生碳材料的电化学性能。 精细调控含氧官能团并全面解析其多样化的 类型与比例( 图 2),对于提高碳基超级电容器的电化学性能至关重要。 
 
 
-![](_temp_ef0747de_convert__images/_temp_ef0747de_convert_.pdf-0008-09.png)
+![](_images/Characteristics of Biomass-derived Carbon Materials and Their Applications_images/_temp_eca00fd6_convert_.pdf-0008-09.png)
 
 
 
-![](_temp_ef0747de_convert__images/_temp_ef0747de_convert_.pdf-0008-10.png)
+![](_images/Characteristics of Biomass-derived Carbon Materials and Their Applications_images/_temp_eca00fd6_convert_.pdf-0008-10.png)
 
 
 **----- Start of picture text -----**<br>
@@ -242,7 +242,7 @@ Fig. 2 Types of nitrogen and sulphur functional groups in carbon matrix[[][68][]
 Zhong 等[[7]] 开创性地提出了一种烘干介导炭化技术,成功制备了富含氧官能团的芦苇衍生多孔碳 材料( 图 3)。 通过烘干预处理,有效避免了含氧官能团在制备过程中的分解,确保了材料的化学活性。 所得生物质衍生碳材料展现出高达 1 650 m[2] / g 的比表面积,并且富含氧官能团,显著提升了其电化学 性能。 作为超级电容器电极材料,该材料在 1 A/ g 的电流密度下,展现出 336. 4 F/ g 的高比电容。 在硫 酸钠电解液中组装的对称超级电容器,在 450 W/ kg 的功率密度下,实现了 18. 66 Wh / kg 的能量密度, 彰显了其在高性能储能设备中的应用潜力。 
 
 
-![](_temp_ef0747de_convert__images/_temp_ef0747de_convert_.pdf-0009-04.png)
+![](_images/Characteristics of Biomass-derived Carbon Materials and Their Applications_images/_temp_eca00fd6_convert_.pdf-0009-04.png)
 
 
 Reed-BX:芦苇在不同温度的氮气气氛中烧制 1 h 的固体粉末;OPC800 -BX:氧掺杂多孔碳 图 3 制备焙烧介导的氧掺杂多孔碳的示意[[][7][]] 
@@ -250,11 +250,11 @@ Reed-BX:芦苇在不同温度的氮气气氛中烧制 1 h 的固体粉末;OPC800
 Fig. 3 Schematic diagram for the preparation of oxygen-doped porous carbon mediated by roasting[[][7][]] 3. 3. 2 杂原子掺杂 在生物质衍生碳材料表面或碳骨架中引入氮、硼、硫、氟、磷等杂原子,可以打破 对称 π-π 共轭,改变其固有带隙,改善表面润湿性,并通过法拉第反应提供额外的赝电容增强碳材料的 电化学性能[[53]] 。 杂原子掺杂的生物质衍生碳材料可以通过选择富含杂原子的前体、化学掺杂或后处 理掺杂来实现,一般可分为外部掺杂和自掺杂两种类型。 外部掺杂是利用掺杂剂将杂原子引入到生物 质衍生碳材料中,而自掺杂则是在没有外部掺杂剂的情况下对自身含杂原子的生物质材料进行炭化和 活化( 图 4)[[68]] 。 自掺杂方法更简单,更环保,更符合绿色合成路线。 
 
 
-![](_temp_ef0747de_convert__images/_temp_ef0747de_convert_.pdf-0009-07.png)
+![](_images/Characteristics of Biomass-derived Carbon Materials and Their Applications_images/_temp_eca00fd6_convert_.pdf-0009-07.png)
 
 
 
-![](_temp_ef0747de_convert__images/_temp_ef0747de_convert_.pdf-0009-08.png)
+![](_images/Characteristics of Biomass-derived Carbon Materials and Their Applications_images/_temp_eca00fd6_convert_.pdf-0009-08.png)
 
 
 **----- Start of picture text -----**<br>

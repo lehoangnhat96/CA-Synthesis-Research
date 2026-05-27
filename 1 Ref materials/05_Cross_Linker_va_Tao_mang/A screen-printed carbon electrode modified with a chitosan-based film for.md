@@ -65,7 +65,7 @@ XPS studies performed on Chit previously loaded with metal ions (M[2+] ) indicat
 Figure 4b–c show typical XPS spectra for the Chit-CNT film before and after Cu[2+] , Pb[2+] , and As[3+] adsorption. Before M[n+] adsorption, there were two peaks in the N1s spectra at binding energies (BEs) of approximately 400.0 and 402.1 eV (see Fig. 4b). These peaks were attributed to the N atoms in the R–NH2 and R–NH3[+] groups, respectively. In an acidic solution, the following chemical reactions may be proposed to account for the adsorption of M[n+] on Chit-CNT film: 
 
 
-![](A screen-printed carbon electrode modified with a chitosan-based film for_images/image-0003-10.png)
+![](_images/A screen-printed carbon electrode modified with a chitosan-based film for_images/image-0003-10.png)
 
 
 The reaction in eq. 1 indicates protonation and deprotonation of the amino groups in Chit. At pH 4.0, lower amino groups are protonated, thus resulting in larger amounts of –NH2 (400.0 eV) than –NH3[+] (402.1 eV) in the Chit-CNT film. When M[n+] ions were added to the solution, the reaction in eq. 2 started due to sharing of the lone pair of electrons from the nitrogen atom with a M[n+] ion, with a mechanism similar to that of the reaction shown in eq. 1. However, the binding of a M[n+] ion to a nitrogen atom can 
@@ -189,7 +189,7 @@ _**International Journal of Environment, Agriculture and Biotechnology (IJEAB)  
 _**International Journal of Environment, Agriculture and Biotechnology (IJEAB)             Vol-3, Issue-1, Mar-Apr- 2018 http://dx.doi.org/10.22161/ijeab/3.2.1 ISSN: 2456-1878**_ 
 
 
-![](A screen-printed carbon electrode modified with a chitosan-based film for_images/image-0008-01.png)
+![](_images/A screen-printed carbon electrode modified with a chitosan-based film for_images/image-0008-01.png)
 
 
 **----- Start of picture text -----**<br>
@@ -199,7 +199,7 @@ MWCNT  ＋<br>Chitosan<br>n<br>Chit-CNT<br>SPCE Nafion<br>screen-printed  coatin
 _Fig. 1: Schematic illustration of the preparation of Chit-based films modified SPCE._ 
 
 
-![](A screen-printed carbon electrode modified with a chitosan-based film for_images/image-0008-03.png)
+![](_images/A screen-printed carbon electrode modified with a chitosan-based film for_images/image-0008-03.png)
 
 
 **www.ijeab.com Page** | **315** 
@@ -207,7 +207,7 @@ _Fig. 1: Schematic illustration of the preparation of Chit-based films modified 
 _**International Journal of Environment, Agriculture and Biotechnology (IJEAB)             Vol-3, Issue-1, Mar-Apr- 2018 http://dx.doi.org/10.22161/ijeab/3.2.1 ISSN: 2456-1878**_ 
 
 
-![](A screen-printed carbon electrode modified with a chitosan-based film for_images/image-0009-01.png)
+![](_images/A screen-printed carbon electrode modified with a chitosan-based film for_images/image-0009-01.png)
 
 
 **----- Start of picture text -----**<br>
@@ -217,7 +217,7 @@ _**International Journal of Environment, Agriculture and Biotechnology (IJEAB)  
 _Fig.2: SEM photographs of (a) SPCE, (b) Chit-SPCE, (c) Chit-SPCE (fracture), (d) Chit-CNT-SPCE, (e) Chit-CNT-SPCE (fracture); SEM+Hg-mapping images of (f) Chit-SPCE, (g) Chit-CNT-SPCE, (h) EDX image of Chit-Hg[2+] ._ 
 
 
-![](A screen-printed carbon electrode modified with a chitosan-based film for_images/image-0009-03.png)
+![](_images/A screen-printed carbon electrode modified with a chitosan-based film for_images/image-0009-03.png)
 
 
 **www.ijeab.com Page** | **316** 
@@ -225,7 +225,7 @@ _Fig.2: SEM photographs of (a) SPCE, (b) Chit-SPCE, (c) Chit-SPCE (fracture), (d
 _**International Journal of Environment, Agriculture and Biotechnology (IJEAB)             Vol-3, Issue-1, Mar-Apr- 2018 http://dx.doi.org/10.22161/ijeab/3.2.1 ISSN: 2456-1878**_ 
 
 
-![](A screen-printed carbon electrode modified with a chitosan-based film for_images/image-0010-01.png)
+![](_images/A screen-printed carbon electrode modified with a chitosan-based film for_images/image-0010-01.png)
 
 
 **----- Start of picture text -----**<br>
@@ -237,7 +237,7 @@ _Fig. 3: FTIR spectra of (a) Chit film, (b) Chit-Cu[2+] , (c) Chit-Hg[2+] ,_
 _(d) Chit-As[3+] ._ 
 
 
-![](A screen-printed carbon electrode modified with a chitosan-based film for_images/image-0010-04.png)
+![](_images/A screen-printed carbon electrode modified with a chitosan-based film for_images/image-0010-04.png)
 
 
 **----- Start of picture text -----**<br>
@@ -251,7 +251,7 @@ _Fig.4: (a) Intermolecular complexes of Chit-CNT with metal ions in acidic solut
 _**International Journal of Environment, Agriculture and Biotechnology (IJEAB)             Vol-3, Issue-1, Mar-Apr- 2018 http://dx.doi.org/10.22161/ijeab/3.2.1 ISSN: 2456-1878**_ 
 
 
-![](A screen-printed carbon electrode modified with a chitosan-based film for_images/image-0011-01.png)
+![](_images/A screen-printed carbon electrode modified with a chitosan-based film for_images/image-0011-01.png)
 
 
 **----- Start of picture text -----**<br>
@@ -265,7 +265,7 @@ _Fig. 5: SWASVs of various M[n+] solutions at Chit-SPCE; inset: calibration plot
 _**International Journal of Environment, Agriculture and Biotechnology (IJEAB)             Vol-3, Issue-1, Mar-Apr- 2018 http://dx.doi.org/10.22161/ijeab/3.2.1 ISSN: 2456-1878**_ 
 
 
-![](A screen-printed carbon electrode modified with a chitosan-based film for_images/image-0012-01.png)
+![](_images/A screen-printed carbon electrode modified with a chitosan-based film for_images/image-0012-01.png)
 
 
 **----- Start of picture text -----**<br>
@@ -275,7 +275,7 @@ _**International Journal of Environment, Agriculture and Biotechnology (IJEAB)  
 _Fig. 7: Comparison of Chit-SPCE and Chit-CNT-SPCE for the determination of (a) Hg[2+] (5ppm) and (b) Pb[2+] (15ppm), Cu[2+] (15ppm), Hg[2+] (15ppm)._ 
 
 
-![](A screen-printed carbon electrode modified with a chitosan-based film for_images/image-0012-03.png)
+![](_images/A screen-printed carbon electrode modified with a chitosan-based film for_images/image-0012-03.png)
 
 
 **www.ijeab.com Page** | **319** 
@@ -283,7 +283,7 @@ _Fig. 7: Comparison of Chit-SPCE and Chit-CNT-SPCE for the determination of (a) 
 _**International Journal of Environment, Agriculture and Biotechnology (IJEAB)             Vol-3, Issue-1, Mar-Apr- 2018 http://dx.doi.org/10.22161/ijeab/3.2.1 ISSN: 2456-1878**_ 
 
 
-![](A screen-printed carbon electrode modified with a chitosan-based film for_images/image-0013-01.png)
+![](_images/A screen-printed carbon electrode modified with a chitosan-based film for_images/image-0013-01.png)
 
 
 **----- Start of picture text -----**<br>

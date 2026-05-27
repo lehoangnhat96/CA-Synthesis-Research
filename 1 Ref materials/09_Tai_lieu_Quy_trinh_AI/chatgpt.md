@@ -45,7 +45,7 @@ Do tài liệu tải lên chưa cung cấp đủ mọi thông số thực nghi�
 
 
 
-![](_temp_81b70e25_convert__images/_temp_81b70e25_convert_.pdf-0002-04.png)
+![](_images/chatgpt_images/_temp_9d4eb1fe_convert_.pdf-0002-04.png)
 
 
 **----- Start of picture text -----**<br>
@@ -142,7 +142,7 @@ Kết luận của phần xác thực là: **phần nền vật liệu và N-dop
 Tôi chấm “Tương thích %” theo đúng logic tái sử dụng quy trình. Mỗi hướng ứng dụng được so với **hướng đích: electrochemical biosensor dựa trên N-CA/Fe/N-CA từ xơ dừa** . Công thức dùng là: 
 
 
-![](_temp_81b70e25_convert__images/_temp_81b70e25_convert_.pdf-0006-05.png)
+![](_images/chatgpt_images/_temp_9d4eb1fe_convert_.pdf-0006-05.png)
 
 
 Trong đó _wi_ là trọng số theo tổng 100 điểm, còn _si_ ∈ [0, 1] là mức tái sử dụng thực tế. Tôi dùng 8 tiêu chí: **vật liệu** 20, **cơ chế phát hiện** 15, **pH/điện giải** 10, **electrode fabrication** 15, **measurement technique** 15, **LOD/linear range target** 10, **selectivity/interferences** 10, **sample matrix** 5. Cấu trúc chấm này bám theo đúng các biến số mà literature về biomass-derived electrochemical sensors và heavy metal / drug sensing cho thấy là có tính quyết định đến chất lượng điện cực. 21 

@@ -3,13 +3,13 @@ Received: 24 January 2022 Revised: 23 June 2022 Accepted: 29 June 2022
 DOI: 10.1002/er.8377 
 
 
-![](_temp_29169d3b_convert__images/_temp_29169d3b_convert_.pdf-0001-03.png)
+![](_images/Organic aerogel as electro-catalytic support in_images/_temp_d8b25fa9_convert_.pdf-0001-03.png)
 
 
 ## R E V I E W P A P E R 
 
 
-![](_temp_29169d3b_convert__images/_temp_29169d3b_convert_.pdf-0001-05.png)
+![](_images/Organic aerogel as electro-catalytic support in_images/_temp_d8b25fa9_convert_.pdf-0001-05.png)
 
 
 ## Organic aerogel as electro-catalytic support in low-temperature fuel cell 
@@ -55,11 +55,11 @@ OSMAN ET AL.
 16265 
 
 
-![](_temp_29169d3b_convert__images/_temp_29169d3b_convert_.pdf-0002-03.png)
+![](_images/Organic aerogel as electro-catalytic support in_images/_temp_d8b25fa9_convert_.pdf-0002-03.png)
 
 
 
-![](_temp_29169d3b_convert__images/_temp_29169d3b_convert_.pdf-0002-04.png)
+![](_images/Organic aerogel as electro-catalytic support in_images/_temp_d8b25fa9_convert_.pdf-0002-04.png)
 
 
 FIGURE 1 History of fuel cell technology 
@@ -75,7 +75,7 @@ OSMAN ET AL.
 16266 
 
 
-![](_temp_29169d3b_convert__images/_temp_29169d3b_convert_.pdf-0003-03.png)
+![](_images/Organic aerogel as electro-catalytic support in_images/_temp_d8b25fa9_convert_.pdf-0003-03.png)
 
 
 TABLE 1 Classification and their properties organic aerogel 
@@ -101,7 +101,7 @@ Aerogels are an amazing three-dimensional (3D) nanostructure that has a very hig
 Interestingly, almost all of the outcomes of research revealed that organic aerogels used as catalyst supports in low-temperature fuel cell applications stabilize nanosized metal particles, resulting in a strong catalytic action.[21] The texture and pore size resulting in the synthesis method plays a significant role in providing robust catalytic support for fuel cell applications.[22] Alegre et al.[18] demonstrated that it is possible to minimize the rate of mass transfer at the catalyst layer based on the special pore texture of the modifiable carbon. The potential uses of organic aerogels have led to studies linked to their synthesis and use in the commercial and scientific. 
 
 
-![](_temp_29169d3b_convert__images/_temp_29169d3b_convert_.pdf-0003-08.png)
+![](_images/Organic aerogel as electro-catalytic support in_images/_temp_d8b25fa9_convert_.pdf-0003-08.png)
 
 
 FIGURE 2 (A) Different states of matter in the “density” vs “enthalpy of the system” diagram. (B) Microscopic images of the highly porous, continuous 3-D network structure of the aerogel layer 
@@ -115,7 +115,7 @@ OSMAN ET AL.
 16267 
 
 
-![](_temp_29169d3b_convert__images/_temp_29169d3b_convert_.pdf-0004-03.png)
+![](_images/Organic aerogel as electro-catalytic support in_images/_temp_d8b25fa9_convert_.pdf-0004-03.png)
 
 
 period 2016-2022. Carbon aerogels, graphene aerogels, and carbon nanotube (CNT) aerogels in low temperature fuel cells are the focus of this review paper. This paper also highlights the recent challenges and expectations of upcoming organic aerogel incorporation for catalytic fuel cell applications. 
@@ -145,7 +145,7 @@ OSMAN ET AL.
 16268 
 
 
-![](_temp_29169d3b_convert__images/_temp_29169d3b_convert_.pdf-0005-03.png)
+![](_images/Organic aerogel as electro-catalytic support in_images/_temp_d8b25fa9_convert_.pdf-0005-03.png)
 
 
 (TC = 240[�] C).[39,40] The critical drying conditions depend on the type of solvent used in the wet gel.[41] 
@@ -165,7 +165,7 @@ very good for the completion of the condensation process that takes place on the
 The process of carbonization of the polymer gel process is essential as an additional process in the entire aerogel synthesis, particularly in the production of carbon aerogel. Hanzawa et al.[46] presented studies on the physical properties of carbon aerogels carbonized under different conditions. Organic aerogels are exposed to high temperatures (above 600[�] C), as shown in Figure 3. In general, temperatures above 1473 K for the carbonization process will diminish the specific surface area of aerogels due to the excessive density of skeletal carbon. Furthermore, significantly higher electrical conductivity can be attained by completing graphitization performed at a temperature above 2273 K.[48,49] Electrochemical applications require high electrical conductivity to survive.[50] To accomplish these needs, an appropriate temperature is required to obtain a large specific surface area for aerogels. Luckily, aerogel-based graphitics such as graphene or CNTs can be skipped as they are graphitized. Physically or chemically, carbon aerogels with potassium hydroxide (KOH), sodium hydroxide (NaOH), carbon dioxide (CO2), and water (H2O) have been activated to produce extra micropores and increase the surface area.[51,52] Furthermore, several parameters, such as surface area, pores, and product pore size distribution, will be controlled by the activation of carbon aerogel.[53] 
 
 
-![](_temp_29169d3b_convert__images/_temp_29169d3b_convert_.pdf-0005-12.png)
+![](_images/Organic aerogel as electro-catalytic support in_images/_temp_d8b25fa9_convert_.pdf-0005-12.png)
 
 
 FIGURE 3 Different procedures to prepare aerogel and aerogel composite-based catalysts[47] 
@@ -175,7 +175,7 @@ OSMAN ET AL.
 16269 
 
 
-![](_temp_29169d3b_convert__images/_temp_29169d3b_convert_.pdf-0006-03.png)
+![](_images/Organic aerogel as electro-catalytic support in_images/_temp_d8b25fa9_convert_.pdf-0006-03.png)
 
 
 ## 3 | ORGANIC AEROGEL APPLICATION IN LOW TEMPERATURE FUEL CELL 
@@ -221,11 +221,11 @@ OSMAN ET AL.
 16270 
 
 
-![](_temp_29169d3b_convert__images/_temp_29169d3b_convert_.pdf-0007-03.png)
+![](_images/Organic aerogel as electro-catalytic support in_images/_temp_d8b25fa9_convert_.pdf-0007-03.png)
 
 
 
-![](_temp_29169d3b_convert__images/_temp_29169d3b_convert_.pdf-0007-04.png)
+![](_images/Organic aerogel as electro-catalytic support in_images/_temp_d8b25fa9_convert_.pdf-0007-04.png)
 
 
 FIGURE 4 Graphene aerogel in ORR performance of polymer electrode membrane fuel cell[60] 
@@ -243,11 +243,11 @@ OSMAN ET AL.
 16271 
 
 
-![](_temp_29169d3b_convert__images/_temp_29169d3b_convert_.pdf-0008-03.png)
+![](_images/Organic aerogel as electro-catalytic support in_images/_temp_d8b25fa9_convert_.pdf-0008-03.png)
 
 
 
-![](_temp_29169d3b_convert__images/_temp_29169d3b_convert_.pdf-0008-04.png)
+![](_images/Organic aerogel as electro-catalytic support in_images/_temp_d8b25fa9_convert_.pdf-0008-04.png)
 
 
 FIGURE 5 (A) Cyclic voltammograms of these catalysts: 1 M H2SO4 + 1 M CH3OH, 25[�] C, scan rate: 20 mVs[�][1] (B) details regarding starting potential, peak potential, active electrochemical surface area, mean pore size, and the average pore volume[66] 
@@ -255,7 +255,7 @@ FIGURE 5 (A) Cyclic voltammograms of these catalysts: 1 M H2SO4 + 1 M CH3OH, 25[
 FIGURE 6 Facile preparation hydrothermal process for graphene aerogels 
 
 
-![](_temp_29169d3b_convert__images/_temp_29169d3b_convert_.pdf-0008-07.png)
+![](_images/Organic aerogel as electro-catalytic support in_images/_temp_d8b25fa9_convert_.pdf-0008-07.png)
 
 
 graphene powder and deionized water using a hydrothermal process by modifications relying on Lim and team.[77] Surprisingly, graphene aerogel allows standing on tree leaves. This demonstrated the extraordinary lightness characteristics of graphene aerogel. 
@@ -269,7 +269,7 @@ OSMAN ET AL.
 16272 
 
 
-![](_temp_29169d3b_convert__images/_temp_29169d3b_convert_.pdf-0009-03.png)
+![](_images/Organic aerogel as electro-catalytic support in_images/_temp_d8b25fa9_convert_.pdf-0009-03.png)
 
 
 Yang et al.[56] represent a simple and economic bottom-up fabrication of Rh-decorated three-dimensional graphene aerogel (Rh/3D-GA) networks as efficient DMFC anode catalysts using a self-assembly method. The Rh/3D-GA hybrid architecture that results has superior electrocatalytic properties for the methanol oxidation reaction, including a large electrochemically active surface area, low onset potential, high mass activity, and outstanding long-term stability. Other research studies by Sui et al.[80] studied the zeolitic imidazolate framework ZIF-8 and developed in situ hydrothermal reconstructions that were successful in rendering N-doped graphene aerogels. The high catalytic performance of the Pt-based catalyst for methanol oxidation reaction (MOR) operation is essentially 1.8 times higher than industrial Pt/C, and its long cycle reliability is improved by approximately 18.7% compared to traditional Pt/C. Zhao et al.[81] appropriately manufactured a 3D parous graphene aerogel (3D-NGA) utilizing mixed hydrothermal self-assembly, thermal treatment, and the removal of templates. Pt/3DNGA has a high electrochemical active surface area (ECSA) of 90.7 m[2] g[�][1] and superior catalytic activity and stability compared to Pt/G and Pt/3DGA catalysts. Duan et al.[82] focused on graphene oxide aerogel (GOA) Pt nanoparticles for methanol electrooxidation that were ready to act as the catalyst support. The findings indicate that Pt/GOA seems to have a microporous 3D structure that not only speeds up mass transfer but also has a broader efficient methanol oxidation region. 
@@ -287,7 +287,7 @@ OSMAN ET AL.
 16273 
 
 
-![](_temp_29169d3b_convert__images/_temp_29169d3b_convert_.pdf-0010-03.png)
+![](_images/Organic aerogel as electro-catalytic support in_images/_temp_d8b25fa9_convert_.pdf-0010-03.png)
 
 
 used in aerogel preparation and precursor materials are factors that influence pores, pore distribution, and networking. 
@@ -315,11 +315,11 @@ OSMAN ET AL.
 16274 
 
 
-![](_temp_29169d3b_convert__images/_temp_29169d3b_convert_.pdf-0011-03.png)
+![](_images/Organic aerogel as electro-catalytic support in_images/_temp_d8b25fa9_convert_.pdf-0011-03.png)
 
 
 
-![](_temp_29169d3b_convert__images/_temp_29169d3b_convert_.pdf-0011-04.png)
+![](_images/Organic aerogel as electro-catalytic support in_images/_temp_d8b25fa9_convert_.pdf-0011-04.png)
 
 
 FIGURE 7 Top (A), and side (B) view images of graphene aerogel (GA), (C) SEM isothermal hysteresis loops of GA (D, E) morphology GA[96] 
@@ -337,7 +337,7 @@ OSMAN ET AL.
 16275 
 
 
-![](_temp_29169d3b_convert__images/_temp_29169d3b_convert_.pdf-0012-03.png)
+![](_images/Organic aerogel as electro-catalytic support in_images/_temp_d8b25fa9_convert_.pdf-0012-03.png)
 
 
 the interaction of Ni and Co bimetal-doped CNT aerogel as an anode electrocatalyst using a polyol reduction and sol-gel method. The characteristics of the metal itself increased the oxidation peak current and decreased the overpotential of the urea oxidation reaction. In addition, the properties of CNT aerogels provide a high surface area and better mass transport due to a 3D network of aerogel structures boosting the electrocatalytic activity. Other researchers are interested in this topic, where Xue et al.[99] reported the performance of N-GA resulting from pyrolysis at a variety of temperatures, indicating and focusing on cyclic voltammetry. Based on this reported finding, the lowest cathodic reduction peak, featureless slope, and electron transfer numbers higher than other samples, including commercial Pt/C under the same conditions, can be 100 achieved by using N-G750. Furthermore, a significant test of the catalyst, including the selectivity (eg, CO tolerance and methanol tolerance) and durability, also needs to be considered to measure their performance.[101,102] 
@@ -351,7 +351,7 @@ process to decrease aerogel prices and enable practical applications apart from 
 In terms of opportunities for organic aerogels, polymer- and biopolymer-based aerogels have more recently been explored and emphasized in the research area, especially in catalytic fuel cell applications. Biopolymers are used as precursors from various sources, such as polysaccharides (alginate, cellulose, pectin, chitosan, chitin), lignin, proteins, and others. The advancement of polymer aerogels with exceptional mechanical and thermal insulation via supercritical or ambient pressure drying techniques makes polymer modifications studied, such as polyimide, polyurethane, polyuric, and much more appropriate for aerospace applications in specific applications exhibiting diverse structures and properties.[103,104] Nanofiller materials such as SiO2, clay, cellulose nanofibrils (CNFs), carbon nanotubes (CNTs), and graphene or graphene oxide (GO) are often added to the polymer matrix for the production of nanofiller-polymer hybrid aerogels to obtain a strong, cohesive structure in polymer nanopores. The unique feature of aerogels regarding properties as well as their porous network at the molecular level is influenced by biopolymer 
 
 
-![](_temp_29169d3b_convert__images/_temp_29169d3b_convert_.pdf-0012-09.png)
+![](_images/Organic aerogel as electro-catalytic support in_images/_temp_d8b25fa9_convert_.pdf-0012-09.png)
 
 
 FIGURE 8 Milestones and benefits of organic aerogels in research fuel cell 
@@ -361,11 +361,11 @@ OSMAN ET AL.
 16276 
 
 
-![](_temp_29169d3b_convert__images/_temp_29169d3b_convert_.pdf-0013-03.png)
+![](_images/Organic aerogel as electro-catalytic support in_images/_temp_d8b25fa9_convert_.pdf-0013-03.png)
 
 
 
-![](_temp_29169d3b_convert__images/_temp_29169d3b_convert_.pdf-0013-04.png)
+![](_images/Organic aerogel as electro-catalytic support in_images/_temp_d8b25fa9_convert_.pdf-0013-04.png)
 
 
 FIGURE 9 Organic aerogel-based challenges 
@@ -399,7 +399,7 @@ OSMAN ET AL.
 16277 
 
 
-![](_temp_29169d3b_convert__images/_temp_29169d3b_convert_.pdf-0014-03.png)
+![](_images/Organic aerogel as electro-catalytic support in_images/_temp_d8b25fa9_convert_.pdf-0014-03.png)
 
 
 results. Organic aerogel development into catalytic low temperature fuel cells is focused on and concise in three main categories: carbon aerogels, carbon nanotube aerogels, and graphene aerogels. In addition, the high conductivity of organic aerogels provides benefit for catalytic fuel cell applications. Even though aerogel production is attentive to an application only on a laboratory scale, the nanostructured morphology and characterization can be carefully studied. These principal challenges in the commercialization of this material have great potential for industrial use. The development of organic aerogel development and deposition on aerogel surfaces in catalytic applications would receive a great deal of attention if the challenges presented in this paper can be addressed. This organic aerogel material will be a sustainable material in the future, particularly in catalytic low temperature fuel cell applications. 
@@ -469,7 +469,7 @@ OSMAN ET AL.
 16278 
 
 
-![](_temp_29169d3b_convert__images/_temp_29169d3b_convert_.pdf-0015-03.png)
+![](_images/Organic aerogel as electro-catalytic support in_images/_temp_d8b25fa9_convert_.pdf-0015-03.png)
 
 
 23. Gurav JL, Jung IK, Park HH, Kang ES, Nadargi DY. Silica aerogel: synthesis and applications. J Nanomater. 2010;2010:111. doi:10.1155/2010/409310 
@@ -541,7 +541,7 @@ OSMAN ET AL.
 16279 
 
 
-![](_temp_29169d3b_convert__images/_temp_29169d3b_convert_.pdf-0016-03.png)
+![](_images/Organic aerogel as electro-catalytic support in_images/_temp_d8b25fa9_convert_.pdf-0016-03.png)
 
 
    - Appl Catal Gen. 2014;482:318-326. doi:10.1016/j.apcata.2014. 06.011 
@@ -609,7 +609,7 @@ OSMAN ET AL.
 16280 
 
 
-![](_temp_29169d3b_convert__images/_temp_29169d3b_convert_.pdf-0017-03.png)
+![](_images/Organic aerogel as electro-catalytic support in_images/_temp_d8b25fa9_convert_.pdf-0017-03.png)
 
 
 82. Duan J, Zhang X, Yuan W, et al. Graphene oxide aerogelsupported Pt electrocatalysts for methanol oxidation. J Power Sources. 2015;285:76-79. doi:10.1016/j.jpowsour.2015.03.064 

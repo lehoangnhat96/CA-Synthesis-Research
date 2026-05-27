@@ -23,13 +23,13 @@ High-performance energy storage devices are critical for a renewable energy tran
 _Email: scott.renneckar@ubc.ca_ 
 
 
-![](_temp_13320316_convert__images/_temp_13320316_convert_.pdf-0001-12.png)
+![](_images/Lignin Nanofiber Flexible Carbon Aerogels for SelfStanding Supercapacitors_images/_temp_b1720739_convert_.pdf-0001-12.png)
 
 
 - _Supporting information for this article is available on the WWW under https://doi.org/10.1002/cssc.202400932_ 
 
 
-![](_temp_13320316_convert__images/_temp_13320316_convert_.pdf-0001-14.png)
+![](_images/Lignin Nanofiber Flexible Carbon Aerogels for SelfStanding Supercapacitors_images/_temp_b1720739_convert_.pdf-0001-14.png)
 
 
 - _© 2024 The Authors. ChemSusChem published by Wiley-VCH GmbH. This is an open access article under the terms of the Creative Commons Attribution Non-Commercial NoDerivs License, which permits use and distribution in any medium, provided the original work is properly cited, the use is noncommercial and no modifications or adaptations are made._ 
@@ -97,7 +97,7 @@ The electrochemical tests of the carbon aerogels and activated carbon aerogels w
 The specific capacitance (Cs) of the electrode was calculated from the CV curve with Equation (1). 
 
 
-![](_temp_13320316_convert__images/_temp_13320316_convert_.pdf-0003-07.png)
+![](_images/Lignin Nanofiber Flexible Carbon Aerogels for SelfStanding Supercapacitors_images/_temp_b1720739_convert_.pdf-0003-07.png)
 
 
 working electrodes and the operating voltage range, respectively. An example calculation was shown in the supporting information. 
@@ -105,7 +105,7 @@ working electrodes and the operating voltage range, respectively. An example cal
 The energy density (E; Wh/kg) and power density (P; W/kg) were calculated with Equations (3) and (4). 
 
 
-![](_temp_13320316_convert__images/_temp_13320316_convert_.pdf-0003-10.png)
+![](_images/Lignin Nanofiber Flexible Carbon Aerogels for SelfStanding Supercapacitors_images/_temp_b1720739_convert_.pdf-0003-10.png)
 
 
 Where Cs, ΔV, Δt is the specific capacitance from the GCD curve, the operating voltage range and discharge time, respectively. 
@@ -121,7 +121,7 @@ Where I, V, m, v, and ΔV are the current, potential, electrode mass, scan rate,
 The specific capacitance (Cs) for the electrode was also calculated from the discharge curve of the GCD tests by Equation (2). 
 
 
-![](_temp_13320316_convert__images/_temp_13320316_convert_.pdf-0003-17.png)
+![](_images/Lignin Nanofiber Flexible Carbon Aerogels for SelfStanding Supercapacitors_images/_temp_b1720739_convert_.pdf-0003-17.png)
 
 
 Where I, Δt, m, ΔV are the discharge current, the discharge time, and the total mass of the electrode materials in both 
@@ -139,7 +139,7 @@ Research Article doi.org/10.1002/cssc.202400932
 ChemSusChem 
 
 
-![](_temp_13320316_convert__images/_temp_13320316_convert_.pdf-0004-02.png)
+![](_images/Lignin Nanofiber Flexible Carbon Aerogels for SelfStanding Supercapacitors_images/_temp_b1720739_convert_.pdf-0004-02.png)
 
 
 **Figure 1.** SEM images of electrospun of AIS lignin fibers with 1 wt % PEO loading. (a)-(d) Effects of solution concentration (23, 25, 27 and 30 wt.%). (e)–(g) Effect of PEO loading (0.5,0.75 and 1 wt.%) in a 25 wt.% lignin solution concentration. 
@@ -149,7 +149,7 @@ entangle (Figure S5). Suspensions of fragmented electrospun fibers were isolated
 during the heat treatment. SEM analysis revealed the formation of small spheres, approximately 16 to 50 μm in diameter, consisting of fiber aggregates (Figure 2). Further, aerogels prepared from 27 wt.% solution spinning concentration from a higher fiber slurry concentration (from 0.6 to 1.0 wt.%) could form aerogels but did not show shape recovery properties after heat treatment. This suggests that larger fiber diameters exhibited poor performance in forming lignin-based fibrous aerogels through the heat stabilization process. This data 
 
 
-![](_temp_13320316_convert__images/_temp_13320316_convert_.pdf-0004-06.png)
+![](_images/Lignin Nanofiber Flexible Carbon Aerogels for SelfStanding Supercapacitors_images/_temp_b1720739_convert_.pdf-0004-06.png)
 
 
 **Figure 2.** SEM images of spheres in aerogels prepared from 27 wt.% acetone insoluble lignin nanofibers(0.5 wt.% concentration). 
@@ -169,7 +169,7 @@ Further, work with fiber aerogels derived from 25 wt.% fibers with a smaller dia
 It is evident that fiber diameter influenced the formation of aerogels. This is likely attributed to the reduced flexibility of fibers with increasing diameter, coupled with variations in the total available surface area for interactions. As a result, fibers with larger diameters were broken readily compared with those with smaller diameters after vortex mixing. This observation highlights two factors that likely impact the robustness of the 
 
 
-![](_temp_13320316_convert__images/_temp_13320316_convert_.pdf-0005-05.png)
+![](_images/Lignin Nanofiber Flexible Carbon Aerogels for SelfStanding Supercapacitors_images/_temp_b1720739_convert_.pdf-0005-05.png)
 
 
 **Figure 3.** SEM images of aerogels (a)-(b) stabilized and (c)-(d) carbonized, produced from different concentrations. (a) and (c) from 0.3%, (b) and (d) from 0.5%. Insets show SEM images at higher magnification, revealing the open cell structure of the aerogels. 
@@ -181,7 +181,7 @@ material. Firstly, entanglement with fibers requires a critical length to mainta
 Compressive mechanical tests were performed to investigate the flexibility and elastic resilience of aerogels prepared from 0.3% and 0.5% AISL fiber suspension in water. Figure 4 shows the results of cyclic loading-unloading tests at 60% strain for 100 cycles. This test showed the mechanical durability and shape recovery properties of the nanofiber aerogel, revealing 
 
 
-![](_temp_13320316_convert__images/_temp_13320316_convert_.pdf-0005-10.png)
+![](_images/Lignin Nanofiber Flexible Carbon Aerogels for SelfStanding Supercapacitors_images/_temp_b1720739_convert_.pdf-0005-10.png)
 
 
 **Figure 4.** Cyclic compression properties of lignin-based nanofibrous aerogel showing the effects of fiber concentration and heat treatment. Stabilized (a,b,e,f) and (c,d,g,h) carbonized samples with 0.3 wt.% (a,c,e,g) and 0.5 wt.% (b,d,f,h) fiber concentration. (a–d) Compressive stress as a function of time during 100 loading-unloading cycles at 60% strain only. (e–f) Stress-strain curves as a function of different compressive strains at 40%(black), 60%(red), and 80%(blue). 
@@ -217,13 +217,13 @@ Research Article doi.org/10.1002/cssc.202400932
 ChemSusChem 
 
 
-![](_temp_13320316_convert__images/_temp_13320316_convert_.pdf-0007-02.png)
+![](_images/Lignin Nanofiber Flexible Carbon Aerogels for SelfStanding Supercapacitors_images/_temp_b1720739_convert_.pdf-0007-02.png)
 
 
 **Figure 5.** SEM images of nanofibrous aerogels from different ratio of AIS and AS lignin. (a)–(c): stabilized, (d)–(f): carbonized samples. (a), (d) AISL:ASL 90:10, (b), (e) AISL:ASL 80:20 and (c),(f) AISL:ASL 70:30 samples. 
 
 
-![](_temp_13320316_convert__images/_temp_13320316_convert_.pdf-0007-04.png)
+![](_images/Lignin Nanofiber Flexible Carbon Aerogels for SelfStanding Supercapacitors_images/_temp_b1720739_convert_.pdf-0007-04.png)
 
 
 **Figure 6.** (a)–(d) Compressive stress-strain curves of (a) stabilized AIS 100, (b) carbonized AIS 100, (c) stabilized AIS 70, and (d) carbonized AIS 70 aerogels after cyclic compression tests at room temperature (e) Compressive stress as a function of time at 80 °C for carbonized AIS 70 aerogels. (f) Cyclic tests for ° ° carbonized AIS 100 and AIS70 aerogels at � 100 C and 250 C. 
@@ -243,7 +243,7 @@ Research Article doi.org/10.1002/cssc.202400932
 ChemSusChem 
 
 
-![](_temp_13320316_convert__images/_temp_13320316_convert_.pdf-0008-02.png)
+![](_images/Lignin Nanofiber Flexible Carbon Aerogels for SelfStanding Supercapacitors_images/_temp_b1720739_convert_.pdf-0008-02.png)
 
 
 **Figure 7.** ( **a** ) CV curves of the FCAs at the 20 mVs[�][1] scan rate and ( **b** ) CV curves of AIS70 FCA with different scan rates ( **c** ) GCD curves of the FCAs at 0.5 Ag[�][1] current density and ( **d** ) GCD cures of the 70–30 FCA sample at different current densities ( **e** ) Nyquist plots of FCAs (f) The lower range (0–2 ohms) of Nyquist plots of (e) 
@@ -269,7 +269,7 @@ Research Article doi.org/10.1002/cssc.202400932
 ChemSusChem 
 
 
-![](_temp_13320316_convert__images/_temp_13320316_convert_.pdf-0009-02.png)
+![](_images/Lignin Nanofiber Flexible Carbon Aerogels for SelfStanding Supercapacitors_images/_temp_b1720739_convert_.pdf-0009-02.png)
 
 
 **Figure 8.** ( **a** ) CV curves of the AFCAs at the 20 mV/s scan rate and ( **b** ) CV curves of 70–30 AFCA with various scan rates; ( **c** ) GCD curves of the AFCAs at 0.5 Ag[�][1] current density and ( **d** ) GCD cures of the 70–30 AFCA sample at different current densities; ( **e** ) Nyquist plots of AFCAs (insert: a zoomed graph at range of 1–2 ohms) (f) SEM image of activated carbon fibers of aerogel (insert: a SEM image of cross-section of the activated fiber in large magnification of the red box). 

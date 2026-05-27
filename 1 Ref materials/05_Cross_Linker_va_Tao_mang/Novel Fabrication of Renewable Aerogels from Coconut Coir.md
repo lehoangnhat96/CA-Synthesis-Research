@@ -1,13 +1,13 @@
 31 
 
 
-![](_temp_b82ffd96_convert__images/_temp_b82ffd96_convert_.pdf-0001-01.png)
+![](_images/Novel Fabrication of Renewable Aerogels from Coconut Coir_images/_temp_3a22e789_convert_.pdf-0001-01.png)
 
 
 ## _**CHEMICAL ENGINEERING TRANSACTIONS**_ 
 
 
-![](_temp_b82ffd96_convert__images/_temp_b82ffd96_convert_.pdf-0001-03.png)
+![](_images/Novel Fabrication of Renewable Aerogels from Coconut Coir_images/_temp_3a22e789_convert_.pdf-0001-03.png)
 
 
 **----- Start of picture text -----**<br>
@@ -61,7 +61,7 @@ To obtain the CFs aerogel, PVA and XTG were used as the binders, 0.60 wt% PVA an
 The bulk density of recycled CFs aerogel was obtained by measuring the volume and weight of the cylindershaped material. The porosity, φ (%) of each sample was determined by Eq(1) (Luu et al., 2020). 
 
 
-![](_temp_b82ffd96_convert__images/_temp_b82ffd96_convert_.pdf-0002-11.png)
+![](_images/Novel Fabrication of Renewable Aerogels from Coconut Coir_images/_temp_3a22e789_convert_.pdf-0002-11.png)
 
 
 where ρa (g/cm[3] ) is the density of aerogel and ρb is average density of components determined by Eq(2). ρCF (1.2 g/cm[3] ), ρPVA (1.2 g/cm[3] ), ρXTG (1.5 g/cm[3] ) are the density of the CFs, PVA, and XTG. CCF, CPVA , CXTG are the contents of the CFs, PVA, and XTG. 
@@ -79,7 +79,7 @@ equilibrated for 48 h. The difference between the initial and final pH (ΔpH = p
 Adsorption experiments are designed to survey the interaction time (10-70 min), pH (3-11), and initial dye concentration (12.5 - 100 mg/L) on the MB adsorption capacity of the CFs aerogel. Briefly, 50 mg of adsorbent was immersed in 20 mL of MB solution at room temperature. After a fixed adsorption time, the remaining amount of MB in the aqueous solutions was analysed by the Agilent Cary 60 UV-Vis spectrophotometer at a wavelength of 640 nm. The adsorption capacity, qe (mg/g) and removal efficiency, H % of CFs aerogel were calculated by the following Eqs(3) and (4) (Su et al., 2020). 
 
 
-![](_temp_b82ffd96_convert__images/_temp_b82ffd96_convert_.pdf-0003-04.png)
+![](_images/Novel Fabrication of Renewable Aerogels from Coconut Coir_images/_temp_3a22e789_convert_.pdf-0003-04.png)
 
 
 where C0 and Ce (mg/L) are the initial and final MB concentration. 𝑉 (L) is the volume of MB solution, and 𝑚 (g) was the weight of the CFs aerogel before adsorption. 
@@ -121,7 +121,7 @@ The pHzpc confirms the chemical property of the CFs aerogel surface, which equal
 Figure 1b shows the FTIR spectra of pretreated CFs and the as-fabricated aerogel. The broad absorption band at around 3,575 cm[−1] represents of O-H stretching vibration of hydroxyl groups (Mar'atul et al., 2019). The absorption band at 2,900 cm[−1] is originated from sp[3] -CH stretching vibration involved in methyl groups. An intensified and overlapped peak of about 1,737 cm[−1] is assigned to the acetyl groups of hemicellulose and the carbonyl groups in native lignin structure. The absorption band at a wavenumber of 1,657 cm[‒1] is supposed C=O stretching. While the peak around 1,514 cm[−1] indicates the ring stretching vibration of aromatic C=C in lignin, the band located at 1,265 cm[−1] is the stretching vibration of acetyl groups in hemicellulose. The skeletal deformation of pyranose rings (1,054 cm[−1] ) and rocking vibrations of C-H (897 cm[−1] ) have been associated with the typical characteristic of natural cellulose (Quoc et al., 2020). 
 
 
-![](_temp_b82ffd96_convert__images/_temp_b82ffd96_convert_.pdf-0004-04.png)
+![](_images/Novel Fabrication of Renewable Aerogels from Coconut Coir_images/_temp_3a22e789_convert_.pdf-0004-04.png)
 
 
 **----- Start of picture text -----**<br>
@@ -129,7 +129,7 @@ Figure 1b shows the FTIR spectra of pretreated CFs and the as-fabricated aerogel
 
 
 
-![](_temp_b82ffd96_convert__images/_temp_b82ffd96_convert_.pdf-0004-05.png)
+![](_images/Novel Fabrication of Renewable Aerogels from Coconut Coir_images/_temp_3a22e789_convert_.pdf-0004-05.png)
 
 
 _Figure 1: (a) FE-SEM images, (b) FTIR spectra of pretreated CFs and CFs aerogel_ 
@@ -147,7 +147,7 @@ The effect of pH is extremely essential in adsorption of investigation particula
 35 
 
 
-![](_temp_b82ffd96_convert__images/_temp_b82ffd96_convert_.pdf-0005-01.png)
+![](_images/Novel Fabrication of Renewable Aerogels from Coconut Coir_images/_temp_3a22e789_convert_.pdf-0005-01.png)
 
 
 **----- Start of picture text -----**<br>
@@ -155,7 +155,7 @@ The effect of pH is extremely essential in adsorption of investigation particula
 
 
 
-![](_temp_b82ffd96_convert__images/_temp_b82ffd96_convert_.pdf-0005-02.png)
+![](_images/Novel Fabrication of Renewable Aerogels from Coconut Coir_images/_temp_3a22e789_convert_.pdf-0005-02.png)
 
 
 _Figure 2: Effect of (a) contact time, (b) pH on adsorption capacity of the CFs aerogel_ 
@@ -169,7 +169,7 @@ Figure 3a shows an initial MB-dependent adsorption behaviour of CF aerogel. When
 As seen from Figure 3b and Table 1, the R[2] value of the pseudo-second-order model is higher than that of the pseudo-first-order model in two experiments with different initial MB concentrations of 25 and 50 mg/L. The qe values calculated results from the pseudo-second-order model (12.35 and 23.25 mg/g for MB concentrations of 25 and 50 mg/L) are almost as same as the experiment results (12.53 and 24.75 mg/g). The pseudo-second-order model is the best fit to describe the MB adsorption kinetics of the CFs aerogel. It also suggests that chemisorption dominates physisorption during the adsorption process (Su et al., 2020). 
 
 
-![](_temp_b82ffd96_convert__images/_temp_b82ffd96_convert_.pdf-0005-08.png)
+![](_images/Novel Fabrication of Renewable Aerogels from Coconut Coir_images/_temp_3a22e789_convert_.pdf-0005-08.png)
 
 
 **----- Start of picture text -----**<br>
@@ -177,7 +177,7 @@ As seen from Figure 3b and Table 1, the R[2] value of the pseudo-second-order mo
 
 
 
-![](_temp_b82ffd96_convert__images/_temp_b82ffd96_convert_.pdf-0005-09.png)
+![](_images/Novel Fabrication of Renewable Aerogels from Coconut Coir_images/_temp_3a22e789_convert_.pdf-0005-09.png)
 
 
 _Figure 3: (a) Effect of initial MB concentration, (b) the data fitted to pseudo-second-order models_ 

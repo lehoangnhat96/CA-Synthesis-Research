@@ -3,27 +3,27 @@ This article is licensed under CC-BY-NC-ND 4.0
 Review 
 
 
-![](_temp_791eb22c_convert__images/_temp_791eb22c_convert_.pdf-0001-03.png)
+![](_images/A Review on Recent Trends and Future Developments in Electrochemical_images/_temp_786f020d_convert_.pdf-0001-03.png)
 
 
 
-![](_temp_791eb22c_convert__images/_temp_791eb22c_convert_.pdf-0001-04.png)
+![](_images/A Review on Recent Trends and Future Developments in Electrochemical_images/_temp_786f020d_convert_.pdf-0001-04.png)
 
 
 
-![](_temp_791eb22c_convert__images/_temp_791eb22c_convert_.pdf-0001-05.png)
+![](_images/A Review on Recent Trends and Future Developments in Electrochemical_images/_temp_786f020d_convert_.pdf-0001-05.png)
 
 
 
-![](_temp_791eb22c_convert__images/_temp_791eb22c_convert_.pdf-0001-06.png)
+![](_images/A Review on Recent Trends and Future Developments in Electrochemical_images/_temp_786f020d_convert_.pdf-0001-06.png)
 
 
 
-![](_temp_791eb22c_convert__images/_temp_791eb22c_convert_.pdf-0001-07.png)
+![](_images/A Review on Recent Trends and Future Developments in Electrochemical_images/_temp_786f020d_convert_.pdf-0001-07.png)
 
 
 
-![](_temp_791eb22c_convert__images/_temp_791eb22c_convert_.pdf-0001-08.png)
+![](_images/A Review on Recent Trends and Future Developments in Electrochemical_images/_temp_786f020d_convert_.pdf-0001-08.png)
 
 
 http://pubs.acs.org/journal/acsodf 
@@ -41,7 +41,7 @@ Rimmy Singh,* Ruchi Gupta, Deepak Bansal, Rachna Bhateria, and Mona Sharma*
 ABSTRACT: Electrochemical methods and devices have ignited prodigious interest for sensing and monitoring. The greatest challenge for science is far from meeting the expectations of consumers. Electrodes made of two-dimensional (2D) materials such as graphene, metal−organic frameworks, MXene, and transition metal dichalcogenides as well as alternative electrochemical sensing methods offer potential to improve selectivity, sensitivity, detection limit, and response time. Moreover, these advancements have accelerated the development of wearable and point-of-care electrochemical sensors, opening new possibilities and pathways for their applications. This Review presents a critical discussion of the recent developments and trends in electrochemical sensing. 
 
 
-![](_temp_791eb22c_convert__images/_temp_791eb22c_convert_.pdf-0001-16.png)
+![](_images/A Review on Recent Trends and Future Developments in Electrochemical_images/_temp_786f020d_convert_.pdf-0001-16.png)
 
 
 ## ■ **[INTRODUCTION]** 
@@ -55,7 +55,7 @@ assays as they require just a few microliters of volume cells and swapped for a 
 Figure 1 illustrates three electrodes of an electrochemical sensor: the “working electrode” (WE), the “counter electrode” (CE), and the “reference electrode” (RE). An electrocatalytic reaction occurs in WE and is enhanced by the addition of various nanomaterials. Alahi and Mukhopadhyay[14] describe that CE closes the circuit, ensuring that electrons continue to flow, while RE ensures that WE potential is applied correctly. Nowadays, various electroanalytical methods have been 
 
 
-![](_temp_791eb22c_convert__images/_temp_791eb22c_convert_.pdf-0001-22.png)
+![](_images/A Review on Recent Trends and Future Developments in Electrochemical_images/_temp_786f020d_convert_.pdf-0001-22.png)
 
 
 Received: October 14, 2023 Revised: January 7, 2024 Accepted: January 12, 2024 Published: February 6, 2024 
@@ -71,7 +71,7 @@ https://doi.org/10.1021/acsomega.3c08060 _ACS Omega_ 2024, 9, 7336−7356
 Review 
 
 
-![](_temp_791eb22c_convert__images/_temp_791eb22c_convert_.pdf-0002-03.png)
+![](_images/A Review on Recent Trends and Future Developments in Electrochemical_images/_temp_786f020d_convert_.pdf-0002-03.png)
 
 
 Figure 1. Schematic diagram of an electrochemical sensor. Reprinted with permission from ref 22. Copyright 2021 Elsevier. 
@@ -109,7 +109,7 @@ sensing by overcoming the shortcomings of original MOFs, i.e., by surface functi
 For improving electrochemical sensor’s sensitivity, uniform distribution and highly accessible active sites have become obligatory for MOF-based electrocatalysts (Figure 2).[59] It is 
 
 
-![](_temp_791eb22c_convert__images/_temp_791eb22c_convert_.pdf-0003-08.png)
+![](_images/A Review on Recent Trends and Future Developments in Electrochemical_images/_temp_786f020d_convert_.pdf-0003-08.png)
 
 
 Figure 2. Schematic showing the relationship between the structure of MOF and their analytical performance.[62][,][66][−][72] Reprinted with permission from ref 73. Copyright 2020 Elsevier. 
@@ -174,7 +174,7 @@ https://doi.org/10.1021/acsomega.3c08060 _ACS Omega_ 2024, 9, 7336−7356
 Review 
 
 
-![](_temp_791eb22c_convert__images/_temp_791eb22c_convert_.pdf-0005-03.png)
+![](_images/A Review on Recent Trends and Future Developments in Electrochemical_images/_temp_786f020d_convert_.pdf-0005-03.png)
 
 
 Figure 3. (A) MXene-based wristband laminated on human skin as a wearable biosensor.[98] (B) PEDOT:PSS polymer on polyethylene terephthalate (PETE) substrate for 3D printing.[99] (C) Synthesis of MoS2 on a flexible Au−PI electrode (MoS2−Au-polyimide flexible sensor).[100] Reprinted with permission from ref 101. Copyright 2020 KeAi. 
@@ -190,7 +190,7 @@ https://doi.org/10.1021/acsomega.3c08060 _ACS Omega_ 2024, 9, 7336−7356
 Review 
 
 
-![](_temp_791eb22c_convert__images/_temp_791eb22c_convert_.pdf-0006-03.png)
+![](_images/A Review on Recent Trends and Future Developments in Electrochemical_images/_temp_786f020d_convert_.pdf-0006-03.png)
 
 
 Figure 4. Structure and electronic properties of transition metal dichalcogenides (TMCDs). (a) TMDCs with single layer atomic structure. (b) “Periodic table” of known layered TMDCs. (c) Band structure evolution of 2H-MoS2. (d) Band structure representation of monolayer 2HMoS2.[122][,][124] Reprinted with permission from ref 125. Copyright 2017 Springer Nature. 
@@ -220,7 +220,7 @@ https://doi.org/10.1021/acsomega.3c08060 _ACS Omega_ 2024, 9, 7336−7356
 Review 
 
 
-![](_temp_791eb22c_convert__images/_temp_791eb22c_convert_.pdf-0007-03.png)
+![](_images/A Review on Recent Trends and Future Developments in Electrochemical_images/_temp_786f020d_convert_.pdf-0007-03.png)
 
 
 Figure 5. (A) Electrochemical sensing representation. (B) Voltammetry through classical electrochemical cell. Reprinted with permission from ref 131. Copyright 2020 Royal Society of Chemistry. 
@@ -230,7 +230,7 @@ the detection of chlorpromazine (CPZ). The anodic behavior of CPZ was studied by
 **Potentiometric.** The potential difference between two electrodes is measured using potentiometric sensors when there is no flow of current between them. As a result, the analytical quantity of interest, typically analyte concentration, can be determined from the measured potential (Figure 6).[137] 
 
 
-![](_temp_791eb22c_convert__images/_temp_791eb22c_convert_.pdf-0007-07.png)
+![](_images/A Review on Recent Trends and Future Developments in Electrochemical_images/_temp_786f020d_convert_.pdf-0007-07.png)
 
 
 Figure 6. Schematic to show the role of nanoparticles as labels in potentiometric biosensors. Reprinted with permission from ref 140. Copyright 2013 Elsevier. 
@@ -260,13 +260,13 @@ https://doi.org/10.1021/acsomega.3c08060 _ACS Omega_ 2024, 9, 7336−7356
 Review 
 
 
-![](_temp_791eb22c_convert__images/_temp_791eb22c_convert_.pdf-0008-03.png)
+![](_images/A Review on Recent Trends and Future Developments in Electrochemical_images/_temp_786f020d_convert_.pdf-0008-03.png)
 
 
 Figure 7. Representation of functionalized components and hybrid electrodes with high surface area and superior conductivity due to porous supporting components. Reprinted with permission from ref 156. Copyright 2018 Wiley. 
 
 
-![](_temp_791eb22c_convert__images/_temp_791eb22c_convert_.pdf-0008-05.png)
+![](_images/A Review on Recent Trends and Future Developments in Electrochemical_images/_temp_786f020d_convert_.pdf-0008-05.png)
 
 
 Figure 8. (A) Glucose oxidation via fabrication of Fe@ZnO/SPE and Fe@ZnO nanoparticles. (B) Graph showing 15 _μ_ M glucose in 0.1 M PBS buffer (pH = 7.4) for cyclic voltammetry of SPE/ZnO and SPE/Fe@ZnO. (C) I−V analysis of glucose in range of 5−45 _μ_ M on SPE/Fe@ZnO, and the (D) corresponding calibration curve. Reprinted with permission from ref 164. Copyright 2021 Elsevier. 
@@ -296,7 +296,7 @@ Using a drop-cast method, for nonenzymatic glucose sensing, Fe@ZnO ceramic compo
 Recent studies have shown that electrochemical sensors for pesticides detection are becoming increasingly sought-after by researchers.[173][,][30][,][174] In addition, on-site detection of pesticides has been made possible by portable instruments, which are not only convenient but also save time without compromising sensitivity and selectivity. The acetylcholinesterase (AChE) biosensor[175][−][177] is one of the most widely used electrochemical sensors for pesticide detection. There have been several studies using molecularly imprinted polymer-based sensors, and aptasensors.[178][,][179] It has been reported that the “pesticide aptamer” is frequently immobilized on the surface of the working electrode in electric aptasensors that use polydopamine (PDA).[179] Using the PDA-based electrochemical aptasensor, the target pesticide binds to the immobilized aptamer and creates an electrical response. Aptamers have been immobilized on electrode surfaces with a wide variety of materials. The immobilization of aptamers can be achieved using reduced graphene oxide-silver nanoparticles,[180] reduced graphene oxide/functionalized multiwalled carbon nanotube nanocomposite[181] and polydimethylsiloxane.[182] Immobilization techniques using PDAs are increasingly being used by researchers.[183][−][185] Li et al. fabricated a glassy carbon electrode (GCE) for the electrochemical detection of carbofuran in tomatoes, consisting of PDA-reduced graphene-gold nanoparticles immobilized with AChE enzyme (PDA@rGO@GNP). Based on their results, the biosensor was found to be electrically conductive and sensitive to carbofuran pesticides.[186] A further study by Ha et al. immobilized AChE enzyme on a GCE using PDA-graphene composite to determine carbaryl pesticide concentrations in water. Carbaryl pesticide residues in water were also detected with good sensitivity.[173] PDA@Fe2O4-MIP magnetic nanoparticles were prepared by Miao et al. using Fe3O4 magnetic nanoparticles as dummy templates, bisphenol molecules as functional molecules, and dopamine as the functional molecule[183] (Figure 9A). As a result of removing the template from the PDA layer, they found that recognition cavities appeared on the PDA layer and could be used to detect and 
 
 
-![](_temp_791eb22c_convert__images/_temp_791eb22c_convert_.pdf-0009-08.png)
+![](_images/A Review on Recent Trends and Future Developments in Electrochemical_images/_temp_786f020d_convert_.pdf-0009-08.png)
 
 
 Figure 9. Pesticide detection using electrochemical sensors based on (A) magnetic ferroferric oxide/PDA MIP composite. Reprinted with permission from ref 183. Copyright 2020 Elsevier. (B) PDA-Au nanoparticles. Reprinted with permission from ref 184. Copyright 2019 Elsevier. 
@@ -312,7 +312,7 @@ https://doi.org/10.1021/acsomega.3c08060 _ACS Omega_ 2024, 9, 7336−7356
 Review 
 
 
-![](_temp_791eb22c_convert__images/_temp_791eb22c_convert_.pdf-0010-03.png)
+![](_images/A Review on Recent Trends and Future Developments in Electrochemical_images/_temp_786f020d_convert_.pdf-0010-03.png)
 
 
 Figure 10. Images showing drug analysis through (A) epidermal and (B) microneedle-based electrochemical sensors.[198][−][203] Reprinted with permission from ref 204. Copyright 2020 The American Chemical Society. 
@@ -342,7 +342,7 @@ https://doi.org/10.1021/acsomega.3c08060 _ACS Omega_ 2024, 9, 7336−7356
 Review 
 
 
-![](_temp_791eb22c_convert__images/_temp_791eb22c_convert_.pdf-0011-03.png)
+![](_images/A Review on Recent Trends and Future Developments in Electrochemical_images/_temp_786f020d_convert_.pdf-0011-03.png)
 
 
 Figure 11. Image represents glove-based wearable sensors with application and overview in drug detection.[210][−][213] Reprinted with permission from ref 204. Copyright 2020 The American Chemical Society. 
@@ -360,7 +360,7 @@ https://doi.org/10.1021/acsomega.3c08060 _ACS Omega_ 2024, 9, 7336−7356
 Review 
 
 
-![](_temp_791eb22c_convert__images/_temp_791eb22c_convert_.pdf-0012-02.png)
+![](_images/A Review on Recent Trends and Future Developments in Electrochemical_images/_temp_786f020d_convert_.pdf-0012-02.png)
 
 
 **----- Start of picture text -----**<br>
@@ -368,7 +368,7 @@ http://pubs.acs.org/journal/acsodf<br>**----- End of picture text -----**<br>
 
 
 
-![](_temp_791eb22c_convert__images/_temp_791eb22c_convert_.pdf-0012-03.png)
+![](_images/A Review on Recent Trends and Future Developments in Electrochemical_images/_temp_786f020d_convert_.pdf-0012-03.png)
 
 
 Figure 12. Representation of synthetic route of glucose sensor based on stretchable fiber. (a−c) Synthesis of stretchable Au fiber (counter electrode), the Au/PB/Go _x_ /Ch fiber (working electrode), and the Au/Ag/AgCl fiber (reference electrode), respectively. (d, e) Glucose sensors integrated into an elastic textile. Reprinted with permission from ref 221. Copyright 2012 Royal Society of Chemisty. 
@@ -398,7 +398,7 @@ covalent cross-linking, Higson’s group immobilized lactate oxidase using highl
 **Microneedle Sensors.** Rapid development in wearable devices will empower consumers to observe their health conditions at the initial level with the same ease as mobility and vital signs are tracked by smartwatches and cellphones. A microneedle-based transdermal sensor is an ideal candidate with respect to evolving era of wearables to help synergize the prerequisite of “dermal interstitial fluid” (ISF) as a valuable counterpart of clinical indicators with painless skin pricking to enable real-time diagnostics. Microneedle sensing began with the extraction of ISF along with either an on-chip or off-chip instrumentation. In recent years, the focus has shifted toward the assembly of electrochemical biosensors on microneedles’ tips to enable direct chemical measurements[224] (Figure 13). According to McAllister et al. microneedles were originally developed to facilitate permeation of drugs through stratum corneum, thus helping to prevent substantial, charged, and/or polar agents from crossing the skin.[225] Beneath the microneedle array, electrochemical electrodes were implemented for glucose detection; however, this array is also used for the detection of passive diffusion of interstitial fluid from human finger. Miller and Narayan demonstrated passive diffusion of interstitial fluid using hollow microneedles.[226] Wearable 
 
 
-![](_temp_791eb22c_convert__images/_temp_791eb22c_convert_.pdf-0013-06.png)
+![](_images/A Review on Recent Trends and Future Developments in Electrochemical_images/_temp_786f020d_convert_.pdf-0013-06.png)
 
 
 Figure 13. For therapeutic drug monitoring in ISF an autonomous L- Dopa system and closed loop autonomous microneedle system is demonstrated toward personalized therapy and optimal therapeutic outcome. Reprinted with permission from ref 204. Copyright 2020 The American Chemical Society. 

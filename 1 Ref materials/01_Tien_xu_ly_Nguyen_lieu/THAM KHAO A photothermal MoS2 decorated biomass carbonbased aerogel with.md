@@ -1,7 +1,7 @@
 ## RSC Advances 
 
 
-![](_temp_b9a52b7f_convert__images/_temp_b9a52b7f_convert_.pdf-0001-02.png)
+![](_images/THAM KHAO A photothermal MoS2 decorated biomass carbonbased aerogel with_images/_temp_a03c6064_convert_.pdf-0001-02.png)
 
 
 ## PAPER 
@@ -11,7 +11,7 @@
 **View Journal | View Issue** 
 
 
-![](_temp_b9a52b7f_convert__images/_temp_b9a52b7f_convert_.pdf-0001-06.png)
+![](_images/THAM KHAO A photothermal MoS2 decorated biomass carbonbased aerogel with_images/_temp_a03c6064_convert_.pdf-0001-06.png)
 
 
 Cite this: RSC Adv., 2024, 14, 3085 
@@ -53,7 +53,7 @@ for the removal of Cu metal.[20,21] As an illustration, Zhao et al. devised poly
 Here, a novel photothermal-assisted aerogel with both a photothermal effect and excellent adsorption capacity was devised for the treatment of Cu heavy metal ions under seawater acidication. Specically, the biomass carbon was decorated by MoS2, and the MoS2/C-based aerogel was constructed by directional freeze-drying technology. The MoS2/C-based aerogel was then investigated for the removal of Cu(II) ions from the marine environment together with the illustration of the interrelated removal mechanisms. Furthermore, the main points were the inuence of the photothermal effect on the removal of Cu(II) ions. The kinetics and isotherms of the adsorption process of Cu(II) ions on MCA were studied, and the effects of pH on the adsorption of Cu(II) ions for MCA were also explored. Recyclability tests of the MCA in actual seawater were carried out to assess the feasibility of real-world applications. Structural changes on MCA during the adsorption process were demonstrated to propose the adsorption mechanisms of the Cu(II) ions by MCA (Fig. 1). 
 
 
-![](_temp_b9a52b7f_convert__images/_temp_b9a52b7f_convert_.pdf-0002-06.png)
+![](_images/THAM KHAO A photothermal MoS2 decorated biomass carbonbased aerogel with_images/_temp_a03c6064_convert_.pdf-0002-06.png)
 
 
 Fig. 1 Fully developed MoS2/C-based aerogel for the application of Cu(II) heavy metal ion removal under seawater acidification. 
@@ -89,7 +89,7 @@ Paper
 (EDX) to study the elemental distribution. X-ray photoelectron spectroscopy (XPS, ESCALAB 250Xi, ThermoFisher Scientic, America) was performed to validate the surface elements of samples. A universal testing machine (CLY2768TM-10, USA) was used to test the mechanical strength of the sample. The thermal conductivity (l) of the sample was obtained using the following formula: 
 
 
-![](_temp_b9a52b7f_convert__images/_temp_b9a52b7f_convert_.pdf-0003-05.png)
+![](_images/THAM KHAO A photothermal MoS2 decorated biomass carbonbased aerogel with_images/_temp_a03c6064_convert_.pdf-0003-05.png)
 
 
 where q is the heat ux, dT is the temperature difference, and dx refers to the distance difference. 
@@ -97,7 +97,7 @@ where q is the heat ux, dT is the temperature difference, and dx refers to th
 The thermal resistance (R) was calculated using the equation: 
 
 
-![](_temp_b9a52b7f_convert__images/_temp_b9a52b7f_convert_.pdf-0003-08.png)
+![](_images/THAM KHAO A photothermal MoS2 decorated biomass carbonbased aerogel with_images/_temp_a03c6064_convert_.pdf-0003-08.png)
 
 
 where l is the thermal conductivity of the MCA, and d is the thickness. 
@@ -107,7 +107,7 @@ Cu[2+] . The effects of pH (1, 2, 3, 4, 5, and 6) and time (10, 20, 30, 50, 60, 
 The adsorption capacities (qe) of Cu[2+] on MAC and CA were calculated using the following formula:[29] 
 
 
-![](_temp_b9a52b7f_convert__images/_temp_b9a52b7f_convert_.pdf-0003-12.png)
+![](_images/THAM KHAO A photothermal MoS2 decorated biomass carbonbased aerogel with_images/_temp_a03c6064_convert_.pdf-0003-12.png)
 
 
 where ct (mg L[−][1] ) is the nal concentration of Cu[2+] , c0 (mg L[−][1] ) is the initial concentration of Cu[2+] , m (g) is the mass of the adsorbent, and v (mL) is the volume of the solution. 
@@ -121,7 +121,7 @@ A series of Cu(II) (Cu[2+] ) solutions at different concentrations ranging from 
 For the adsorption isotherm experiments, 0.0200 g MAC and CA were immersed in 100 mL of Cu(II) solution at different initial concentrations, and shaken at 180 rpm in the dark at 25 °C, 35 ° C, and 45 °C for 12 h, respectively. The obtained data was 
 
 
-![](_temp_b9a52b7f_convert__images/_temp_b9a52b7f_convert_.pdf-0003-18.png)
+![](_images/THAM KHAO A photothermal MoS2 decorated biomass carbonbased aerogel with_images/_temp_a03c6064_convert_.pdf-0003-18.png)
 
 
 Fig. 2 (a) Schematic illustration for preparing MoS2/C composites for Cu(II) ion removal; SEM images of (b) coconut shell-based biomass carbon and (c) and (d) MoS2/C composites; (e) elemental mapping images of Mo, S, and C in MoS2/C composites. 
@@ -139,11 +139,11 @@ Paper
 assessed using the Langmuir and Freundlich isotherm models:[30,31] 
 
 
-![](_temp_b9a52b7f_convert__images/_temp_b9a52b7f_convert_.pdf-0004-05.png)
+![](_images/THAM KHAO A photothermal MoS2 decorated biomass carbonbased aerogel with_images/_temp_a03c6064_convert_.pdf-0004-05.png)
 
 
 
-![](_temp_b9a52b7f_convert__images/_temp_b9a52b7f_convert_.pdf-0004-06.png)
+![](_images/THAM KHAO A photothermal MoS2 decorated biomass carbonbased aerogel with_images/_temp_a03c6064_convert_.pdf-0004-06.png)
 
 
 where qe (mg g[−][1] ) is the equilibrium adsorption ability; qm (mg g[−][1] ) represents the maximum adsorption capacity of the adsorbents at the monolayer; KF (L mg[−][1] ) and KL are the equilibrium constants of the Langmuir and Freundlich isotherm models, respectively; n (mg g[−][1] ) is an empirical coefficient for Freundlich isotherm models in connection with the adsorption capacity. 
@@ -151,11 +151,11 @@ where qe (mg g[−][1] ) is the equilibrium adsorption ability; qm (mg g[−][1]
 Adsorption kinetic experiments of MAC and CA at different adsorption times were conducted to give valuable evidence for the reaction pathways and the possible adsorption mechanisms. The adsorption experiments were performed at 25 °C with a pH of 6.0, and the data was described using the pseudorst-order and pseudo-second-order models. The calculation formulas of the model are as follows:[32,33] 
 
 
-![](_temp_b9a52b7f_convert__images/_temp_b9a52b7f_convert_.pdf-0004-09.png)
+![](_images/THAM KHAO A photothermal MoS2 decorated biomass carbonbased aerogel with_images/_temp_a03c6064_convert_.pdf-0004-09.png)
 
 
 
-![](_temp_b9a52b7f_convert__images/_temp_b9a52b7f_convert_.pdf-0004-10.png)
+![](_images/THAM KHAO A photothermal MoS2 decorated biomass carbonbased aerogel with_images/_temp_a03c6064_convert_.pdf-0004-10.png)
 
 
 where k1 (min[−][1] ) and k2 (g mg[−][1] min[−][1] ) are the rate constants of the pseudo-rst-order and pseudo-second-order models, respectively; qt (mg g[−][1] ) is the adsorption capacity of the absorbents at different times. 
@@ -169,7 +169,7 @@ A solar simulator (CEL-S500, Zhongjiaojinyuan, Beijing) equipped with an optical
 The schematic of the fabrication of MoS2/C composites is presented in Fig. 2a. The coconut shell-based biomass carbon was employed as the substrate for the growth of MoS2, and the MoS2 nanoower grew on the surface of the coconut shell-based ber via a facile hydrothermal reaction. As depicted in Fig. 2b, the FESEM image for the coconut shell-based ber presented a general view and indicated that the ber exhibited a porous hollow-tube structure with smooth walls. The unique structure of the coconut shell-based ber not only was benecial to MoS2 nanosheets via in situ fabrication, but also could facilitate mass transfer and ion adsorption. Compared with the carbon ber, the MoS2/C composites showed ower-like coating layers, which were generated by the self-assembly of MoS2 nanosheets (Fig. 2c and d). The elemental distribution of MoS2/C composites, shown in Fig. 2e, suggested the uniform distribution of Mo, S, and C elements. In addition, the high-resolution transmission electron microscopy (HRTEM) images of the MoS2/C composites, shown in Fig. 3a and b, illustrated that the MoS2 nanoower was clearly observed on the surface. The interlayer 
 
 
-![](_temp_b9a52b7f_convert__images/_temp_b9a52b7f_convert_.pdf-0004-16.png)
+![](_images/THAM KHAO A photothermal MoS2 decorated biomass carbonbased aerogel with_images/_temp_a03c6064_convert_.pdf-0004-16.png)
 
 
 Fig. 3 (a) and (b) TEM and HRTEM images of MoS2/C composites; (c) XRD patterns of the coconut shell-based biomass carbon and MoS2/C composites; (d) survey XPS spectrum of MoS2/C composites; (e) Mo 3d, and (f) S 2p XPS spectra of MoS2/C composites. 
@@ -191,7 +191,7 @@ the pair of the strong peaks located at 161.5 and 162.8 eV corresponded to S 2p3
 The porous structure of the aerogels has a direct impact on controlling the ow of water and the exposure of active sites, and the aerogel that MCA was conducted by MoS2/C composites and chitosan. The microstructure and morphologies of the MCA were studied by FESEM, as shown in Fig. 4d. MCA presented a three-dimensional and vertically aligned structure, which was similar to the CA without the addition of MoS2/C composites. The vertically aligned porous structure was likely to have more ice-ordered growth during the freezing process.[46] Moreover, the average width of the vertically aligned pores was about 15 mm, and the average wall thickness was 2 mm. As shown in Fig. 4e, Mo, S, C, N, and O elements were evenly distributed on the entire MCA, demonstrating the co-existence of all components in the MCA aerogel network. The mechanical strength of the MCA was measured, and the stress test data of MCA from 0 to 60% strain is shown in Fig. 4f. The three deformation regions included a relative at elastic deformation at the initial stage, fast deformation, and the nal completely buckling stage. The compressive strength of MCA was as high as 244.5 MPa at 60% 
 
 
-![](_temp_b9a52b7f_convert__images/_temp_b9a52b7f_convert_.pdf-0005-07.png)
+![](_images/THAM KHAO A photothermal MoS2 decorated biomass carbonbased aerogel with_images/_temp_a03c6064_convert_.pdf-0005-07.png)
 
 
 Fig. 4 (a) C 1s, (b) O 1s, and (c) N 1s XPS spectra of MoS2/C composites; (d) SEM images of MCA showing a vertical channel structure; (e) EDS mappings images of Mo, S, C, N, and O elements in MCA; (f) strain–stress curve of the compressive test of MCA. 
@@ -215,7 +215,7 @@ or exchange of electrons.[47] The maximum adsorption capacities of MCA and CA fo
 Moreover, the adsorption capacities of MCA and CA were higher at higher temperatures, implying the increasing temperature of the adsorption process seemed to be benecial for adsorptive abilities. One benet of choosing MCA was its outstanding photothermal conversion ability, which was conducive to promoting the adsorption of Cu(II) ions. MCA was added to a Cu(II) ions solution with different concentrations to investigate the photothermal heating effect. The photothermal 
 
 
-![](_temp_b9a52b7f_convert__images/_temp_b9a52b7f_convert_.pdf-0006-08.png)
+![](_images/THAM KHAO A photothermal MoS2 decorated biomass carbonbased aerogel with_images/_temp_a03c6064_convert_.pdf-0006-08.png)
 
 
 Fig. 5 (a)–(d) Adsorption isotherms of MCA and CA for Cu(II) removal at different temperatures; (e) and (f) temporal changes in the surface temperature of MCA under solar illumination and the inset image showing the thermal conductivity of MCA. 
@@ -242,7 +242,7 @@ Table 1 Isotherm parameters for the adsorption of Cu(II) ions by MCA and CA at d
 
 
 
-![](_temp_b9a52b7f_convert__images/_temp_b9a52b7f_convert_.pdf-0007-05.png)
+![](_images/THAM KHAO A photothermal MoS2 decorated biomass carbonbased aerogel with_images/_temp_a03c6064_convert_.pdf-0007-05.png)
 
 
 Fig. 6 (a) and (b) The influence of the photothermal effect on the adsorption capacity of MCA and CA; (c) and (d) adsorption kinetic curves of MCA and CA; (e) the effect of pH at 1.0–6.0 on the adsorption capacity of MCA and CA; (f) reusability experiments of MCA for the adsorption of Cu(II) ions in seawater with an initial pH of 4. 
@@ -275,7 +275,7 @@ the equilibrium, owing to the decrease of available active adsorption sites. Thu
 The inuence of pH level on the adsorption performance of MCA and CA toward Cu(II) ions was studied to verify the practical application of MCA under the circumstance of seawater acidication. As displayed in Fig. 6e, the adsorption capacity of Cu(II) ions was found to be inferior at pH = 2, which was 
 
 
-![](_temp_b9a52b7f_convert__images/_temp_b9a52b7f_convert_.pdf-0008-10.png)
+![](_images/THAM KHAO A photothermal MoS2 decorated biomass carbonbased aerogel with_images/_temp_a03c6064_convert_.pdf-0008-10.png)
 
 
 Fig. 7 (a) XPS survey, (b)–(d) high-resolution spectra for Cu 2p, S 2p, and Mo 3d of MCA after the adsorption of Cu(II) ions; (e) XRD pattern of MCA after the adsorption of Cu(II) ions; (f) zeta potential of MCA. 

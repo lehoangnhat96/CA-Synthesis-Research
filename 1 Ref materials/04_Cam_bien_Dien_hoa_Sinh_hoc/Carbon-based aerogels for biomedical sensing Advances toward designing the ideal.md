@@ -1,7 +1,7 @@
 Advances in Colloid and Interface Science 298 (2021) 102550 
 
 
-![](_temp_305cafa3_convert__images/_temp_305cafa3_convert_.pdf-0001-01.png)
+![](_images/Carbon-based aerogels for biomedical sensing Advances toward designing the ideal_images/_temp_0d0fddf4_convert_.pdf-0001-01.png)
 
 
 Contents lists available at ScienceDirect 
@@ -11,7 +11,7 @@ Contents lists available at ScienceDirect
 journal homepage: www.elsevier.com/locate/cis 
 
 
-![](_temp_305cafa3_convert__images/_temp_305cafa3_convert_.pdf-0001-05.png)
+![](_images/Carbon-based aerogels for biomedical sensing Advances toward designing the ideal_images/_temp_0d0fddf4_convert_.pdf-0001-05.png)
 
 
 ## Historical Perspective 
@@ -19,7 +19,7 @@ journal homepage: www.elsevier.com/locate/cis
 ## Carbon-based aerogels for biomedical sensing: Advances toward designing the ideal sensor 
 
 
-![](_temp_305cafa3_convert__images/_temp_305cafa3_convert_.pdf-0001-08.png)
+![](_images/Carbon-based aerogels for biomedical sensing Advances toward designing the ideal_images/_temp_0d0fddf4_convert_.pdf-0001-08.png)
 
 
 Mansour Mahmoudpour[a][,][b] , Jafar Ezzati-Nazhad Dolatabadi[c] , Mohammad Hasanzadeh[a][,][d] , Jafar Soleymani[a][,][* ] 
@@ -107,7 +107,7 @@ Recently, incorporation of graphene with polymers to create 3D porous graphene-p
 The integration of GO with cyclodextrins as polymers displayed anticorrosion and self-healing properties when exposed to external stimulilike temperature, moisture and light as a result of the covalent interactions, leading to mechanical strength, higher impermeability, excellent electrical conductivity with higher selectivity and sensitivity (Fig. 1C) [55]. For instance, Jia et al. [56] introduced an aerogel-based immunosensor that comprises of capture antibody immobilized onto the β-cyclodextrin (β-CD) polymer modified surface of GA. β-CD polymer/ GAs based immunosensor was applied to detect carbohydrate antigen 15–3 (CA15–3) from 0.1 mU/mL to 100 U/mL with a limit of detection 
 
 
-![](_temp_305cafa3_convert__images/_temp_305cafa3_convert_.pdf-0003-11.png)
+![](_images/Carbon-based aerogels for biomedical sensing Advances toward designing the ideal_images/_temp_0d0fddf4_convert_.pdf-0003-11.png)
 
 
 **Fig. 1.** (A) The preparation mechanism of the suggested ECL immunosensor, (B) Schematic drawing of the construction methods for 3DGPCs started from GO precursor. (C) Schematic illustration of the β-cyclodextrin-reduced graphene oxide. (Reprinted (adapted) with permission from ([53], [54] and [55]). Copyright (2021) American Chemical Society.”) 
@@ -131,7 +131,7 @@ In summary, while recent studies have focused almost exclusively on enhancing de
 sensitivity and specificity, it’s important to understand that the effective sensing of cancer biomarkers in order to suitable analysis goes beyond singular diagnostic events. Typically, relative concentration 
 
 
-![](_temp_305cafa3_convert__images/_temp_305cafa3_convert_.pdf-0004-09.png)
+![](_images/Carbon-based aerogels for biomedical sensing Advances toward designing the ideal_images/_temp_0d0fddf4_convert_.pdf-0004-09.png)
 
 
 **Fig. 2.** (A) Schematic illustration of D AuNPs/nano-PEDOT-graphene aerogel nanocomposite immunosensor for PSA, (B) Diagram procedure for the preparation of FA-GAM-OA. ((A) Reprinted from [59] with permission license of 5037421225179 and (B)) reprinted from [67] with permission license of 5037421318841). 
@@ -153,7 +153,7 @@ To date, the electrochemical biosensors has attracted enormous attention in term
 sensitive detection system for glucose, Wang and colleagues [71] used graphene/AuNPs hybrid aerogel in a similar approach reported by Jeong et al. In this case, AuNPs stabilized on the structure of AGs and enhanced the electrical conductivity of the electrode and thus improved the DL to about 0.597 μM which the sensitivity was enhanced about 10 orders of magnitude. High surface area of AuNPs is another factor that enhanced the sensitivity of the probe. In a similar investigation, Sun et al. [72] used polyethyleneimine (PEI)-assisted hydrothermal‑tungsten oxide nanocomposite aerogel which was functionalized with glucose specific enzyme. The DL of the enzyme sensor was10 μM. It is noteworthy that the most reported approaches for glucose detection was based on enzymatic reactions. However, owing to some disadvantages of the glucose oxidase based nanoprobe such as cumbersome processes for enzyme anchoring, sensitivity to the environmental conditions and high cost [73], the enzyme-free glucose probes has drawn remarkable academic and commercial attention. Recently, metal oxides like Co3O4, CuO, Fe2O3, NiO, and WO3, have been suggested to design of these type nanoprobes [74,75]. As a kind of p-type transition metal oxides with a narrow band gap of 1.2 eV, CuO has been extensively applied as electrode materials in electrochemical sensors [76], batteries [77], and supercapacitors [78]. Nevertheless, these material are simply oxidized or aggregated in the ambient atmosphere and have restricted catalytic activities, which significantly lower the analytical performance of the sensor. As paradigm, Yang and coworkers [79] was developed enzyme-free based sensor using CuO NPs functionalized N-graphene aerogel (N-GA). The developed amperometric probe can detect glucose in serum samples from 0.01 to 6.75 mM with a DL of 2.7 μM. The synergistic effect of CuO NPs and N-GA enhances considerably the electrical activity of the as-synthesized NGACuO probe, which aids high specificity, sensitivity, and reproducibility. In order to enhance the sensitivity and stability of glucose detection, Gao et al. [80] modified the glassy carbon electrode (GCE) with Cu@Cu2O aerogels. Porous nature of the aerogel makes promising effect on the analytical performance of the probe, in addition, large surface area of the produced aerogel can promote the electrocatalytic activity of the modified electrode. Generally, metal collaborated aerogels are especially favorable in the electrochemical sensor designing because of their 
 
 
-![](_temp_305cafa3_convert__images/_temp_305cafa3_convert_.pdf-0005-07.png)
+![](_images/Carbon-based aerogels for biomedical sensing Advances toward designing the ideal_images/_temp_0d0fddf4_convert_.pdf-0005-07.png)
 
 
 **Fig. 3.** (A) Schematic procedure for the 3D MGA preparation and TEM, SEM images are also presented, (B) fabrication method for PtAu NPs coupled onto the graphene-CNT-IL/GP. Step I: Grinding 3D graphene-CNT assembly with IL to form printable graphene-CNT-IL gel; Step II: Printing graphene-CNT-IL gel on GP; Step III: Ultrasonic-electrodepositing PtAu alloy nanoparticles on graphene-CNT-IL-GP electrode, (C) Diagram illustration for the construction of His-GQD-GMA. ((A) Reprinted from [70] with permission license of 5037050638289, (B) reprinted from [81] with permission license of 5037421420273 and (C) reprinted from [86] with permission license of 5037421502305). 
@@ -185,7 +185,7 @@ Recently, significant efforts have been imparted to design the CAs which are der
 _M. Mahmoudpour et al.                                                                                                                                                                                                                       Advances in Colloid and Interface Science 298 (2021) 102550_ 
 
 
-![](_temp_305cafa3_convert__images/_temp_305cafa3_convert_.pdf-0007-01.png)
+![](_images/Carbon-based aerogels for biomedical sensing Advances toward designing the ideal_images/_temp_0d0fddf4_convert_.pdf-0007-01.png)
 
 
 **Fig. 4.** (A) Microscopic constructions of the 3D CCA, SEM images of the CCA with diverse magnification and TEM images of the soft nanosheets, (B) Schematic representation for the fabrication of the MIPPy/CA electrode, (C) Diagram procedure for the construction and electrocatalysis processes for 3D-NGA, (D) scaffold for 3DGA-AuNPs/Cyt c/GCE with 2 mM H2O2. ((A) Reprinted from [88] with permission license of 5037430060507, (B) reprinted from [90] with permission license of 5037430149898, (C) reprinted from [99] with permission license of 5037430236035 and (D) reprinted from [102] with permission license of 5037430307193). 
@@ -227,7 +227,7 @@ Despite considerable development has been made in designing and applying carbon 
 Abuse of pharmaceutical drugs have different unwanted side effects to the human body organs. Thus, the monitoring of drugs is essential to adjust the proper concentration of drugs to control possible side effects. The main problem on the detection of pharmaceutical drugs in biological media is the spectral inferences of the coexisting agents. This 
 
 
-![](_temp_305cafa3_convert__images/_temp_305cafa3_convert_.pdf-0008-10.png)
+![](_images/Carbon-based aerogels for biomedical sensing Advances toward designing the ideal_images/_temp_0d0fddf4_convert_.pdf-0008-10.png)
 
 
 **Fig. 5.** (A) Drawing of the preparation procedure for the fabrication of a GCE modified by 3D-rGO/AgNPs aerogel, (B) Illustration of the preparation of Ni3N/GA samples. ((A) Reprinted from [104] with permission license of 5037430387925, and (B) reprinted from [106] with permission license of 5037431476887). 
@@ -257,7 +257,7 @@ Divers studies have proved that there is an enormous type of DNA including doubl
 To date, the construction of DNA based biosensors become a practical research topic and numerous methods were engaged for DNA analysis [115,116]. Nowadays, electrochemical technique is a popular one owing to its fully compatible with nanoelectronics and appropriate for miniaturization. More importantly, the surface modification of the electrodes with multiple GA and nanoparticles play essential roles in designing of DNAs sensing probe. In light of that, Ruiyi and coworker [117] used gold nanostars (AuNSs) to functionalize N-doped GAs to fabricate an electrochemical sensing platform. The reported system determined circulating free DNA in the range of 1.0 × 10[−][6 ] fg/mL to 0.1 –3/− 4 fg/mL in the presence of Fe(CN)6 as a redox pair. The DL was highly promising with a value of 1.0 × 10[−][7 ] fg/mL. This is the lowest DL realized and was as a result of the important synergy between AuNSs, nitrogen-doped multiple GA, and dsDNA. The same group functionalized multiple GAs with thionin and AuNSs to determine circulating free dsDNA of serum samples. This method has better electrochemical performance regarded to the classical GA. The performance could be further enhanced via increasing amount of the GA gelation cycles. The pore size control during the fabrication of GAs was imperative for producing high surface area and open pore constructions for GA interfaces. The synthesized thionin/GAs/AuNSs was utilized to modify the surface of GCE electrode for the direct determination of dsDNA. The specific electrochemical response best at a working voltage of − 228 mv has obtained via thionin and dsDNA interaction. The developed platform is able to detect dsDNA from 100 fg/mL to 10 ng/mL with a DL of 39 fg/mL [118]. The reported two works by Ruiyi et al. obviously show the influence of the proper selection of redox pair, where, upon using the same materials and sensing approaches. These results propose that there is significant affect in using the appropriate redox pair in the sensing. Ferro/ferric 
 
 
-![](_temp_305cafa3_convert__images/_temp_305cafa3_convert_.pdf-0009-11.png)
+![](_images/Carbon-based aerogels for biomedical sensing Advances toward designing the ideal_images/_temp_0d0fddf4_convert_.pdf-0009-11.png)
 
 
 **Fig. 6.** (A) Preparing process of β-CD/IL@GOGA nanocomposites, (B) and construction principle drawing of CL sensor. (Reprinted from [108] with permission license of 5037440078296). 
@@ -267,7 +267,7 @@ To date, the construction of DNA based biosensors become a practical research to
 _M. Mahmoudpour et al.                                                                                                                                                                                                                       Advances in Colloid and Interface Science 298 (2021) 102550_ 
 
 
-![](_temp_305cafa3_convert__images/_temp_305cafa3_convert_.pdf-0010-01.png)
+![](_images/Carbon-based aerogels for biomedical sensing Advances toward designing the ideal_images/_temp_0d0fddf4_convert_.pdf-0010-01.png)
 
 
 **Fig. 7.** (A) Diagram illustration the sensing process of MD based on NGAs/GCE substrate, (B) Schematic showing of the synthesis method using COF-366-Fe/GA as sensing element for determination of NO molecules, Schematic of (C) sensing preparation process of AuNPs and MoS2/CA signal enhancement for the detection of PDGF-BB. ((A) Reprinted (adapted) with permission from ([111]). Copyright (2021) American Chemical Society.”, (B) reprinted from [122] with permission license of 5037440272739, and (C) reprinted from [124] with permission license of 5037440344103). 

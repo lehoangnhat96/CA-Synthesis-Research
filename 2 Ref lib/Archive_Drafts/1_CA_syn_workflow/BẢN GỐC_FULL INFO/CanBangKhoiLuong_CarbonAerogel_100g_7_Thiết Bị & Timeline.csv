@@ -1,0 +1,36 @@
+﻿,DANH SÁCH THIẾT BỊ VÀ KẾ HOẠCH THỜI GIAN THỰC HIỆN
+,Ghi chú: (*) = thiết bị thường có sẵn trong lab hóa học đại học. (**) = cần lên lịch sử dụng / thuê đo
+,Thiết bị,Giai đoạn dùng,Thông số chính,Yêu cầu thiết bị,Ưu tiên,Có sẵn?,Ghi chú / Thay thế,Chi phí thuê
+,A. THIẾT BỊ PHÒNG THÍ NGHIỆM CƠ BẢN (Thường có sẵn)
+,Cân phân tích ±0.0001g (*),GĐ1–5,0.0001g,Tải ≥ 200g; hiệu chỉnh định kỳ,★★★★★,✓ Sẵn,"Cần 1 cái. Không dùng cân kỹ thuật cho FeCl₃, Nafion",—
+,Bếp khuấy từ có gia nhiệt (*),"GĐ1,2","RT–100°C, ±2°C",Có điều chỉnh nhiệt độ; đầu dò nhiệt,★★★★★,✓ Sẵn,Cần 2–3 cái để làm song song,—
+,Tủ sấy đối lưu (*),"GĐ1,2,4","40–120°C, ±1°C","Đối lưu không khí, thể tích ≥ 50L",★★★★★,✓ Sẵn,Dùng cho sấy sơ bộ và sấy final tBuOH,—
+,Tủ sấy chân không (ưu tiên),GĐ4,"50°C, -0.05 atm",Chân không nhẹ giảm sức căng khi sấy,★★★★☆,? Kiểm tra,Nếu không có → dùng tủ sấy thường 50°C + nắp hé mở,—
+,pH meter cầm tay (*),GĐ1–3,"pH 0–14, ±0.01","Electrode thủy tinh; buffer 4, 7, 10",★★★★★,✓ Sẵn,Calibrate trước mỗi ngày dùng. Dự phòng giấy pH,—
+,Máy lọc hút chân không Büchner (*),GĐ1,—,Phễu Büchner + bình lọc + bơm,★★★★★,✓ Sẵn,Giấy lọc Whatman No.1 hoặc No.42,—
+,Máy siêu âm (bath sonicator) (*),Chế tạo điện cực,"40kHz, 100W",Bath ultrasonic ≥ 2L,★★★★★,✓ Sẵn,Siêu âm huyền phù 30–60 phút trước khi nhỏ màng,—
+,Máy khuấy từ (*),"GĐ3,4",50–300 rpm,Khuấy nhẹ khi ngâm doping,★★★★☆,✓ Sẵn,Dùng cá từ phủ PTFE,—
+,Micropipette 10µL và 100µL (*),Chế tạo điện cực,±1% accuracy,Eppendorf hoặc tương đương,★★★★★,✓ Sẵn,Kỵ DMF – dùng tips kháng dung môi,—
+,Tủ hút khí độc (*),"GĐ1,3",Tốc độ mặt ≥ 0.5 m/s,"Tất cả thao tác với HCl, H₂O₂, FeCl₃",★★★★★,✓ Sẵn,BẮT BUỘC khi dùng axit và hóa chất bay hơi,—
+,B. THIẾT BỊ CHUYÊN DỤNG (Cần lên lịch / thuê đo)
+,Lò ống nhiệt phân (tube furnace) (**),GĐ5,RT–1200°C; khí N₂,Ống thạch anh φ50mm; controller nhiệt; đầu vào/ra khí,★★★★★,? Lab vật liệu,BẮT BUỘC. Thuê lab vật liệu hoặc khoa hóa. Lên lịch trước 1 tuần,"~300,000–500,000đ/mẻ"
+,Tủ lạnh sâu –20°C (**),GĐ2,–20°C ổn định,Cần giữ –12 đến –15°C cho hòa tan cellulose,★★★★★,? Lab sinh hóa,Thay thế: bath đá+muối (–10°C) nếu không có,—
+,Máy FESEM + EDX (**),Đặc trưng,"5–15 kV, Au-coat 5nm",Độ phân giải ≤ 5nm; EDX mapping nguyên tố,★★★★★,Trung tâm đo,Gom 6–8 mẫu gửi 1 lần. Thời gian 3–7 ngày,"~800,000–2,000,000đ/mẫu"
+,XRD (X-ray diffraction) (**),Đặc trưng,"Cu Kα, 5–80°, 0.02°/bước","Để xác nhận pha Fe, độ graphite hóa",★★★★★,Thường có tại ĐH,Đo trước BET. Nhanh nhất trong nhóm đặc trưng (~30 phút/mẫu),"~100,000–200,000đ/mẫu"
+,Raman spectroscopy (**),Đặc trưng,532nm hoặc 633nm laser,"Band D (1350), G (1580), 2D (2700) cm⁻¹",★★★★★,Thường có tại ĐH,Đo ngay sau nung để check chất lượng carbon. 5 phút/mẫu,"~200,000–500,000đ/mẫu"
+,BET (N₂ adsorption at 77K) (**),Đặc trưng,P/P₀ 0.05–0.995,Diện tích bề mặt (m²/g) + BJH pore size,★★★★★,Gửi ngoài,Chuẩn bị: outgas 200°C/6h trước đo. Gửi 6–8 mẫu/đợt,"~800,000–1,500,000đ/mẫu"
+,XPS (X-ray Photoelectron Spectroscopy) (**),Đặc trưng,"Al Kα; C1s, N1s, Fe2p, O1s",Xác định dạng N (pyridinic/pyrrolic/graphitic) và Fe²⁺/Fe³⁺,★★★★★,Gửi ngoài/nước ngoài,Quan trọng nhất cho bài báo Q1. Gửi 4–6 mẫu. Thời gian 2–4 tuần,"~2,000,000–5,000,000đ/mẫu"
+,Potentiostat/Galvanostat (**),Đo điện hóa,CHI760/Autolab/PalmSens,"CV, EIS, SWASV, DPV; 3-electrode cell",★★★★★,Lab điện hóa,Cần có kết nối N₂ sục và Faraday cage để giảm nhiễu,"~500,000đ/ngày thuê"
+,ICP-OES hoặc ICP-MS (**),Kiểm tra Fe thực tế,ppb–ppm range,"Phá mẫu HNO₃:HCl 3:1, 150°C/2h trước đo",★★★☆☆,Trung tâm phân tích,Xác nhận % Fe thực tế trong vật liệu vs lý thuyết,"~300,000–600,000đ/mẫu"
+,C. KẾ HOẠCH THỜI GIAN THỰC HIỆN (GANTT RÚT GỌN)
+,Tuần,Hoạt động chính,Hoạt động song song,Số mẫu xử lý,Thiết bị chính,Đầu ra cần đạt,Ghi chú
+,T1–2,Tiền xử lý xơ dừa (GĐ1a+b+c),Đọc tài liệu 20+ bài; chuẩn bị hóa chất; kiểm tra thiết bị,5–10 mẻ song song,"Bếp khuấy, tủ sấy, tủ hút","38g cellulose tinh khiết, trắng, pH 7"
+,T3,Điều chế hydrogel (GĐ2),"Pha hóa chất doping, đặt lịch lò nung",3–5 mẫu/ngày,"Tủ lạnh –12°C, bếp khuấy",Hydrogel đồng nhất ~680mL
+,T4,Doping Fe–N × 3 nồng độ (GĐ3),Các mẫu Fe5/Fe10/Fe15 song song trong 3 chậu,3 mẫu SONG SONG cùng lúc,"Chậu PTFE ×3, máy lắc","3 gel doped, sẵn sàng sấy"
+,T5–6,Sấy & Nung đợt 1: CA-700/800/900 (GĐ4+5),Gom mẫu gửi XRD+Raman đợt 1,"2 mẻ sấy song song, 3 mẻ nung tuần tự","Tủ sấy, lò ống, N₂","3 mẫu CA-T nung xong, đặc trưng XRD/Raman"
+,T6–7,Nung đợt 2: Fe5/Fe10/Fe15-CA,"Đặc trưng cơ bản mẫu đợt 1 (XRD, Raman tại lab)","3 mẻ nung, 1 mẻ/ngày",Lò ống,Đủ 6 mẫu chính (CA-T và CA-Fe)
+,T7–8,Gom mẫu gửi BET + XPS + SEM (đợt duy nhất),Tiến hành chế tạo màng điện cực thử nghiệm,6–8 mẫu gửi cùng lúc,Gửi trung tâm đo,"Số liệu BET (m²/g) + XPS (N1s, Fe2p)"
+,T8–9,Tối ưu hóa màng điện cực,Nhận kết quả BET/XPS và xử lý số liệu,15–20 điện cực/ngày,"Potentiostat, micropipette, sonicator","Điều kiện tối ưu: Nafion%, lượng vật liệu"
+,T9–11,Đo cảm biến: SWASV (Pb²⁺/Cd²⁺) + DPV (DA),Đo song song 2 nhóm nếu có 2 potentiostat,3–5 điện cực/ngày,"Potentiostat ×2, bình N₂","LOD, LDR, selectivity, stability data"
+,T11,Thu mẫu nước thực tế; đo spiked samples,Bắt đầu viết Introduction bài báo,2–3 loại mẫu nước,"Potentiostat, ICP-MS kiểm tra",Recovery % trong real water ≥ 95%
+,T12–14,Viết bản thảo bài báo + xử lý số liệu cuối,Thảo luận với GVHD weekly,—,Origin/Excel/GraphPad,Bản thảo hoàn chỉnh sẵn sàng submit

@@ -1,0 +1,34 @@
+﻿,STT,Hoạt động kỹ thuật cốt lõi,Đặc tính hình thành ,Phương pháp minh chứng ,Vai trò trong phân tích điện hóa,Phân Hạng Q
+,Giai đoạn
+,#0,"• Delignification: NaOH 1.5M, 80°C, 90 phút",• Cellulose content: 70-80%,"• FTIR (C=O, C-O-C peaks)","Nền tảng cho cấu trúc sạch, đồng nhất.","Q3: Thấy rõ các ống vi thể rỗng, sạch tạp chất"
+,TIỀN XỬ LÝ (Pre-treatment),"• Bleaching: H₂O₂ 40%, 80°C, 2h×2 lần",• Lignin còn lại: <5%,• TGA (cellulose Td ~350°C),Loại bỏ tạp chất → Tăng purity
+,,• Rửa sạch đến pH~7 → Sấy 60°C,• Màu: Trắng kem/trắng sáng,• Visual inspection
+,,,• Tubular structure bảo tồn,• SEM (cross-section)
+,#1,"• Hòa tan: NaOH/Thiourea/-18°C, 60 phút",• 3D network formation,• SEM (interconnected fibers),Tạo khung dẫn electron liên tục + In-situ anchor kim loại → Tránh vón cục,Q3: mạng lưới 3D
+,SOL-GEL & DOPING (In-situ metal incorporation),• Thêm TEPA: 1.5-3.0g (N-source + chelator),• NiCo uniform dispersion (không vón cục),"• TEM-EDX mapping (Ni, Co)",,Q2: Góc tiếp xúc (Contact Angle ↓) thấm ướt tốt sau nung
+,,• Thêm muối: NiCl₂·6H₂O + CoCl₂·6H₂O (Ni:Co = 1:2 mol ratio),• Particle size: 5-20 nm,• Particle size: TEM
+,,"• Gel hóa: 60°C, 12 giờ"
+,#2,• Trao đổi dung môi: Ethanol → n-Hexane,• SSA: 1500-2500 m²/g,• BET (N₂ adsorption 77K),Maximize active sites → Tăng sensitivity.,Q2: BET và BJH
+,FREEZE-DRYING (Cryogenic sublimation),• Đông lạnh: -80°C,• Mesopore ratio: 50-60%,• BJH (pore distribution),Mesopore 50-60% cho glucose tiếp cận
+,,"• Thăng hoa: <20 Pa, -40°C, 24-48h",• Pore size: 2-10 nm (dominant),• Isotherm Type IV (có mesopore 2-50nm)
+,,,• Cấu trúc xốp không sụp đổ,• SEM (visual check)
+,#3,• Tẩm KOH: 0.5:1 ratio (KOH:CA),• Micropore tăng nhẹ (~10%),• BET (SSA comparison),Fine-tune pore structure (nếu cần).,Q3
+,KOH ACTIVATION (OPTIONAL)⚠️nếu cần,"• Nung: 750°C, N₂, 60 phút",• SSA có thể tăng thêm 200-500 m²/g,• BJH (micropore %),TEST xem có cải thiện sensitivity không
+,,• Rửa acid loại KOH dư,⚠️ Phá hủy Ni/Co nếu KOH quá cao,• XPS (check metal loss)
+,#4,"• Nung: 500-550°C, N₂ (200 ml/min), 120 phút",• Conductivity: 10-50 S/cm (bulk),• 4-point probe (bulk σ),Activate electron pathway → Low Rct.,Q3:Raman ID/IG
+,CARBONIZATION (Pyrolysis + Heteroatom fixing),• Tốc độ nung: 5°C/phút,• ID/IG: 0.8-1.0 (Raman),• Raman spectroscopy,N-doping tạo active sites → Hạ LOD.,Q2:
+,,• Làm nguội tự nhiên trong lò,• Pyridinic-N: 3-6 at.% (>40% of N),"• XPS (N 1s, Ni 2p, Co 2p)",NiO/Co₃O₄ formation → Catalysis,"EIS, XRD/TEM"
+,,,• NiCo₂O₄ spinel structure,• XRD (phase identification),,Q1: XPS
+,,,• Ni²⁺/Ni³⁺ ≈ 1:1 (optimal),• TGA (metal content check)
+,#5,• Pha slurry: CA:SuperP:PVDF = 80:10:10 trong NMP,• Film uniformity (không nứt),• SEM (surface morphology),Electrical contact tốt → Stable signal.,"Q3: CV lặp lại, SEM bề mặt"
+,ELECTRODE FABRICATION,• Cast lên Ni foam (1×1 cm),• Adhesion (không bong),• CV repeat (3-5 cycles),Độ bền bám dính → Reproducibility
+,,• Sấy 80°C/12h → Ép 10 MPa/1 phút,• Loading: 3-5 mg/cm²,• Weight measurement
+,,• Ngâm PBS 0.1M/2-4h trước test
+,#6,• Setup: 3-electrode (WE: CA/Ni foam; RE: Ag/AgCl; CE: Pt wire),• Sensitivity: >700 μA·mM⁻¹·cm⁻²,• CV (glucose oxidation peak),CORE performance metrics quyết định chất lượng sensor.,Q1
+,ELECTRO-CHEMICAL TESTING  Quyết định chất lượng sensor,"• Electrolyte: PBS 0.1M, pH 7.4",• LOD: <0.5 μM,"• Amperometry (+0.5V, add glucose stepwise)",Sensitivity → Độ nhạy.
+,,"• CV: -0.2 to +0.6V, 50 mV/s",• Linear range: 0.01-15 mM,"• EIS (Nyquist plot, Rct)",LOD → Phát hiện nồng độ thấp.
+,,• Amperometry: +0.5V vs Ag/AgCl,• Rct: <50 Ω (từ EIS),• Chrono-amperometry (t₉₀),Selectivity → Chống nhiễu.
+,,• EIS: 0.01 Hz - 100 kHz,• Response time: 2-5s (t₉₀),"• Interference test (AA, UA, DA, Fructose)",Stability → Tuổi thọ
+,,• Stability: 100 cycles CV,• Selectivity: IGlc/IAA >10:1,• Real sample correlation with glucometer (R²>0.99)
+,,• Real sample: Blood/saliva (10 mẫu),• Stability: >85% after 100 cycles
+,,,• Recovery: 95-105% (real sample)

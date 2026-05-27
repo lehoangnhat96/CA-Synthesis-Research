@@ -1,0 +1,58 @@
+﻿,,Các vấn đề trong từng giai đoạn trong quy trình
+,STT,Giai đoạn,Nội dung,,Ghi chú
+,1,Chuẩn hóa nguồn nguyên liệu,"- Xơ dừa (coir fiber) có hàm lượng cellulose cao (23-43%), cấu trúc sợi rỗng tự nhiên tạo aerogel xốp 3D với diện tích bề mặt lớn (lên đến 3730 m²/g sau carbon hóa). Xơ dừa ưu thế hơn ở độ xốp cao (96-97%) và N tự nhiên từ ammonia-urea.
+- So với vỏ dừa (coconut shell) tạo carbon mesopore với MoS2 composite cho hấp phụ Cu(II), hoặc tảo (algae) cho Fe-doped aerogel phát hiện dopamine
+- Các loại xơ dừa khác nhau (coir vs shell fiber) ảnh hưởng đến độ xốp và mật độ: coir fiber cho mật độ thấp 0.028-0.045 g/cm³, shell tạo cấu trúc ống rỗng tốt cho mass transfer",Đánh giá yếu tố ngoại quan
+,2,Tiền xử lý và rửa sạch ,Rửa sạch bao nhiêu là tối ưu đối với từng loại biosensor (không/có doping đơn và đa nguyên tử). Yếu tố ligin để giữ cấu trúc nên cân bằng với đa nguyên tố như nào?
+,3,Doping (giới hạn nguyên tố),"- Doping đơn (N, Fe, Co) cải thiện hoạt tính xúc tác bằng cách tạo defect, tăng dẫn điện và vị trí hoạt động (pyridinic N tốt cho ORR). 
+- Đa nguyên tố (N/O/B, M-N như Ni/Fe/Co) tăng trung tâm hoạt động, cải thiện độ ổn định và dung lượng hấp thụ nhờ synergy (ví dụ O/N/B tăng active sites gần Fermi level). 
+- Composite (MoS2/carbon, Co3O4/CNF) tăng độ nhạy cảm cho cảm biến. 
+Cơ sở chọn: dựa trên ứng dụng (N cho ORR/CO2RR, kim loại cho sensing dopamine/Cd2+)","ma trận tối ưu gồm: mẫu pure và doping đơn và đa nguyên tử (composite)
+Theo thông thường Q3-Q2: sử dụng các nguyên tố sau:","1. Lựa chọn nguyên tố doping: 
+N và Fe (N từ ammonia-urea + 1-5 wt% FeCl₃)
+2. Ứng dụng phân tích: ion KL (chì kẽm cadimi), dopamine.
+3. Lý giải đặc tính giữa các loại nguyên tố tương tác, tỉ lệ doping vào hệ carbon aerogel",,"Bài báo 1: https://doi.org/10.4028/p-RzIuQ9
+Bài báo 2: https://doi.org/10.1002/smll.201602334"
+,4,Sấy,Sử dụng dung môi sấy và tối ưu nhiệt độ sấy
+,5,Nung,"Ammonia-urea làm dung môi cellulose và cross-linker: ammonia doping N và exfoliate tạo defect, urea liên kết chéo trong sol-gel, sau freeze-dry và pyrolysis. 
+- Nhiệt độ pyrolysis quyết định: 600°C ưu tiên pyrrolic N (mesopore cao), 700°C pyridinic N (tối ưu ORR), 800°C graphitic N (graphitization cao nhưng N giảm); 
+- Không doping thì diện tích bề mặt giảm, ít defect. Tăng nhiệt độ từ 600-1200°C chuyển từ mesopore sang micropore, hiệu suất carbon hóa ~45%",,Nhiệt Độ Pyrolysis,Loại Doping N Chính,Tính Chất Sản Phẩm
+,,,,,600°C,Pyrrolic,"Mesopore cao, SSA trung bình ​"
+,,,,,700°C,Pyridinic,Hoạt tính ORR tốt nhất 
+,,,,,800°C,Graphitic,"Graphitization cao, N thấp ​"
+,,,,,Không doping,Không,"SSA thấp hơn, ít defect ​"
+,6,Tạo màng và cross-linker,"Có 2 hướng gồm:
+1. Sử dụng chất kết dính (cross-linker)
+2. Không sử dụng cross-linker (màng tự đứng _ Ứng dụng cho wearable sensor)
+
+Đối với hướng 1: Cross-linker như urea/PVA/xanthan gum tạo mạng 3D ổn định trong nước, dùng cho màng modify glassy carbon electrode (GCE). Trong sensing, aerogel cross-linked phủ GCE tăng electron transfer (ví dụ CAs-Fe/GCE cho DA)"
+,7,Đo điện hóa,"- Khảo sát yếu tố và ảnh hưởng bởi chất phân tích và xử lý nền mẫu chất phân tích nào?
+- Sử dụng phương pháp và chất đối chứng nào??",,"- Đo ECSA (tốc độ truyền điện tử): Độ dốc Tafel (Tafel slope) của mẫu pha tạp và chưa pha tạp.
+- Các loại vật liệu điện cực (Electrodes) | Chất phân tích (Analyte) | Phương pháp đo (Methods như DPV, SWASV) | Khoảng tuyến tính (Linear range) | Giới hạn phát hiện (LOD) | Độ chọn lọc (Selectivity) | Tối ưu hóa điều kiện đo | Tài liệu tham khảo (Ref)"
+,,1. Thứ tự thục hiện thí nghiệm: Từ mẫu 0 doping đến mẫu doping,"Giai đoạn 1: Tối ưu cellulose aerogel (2-4 tuần): 
+3 tỷ lệ xơ dừa (với/urea cross-linker), freeze-dry. Kiểm tra độ xốp/độ bền."
+,,,"Giai đoạn 2: Pyrolysis & doping (4-6 tuần): 
+Ma trận 3 nhiệt độ (600/700/800°C) x 2 doping (không/Fe salt rẻ như FeCl3), inert Ar. ~6 mẫu, phân tích XPS/SSA."
+,,,"Giai đoạn 3: Màng & sensing (4 tuần): 
+Modify GCE với 4 mẫu tốt nhất, test Cd²⁺/dopamine (DPASV/CV), real sample. Tối ưu pH/thời gian."
+,,2. Cơ sở/tiêu chí so sánh,"So sánh giữa các vật liệu (có tính chất tối ưu) hay so sánh chung một quy trình tổng hợp vật liệu.
+1. So sánh giữa các đặc tính nào của vật liệu
+2. So sánh với các nghiên cứu trước
+3. So sánh nội bộ (các thông số đã tối ưu). Xem lại cách mà nghiên cứu trước đã thực hiện
+4. So sánh với vật liệu thương mại
+Giải thích:"
+,,3. Cơ sở định lượng,"Điều kiện đo: 
+Đo cùng một điều kiện, cùng một mẫu.
+Giải thích:"
+,1,"So sánh đối với:
+- Mẫu có tính chất tối ưu đối với từng quy trình hay là
+- Chung một quy trình và không tính đến chất tối ưu của mẫu?"
+,2,"Điều kiện ""vàng"" để tổng hợp mẫu carbon aerogel"
+,3,Trung bình một nghiên cứu (Q2-Q3) thì sử dụng ma trận doping như thế nào? Thực hiện bao nhiêu thí nghiệm đơn/đa nguyên tố?
+,2. Yếu tố nào của các giai đoạn sau sẽ ảnh hưởng đến các nguyên tố sau khi doping? Cần thay đổi giai đoạn trước và sau như thế nào để tối ưu nguyên tố doping vào carbon aerogel?
+,"3. Sử dụng yếu tố nào để nhận xét nhanh và ra quyết định đến các quy trình tối ưu vật liệu hay không? Cái nào thay đổi, cái nào giữ? Giữ cái gì? Tăng giảm cái gì? đạt kết quả nào?"
+,"1. Đối với ứng dụng làm màng điện cực phân tích điện hóa thì mọt bài báo nghiên cứu (Q2-Q3) thì nên sử dụng bao nhiêu loại doping đơn/đa và dựa trên cơ sở nào để lựa chọn hệ doping đó.
+2. Yếu tố nào của các giai đoạn sau sẽ ảnh hưởng đến các nguyên tố sau khi doping? Cần thay đổi giai đoạn trước và sau như thế nào để tối ưu nguyên tố doping vào carbon aerogel?
+3. Sử dụng cơ sở ngoại quan nào để nhận xét nhanh và ra quyết định đến các quy trình tối ưu vật liệu hay không đối với mỗi giai đoạn tổng hợp carbon aerogel? Cái nào thay đổi, cái nào giữ? Giữ cái gì? Tăng giảm cái gì? đạt kết quả nào?
+
+Hãy tạo report nghiên cứu về vấn đề này"

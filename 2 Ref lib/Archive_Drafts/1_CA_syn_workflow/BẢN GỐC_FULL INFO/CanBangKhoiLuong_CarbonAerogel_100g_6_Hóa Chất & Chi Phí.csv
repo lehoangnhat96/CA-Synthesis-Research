@@ -1,0 +1,27 @@
+﻿,"TỔNG HỢP HÓA CHẤT, THIẾT BỊ VÀ CHI PHÍ ƯỚC TÍNH – 100g xơ dừa → 9.5g Fe-N-CA"
+,Bao gồm dư 20% cho mỗi hóa chất để bù thất thoát thực tế. Giá tham khảo thị trường Việt Nam (2024)
+,Hóa chất / Vật tư,Giai đoạn,Lượng tính toán,Lượng mua (dư 20%),Đơn vị,Giá ước tính (VNĐ/đvị),Thành tiền (VNĐ),Lưu ý bảo quản / Nguy hiểm
+,NaOH tinh thể (≥97%),"GĐ1a, GĐ2",40 + 66.5 = 106.5g,130g,g,"15,000đ/kg","~2,000đ",Hút ẩm mạnh. Đậy kín. Ăn mòn da/mắt.
+,H₂O₂ dung dịch 30%,GĐ1b,75mL,90mL,mL,"50,000đ/L","~4,500đ","⚠ Oxy hóa mạnh. Bảo quản lạnh 2–8°C, tránh ánh sáng."
+,HCl 37% (axit clohidric),"GĐ1c, GĐ6*",33.4 + 20mL = 53.4mL,65mL,mL,"30,000đ/L","~2,000đ",⚠ Bay hơi axit. Dùng trong tủ hút. Găng + kính.
+,Urea (CO(NH₂)₂ ≥99.5%),"GĐ2, GĐ3",114 + 7.2 = 121.2g,145g,g,"5,000đ/kg",~725đ,"Bảo quản khô, kín. An toàn."
+,FeCl₃·6H₂O,GĐ3,17.4g (×3 mẫu ≈52g),65g,g,"150,000đ/kg","~9,750đ","Hút ẩm. Bảo quản khô, kín. Nhẹ oxy hóa da."
+,Ethanol 96% (EtOH),GĐ4,10.5L,12L (can 10L + can 5L),L,"30,000đ/L","~360,000đ",⚠ Dễ cháy. Không có lửa trần. Thông gió.
+,tert-Butanol (tBuOH),GĐ4,7.0L,8L,L,"400,000đ/L","~3,200,000đ",⚠ Dễ cháy. Nóng chảy 25.5°C – giữ >28°C. Chi phí lớn nhất.
+,"N₂ khí (bình 40L, 150atm)",GĐ5,~1–2 bình,2 bình,bình,"400,000đ/bình","~800,000đ","Khí trơ, không độc. Kiểm tra kết nối van trước mỗi lần dùng."
+,KOH tinh thể (tùy chọn GĐ6),GĐ6*,19g (KOH:C = 2:1),25g,g,"25,000đ/kg",~625đ,⚠ Ăn mòn cực mạnh. Đeo kính + găng dày. Không tiếp xúc da.
+,Nước cất / deionized,Tất cả,~20–25L,25L,L,"5,000đ/L (tự cất) hoặc 15,000đ mua","~125,000đ",Dùng nước deionized (DI) hoặc tự cất. Không dùng nước máy.
+,Nafion 5% solution,Chế tạo điện cực,~1mL,5mL (lọ nhỏ),mL,"3,000,000đ/5mL","~3,000,000đ","⚠ Đắt nhất trong bước điện cực. Bảo quản 4°C, kín."
+,GCE điện cực (3mm),Đo điện hóa,~10 cái,10 cái,cái,"200,000đ/cái","~2,000,000đ",Đánh bóng Al₂O₃ trước mỗi lần dùng. Tái sử dụng được.
+,Al₂O₃ đánh bóng (0.05µm),Đo điện hóa,~1 túi,1 túi 50g,túi,"500,000đ/túi","~500,000đ",Trộn với nước cất thành slurry để đánh bóng GCE.
+,ƯỚC TÍNH TỔNG CHI PHÍ HÓA CHẤT CHO 100g XƠ DỪA (1 QUY TRÌNH ĐẦY ĐỦ)
+,"Nhóm GĐ1 – Tiền xử lý (NaOH, H₂O₂, HCl, H₂O)",,,,,,"~15,000đ"
+,"Nhóm GĐ2 – Hydrogel (NaOH, Urea, H₂O)",,,,,,"~4,000đ"
+,"Nhóm GĐ3 – Doping (FeCl₃, Urea, H₂O)",,,,,,"~12,000đ"
+,Nhóm GĐ4 – Sấy (EtOH + tBuOH),,,,,,"~3,560,000đ"
+,Nhóm GĐ5 – Nung (N₂ khí),,,,,,"~800,000đ"
+,Điện cực & Nafion (cho ~10 GCE),,,,,,"~5,500,000đ"
+,"Nước cất, dụng cụ, hao hụt khác",,,,,,"~200,000đ"
+,TỔNG CHI PHÍ VẬT TƯ (không kể thiết bị cố định),,,,,,"~10,091,000đ"
+,  CHI PHÍ THỰC TẾ THẤP HƠN NẾU: (1) Dùng tBuOH tuần hoàn (distillate recovery) → giảm 60% chi phí tBuOH; (2) Nafion/GCE dùng chung nhiều thí nghiệm; (3) N₂ dùng chung với lab khác
+,"  SO SÁNH: Nếu dùng sấy siêu tới hạn (CO₂-SCF): ~50,000,000đ/mẻ (thuê thiết bị). Ambient drying tiết kiệm >80% chi phí sấy. Đây là ĐIỂM MẠNH của nghiên cứu này."

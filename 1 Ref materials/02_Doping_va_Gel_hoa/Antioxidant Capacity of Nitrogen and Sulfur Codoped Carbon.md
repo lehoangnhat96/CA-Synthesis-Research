@@ -1,7 +1,7 @@
 **HHS Public Access** Author manuscript ACS Appl Nano Mater. Author manuscript; available in PMC 2023 March 17. 
 
 
-![](_temp_588e07f7_convert__images/_temp_588e07f7_convert_.pdf-0001-05.png)
+![](_images/Antioxidant Capacity of Nitrogen and Sulfur Codoped Carbon_images/_temp_fc33d32f_convert_.pdf-0001-05.png)
 
 
 ## Published in final edited form as: 
@@ -35,7 +35,7 @@ Zhang et al.
 Page 2 
 
 
-![](_temp_588e07f7_convert__images/_temp_588e07f7_convert_.pdf-0002-06.png)
+![](_images/Antioxidant Capacity of Nitrogen and Sulfur Codoped Carbon_images/_temp_fc33d32f_convert_.pdf-0002-06.png)
 
 
 ## **Keywords** 
@@ -119,7 +119,7 @@ Zhang et al.
 UV–vis spectroscopy of DPPH[•] was used to evaluate the antioxidation activity of the CNDs. In a methanol solution, DPPH[•] is a radical, and the solution presents a dense violet color.[27 ] Upon the addition of N,S-codoped CNDs, the solution color changes; i.e., the absorbance intensity of the DPPH[•] methanol solutions at 517 nm decreases (Figure 2A). The antioxidant activity can be calculated from the equation 
 
 
-![](_temp_588e07f7_convert__images/_temp_588e07f7_convert_.pdf-0006-08.png)
+![](_images/Antioxidant Capacity of Nitrogen and Sulfur Codoped Carbon_images/_temp_fc33d32f_convert_.pdf-0006-08.png)
 
 
 in which A0 and Ac represent the absorbances of DPPH[•] at 517 nm without and with the N,S-codoped CNDs, respectively. The antioxidation activities of 16.2%, 39.0%, 70.0%, 88.4%, and 92.9% are obtained (averaged value based on three trials) at the N,S-codoped CND concentrations of 0.02, 0.03, 0.05, 0.07, and 0.10 mg/mL, respectively. The DPPH[• ] with the N,S-codoped CND incubation reaches its steady state after 2 h, and the solution’s antioxidant activity increases when the concentration of N,S-codoped CNDs increases from 0.02 to 0.07 mg/mL. A plateau in the activity is found at higher concentrations of N,S-codoped CNDs (>0.07 mg/mL; Figure 2B). The concentration dependence of N,Scodoped CNDs is consistent with that of graphene quantum dots and some other types of CNDs.[21,24,26] Using the same hydrothermal method, CNDs from citric acid (CNDs without N,S doping) and from urea + citric acid (N-doped CNDs) were prepared and evaluated by the DPPH[•] test (see Figure S2). It was found that the N,S-codoped CNDs have the highest antioxidation activity. For example, at a 0.10 mg/mL incubation concentration, the antioxidation activity order is N,S-codoped CNDs (~92.9%; Figure 2B) > N-doped CNDs (~71.1%; Figure S2D) > CNDs without N,S doping (~34.6%; Figure S2B). Because the electronegativity of N (3.04 in the Pauling scale) is larger than that of C (2.55 in the Pauling scale), doping N onto a C framework creates a high positive charge density on the C atom,[43] facilitating the interaction between the N-doped CNDs and DPPH[•] . Furthermore, the atomic radii of N (~0.65 Å) and C (~0.70 Å) are significantly smaller than that of S (~1.10 Å); such a significant size difference may induce Stone–Wales defects and strain in the C framework.[44] It has been reported that more catalytic sites could be generated for the oxygen reduction reaction due to the Stone–Wales defect generation in the C framework by doping S onto the reduced graphene oxide.[45] The defects generated in the C crystal lattice may serve as sites for the radical scavenging reduction reactions. Moreover, considering that the addition of S increases the CNDs’ polarizability (N,S-codoped CNDs’ polarizability > N-doped CNDs’ polarizability),[46] the N,S-codoped CNDs may act as a stronger electron donor, further facilitating the radical scavenging activity. Hence, one may conclude that the high antioxidation activity of the N,S doping may result from a synergistic effect of the electronegativity difference between N and C, S-induced active defect generation, and the high polarizability of S. 
@@ -139,17 +139,17 @@ diffusion-limited in an electrolyte solution.[47] With CND incubation, the neutr
 After incubation with N,S-codoped CNDs, the cyclic voltammograms of DPPH[•] present different redox peak currents in the methanolic PBS solution at different concentrations of CNDs (Figures 3 and S3). Control experiments (Figure S4), in the absence of DPPH[•] , do not show redox peaks in a methanolic PBS solution of 0.05 mg/mL N,S-codoped CNDs over the potential window (vs Ag/AgCl) ranging from 0.0 to 0.7 V. This result agrees with recent studies on the redox properties and electronic states of CNDs whose redox reactions usually occur at more negative (<−1.0 V) or more positive (>0.7 V) potentials.[48,49] Hence, the redox peaks in Figure 3 result from an electrochemical reaction with DPPH[•] .[26] In another control experiment that used a DPPH[•] solution without CNDs, the cyclic voltammograms (Figure S5) show that the redox peak currents obtained from DPPH[•] at a concentration of 0.01 mg/mL are much lower than that obtained from a solution with a DPPH[•] concentration of 0.02 mg/mL (Figure S3A). The anodic/cathodic peak current magnitudes decrease as the concentration of N,S-codoped CNDs increase in solution, further substantiating our claim that N,S-codoped CNDs react with DPPH[•] . Note that a one-electron-transfer process is supported by the full-width-at-half-maximum (fwhm) value of about 110 mV (at 50 mV/s in Figure S3) in the faradaic waves. A diffusion coefficient (D0, cm[2] /s) was extracted according to the relationship between the peak current, ip (A), and the scan rate (V/s) by using the Randles–Sevcik formula, namely,[50,51] 
 
 
-![](_temp_588e07f7_convert__images/_temp_588e07f7_convert_.pdf-0007-08.png)
+![](_images/Antioxidant Capacity of Nitrogen and Sulfur Codoped Carbon_images/_temp_fc33d32f_convert_.pdf-0007-08.png)
 
 
 
-![](_temp_588e07f7_convert__images/_temp_588e07f7_convert_.pdf-0007-09.png)
+![](_images/Antioxidant Capacity of Nitrogen and Sulfur Codoped Carbon_images/_temp_fc33d32f_convert_.pdf-0007-09.png)
 
 
 where n is the number of electrons exchanged, A is the electrode active area (0.043 cm[2] ), C represents the DPPH[•] concentration (mol/mL), and ν is the voltage scan rate (V/s). D0, the diffusion coefficient of DPPH[•] , was found to be 2.0 × 10[−5] cm[2] /s. The N,S-codoped CND concentration-dependent slopes in Figure 4A and the diffusion coefficient determined by eq 2 were used to calculate the unreacted DPPH[•] concentrations in different solutions (Figure 4B). The free DPPH[•] concentration was found to be 31.8, 24.8, 18.2, 12.1, and 6.6 nmol/mL at the N,S-codoped CND concentrations of 0.02, 0.03, 0.05, 0.07, and 0.10 mg/mL, respectively. In the end, we calculated the scavenging activity using the equation 
 
 
-![](_temp_588e07f7_convert__images/_temp_588e07f7_convert_.pdf-0007-11.png)
+![](_images/Antioxidant Capacity of Nitrogen and Sulfur Codoped Carbon_images/_temp_fc33d32f_convert_.pdf-0007-11.png)
 
 
 in which C0 and Cc are the concentration of DPPH[•] without and with the incubation of N,S-codoped CNDs. The scavenging activity was calculated to be 38.9%, 52.2%, 65.1%, 76.7%, and 87.4% (Figure 4C) for 0.02, 0.03, 0.05, 0.07, and 0.10 mg/mL concentrations of CNDs, respectively. These findings are corroborated by the antioxidation activity results shown in the UV–vis spectroscopy experiments. 
@@ -355,7 +355,7 @@ Zhang et al.
 Page 14 
 
 
-![](_temp_588e07f7_convert__images/_temp_588e07f7_convert_.pdf-0014-06.png)
+![](_images/Antioxidant Capacity of Nitrogen and Sulfur Codoped Carbon_images/_temp_fc33d32f_convert_.pdf-0014-06.png)
 
 
 ## **Figure 1.** 
@@ -369,7 +369,7 @@ Page 15
 Zhang et al. 
 
 
-![](_temp_588e07f7_convert__images/_temp_588e07f7_convert_.pdf-0015-06.png)
+![](_images/Antioxidant Capacity of Nitrogen and Sulfur Codoped Carbon_images/_temp_fc33d32f_convert_.pdf-0015-06.png)
 
 
 ## **Figure 2.** 
@@ -383,7 +383,7 @@ Page 16
 Zhang et al. 
 
 
-![](_temp_588e07f7_convert__images/_temp_588e07f7_convert_.pdf-0016-06.png)
+![](_images/Antioxidant Capacity of Nitrogen and Sulfur Codoped Carbon_images/_temp_fc33d32f_convert_.pdf-0016-06.png)
 
 
 **Figure 3.** 
@@ -397,7 +397,7 @@ Zhang et al.
 Page 17 
 
 
-![](_temp_588e07f7_convert__images/_temp_588e07f7_convert_.pdf-0017-06.png)
+![](_images/Antioxidant Capacity of Nitrogen and Sulfur Codoped Carbon_images/_temp_fc33d32f_convert_.pdf-0017-06.png)
 
 
 **Figure 4.** 
@@ -411,7 +411,7 @@ Zhang et al.
 Page 18 
 
 
-![](_temp_588e07f7_convert__images/_temp_588e07f7_convert_.pdf-0018-06.png)
+![](_images/Antioxidant Capacity of Nitrogen and Sulfur Codoped Carbon_images/_temp_fc33d32f_convert_.pdf-0018-06.png)
 
 
 **Figure 5.** 
@@ -425,7 +425,7 @@ Zhang et al.
 Page 19 
 
 
-![](_temp_588e07f7_convert__images/_temp_588e07f7_convert_.pdf-0019-06.png)
+![](_images/Antioxidant Capacity of Nitrogen and Sulfur Codoped Carbon_images/_temp_fc33d32f_convert_.pdf-0019-06.png)
 
 
 ## **Figure 6.** 
@@ -439,7 +439,7 @@ Zhang et al.
 Page 20 
 
 
-![](_temp_588e07f7_convert__images/_temp_588e07f7_convert_.pdf-0020-06.png)
+![](_images/Antioxidant Capacity of Nitrogen and Sulfur Codoped Carbon_images/_temp_fc33d32f_convert_.pdf-0020-06.png)
 
 
 ## **Figure 7.** 
@@ -453,7 +453,7 @@ Zhang et al.
 Page 21 
 
 
-![](_temp_588e07f7_convert__images/_temp_588e07f7_convert_.pdf-0021-06.png)
+![](_images/Antioxidant Capacity of Nitrogen and Sulfur Codoped Carbon_images/_temp_fc33d32f_convert_.pdf-0021-06.png)
 
 
 ## **Figure 8.** 
@@ -467,7 +467,7 @@ Zhang et al.
 Page 22 
 
 
-![](_temp_588e07f7_convert__images/_temp_588e07f7_convert_.pdf-0022-06.png)
+![](_images/Antioxidant Capacity of Nitrogen and Sulfur Codoped Carbon_images/_temp_fc33d32f_convert_.pdf-0022-06.png)
 
 
 **Scheme 1.** 

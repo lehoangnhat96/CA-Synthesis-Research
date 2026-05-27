@@ -1,0 +1,30 @@
+﻿,GĐ4+5 – SẤY ĐỔI DUNG MÔI + NHIỆT PHÂN (Gel → Aerogel xanh → Carbon Aerogel)
+,GĐ4: Sấy ambient pressure (EtOH → tert-BuOH → 50°C). GĐ5: Nhiệt phân 900°C / N₂. Hiệu suất carbon: ~25–28% of dry mass
+,Thông số / Bước,Giá trị,Đơn vị,Cơ sở / Công thức,Lượng cụ thể,Thiết bị & thông số,Thời gian,Lưu ý / Cảnh báo
+,GĐ4 – SẤY ĐỔI DUNG MÔI (Solvent Exchange Drying – EtOH → tert-BuOH → Sấy 50°C)
+,  Nguyên tắc: Thay nước trong gel bằng dung môi có sức căng bề mặt thấp hơn → giảm lực mao dẫn → giảm co ngót khi sấy. tert-BuOH: γ = 20.7 mN/m (H₂O: 72 mN/m)
+,Thể tích hydrogel (gel ẩm),700,mL,~700g/1.0 g/mL ≈ 700mL,700 mL gel ẩm sau doping,Cốc đong,—
+,"EtOH 96% – Đợt rửa 1,2,3 (5× V mỗi lần)",10500,mL,5 × 700mL × 3 lần = 10500mL ≈ 10.5L,10.5 L Ethanol 96% – mua can 10L+1L,Chậu 5L × 3 lần thay,24–36 giờ tổng (3×8h),⚠ EtOH dễ cháy – không được có lửa trần gần khu vực làm việc. Thông gió tốt
+,"tert-BuOH – Đợt rửa 1,2 (5× V mỗi lần)",7000,mL,5 × 700mL × 2 lần = 7000mL ≈ 7L,7 L tert-Butanol (cảnh báo: nóng chảy 25.5°C → giữ ấm >28°C để dạng lỏng),Chậu 4L × 2 lần; gia nhiệt nhẹ 30°C nếu cứng,16–24 giờ tổng (2×8h),"⚠ tBuOH nóng chảy 25.5°C → để trong tủ ấm 30°C. Chi phí ~400,000đ/L (đắt nhất trong quy trình)"
+,Thời gian mỗi lần ngâm EtOH,6–8 giờ,h,Khuếch tán đạt cân bằng,"Mỗi lần ngâm ≥ 6h, tốt nhất qua đêm",Chậu kín có nắp,6–8 giờ / lần,Không rút ngắn xuống <4h → chưa đổi dung môi hoàn toàn
+,Thời gian mỗi lần ngâm tBuOH,8–12 giờ,h,tBuOH thay EtOH trong gel hoàn toàn,Mỗi lần ngâm ≥ 8h,"Chậu kín có nắp, T=28–30°C",8–12 giờ / lần
+,Sấy cuối trong tủ sấy chân không,50°C,°C,"Bay hơi tBuOH từ từ, ít co ngót",Sấy 50°C; nếu có tủ sấy chân không -0.05 atm càng tốt,Tủ sấy chân không (ưu tiên) HOẶC tủ sấy đối lưu 50°C,12–24 giờ,Cân định kỳ mỗi 2h cho đến khi khối lượng không đổi
+,→ Aerogel xanh (green aerogel) thu được,37,g,~95% dry mass: 39.2g × 0.95 = 37g,~37 g aerogel xanh (chứa cellulose + Fe + N),Cân phân tích,—,"Aerogel tốt: nhẹ, xốp, không giòn vụn. Nếu vỡ vụn nhiều → tBuOH chưa thay hoàn toàn"
+,"  CHI PHÍ GĐ4 (ước tính): EtOH 96% 10.5L ~200,000đ | tert-BuOH 7L ~2,800,000đ | Điện sấy ~20,000đ. TỔNG ~3,020,000đ. tBuOH là chi phí lớn nhất – mua dùng chung nhiều mẻ để tiết kiệm"
+,GĐ5 – NHIỆT PHÂN (CARBONIZATION) 700–1000°C / N₂
+,"  Nguyên tắc: Nhiệt phân loại bỏ H, O, N → carbon; Fe → Fe₃C/Fe₂O₃/Fe⁰. Carbon yield từ cellulose: ~20–30%. 900°C tối ưu giữa độ dẫn (graphite hóa) và N retention"
+,Khối lượng aerogel xanh đầu vào,37,g,Từ GĐ4,37 g green aerogel (Fe-N-Cellulose),Thuyền nung Al₂O₃ hoặc thạch anh,—,"Đặt trong thuyền nung, không chồng chất"
+,Khí bảo vệ N₂ (hoặc Ar),99.9%,% tinh khiết,Tránh oxy hóa carbon,Lưu lượng: 100–200 mL/phút trong suốt quá trình,Bình N₂ + van điều áp + flowmeter,Toàn bộ quá trình,⚠ Sục N₂ TRƯỚC khi gia nhiệt ≥ 15 phút để đuổi O₂ ra khỏi ống lò
+,Chương trình nhiệt: RT → 300°C,5°C/phút,°C/phút,Pha bay hơi ẩm + hemicellulose còn lại,Từ RT đến 300°C ở 5°C/phút = 54 phút,Lò ống (tube furnace),~54 phút,"300°C: bay hơi H₂O, CO₂; bắt đầu phân hủy sơ bộ"
+,Chương trình nhiệt: 300 → 900°C,3°C/phút,°C/phút,Carbonization chính: chậm để giữ cấu trúc xốp,600°C trong 200 phút = ~3.3h thêm,Lò ống,~200 phút,⚠ Giảm tốc độ gia nhiệt xuống 3°C/phút ở 300–900°C. Nhanh hơn → sập cấu trúc xốp
+,Giữ nhiệt ở 900°C,900,°C / 2h,"Hoàn tất carbonization, graphite hóa",Giữ 900°C trong 2 giờ (120 phút),Lò ống,2 giờ,"Trong giai đoạn này: sinh nhiều khí độc nhất (CO, HCN)"
+,Làm nguội: 900°C → RT,Tự nhiên trong N₂,°C/phút,Tránh oxy hóa carbon khi còn nóng,"Tắt gia nhiệt, giữ dòng N₂ 100mL/phút cho đến <200°C",N₂ duy trì,3–5 giờ,⚠ KHÔNG mở lò khi nhiệt độ >200°C trong môi trường có oxy
+,Tổng thời gian nung 1 mẻ,~9–10 giờ,h,54'+200'+120' làm nguội ~3h,9–10 giờ/mẻ. Có thể nung qua đêm,Lò ống tube furnace,9–10 giờ,Lên lịch nung vào ban đêm để không lãng phí thời gian
+,→ Carbon aerogel thu được,9.5,g,25% × 38g organic + Fe ~1.7g,"~9.5 g Fe-N-CA (màu đen, nhẹ, xốp)",Cân phân tích,—,"Đặc trưng ngay: BET, XRD, Raman trước khi tiếp tục"
+,BẢNG KHẢO SÁT NHIỆT ĐỘ NUNG (700 / 800 / 900°C) – SONG SONG
+,,,Mẫu,T nung (°C),Thời gian giữ nhiệt,Carbon yield (ước tính),Khối lượng thu (g),ID/IG Raman (dự kiến),BET (m²/g dự kiến),Ưu điểm/Nhược điểm
+,,,CA-700,700°C,2h,~30%: ≈11.1g,~11.1g,~1.2–1.4 (nhiều khuyết tật),~400–600,N retention cao (~5%); độ dẫn thấp hơn
+,,,CA-800,800°C,2h,~27%: ≈10.0g,~10.0g,~1.1–1.3,~600–900,Cân bằng giữa N và độ dẫn
+,,,CA-900 ★,900°C,2h,~25%: ≈9.5g,~9.5g,~0.9–1.1 (graphite hóa tốt),~800–1200,"★ Độ dẫn tốt nhất, graphite hóa cao"
+,  Ba mẫu CA-700/800/900 có thể nung TUẦN TỰ trong cùng 1 lò (1 mẻ/ngày) HOẶC song song nếu có 2–3 lò. Nung theo thứ tự từ thấp đến cao nhiệt độ để tránh cross-contamination
+,"⚠ AN TOÀN NHIỆT PHÂN: (1) Khí thải (HCN từ N, CO) → BẮT BUỘC scrubber NaOH 10% ở đầu ra. (2) Không mở lò >200°C trong không khí. (3) N₂ sục 15 phút TRƯỚC khi gia nhiệt. (4) Kiểm tra kín ống lò trước mỗi mẻ."

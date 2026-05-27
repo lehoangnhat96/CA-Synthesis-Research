@@ -1,0 +1,183 @@
+﻿QUY TRÌNH TỔNG HỢP FE-N-CARBON AEROGEL TỪ XƠ DỪA + CHẾ TẠO ĐIỆN CỰC (ĐÃ HIỆU CHỈNH v2)
+Giai đoạn,Bước,Mô tả,Hóa chất / Vật liệu,Hàm lượng / Nồng độ,Thiết bị,Thông số thiết bị,Thời gian,Lưu ý / Cảnh báo,Kết quả kỳ vọng
+"GĐ1
+Tiền xử lý
+xơ dừa",1.1,"Rửa sạch, loại lignin, tạp chất","NaOH, H₂O cất",NaOH 2% (w/v); tỉ lệ rắn:lỏng = 1:20 (g:mL),"Bình cầu 500mL, bếp từ gia nhiệt","80°C, 2h, khuấy 300 rpm",2h,⚠ NaOH >5% → phá hủy cellulose. Rửa đến pH trung tính bằng DI water,"Xơ dừa sạch, trắng hơn, loại hemi-cellulose & lignin"
+,1.2,TẨY TRẮNG bằng H₂O₂ – Loại lignin còn lại & nhóm màu,"H₂O₂ 30%, NaOH",H₂O₂ 3–5% (v/v) trong NaOH 1%; tỉ lệ 1:20,"Bình thủy tinh, bếp từ","60°C, 2–4h, khuấy nhẹ 100 rpm",2–4h,"⚠ H₂O₂ là chất oxy hóa mạnh – KHÔNG đậy kín bình (áp suất). Tránh tiếp xúc da/mắt.
+⚠ pH phải >10 để H₂O₂ hoạt động hiệu quả (kiềm kích hoạt H₂O₂).
+✅ Sau bước này: rửa kỹ đến pH 7; sấy 60°C/12h","Xơ dừa TRẮNG RÕ, giảm lignin >70%, tăng độ tinh khiết cellulose"
+,1.3,Sấy khô sơ bộ,—,—,Tủ sấy,"60°C, 12h",12h,Độ ẩm phải <5% trước bước hòa tan. Dùng cân phân tích kiểm tra khối lượng trước/sau,"Xơ dừa khô, giòn"
+,1.4,Nghiền mịn,—,—,Máy xay hoặc ball mill,Tốc độ cao 30 min → rây ≤200 mesh,1–2h,Kích thước đồng đều → gel đồng nhất hơn. Lưu mẫu trong túi zip kín,"Bột xơ dừa mịn, trắng, kích thước ≤75µm"
+"GĐ2
+Tổng hợp
+hydrogel",2.1,Hòa tan cellulose trong hệ NaOH/Urea,"NaOH, Urea, H₂O cất","NaOH 7% / Urea 12% / H₂O (w/w); cellulose 2–4 wt%
+Ví dụ: 100g dd = 7g NaOH + 12g Urea + 81g H₂O + 2–4g cellulose bột","Tủ đông (−12°C), máy khuấy","Đông −12°C/12h → rã đông RT → khuấy mạnh 1000rpm/1h
+Lặp 2–3 chu kỳ cho đến trong suốt",12–24h,"⚠ Nồng độ cellulose >5% → khó hòa tan → tăng chu kỳ đông-rã
+⚠ Không khuấy khi còn đông → tan không đều","Dung dịch cellulose trong suốt, nhớt, không cặn"
+,2.2,Thêm Fe-doping (FeCl₃),FeCl₃·6H₂O,"0.5 / 1.0 / 1.5 / 2.0 wt% so với cellulose (4 mức khảo sát)
+Ví dụ: 4g cellulose → thêm 0.02 / 0.04 / 0.06 / 0.08g FeCl₃·6H₂O",Máy khuấy từ,"RT, nhỏ giọt từ từ (dropwise), khuấy 500 rpm, 30 min",0.5h,"⚠ Fe³⁺ thủy phân ở pH cao → nhỏ giọt, khuấy liên tục. Màu vàng nhạt là bình thường.
+✅ Không thấy kết tủa nâu = dấu hiệu tốt","Dung dịch cellulose-Fe đồng nhất, màu vàng nhạt"
+,2.3,Thêm N-doping (Melamine),Melamine (nghiền mịn trước),"0.5–2.0 wt% so với cellulose
+Ưu tiên: Melamine 1 wt% (thực nghiệm ban đầu)","Máy khuấy từ, cối nghiền","RT, phân tán từng chút, khuấy 30 min",0.5h,"Melamine ít tan trong nước → nghiền mịn trước; phân tán từ từ để tránh vón cục
+✅ Urea trong dung môi ban đầu đã cung cấp một phần N → Melamine = nguồn N bổ sung","Hỗn hợp đồng nhất, không cặn"
+,2.4,Gel hóa (Crosslinking bằng Citric acid – GREEN),Citric acid monohydrate,"10 wt% so với cellulose
+Ví dụ: 4g cellulose → 0.4g citric acid hòa tan trong 2mL DI water, thêm vào gel","Bếp từ, khuôn silicon/PTFE","50°C, 4–6h, không khuấy sau khi đổ khuôn",4–6h,"✅ ƯU TIÊN Citric acid thay ECH vì: thân thiện môi trường (green chemistry), dễ publish Q1 hơn
+⚠ ECH: nếu dùng, phải trong tủ hút – độc hại, cần xử lý chất thải
+⚠ Không mở nắp trong 4h đầu → gel đồng đều","Hydrogel cứng, đàn hồi, không chảy khi lật ngược"
+"GĐ3
+Solvent
+Exchange
+(KHÔNG TMCS)",3.1,Trao đổi dung môi: H₂O → Ethanol,Ethanol tuyệt đối 99.8%,"Ngâm gel trong EtOH 100%, thay 3 lần, mỗi lần 100mL/g gel",Bình thủy tinh có nắp,"RT, mỗi lần 2h",3×2h = 6h,"Thay dần (50% EtOH → 70% → 100%) nếu gel dễ vỡ
+Bước này loại hoàn toàn H₂O → alcogel","Alcogel (gel EtOH), trong suốt hơn"
+"⚠️ GIẢI THÍCH
+VÀ QUYẾT ĐỊNH
+VỀ TMCS",,TẠI SAO SHEET CŨ CÓ TMCS? VÀ CÓ NÊN DÙNG KHÔNG?,,"TMCS được dùng trong quy trình AMBIENT DRYING để ngăn aerogel bị collapse:
+Cơ chế: TMCS gắn nhóm −Si(CH₃)₃ lên bề mặt gel → bề mặt kỵ nước → giảm lực căng bề mặt khi bay hơi dung môi → cấu trúc xốp được bảo toàn
+
+NHƯNG: Đối với SENSOR ION KIM LOẠI:
+• Ion kim loại (Pb²⁺, Cd²⁺) là cation PHÂN CỰC, cần bề mặt ƯA NƯỚC để tiếp cận electrode
+• Sau carbonization 800°C: Nhóm −Si(CH₃)₃ BỊ PHÂN HỦY HOÀN TOÀN (≥400°C) → tính kỵ nước do TMCS BIẾN MẤT
+→ Carbon aerogel sau nung: bề mặt carbon KHÔNG còn TMCS, chỉ còn N, Fe, và defects
+
+KẾT LUẬN: TMCS an toàn để dùng trong ambient drying NẾU sau đó có carbonization ≥700°C
+Tuy nhiên: nếu LO NGẠI hoặc không có điều kiện an toàn → THAY THẾ bằng:
+• Phương án A: Ethanol supercritical (nếu có thiết bị)
+• Phương án B: t-Butanol freeze substitution (dùng t-BuOH thay H₂O, sấy đông)
+• Phương án C (KHUYẾN NGHỊ ĐƠN GIẢN): Sấy thường KHÔNG TMCS + chấp nhận S_BET thấp hơn ~20%",,,,,"QUYẾT ĐỊNH CHO DỰ ÁN NÀY:
+→ KHÔNG dùng TMCS (đơn giản hóa, an toàn, phù hợp sensor ion KL)
+→ Dùng Ethanol solvent exchange + sấy thường trực tiếp
+→ Bù lại bằng: tối ưu nhiệt độ carbonization (800°C) + KOH activation (tùy chọn)"
+"GĐ4
+Sấy thường
+(Không TMCS)",4.1,Sấy ambient – Nâng nhiệt từ từ,—,—,Tủ sấy thường (đối lưu không khí),"Nâng dần: 40°C/4h → 60°C/8h → 80°C/8h → 120°C/4h
+TỔNG: ~24h; ramp 10°C mỗi 1–2h",24h,"⚠ KHÔNG nâng nhiệt đột ngột → nứt vỡ cấu trúc (yếu tố kỹ thuật THEN CHỐT)
+⚠ Aerogel nên được đặt trên lưới (không tiếp xúc đáy) để bay hơi đều
+✅ Sau sấy: KHÔNG cần rửa TMCS hay hexane → đơn giản hơn nhiều","Aerogel xơ dừa khô, nhẹ, màu trắng/vàng nhạt
+BET ước tính: 200–400 m²/g (thấp hơn TMCS ~20%)"
+"GĐ5
+Carbonization",5.1,Nung carbon hóa trong N₂,Khí N₂ bảo vệ (99.999%),Flow rate N₂: 100–200 mL/min trong suốt quá trình nung,"Lò nung ống (tube furnace)
+Thuyền Al₂O₃ hoặc graphite","Ramp: 5°C/min đến 800°C (thử 3 mức: 700/800/900°C)
+Giữ ở nhiệt độ đích: 2h
+Làm nguội tự nhiên trong N₂ đến <50°C","~5h ramp + 2h giữ
+= 7–8h tổng","⚠ KHÔNG để lọt O₂ → mẫu bị cháy. Kiểm tra kín khí TRƯỚC khi bật lò
+⚠ Khi mở lò: nhiệt độ phải <80°C (tránh carbon aerogel tiếp xúc O₂ khi còn nóng)
+✅ Cân mẫu trước và sau → tính % yield (thường 20–40%)","Carbon aerogel đen, nhẹ hơn (~25% khối lượng ban đầu)
+BET: 400–800 m²/g
+Dẫn điện: 1–10 S/cm"
+,5.2,Kích hoạt bằng KOH (TÙY CHỌN – nâng BET),KOH (pellet),"KOH:C = 2:1 (w/w) – trộn khô với carbon aerogel đã nghiền
+Ví dụ: 0.2g CA + 0.4g KOH","Lò nung ống, thuyền Ni hoặc Al₂O₃ chịu kiềm","N₂ 200 mL/min; 800°C; 1h
+(Chạy SAU bước 5.1 trên cùng thiết bị)",1h thêm,"⚠ KOH ăn mòn cực mạnh → dùng thuyền Ni (không Al thông thường)
+⚠ Rửa sản phẩm bằng HCl 1M → DI water đến pH 7 → sấy 120°C/2h
+⚠ KHÔNG dùng KOH quá 4:1 → phá cấu trúc carbon","BET tăng lên 800–1500 m²/g
+Tạo micropore thêm → tăng sensitivity ion KL"
+"GĐ6
+Chế tạo
+Màng Điện Cực
+(GCE)",6.1,"Chuẩn bị và làm sạch GCE (Glassy Carbon Electrode, ∅3mm)","Al₂O₃ polishing powder (1µm, 0.3µm, 0.05µm)
+EtOH, DI water","Đánh bóng theo thứ tự kích thước: 1µm → 0.3µm → 0.05µm
+Rửa siêu âm: EtOH 5min + DI water 5min","Máy đánh bóng (polishing cloth)
+Bể siêu âm
+Potentiostat","Đánh bóng: 3–5 min/mỗi kích thước
+CV scan trong H₂SO₄ 0.5M: −0.2V đến 1.0V, 50mV/s, 20 cycles (làm sạch điện hóa)",~30 min,"⚠ GCE không bóng gương → tín hiệu nền cao, RSD lớn
+⚠ KHÔNG dùng giấy nhám hay vải thô → trầy bề mặt
+✅ Tiêu chí kiểm tra: CV của K₃[Fe(CN)₆] 5mM trong KCl 0.1M phải cho 2 peak đối xứng,
+   ΔEp ≤ 80mV → GCE sạch","GCE sạch, bóng gương, nền điện hóa ổn định"
+,6.2,Pha huyền phù vật liệu (CA ink),"Fe-N-CA bột, DMF (N,N-Dimethylformamide)
+hoặc DI water/EtOH (1:1)","CA bột: 1 mg/mL trong DMF
+Hoặc: 2 mg/mL trong H₂O:EtOH = 1:1
+⚠ DMF tốt hơn cho phân tán nhưng độc hơn",Bể siêu âm,"Siêu âm 30 min để phân tán đều
+Không để quá 2h (nanoparticle bị settle)",30 min,"⚠ Pha fresh trước mỗi lần dùng. Không dùng lại huyền phù >24h
+✅ Kiểm tra bằng mắt: không thấy cặn lắng = phân tán tốt","Huyền phù CA đồng nhất, màu đen"
+,6.3,Nhỏ giọt (Drop-casting) lên GCE,"Huyền phù CA (1 mg/mL)
+Nafion solution 0.5% (w/v) trong EtOH","Thể tích CA ink: 5µL (= ~5µg/cm²)
+Thể tích Nafion: 2µL (lớp bảo vệ bên trên)
+KHẢO SÁT: 2, 5, 10µL CA ink để tìm tối ưu","Micropipette (10µL)
+Đèn hồng ngoại hoặc sấy nhẹ 40°C","Nhỏ CA ink → sấy 40°C/15min
+Nhỏ Nafion → sấy RT/30min",45 min,"⚠ KHÔNG nhỏ cùng lúc CA + Nafion → Nafion kẹp giữa → block ion tiếp cận electrode
+⚠ Sấy quá nóng (>50°C) → Nafion mất cấu trúc
+✅ Nhỏ từng giọt nhỏ (2×2.5µL tốt hơn 1×5µL) → màng đồng đều hơn
+✅ Bảo quản điện cực ở 4°C khi không dùng","Màng CA/Nafion trên GCE, đồng đều, không bong tróc"
+"GĐ7
+Điều Kiện Đo
+Ion Kim Loại
+(DPASV)",7.1,"Chuẩn bị đệm và điện dịch – Ion kim loại Pb²⁺, Cd²⁺","CH₃COONa, CH₃COOH (glacial)
+DI water (độ dẫn <0.1 µS/cm)","Đệm acetate 0.1M, pH 4.5:
+• 8.2g CH₃COONa + 5.75mL CH₃COOH → pha thành 1L với DI water
+• Chỉnh pH = 4.5 bằng NaOH 0.1M hoặc HCl 0.1M
+Standard Pb²⁺: 1000 ppm (Pb(NO₃)₂) → pha loãng
+Standard Cd²⁺: 1000 ppm (Cd(NO₃)₂·4H₂O) → pha loãng","pH meter (calibrate 3 điểm), pipette chính xác
+Bình định mức 1L","Pha đệm: 30 min
+Đo pH và chỉnh: 15 min",45 min,"⚠ pH phải đo chính xác – sai 0.2 đơn vị → peak Pb dịch chuyển ~10mV
+⚠ DI water chất lượng cao – nếu không có: dùng nước cất 2 lần
+✅ pH 4.5 tối ưu cho Pb²⁺ và Cd²⁺ đồng thời (ASV/DPASV)
+✅ Pha standard trong đệm acetate để ma trận giống mẫu","Đệm acetate pH 4.5 ổn định
+Dung dịch chuẩn Pb²⁺ và Cd²⁺"
+,7.2,Đo DPASV (Differential Pulse Anodic Stripping Voltammetry) – Quy trình đo,"Hệ 3 điện cực:
+• WE: CA/GCE
+• RE: Ag/AgCl (3M KCl)
+• CE: Pt wire","Dung dịch đo: 10mL đệm acetate pH 4.5 + standard Pb²⁺/Cd²⁺
+Thổi N₂ 10 min trước khi đo (khử O₂ hòa tan)","Potentiostat (CHI 760 hoặc tương đương)
+Cell 3 điện cực 20mL
+Bình N₂ với đầu sục khí","BƯỚC PRECONCENTRATION (Accumulation):
+• E_acc = −1.2V (vs Ag/AgCl)
+• t_acc = 120s (khảo sát: 60/120/180/240s)
+• Khuấy: 400 rpm
+
+BƯỚC STRIPPING (DPASV):
+• Quét từ −1.2V → +0.2V
+• Pulse amplitude: 50mV
+• Pulse width: 50ms
+• Step potential: 5mV
+• Scan rate: 100mV/s
+
+KẾT QUẢ KỲ VỌNG (peak potential vs Ag/AgCl):
+• Cd²⁺: ~−0.75V
+• Pb²⁺: ~−0.55V","120s acc
++ ~20s scan
+= ~2.5 min/lần đo","⚠ Thổi N₂ KHÔNG ĐỦ → O₂ còn lại → peak nhiễu lớn ~−0.3V che Pb²⁺
+⚠ Không khuấy trong giai đoạn stripping
+⚠ E_acc quá âm (<−1.3V) → H₂ evolution → bong màng CA
+✅ Mỗi lần đo mới: GCE phải được 'làm sạch' bằng quét +0.5V/30s để loại Pb bám lại
+✅ Ghi tất cả thông số vào lab notebook ngay sau đo","Voltammogram DPASV rõ peak Pb²⁺ (~−0.55V) và Cd²⁺ (~−0.75V)
+LOD target: Pb <0.1 ppb, Cd <0.05 ppb"
+,7.3,Đường chuẩn và LOD (10 nồng độ),"Pb(NO₃)₂, Cd(NO₃)₂
+Đệm acetate 0.1M pH 4.5","Nồng độ: 0.005 / 0.01 / 0.05 / 0.1 / 0.5 / 1.0 / 5.0 / 10 / 50 / 100 ppb
+Mỗi nồng độ đo 3 lần lặp (n=3)","Potentiostat, micropipette","DPASV: E_acc=−1.2V, t_acc=120s
+Cùng thông số với 7.2",~3h cho toàn bộ đường chuẩn,"⚠ Pha loãng dãy chuẩn TRONG đệm (không phải DI water) → ma trận nhất quán
+⚠ Pha fresh mỗi ngày đo
+✅ LOD = 3σ/S (σ = SD của 10 lần đo blank; S = slope đường chuẩn)
+✅ R² phải >0.998 cho toàn bộ linear range","Đường chuẩn tuyến tính R²>0.998
+LOD và LOQ tính theo IUPAC"
+"GĐ8
+Điều Kiện Đo
+Dopamine
+(DPV)
+[Tham khảo]",8.1,Chuẩn bị đệm PBS pH 7.4 – Đo Dopamine,"Na₂HPO₄, NaH₂PO₄
+Dopamine HCl (Sigma-Aldrich)
+DI water","PBS 0.1M pH 7.4:
+• 80mL Na₂HPO₄ 0.1M + 20mL NaH₂PO₄ 0.1M → chỉnh pH 7.4
+Standard DA: 10 mM (stock) → pha từ DA·HCl trong PBS
+Pha fresh mỗi ngày, bảo quản 4°C, tối","pH meter, bình định mức",30 min,30 min,"⚠ DA bị oxy hóa ngoài không khí → pha fresh ngay trước khi dùng
+⚠ Tránh ánh sáng (DA nhạy quang)
+✅ Thêm 0.1mM ascorbic acid vào stock để ổn định nếu cần","PBS 0.1M pH 7.4 ổn định
+DA stock 10mM (bảo quản đúng)"
+,8.2,Đo DPV (Differential Pulse Voltammetry) – Dopamine,"Hệ 3 điện cực (như GĐ7)
+DA trong PBS pH 7.4","Interferents cần test đồng thời:
+• Ascorbic acid (AA): 100 µM
+• Uric acid (UA): 50 µM
+• Glucose: 1 mM",Potentiostat,"DPV parameters:
+• Quét từ −0.2V → +0.6V (vs Ag/AgCl)
+• Pulse amplitude: 50mV
+• Pulse width: 50ms
+• Step: 5mV
+• Scan rate: 50mV/s
+
+KẾT QUẢ KỲ VỌNG:
+• AA: ~−0.05V
+• DA: ~+0.15V
+• UA: ~+0.30V
+(3 peak phân tách rõ → tính chọn lọc)",~30s/scan,"⚠ Không cần preconcentration (khác với ion KL)
+⚠ Peak DA và AA có thể overlap nếu vật liệu không đủ hoạt tính → cần surface modification tốt
+✅ pH 7.4 bắt buộc để so sánh với điều kiện sinh lý","DPV peak DA rõ ràng tại ~+0.15V, tách biệt AA và UA
+LOD target: <50 nM"
+📋 CHÚ GIẢI MÀU SẮC: 🟡 GĐ1 Tiền xử lý  🟢 GĐ2 Hydrogel  🔵 GĐ3 Solvent Exchange  🟠 GĐ4 Sấy  🟣 GĐ5 Carbonization  🟢đậm GĐ6 Điện cực  🔴 GĐ7 Đo ion KL  🔵nhạt GĐ8 Đo DA

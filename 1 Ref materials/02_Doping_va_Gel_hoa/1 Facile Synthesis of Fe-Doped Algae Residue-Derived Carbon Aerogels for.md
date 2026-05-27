@@ -1,7 +1,7 @@
 _**sensors**_ 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0001-01.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0001-01.png)
 
 
 ## _Article_ 
@@ -29,7 +29,7 @@ Academic Editor: Kuoyuan Hwa
 Received: 5 April 2024 Revised: 20 April 2024 Accepted: 24 April 2024 Published: 27 April 2024 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0001-13.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0001-13.png)
 
 
 **Copyright:** © 2024 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https:// creativecommons.org/licenses/by/ 4.0/). 
@@ -59,7 +59,7 @@ _Sensors_ **2024** , _24_ , 2787
 3 of 13 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0003-02.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0003-02.png)
 
 
 **Scheme 1.** Schematic synthesis process of CAs-Fe, using AR and Fe(NO3)3 as the carbon and Fe resources, as well as the fabrication of CA-Fe-based electrochemical DA biosensors. 
@@ -105,7 +105,7 @@ _Sensors_ **2024** , _24_ , 2787
 Furthermore, the graphene carbon peak observed at 26 _[◦]_ in the CAs-Fe-700 is lower and wider, indicating a lower degree of graphitization, possibly due to the lower temperature during the carbonization process. 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0005-03.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0005-03.png)
 
 
 **Figure 1.** SEM images of ( **A** ) CAs, ( **B** ) CAs-Fe-700, and ( **C** ) CAs-Fe-1000. ( **D** ) XRD spectra of CAs, CAs-Fe-700, and CAs-Fe-1000. 
@@ -119,11 +119,11 @@ _Sensors_ **2024** , _24_ , 2787
 6 of 13 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0006-02.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0006-02.png)
 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0006-03.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0006-03.png)
 
 
 **Figure 2.** ( **A** ) Raman spectra of CAs, CAs-Fe-700, and CAs-Fe-1000. ( **B** ) XPS spectrum of CAs. ( **C** ) XPS spectrum of CAs-Fe-700. ( **D** ) XPS spectrum of CAs-Fe-1000. ( **E** ) Fe 2p for CAs-Fe-700. ( **F** ) Fe 2p for CAs-Fe-1000. 
@@ -141,371 +141,371 @@ _Sensors_ **2024** , _24_ , 2787
 eight times that of the bare GCE. In addition, the CAs/GCE-Fe-700 and CAs/GCE-Fe-1000 showed signifcantly higher peak currents compared to the former two, approximately 7–9 times that of the CAs/GCE. This indicates that the CAs/GCE-Fe exhibit excellent electrocatalytic activity for DA detection, making it more suitable for DA detection. This may be attributed to the addition of Fe, which improves the conductivity of the material and enhances the charge transfer rate, thereby improving the current response in the detection of DA [39]. 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0007-03.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0007-03.png)
 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0007-04.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0007-04.png)
 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0007-05.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0007-05.png)
 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0007-06.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0007-06.png)
 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0007-07.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0007-07.png)
 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0007-08.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0007-08.png)
 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0007-09.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0007-09.png)
 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0007-10.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0007-10.png)
 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0007-11.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0007-11.png)
 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0007-12.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0007-12.png)
 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0007-13.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0007-13.png)
 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0007-14.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0007-14.png)
 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0007-15.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0007-15.png)
 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0007-16.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0007-16.png)
 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0007-17.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0007-17.png)
 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0007-18.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0007-18.png)
 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0007-19.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0007-19.png)
 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0007-20.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0007-20.png)
 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0007-21.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0007-21.png)
 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0007-22.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0007-22.png)
 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0007-23.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0007-23.png)
 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0007-24.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0007-24.png)
 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0007-25.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0007-25.png)
 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0007-26.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0007-26.png)
 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0007-27.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0007-27.png)
 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0007-28.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0007-28.png)
 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0007-29.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0007-29.png)
 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0007-30.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0007-30.png)
 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0007-31.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0007-31.png)
 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0007-32.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0007-32.png)
 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0007-33.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0007-33.png)
 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0007-34.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0007-34.png)
 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0007-35.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0007-35.png)
 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0007-36.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0007-36.png)
 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0007-37.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0007-37.png)
 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0007-38.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0007-38.png)
 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0007-39.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0007-39.png)
 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0007-40.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0007-40.png)
 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0007-41.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0007-41.png)
 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0007-42.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0007-42.png)
 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0007-43.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0007-43.png)
 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0007-44.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0007-44.png)
 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0007-45.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0007-45.png)
 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0007-46.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0007-46.png)
 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0007-47.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0007-47.png)
 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0007-48.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0007-48.png)
 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0007-49.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0007-49.png)
 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0007-50.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0007-50.png)
 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0007-51.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0007-51.png)
 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0007-52.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0007-52.png)
 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0007-53.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0007-53.png)
 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0007-54.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0007-54.png)
 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0007-55.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0007-55.png)
 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0007-56.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0007-56.png)
 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0007-57.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0007-57.png)
 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0007-58.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0007-58.png)
 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0007-59.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0007-59.png)
 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0007-60.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0007-60.png)
 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0007-61.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0007-61.png)
 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0007-62.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0007-62.png)
 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0007-63.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0007-63.png)
 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0007-64.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0007-64.png)
 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0007-65.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0007-65.png)
 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0007-66.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0007-66.png)
 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0007-67.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0007-67.png)
 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0007-68.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0007-68.png)
 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0007-69.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0007-69.png)
 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0007-70.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0007-70.png)
 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0007-71.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0007-71.png)
 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0007-72.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0007-72.png)
 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0007-73.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0007-73.png)
 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0007-74.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0007-74.png)
 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0007-75.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0007-75.png)
 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0007-76.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0007-76.png)
 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0007-77.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0007-77.png)
 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0007-78.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0007-78.png)
 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0007-79.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0007-79.png)
 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0007-80.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0007-80.png)
 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0007-81.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0007-81.png)
 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0007-82.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0007-82.png)
 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0007-83.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0007-83.png)
 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0007-84.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0007-84.png)
 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0007-85.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0007-85.png)
 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0007-86.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0007-86.png)
 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0007-87.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0007-87.png)
 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0007-88.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0007-88.png)
 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0007-89.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0007-89.png)
 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0007-90.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0007-90.png)
 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0007-91.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0007-91.png)
 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0007-92.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0007-92.png)
 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0007-93.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0007-93.png)
 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0007-94.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0007-94.png)
 
 
 **Figure 3.** ( **A** ) CVs of various electrodes in 0.1 M KCl solution containing 1.0 mM of [Fe(CN)6][3] _[−]_[/4] _[−]_ . The CV was measured with a scan rate of 50 mV s _[−]_[1] . ( **B** ) The EIS of bare GCE, CAs/GCE, CAs/GCEFe-700, and CAs/GCE-Fe-1000. ( **C** ) CVs of bare GCE, CAs/GCE, CAs/GCE-Fe-700, and CAs/GCEFe-1000 in the absence/presence of 30 µM DA in PBS (pH = 7.0). The scan rate is 50 mV s _[−]_[1] . ( **D** ) CVs of the CAs/GCE-Fe-1000 at different scan rates from 20 to 200 mV s _[−]_[1] in 0.1 M PBS (pH = 7) containing 30 µM DA. ( **E** ) Plots of the redox peak current (Ip) vs. the square root of scan rate (V[1/2] ). 
@@ -515,7 +515,7 @@ To better understand the alternating oxidation kinetics on the CAs/GCE-Fe-1000, 
 Figure 3E shows the linear relationship between peak current (Ip) and the square root of scan rate (V[1/2] ). The RSD value is shown in Table S3. The linear regression equation is as follows: 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0007-98.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0007-98.png)
 
 
 Based on Equations (1) and (2), it can be concluded that the oxidation and reduction in DA on the CAs/GCE-Fe follow a diffusion-controlled mechanism [40]. 
@@ -527,11 +527,11 @@ _Sensors_ **2024** , _24_ , 2787
 Figure 4A–C show the current-time (I-t) response curves of the CAs/GCE, CAs/GCEFe-700, and CAs/GCE-Fe-1000 at different DA concentrations. We chose three CAs/GCEFe-1000 electrodes for reproducibility tests in each DA concentration. As the DA concentration increases from 0.01 µM to 200 µM, the current response becomes more pronounced. It can be observed from Figure 4A–C that the CAs/GCE, CAs/GCE-Fe-700, and CAs/GCE-Fe1000 produce significant current signals at DA concentrations of 0.5 µM, 0.1 µM, and 0.01 µM, respectively. Particularly, the CAs/GCE-Fe-1000 exhibit the widest detectable range, with larger current fluctuations, indicating their higher detection capability and sensitivity. 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0008-03.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0008-03.png)
 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0008-04.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0008-04.png)
 
 
 **Figure 4.** I-T response of ( **A** ) CAs/GCE, ( **B** ) CAs/GCE-Fe-700, and ( **C** ) CAs/GCE-Fe-1000 for various DA concentrations (0.01–200 µM) in 0.1 M PBS solution (pH = 7.0), with a scan rate of 50 mV s _[−]_[1] . ( **D** ) Linear calibration of I-t response with the DA concentration from 0.01 to 200 µM. ( **E** ) The effect of different interfering species on the I-t responses of DA of the CAs/GCE-Fe-1000. ( **F** ) Stability of the CAs/GCE-Fe-1000 electrochemical platform for 7 days. 
@@ -587,7 +587,7 @@ _Sensors_ **2024** , _24_ , 2787
 structure of the CAs-Fe-1000 and their higher degree of graphitization, providing favorable conditions for electron transfer in the electrocatalytic process. 
 
 
-![](_temp_6051a110_convert__images/_temp_6051a110_convert_.pdf-0010-03.png)
+![](_images/1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for_images/_temp_3565e51d_convert_.pdf-0010-03.png)
 
 
 **Scheme 2.** Illustration of the electro-oxidation process on the CAs/GCE-Fe surface towards DA. 

@@ -1,7 +1,7 @@
 Composites Science and Technology 238 (2023) 110042 
 
 
-![](_temp_f3cf3a3d_convert__images/_temp_f3cf3a3d_convert_.pdf-0001-01.png)
+![](_images/Electrochemical performance of supercapacitor electrodes based on carbon_images/_temp_e4576989_convert_.pdf-0001-01.png)
 
 
 Contents lists available at ScienceDirect 
@@ -11,13 +11,13 @@ Contents lists available at ScienceDirect
 journal homepage: www.elsevier.com/locate/compscitech 
 
 
-![](_temp_f3cf3a3d_convert__images/_temp_f3cf3a3d_convert_.pdf-0001-05.png)
+![](_images/Electrochemical performance of supercapacitor electrodes based on carbon_images/_temp_e4576989_convert_.pdf-0001-05.png)
 
 
 ## Electrochemical performance of supercapacitor electrodes based on carbon aerogel-reinforced spread tow carbon fiber fabrics 
 
 
-![](_temp_f3cf3a3d_convert__images/_temp_f3cf3a3d_convert_.pdf-0001-07.png)
+![](_images/Electrochemical performance of supercapacitor electrodes based on carbon_images/_temp_e4576989_convert_.pdf-0001-07.png)
 
 
 ## Habtom D. Asfaw[a][,][1] , Anthony Kucernak[a] , Emile S. Greenhalgh[b] , Milo S.P. Shaffer[a][,][c][,][* ] 
@@ -93,7 +93,7 @@ The electrochemical performance of the CAG-CF fabrics was studied using cyclic v
 _H.D. Asfaw et al.                                                                                                                                                                                                                               Composites Science and Technology 238 (2023) 110042_ 
 
 
-![](_temp_f3cf3a3d_convert__images/_temp_f3cf3a3d_convert_.pdf-0003-01.png)
+![](_images/Electrochemical performance of supercapacitor electrodes based on carbon_images/_temp_e4576989_convert_.pdf-0003-01.png)
 
 
 **Fig. 1.** Schematic presentation of the manufacturing process for carbon aerogel-modified carbon fiber laminates (a) A typical RIFT setup used to impregnate the spread tow carbon fibre fabrics with resorcinol-formaldehyde resin. (b) The resin infused into the fabrics is cured at ambient temperature for 24 h and then crosslinked at 50[◦] C (24 h) and 80[◦] C (24 h) to prepare organic aerogels, which are eventually carbonized at 800[◦] C. 
@@ -101,7 +101,7 @@ _H.D. Asfaw et al.                                                              
 electrical contact. Measurements were done using SP240 potentiostat (Bio-Logic) with EC-Lab interface. In cyclic voltammetry experiments, the electrodes were cycled at scan rates ranging from 5 to 1000 mV s[−][1 ] and data collected were used to understand the kinetics of charging and discharging of the electric double layer. To calculate the specific capacitance (Cs) from CV data the following equation was applied 
 
 
-![](_temp_f3cf3a3d_convert__images/_temp_f3cf3a3d_convert_.pdf-0003-04.png)
+![](_images/Electrochemical performance of supercapacitor electrodes based on carbon_images/_temp_e4576989_convert_.pdf-0003-04.png)
 
 
 where m, _ν_ , I and t represent the total mass of the electrodes (CAG + CF), the CV scan rate, current and total charge/discharge time, respectively. In the galvanostatic studies, a series of specific currents (0.02–3.5 A g[−][1] ) were applied and the performance of the symmetric cells were analyzed to extract essential metrics including specific capacitance (Cs,cell), i.e., capacitance normalized to total mass of the two electrodes (m), 
@@ -109,11 +109,11 @@ where m, _ν_ , I and t represent the total mass of the electrodes (CAG + CF), t
 equivalent series resistance (ESR), specific energy (Es) and specific power (Ps). Eventually, the results were summarized in the form of the Ragone plot. The following equations were applied: 
 
 
-![](_temp_f3cf3a3d_convert__images/_temp_f3cf3a3d_convert_.pdf-0003-07.png)
+![](_images/Electrochemical performance of supercapacitor electrodes based on carbon_images/_temp_e4576989_convert_.pdf-0003-07.png)
 
 
 
-![](_temp_f3cf3a3d_convert__images/_temp_f3cf3a3d_convert_.pdf-0003-08.png)
+![](_images/Electrochemical performance of supercapacitor electrodes based on carbon_images/_temp_e4576989_convert_.pdf-0003-08.png)
 
 
 In addition, for symmetric electrode supercapacitors, the specific capacitance of each electrode with mass mel (Cs,electrode) in the symmetric cell can, in principle, be estimated using Equation (6). Since this 
@@ -127,31 +127,31 @@ _H.D. Asfaw et al._
 equation unrealistically assumes a perfectly balanced cell with equivalent kinetics at both electrodes, it underestimates the capacitances that would be obtained by a true half-cell measurement. However, it can be useful for comparative purposes. 
 
 
-![](_temp_f3cf3a3d_convert__images/_temp_f3cf3a3d_convert_.pdf-0004-03.png)
+![](_images/Electrochemical performance of supercapacitor electrodes based on carbon_images/_temp_e4576989_convert_.pdf-0004-03.png)
 
 
 The equivalent series resistance (RESR) was determined from both galvanostatic and potentiostatic electrochemical impedance spectroscopy (EIS). The RESR can be obtained from the instantaneous voltage drops (ΔV) occurring at the onset of charge and discharge steps [39]: 
 
 
-![](_temp_f3cf3a3d_convert__images/_temp_f3cf3a3d_convert_.pdf-0004-05.png)
+![](_images/Electrochemical performance of supercapacitor electrodes based on carbon_images/_temp_e4576989_convert_.pdf-0004-05.png)
 
 
 > The time constant ( _τ_ ), RESRxC, is a measure of how fast the supercapacitor can be charged and discharged, and can be extracted from galvanostatic data by combining Equations (3,7): 
 
 
-![](_temp_f3cf3a3d_convert__images/_temp_f3cf3a3d_convert_.pdf-0004-07.png)
+![](_images/Electrochemical performance of supercapacitor electrodes based on carbon_images/_temp_e4576989_convert_.pdf-0004-07.png)
 
 
 Impedance measurements were performed at open circuit voltage (OCV) using an AC voltage signal with an amplitude of 5 mV and a frequency range from 200 kHz to 1 mHz. By transforming the EIS data based on the following relationship [40], the complex capacitance (ignoring inductance and parasitic capacitances) can be mathematically represented as: 
 
 
-![](_temp_f3cf3a3d_convert__images/_temp_f3cf3a3d_convert_.pdf-0004-09.png)
+![](_images/Electrochemical performance of supercapacitor electrodes based on carbon_images/_temp_e4576989_convert_.pdf-0004-09.png)
 
 
 The complex capacitance given by Equation (9) can be resolved into the real and imaginary parts from which two key device performance parameters can be deduced. The real capacitance (Re _C_ ( _ω_ )) represents electrostatic charge storage at the electrode-electrolyte interface. Plotting Re _C_ ( _ω_ ) as a function of angular frequency, _ω_ = _2πf_ , provides a curve that plateaus at low frequency, from which the capacitance value can be obtained. The imaginary part of the complex capacitance, Im _C (ω)_ , is directly related to electrical resistance, and hence represents energy dissipation in the cell due to resistive losses. The relaxation time constant, at which the device shows predominantly capacitive behavior, can be estimated from the maximum, _f_ max _,_ of the plot of Im _C(ω)_ , versus _ω_ : 
 
 
-![](_temp_f3cf3a3d_convert__images/_temp_f3cf3a3d_convert_.pdf-0004-11.png)
+![](_images/Electrochemical performance of supercapacitor electrodes based on carbon_images/_temp_e4576989_convert_.pdf-0004-11.png)
 
 
 ## **3. Results and Discussion** 
@@ -161,7 +161,7 @@ The complex capacitance given by Equation (9) can be resolved into the real and 
 Monolithic CAG-infused spread tow fabrics were successfully prepared by RIFT; the resulting hybrids were rigid lamina with thickness of 107 ± 4 μm, slightly thicker than the original spread tow fabric ( _<_ 80 
 
 
-![](_temp_f3cf3a3d_convert__images/_temp_f3cf3a3d_convert_.pdf-0004-15.png)
+![](_images/Electrochemical performance of supercapacitor electrodes based on carbon_images/_temp_e4576989_convert_.pdf-0004-15.png)
 
 
 **Fig. 2.** Photos of TeXtreme® carbon fiber spread tow fabrics (10 cm × 10 cm) before (a) and after modification with resorcinol formaldehyde aerogels (b) and carbon aerogels (c). (d) to (f) display scanning electron micrographs of the as-received fabric (shown left in (a)) at increasing magnification, (g) to (i) display scanning electron micrographs of the fabrics after aerogel pyrolysis (shown right in (c)), at increasing magnification. 
@@ -185,7 +185,7 @@ To fabricate supercapacitor devices, the carbon fiber-carbon aerogel fabrics wer
 The cyclic voltammograms (CVs) shown in Fig. 4a were recorded at a scan rate of 5 mV s[−][1 ] and used to evaluate the optimal voltage window for characterizing the supercapacitors using this method. The specific capacitances calculated from the CVs (Fig. 4b) using Equation (2) increased steadily with increasing voltage cut-offs, while increasingly lower coulombic efficiency was observed as the working voltage was extended beyond 2.0 V. This trend is indicative of contributions originating from non-capacitive processes due to oxidative instability of the ionic liquid [50] as a result of charge imbalance between the negative and the positive electrodes [52], for instance, and possibly redox reactions involving trace amounts of water in the electrolyte and oxygen-containing functional groups on the surface of the carbon aerogels [53,54]. These reactions result in a poor coulombic efficiency, at higher voltage, since these Faradaic processes consume electrons that 
 
 
-![](_temp_f3cf3a3d_convert__images/_temp_f3cf3a3d_convert_.pdf-0005-08.png)
+![](_images/Electrochemical performance of supercapacitor electrodes based on carbon_images/_temp_e4576989_convert_.pdf-0005-08.png)
 
 
 **Fig. 3.** The specific surface areas and porosity of the carbon aerogel-modified carbon fiber fabrics evaluated using N2 gas physisorption at 77 K. (a) the isotherms for adsorption and desorption and, (b) the pore width distribution, and (c) the cumulative pore volume. 
@@ -195,7 +195,7 @@ The cyclic voltammograms (CVs) shown in Fig. 4a were recorded at a scan rate of 
 _H.D. Asfaw et al.                                                                                                                                                                                                                               Composites Science and Technology 238 (2023) 110042_ 
 
 
-![](_temp_f3cf3a3d_convert__images/_temp_f3cf3a3d_convert_.pdf-0006-01.png)
+![](_images/Electrochemical performance of supercapacitor electrodes based on carbon_images/_temp_e4576989_convert_.pdf-0006-01.png)
 
 
 **Fig. 4.** Electrochemical characterization of symmetric capacitor devices. (a) CV plots of charge and discharge recorded at a scan rate of 5 mV s[−][1 ] with different increasing cell voltage cut-offs. (b) Specific charge/discharge capacitances deduced from the CV data in (a). (c) CV data obtained at a fixed cell cut-off voltage of 2.0 V for the scan rates 5, 10, 20, 40, 60, 80, 100 and 200 mV s[−][1] . (d) Specific discharge capacitance and coulombic efficiency derived from (c). 
@@ -211,7 +211,7 @@ from 0.02 to 3.5 A g[−][1] . The GCD curves exhibited symmetric and linear vol
 _H.D. Asfaw et al.                                                                                                                                                                                                                               Composites Science and Technology 238 (2023) 110042_ 
 
 
-![](_temp_f3cf3a3d_convert__images/_temp_f3cf3a3d_convert_.pdf-0007-01.png)
+![](_images/Electrochemical performance of supercapacitor electrodes based on carbon_images/_temp_e4576989_convert_.pdf-0007-01.png)
 
 
 **Fig. 5.** Galvanostatic charge-discharge (GCD) measurements performed on the symmetric cells in a voltage window ranging from 0 to 2.7 V. A selection of galvanostatic curves for 0.1, 0.2 and 1 A g[−][1 ] is shown in (a). (b) The determination of the RESR from the ohmic drops. (c) A plot showing cycling stability over 3000 cycles at a rate of 0.2 A g[−][1] . (d) The Ragone plot summarizing the specific energies and specific powers for the symmetric cell based on CAG-CF electrodes along with lines representing the response times. 
@@ -229,7 +229,7 @@ _Composites Science and Technology 238 (2023) 110042_
 _H.D. Asfaw et al._ 
 
 
-![](_temp_f3cf3a3d_convert__images/_temp_f3cf3a3d_convert_.pdf-0008-02.png)
+![](_images/Electrochemical performance of supercapacitor electrodes based on carbon_images/_temp_e4576989_convert_.pdf-0008-02.png)
 
 
 **Fig. 6.** EIS data for the symmetric cells using two CAG-CF electrodes are presented as a) Bode plots and b) complex capacitance obtained after mathematical transform given in Equation (9). 

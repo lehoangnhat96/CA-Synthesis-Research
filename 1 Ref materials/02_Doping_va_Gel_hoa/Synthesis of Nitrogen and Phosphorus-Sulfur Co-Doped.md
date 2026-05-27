@@ -1,11 +1,11 @@
 International Journal of _**Molecular Sciences**_ 
 
 
-![](_temp_7640a56f_convert__images/_temp_7640a56f_convert_.pdf-0001-01.png)
+![](_images/Synthesis of Nitrogen and Phosphorus-Sulfur Co-Doped_images/_temp_eaeb28f1_convert_.pdf-0001-01.png)
 
 
 
-![](_temp_7640a56f_convert__images/_temp_7640a56f_convert_.pdf-0001-02.png)
+![](_images/Synthesis of Nitrogen and Phosphorus-Sulfur Co-Doped_images/_temp_eaeb28f1_convert_.pdf-0001-02.png)
 
 
 ## _Article_ 
@@ -29,7 +29,7 @@ Academic Editor: Marta Fernández-García
 Received: 23 December 2022 Revised: 16 January 2023 Accepted: 18 January 2023 Published: 26 January 2023 
 
 
-![](_temp_7640a56f_convert__images/_temp_7640a56f_convert_.pdf-0001-13.png)
+![](_images/Synthesis of Nitrogen and Phosphorus-Sulfur Co-Doped_images/_temp_eaeb28f1_convert_.pdf-0001-13.png)
 
 
 **Copyright:** © 2023 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https:// creativecommons.org/licenses/by/ 4.0/). 
@@ -65,13 +65,13 @@ _Int. J. Mol. Sci._ **2023** , _24_ , 2432
 3 of 15 
 
 
-![](_temp_7640a56f_convert__images/_temp_7640a56f_convert_.pdf-0003-02.png)
+![](_images/Synthesis of Nitrogen and Phosphorus-Sulfur Co-Doped_images/_temp_eaeb28f1_convert_.pdf-0003-02.png)
 
 
 **Scheme 1.** Fabrication of the N-, N,P-, and N,S-doped carbon xerogels. 
 
 
-![](_temp_7640a56f_convert__images/_temp_7640a56f_convert_.pdf-0003-04.png)
+![](_images/Synthesis of Nitrogen and Phosphorus-Sulfur Co-Doped_images/_temp_eaeb28f1_convert_.pdf-0003-04.png)
 
 
 **Figure 1.** XRD patterns of ( **A** ) N-doped carbon xerogels prepared with 0–4.0 g of dicyandiamide and ( **B** ) NDCX, P-NDCX-1.0, and S-NDCX-1.0. 
@@ -85,7 +85,7 @@ _Int. J. Mol. Sci._ **2023** , _24_ , 2432
 carbon framework, altering the original matrix structure. Considering the large changes in the textural structure, and together with the catalytic activity tested in the following experiments, we selected the carbon xerogels doped with 2.0 g dicyandiamide, i.e., NDCX, for further investigation. 
 
 
-![](_temp_7640a56f_convert__images/_temp_7640a56f_convert_.pdf-0004-03.png)
+![](_images/Synthesis of Nitrogen and Phosphorus-Sulfur Co-Doped_images/_temp_eaeb28f1_convert_.pdf-0004-03.png)
 
 
 **Figure 2.** N2 sorption isotherms ( **A** , **C** , **E** ) and pore distributions ( **B** , **D** , **F** ) of carbon xerogels with different amounts of dicyandiamide, P-NDCX-m, and S-NDCX-m. 
@@ -132,7 +132,7 @@ _Int. J. Mol. Sci._ **2023** , _24_ , 2432
 6 of 15 
 
 
-![](_temp_7640a56f_convert__images/_temp_7640a56f_convert_.pdf-0006-02.png)
+![](_images/Synthesis of Nitrogen and Phosphorus-Sulfur Co-Doped_images/_temp_eaeb28f1_convert_.pdf-0006-02.png)
 
 
 **Figure 3.** ( **A** ) FT-IR spectra and ( **B** ) TGA profiles of the NDCX, P-NDCX-1.0 and S-NDCX-1.0. 
@@ -140,11 +140,11 @@ _Int. J. Mol. Sci._ **2023** , _24_ , 2432
 The different magnification TEM images show that the materials had microporous structures (the micropores are marked in yellow), which were more pronounced for P- NDCX-1.0 and S-NDCX-1.0, as shown in Figure 4. The presence of micropores guaranteed the increase in surface area, which is a crucial factor affecting the efficient contact between the catalyst and the electrolyte, and hence the electron transporting rate between them. 
 
 
-![](_temp_7640a56f_convert__images/_temp_7640a56f_convert_.pdf-0006-05.png)
+![](_images/Synthesis of Nitrogen and Phosphorus-Sulfur Co-Doped_images/_temp_eaeb28f1_convert_.pdf-0006-05.png)
 
 
 
-![](_temp_7640a56f_convert__images/_temp_7640a56f_convert_.pdf-0006-06.png)
+![](_images/Synthesis of Nitrogen and Phosphorus-Sulfur Co-Doped_images/_temp_eaeb28f1_convert_.pdf-0006-06.png)
 
 
 **Figure 4.** TEM images of ( **A** , **D** ) NDCX, ( **B** , **E** ) P-NDCX-1.0, and ( **C** , **F** ) S-NDCX-1.0 with different magnification. 
@@ -158,7 +158,7 @@ _Int. J. Mol. Sci._ **2023** , _24_ , 2432
 be attributed to carbon in C=C (284.8 eV), C _−_ C (285.6 eV), C _−_ O (286.5 eV) and C=O (288.9 eV) [37,39,51], respectively, as shown in Figure 5B,E,I. It is worth noting that the main peak of C negligibly shifted among them, as the amount of P or S doped in the material was lower and hardly affected the binding energy of carbon. The N1s spectrum could also be deconvoluted into four peaks, with the binding energy at 398.4 eV, 400.2 eV, 398.4 eV, and 402.9 eV attributed to N-pyridinic, N-pyrrolic, N-graphitic, and pyridine N-oxide [47,52,53], respectively, as shown in Figure 5C. 
 
 
-![](_temp_7640a56f_convert__images/_temp_7640a56f_convert_.pdf-0007-03.png)
+![](_images/Synthesis of Nitrogen and Phosphorus-Sulfur Co-Doped_images/_temp_eaeb28f1_convert_.pdf-0007-03.png)
 
 
 **Figure 5.** ( **A** ) the whole XPS surveys, ( **B** ) C1s, and ( **C** ) N1s spectrum of NDCX; ( **D** ) the whole XPS surveys, ( **E** ) C1s, ( **F** ) N1s, and ( **G** ) P2p spectrum of P-NDCX-1.0; ( **H** ) the whole XPS surveys, ( **I** ) C1s, ( **J** ) N1s, and ( **K** ) S2p spectrum of S-NDCX-1.0. 
@@ -186,7 +186,7 @@ _Int. J. Mol. Sci._ **2023** , _24_ , 2432
 Figure 6A presents the CV curves of N-doped carbon xerogels, prepared with different amounts of dicyandiamide, for the electrocatalytic reduction of p-NP. The results show that the material prepared with the addition of 2.0 g dicyandiamide, defined as NDCX, exhibited the lowest overpotential ( _−_ 0.605 V vs. Ag/AgCl) and the largest reduction current compared with other samples (see line “d” in the picture). This indicates that the doping of appropriate nitrogen can enhance the catalytic ability of carbon xerogel by altering its electronic properties (nitrogen has one more electron than carbon) and textural structures (e.g., formation of more mesopores), as discussed above. When few dicyandiamides were added, the effect of N doping on the electronic properties and textural structures of carbon xerogels was slight, leading to a lower contribution to catalytic activity, while the addition of excess dicyandiamide would result in dicyandiamide polycondensation, pore collapse, and a reduction in the surface area of carbon xerogels, and finally lower the catalytic activity. As a result, the NDCX was selected for a more in-depth investigation in the following. 
 
 
-![](_temp_7640a56f_convert__images/_temp_7640a56f_convert_.pdf-0008-06.png)
+![](_images/Synthesis of Nitrogen and Phosphorus-Sulfur Co-Doped_images/_temp_eaeb28f1_convert_.pdf-0008-06.png)
 
 
 **Figure 6.** CV curves of ( **A** ) N-doped carbon xerogels prepared with 0–4.0 g of dicyandiamide, ( **B** , **C** ) P-NDCX-m prepared with 0.5–4.0 g of (NH3)2HPO4, ( **D** ) S-NDCX-m prepared with 0.5–2.0 g of CH4N2S, and ( **E** , **F** ) Blank GCE, NDCX, P-NDCX-1.0 and S-NDCX-1.0. 
@@ -237,7 +237,7 @@ _Int. J. Mol. Sci._ **2023** , _24_ , 2432
 ~~shown in Figure 7C. This again confrms that the electrocatalytic p-NP reduction is a mass~~ transfer-controlled process. 
 
 
-![](_temp_7640a56f_convert__images/_temp_7640a56f_convert_.pdf-0010-03.png)
+![](_images/Synthesis of Nitrogen and Phosphorus-Sulfur Co-Doped_images/_temp_eaeb28f1_convert_.pdf-0010-03.png)
 
 
 **Figure 7.** Reduction peak curves at different pH ( **A** ), p-NP concentration ( **B** ), and scanning rate ( **C** ) of P-NDCX-1.0/GCE. 
@@ -245,7 +245,7 @@ _Int. J. Mol. Sci._ **2023** , _24_ , 2432
 Electrochemically active surface area (ECSA) represents the active site or area that accounts for the Faradaic current transfer during the electrocatalytic process [62]. The ECSA can be calculated from the electric double layer capacitance ( _Cdl_ ). First, the CV scanning was conducted at different scanning rates (10, 20, 40, 60, 80, and 100 mV/s) in the _−_ potential range of 0.1~ 0.2 V (vs. Ag/AgCl, without any Faradaic current). After that, the charge–discharge current density difference at _−_ 0.05 V vs. Ag/AgCl (∆ _j−_ 0.05V = _ja − jc_ ) was plotted as a function of the scanning rate, and the slope was calculated by linear fitting according to the equation: “ _ic = v·Cdl_ ”. Finally, the _Cdl_ was converted to ECSA according to the equation: ECSA = _Cdl_ / _Cs_ [62–64]. The _Cdl_ of blank GCE, NDCX, and P-NDCX-1.0 thus obtained was 0.22, 0.53, and 1.53 mF/cm[2] , respectively, as shown in Figure 8A–D, which shows that the ECSA of P-NDCX-1.0 was about 7 times larger than that of the blank GCE. This could be a reason why the P-NDCX-1.0 sample exhibited a high performance for the reaction. 
 
 
-![](_temp_7640a56f_convert__images/_temp_7640a56f_convert_.pdf-0010-06.png)
+![](_images/Synthesis of Nitrogen and Phosphorus-Sulfur Co-Doped_images/_temp_eaeb28f1_convert_.pdf-0010-06.png)
 
 
 **Figure 8.** CV curves of ( **A** ) blank GCE, ( **B** ) NDCX, and ( **C** ) P-NDCX-1.0 at different scanning rates in the non-Faradic interval; ( **D** ) _Cdl_ of P-NDCX-1.0 ( _R_[2] = 0.9992), NDCX ( _R_[2] = 0.9982), and blank GCE ( _R_[2] = 0.9975); ( **E** ) Nyquist plots of NDCX, P-NDCX-1.0, and S-NDCX-1.0; ( **F** ) The reduction peak curves of P-NDCX-1.0 before and after 100 CV cycles. 

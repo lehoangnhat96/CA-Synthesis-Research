@@ -93,25 +93,25 @@ View Article Online
 View Journal | View Issue
 
 
-![Ảnh 1](Carbon gel materials synthesis structural design and emerging applications in_images/page-1-img-1.png)
+![Ảnh 1](_images/Carbon gel materials synthesis structural design and emerging applications in_images/page-1-img-1.png)
 
 
-![Ảnh 2](Carbon gel materials synthesis structural design and emerging applications in_images/page-1-img-2.png)
+![Ảnh 2](_images/Carbon gel materials synthesis structural design and emerging applications in_images/page-1-img-2.png)
 
 
-![Ảnh 3](Carbon gel materials synthesis structural design and emerging applications in_images/page-1-img-3.png)
+![Ảnh 3](_images/Carbon gel materials synthesis structural design and emerging applications in_images/page-1-img-3.png)
 
 
-![Ảnh 4](Carbon gel materials synthesis structural design and emerging applications in_images/page-1-img-4.png)
+![Ảnh 4](_images/Carbon gel materials synthesis structural design and emerging applications in_images/page-1-img-4.png)
 
 
-![Ảnh 5](Carbon gel materials synthesis structural design and emerging applications in_images/page-1-img-5.png)
+![Ảnh 5](_images/Carbon gel materials synthesis structural design and emerging applications in_images/page-1-img-5.png)
 
 
-![Ảnh 6](Carbon gel materials synthesis structural design and emerging applications in_images/page-1-img-6.png)
+![Ảnh 6](_images/Carbon gel materials synthesis structural design and emerging applications in_images/page-1-img-6.png)
 
 
-![Ảnh 7](Carbon gel materials synthesis structural design and emerging applications in_images/page-1-img-7.png)
+![Ảnh 7](_images/Carbon gel materials synthesis structural design and emerging applications in_images/page-1-img-7.png)
 
 ## Page 2
 
@@ -241,7 +241,7 @@ This article is licensed under a Creative Commons Attribution-NonCommercial 3.0 
 View Article Online
 
 
-![Ảnh 8](Carbon gel materials synthesis structural design and emerging applications in_images/page-2-img-1.png)
+![Ảnh 8](_images/Carbon gel materials synthesis structural design and emerging applications in_images/page-2-img-1.png)
 
 ## Page 3
 
@@ -318,10 +318,10 @@ This article is licensed under a Creative Commons Attribution-NonCommercial 3.0 
 View Article Online
 
 
-![Ảnh 9](Carbon gel materials synthesis structural design and emerging applications in_images/page-3-img-1.png)
+![Ảnh 9](_images/Carbon gel materials synthesis structural design and emerging applications in_images/page-3-img-1.png)
 
 
-![Ảnh 10](Carbon gel materials synthesis structural design and emerging applications in_images/page-3-img-2.jpeg)
+![Ảnh 10](_images/Carbon gel materials synthesis structural design and emerging applications in_images/page-3-img-2.jpeg)
 
 ## Page 4
 
@@ -426,10 +426,10 @@ This article is licensed under a Creative Commons Attribution-NonCommercial 3.0 
 View Article Online
 
 
-![Ảnh 11](Carbon gel materials synthesis structural design and emerging applications in_images/page-4-img-1.png)
+![Ảnh 11](_images/Carbon gel materials synthesis structural design and emerging applications in_images/page-4-img-1.png)
 
 
-![Ảnh 12](Carbon gel materials synthesis structural design and emerging applications in_images/page-4-img-2.jpeg)
+![Ảnh 12](_images/Carbon gel materials synthesis structural design and emerging applications in_images/page-4-img-2.jpeg)
 
 ## Page 5
 
@@ -551,10 +551,10 @@ This article is licensed under a Creative Commons Attribution-NonCommercial 3.0 
 View Article Online
 
 
-![Ảnh 13](Carbon gel materials synthesis structural design and emerging applications in_images/page-5-img-1.png)
+![Ảnh 13](_images/Carbon gel materials synthesis structural design and emerging applications in_images/page-5-img-1.png)
 
 
-![Ảnh 14](Carbon gel materials synthesis structural design and emerging applications in_images/page-5-img-2.jpeg)
+![Ảnh 14](_images/Carbon gel materials synthesis structural design and emerging applications in_images/page-5-img-2.jpeg)
 
 ## Page 6
 
@@ -701,7 +701,7 @@ This article is licensed under a Creative Commons Attribution-NonCommercial 3.0 
 View Article Online
 
 
-![Ảnh 15](Carbon gel materials synthesis structural design and emerging applications in_images/page-6-img-1.png)
+![Ảnh 15](_images/Carbon gel materials synthesis structural design and emerging applications in_images/page-6-img-1.png)
 
 ## Page 7
 
@@ -851,7 +851,7 @@ This article is licensed under a Creative Commons Attribution-NonCommercial 3.0 
 View Article Online
 
 
-![Ảnh 16](Carbon gel materials synthesis structural design and emerging applications in_images/page-7-img-1.png)
+![Ảnh 16](_images/Carbon gel materials synthesis structural design and emerging applications in_images/page-7-img-1.png)
 
 ## Page 8
 
@@ -964,10 +964,10 @@ This article is licensed under a Creative Commons Attribution-NonCommercial 3.0 
 View Article Online
 
 
-![Ảnh 17](Carbon gel materials synthesis structural design and emerging applications in_images/page-8-img-1.png)
+![Ảnh 17](_images/Carbon gel materials synthesis structural design and emerging applications in_images/page-8-img-1.png)
 
 
-![Ảnh 18](Carbon gel materials synthesis structural design and emerging applications in_images/page-8-img-2.jpeg)
+![Ảnh 18](_images/Carbon gel materials synthesis structural design and emerging applications in_images/page-8-img-2.jpeg)
 
 ## Page 9
 
@@ -1014,10 +1014,10 @@ This article is licensed under a Creative Commons Attribution-NonCommercial 3.0 
 View Article Online
 
 
-![Ảnh 19](Carbon gel materials synthesis structural design and emerging applications in_images/page-9-img-1.png)
+![Ảnh 19](_images/Carbon gel materials synthesis structural design and emerging applications in_images/page-9-img-1.png)
 
 
-![Ảnh 20](Carbon gel materials synthesis structural design and emerging applications in_images/page-9-img-2.jpeg)
+![Ảnh 20](_images/Carbon gel materials synthesis structural design and emerging applications in_images/page-9-img-2.jpeg)
 
 ## Page 10
 
@@ -1151,7 +1151,7 @@ This article is licensed under a Creative Commons Attribution-NonCommercial 3.0 
 View Article Online
 
 
-![Ảnh 21](Carbon gel materials synthesis structural design and emerging applications in_images/page-10-img-1.png)
+![Ảnh 21](_images/Carbon gel materials synthesis structural design and emerging applications in_images/page-10-img-1.png)
 
 ## Page 11
 
@@ -1203,10 +1203,10 @@ This article is licensed under a Creative Commons Attribution-NonCommercial 3.0 
 View Article Online
 
 
-![Ảnh 22](Carbon gel materials synthesis structural design and emerging applications in_images/page-11-img-1.png)
+![Ảnh 22](_images/Carbon gel materials synthesis structural design and emerging applications in_images/page-11-img-1.png)
 
 
-![Ảnh 23](Carbon gel materials synthesis structural design and emerging applications in_images/page-11-img-2.jpeg)
+![Ảnh 23](_images/Carbon gel materials synthesis structural design and emerging applications in_images/page-11-img-2.jpeg)
 
 ## Page 12
 
@@ -1290,10 +1290,10 @@ This article is licensed under a Creative Commons Attribution-NonCommercial 3.0 
 View Article Online
 
 
-![Ảnh 24](Carbon gel materials synthesis structural design and emerging applications in_images/page-12-img-1.png)
+![Ảnh 24](_images/Carbon gel materials synthesis structural design and emerging applications in_images/page-12-img-1.png)
 
 
-![Ảnh 25](Carbon gel materials synthesis structural design and emerging applications in_images/page-12-img-2.jpeg)
+![Ảnh 25](_images/Carbon gel materials synthesis structural design and emerging applications in_images/page-12-img-2.jpeg)
 
 ## Page 13
 
@@ -1391,10 +1391,10 @@ This article is licensed under a Creative Commons Attribution-NonCommercial 3.0 
 View Article Online
 
 
-![Ảnh 26](Carbon gel materials synthesis structural design and emerging applications in_images/page-13-img-1.png)
+![Ảnh 26](_images/Carbon gel materials synthesis structural design and emerging applications in_images/page-13-img-1.png)
 
 
-![Ảnh 27](Carbon gel materials synthesis structural design and emerging applications in_images/page-13-img-2.jpeg)
+![Ảnh 27](_images/Carbon gel materials synthesis structural design and emerging applications in_images/page-13-img-2.jpeg)
 
 ## Page 14
 
@@ -1535,7 +1535,7 @@ This article is licensed under a Creative Commons Attribution-NonCommercial 3.0 
 View Article Online
 
 
-![Ảnh 28](Carbon gel materials synthesis structural design and emerging applications in_images/page-14-img-1.png)
+![Ảnh 28](_images/Carbon gel materials synthesis structural design and emerging applications in_images/page-14-img-1.png)
 
 ## Page 15
 
@@ -1624,10 +1624,10 @@ This article is licensed under a Creative Commons Attribution-NonCommercial 3.0 
 View Article Online
 
 
-![Ảnh 29](Carbon gel materials synthesis structural design and emerging applications in_images/page-15-img-1.png)
+![Ảnh 29](_images/Carbon gel materials synthesis structural design and emerging applications in_images/page-15-img-1.png)
 
 
-![Ảnh 30](Carbon gel materials synthesis structural design and emerging applications in_images/page-15-img-2.jpeg)
+![Ảnh 30](_images/Carbon gel materials synthesis structural design and emerging applications in_images/page-15-img-2.jpeg)
 
 ## Page 16
 
@@ -1747,10 +1747,10 @@ This article is licensed under a Creative Commons Attribution-NonCommercial 3.0 
 View Article Online
 
 
-![Ảnh 31](Carbon gel materials synthesis structural design and emerging applications in_images/page-16-img-1.png)
+![Ảnh 31](_images/Carbon gel materials synthesis structural design and emerging applications in_images/page-16-img-1.png)
 
 
-![Ảnh 32](Carbon gel materials synthesis structural design and emerging applications in_images/page-16-img-2.jpeg)
+![Ảnh 32](_images/Carbon gel materials synthesis structural design and emerging applications in_images/page-16-img-2.jpeg)
 
 ## Page 17
 
@@ -1896,7 +1896,7 @@ This article is licensed under a Creative Commons Attribution-NonCommercial 3.0 
 View Article Online
 
 
-![Ảnh 33](Carbon gel materials synthesis structural design and emerging applications in_images/page-17-img-1.png)
+![Ảnh 33](_images/Carbon gel materials synthesis structural design and emerging applications in_images/page-17-img-1.png)
 
 ## Page 18
 
@@ -1998,10 +1998,10 @@ This article is licensed under a Creative Commons Attribution-NonCommercial 3.0 
 View Article Online
 
 
-![Ảnh 34](Carbon gel materials synthesis structural design and emerging applications in_images/page-18-img-1.png)
+![Ảnh 34](_images/Carbon gel materials synthesis structural design and emerging applications in_images/page-18-img-1.png)
 
 
-![Ảnh 35](Carbon gel materials synthesis structural design and emerging applications in_images/page-18-img-2.jpeg)
+![Ảnh 35](_images/Carbon gel materials synthesis structural design and emerging applications in_images/page-18-img-2.jpeg)
 
 ## Page 19
 
@@ -2153,7 +2153,7 @@ This article is licensed under a Creative Commons Attribution-NonCommercial 3.0 
 View Article Online
 
 
-![Ảnh 36](Carbon gel materials synthesis structural design and emerging applications in_images/page-19-img-1.png)
+![Ảnh 36](_images/Carbon gel materials synthesis structural design and emerging applications in_images/page-19-img-1.png)
 
 ## Page 20
 
@@ -2287,10 +2287,10 @@ This article is licensed under a Creative Commons Attribution-NonCommercial 3.0 
 View Article Online
 
 
-![Ảnh 37](Carbon gel materials synthesis structural design and emerging applications in_images/page-20-img-1.png)
+![Ảnh 37](_images/Carbon gel materials synthesis structural design and emerging applications in_images/page-20-img-1.png)
 
 
-![Ảnh 38](Carbon gel materials synthesis structural design and emerging applications in_images/page-20-img-2.png)
+![Ảnh 38](_images/Carbon gel materials synthesis structural design and emerging applications in_images/page-20-img-2.png)
 
 ## Page 21
 
@@ -2329,10 +2329,10 @@ This article is licensed under a Creative Commons Attribution-NonCommercial 3.0 
 View Article Online
 
 
-![Ảnh 39](Carbon gel materials synthesis structural design and emerging applications in_images/page-21-img-1.png)
+![Ảnh 39](_images/Carbon gel materials synthesis structural design and emerging applications in_images/page-21-img-1.png)
 
 
-![Ảnh 40](Carbon gel materials synthesis structural design and emerging applications in_images/page-21-img-2.jpeg)
+![Ảnh 40](_images/Carbon gel materials synthesis structural design and emerging applications in_images/page-21-img-2.jpeg)
 
 ## Page 22
 
@@ -2475,7 +2475,7 @@ This article is licensed under a Creative Commons Attribution-NonCommercial 3.0 
 View Article Online
 
 
-![Ảnh 41](Carbon gel materials synthesis structural design and emerging applications in_images/page-22-img-1.png)
+![Ảnh 41](_images/Carbon gel materials synthesis structural design and emerging applications in_images/page-22-img-1.png)
 
 ## Page 23
 
@@ -2783,7 +2783,7 @@ This article is licensed under a Creative Commons Attribution-NonCommercial 3.0 
 View Article Online
 
 
-![Ảnh 42](Carbon gel materials synthesis structural design and emerging applications in_images/page-23-img-1.png)
+![Ảnh 42](_images/Carbon gel materials synthesis structural design and emerging applications in_images/page-23-img-1.png)
 
 ## Page 24
 
@@ -2819,10 +2819,10 @@ This article is licensed under a Creative Commons Attribution-NonCommercial 3.0 
 View Article Online
 
 
-![Ảnh 43](Carbon gel materials synthesis structural design and emerging applications in_images/page-24-img-1.png)
+![Ảnh 43](_images/Carbon gel materials synthesis structural design and emerging applications in_images/page-24-img-1.png)
 
 
-![Ảnh 44](Carbon gel materials synthesis structural design and emerging applications in_images/page-24-img-2.jpeg)
+![Ảnh 44](_images/Carbon gel materials synthesis structural design and emerging applications in_images/page-24-img-2.jpeg)
 
 ## Page 25
 
@@ -2990,7 +2990,7 @@ This article is licensed under a Creative Commons Attribution-NonCommercial 3.0 
 View Article Online
 
 
-![Ảnh 45](Carbon gel materials synthesis structural design and emerging applications in_images/page-25-img-1.png)
+![Ảnh 45](_images/Carbon gel materials synthesis structural design and emerging applications in_images/page-25-img-1.png)
 
 ## Page 26
 
@@ -3108,10 +3108,10 @@ This article is licensed under a Creative Commons Attribution-NonCommercial 3.0 
 View Article Online
 
 
-![Ảnh 46](Carbon gel materials synthesis structural design and emerging applications in_images/page-26-img-1.png)
+![Ảnh 46](_images/Carbon gel materials synthesis structural design and emerging applications in_images/page-26-img-1.png)
 
 
-![Ảnh 47](Carbon gel materials synthesis structural design and emerging applications in_images/page-26-img-2.jpeg)
+![Ảnh 47](_images/Carbon gel materials synthesis structural design and emerging applications in_images/page-26-img-2.jpeg)
 
 ## Page 27
 
@@ -3197,10 +3197,10 @@ This article is licensed under a Creative Commons Attribution-NonCommercial 3.0 
 View Article Online
 
 
-![Ảnh 48](Carbon gel materials synthesis structural design and emerging applications in_images/page-27-img-1.png)
+![Ảnh 48](_images/Carbon gel materials synthesis structural design and emerging applications in_images/page-27-img-1.png)
 
 
-![Ảnh 49](Carbon gel materials synthesis structural design and emerging applications in_images/page-27-img-2.jpeg)
+![Ảnh 49](_images/Carbon gel materials synthesis structural design and emerging applications in_images/page-27-img-2.jpeg)
 
 ## Page 28
 
@@ -3336,7 +3336,7 @@ This article is licensed under a Creative Commons Attribution-NonCommercial 3.0 
 View Article Online
 
 
-![Ảnh 50](Carbon gel materials synthesis structural design and emerging applications in_images/page-28-img-1.png)
+![Ảnh 50](_images/Carbon gel materials synthesis structural design and emerging applications in_images/page-28-img-1.png)
 
 ## Page 29
 
@@ -3399,10 +3399,10 @@ This article is licensed under a Creative Commons Attribution-NonCommercial 3.0 
 View Article Online
 
 
-![Ảnh 51](Carbon gel materials synthesis structural design and emerging applications in_images/page-29-img-1.png)
+![Ảnh 51](_images/Carbon gel materials synthesis structural design and emerging applications in_images/page-29-img-1.png)
 
 
-![Ảnh 52](Carbon gel materials synthesis structural design and emerging applications in_images/page-29-img-2.jpeg)
+![Ảnh 52](_images/Carbon gel materials synthesis structural design and emerging applications in_images/page-29-img-2.jpeg)
 
 ## Page 30
 
@@ -3575,7 +3575,7 @@ This article is licensed under a Creative Commons Attribution-NonCommercial 3.0 
 View Article Online
 
 
-![Ảnh 53](Carbon gel materials synthesis structural design and emerging applications in_images/page-30-img-1.png)
+![Ảnh 53](_images/Carbon gel materials synthesis structural design and emerging applications in_images/page-30-img-1.png)
 
 ## Page 31
 
@@ -3736,7 +3736,7 @@ This article is licensed under a Creative Commons Attribution-NonCommercial 3.0 
 View Article Online
 
 
-![Ảnh 54](Carbon gel materials synthesis structural design and emerging applications in_images/page-31-img-1.png)
+![Ảnh 54](_images/Carbon gel materials synthesis structural design and emerging applications in_images/page-31-img-1.png)
 
 ## Page 32
 
@@ -3924,7 +3924,7 @@ This article is licensed under a Creative Commons Attribution-NonCommercial 3.0 
 View Article Online
 
 
-![Ảnh 55](Carbon gel materials synthesis structural design and emerging applications in_images/page-32-img-1.png)
+![Ảnh 55](_images/Carbon gel materials synthesis structural design and emerging applications in_images/page-32-img-1.png)
 
 ## Page 33
 
@@ -4010,10 +4010,10 @@ This article is licensed under a Creative Commons Attribution-NonCommercial 3.0 
 View Article Online
 
 
-![Ảnh 56](Carbon gel materials synthesis structural design and emerging applications in_images/page-33-img-1.png)
+![Ảnh 56](_images/Carbon gel materials synthesis structural design and emerging applications in_images/page-33-img-1.png)
 
 
-![Ảnh 57](Carbon gel materials synthesis structural design and emerging applications in_images/page-33-img-2.jpeg)
+![Ảnh 57](_images/Carbon gel materials synthesis structural design and emerging applications in_images/page-33-img-2.jpeg)
 
 ## Page 34
 
@@ -4173,7 +4173,7 @@ This article is licensed under a Creative Commons Attribution-NonCommercial 3.0 
 View Article Online
 
 
-![Ảnh 58](Carbon gel materials synthesis structural design and emerging applications in_images/page-34-img-1.png)
+![Ảnh 58](_images/Carbon gel materials synthesis structural design and emerging applications in_images/page-34-img-1.png)
 
 ## Page 35
 
@@ -4251,10 +4251,10 @@ This article is licensed under a Creative Commons Attribution-NonCommercial 3.0 
 View Article Online
 
 
-![Ảnh 59](Carbon gel materials synthesis structural design and emerging applications in_images/page-35-img-1.png)
+![Ảnh 59](_images/Carbon gel materials synthesis structural design and emerging applications in_images/page-35-img-1.png)
 
 
-![Ảnh 60](Carbon gel materials synthesis structural design and emerging applications in_images/page-35-img-2.jpeg)
+![Ảnh 60](_images/Carbon gel materials synthesis structural design and emerging applications in_images/page-35-img-2.jpeg)
 
 ## Page 36
 
@@ -4281,10 +4281,10 @@ This article is licensed under a Creative Commons Attribution-NonCommercial 3.0 
 View Article Online
 
 
-![Ảnh 61](Carbon gel materials synthesis structural design and emerging applications in_images/page-36-img-1.png)
+![Ảnh 61](_images/Carbon gel materials synthesis structural design and emerging applications in_images/page-36-img-1.png)
 
 
-![Ảnh 62](Carbon gel materials synthesis structural design and emerging applications in_images/page-36-img-2.jpeg)
+![Ảnh 62](_images/Carbon gel materials synthesis structural design and emerging applications in_images/page-36-img-2.jpeg)
 
 ## Page 37
 
@@ -4334,10 +4334,10 @@ This article is licensed under a Creative Commons Attribution-NonCommercial 3.0 
 View Article Online
 
 
-![Ảnh 63](Carbon gel materials synthesis structural design and emerging applications in_images/page-37-img-1.png)
+![Ảnh 63](_images/Carbon gel materials synthesis structural design and emerging applications in_images/page-37-img-1.png)
 
 
-![Ảnh 64](Carbon gel materials synthesis structural design and emerging applications in_images/page-37-img-2.jpeg)
+![Ảnh 64](_images/Carbon gel materials synthesis structural design and emerging applications in_images/page-37-img-2.jpeg)
 
 ## Page 38
 
@@ -4471,10 +4471,10 @@ This article is licensed under a Creative Commons Attribution-NonCommercial 3.0 
 View Article Online
 
 
-![Ảnh 65](Carbon gel materials synthesis structural design and emerging applications in_images/page-38-img-1.png)
+![Ảnh 65](_images/Carbon gel materials synthesis structural design and emerging applications in_images/page-38-img-1.png)
 
 
-![Ảnh 66](Carbon gel materials synthesis structural design and emerging applications in_images/page-38-img-2.jpeg)
+![Ảnh 66](_images/Carbon gel materials synthesis structural design and emerging applications in_images/page-38-img-2.jpeg)
 
 ## Page 39
 
@@ -4609,7 +4609,7 @@ This article is licensed under a Creative Commons Attribution-NonCommercial 3.0 
 View Article Online
 
 
-![Ảnh 67](Carbon gel materials synthesis structural design and emerging applications in_images/page-39-img-1.png)
+![Ảnh 67](_images/Carbon gel materials synthesis structural design and emerging applications in_images/page-39-img-1.png)
 
 ## Page 40
 
@@ -4713,10 +4713,10 @@ This article is licensed under a Creative Commons Attribution-NonCommercial 3.0 
 View Article Online
 
 
-![Ảnh 68](Carbon gel materials synthesis structural design and emerging applications in_images/page-40-img-1.png)
+![Ảnh 68](_images/Carbon gel materials synthesis structural design and emerging applications in_images/page-40-img-1.png)
 
 
-![Ảnh 69](Carbon gel materials synthesis structural design and emerging applications in_images/page-40-img-2.jpeg)
+![Ảnh 69](_images/Carbon gel materials synthesis structural design and emerging applications in_images/page-40-img-2.jpeg)
 
 ## Page 41
 
@@ -4794,10 +4794,10 @@ This article is licensed under a Creative Commons Attribution-NonCommercial 3.0 
 View Article Online
 
 
-![Ảnh 70](Carbon gel materials synthesis structural design and emerging applications in_images/page-41-img-1.png)
+![Ảnh 70](_images/Carbon gel materials synthesis structural design and emerging applications in_images/page-41-img-1.png)
 
 
-![Ảnh 71](Carbon gel materials synthesis structural design and emerging applications in_images/page-41-img-2.jpeg)
+![Ảnh 71](_images/Carbon gel materials synthesis structural design and emerging applications in_images/page-41-img-2.jpeg)
 
 ## Page 42
 
@@ -4957,7 +4957,7 @@ This article is licensed under a Creative Commons Attribution-NonCommercial 3.0 
 View Article Online
 
 
-![Ảnh 72](Carbon gel materials synthesis structural design and emerging applications in_images/page-42-img-1.png)
+![Ảnh 72](_images/Carbon gel materials synthesis structural design and emerging applications in_images/page-42-img-1.png)
 
 ## Page 43
 
@@ -5092,10 +5092,10 @@ This article is licensed under a Creative Commons Attribution-NonCommercial 3.0 
 View Article Online
 
 
-![Ảnh 73](Carbon gel materials synthesis structural design and emerging applications in_images/page-43-img-1.png)
+![Ảnh 73](_images/Carbon gel materials synthesis structural design and emerging applications in_images/page-43-img-1.png)
 
 
-![Ảnh 74](Carbon gel materials synthesis structural design and emerging applications in_images/page-43-img-2.jpeg)
+![Ảnh 74](_images/Carbon gel materials synthesis structural design and emerging applications in_images/page-43-img-2.jpeg)
 
 ## Page 44
 
@@ -5226,7 +5226,7 @@ This article is licensed under a Creative Commons Attribution-NonCommercial 3.0 
 View Article Online
 
 
-![Ảnh 75](Carbon gel materials synthesis structural design and emerging applications in_images/page-44-img-1.png)
+![Ảnh 75](_images/Carbon gel materials synthesis structural design and emerging applications in_images/page-44-img-1.png)
 
 ## Page 45
 
@@ -5376,7 +5376,7 @@ This article is licensed under a Creative Commons Attribution-NonCommercial 3.0 
 View Article Online
 
 
-![Ảnh 76](Carbon gel materials synthesis structural design and emerging applications in_images/page-45-img-1.png)
+![Ảnh 76](_images/Carbon gel materials synthesis structural design and emerging applications in_images/page-45-img-1.png)
 
 ## Page 46
 
@@ -5519,7 +5519,7 @@ This article is licensed under a Creative Commons Attribution-NonCommercial 3.0 
 View Article Online
 
 
-![Ảnh 77](Carbon gel materials synthesis structural design and emerging applications in_images/page-46-img-1.png)
+![Ảnh 77](_images/Carbon gel materials synthesis structural design and emerging applications in_images/page-46-img-1.png)
 
 ## Page 47
 
@@ -5662,7 +5662,7 @@ This article is licensed under a Creative Commons Attribution-NonCommercial 3.0 
 View Article Online
 
 
-![Ảnh 78](Carbon gel materials synthesis structural design and emerging applications in_images/page-47-img-1.png)
+![Ảnh 78](_images/Carbon gel materials synthesis structural design and emerging applications in_images/page-47-img-1.png)
 
 ## Page 48
 
@@ -5805,7 +5805,7 @@ This article is licensed under a Creative Commons Attribution-NonCommercial 3.0 
 View Article Online
 
 
-![Ảnh 79](Carbon gel materials synthesis structural design and emerging applications in_images/page-48-img-1.png)
+![Ảnh 79](_images/Carbon gel materials synthesis structural design and emerging applications in_images/page-48-img-1.png)
 
 ## Page 49
 
@@ -5939,7 +5939,7 @@ This article is licensed under a Creative Commons Attribution-NonCommercial 3.0 
 View Article Online
 
 
-![Ảnh 80](Carbon gel materials synthesis structural design and emerging applications in_images/page-49-img-1.png)
+![Ảnh 80](_images/Carbon gel materials synthesis structural design and emerging applications in_images/page-49-img-1.png)
 
 ## Page 50
 
@@ -6095,7 +6095,7 @@ This article is licensed under a Creative Commons Attribution-NonCommercial 3.0 
 View Article Online
 
 
-![Ảnh 81](Carbon gel materials synthesis structural design and emerging applications in_images/page-50-img-1.png)
+![Ảnh 81](_images/Carbon gel materials synthesis structural design and emerging applications in_images/page-50-img-1.png)
 
 ## Page 51
 
@@ -6240,7 +6240,7 @@ This article is licensed under a Creative Commons Attribution-NonCommercial 3.0 
 View Article Online
 
 
-![Ảnh 82](Carbon gel materials synthesis structural design and emerging applications in_images/page-51-img-1.png)
+![Ảnh 82](_images/Carbon gel materials synthesis structural design and emerging applications in_images/page-51-img-1.png)
 
 ## Page 52
 
@@ -6389,7 +6389,7 @@ This article is licensed under a Creative Commons Attribution-NonCommercial 3.0 
 View Article Online
 
 
-![Ảnh 83](Carbon gel materials synthesis structural design and emerging applications in_images/page-52-img-1.png)
+![Ảnh 83](_images/Carbon gel materials synthesis structural design and emerging applications in_images/page-52-img-1.png)
 
 ## Page 53
 
@@ -6517,7 +6517,7 @@ This article is licensed under a Creative Commons Attribution-NonCommercial 3.0 
 View Article Online
 
 
-![Ảnh 84](Carbon gel materials synthesis structural design and emerging applications in_images/page-53-img-1.png)
+![Ảnh 84](_images/Carbon gel materials synthesis structural design and emerging applications in_images/page-53-img-1.png)
 
 ## Page 54
 
@@ -6556,4 +6556,4 @@ This article is licensed under a Creative Commons Attribution-NonCommercial 3.0 
 View Article Online
 
 
-![Ảnh 85](Carbon gel materials synthesis structural design and emerging applications in_images/page-54-img-1.png)
+![Ảnh 85](_images/Carbon gel materials synthesis structural design and emerging applications in_images/page-54-img-1.png)

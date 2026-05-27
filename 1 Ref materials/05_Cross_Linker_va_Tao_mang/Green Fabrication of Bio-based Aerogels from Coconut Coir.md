@@ -1,7 +1,7 @@
 709 
 
 
-![](_temp_c0a5e978_convert__images/_temp_c0a5e978_convert_.pdf-0001-01.png)
+![](_images/Green Fabrication of Bio-based Aerogels from Coconut Coir_images/_temp_57237520_convert_.pdf-0001-01.png)
 
 
 ## _**CHEMICAL ENGINEERING TRANSACTIONS**_ 
@@ -69,7 +69,7 @@ Thermal conductivities of CF aerogels are investigated by C-Therm TCi Thermal Co
 ## 𝑄𝑒 = (𝑚𝑒 −𝑚𝑖)/𝑚𝑖 
 
 
-![](_temp_c0a5e978_convert__images/_temp_c0a5e978_convert_.pdf-0003-03.png)
+![](_images/Green Fabrication of Bio-based Aerogels from Coconut Coir_images/_temp_57237520_convert_.pdf-0003-03.png)
 
 
 where 𝑄𝑒 (g/g) is the aerogel’s maximal oil adsorption capacity, 𝑚𝑖 (g) and 𝑚𝑒 (g) are its mass before and after the test. 
@@ -77,15 +77,15 @@ where 𝑄𝑒 (g/g) is the aerogel’s maximal oil adsorption capacity, 𝑚�
 To investigate the kinetics of oil adsorption, the above experiment is conducted but the aerogel is taken out after 1, 3, 5, 10, 15, 20, 30, 40, 60 and 90 s, followed by determining its adsorption capacity. In Eqs(3) and (4), two typical pseudo-first and pseudo-second order models are tested to determine the appropriate one. 
 
 
-![](_temp_c0a5e978_convert__images/_temp_c0a5e978_convert_.pdf-0003-06.png)
+![](_images/Green Fabrication of Bio-based Aerogels from Coconut Coir_images/_temp_57237520_convert_.pdf-0003-06.png)
 
 
 
-![](_temp_c0a5e978_convert__images/_temp_c0a5e978_convert_.pdf-0003-07.png)
+![](_images/Green Fabrication of Bio-based Aerogels from Coconut Coir_images/_temp_57237520_convert_.pdf-0003-07.png)
 
 
 
-![](_temp_c0a5e978_convert__images/_temp_c0a5e978_convert_.pdf-0003-08.png)
+![](_images/Green Fabrication of Bio-based Aerogels from Coconut Coir_images/_temp_57237520_convert_.pdf-0003-08.png)
 
 
 By plotting ln 𝑄𝑚𝑄−𝑄𝑚 𝑡 against time, the slope of the best linear fit yields 𝑘1 value in Eq(3), while 𝑄𝑡𝑚 and 𝑘21𝑄𝑚2 in Eq(4) are determined by plotting 𝑄𝑡𝑡 against time. The oil adsorption capabilities of the aerogel are 𝑄𝑚 and 𝑄𝑡 , respectively, at equilibrium and at time t. 
@@ -95,7 +95,7 @@ By plotting ln 𝑄𝑚𝑄−𝑄𝑚 𝑡 against time, the slope of the best 
 ## **3.1 Morphologies and properties of the CF aerogels** 
 
 
-![](_temp_c0a5e978_convert__images/_temp_c0a5e978_convert_.pdf-0003-12.png)
+![](_images/Green Fabrication of Bio-based Aerogels from Coconut Coir_images/_temp_57237520_convert_.pdf-0003-12.png)
 
 
 **----- Start of picture text -----**<br>
@@ -130,7 +130,7 @@ CF aerogel is expected to have low thermal conductivity because of its porous st
 Thermal ability is one of the main properties that should be analyzed for heat insulation materials. TGA and DTA results of CF aerogels are illustrated in Figure 2b. As witnessed, a mass loss of 10 wt.% between 30 C and 170 C is due to moisture elimination of the CF aerogel. However, there is no mass loss in the range of 170-250 C. The next degradation is in 250-600 C because of destruction of fiber matrices and binders with the initial decomposition temperature of 250-300 C. Above 600 C, the sample is almost completely degraded and only 5 wt.% ash remains. 
 
 
-![](_temp_c0a5e978_convert__images/_temp_c0a5e978_convert_.pdf-0004-09.png)
+![](_images/Green Fabrication of Bio-based Aerogels from Coconut Coir_images/_temp_57237520_convert_.pdf-0004-09.png)
 
 
 **----- Start of picture text -----**<br>
@@ -146,7 +146,7 @@ _Figure 2: (a) Thermal conductivity of CF aerogels compared to that of top 5 com
 FTIR analysis is conducted on both uncoated and MTMS-coated CF aerogels in order to examine the surface properties. As illustrated in Figure 3a, the peaks at 3300 cm[-1] , 2920 cm[-1] , 2135 cm[- 1] , 1427 cm[-1] , 1377 cm[-1] , and 1050 cm[-1] are typical bands reported for cellulose chains (Liu et al., 2015). Additionally, the modified cellulose aerogels display peaks at 845 cm[-1 ] and 1261 cm[-1] . These are Si-O-Si and C-Si asymmetric stretching, respectively (Zhu et al., 2013). The silicon atoms come from -O-Si(CH3)3 groups, which replace the OH groups in silanization. The presence of such groups results in the hydrophobicity of the MTMS-coated CF aerogels.  Figure 3b confirms the hydrophobicity of modified aerogels with high WCA of approximately 135 . 
 
 
-![](_temp_c0a5e978_convert__images/_temp_c0a5e978_convert_.pdf-0005-03.png)
+![](_images/Green Fabrication of Bio-based Aerogels from Coconut Coir_images/_temp_57237520_convert_.pdf-0005-03.png)
 
 
 **----- Start of picture text -----**<br>
@@ -154,7 +154,7 @@ a)  b)<br>**----- End of picture text -----**<br>
 
 
 
-![](_temp_c0a5e978_convert__images/_temp_c0a5e978_convert_.pdf-0005-04.png)
+![](_images/Green Fabrication of Bio-based Aerogels from Coconut Coir_images/_temp_57237520_convert_.pdf-0005-04.png)
 
 
 _Figure 3: (a) FTIR spectra of CF aerogel uncoated and coated with MTMS, and (b) its water contact angle (WCA)._ 
@@ -162,7 +162,7 @@ _Figure 3: (a) FTIR spectra of CF aerogel uncoated and coated with MTMS, and (b)
 All surveyed CF aerogels are good oil spill sorbents, as Figure 4a shows reasonable oil adsorption capacities of 13.29-20.32 g/g. Because of the high porosity in CF aerogels, much oil can be trapped in their air pockets. Increasing CF content or the viscosity of oil significantly decreases the maximum oil adsorption capacity. Moreover, this maximum value of the CF aerogels is higher than that of rice straw aerogel (13 g/g) (Tran et al., 2020) and coir aerogel having NaOH/Urea cross-linking (18 g/g) (Fauziyah et al., 2019), and equivalent to that of polyurethane sorbents (21-23 g/g) (Li et al., 2015). 
 
 
-![](_temp_c0a5e978_convert__images/_temp_c0a5e978_convert_.pdf-0005-07.png)
+![](_images/Green Fabrication of Bio-based Aerogels from Coconut Coir_images/_temp_57237520_convert_.pdf-0005-07.png)
 
 
 **----- Start of picture text -----**<br>

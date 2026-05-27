@@ -3,27 +3,27 @@ This article is licensed under CC-BY-NC-ND 4.0
 Article 
 
 
-![](Controlling NDoping Nature at Carbon Aerogels from Biomass for Enhanced_images/image-0001-04.png)
+![](_images/Controlling NDoping Nature at Carbon Aerogels from Biomass for Enhanced_images/image-0001-04.png)
 
 
 
-![](Controlling NDoping Nature at Carbon Aerogels from Biomass for Enhanced_images/image-0001-05.png)
+![](_images/Controlling NDoping Nature at Carbon Aerogels from Biomass for Enhanced_images/image-0001-05.png)
 
 
 
-![](Controlling NDoping Nature at Carbon Aerogels from Biomass for Enhanced_images/image-0001-06.png)
+![](_images/Controlling NDoping Nature at Carbon Aerogels from Biomass for Enhanced_images/image-0001-06.png)
 
 
 
-![](Controlling NDoping Nature at Carbon Aerogels from Biomass for Enhanced_images/image-0001-07.png)
+![](_images/Controlling NDoping Nature at Carbon Aerogels from Biomass for Enhanced_images/image-0001-07.png)
 
 
 
-![](Controlling NDoping Nature at Carbon Aerogels from Biomass for Enhanced_images/image-0001-08.png)
+![](_images/Controlling NDoping Nature at Carbon Aerogels from Biomass for Enhanced_images/image-0001-08.png)
 
 
 
-![](Controlling NDoping Nature at Carbon Aerogels from Biomass for Enhanced_images/image-0001-09.png)
+![](_images/Controlling NDoping Nature at Carbon Aerogels from Biomass for Enhanced_images/image-0001-09.png)
 
 
 http://pubs.acs.org/journal/acsodf 
@@ -37,7 +37,7 @@ Susanto Susanto, Tantular Nurtono, Widiyastuti Widiyastuti, Min-Hsin Yeh, and He
 ACCESS Metrics & More Article Recommendations * **sı** Supporting Information 
 
 
-![](Controlling NDoping Nature at Carbon Aerogels from Biomass for Enhanced_images/image-0001-15.png)
+![](_images/Controlling NDoping Nature at Carbon Aerogels from Biomass for Enhanced_images/image-0001-15.png)
 
 
 ABSTRACT: Pyridinic N-type doped at carbon has been known to have better electrocatalytic activity toward the oxygen reduction reaction (ORR) than the others. Herein, we proposed to prepare pyridinic N doped at carbon aerogels (CaA) derived from biomass, i.e., coir fiber (CF) and palm empty fruit bunches (PEFBs), by adjusting the pyrolysis temperature during carbonization of the biomass-based-cellulose aerogels. The cellulose aerogels were prepared by the ammonia−urea system as the cellulose solvent, in which ammonia also acted as a N source for doping and urea as the cellulose cross-linker. The as-prepared cellulose aerogels were directly pyrolyzed to produce N-doped CaA. It was found that the type of N doping is dominated by pyrrolic N at pyrolysis temperature of 600 °C, pyridinic N at 700 °C, and graphitic N at 800 °C. The pyridinic N exhibited better performance as an electrocatalyst for the ORR than pyrrolic N and graphitic N. The ORR using pyridinic N follows the four-electron pathway, which quantitatively implies a more electrochemically stable process. When used as a cathode for the Mg−air battery using a 3.5% NaCl electrolyte, the pyridinic N CaA exhibited excellent performance by giving a cell voltage of approximately 1.1 V and delivered a high discharge capacity of 411.64 mA h g[−][1] for CF and 492.64 mA h g[−][1] for PEFB corresponding to an energy density of 464.23 and 529.49 mW h g[−][1] , respectively. 
@@ -49,7 +49,7 @@ The scarcity and high cost of the lithium precursor for lithiumion batteries (LI
 sluggish oxygen reduction reaction (ORR) in the three-phase reaction zone of the air cathode that requires a highly active electrocatalyst hosted in a highly porous material to overcome the air diffusion resistance.[12][,][13] Noble-metal-based electrocatalysts are considered the benchmark electrocatalyst for the ORR, but their practical applications are hindered by their scarcity and expensive cost.[14] Therefore, it is urgent to explore new sorts of highly efficient, stable, and low-cost ORR electrocatalysts replacing the noble-metal-based ones.[15] Owing to their low cost, environment-benignity, and abundant 
 
 
-![](Controlling NDoping Nature at Carbon Aerogels from Biomass for Enhanced_images/image-0001-20.png)
+![](_images/Controlling NDoping Nature at Carbon Aerogels from Biomass for Enhanced_images/image-0001-20.png)
 
 
 Received: November 21, 2023 Revised: February 21, 2024 Accepted: February 27, 2024 Published: March 14, 2024 
@@ -91,7 +91,7 @@ https://doi.org/10.1021/acsomega.3c09297 _ACS Omega_ 2024, 9, 13994−14004
 Article 
 
 
-![](Controlling NDoping Nature at Carbon Aerogels from Biomass for Enhanced_images/image-0003-03.png)
+![](_images/Controlling NDoping Nature at Carbon Aerogels from Biomass for Enhanced_images/image-0003-03.png)
 
 
 Figure 1. (A1−C1) Morphology of CF cellulose aerogels; (A2−C2) morphology of CF carbon aerogels (CaA) pyrolyzed at 700 °C; (A3−C3) morphology of PEFB cellulose aerogels; and (A4−C4) morphology of PEFB CaA pyrolyzed at 700 °C. 
@@ -101,7 +101,7 @@ cellulose and lignin, and the pyrolysis temperature for 2 h to carbonize cellulo
 **2.3. Characterization.** The chemical functional groups of the samples were identified by Fourier transform infrared spectroscopy (FTIR; Thermo Scientific Nicolet iS10) at wavenumbers ranging from 4000 to 400 cm[−][1] . The morphology and atomic composition were observed by scanning electron microscopy with energy-dispersive X-ray spectroscopy (SEM−EDS; Hitachi FlexSEM 1000). The crystalline phase was identified by X-ray diffraction (XRD; PANalytical, X’pert Pro) in the 2 _θ_ interval of 20−80°. The specific surface area was determined from the N2 adsorption isotherms (Nova 1200, Quantachrome) using the multiplepoint Brunauer−Emmett−Teller (BET) method at _P_ / _P_ 0 < 0.3. Prior to the measurement, the sample was degassed by heating at temperature of 300 °C under flowing nitrogen for 3 h. The porosity of aerogel was calculated using 
 
 
-![](Controlling NDoping Nature at Carbon Aerogels from Biomass for Enhanced_images/image-0003-07.png)
+![](_images/Controlling NDoping Nature at Carbon Aerogels from Biomass for Enhanced_images/image-0003-07.png)
 
 
 where _ϕ_ is the porosity, _ρ_ b is the bulk density of aerogel obtained by measuring the mass and the bulk volume of samples, and _ρ_ t is the true density of cellulose (=1.528 g cm[−][3] ).[37] 
@@ -113,11 +113,11 @@ reference electrodes, respectively. All measurements were performed under ambien
 The electrochemical measurements were performed in an oxygen-saturated 3.5% sodium chloride (NaCl) solution. Prior to the measurements, the NaCl solution was purged with oxygen for 30 min and maintained under an oxygen atmosphere during the electrochemical test. The CV measurement was performed by scanning the potential between −1.0 and +1.0 V (vs Ag/AgCl) at a scan rate of 10 mV s[−][1] . LSV was performed on a rotating disc electrode (RDE) by varying the rotation speed from 400 to 3600 rpm, and the potential was scanned from −0.7 to 0.0 V (vs Ag/AgCl) at a scan rate of 10 mV s[−][1] . The number of transferred electrons and the kinetics of current density were predicted using the Koutecký−Levich − (K L) equation 
 
 
-![](Controlling NDoping Nature at Carbon Aerogels from Biomass for Enhanced_images/image-0003-12.png)
+![](_images/Controlling NDoping Nature at Carbon Aerogels from Biomass for Enhanced_images/image-0003-12.png)
 
 
 
-![](Controlling NDoping Nature at Carbon Aerogels from Biomass for Enhanced_images/image-0003-13.png)
+![](_images/Controlling NDoping Nature at Carbon Aerogels from Biomass for Enhanced_images/image-0003-13.png)
 
 
 where _i_ is the current density (mA cm[−][2] ), _ω_ is the electrode rotation speed (rpm), _i_ k is the kinetic current density (mA cm[−][2] ), _n_ is the number of electrons involved in ORR, _F_ is the Faraday constant, _C_ O2[is][the][saturated][oxygen][concentration] (9.38 × 10[−][5] mol cm[−][3] ),[38] _D_ O2[is][the][diffusion][coefficient][of] oxygen in the electrolyte (2.17 × 10[−][5] cm[2] s[−][1] ),[39] and _ν_ is the kinematic viscosity of the electrolyte (8.61 × 10[−][2] cm[2] s[−][1] ).[38] The CV measurement was also carried out in a nitrogensaturated 3.5% NaCl solution. In this case, prior to the measurements, the NaCl solution was purged with nitrogen to remove oxygen and maintained under a nitrogen atmosphere during the electrochemical test using conditions the same as those for an oxygen atmosphere. 
@@ -135,7 +135,7 @@ https://doi.org/10.1021/acsomega.3c09297 _ACS Omega_ 2024, 9, 13994−14004
 Article 
 
 
-![](Controlling NDoping Nature at Carbon Aerogels from Biomass for Enhanced_images/image-0004-03.png)
+![](_images/Controlling NDoping Nature at Carbon Aerogels from Biomass for Enhanced_images/image-0004-03.png)
 
 
 Figure 2. SEM images of coir fiber-based CaA pyrolyzed at various temperatures: (A1) 600; (A2) 700; and (A3) 800 °C and PEFB-based CaA pyrolyzed at various temperatures: (B1) 600; (B2) 700; and (B3) 800 °C. 
@@ -156,7 +156,7 @@ Table 1. Specific Surface Area of Carbon Aerogels Pyrolyzed at Various Temperatu
 
 
 
-![](Controlling NDoping Nature at Carbon Aerogels from Biomass for Enhanced_images/image-0004-07.png)
+![](_images/Controlling NDoping Nature at Carbon Aerogels from Biomass for Enhanced_images/image-0004-07.png)
 
 
 Figure 3. XRD patterns of aerogels derived from (a) CF: (a1) raw material, (a2) CeA, and (a3,a4) carbon aerogel pyrolyzed at 600 (a3), 700 (a4), and 800 °C (a5); (b) PEFB: (b1) raw material, (b2) CeA, and (b3,b4) carbon aerogel pyrolyzed at 600 (b3), 700 (b4), and 800 °C (b5). 
@@ -178,13 +178,13 @@ https://doi.org/10.1021/acsomega.3c09297 _ACS Omega_ 2024, 9, 13994−14004
 Article 
 
 
-![](Controlling NDoping Nature at Carbon Aerogels from Biomass for Enhanced_images/image-0005-03.png)
+![](_images/Controlling NDoping Nature at Carbon Aerogels from Biomass for Enhanced_images/image-0005-03.png)
 
 
 Figure 4. Compositions of the original CeA and CaA pyrolyzed at a temperature of 600, 700, and 800 °C: (a) CF and (b) PEFB. 
 
 
-![](Controlling NDoping Nature at Carbon Aerogels from Biomass for Enhanced_images/image-0005-05.png)
+![](_images/Controlling NDoping Nature at Carbon Aerogels from Biomass for Enhanced_images/image-0005-05.png)
 
 
 Figure 5. FTIR spectra of aerogels derived from (a) CF: (a1) CeA and (a2−a4) CaA pyrolyzed at 600 (a2), 700 (a3), and 800 °C (a4); (b) PEFB: (b1) CeA and (b2−b4) CaA pyrolyzed at 600 (b2), 700 (b3), and 800 °C (b4). 
@@ -208,7 +208,7 @@ https://doi.org/10.1021/acsomega.3c09297 _ACS Omega_ 2024, 9, 13994−14004
 Article 
 
 
-![](Controlling NDoping Nature at Carbon Aerogels from Biomass for Enhanced_images/image-0006-03.png)
+![](_images/Controlling NDoping Nature at Carbon Aerogels from Biomass for Enhanced_images/image-0006-03.png)
 
 
 Figure 6. CV curves of N-doped aerogel in a 3.5% NaCl solution with a scan rate of 10 mV s[−][1] from (a) carbon aerogel based on CF pyrolyzed at 600 (a1), 700 (a2), and 800 °C (a3); (b) carbon aerogel based on PEFB pyrolyzed at 600 (b1), 700 (b2), and 800 °C (b3). The solid-line curves were measured in an O2-saturated solution, and dashed-line curves were measured in a N2-saturated solution. 
@@ -234,7 +234,7 @@ https://doi.org/10.1021/acsomega.3c09297 _ACS Omega_ 2024, 9, 13994−14004
 Article 
 
 
-![](Controlling NDoping Nature at Carbon Aerogels from Biomass for Enhanced_images/image-0007-03.png)
+![](_images/Controlling NDoping Nature at Carbon Aerogels from Biomass for Enhanced_images/image-0007-03.png)
 
 
 Figure 7. LSV curves of (a) CaA-CF-600, (b) CaA-PEFB-600, and (c) CaA-CF-700, (d) CaA-PEFB-700, (e) CaA-CF-800, and (f) CaA-PEFB-800 with a 3.5% NaCl electrolyte. 
@@ -265,17 +265,17 @@ Table 2. Average Number of Electron Displacement ( _n_ ) and Kinetic Current Den
 both CF and PEFB carbon aerogels pyrolyzed at 600 and 700 °C approach 4 following the reaction[47] 
 
 
-![](Controlling NDoping Nature at Carbon Aerogels from Biomass for Enhanced_images/image-0008-06.png)
+![](_images/Controlling NDoping Nature at Carbon Aerogels from Biomass for Enhanced_images/image-0008-06.png)
 
 
 For both CF and PEFB carbon aerogels pyrolyzed at 800 °C, the calculated electron transfer numbers approach 2 following the reactions[47] 
 
 
-![](Controlling NDoping Nature at Carbon Aerogels from Biomass for Enhanced_images/image-0008-08.png)
+![](_images/Controlling NDoping Nature at Carbon Aerogels from Biomass for Enhanced_images/image-0008-08.png)
 
 
 
-![](Controlling NDoping Nature at Carbon Aerogels from Biomass for Enhanced_images/image-0008-09.png)
+![](_images/Controlling NDoping Nature at Carbon Aerogels from Biomass for Enhanced_images/image-0008-09.png)
 
 
 Again, the electron transfer numbers of carbon aerogel samples pyrolyzed at 700 °C approach 4, i.e., the ORR follows the fourelectron pathway, which quantitatively implies a more electrochemically stable process.[47] These LSV results are consistent with the results of CV analysis, indicating that samples with the highest proportion of pyridinic N could improve an ORR by changing the ORR mechanism to direct the four-electron pathway to water. Although both CF and PEFB carbon aerogel samples pyrolyzed at 800 °C have similar proportion of N (Figure 4), their ORR performance is less enhanced than those pyrolyzed at 700 °C. The type of N doping on these carbon aerogels is dominated by graphitic N, not pyridinic N, which does not have many vacancy defects that serve as the electrochemical active sites. 
@@ -289,7 +289,7 @@ Although not as active as pyridinic N, pyrrolic N and graphitic N can also serve
 **3.3. Performance of Mg** − **Air Battery Using the Pyridinic-N Carbon Aerogels.** To demonstrate the practical performance of the N-doped carbon aerogels as an ORR catalyst in seawater batteries, we assembled Mg−air batteries using commercial Mg alloy as the anode and N-doped carbon aerogels (CF and PEFB pyrolyzed at 700 °C) as the cathode (Figure S8). The electrolyte was a 3.5% NaCl solution. As shown in Figure 8, using a galvanostatic discharge current of 1 mA cm[−][2] , the Mg−air batteries using a 3.5% NaCl electrolyte showed a relatively constant voltage of approximately 1.1 V for both CF and PEFB carbon aerogels for relatively long time. The discharge voltage dropped sharply after the discharge tests of 15.5 and 18.9 h for CF- and PEFB-carbon aerogels, − respectively. The Mg air batteries using the CF- and PEFB-Ndoped carbon aerogels delivered a high discharge capacity of, respectively, 411.64 and 492.64 mA h g[−][1] , corresponding to an energy density of 464.23 and 529.49 mW h g[−][1] . These highpower densities are considered to be successfully rapid oxygen transport on the catalyst layer, which plays an important role as a water-flooding three-phase boundary. The sudden drop in voltage after the long discharge time might not be caused by the exhausted catalyst layer but might be caused by the formation of a passive layer at the Mg anode. We observed the formation of white precipitate, more likely Mg(OH)2, during the discharge process, leading to covering up the surface of Mg 
 
 
-![](Controlling NDoping Nature at Carbon Aerogels from Biomass for Enhanced_images/image-0008-15.png)
+![](_images/Controlling NDoping Nature at Carbon Aerogels from Biomass for Enhanced_images/image-0008-15.png)
 
 
 Figure 8. (a) Discharge voltage and (b) discharge capacity of seawater battery were tested for the discharge process at a constant current density of 1 mA cm[−][2] with N-doped carbon aerogel of CaA-CF-700 and CaA-PEFB-700 as the air cathode, magnesium alloy as the anode, and electrolyte of NaCl 3.5%. 
@@ -463,7 +463,7 @@ Article
 Electron Electrochemical Oxygen Reduction Reactions at NitrogenDoped Reduced Graphene Oxide. _ACS Catal._ 2020, _10_ (1), 852−863. 
 
 
-![](Controlling NDoping Nature at Carbon Aerogels from Biomass for Enhanced_images/image-0011-04.png)
+![](_images/Controlling NDoping Nature at Carbon Aerogels from Biomass for Enhanced_images/image-0011-04.png)
 
 
 **14004** 

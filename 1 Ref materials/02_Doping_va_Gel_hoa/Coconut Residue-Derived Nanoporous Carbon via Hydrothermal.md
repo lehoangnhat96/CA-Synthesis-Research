@@ -1,5 +1,5 @@
 
-![](_temp_9e32c6cd_convert__images/_temp_9e32c6cd_convert_.pdf-0001-00.png)
+![](_images/Coconut Residue-Derived Nanoporous Carbon via Hydrothermal_images/_temp_0af1e273_convert_.pdf-0001-00.png)
 
 
 ## _Article_ 
@@ -79,7 +79,7 @@ _Polymers_ **2025** , _17_ , 1752
 The synthesis of NPC from CR waste involved hydrothermal carbonization (HTC) followed by KOH activation, as illustrated in Figure 1A. Initially, the CR was mixed with deionized (DI) water in a 1:2 weight ratio and subjected to hydrothermal treatment in a Teflon-lined autoclave at 200 _[◦]_ C for 12 h. The resulting hydrochar was then dried at 105 _[◦]_ C for 24 h in an electric oven. In the subsequent carbonization and activation steps, the hydrochar was mixed with KOH at varying weight ratios (1:1.5, 1:2, 1:2.5, and 1:3) using a mortar for 15 min. The mixtures were dried again at 105 _[◦]_ C for 20 h. Activation was carried out at 700, 800, and 900 _[◦]_ C for 1 h under a nitrogen atmosphere flowing at 100 mL min _[−]_[1] , with a heating rate of 10 _[◦]_ C min _[−]_[1] . Post-activation, the samples were thoroughly washed with DI water and 0.1 M HCl until a neutral pH was achieved. The final drying was conducted at 105 _[◦]_ C for 24 h. The resulting samples were labeled according to activation temperature and KOH ratio, e.g., NPC700-K1.5, NPC800-K1.5, NPC900-K1.5, etc. 
 
 
-![](_temp_9e32c6cd_convert__images/_temp_9e32c6cd_convert_.pdf-0004-04.png)
+![](_images/Coconut Residue-Derived Nanoporous Carbon via Hydrothermal_images/_temp_0af1e273_convert_.pdf-0004-04.png)
 
 
 **Figure 1.** Schematic illustration depicting ( **A** ) the entire preparation process and ( **B** ) the test performance of NPC. 
@@ -97,7 +97,7 @@ _Polymers_ **2025** , _17_ , 1752
 Electrochemical performance was evaluated using a three-electrode setup controlled by a VSP potentiostat with EC-Lab V10.33 software (Biologic, Seyssinet-Pariset, France). Cyclic voltammetry (CV) and galvanostatic charge–discharge (GCD) tests were performed, as illustrated in Figure 1B. CV was conducted in the potential window of 0–1 V (vs. Ag/AgCl) at a scan rate of 10–100 mV s _[−]_[1] . GCD measurements were carried out within the same potential range at a specific current of 1–20 A g _[−]_[1] , using 1 M Na2SO4 as the electrolyte at room temperature. The working electrode was prepared by drop-casting 3 µL of NPC dispersion onto a glassy carbon (GC) electrode (3 mm diameter, ALS Co., Ltd., Brisbane, Australia). Prior to use, the GC electrode was polished sequentially using a 0.1 µm diamond polishing pad, a 0.05 µm alumina slurry, and finally with DI water to remove any residual particles. The NPC dispersion was prepared by sonicating a mixture of 5 mg NPC, 475 µL DI water, 475 µL isopropanol, and 50 µL Nafion solution for 60 min. A platinum wire (ALS Co., Ltd., Brisbane, Australia) served as the counter electrode, and an Ag/AgCl electrode immersed in saturated KCl was used as the reference. The specific capacitance ( _**CS**_ ) was calculated from the GCD discharge curve using the following equation: 
 
 
-![](_temp_9e32c6cd_convert__images/_temp_9e32c6cd_convert_.pdf-0005-04.png)
+![](_images/Coconut Residue-Derived Nanoporous Carbon via Hydrothermal_images/_temp_0af1e273_convert_.pdf-0005-04.png)
 
 
 where _**I**_ is the applied constant current (A), _**m**_ is the mass of active material (g), and _**V**_ ( _**t**_ ) is the potential as a function of time (s). 
@@ -113,15 +113,15 @@ _Polymers_ **2025** , _17_ , 1752
 6 of 15 
 
 
-![](_temp_9e32c6cd_convert__images/_temp_9e32c6cd_convert_.pdf-0006-02.png)
+![](_images/Coconut Residue-Derived Nanoporous Carbon via Hydrothermal_images/_temp_0af1e273_convert_.pdf-0006-02.png)
 
 
 
-![](_temp_9e32c6cd_convert__images/_temp_9e32c6cd_convert_.pdf-0006-03.png)
+![](_images/Coconut Residue-Derived Nanoporous Carbon via Hydrothermal_images/_temp_0af1e273_convert_.pdf-0006-03.png)
 
 
 
-![](_temp_9e32c6cd_convert__images/_temp_9e32c6cd_convert_.pdf-0006-04.png)
+![](_images/Coconut Residue-Derived Nanoporous Carbon via Hydrothermal_images/_temp_0af1e273_convert_.pdf-0006-04.png)
 
 
 **----- Start of picture text -----**<br>
@@ -131,27 +131,27 @@ _Polymers_ **2025** , _17_ , 1752
 **Figure 2.** ( **A** ) FTIR spectra and ( **B** ) XRD patterns of CR and hydrochar. 
 
 
-![](_temp_9e32c6cd_convert__images/_temp_9e32c6cd_convert_.pdf-0006-06.png)
+![](_images/Coconut Residue-Derived Nanoporous Carbon via Hydrothermal_images/_temp_0af1e273_convert_.pdf-0006-06.png)
 
 
 
-![](_temp_9e32c6cd_convert__images/_temp_9e32c6cd_convert_.pdf-0006-07.png)
+![](_images/Coconut Residue-Derived Nanoporous Carbon via Hydrothermal_images/_temp_0af1e273_convert_.pdf-0006-07.png)
 
 
 
-![](_temp_9e32c6cd_convert__images/_temp_9e32c6cd_convert_.pdf-0006-08.png)
+![](_images/Coconut Residue-Derived Nanoporous Carbon via Hydrothermal_images/_temp_0af1e273_convert_.pdf-0006-08.png)
 
 
 
-![](_temp_9e32c6cd_convert__images/_temp_9e32c6cd_convert_.pdf-0006-09.png)
+![](_images/Coconut Residue-Derived Nanoporous Carbon via Hydrothermal_images/_temp_0af1e273_convert_.pdf-0006-09.png)
 
 
 
-![](_temp_9e32c6cd_convert__images/_temp_9e32c6cd_convert_.pdf-0006-10.png)
+![](_images/Coconut Residue-Derived Nanoporous Carbon via Hydrothermal_images/_temp_0af1e273_convert_.pdf-0006-10.png)
 
 
 
-![](_temp_9e32c6cd_convert__images/_temp_9e32c6cd_convert_.pdf-0006-11.png)
+![](_images/Coconut Residue-Derived Nanoporous Carbon via Hydrothermal_images/_temp_0af1e273_convert_.pdf-0006-11.png)
 
 
 **Figure 3.** SEM morphology of CR ( **A** – **C** ) and hydrochar ( **D** – **F** ) at 20,000 _×_ , 10,000 _×_ , and 1000 _×_ , respectively. 
@@ -167,11 +167,11 @@ _Polymers_ **2025** , _17_ , 1752
 respectively [62]. The D and G bands are used to calculate the intensity ratios (ID/IG) to determine the structural properties of the carbon. In Figure 4G,H, the ID/IG ratio increases or remains constant as the concentration of K increases. When the temperature increases, the ID/IG ratio also increases, indicating that both temperature and K concentration affect the amorphous carbon structure as a monolayer (sp[2] ) [62]. The highest ID/IG value is 1.13 for NPC900-K3. Figure 4I shows that the ID/IG ratio decreases compared to Figure 4H, but there was the appearance of the 2D band with peaks of 2600–2800 cm _[−]_[1] [63], indicating that the formation of carbon layers is greater than one. The 2D and G bands were used to calculate the intensity ratios of the 2D band (I2D/IG). The ID/IG ratio is inversely proportional to the I2D/IG ratio. The I2D/IG values were 0.18, 0.32, 0.23, and 0.25, respectively, with the highest value being 0.32 for NPC900-K2, which was less than 1, reflecting the 3D nature of graphite [64]. The yield of NPC decreased to 78–90 wt% (Figure S2B) compared to hydrochar from Table S1. Thermochemical treatment at high temperatures effectively decomposed biomaterial structures such as lignin, cellulose, and hemicellulose, enhancing the carbon structure [65]. Additionally, KOH acted as a catalyst, facilitating the degradation of these structures. 
 
 
-![](_temp_9e32c6cd_convert__images/_temp_9e32c6cd_convert_.pdf-0007-03.png)
+![](_images/Coconut Residue-Derived Nanoporous Carbon via Hydrothermal_images/_temp_0af1e273_convert_.pdf-0007-03.png)
 
 
 
-![](_temp_9e32c6cd_convert__images/_temp_9e32c6cd_convert_.pdf-0007-04.png)
+![](_images/Coconut Residue-Derived Nanoporous Carbon via Hydrothermal_images/_temp_0af1e273_convert_.pdf-0007-04.png)
 
 
 **Figure 4.** FTIR spectra of NPC at different synthesis temperatures ( **A** ) 700 _[◦]_ C, ( **B** ) 800 _[◦]_ C, and ( **C** ) 900 _[◦]_ C. XRD patterns of NPC synthesized at ( **D** ) 700 _[◦]_ C, ( **E** ) 800 _[◦]_ C, and ( **F** ) 900 _[◦]_ C. Raman spectra of NPC at ( **G** ) 700 _[◦]_ C, ( **H** ) 800 _[◦]_ C, and ( **I** ) 900 _[◦]_ C. 
@@ -191,27 +191,27 @@ _Polymers_ **2025** , _17_ , 1752
 K2 with NPC900-K2.5 exhibited high capacitance at low specific currents; however, its rate performance declined slightly at higher specific currents, likely due to excessive activation at 900 _[◦]_ C. This may lead to pore enlargement, reduced surface wettability, and limited ion accessibility. After calculating the capacitance, as illustrated in Figure S6 samples NPC800K2, NPC900-K2, and NPC900-K2.5 showed 38, 45, and 52 F g _[−]_[1] capacitances, respectively. 
 
 
-![](_temp_9e32c6cd_convert__images/_temp_9e32c6cd_convert_.pdf-0009-03.png)
+![](_images/Coconut Residue-Derived Nanoporous Carbon via Hydrothermal_images/_temp_0af1e273_convert_.pdf-0009-03.png)
 
 
 
-![](_temp_9e32c6cd_convert__images/_temp_9e32c6cd_convert_.pdf-0009-04.png)
+![](_images/Coconut Residue-Derived Nanoporous Carbon via Hydrothermal_images/_temp_0af1e273_convert_.pdf-0009-04.png)
 
 
 
-![](_temp_9e32c6cd_convert__images/_temp_9e32c6cd_convert_.pdf-0009-05.png)
+![](_images/Coconut Residue-Derived Nanoporous Carbon via Hydrothermal_images/_temp_0af1e273_convert_.pdf-0009-05.png)
 
 
 
-![](_temp_9e32c6cd_convert__images/_temp_9e32c6cd_convert_.pdf-0009-06.png)
+![](_images/Coconut Residue-Derived Nanoporous Carbon via Hydrothermal_images/_temp_0af1e273_convert_.pdf-0009-06.png)
 
 
 
-![](_temp_9e32c6cd_convert__images/_temp_9e32c6cd_convert_.pdf-0009-07.png)
+![](_images/Coconut Residue-Derived Nanoporous Carbon via Hydrothermal_images/_temp_0af1e273_convert_.pdf-0009-07.png)
 
 
 
-![](_temp_9e32c6cd_convert__images/_temp_9e32c6cd_convert_.pdf-0009-08.png)
+![](_images/Coconut Residue-Derived Nanoporous Carbon via Hydrothermal_images/_temp_0af1e273_convert_.pdf-0009-08.png)
 
 
 **Figure 5.** Data plots from cyclic voltammetry (CV) measurements at different temperatures ( **A** ) 700 _[◦]_ C, ( **B** ) 800 _[◦]_ C, and ( **C** ) 900 _[◦]_ C at a scan rate of 100 mV s _[−]_[1] . Galvanostatic charge–discharge (GCD) measurements at different temperatures ( **D** ) 700 _[◦]_ C, ( **E** ) 800 _[◦]_ C, and ( **F** ) 900 _[◦]_ C at a specific current of 1 A g _[−]_[1] . 
@@ -235,7 +235,7 @@ and NPC-2.5 suggest the presence of micropores and mesopores [70]. The NPC800-K2
 
 
 
-![](_temp_9e32c6cd_convert__images/_temp_9e32c6cd_convert_.pdf-0010-05.png)
+![](_images/Coconut Residue-Derived Nanoporous Carbon via Hydrothermal_images/_temp_0af1e273_convert_.pdf-0010-05.png)
 
 
 **Figure 6.** N2 adsorption–desorption isotherms of NPC800-K2, NPC900-K2, and NPC900-K2.5. 
@@ -245,7 +245,7 @@ _Polymers_ **2025** , _17_ , 1752
 11 of 15 
 
 
-![](_temp_9e32c6cd_convert__images/_temp_9e32c6cd_convert_.pdf-0011-02.png)
+![](_images/Coconut Residue-Derived Nanoporous Carbon via Hydrothermal_images/_temp_0af1e273_convert_.pdf-0011-02.png)
 
 
 **Figure 7.** SEM morphology of NPC800-K2 ( **A** – **C** ), NPC900-K2 ( **D** – **F** ), and NPC900-K2.5 ( **G** – **I** ) at 20,000 _×_ , 10,000 _×_ , and 1000 _×_ , respectively. 

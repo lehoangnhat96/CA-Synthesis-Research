@@ -1,0 +1,22 @@
+﻿,GĐ2 – ĐIỀU CHẾ HYDROGEL CELLULOSE (38g Cellulose → ~36g Hydrogel polymer khô)
+,Phương pháp: NaOH/Urea (-12°C) → hòa tan cellulose → đông tụ nhiệt (50–60°C) → rửa → hydrogel
+,Thông số,Giá trị,Đơn vị,Công thức / Cơ sở,Lượng cụ thể,Thiết bị,Thời gian,Lưu ý quan trọng
+,CÔNG THỨC PHA DUNG DỊCH CELLULOSE/NaOH/UREA
+,  Hệ dung môi: Cellulose 4 wt% + NaOH 7 wt% + Urea 12 wt% + H₂O 77 wt%. Tổng khối lượng dung dịch: 38g / 0.04 = 950g
+,Cellulose khô đầu vào,38,g,Đầu vào từ GĐ1,38 g cellulose tinh khiết,—,—,Không được để ẩm
+,Khối lượng dung dịch tổng,950,g,38g / 4% = 950g,950 g dung dịch cần pha,Cân kỹ thuật 2kg ±0.1g,—,Tính từ nồng độ cellulose 4 wt%
+,NaOH cần dùng,66.5,g,950g × 7% = 66.5g,66.5 g NaOH tinh thể ≥97%,Cân phân tích,—,Hòa tan trước trong nước lạnh
+,Urea cần dùng,114,g,950g × 12% = 114g,114 g Urea (phân đạm ≥99.5%),Cân kỹ thuật,—,"Urea dễ mua, rẻ ~5,000đ/kg"
+,Nước cất cần dùng,731.5,g ≈ 731.5 mL,950 – 38 – 66.5 – 114 = 731.5g,731.5 mL H₂O cất (deionized),Ống đong 1L,—,Nước cất hai lần hoặc deionized
+,Bình pha hỗn hợp,1.5–2L,—,Đủ chứa 950g dung dịch,Bình thủy tinh có nắp kín 2L,Bình thủy tinh 2L + nắp,—,Cần kín để tránh bay hơi khi làm lạnh
+,QUY TRÌNH HÒA TAN VÀ TẠO GEL
+,Bước A: Làm lạnh dung dịch NaOH/Urea/H₂O,–12°C,°C,Điều kiện hòa tan cellulose tối ưu,Dùng tủ lạnh sâu hoặc hỗn hợp đá+muối (–10 đến –15°C),Tủ lạnh –20°C hoặc bath đá/muối,2–4 giờ,"⚠ Nếu không đủ lạnh, cellulose không tan → gel không đồng nhất"
+,Bước B: Thêm cellulose vào dung dịch lạnh,0–4°C,°C,"Thêm từng phần nhỏ, khuấy liên tục",Thêm 38g cellulose vào dung dịch lạnh,Đũa khuấy thủy tinh + bình lạnh,30 phút,Khuấy mạnh tay hoặc máy khuấy tốc độ thấp 100rpm
+,Bước C: Khuấy hòa tan hoàn toàn,0–4°C,°C,Cellulose tan hoàn toàn → dung dịch trong suốt/đục nhẹ,"Giữ lạnh, khuấy liên tục",Máy khuấy cơ / khuấy tay,30–60 phút,"Dung dịch phải đồng nhất, không còn hạt thô"
+,Bước D: Đổ vào khuôn (hộp PTFE/silicon),RT,—,Khuôn định hình gel,"Hộp nhựa PTFE hoặc khuôn silicon, dày ~1–2cm",Khuôn PTFE/silicon/thủy tinh phủ PE film,5 phút,Độ dày đồng đều → aerogel đồng nhất
+,Bước E: Đông tụ nhiệt → Hydrogel,50–60°C,°C,Nhiệt độ > 50°C làm cellulose tái kết tinh thành gel,Đặt khuôn vào lò/tủ sấy 55°C / 30 phút,Tủ sấy đối lưu hoặc nồi cách thủy,30–45 phút,Gel hình thành khi dung dịch đục và cứng lại. KHÔNG khuấy trong giai đoạn này
+,Bước F: Ngâm đông tụ trong nước 60°C,60,°C,Hoàn thiện mạng lưới gel,Ngâm khuôn trong nước cất 60°C / 30 phút,Chậu nước + bếp gia nhiệt,30 phút,Rửa bớt NaOH/Urea ra khỏi gel
+,Bước G: Rửa hydrogel,pH 6.5–7,—,"Loại hoàn toàn NaOH, Urea","Ngâm rửa trong nước cất, thay nước 3–4 lần","Chậu thủy tinh, nước cất",6–12 giờ,Quan trọng: Urea dư sẽ ảnh hưởng doping GĐ3
+,→ Hydrogel sau rửa (ẩm),~680g,g wet,96–97% là nước + 4% polymer (36g),"~680g hydrogel ẩm, chứa ~36g cellulose polymer",Cân kỹ thuật,—,Thể tích ≈ 680 mL. Đây là khối lượng đầu vào cho GĐ3
+,"  CHI PHÍ GĐ2 (ước tính): NaOH 66.5g ~1,000đ | Urea 114g ~600đ | Nước cất ~2,000đ. TỔNG ~3,600đ – Rất thấp!"
+,⚠ NẾU GEL KHÔNG HÌNH THÀNH: (1) Nhiệt độ làm lạnh không đủ → dùng muối + đá cho –10°C; (2) Tỉ lệ NaOH sai → cân lại; (3) Cellulose chưa khô → sấy lại 60°C/2h trước khi dùng

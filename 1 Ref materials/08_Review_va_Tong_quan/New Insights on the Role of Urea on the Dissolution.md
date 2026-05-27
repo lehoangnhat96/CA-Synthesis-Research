@@ -1,11 +1,11 @@
 
-![](_temp_d1c28772_convert__images/_temp_d1c28772_convert_.pdf-0001-00.png)
+![](_images/New Insights on the Role of Urea on the Dissolution_images/_temp_8a3938e5_convert_.pdf-0001-00.png)
 
 
 ## _**gels**_ 
 
 
-![](_temp_d1c28772_convert__images/_temp_d1c28772_convert_.pdf-0001-02.png)
+![](_images/New Insights on the Role of Urea on the Dissolution_images/_temp_8a3938e5_convert_.pdf-0001-02.png)
 
 
 _Article_ 
@@ -63,7 +63,7 @@ _Gels_ **2018** , _4_ , 87
 3 of 11 
 
 
-![](_temp_d1c28772_convert__images/_temp_d1c28772_convert_.pdf-0003-02.png)
+![](_images/New Insights on the Role of Urea on the Dissolution_images/_temp_8a3938e5_convert_.pdf-0003-02.png)
 
 
 **Figure 1.** Cryo-transmission electronic microscopy (cryo-TEM) images of 0.5 wt % MCC dissolved in ( **a** ) 8 wt % NaOH(aq.) solution and ( **b** ) in 8 wt % NaOH(aq.)/12 wt % urea system. Scale bars correspond to 100 nm. 
@@ -71,7 +71,7 @@ _Gels_ **2018** , _4_ , 87
 To complement the cryo-TEM, PTssNMR was performed on concentrated cellulose samples. In Figure 2, the PTssNMR spectra of 10 wt % MCC dissolved in NaOH(aq.) with (bottom) and without (top) urea are depicted. 
 
 
-![](_temp_d1c28772_convert__images/_temp_d1c28772_convert_.pdf-0003-05.png)
+![](_images/New Insights on the Role of Urea on the Dissolution_images/_temp_8a3938e5_convert_.pdf-0003-05.png)
 
 
 **Figure 2.** Polarization transfer solid-state nuclear magnetic resonance (PTssNMR) spectra for 10 wt % MCC dissolved in 8 wt % NaOH(aq.), with ( **bottom** ) and without ( **top** ) urea. The cross-polarization (CP, blue line) and the insensitive nuclei enhanced by the polarization transfer signal (INEPT, red line) spectra were acquired at 25 _[◦]_ C. The vertical lines represent the chemical shifts of native dry microcrystalline cellulose (MCC; blue dotted lines) [2] and dissolved cellulose [33] (red dotted lines). 
@@ -89,11 +89,11 @@ When urea is present, (Figure 2 bottom), the CP and the INEPT signals are also d
 Solutions containing cellulose dispersed at the molecular level, or close to it, present rheological features quite different from those where undissolved fibrils or cellulose aggregates are still present. In this respect, macrorheology and microrheology were performed to better understand the rheological properties of cellulose in NaOH(aq.), and how urea affects it. In Figure 3, the viscoelastic parameters G _[′]_ and G” are shown after temperature sweeps from 25 to 60 _[◦]_ C. 
 
 
-![](_temp_d1c28772_convert__images/_temp_d1c28772_convert_.pdf-0004-05.png)
+![](_images/New Insights on the Role of Urea on the Dissolution_images/_temp_8a3938e5_convert_.pdf-0004-05.png)
 
 
 
-![](_temp_d1c28772_convert__images/_temp_d1c28772_convert_.pdf-0004-06.png)
+![](_images/New Insights on the Role of Urea on the Dissolution_images/_temp_8a3938e5_convert_.pdf-0004-06.png)
 
 
 **Figure 3.** Viscoelastic parameters determined by mechanical rheometry. G _[′]_ (full symbols) and G” (empty symbols) were obtained for samples with (squares) and without (circles) urea after a temperature sweep from 25 to 60 _[◦]_ C (heating rate of 1 _[◦]_ C/min) at a constant shear stress of 10 Pa and frequency of 0.1 Hz. ( **a** ) 5 wt % MCC and ( **b** ) 10 wt % MCC dissolved in 8 wt % NaOH(aq.)/12 wt % urea. 
@@ -119,7 +119,7 @@ _Gels_ **2018** , _4_ , 87
 free at long observation times and the sample has a liquid-like behavior; on the other hand, if H is higher than zero, it reflects the existence of a restriction in the tracer _[′]_ s movements at long observation times, which is characteristic of a gel-like structure. The H parameter progressively increases above ca. 40 _[◦]_ C, and since the elastic modulus (G _[′]_ ) follows the same trend (Figure 4b), it suggests that the gel structure is formed and strengthened upon heating above _Tg_ . 
 
 
-![](_temp_d1c28772_convert__images/_temp_d1c28772_convert_.pdf-0006-03.png)
+![](_images/New Insights on the Role of Urea on the Dissolution_images/_temp_8a3938e5_convert_.pdf-0006-03.png)
 
 
 **Figure 4.** ( **a** ) Intensity correlation function (ICF) obtained with increasing temperature for the solution of 5 wt % MCC in NaOH(aq.), and ( **b** ) the corresponding H ( _t_ = 1 s; grey circles) and G _[′]_ (ω = 100 rad/s; black squares) as a function of temperature. The arrow on the left indicates how the ICF plateaus (and the H parameter) evolve with temperature rise, while the arrow on the right indicates the inflection point ( _Tg_ ), where both the H parameter and G _[′]_ start increasing exponentially. 
@@ -127,7 +127,7 @@ free at long observation times and the sample has a liquid-like behavior; on the
 In order to evaluate the effect of cellulose concentration on _Tg_ , the 10 wt % MCC in NaOH(aq.) was also analyzed, and the variation of H with temperature was compared to that of the sample of 5 wt % MCC. As can be seen in Figure 5, the accentuated increase of H starts at ca. 35 _[◦]_ C for the 10 wt % MCC, and 5 _[◦]_ C earlier than its counterpart 5 wt % MCC. 
 
 
-![](_temp_d1c28772_convert__images/_temp_d1c28772_convert_.pdf-0006-06.png)
+![](_images/New Insights on the Role of Urea on the Dissolution_images/_temp_8a3938e5_convert_.pdf-0006-06.png)
 
 
 **Figure 5.** Variation of the H parameter with temperature for the 5 wt % (grey squares) and 10 wt % (black circles) MCC samples dissolved in NaOH(aq.). The arrows indicate the _Tg_ . 
@@ -143,7 +143,7 @@ _Gels_ **2018** , _4_ , 87
 of the 5 wt % MCC is approximately zero, with no significant variations in the studied temperature range, which suggests free movement of tracer particles and thus a liquid-like system. Conversely, the 10 wt % MCC behaved as a strong gel during the temperature range, with corresponding high H values (incomplete ICF decay), thus reflecting a very high restriction in the movement of the tracers embedded in the gel network. 
 
 
-![](_temp_d1c28772_convert__images/_temp_d1c28772_convert_.pdf-0007-03.png)
+![](_images/New Insights on the Role of Urea on the Dissolution_images/_temp_8a3938e5_convert_.pdf-0007-03.png)
 
 
 **Figure 6.** Variation of the H parameter with temperature for the 5 wt % (black squares) and 10 wt % (grey circles) MCC samples dissolved in 8 wt % NaOH(aq.)/12 wt % urea. 
@@ -301,7 +301,7 @@ _Gels_ **2018** , _4_ , 87
 43. Medronho, B.; Filipe, A.; Costa, C.; Romano, A.; Lindman, B.; Edlund, H.; Norgren, M. Microrheology of novel cellulose stabilized oil-in-water emulsions. _J. Colloid Interface Sci._ **2018** , _531_ , 225–232. [CrossRef] [PubMed] 
 
 
-![](_temp_d1c28772_convert__images/_temp_d1c28772_convert_.pdf-0011-16.png)
+![](_images/New Insights on the Role of Urea on the Dissolution_images/_temp_8a3938e5_convert_.pdf-0011-16.png)
 
 
 - © 2018 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (http://creativecommons.org/licenses/by/4.0/). 

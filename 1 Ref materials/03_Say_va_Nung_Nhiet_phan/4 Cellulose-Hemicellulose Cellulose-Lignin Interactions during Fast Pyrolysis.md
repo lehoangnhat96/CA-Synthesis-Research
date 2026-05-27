@@ -1,7 +1,7 @@
 Subscriber access provided by UZH Hauptbibliothek / Zentralbibliothek Zuerich 
 
 
-![](_temp_b32dae94_convert__images/_temp_b32dae94_convert_.pdf-0001-01.png)
+![](_images/4 Cellulose-Hemicellulose Cellulose-Lignin Interactions during Fast Pyrolysis_images/_temp_3159bf16_convert_.pdf-0001-01.png)
 
 
 ## Article 
@@ -15,7 +15,7 @@ _ACS Sustainable Chem. Eng._ , **Just Accepted Manuscript** • DOI: 10.1021/sc5
 “Just Accepted” manuscripts have been peer-reviewed and accepted for publication. They are posted online prior to technical editing, formatting for publication and author proofing. The American Chemical Society provides “Just Accepted” as a free service to the research community to expedite the dissemination of scientific material as soon as possible after acceptance. “Just Accepted” manuscripts appear in full in PDF format accompanied by an HTML abstract. “Just Accepted” manuscripts have been fully peer reviewed, but should not be considered the official version of record. They are accessible to all readers and citable by the Digital Object Identifier (DOI®). “Just Accepted” is an optional service offered to authors. Therefore, the “Just Accepted” Web site may not include all articles that will be published in the journal. After a manuscript is technically edited and formatted, it will be removed from the “Just Accepted” Web site and published as an ASAP article. Note that technical editing may introduce minor changes to the manuscript text and/or graphics which could affect content, and all legal disclaimers and ethical guidelines that apply to the journal pertain. ACS cannot be held responsible for errors or consequences arising from the use of information contained in these “Just Accepted” manuscripts. 
 
 
-![](_temp_b32dae94_convert__images/_temp_b32dae94_convert_.pdf-0001-07.png)
+![](_images/4 Cellulose-Hemicellulose Cellulose-Lignin Interactions during Fast Pyrolysis_images/_temp_3159bf16_convert_.pdf-0001-07.png)
 
 
 ACS Sustainable Chemistry & Engineering is published by the American Chemical Society. 1155 Sixteenth Street N.W., Washington, DC 20036 Published by American Chemical Society. Copyright © American Chemical Society. However, no copyright claim is made to original U.S. Government works, or works produced by employees of any Commonwealth realm Crown government in the course of their duties. 
@@ -42,7 +42,7 @@ This document is confidential and is proprietary to the American Chemical Societ
 
 
 
-![](_temp_b32dae94_convert__images/_temp_b32dae94_convert_.pdf-0002-04.png)
+![](_images/4 Cellulose-Hemicellulose Cellulose-Lignin Interactions during Fast Pyrolysis_images/_temp_3159bf16_convert_.pdf-0002-04.png)
 
 
 **ACS Paragon Plus Environment** 
@@ -66,15 +66,15 @@ _cCenter for Sustainable and Environmental Technologies, Iowa State University, 
 ## **Abstract** 
 
 
-![](_temp_b32dae94_convert__images/_temp_b32dae94_convert_.pdf-0003-09.png)
+![](_images/4 Cellulose-Hemicellulose Cellulose-Lignin Interactions during Fast Pyrolysis_images/_temp_3159bf16_convert_.pdf-0003-09.png)
 
 
 
-![](_temp_b32dae94_convert__images/_temp_b32dae94_convert_.pdf-0003-10.png)
+![](_images/4 Cellulose-Hemicellulose Cellulose-Lignin Interactions during Fast Pyrolysis_images/_temp_3159bf16_convert_.pdf-0003-10.png)
 
 
 
-![](_temp_b32dae94_convert__images/_temp_b32dae94_convert_.pdf-0003-11.png)
+![](_images/4 Cellulose-Hemicellulose Cellulose-Lignin Interactions during Fast Pyrolysis_images/_temp_3159bf16_convert_.pdf-0003-11.png)
 
 
 Previously the primary product distribution resulting from fast pyrolysis of cellulose, hemicellulose and lignin was quantified. This study extends the analysis to the examination of interactions between cellulose-hemicellulose and cellulose-lignin, which were determined by comparing the pyrolysis products from their native mixture, physical mixture and superposition of individual components. Negligible interaction was found for either binary physical mixture. For the native cellulose-hemicellulose mixture no significant interaction was identified either. In the case of the native cellulose-lignin mixture, herbaceous biomass exhibited an apparent interaction, represented by diminished yield of levoglucosan and enhanced yield of low molecular weight compounds and furans. 
@@ -737,19 +737,19 @@ a All numbers are in wt%.
 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 
 
 
-![](_temp_b32dae94_convert__images/_temp_b32dae94_convert_.pdf-0033-04.png)
+![](_images/4 Cellulose-Hemicellulose Cellulose-Lignin Interactions during Fast Pyrolysis_images/_temp_3159bf16_convert_.pdf-0033-04.png)
 
 
 
-![](_temp_b32dae94_convert__images/_temp_b32dae94_convert_.pdf-0033-05.png)
+![](_images/4 Cellulose-Hemicellulose Cellulose-Lignin Interactions during Fast Pyrolysis_images/_temp_3159bf16_convert_.pdf-0033-05.png)
 
 
 
-![](_temp_b32dae94_convert__images/_temp_b32dae94_convert_.pdf-0033-06.png)
+![](_images/4 Cellulose-Hemicellulose Cellulose-Lignin Interactions during Fast Pyrolysis_images/_temp_3159bf16_convert_.pdf-0033-06.png)
 
 
 
-![](_temp_b32dae94_convert__images/_temp_b32dae94_convert_.pdf-0033-07.png)
+![](_images/4 Cellulose-Hemicellulose Cellulose-Lignin Interactions during Fast Pyrolysis_images/_temp_3159bf16_convert_.pdf-0033-07.png)
 
 
 **Fig. 1.** Postulated pyrolysis mechanisms of cellulose covalently linked with lignin. (L: lignin) 
@@ -757,19 +757,19 @@ a All numbers are in wt%.
 Color reproduction (above) on the Web and in black-and-white (below) in print 
 
 
-![](_temp_b32dae94_convert__images/_temp_b32dae94_convert_.pdf-0033-10.png)
+![](_images/4 Cellulose-Hemicellulose Cellulose-Lignin Interactions during Fast Pyrolysis_images/_temp_3159bf16_convert_.pdf-0033-10.png)
 
 
 
-![](_temp_b32dae94_convert__images/_temp_b32dae94_convert_.pdf-0033-11.png)
+![](_images/4 Cellulose-Hemicellulose Cellulose-Lignin Interactions during Fast Pyrolysis_images/_temp_3159bf16_convert_.pdf-0033-11.png)
 
 
 
-![](_temp_b32dae94_convert__images/_temp_b32dae94_convert_.pdf-0033-12.png)
+![](_images/4 Cellulose-Hemicellulose Cellulose-Lignin Interactions during Fast Pyrolysis_images/_temp_3159bf16_convert_.pdf-0033-12.png)
 
 
 
-![](_temp_b32dae94_convert__images/_temp_b32dae94_convert_.pdf-0033-13.png)
+![](_images/4 Cellulose-Hemicellulose Cellulose-Lignin Interactions during Fast Pyrolysis_images/_temp_3159bf16_convert_.pdf-0033-13.png)
 
 
 **Fig. 1.** Postulated pyrolysis mechanisms of cellulose covalently linked with lignin. (L: lignin) 
@@ -795,15 +795,15 @@ Color reproduction (above) on the Web and in black-and-white (below) in print
 Jing Zhang, Yong S. Choi, Chang G. Yoo, Tae H. Kim, Robert C. Brown, Brent H. Shanks 
 
 
-![](_temp_b32dae94_convert__images/_temp_b32dae94_convert_.pdf-0034-09.png)
+![](_images/4 Cellulose-Hemicellulose Cellulose-Lignin Interactions during Fast Pyrolysis_images/_temp_3159bf16_convert_.pdf-0034-09.png)
 
 
 
-![](_temp_b32dae94_convert__images/_temp_b32dae94_convert_.pdf-0034-10.png)
+![](_images/4 Cellulose-Hemicellulose Cellulose-Lignin Interactions during Fast Pyrolysis_images/_temp_3159bf16_convert_.pdf-0034-10.png)
 
 
 
-![](_temp_b32dae94_convert__images/_temp_b32dae94_convert_.pdf-0034-11.png)
+![](_images/4 Cellulose-Hemicellulose Cellulose-Lignin Interactions during Fast Pyrolysis_images/_temp_3159bf16_convert_.pdf-0034-11.png)
 
 
 ## **Synopsis** 

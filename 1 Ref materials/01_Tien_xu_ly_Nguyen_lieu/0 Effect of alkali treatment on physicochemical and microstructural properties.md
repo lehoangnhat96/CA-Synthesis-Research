@@ -1,7 +1,7 @@
 www.nature.com/scientificreports 
 
 
-![](_temp_955a11b9_convert__images/_temp_955a11b9_convert_.pdf-0001-01.png)
+![](_images/0 Effect of alkali treatment on physicochemical and microstructural properties_images/_temp_3e4fadb5_convert_.pdf-0001-01.png)
 
 
 ## **OPEN Effect of alkali treatment on physicochemical and microstructural properties of false banana fiber** 
@@ -75,7 +75,7 @@ In this study, the proximate composition (i.e., moisture, ash, volatile matter, 
 Density and diameter determination The diameter of both untreated and alkali-treated FBFs was measured using optical microscope. Measurements were made on 10 fibers for both raw and alkali-treated FBFs. Then, the average of thirty samples was taken as the diameter of the fiber. The density of both untreated and alkali-treated FBFs was determined by pycnometer method using distilled water as immersion liquid, performed by taking six measurements[32] . The density of the fiber was determined by the expression in Eq. (2). 
 
 
-![](_temp_955a11b9_convert__images/_temp_955a11b9_convert_.pdf-0003-09.png)
+![](_images/0 Effect of alkali treatment on physicochemical and microstructural properties_images/_temp_3e4fadb5_convert_.pdf-0003-09.png)
 
 
 Where: where m1 is masses of the empty pycnometer (g), m2 is pycnometer filled with FBF (g), m3 is pycnometer filled with distilled water (g), m4 is pycnometer filled with both FBF and distilled water (g), ρFBF is density of FBF (g/cm[3] ), and ρw represent the density of distilled water (g/cm[3] ). 
@@ -83,7 +83,7 @@ Where: where m1 is masses of the empty pycnometer (g), m2 is pycnometer filled w
 Proximate composition determination The moisture content of the fiber was determined using the oven-drying method. The FBF sample was placed in the oven set at 105 °C and weighed using an analytical balance after drying and compared with the initial weight to determine the loss. Weighing was repeated every 2 h until the sample showed no progressive weight change (i.e., ≤ 0.05%). The moisture content was determined using the following expression: 
 
 
-![](_temp_955a11b9_convert__images/_temp_955a11b9_convert_.pdf-0003-12.png)
+![](_images/0 Effect of alkali treatment on physicochemical and microstructural properties_images/_temp_3e4fadb5_convert_.pdf-0003-12.png)
 
 
 **Fig. 1** . Schematic representation of the alkali treatment process of FBF. 
@@ -97,19 +97,19 @@ Proximate composition determination The moisture content of the fiber was determ
 www.nature.com/scientificreports/ 
 
 
-![](_temp_955a11b9_convert__images/_temp_955a11b9_convert_.pdf-0004-01.png)
+![](_images/0 Effect of alkali treatment on physicochemical and microstructural properties_images/_temp_3e4fadb5_convert_.pdf-0004-01.png)
 
 
 The ash content determination was performed based on ASTM D2584 and calculated by using the following expression: 
 
 
-![](_temp_955a11b9_convert__images/_temp_955a11b9_convert_.pdf-0004-03.png)
+![](_images/0 Effect of alkali treatment on physicochemical and microstructural properties_images/_temp_3e4fadb5_convert_.pdf-0004-03.png)
 
 
 The Volatile matter was determined based on ASTM E872 method and calculated as: 
 
 
-![](_temp_955a11b9_convert__images/_temp_955a11b9_convert_.pdf-0004-05.png)
+![](_images/0 Effect of alkali treatment on physicochemical and microstructural properties_images/_temp_3e4fadb5_convert_.pdf-0004-05.png)
 
 
 The fixed carbon content was determined based on D3172-07a ASTM method. 
@@ -123,7 +123,7 @@ Chemical composition determination Figure 2 presents the schematic of chemical c
 The total amount of lignin was determined by taking the sum of the lignin that is acid-soluble and acid-insoluble. The acid-insoluble lignin (AIL) content of FBF was determined using the standard national renewable energy laboratory procedure and calculated as: 
 
 
-![](_temp_955a11b9_convert__images/_temp_955a11b9_convert_.pdf-0004-11.png)
+![](_images/0 Effect of alkali treatment on physicochemical and microstructural properties_images/_temp_3e4fadb5_convert_.pdf-0004-11.png)
 
 
 The acid-soluble lignin (ASL) content of FBF was measured in the research-grade lab at the Bahir Dar Institute of Technology, Bahir Dar University, Ethiopia, using a UV-visible spectrophotometer. Using the hydrolysis liquor aliquot obtained in the acid-insoluble lignin step, the absorbance of the sample at an appropriate wavelength has been measured. Sulfuric acid (3%) was used to dilute the sample, and the same solvent was used as a blank. The absorbance was recorded to three decimal places, and each sample was analyzed in triplicate. The amount of acid soluble lignin was calculated on an extractives-free basis as follows: 
@@ -131,7 +131,7 @@ The acid-soluble lignin (ASL) content of FBF was measured in the research-grade 
 (UV abs _×_ volume of filtrate _×_ dilution) Acid soluble lignin (%) =[100] (9) ϵ _×_ oven dry weight sample _×_ path length _[×]_ 
 
 
-![](_temp_955a11b9_convert__images/_temp_955a11b9_convert_.pdf-0004-14.png)
+![](_images/0 Effect of alkali treatment on physicochemical and microstructural properties_images/_temp_3e4fadb5_convert_.pdf-0004-14.png)
 
 
 **Fig. 2** . Schematic presentation of chemical composition determination process for FBF. 
@@ -189,7 +189,7 @@ Many researchers have reported comparable densities for natural fibers such as k
 www.nature.com/scientificreports/ 
 
 
-![](_temp_955a11b9_convert__images/_temp_955a11b9_convert_.pdf-0006-01.png)
+![](_images/0 Effect of alkali treatment on physicochemical and microstructural properties_images/_temp_3e4fadb5_convert_.pdf-0006-01.png)
 
 
 **Fig. 3** . Optical microscopic images of FBF to determine fiber diameter: ( **a** ) before treatment ( **b** ) after treatment. 
@@ -217,7 +217,7 @@ The chemical nature of natural fibers greatly determines their mechanical proper
 www.nature.com/scientificreports/ 
 
 
-![](_temp_955a11b9_convert__images/_temp_955a11b9_convert_.pdf-0007-01.png)
+![](_images/0 Effect of alkali treatment on physicochemical and microstructural properties_images/_temp_3e4fadb5_convert_.pdf-0007-01.png)
 
 
 **----- Start of picture text -----**<br>
@@ -279,7 +279,7 @@ These optimized conditions promote chemical reactions, ensure the formation of s
 www.nature.com/scientificreports/ 
 
 
-![](_temp_955a11b9_convert__images/_temp_955a11b9_convert_.pdf-0008-01.png)
+![](_images/0 Effect of alkali treatment on physicochemical and microstructural properties_images/_temp_3e4fadb5_convert_.pdf-0008-01.png)
 
 
 **----- Start of picture text -----**<br>
@@ -314,7 +314,7 @@ Factor 1 Factor 2 Factor 3<br>Run Concentration (Wt/V %) Temperature ( [o] C) Ti
 **Table 3** . Tensile strength, water absorption, and elongation results of alkali treated FBF. 
 
 
-![](_temp_955a11b9_convert__images/_temp_955a11b9_convert_.pdf-0008-04.png)
+![](_images/0 Effect of alkali treatment on physicochemical and microstructural properties_images/_temp_3e4fadb5_convert_.pdf-0008-04.png)
 
 
 **Fig. 4** . The effects of factors on tensile strength of false banana fibers: ( **a** ) alkali concentration, ( **b** ) treatment temperature, ( **c** ) treatment time. 
@@ -342,7 +342,7 @@ Tensile strength of FBF increases with increasing time due to the creation of a 
 Figure 5 demonstrates the interaction effects of factors on the tensile strength of the alkali-treated FBF. The model equation developed to predict the tensile strength under alkali treatment conditions is: 
 
 
-![](_temp_955a11b9_convert__images/_temp_955a11b9_convert_.pdf-0009-05.png)
+![](_images/0 Effect of alkali treatment on physicochemical and microstructural properties_images/_temp_3e4fadb5_convert_.pdf-0009-05.png)
 
 
 Where A is alkali concentration, B is temperature, and C is time. 
@@ -356,7 +356,7 @@ Figure 6 shows the effect of factors on the water absorption of alkali-treated f
 The chemical treatment alters the surface chemistry of the fibers, potentially introducing more hydrophobic characteristics due to changes in functional groups or the presence of alkali-insoluble residues. These changes further reduce the fiber’s affinity to water. Crystalline regions of cellulose have fewer accessible hydroxyl groups and are less prone to swelling or absorbing water compared to amorphous regions[60] . As the temperature increases, the water absorption decreases and the minimum water absorption was achieved at a temperature of 90[o] C. High temperatures promote the removal of hemicellulose and non-cellulosic materials from the fiber. Water absorption decreases with increasing time for the better removal of lignin, hemicellulose, and extractive . components from the fiber[61] 
 
 
-![](_temp_955a11b9_convert__images/_temp_955a11b9_convert_.pdf-0009-11.png)
+![](_images/0 Effect of alkali treatment on physicochemical and microstructural properties_images/_temp_3e4fadb5_convert_.pdf-0009-11.png)
 
 
 **Fig. 5** . interaction effects of factors on tensile strength of false banana fibers. 
@@ -370,13 +370,13 @@ The chemical treatment alters the surface chemistry of the fibers, potentially i
 www.nature.com/scientificreports/ 
 
 
-![](_temp_955a11b9_convert__images/_temp_955a11b9_convert_.pdf-0010-01.png)
+![](_images/0 Effect of alkali treatment on physicochemical and microstructural properties_images/_temp_3e4fadb5_convert_.pdf-0010-01.png)
 
 
 **Fig. 6** . The effect of factors on water absorption of false banana fibers. 
 
 
-![](_temp_955a11b9_convert__images/_temp_955a11b9_convert_.pdf-0010-03.png)
+![](_images/0 Effect of alkali treatment on physicochemical and microstructural properties_images/_temp_3e4fadb5_convert_.pdf-0010-03.png)
 
 
 **Fig. 7** . interaction effects of factors on water absorption of false banana fibers. 
@@ -404,13 +404,13 @@ Similar results were reported by Addis et al.[40] for untreated fiber. The fiber
 www.nature.com/scientificreports/ 
 
 
-![](_temp_955a11b9_convert__images/_temp_955a11b9_convert_.pdf-0011-01.png)
+![](_images/0 Effect of alkali treatment on physicochemical and microstructural properties_images/_temp_3e4fadb5_convert_.pdf-0011-01.png)
 
 
 **Fig. 8** . Thermal property analysis curves obtained in Nitrogen atmosphere of FBF ( **a** ) before treatment ( **b** ) after treatment. 
 
 
-![](_temp_955a11b9_convert__images/_temp_955a11b9_convert_.pdf-0011-03.png)
+![](_images/0 Effect of alkali treatment on physicochemical and microstructural properties_images/_temp_3e4fadb5_convert_.pdf-0011-03.png)
 
 
 **Fig. 9** . FTIR analysis curves of raw and treated FBF. 
@@ -434,7 +434,7 @@ Similar observation was made by Teli and Terega[53] ). Similarly, the peaks at 2
 www.nature.com/scientificreports/ 
 
 
-![](_temp_955a11b9_convert__images/_temp_955a11b9_convert_.pdf-0012-01.png)
+![](_images/0 Effect of alkali treatment on physicochemical and microstructural properties_images/_temp_3e4fadb5_convert_.pdf-0012-01.png)
 
 
 **----- Start of picture text -----**<br>
@@ -455,7 +455,7 @@ Band position (cm [−1] ) Functional group Polymer<br>3334 hydrogen-bonded hydr
 **Table 4** . Assignments FTIR bands for FBF. 
 
 
-![](_temp_955a11b9_convert__images/_temp_955a11b9_convert_.pdf-0012-04.png)
+![](_images/0 Effect of alkali treatment on physicochemical and microstructural properties_images/_temp_3e4fadb5_convert_.pdf-0012-04.png)
 
 
 **Fig. 10** . SEM image of FBF ( **a** ) before treatment ( **b** ) after treatment. 
@@ -487,7 +487,7 @@ All the necessary data generated or analyzed during this study are included in t
 Received: 12 June 2025; Accepted: 7 July 2025 
 
 
-![](_temp_955a11b9_convert__images/_temp_955a11b9_convert_.pdf-0013-06.png)
+![](_images/0 Effect of alkali treatment on physicochemical and microstructural properties_images/_temp_3e4fadb5_convert_.pdf-0013-06.png)
 
 
 ## **References** 

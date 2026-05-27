@@ -61,13 +61,13 @@ The resulting mixture was neutralized with 1.8 N hydrochloric acid to determine 
 The lignin and hemicellulose content of the solid phase was determined by using the VanSoest method [23]. Sieving and optical microscopy were used to estimate the average particle diameter. The hemicellulose content was calculated according to: 
 
 
-![](_temp_aec8d5b4_convert__images/_temp_aec8d5b4_convert_.pdf-0002-16.png)
+![](_images/0 Integrated dynamic model of the alkaline delignification process of_images/_temp_2987943c_convert_.pdf-0002-16.png)
 
 
 All terms are explained in the nomenclature section. The remaining lignin fraction (L) was calculated as: 
 
 
-![](_temp_aec8d5b4_convert__images/_temp_aec8d5b4_convert_.pdf-0002-18.png)
+![](_images/0 Integrated dynamic model of the alkaline delignification process of_images/_temp_2987943c_convert_.pdf-0002-18.png)
 
 
 Experimental conditions were defined according to the literature [4,6,18,24-26] and are summarized in Table 1. The experimental design consisted of two groups of isothermal tests. The first group (from F1 to F9) had a high liquid to solid ratio (R = 50 L/kg) and guaranteed an almost constant chemical concentration during the 
@@ -85,11 +85,11 @@ Experiments were carried out in a cramping bracket 316 stainless steel reactor w
 In the initial stage, most hydroxide is consumed in the hydrolysis of acetyl groups that are associated with the hemicellulose, in the neutralization of acid products and in possible reactions of carbohydrate degradation. In the main stage, it is consumed in the neutralization of products formed during carbohydrates breakdown and lignin-phenolates formation. In the residual stage, hydroxide consumption is mainly due to the neutralization of products from the breakdown of carbohydrates. The change in the hydroxide concentration can be expressed as [16, 28]: 
 
 
-![](_temp_aec8d5b4_convert__images/_temp_aec8d5b4_convert_.pdf-0003-06.png)
+![](_images/0 Integrated dynamic model of the alkaline delignification process of_images/_temp_2987943c_convert_.pdf-0003-06.png)
 
 
 
-![](_temp_aec8d5b4_convert__images/_temp_aec8d5b4_convert_.pdf-0003-07.png)
+![](_images/0 Integrated dynamic model of the alkaline delignification process of_images/_temp_2987943c_convert_.pdf-0003-07.png)
 
 
 In Eq. (5), q1 and q2 are empirical constants that are required because the real stoichiometry is unknown. 
@@ -101,11 +101,11 @@ In Eq. (5), q1 and q2 are empirical constants that are required because the real
 The three-stage parallel model has been extensively used [5, 6, 22] to describe the alkaline delignification of material used in the ethanol production. According to this model and those reported by Dang and Nguyen [15,19, 27], the kinetic constant (ki) of a single first order kinetic equation included the effects of particle size, temperature, and reagents concentration to describe lignin dynamics: 
 
 
-![](_temp_aec8d5b4_convert__images/_temp_aec8d5b4_convert_.pdf-0003-12.png)
+![](_images/0 Integrated dynamic model of the alkaline delignification process of_images/_temp_2987943c_convert_.pdf-0003-12.png)
 
 
 
-![](_temp_aec8d5b4_convert__images/_temp_aec8d5b4_convert_.pdf-0003-13.png)
+![](_images/0 Integrated dynamic model of the alkaline delignification process of_images/_temp_2987943c_convert_.pdf-0003-13.png)
 
 
 In the above equation, the hydroxide concentration follows a power law and the temperature dependence is given by an Arrhenius expression. The variable corresponding to the average particle diameter (δ) is introduced in the kinetic equation as well, in order to consider that effect in the chemical reaction. 
@@ -115,11 +115,11 @@ In the above equation, the hydroxide concentration follows a power law and the t
 This study considers a constant (g1) that determines the relation between hemicellulose and lignin kinetics for low temperatures (< 100 ºC). This approximation reduces the number of parameters, and it is required because the process stoichiometry is unknown. 
 
 
-![](_temp_aec8d5b4_convert__images/_temp_aec8d5b4_convert_.pdf-0003-17.png)
+![](_images/0 Integrated dynamic model of the alkaline delignification process of_images/_temp_2987943c_convert_.pdf-0003-17.png)
 
 
 
-![](_temp_aec8d5b4_convert__images/_temp_aec8d5b4_convert_.pdf-0003-18.png)
+![](_images/0 Integrated dynamic model of the alkaline delignification process of_images/_temp_2987943c_convert_.pdf-0003-18.png)
 
 
 ## **3.4  Mixing Effect** 
@@ -127,39 +127,39 @@ This study considers a constant (g1) that determines the relation between hemice
 To consider mixing effects, we followed a temporal superstructure, similar to that established by Zhang and Smith [29] and summarized below the Reynolds number for agitated tanks with suspended solids (6), the apparent viscosity for pseudoplastic fluids (7). 
 
 
-![](_temp_aec8d5b4_convert__images/_temp_aec8d5b4_convert_.pdf-0003-21.png)
+![](_images/0 Integrated dynamic model of the alkaline delignification process of_images/_temp_2987943c_convert_.pdf-0003-21.png)
 
 
 
-![](_temp_aec8d5b4_convert__images/_temp_aec8d5b4_convert_.pdf-0003-22.png)
+![](_images/0 Integrated dynamic model of the alkaline delignification process of_images/_temp_2987943c_convert_.pdf-0003-22.png)
 
 
 
-![](_temp_aec8d5b4_convert__images/_temp_aec8d5b4_convert_.pdf-0003-23.png)
+![](_images/0 Integrated dynamic model of the alkaline delignification process of_images/_temp_2987943c_convert_.pdf-0003-23.png)
 
 
 
-![](_temp_aec8d5b4_convert__images/_temp_aec8d5b4_convert_.pdf-0003-24.png)
+![](_images/0 Integrated dynamic model of the alkaline delignification process of_images/_temp_2987943c_convert_.pdf-0003-24.png)
 
 
 where the shear rate (γ) is calculated as: 
 
 
-![](_temp_aec8d5b4_convert__images/_temp_aec8d5b4_convert_.pdf-0003-26.png)
+![](_images/0 Integrated dynamic model of the alkaline delignification process of_images/_temp_2987943c_convert_.pdf-0003-26.png)
 
 
 
-![](_temp_aec8d5b4_convert__images/_temp_aec8d5b4_convert_.pdf-0003-27.png)
+![](_images/0 Integrated dynamic model of the alkaline delignification process of_images/_temp_2987943c_convert_.pdf-0003-27.png)
 
 
 for laminar regime (Re < 10), according to Metzner and Otto [30], and 
 
 
-![](_temp_aec8d5b4_convert__images/_temp_aec8d5b4_convert_.pdf-0003-29.png)
+![](_images/0 Integrated dynamic model of the alkaline delignification process of_images/_temp_2987943c_convert_.pdf-0003-29.png)
 
 
 
-![](_temp_aec8d5b4_convert__images/_temp_aec8d5b4_convert_.pdf-0003-30.png)
+![](_images/0 Integrated dynamic model of the alkaline delignification process of_images/_temp_2987943c_convert_.pdf-0003-30.png)
 
 
 for pseudoplastic fluids in turbulent flow, according to Sanchez et al. [31]. 
@@ -175,33 +175,33 @@ Integrated dynamic model of the alkaline delignification process of lignocellulo
 for one-phase systems. However, with solid materials in suspension, it is possible to use the following equation [32, 33]: 
 
 
-![](_temp_aec8d5b4_convert__images/_temp_aec8d5b4_convert_.pdf-0004-03.png)
+![](_images/0 Integrated dynamic model of the alkaline delignification process of_images/_temp_2987943c_convert_.pdf-0004-03.png)
 
 
 
-![](_temp_aec8d5b4_convert__images/_temp_aec8d5b4_convert_.pdf-0004-04.png)
+![](_images/0 Integrated dynamic model of the alkaline delignification process of_images/_temp_2987943c_convert_.pdf-0004-04.png)
 
 
 
-![](_temp_aec8d5b4_convert__images/_temp_aec8d5b4_convert_.pdf-0004-05.png)
+![](_images/0 Integrated dynamic model of the alkaline delignification process of_images/_temp_2987943c_convert_.pdf-0004-05.png)
 
 
 
-![](_temp_aec8d5b4_convert__images/_temp_aec8d5b4_convert_.pdf-0004-06.png)
+![](_images/0 Integrated dynamic model of the alkaline delignification process of_images/_temp_2987943c_convert_.pdf-0004-06.png)
 
 
 
-![](_temp_aec8d5b4_convert__images/_temp_aec8d5b4_convert_.pdf-0004-07.png)
+![](_images/0 Integrated dynamic model of the alkaline delignification process of_images/_temp_2987943c_convert_.pdf-0004-07.png)
 
 
 Equation  (10) is valid for 97 % uniformity, a solid to liquid ratio of 5 kg/m[3] and a particle size larger than 0.1 mm.  The form factor was estimated using (12), which is valid for diameters from 0.1 mm to 2.8 mm [34]. 
 
 
-![](_temp_aec8d5b4_convert__images/_temp_aec8d5b4_convert_.pdf-0004-09.png)
+![](_images/0 Integrated dynamic model of the alkaline delignification process of_images/_temp_2987943c_convert_.pdf-0004-09.png)
 
 
 
-![](_temp_aec8d5b4_convert__images/_temp_aec8d5b4_convert_.pdf-0004-10.png)
+![](_images/0 Integrated dynamic model of the alkaline delignification process of_images/_temp_2987943c_convert_.pdf-0004-10.png)
 
 
 ## **3.6  Temperature program** 
@@ -209,7 +209,7 @@ Equation  (10) is valid for 97 % uniformity, a solid to liquid ratio of 5 kg/m[3
 In the experiments, the temperature was varied according to the temperature program in (13) and (14), which represents a temperature ramp followed by a constant temperature period: 
 
 
-![](_temp_aec8d5b4_convert__images/_temp_aec8d5b4_convert_.pdf-0004-13.png)
+![](_images/0 Integrated dynamic model of the alkaline delignification process of_images/_temp_2987943c_convert_.pdf-0004-13.png)
 
 
 ## **4.  PARAMETRIC ESTIMATION** 
@@ -265,11 +265,11 @@ The effective coefficients values (qconsumption. As expected, a significant amou
 The degradable lignin fraction of the main stage (Lo1) was adjusted to (15) using the Matlab® regress function. The fraction of residual stage (Lo2) was calculated as 1-Lo1.  The experiments showed that Lo1 increases with temperature and hydroxide concentration, and decreases when the average particle diameter (δ) increases. 
 
 
-![](_temp_aec8d5b4_convert__images/_temp_aec8d5b4_convert_.pdf-0005-07.png)
+![](_images/0 Integrated dynamic model of the alkaline delignification process of_images/_temp_2987943c_convert_.pdf-0005-07.png)
 
 
 
-![](_temp_aec8d5b4_convert__images/_temp_aec8d5b4_convert_.pdf-0005-08.png)
+![](_images/0 Integrated dynamic model of the alkaline delignification process of_images/_temp_2987943c_convert_.pdf-0005-08.png)
 
 
 **Table 2** . Parameter values obtained after regression of the experimental data 
@@ -301,7 +301,7 @@ The degradable lignin fraction of the main stage (Lo1) was adjusted to (15) usin
 The effective coefficient (g1) was adjusted to expression (16). This equation shows that by increasing temperature, hydroxide concentration, and material size there is an increase in the hemicellulose dissolution. This indicates that hemicellulose has a sensitive structure during the alkaline pretreatment and agrees with previous observations [5, 8, 11, 39]. 
 
 
-![](_temp_aec8d5b4_convert__images/_temp_aec8d5b4_convert_.pdf-0005-14.png)
+![](_images/0 Integrated dynamic model of the alkaline delignification process of_images/_temp_2987943c_convert_.pdf-0005-14.png)
 
 
 ## **4.3. Mixing Model Parameters** 
@@ -313,7 +313,7 @@ Integrated dynamic model of the alkaline delignification process of lignocellulo
 **180** 
 
 
-![](_temp_aec8d5b4_convert__images/_temp_aec8d5b4_convert_.pdf-0006-02.png)
+![](_images/0 Integrated dynamic model of the alkaline delignification process of_images/_temp_2987943c_convert_.pdf-0006-02.png)
 
 
 **Figure 1.** Connection of mixing compartments, adapted from Zhang and Smith [29] 
@@ -396,7 +396,7 @@ Figure 2 shows good adjustment between prediction and experiments when the follo
 Predictions with the model were compared as well with data from Granda [5] with relatively good success. A detailed comparison is given by Fuertez [44]. Similar model validation approaches can be explored in García et al. [45] and Montes et al. [46]. 
 
 
-![](_temp_aec8d5b4_convert__images/_temp_aec8d5b4_convert_.pdf-0007-04.png)
+![](_images/0 Integrated dynamic model of the alkaline delignification process of_images/_temp_2987943c_convert_.pdf-0007-04.png)
 
 
 **Figure 2.** Comparison of model predictions (lines) with experimental data (points) for the variation of  a. Lignin, b. Hemicellulose and c. Hydroxide with time 

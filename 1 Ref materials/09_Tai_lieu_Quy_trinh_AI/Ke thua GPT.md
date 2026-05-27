@@ -1,5 +1,5 @@
 
-![](_temp_43f37711_convert__images/_temp_43f37711_convert_.pdf-0001-00.png)
+![](_images/Ke thua GPT_images/_temp_5040f9b0_convert_.pdf-0001-00.png)
 
 
 **----- Start of picture text -----**<br>

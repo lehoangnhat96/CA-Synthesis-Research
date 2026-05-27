@@ -1,7 +1,7 @@
 Diamond & Related Materials xxx (xxxx) xxx 
 
 
-![](_temp_880d31f3_convert__images/_temp_880d31f3_convert_.pdf-0001-01.png)
+![](_images/Novel synthesis of carbon nanofiber aerogels from coconut matrix for_images/_temp_554df584_convert_.pdf-0001-01.png)
 
 
 Contents lists available at ScienceDirect 
@@ -11,7 +11,7 @@ Contents lists available at ScienceDirect
 journal homepage: www.elsevier.com/locate/diamond 
 
 
-![](_temp_880d31f3_convert__images/_temp_880d31f3_convert_.pdf-0001-05.png)
+![](_images/Novel synthesis of carbon nanofiber aerogels from coconut matrix for_images/_temp_554df584_convert_.pdf-0001-05.png)
 
 
 ## Novel synthesis of carbon nanofiber aerogels from coconut matrix for the electrochemical detection of glucose 
@@ -95,7 +95,7 @@ CMCNFs were conveniently obtained by high temperature carbonization of cellulose
 _X. Yue et al.                                                                                                                                                                                                                                      Diamond & Related Materials xxx (xxxx) xxx_ 
 
 
-![](_temp_880d31f3_convert__images/_temp_880d31f3_convert_.pdf-0003-01.png)
+![](_images/Novel synthesis of carbon nanofiber aerogels from coconut matrix for_images/_temp_554df584_convert_.pdf-0003-01.png)
 
 
 **Fig. 1.** Schematic illustration of CMCNFs electrode materials realizing the direct electrochemistry of GOx. 
@@ -115,7 +115,7 @@ BCAs fabricated by freezing drying of coconut matrix and CMCNFs prepared by deli
 Transmission electron microscopy (TEM) was used for further characterization of three-dimensional microstructure of CMCNFs (Figs. 4 and S5). It indicated that the diameter of carbon nanofibers was about 
 
 
-![](_temp_880d31f3_convert__images/_temp_880d31f3_convert_.pdf-0003-10.png)
+![](_images/Novel synthesis of carbon nanofiber aerogels from coconut matrix for_images/_temp_554df584_convert_.pdf-0003-10.png)
 
 
 **Fig. 2.** (a) a: BCAs, b: CMCNFs-700, c: CMCNFs-800, d: CMCNFs-900, e: CMCNFs-1000, and (b, c) SEM images of BCAs. 
@@ -127,7 +127,7 @@ _Diamond & Related Materials xxx (xxxx) xxx_
 _X. Yue et al._ 
 
 
-![](_temp_880d31f3_convert__images/_temp_880d31f3_convert_.pdf-0004-02.png)
+![](_images/Novel synthesis of carbon nanofiber aerogels from coconut matrix for_images/_temp_554df584_convert_.pdf-0004-02.png)
 
 
 **Fig. 3.** SEM images of CMCNFs prepared at (a, b) 700[◦] C; (c, d) 800[◦] C; (e, f) 900[◦] C and (g, h) 1000[◦] C. 
@@ -149,19 +149,19 @@ AR-FTIR spectra of the BCAs and CMCNFs prepared by pyrolysis at different temper
 _Diamond & Related Materials xxx (xxxx) xxx_ 
 
 
-![](_temp_880d31f3_convert__images/_temp_880d31f3_convert_.pdf-0005-02.png)
+![](_images/Novel synthesis of carbon nanofiber aerogels from coconut matrix for_images/_temp_554df584_convert_.pdf-0005-02.png)
 
 
 **Fig. 4.** TEM images of CMCNFs prepared at (a) 700[◦] C; (b) 800[◦] C; (c) 900[◦] C and (d) 1000[◦] C. 
 
 
-![](_temp_880d31f3_convert__images/_temp_880d31f3_convert_.pdf-0005-04.png)
+![](_images/Novel synthesis of carbon nanofiber aerogels from coconut matrix for_images/_temp_554df584_convert_.pdf-0005-04.png)
 
 
 **Fig. 5.** (a) The N2 
 
 
-![](_temp_880d31f3_convert__images/_temp_880d31f3_convert_.pdf-0005-07.png)
+![](_images/Novel synthesis of carbon nanofiber aerogels from coconut matrix for_images/_temp_554df584_convert_.pdf-0005-07.png)
 
 
 **Fig. 6.** Infrared diffraction spectrum of BCAs and CMCNFs pyrolysis at different temperatures. 
@@ -179,7 +179,7 @@ _Diamond & Related Materials xxx (xxxx) xxx_
 _X. Yue et al._ 
 
 
-![](_temp_880d31f3_convert__images/_temp_880d31f3_convert_.pdf-0006-02.png)
+![](_images/Novel synthesis of carbon nanofiber aerogels from coconut matrix for_images/_temp_554df584_convert_.pdf-0006-02.png)
 
 
 **Fig. 7.** (a) a: CVs obtained at GOx; b: CMCNFs-1000; c: CMCNFs-700/GOx; d: CMCNFs-800/GOx; e: CMCNFs-900/GOx; f: CMCNFs-1000/GOx; g: CMCNFs-1100/ GOx modified GCEs in 0.05 M N2-saturated PBS at the scan rate of 50 mV s[−][1] ; (b) the relationship between oxidation peak current and pyrolysis temperature; (c) CVs of CMCNFs-1000/GOx modified GCEs in PBS at different scan rates from inside to outside are 20–200 mV s[−][1] ; (d) plots of peak currents versus scan rate. 
@@ -191,7 +191,7 @@ modified GCE with a formal potential ( _E_[◦′] ) of − 0.442 V at pH = 7.0 
 The effect of scan rate on the CV response at CMCNFs-1000/GOx modified GCE was examined in N2-saturated PBS (pH = 7) at various scan rates from 20 to 200 mV s[−][1 ] as shown in Fig. 7c. Moreover, the anodic and cathodic peak currents (Ipa, Ipc) linearly increase with the increasing scan rates from 20 to 200 mV s[−][1 ] (Fig. 7d), which indicates that the electron transfer of GOx is a surface control process. In addition, the electron transfer rate constant (Ks) between GOx and the electrode was calculated to 2.03 s[−][1 ] using Laviron’s equation as follows [53]: 
 
 
-![](_temp_880d31f3_convert__images/_temp_880d31f3_convert_.pdf-0006-07.png)
+![](_images/Novel synthesis of carbon nanofiber aerogels from coconut matrix for_images/_temp_554df584_convert_.pdf-0006-07.png)
 
 
 **Fig. 8.** (a) CVs of the CMCNFs-1000/GOx modified GCE in 0.05 M PBS with different pH values (4–9) at 50 mV s[−][1 ] scan rate; (b) plot of _E_[◦′] vs. pH. 
@@ -203,13 +203,13 @@ _Diamond & Related Materials xxx (xxxx) xxx_
 _X. Yue et al._ 
 
 
-![](_temp_880d31f3_convert__images/_temp_880d31f3_convert_.pdf-0007-02.png)
+![](_images/Novel synthesis of carbon nanofiber aerogels from coconut matrix for_images/_temp_554df584_convert_.pdf-0007-02.png)
 
 
 > where _α_ is the charge transfer coefficient (In this research, nΔEP = 64 mV, much smaller than 200 mV, so we take α as 0.5. It was analyzed in detail in Laviron’s article [53]) and the number of electrons (n) transferred (FAD/FADH2 redox reaction) was considered as 2, ΔEp is peak separation, the constants F, R, T have their usual meanings ( _R_ = 8.314 J K[−][1 ] mol[−][1] , _T_ = 298 K, F = 96,485C mol[−][1] ). In this work, the K _S_ value of this CMCNFs is larger than that of BPCNF/GOx (1.17 s[−][1] ) [48], SWNT/ GOx (0.3 s[−][1] ) modified electrodes [54]. The larger rate constant suggests faster electron transfer rate between redox active sites of enzyme and electrode surface. Besides, we calculated the amount of electroactive GOx on the CMCNFs/GOx modified electrode surface (Г) from the slope of peak currents plotted versus scan rate by the following Eq. (2) [55]. 
 
 
-![](_temp_880d31f3_convert__images/_temp_880d31f3_convert_.pdf-0007-04.png)
+![](_images/Novel synthesis of carbon nanofiber aerogels from coconut matrix for_images/_temp_554df584_convert_.pdf-0007-04.png)
 
 
 where ν (V s[−][1] ) is the scan rate and A (cm[2] ) is the electrode surface area, the amount of electroactive GOx is calculated to be 1.25 × 10[−][9 ] mol cm[−][2] . The Г value is significantly higher than that of SWNT/GOx/Nf modified GCE [54]. This result proves that the large surface area of CMCNFs facilitate the high enzyme loading. 
@@ -225,19 +225,19 @@ In order to study the electrocatalytic property of GOx adsorbed on the CMCNFs-10
 saturated PBS, the CV in O2-saturated PBS has a larger reduction peak current and a smaller oxidation peak current, gradually decreased with the increase of glucose concentration. It is worth noting that the cathodic peak current of the CMCNFs-1000/GOx modified GCE in O2saturated condition (Fig. S8: curve a) is larger than that in the N2saturated PBS (Fig. 7a: curve f), which is obviously produced by the oxygen reduction of a natural co-substrate for the GOx of O2. It confirms that oxygen dissolved in the PBS solution undergoes the reaction shown in the following equations (Eq. (3)), in which oxygen regenerates the GOx (FAD) and enhances the reduction peak current of the FAD. This process illustrates the occurrence of electrocatalysis of glucose by the GOx can detect the concentration of glucose. The possible electrocatalytic mechanism is explained by Eqs. (3) and (4). 
 
 
-![](_temp_880d31f3_convert__images/_temp_880d31f3_convert_.pdf-0007-11.png)
+![](_images/Novel synthesis of carbon nanofiber aerogels from coconut matrix for_images/_temp_554df584_convert_.pdf-0007-11.png)
 
 
 The differential pulse voltammetry (DPV) technique was used to obtain the calibration plot and Fig. 9a displays the DPV responses of CMCNFs-1000/GOx modified GCE at different concentrations of glucose in 0.05 M O2-saturated PBS. And the curves exhibit sharp reduction peak at − 0.42 V, while the cathodic peak is decreased with increasing glucose concentrations. Moreover, it decreases linearly with increase in glucose concentrations over the range of 0.1–2, 0.2–6 mM and their respective peak currents present a linear response with the linear regression equations of Ip(μA) = 95.9 [glucose]/(μA mM[−][1] ) − 958.3/μA, R[2 ] = 0.985 Ip(μA) = 34.9 [glucose]/(μA mM[−][1] ) − 883.1/μA, R[2 ] = 0.944. The sensitivity and the limit of detection (LOD) of the biosensor have been 
 
 
-![](_temp_880d31f3_convert__images/_temp_880d31f3_convert_.pdf-0007-13.png)
+![](_images/Novel synthesis of carbon nanofiber aerogels from coconut matrix for_images/_temp_554df584_convert_.pdf-0007-13.png)
 
 
 **Fig. 10.** Aperometric responses of AA (0.1 mmol L[−][1] ), DA (0.1 mmol L[−][1] ), and UA (0.1 mmol L[−][1] ) and glucose (2 mM) on CMCNFs-1000/GOx modified GCE in 0.05 M O2-saturated PBS at a constant applied potential of − 0.4 V. 
 
 
-![](_temp_880d31f3_convert__images/_temp_880d31f3_convert_.pdf-0007-15.png)
+![](_images/Novel synthesis of carbon nanofiber aerogels from coconut matrix for_images/_temp_554df584_convert_.pdf-0007-15.png)
 
 
 **Fig. 9.** (a) DPV of CMCNFs-1000/GOx modified GCE in 0.05 M O2-saturated PBS at the scan rate of 50 mV s[−][1 ] without glucose of a and with the additions of glucose 0.1–7 mM of b ~ p; (b) calibration curve of [glucose] vs. peak current. Average of three measurements (mean ± S.D.). 

@@ -3,7 +3,7 @@ Microchimica Acta https://doi.org/10.1007/s00604-017-2646-9
 ORIGINAL PAPER 
 
 
-![](_temp_5e53b47d_convert__images/_temp_5e53b47d_convert_.pdf-0001-02.png)
+![](_images/A glassy carbon electrode modified with N-doped carbon dots_images/_temp_7399b826_convert_.pdf-0001-02.png)
 
 
 # A glassy carbon electrode modified with N-doped carbon dots for improved detection of hydrogen peroxide and paracetamol 
@@ -47,7 +47,7 @@ Electronic supplementary material The online version of this article (https://do
 - 7 State Key Laboratory of Plateau Ecology and Agriculture, Qinghai University, Xining 810016, People’s Republic of China 
 
 
-![](_temp_5e53b47d_convert__images/_temp_5e53b47d_convert_.pdf-0001-22.png)
+![](_images/A glassy carbon electrode modified with N-doped carbon dots_images/_temp_7399b826_convert_.pdf-0001-22.png)
 
 
 Page 2 of 7 
@@ -83,7 +83,7 @@ Microchim Acta
 Fig. 1 a TEM image of the NCDs. b Diameter distribution of the NCDs calculated based on 50 individual NCD. c XPS elemental survey of the NCDs. d Highresolution C survey spectra of the NCDs 
 
 
-![](_temp_5e53b47d_convert__images/_temp_5e53b47d_convert_.pdf-0003-03.png)
+![](_images/A glassy carbon electrode modified with N-doped carbon dots_images/_temp_7399b826_convert_.pdf-0003-03.png)
 
 
 After the dipping fabrication process, cyclic voltammetry (CV) was used to investigate the electrochemical behavior changes of the GCE. CV scans were performed in a 1 mM [Fe(CN)6][3][−][/4][−] solution with 0.1 M KCl. As shown in Fig. 2a, the CV profile of the GCE exhibits well-defined redox peaks as expected. However, a clear decrease in the peak current was observed for the NCDs/GCE with enlarged peak-peak splitting. This observation indicated the NCDs modification decreased the electron transfer rate of the pristine GCE, which contradicted some previous reports [19, 20]. The oxygen containing groups were detected by XPS (Fig. 1d). Their presence on the NCDs facilitates electron transfer [10]. Therefore, NCDs are not good electrode surface modifiers to enhance the electrode conductivity. Next, the GCE electrocatalytic 
@@ -93,7 +93,7 @@ activity changes in the presence of H2O2 and paracetamol (PA) were tested. Figur
 Fig. 2 a CV profiles of the GCE and NCDs/GCE at 1 mM [Fe(CN)6][3][−][/4][−] + 0.1 M KCl. b CV recorded at the GCE and NCDs/GCE with 0.4 mM H2O2 and 0.2 mM PA in 0.1 M PB (pH 7.0). Scan rate: 50 mV·s[−][1] 
 
 
-![](_temp_5e53b47d_convert__images/_temp_5e53b47d_convert_.pdf-0003-07.png)
+![](_images/A glassy carbon electrode modified with N-doped carbon dots_images/_temp_7399b826_convert_.pdf-0003-07.png)
 
 
 Page 4 of 7 
@@ -113,7 +113,7 @@ As shown in Fig. 2b, the oxidation of PA is more distinct than the reduction. Th
 An investigation of the analytical performance of the NCDs/GCE for the electrocatalytic reduction of H2O2 was carried out. Figure 4b displays a typical amperometric response curve of the NCDs/GCE with a continuous addition − of H2O2 at 0.4 V (vs. 3 M Ag/AgCl). Fast amperometric responses were achieved after successive additions of H2O2. The inset of Fig. 4b shows the plot of the current versus the H2O2 concentration. An excellent linear relationship was observed for H2O2 concentrations between 0.05 μM and 2.25 mM. The sensitivity of the NCDs/GCE declines when the H2O2 concentration is above 2.25 mM. This may be caused by the limitation of the number of electrocatalytic sites for the reaction to occur [31, 32]. The limit of detection was calculated to be 41 nM. The analytical performance of the NCDs/GCE for H2O2 detection was compared with that in other reports and is summarized in Table S2. Carbon-based 
 
 
-![](_temp_5e53b47d_convert__images/_temp_5e53b47d_convert_.pdf-0004-08.png)
+![](_images/A glassy carbon electrode modified with N-doped carbon dots_images/_temp_7399b826_convert_.pdf-0004-08.png)
 
 
 Fig. 3 a CV profiles of the NCD/GCE for 0.4 mM H2O2 and 0.2 mM PA in 0.1 M PB with a scan rate from 20 to 200 mV·s[−][1] . b Plots of the PA oxidation and reduction peak currents versus the scan rate. c Plot of the H2O2 reduction peak currents versus the scan rate 
@@ -123,7 +123,7 @@ Page 5 of 7
 Microchim Acta 
 
 
-![](_temp_5e53b47d_convert__images/_temp_5e53b47d_convert_.pdf-0005-02.png)
+![](_images/A glassy carbon electrode modified with N-doped carbon dots_images/_temp_7399b826_convert_.pdf-0005-02.png)
 
 
 Fig. 4 a DPVof NCDs/GCE with 0.5, 1, 2, 4, 8, 20, 50, 100, 200, 300, 400, 500 and 600 μM PA. Amplitude: 30 mV; pulse width: 0.02 s; sampling width: 0.015 s; pulse period: 0.05 s. Inset: Calibration curve of the current response versus the PA concentration. b Typical I-T curve of the NCDs/GCE upon successive injection of H2O2 (from 0.05 μM to 
@@ -137,7 +137,7 @@ The reproducibility of the NCDs/GCE was tested by six individual dip-fabricated 
 Avoiding interferences from other common biological species is important for applying an electrochemical sensor in practical applications. The selectivity of the NCDs/GCE was studied for the PA and H2O2 determinations in the presence of other electroactive biological species. Figure 5A displays the detection of PA and H2O2 in the presence of 20-fold excesses of uric acid (UA), ascorbic acid (AA), glucose and dopamine (DA). The current responses of the PA and H2O2 showed negligible changes in the presence of glucose and AA. The 20-fold excesses of UA, DA and AA induced current changes of less than 5%. The effect of some common inorganic ions, such as Na[+] , K[+] , Cl[−] , CH3COO[−] and CO32−, was investigated. The results are given in Fig. 5b. According to the obtained results, the presence of 20-fold excess concentrations of Na[+] , K[+] , Cl[−] and CO32− did not significantly interfere with the determination of PA and H2O2. The presence of a 20-fold excess of CH3COO[−] caused an approximately 7% change in the detection current. In addition, the selectivity of the NCD/ 
 
 
-![](_temp_5e53b47d_convert__images/_temp_5e53b47d_convert_.pdf-0005-08.png)
+![](_images/A glassy carbon electrode modified with N-doped carbon dots_images/_temp_7399b826_convert_.pdf-0005-08.png)
 
 
 Fig. 5 Relative current changes of the NCDs/GCE for PA and H2O2 determination in the presence of (a) UA, AA, DA and glucose; (b) NaK[+] , Cl[−] , CH3COO[−] and CO32−. (c) Relative current changes of the NCD/[+] , 

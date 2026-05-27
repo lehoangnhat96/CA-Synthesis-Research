@@ -26,26 +26,26 @@ graph TD
 
 ### 🏷️ Chi tiết các Nhóm học thuật:
 
-1. **[01_Tien_xu_ly_Nguyen_lieu](file:///C:/Users/ADMIN/.gemini/antigravity/worktrees/0%20Quy%20tr%C3%ACnh%20C.A/pdf-to-md-conversion/01_Tien_xu_ly_Nguyen_lieu) (17 tệp)**
+1. **[01_Tien_xu_ly_Nguyen_lieu](file:///D:/1%20Master's%20Ana%20Chem/1%20Master's%20thesis/Carbon%20Aerogel/1%20Ref%20materials/01_Tien_xu_ly_Nguyen_lieu)** (17 tệp)
    > Chứa các nghiên cứu về xử lý xơ dừa, kiềm hóa bằng NaOH, tẩy trắng (bleaching), tách lignin và cellulose từ sinh khối.
-2. **[02_Doping_va_Gel_hoa](file:///C:/Users/ADMIN/.gemini/antigravity/worktrees/0%20Quy%20tr%C3%ACnh%20C.A/pdf-to-md-conversion/02_Doping_va_Gel_hoa) (34 tệp)**
+2. **[02_Doping_va_Gel_hoa](file:///D:/1%20Master's%20Ana%20Chem/1%20Master's%20thesis/Carbon%20Aerogel/1%20Ref%20materials/02_Doping_va_Gel_hoa)** (34 tệp)
    > Chứa các bài báo về quá trình sol-gel, tạo hydrogel/aerogel từ cellulose, phản ứng doping dị tố (N, Fe, S, P) vào cấu trúc carbon.
-3. **[03_Say_va_Nung_Nhiet_phan](file:///C:/Users/ADMIN/.gemini/antigravity/worktrees/0%20Quy%20tr%C3%ACnh%20C.A/pdf-to-md-conversion/03_Say_va_Nung_Nhiet_phan) (3 tệp)**
+3. **[03_Say_va_Nung_Nhiet_phan](file:///D:/1%20Master's%20Ana%20Chem/1%20Master's%20thesis/Carbon%20Aerogel/1%20Ref%20materials/03_Say_va_Nung_Nhiet_phan)** (3 tệp)
    > Tập trung vào các quy trình sấy siêu tới hạn (supercritical drying), sấy đông khô (freeze drying) và nung nhiệt phân (pyrolysis) để carbon hóa gel.
-4. **[04_Cam_bien_Dien_hoa_Sinh_hoc](file:///C:/Users/ADMIN/.gemini/antigravity/worktrees/0%20Quy%20tr%C3%ACnh%20C.A/pdf-to-md-conversion/04_Cam_bien_Dien_hoa_Sinh_hoc) (35 tệp)**
+4. **[04_Cam_bien_Dien_hoa_Sinh_hoc](file:///D:/1%20Master's%20Ana%20Chem/1%20Master's%20thesis/Carbon%20Aerogel/1%20Ref%20materials/04_Cam_bien_Dien_hoa_Sinh_hoc)** (35 tệp)
    > Ứng dụng carbon aerogel làm điện cực cảm biến sinh học để phát hiện kim loại nặng, glucose, dopamine, p-nitrophenol, v.v.
-5. **[05_Cross_Linker_va_Tao_mang](file:///C:/Users/ADMIN/.gemini/antigravity/worktrees/0%20Quy%20tr%C3%ACnh%20C.A/pdf-to-md-conversion/05_Cross_Linker_va_Tao_mang) (20 tệp)**
+5. **[05_Cross_Linker_va_Tao_mang](file:///D:/1%20Master's%20Ana%20Chem/1%20Master's%20thesis/Carbon%20Aerogel/1%20Ref%20materials/05_Cross_Linker_va_Tao_mang)** (20 tệp)
    > Nghiên cứu về chất liên kết chéo, chế tạo màng composite điện cực, PVDF binder, và chitosan composite.
-6. **[06_Setup_Do_Dien_hoa](file:///C:/Users/ADMIN/.gemini/antigravity/worktrees/0%20Quy%20tr%C3%ACnh%20C.A/pdf-to-md-conversion/06_Setup_Do_Dien_hoa) (7 tệp)**
+6. **[06_Setup_Do_Dien_hoa](file:///D:/1%20Master's%20Ana%20Chem/1%20Master's%20thesis/Carbon%20Aerogel/1%20Ref%20materials/06_Setup_Do_Dien_hoa)** (7 tệp)
    > Hướng dẫn chuẩn bị điện cực đo, lắp đặt hệ thống đo Fenton điện hóa, hoặc đo điện hấp phụ (electrosorption).
-7. **[07_Giao_trinh_Ly_thuyet](file:///C:/Users/ADMIN/.gemini/antigravity/worktrees/0%20Quy%20tr%C3%ACnh%20C.A/pdf-to-md-conversion/07_Giao_trinh_Ly_thuyet) (3 tệp)**
-   > Các cuốn sách, giáo trình kinh điển về phương pháp phân tích điện hóa và lý thuyết nền tảng (như sách của Dương Quảng Phùng, Bard & Faulkner).
-8. **[08_Review_va_Tong_quan](file:///C:/Users/ADMIN/.gemini/antigravity/worktrees/0%20Quy%20tr%C3%ACnh%20C.A/pdf-to-md-conversion/08_Review_va_Tong_quan) (8 tệp)**
+7. **[07_Giao_trinh_Ly_thuyet](file:///D:/1%20Master's%20Ana%20Chem/1%20Master's%20thesis/Carbon%20Aerogel/1%20Ref%20materials/07_Giao_trinh_Ly_thuyet)** (3 tệp)
+   > Các cuốn sách, giáo trình kinh định về phương pháp phân tích điện hóa và lý thuyết nền tảng (như sách của Dương Quảng Phùng, Bard & Faulkner).
+8. **[08_Review_va_Tong_quan](file:///D:/1%20Master's%20Ana%20Chem/1%20Master's%20thesis/Carbon%20Aerogel/1%20Ref%20materials/08_Review_va_Tong_quan)** (8 tệp)
    > Các bài báo tổng quan (Review) học thuật cao cấp về carbon aerogel và ứng dụng của chúng trong các lĩnh vực khác nhau.
-9. **[09_Tai_lieu_Quy_trinh_AI](file:///C:/Users/ADMIN/.gemini/antigravity/worktrees/0%20Quy%20tr%C3%ACnh%20C.A/pdf-to-md-conversion/09_Tai_lieu_Quy_trinh_AI) (16 tệp)**
+9. **[09_Tai_lieu_Quy_trinh_AI](file:///D:/1%20Master's%20Ana%20Chem/1%20Master's%20thesis/Carbon%20Aerogel/1%20Ref%20materials/09_Tai_lieu_Quy_trinh_AI)** (16 tệp)
    > Tập hợp các quy trình phân tích chi tiết từng giai đoạn được tối ưu hóa từ phản hồi của Claude và ChatGPT.
 
-* **[Duplicates_Backup](file:///C:/Users/ADMIN/.gemini/antigravity/worktrees/0%20Quy%20tr%C3%ACnh%20C.A/pdf-to-md-conversion/Duplicates_Backup)**
+* **[Duplicates_Backup](file:///D:/1%20Master's%20Ana%20Chem/1%20Master's%20thesis/Carbon%20Aerogel/Duplicates_Backup)**
   > Thư mục lưu trữ an toàn các tệp PDF trùng lặp tuyệt đối (đã loại bỏ để tránh gây loãng dữ liệu chính).
 
 ---

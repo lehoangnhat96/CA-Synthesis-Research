@@ -1,7 +1,7 @@
 TYPE Review PUBLISHED 23 October 2023 DOI 10.3389/fchem.2023.1294520 
 
 
-![](_temp_01c2a5c5_convert__images/_temp_01c2a5c5_convert_.pdf-0001-01.png)
+![](_images/The effect of synthesis conditions and process parameters on aerogel_images/_temp_d9348ea8_convert_.pdf-0001-01.png)
 
 
 ## OPEN ACCESS 
@@ -55,11 +55,11 @@ frontiersin.org
 Payanda Konuk et al. 
 
 
-![](_temp_01c2a5c5_convert__images/_temp_01c2a5c5_convert_.pdf-0002-02.png)
+![](_images/The effect of synthesis conditions and process parameters on aerogel_images/_temp_d9348ea8_convert_.pdf-0002-02.png)
 
 
 
-![](_temp_01c2a5c5_convert__images/_temp_01c2a5c5_convert_.pdf-0002-03.png)
+![](_images/The effect of synthesis conditions and process parameters on aerogel_images/_temp_d9348ea8_convert_.pdf-0002-03.png)
 
 
 **----- Start of picture text -----**<br>
@@ -67,7 +67,7 @@ FIGURE 1<br>Hydrolysis and polycondensation sol-gel processing.<br>**----- End o
 
 
 
-![](_temp_01c2a5c5_convert__images/_temp_01c2a5c5_convert_.pdf-0002-04.png)
+![](_images/The effect of synthesis conditions and process parameters on aerogel_images/_temp_d9348ea8_convert_.pdf-0002-04.png)
 
 
 FIGURE 2 
@@ -211,7 +211,7 @@ frontiersin.org
 Payanda Konuk et al. 
 
 
-![](_temp_01c2a5c5_convert__images/_temp_01c2a5c5_convert_.pdf-0006-02.png)
+![](_images/The effect of synthesis conditions and process parameters on aerogel_images/_temp_d9348ea8_convert_.pdf-0006-02.png)
 
 
 FIGURE 3 
@@ -317,7 +317,7 @@ frontiersin.org
 Payanda Konuk et al. 
 
 
-![](_temp_01c2a5c5_convert__images/_temp_01c2a5c5_convert_.pdf-0010-02.png)
+![](_images/The effect of synthesis conditions and process parameters on aerogel_images/_temp_d9348ea8_convert_.pdf-0010-02.png)
 
 
 FIGURE 4 
@@ -345,7 +345,7 @@ frontiersin.org
 Payanda Konuk et al. 
 
 
-![](_temp_01c2a5c5_convert__images/_temp_01c2a5c5_convert_.pdf-0011-02.png)
+![](_images/The effect of synthesis conditions and process parameters on aerogel_images/_temp_d9348ea8_convert_.pdf-0011-02.png)
 
 
 FIGURE 5 
@@ -403,7 +403,7 @@ frontiersin.org
 Payanda Konuk et al. 
 
 
-![](_temp_01c2a5c5_convert__images/_temp_01c2a5c5_convert_.pdf-0013-02.png)
+![](_images/The effect of synthesis conditions and process parameters on aerogel_images/_temp_d9348ea8_convert_.pdf-0013-02.png)
 
 
 FIGURE 6 
@@ -429,7 +429,7 @@ frontiersin.org
 Payanda Konuk et al. 
 
 
-![](_temp_01c2a5c5_convert__images/_temp_01c2a5c5_convert_.pdf-0014-02.png)
+![](_images/The effect of synthesis conditions and process parameters on aerogel_images/_temp_d9348ea8_convert_.pdf-0014-02.png)
 
 
 FIGURE 7 Variation of transparency and occurrence of cracks in monolith structure of silica with respect to the stabilization time (drying time). Reprinted with permission from (Venkateswara Rao et al., 1998) Copyright 1998 Taylor and Francis Group. 
@@ -451,7 +451,7 @@ frontiersin.org
 Payanda Konuk et al. 
 
 
-![](_temp_01c2a5c5_convert__images/_temp_01c2a5c5_convert_.pdf-0015-02.png)
+![](_images/The effect of synthesis conditions and process parameters on aerogel_images/_temp_d9348ea8_convert_.pdf-0015-02.png)
 
 
 FIGURE 8 
@@ -463,11 +463,11 @@ FIGURE 8
 Some researchers have considered both convective and diffusion mechanisms of mass transfer inside the wet gel during supercritical drying. In a study conducted by Lazrag et al. (2018), two different approaches for the simulation of mass transfer during supercritical drying of cylindrical organogel. Two mathematical models were developed based on continuum mechanics to describe the CO2 flow dynamics and solvent mass transfer during drying. The first model treated the organogel as impenetrable, employing Fick diffusion for mass transfer. The second model considered the organogel as penetrable by CO2, combining convection with diffusion inside the gel particles. The results suggested that considering the organogel as a penetrable sample better aligned with the experimental data. Further simulations were performed to explore the impact of CO2 flow rate and 
 
 
-![](_temp_01c2a5c5_convert__images/_temp_01c2a5c5_convert_.pdf-0015-07.png)
+![](_images/The effect of synthesis conditions and process parameters on aerogel_images/_temp_d9348ea8_convert_.pdf-0015-07.png)
 
 
 
-![](_temp_01c2a5c5_convert__images/_temp_01c2a5c5_convert_.pdf-0015-08.png)
+![](_images/The effect of synthesis conditions and process parameters on aerogel_images/_temp_d9348ea8_convert_.pdf-0015-08.png)
 
 
 **----- Start of picture text -----**<br>
@@ -513,7 +513,7 @@ frontiersin.org
 Payanda Konuk et al. 
 
 
-![](_temp_01c2a5c5_convert__images/_temp_01c2a5c5_convert_.pdf-0017-02.png)
+![](_images/The effect of synthesis conditions and process parameters on aerogel_images/_temp_d9348ea8_convert_.pdf-0017-02.png)
 
 
 FIGURE 10 Distribution of Starbon functional groups as a function of carbonization temperature (color scale indicates relative amounts: black represents the highest amount). Reprinted with permission from (White et al., 2014), Copyright 2014, John Wiley and Sons. 

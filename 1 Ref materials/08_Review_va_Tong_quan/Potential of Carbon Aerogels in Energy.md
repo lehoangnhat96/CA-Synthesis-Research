@@ -1,7 +1,7 @@
 _**gels**_ 
 
 
-![](_temp_a7ab248c_convert__images/_temp_a7ab248c_convert_.pdf-0001-01.png)
+![](_images/Potential of Carbon Aerogels in Energy_images/_temp_28cb9d55_convert_.pdf-0001-01.png)
 
 
 ## _Review_ 
@@ -25,7 +25,7 @@ Academic Editors: Ana Casanova and Sébastien Schaefer
 Received: 19 May 2024 Revised: 29 May 2024 Accepted: 5 June 2024 Published: 7 June 2024 
 
 
-![](_temp_a7ab248c_convert__images/_temp_a7ab248c_convert_.pdf-0001-12.png)
+![](_images/Potential of Carbon Aerogels in Energy_images/_temp_28cb9d55_convert_.pdf-0001-12.png)
 
 
 **Copyright:** © 2024 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https:// creativecommons.org/licenses/by/ 4.0/). 
@@ -61,11 +61,11 @@ _Gels_ **2024** , _10_ , 389
 3 of 27 
 
 
-![](_temp_a7ab248c_convert__images/_temp_a7ab248c_convert_.pdf-0003-02.png)
+![](_images/Potential of Carbon Aerogels in Energy_images/_temp_28cb9d55_convert_.pdf-0003-02.png)
 
 
 
-![](_temp_a7ab248c_convert__images/_temp_a7ab248c_convert_.pdf-0003-03.png)
+![](_images/Potential of Carbon Aerogels in Energy_images/_temp_28cb9d55_convert_.pdf-0003-03.png)
 
 
 **Figure 1.** ( **a** ) Schematic representation of carbonization from the organic precursors, ( **b** ) schematic of the defined pore sizes, and ( **c** ) schematic of porous carbon (ultra- to macropores) and basic domain of the carbon. 
@@ -77,19 +77,19 @@ _Gels_ **2024** , _10_ , 389
 4 of 27 
 
 
-![](_temp_a7ab248c_convert__images/_temp_a7ab248c_convert_.pdf-0004-02.png)
+![](_images/Potential of Carbon Aerogels in Energy_images/_temp_28cb9d55_convert_.pdf-0004-02.png)
 
 
 
-![](_temp_a7ab248c_convert__images/_temp_a7ab248c_convert_.pdf-0004-03.png)
+![](_images/Potential of Carbon Aerogels in Energy_images/_temp_28cb9d55_convert_.pdf-0004-03.png)
 
 
 
-![](_temp_a7ab248c_convert__images/_temp_a7ab248c_convert_.pdf-0004-04.png)
+![](_images/Potential of Carbon Aerogels in Energy_images/_temp_28cb9d55_convert_.pdf-0004-04.png)
 
 
 
-![](_temp_a7ab248c_convert__images/_temp_a7ab248c_convert_.pdf-0004-05.png)
+![](_images/Potential of Carbon Aerogels in Energy_images/_temp_28cb9d55_convert_.pdf-0004-05.png)
 
 
 **Figure 2.** ( **a** ) The development of mainstream models explaining the relationship between graphitic order and amorphous disorder in glassy carbon (GC) has advanced significantly over time. This progression begins with Franklin’s classification of amorphous carbons into graphitizing and ( **b** ) non–graphitizing types, ( **c** ) it further develops through Jenkins’ model, which addresses non–graphitizing GC and associates its crystallinity with La and Lc domains, and ( **d** ) the evolution reaches its peak with Harris’ model, which portrays non-graphitizing carbons as consisting of intertwined graphitic and fullerene–like structures (adapted with permission from ref. [25], Copyright 2021 Elsevier). 
@@ -107,7 +107,7 @@ _Gels_ **2024** , _10_ , 389
 5 of 27 
 
 
-![](_temp_a7ab248c_convert__images/_temp_a7ab248c_convert_.pdf-0005-02.png)
+![](_images/Potential of Carbon Aerogels in Energy_images/_temp_28cb9d55_convert_.pdf-0005-02.png)
 
 
 **Figure 3.** Schematic showing sol–gel synthesis. 
@@ -129,11 +129,11 @@ _Gels_ **2024** , _10_ , 389
 lenging, and capillary forces are enhanced due to the small pore size. Moreover, low-density gels exhibit low resistance to surface tensions, potentially causing integration issues within the skeleton. Despite its superiority in minimizing the shrinkage of meso–/macro–pores, the industrial–scale implementation of this method remains highly costly [33–35]. 
 
 
-![](_temp_a7ab248c_convert__images/_temp_a7ab248c_convert_.pdf-0006-03.png)
+![](_images/Potential of Carbon Aerogels in Energy_images/_temp_28cb9d55_convert_.pdf-0006-03.png)
 
 
 
-![](_temp_a7ab248c_convert__images/_temp_a7ab248c_convert_.pdf-0006-04.png)
+![](_images/Potential of Carbon Aerogels in Energy_images/_temp_28cb9d55_convert_.pdf-0006-04.png)
 
 
 **Figure 4.** Schematic showing gel drying processes of ( **a** ) supercritical drying, ( **b** ) freeze drying, and ( **c** ) thermal drying. 
@@ -153,7 +153,7 @@ _Gels_ **2024** , _10_ , 389
 ~~chemistry for various applications. Various microstructure properties are considered,~~ including the degree of aromatic condensation, lateral size, stacking height, interlayer distance, defect nature, R-factor, amorphous region, crystalline nature, and turbostratic nature of the carbon. Regarding textural properties, factors such as pore size range (ultra/super-/micro-/meso-/macropores) and pore volume are carefully adjusted to best suit the intended application and desired properties [11,39,40]. The conditions pertaining to microstructure, textural properties, surface chemistry, or the content of heteroatoms in the carbon gel depend on pyrolysis conditions such as the type of inert gas, gas flow rate, amount of pyrolysis precursors, pyrolysis temperature range, heating rate, pyrolysis time, and volume of the pyrolysis tube. Additionally, whether the pyrolysis is conducted with powder or pelletized precursors is a significant consideration. For powder conditions, factors such as the shape of the container (e.g., boat-shaped, round-shaped) and amount and thickness of the powder need to be taken into account. If pelletized precursors are used, factors such as the amount of organic precursors pelletized, pellet shape, size, thickness, pelletization compression range, and compression time are important (Figure 5). The variability in these conditions leads to the production of carbon gels with distinct properties, highlighting the beauty of research in this field [41]. 
 
 
-![](_temp_a7ab248c_convert__images/_temp_a7ab248c_convert_.pdf-0007-03.png)
+![](_images/Potential of Carbon Aerogels in Energy_images/_temp_28cb9d55_convert_.pdf-0007-03.png)
 
 
 **Figure 5.** The schematic illustrates the distinct differences in porosity between powder-based carbonization and pelletized-based carbonization. (Adapted with permission from ref. [41], Copyright 2024 Bari et al. MDPI). 
@@ -171,7 +171,7 @@ The chemical activation process utilizes acidic (e.g., H2SO4, HCl, HNO3, ZnCl2),
 To achieve the desired carbon pore structure in various energy materials for optimal performance, diverse synthesis strategies are employed to engineer the pore architecture. The introduction of effective hierarchical pore morphology, encompassing ultra-/super-/micro-/meso-/macropores, involves employing different activation methods such as chemical activation, physical activation, hard templating, and soft templating approaches [41,42]. Generally, the synthesis of sol–gel carbon products involves utilizing porogens, often considered as a form of soft templating, wherein the degradation of synthesis products yields gaseous templates (e.g., CO2, NH3, CO, H2, H2O, CH4) at high-temperature carbonization, inducing porosity in the carbon structure. Additionally, to engineer effective micropores, various activation or templating strategies are employed to tailor micropores-to-mesopores within the carbon structure [11,39,46]. These salts can be easily removed from the synthesis products through evaporation or water-washing steps. The Fellinger group, for instance, employs biomass-based carbon precursors (e.g., glucose) with ZnCl2 as a salt templating agent to synthesize hierarchically porous heteroatom-doped carbon aerogels for lithium sulfur batteries (LSBs) (Figure 6) [47]. 
 
 
-![](_temp_a7ab248c_convert__images/_temp_a7ab248c_convert_.pdf-0008-04.png)
+![](_images/Potential of Carbon Aerogels in Energy_images/_temp_28cb9d55_convert_.pdf-0008-04.png)
 
 
 **Figure 6.** Diagram illustrating the carbonization process of glucose: ( **a** ) initial solution, ( **b** ) beginning of low–molecular–weight carbon precursor formation, ( **c** ) water evaporation and creation of a ZnCl2 melt, ( **d** ) phase separation and development of carbon particles containing ZnCl2, and ( **e** ) ZnCl2 evaporation leading to the final porous carbon material (adapted with permission from ref. [47], Copyright 2015 Wiley). 
@@ -187,11 +187,11 @@ Physical activation is considered a cost-effective method for activating carbon 
 Hard template activation involves duplicating the molecular-level imprinting on the surface of the template structure at high temperatures (Figure 7). These templates can include zeolites, porous metals like Ni, Cu, and Fe, metal foams, metal powders, MOFs, silica, molten salts, or eutectic mixtures (high-temperature solvents). Hard templates induce stable mesoporous structures with large specific surface areas. However, there are disadvantages to removing hard solvents such as zeolites or silica-based templates, which require NaOH or HF, while metals like metal foam or powder necessitate acidic solutions. In the case of molten salts or eutectic solvent mixtures (e.g., LiCl/KCl, LiBr/KBr, LiI/KI), only water-washing steps are required for removal [52–55]. 
 
 
-![](_temp_a7ab248c_convert__images/_temp_a7ab248c_convert_.pdf-0009-05.png)
+![](_images/Potential of Carbon Aerogels in Energy_images/_temp_28cb9d55_convert_.pdf-0009-05.png)
 
 
 
-![](_temp_a7ab248c_convert__images/_temp_a7ab248c_convert_.pdf-0009-06.png)
+![](_images/Potential of Carbon Aerogels in Energy_images/_temp_28cb9d55_convert_.pdf-0009-06.png)
 
 
 **Figure 7.** Schematic representation of the hard template strategy. 
@@ -203,7 +203,7 @@ _Gels_ **2024** , _10_ , 389
 10 of 27 
 
 
-![](_temp_a7ab248c_convert__images/_temp_a7ab248c_convert_.pdf-0010-02.png)
+![](_images/Potential of Carbon Aerogels in Energy_images/_temp_28cb9d55_convert_.pdf-0010-02.png)
 
 
 **Figure 8.** Synthetic pathway for porous poly (ionic liquid) CAV and the resulting carbon materials (adapted with permission from ref. [57], Copyright 2022 Elsevier). 
@@ -227,7 +227,7 @@ _Gels_ **2024** , _10_ , 389
 grating battery type electrodes hold promise for surpassing the energy density of traditional supercapacitors and the power density of batteries [62]. The Liu group developed a Zn ion hybrid capacitors (ZHCs) utilizing a zinc anode and a carbon aerogel derived from chitosan as the cathode (Figure 9) [63]. The zinc anode offers high theoretical capacity (823 mAh g _[−]_[1] ) and a low redox potential (–0.76V vs. SHE), enabling the attainment of high operating voltages [64,65]. Previous ZHCs employing carbon nanotubes (CNTs) as cathode material exhibited low faradic capacity (53 F g _[−]_[1] ) due to their limited surface area (211 m[2] g _[−]_[1] ) [66]. In contrast, the Liu group employed a 3D porous interconnected carbon aerogel, which provides abundant active sites for ion/molecule adsorption and low-resistance pathways for ion/molecule transport, while also serving as an electrolyte reservoir. The carbon aerogels possess a surface area of 1000 m[2] g _[−]_[1] with predominantly low micropores and small-diameter mesopores. Utilizing KOH as the activating agent for the carbon aerogel led to the degradation of its structure into a 2D microsheet configuration with a significantly increased specific surface area (2267 m[2] g _[−]_[1] ) and the induction of numerous micro-/mesopores (Table 1). The ZHCs demonstrated a specific capacity of 299.5 F g _[−]_[1] (133.1 mAh g _[−]_[1] ) at a current density of 0.1 A g _[−]_[1] , yielding an energy density of 80 W kg _[−]_[1] and exhibiting 86.3% capacity retention over 10,000 cycles at 2 A g _[−]_[1] [63]. 
 
 
-![](_temp_a7ab248c_convert__images/_temp_a7ab248c_convert_.pdf-0011-03.png)
+![](_images/Potential of Carbon Aerogels in Energy_images/_temp_28cb9d55_convert_.pdf-0011-03.png)
 
 
 **Figure 9.** ( **I** ) ( **a** ) Schematic illustration for the fabrication of activated carbon aerogels (ACA), ( **b** ) chitosan aerogels, ( **c** ) carbon aerogels ( **II** ) ( **a** ) schematic illustration for the energy storage mechanism of the ZHC, ( **b** ) the application of our ZHC device to light up a 3 V LED. (Adapted with permission from ref. [63], Copyright 2023 Wiley). 
@@ -251,7 +251,7 @@ _Gels_ **2024** , _10_ , 389
 bon aerogel from cellulose, which features a 3D honeycomb-like structure (Figure 11) [76]. They evaluated the catalytic conversion mechanism of polysulfides, demonstrating its potential in reducing the shuttle effect and enhancing the performance of Li–S batteries. A high–pyrrolic–N–content carbon aerogel, characterized by XPS deconvolution as containing ~~54.6% pyrrolic-N, 11.6% pyridinic–N, 21.4% quaternary–N, and 12.3% nitrate, demonstrated~~ a capacity of 1249 mAh g _[−]_[1] at 0.2 C. DFT analysis reveals that pyrrolic–N exhibits the strongest stability across different polysulfide phases and the highest adsorption capacity, which likely inhibits shuttle effects most effectively. In contrast, graphitic–N is less stable compared to pyrrolic– and pyridinic–N. Additionally, the interaction of pyrrolic-N with polysulfides is significantly greater than that of pyridinic–N, indicating that pyrrolic–N groups play a more crucial role in the adsorption and catalytic conversion of polysulfides. 
 
 
-![](_temp_a7ab248c_convert__images/_temp_a7ab248c_convert_.pdf-0013-03.png)
+![](_images/Potential of Carbon Aerogels in Energy_images/_temp_28cb9d55_convert_.pdf-0013-03.png)
 
 
 **Figure 10.** ( **A** ) Schematic illustrations detailing the operational mechanisms that enhance ion conductivity and ion transference number in polyethylene glycol–carbon dot composite electrolytes (PCCEs), ( **B** ) ion transference number evaluations performed on symmetric batteries with liquid electrolytes (LEs), ( **C** ) ion transference number evaluations using PCCEs as electrolytes, and ( **D** ) galvanostatic cycling tests conducted on Li/Li symmetric batteries with LEs, polyvinylidene fluoride–gel polymer electrolytes (PVDF–GPEs), and PCCEs, all under a constant current density of 0.5 mA cm _[−]_[2] (adapted with permission from ref. [73], Copyright 2022 Wiley). 
@@ -261,7 +261,7 @@ _Gels_ **2024** , _10_ , 389
 14 of 27 
 
 
-![](_temp_a7ab248c_convert__images/_temp_a7ab248c_convert_.pdf-0014-02.png)
+![](_images/Potential of Carbon Aerogels in Energy_images/_temp_28cb9d55_convert_.pdf-0014-02.png)
 
 
 **Figure 11.** ( **a** ) Schematic of the preparation of cellulose–based N–doped carbon aerogels, ( **b** ) adsorption models (top/side view), and ( **c** ) adsorption energies of different polysulfides on different N–doped configurations. Note: Green values indicate bond lengths; in 3PL/3PD_Li2S6, Li@N is the most stable bond (adapted with permission from ref. [76], Copyright 2021 Wiley). 
@@ -281,7 +281,7 @@ The 2D planar structure of Al foil as anode and cathode materials, such as graph
 Adhesion between the current collector and active materials must be maintained at low levels (0.7–3 mg cm _[−]_[2] ), presenting a fundamental obstacle to improving the high energy density of Al storage batteries [83,87]. To address these challenges, the Jiao group fabricated a hierarchical 3D carbon aerogel film (CAF) for the anode and integrated it with a graphite composite carbon aerogel film (GCAF) as the cathode (Figure 12) [89]. 
 
 
-![](_temp_a7ab248c_convert__images/_temp_a7ab248c_convert_.pdf-0015-05.png)
+![](_images/Potential of Carbon Aerogels in Energy_images/_temp_28cb9d55_convert_.pdf-0015-05.png)
 
 
 **Figure 12.** ( **I** ) ( **a** ) Synthesis schematic of 3D porous carbon aerogel film (CAF) and graphite composite carbon aerogel film (GCAF), photos of ( **b** ) cellulose nanofiber aerogels (CNFA) (CA, inset), and ( **c** ) graphite composite CNFA (GCNFA) (GCA, inset), and SEM images of ( **d** ) CA, ( **e** ) CAF, and 
@@ -303,11 +303,11 @@ _Gels_ **2024** , _10_ , 389
 17 of 27 
 
 
-![](_temp_a7ab248c_convert__images/_temp_a7ab248c_convert_.pdf-0017-02.png)
+![](_images/Potential of Carbon Aerogels in Energy_images/_temp_28cb9d55_convert_.pdf-0017-02.png)
 
 
 
-![](_temp_a7ab248c_convert__images/_temp_a7ab248c_convert_.pdf-0017-03.png)
+![](_images/Potential of Carbon Aerogels in Energy_images/_temp_28cb9d55_convert_.pdf-0017-03.png)
 
 
 **Figure 13.** ( **I** ) ( **a** ) Schematic of fabrication, ( **b** ) image of the compressibility, and ( **c** – **f** ) SEM image of FeP/Fe2O3@NPCA carbon aerogel; ( **II** ) ( **a** ) scheme of ZABs, ( **b** ) galvanostatic cycling with potential limitations (GCPL) profile, ( **c** ) specific capacity at 5 mA cm _[−]_[2] , ( **d** ) cyclic stability at 5 mA cm _[−]_[2] , ( **e** ) cyclic stability under different bends at 5 mA cm _[−]_[2] , and ( **f** ) image of LED illuminations by ZABs (adapted with permission from ref. [93], Copyright 2020 Wiley). 
@@ -331,11 +331,11 @@ _Gels_ **2024** , _10_ , 389
 19 of 27 
 
 
-![](_temp_a7ab248c_convert__images/_temp_a7ab248c_convert_.pdf-0019-02.png)
+![](_images/Potential of Carbon Aerogels in Energy_images/_temp_28cb9d55_convert_.pdf-0019-02.png)
 
 
 
-![](_temp_a7ab248c_convert__images/_temp_a7ab248c_convert_.pdf-0019-03.png)
+![](_images/Potential of Carbon Aerogels in Energy_images/_temp_28cb9d55_convert_.pdf-0019-03.png)
 
 
 **Figure 14.** Scheme of carbon electro–oxidation mechanism (adapted with permission from ref. [105], Copyright 2019 Elsevier). 
@@ -361,11 +361,11 @@ Reproducibility of similar properties across different batches is a significant 
 Technology readiness levels (TRLs) categorize, evaluate, monitor, and validate the progress of technologies in their respective fields of research (Figure 15) [40]. The production of carbon aerogel has reached a maturity level that is high enough for it to be commercialized and supplied to various demand areas although substantial research is still being carried out on properties development or cost reduction phenomena in synthesis or processing. Numerous aerogels are viable at a commercial scale in different applications. Carbon aerogel (molecular weight 12.01 g mol _[−]_[1] ) of Aerogel Technologies, LLC, graphene aerogel (density 12.5 mg cm _[−]_[3] ) of Graphene Laboratories Inc., and carbon – aerogel silicon hybrid by Aspen Aerogels are commercially available for applications in batteries, supercapacitors, and electrochemical sensors. 
 
 
-![](_temp_a7ab248c_convert__images/_temp_a7ab248c_convert_.pdf-0020-06.png)
+![](_images/Potential of Carbon Aerogels in Energy_images/_temp_28cb9d55_convert_.pdf-0020-06.png)
 
 
 
-![](_temp_a7ab248c_convert__images/_temp_a7ab248c_convert_.pdf-0020-07.png)
+![](_images/Potential of Carbon Aerogels in Energy_images/_temp_28cb9d55_convert_.pdf-0020-07.png)
 
 
 **Figure 15.** Schematic of the Technology Readiness Level (TRL) scale. 

@@ -3,7 +3,7 @@ Research Article doi.org/10.1002/celc.202200600
 ChemElectroChem 
 
 
-![](_temp_63b55139_convert__images/_temp_63b55139_convert_.pdf-0001-02.png)
+![](_images/Comparative Study on Chitosans as Green Binder Materials for LiMn2O4_images/_temp_30993e98_convert_.pdf-0001-02.png)
 
 
 www.chemelectrochem.org 
@@ -27,13 +27,13 @@ The urgent demand for ramping up electro mobility and stationary energy storage 
 - [d] _Dr. J. Li Department of Energy, Politecnico di Milano Via Lambruschini 4, 20156 Milano, Italy E-mail: jie1.li@polimi.it_ 
 
 
-![](_temp_63b55139_convert__images/_temp_63b55139_convert_.pdf-0001-13.png)
+![](_images/Comparative Study on Chitosans as Green Binder Materials for LiMn2O4_images/_temp_30993e98_convert_.pdf-0001-13.png)
 
 
 - Supporting information for this article is available on the WWW under https://doi.org/10.1002/celc.202200600 
 
 
-![](_temp_63b55139_convert__images/_temp_63b55139_convert_.pdf-0001-15.png)
+![](_images/Comparative Study on Chitosans as Green Binder Materials for LiMn2O4_images/_temp_30993e98_convert_.pdf-0001-15.png)
 
 
 - _© 2022 The Authors. ChemElectroChem published by Wiley-VCH GmbH. This is an open access article under the terms of the Creative Commons Attribution License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited._ 
@@ -53,7 +53,7 @@ Research Article doi.org/10.1002/celc.202200600
 ChemElectroChem 
 
 
-![](_temp_63b55139_convert__images/_temp_63b55139_convert_.pdf-0002-03.png)
+![](_images/Comparative Study on Chitosans as Green Binder Materials for LiMn2O4_images/_temp_30993e98_convert_.pdf-0002-03.png)
 
 
 **Figure 1.** Structure of chitosan and its building units, and definitions of the degree of polymerization (DP) and the degree of acetylation (DA) (a). Scheme for cross-linking reaction of chitosan and CA (b). Synthesis procedure for chitosan binders combining _N_ -acetylation and depolymerization to obtain a set of chitosan materials with different DA and DP (c). *Renamed commercial chitosan materials. 
@@ -164,7 +164,7 @@ Chitosan as biopolymer contains different functional groups that can be investig
 The dashed line shows the position of C=O stretching vibration (1725 cm[�][1] ),[[29]] indicating the formation of an _N_ - alkylamide (R� (HN� C=O)� R’) by cross-linking with citric acid on the free amine groups (� NH2). As citric acid does not display a band at this wavenumber, the new band arises rather because of a reaction than through plain mixing. Furthermore, a slight decrease of the band at 1625 cm[�][1] in relation to N� H bending (1525 cm[�][1] ) is observable. Assuming that this band is overlapping with the primary amine bending band, the decrease in intensity is plausible because the amine takes part in the condensation reaction. The absorbance at 1725 cm[�][1] increases with higher DA, indicating a higher degree of cross-linking, although the amount of potentially reactive sites decreases with higher DA. This behavior is seen for low DP and high DP 
 
 
-![](_temp_63b55139_convert__images/_temp_63b55139_convert_.pdf-0005-09.png)
+![](_images/Comparative Study on Chitosans as Green Binder Materials for LiMn2O4_images/_temp_30993e98_convert_.pdf-0005-09.png)
 
 
 **Figure 2.** ATR-FTIR spectra of chitosan samples (a) and chitosan samples (b) dissolved and dried with citric acid. The dashed line at 1725 cm[�][1] marks the band of _N_ -alkylamide groups, indicating successful cross-linking. 
@@ -203,7 +203,7 @@ The results of the adhesion strength measurements of chitosan-based electrode ta
 The total mass of chitosan binders in the electrode tapes are equal, so there should be roughly the same number of monomeric units. Polymers tend to entangle, which means that 
 
 
-![](_temp_63b55139_convert__images/_temp_63b55139_convert_.pdf-0006-14.png)
+![](_images/Comparative Study on Chitosans as Green Binder Materials for LiMn2O4_images/_temp_30993e98_convert_.pdf-0006-14.png)
 
 
 **Figure 3.** Adhesion strength measurements of selected chitosans and PVdF as binders for LMO electrodes on titanium foil. 
@@ -231,7 +231,7 @@ PVdF-based electrodes were used as reference and deliver specific discharge capa
 Constant current cycling measurements of pristine and cross-linked low DP chitosan-based electrodes are compared in Figure 4a and b, respectively. Most LMO j j Li metal cells show only minor capacity fading ( _<_ 2 mAhg[�][1] /200 cycles) and exhibit 
 
 
-![](_temp_63b55139_convert__images/_temp_63b55139_convert_.pdf-0007-10.png)
+![](_images/Comparative Study on Chitosans as Green Binder Materials for LiMn2O4_images/_temp_30993e98_convert_.pdf-0007-10.png)
 
 
 **Figure 4.** Discharge capacities and Coulombic efficiencies from constant current charge/discharge cycling of LMO j j Li metal cells (two-electrode configuration; coin cells). Pristine low and high DP chitosans (a, c): p, respectively and citric acid treated low and high DP chitosans (b, d), respectively, as binder materials in comparison to PVdF. Cell voltage range: 3.5–4.5 V. Charge/discharge rate: 0.1 C (cycles 1–3), 0.5 C from 4[th] cycle (1 C =^ 148 mAg[�][1] ). A ‘zoom-in’ of the Coulombic efficiency can be found in Figure S9. 
@@ -265,7 +265,7 @@ Research Article doi.org/10.1002/celc.202200600
 ChemElectroChem 
 
 
-![](_temp_63b55139_convert__images/_temp_63b55139_convert_.pdf-0009-03.png)
+![](_images/Comparative Study on Chitosans as Green Binder Materials for LiMn2O4_images/_temp_30993e98_convert_.pdf-0009-03.png)
 
 
 **Figure 5.** Differential capacity (dQ/dV) vs. voltage plots of chitosan-based LMO j j Li metal cells (two-electrode configuration; coin cells). CTS500 with DA: 1.7 (a). CTS520 with DA: 18.6 (b). CTS2000 with DA: 1.7 (c). CTS2020 with DA: 16.5 (d). Cell voltage range: 3.5–4.5 V. Charge/discharge rate: 0.1 C (cycles 1–3), 0.5 C from 4[th] cycle (1 C =^ 148 mAg[�][1] ). 
@@ -287,7 +287,7 @@ Research Article doi.org/10.1002/celc.202200600
 ChemElectroChem 
 
 
-![](_temp_63b55139_convert__images/_temp_63b55139_convert_.pdf-0010-03.png)
+![](_images/Comparative Study on Chitosans as Green Binder Materials for LiMn2O4_images/_temp_30993e98_convert_.pdf-0010-03.png)
 
 
 **Figure 6.** Discharge capacities and Coulombic efficiencies from charge/discharge rate capability investigations of LMO j j Li metal cells (three-electrode configuration; half-cell setup; RE: Li metal). Pristine low and high DP chitosans (a, c), respectively and citric acid treated low and high DP chitosans (b, d), respectively, as binder material in comparison to PVdF. Potential range (vs. RE): 3.5–4.5 V vs. Li j Li[+] . Charge/discharge rate: Variation from 0.1 C to 10 C (1 C = 148 mAg[�][1] ). 
@@ -309,7 +309,7 @@ Research Article doi.org/10.1002/celc.202200600
 ChemElectroChem 
 
 
-![](_temp_63b55139_convert__images/_temp_63b55139_convert_.pdf-0011-03.png)
+![](_images/Comparative Study on Chitosans as Green Binder Materials for LiMn2O4_images/_temp_30993e98_convert_.pdf-0011-03.png)
 
 
 **Figure 7.** Cell voltage profiles (a) from constant current charge/discharge cycling of selected LMO j j Li metal cells (two-electrode configuration; coin cells) showing cycles 1 (highlighted in a different color), 10, 50, 100, 150 and 200. Potential profiles (b) from charge/discharge rate capability investigations of selected LMO j j Li metal (three-electrode configuration; T-Cells; RE: Li metal). 

@@ -67,7 +67,7 @@ quá trình chế tạo điện cực.
 Trước tiên, 5 g than AC được ngâm trong hỗn hợp nước cất hai lần và ethanol (ChemsolVina, Việt Nam) với tỷ lệ 1:1 theo thể tích trong 3 giờ và kết hợp siêu âm 30 phút mỗi giờ để loại các thành phần hòa tan trong nước. AC sau khi ngâm được lọc áp suất thấp và tiếp tục ngâm trong acetone (ChemsolVina, Việt Nam) trong 24 giờ để loại bỏ các thành phần tan trong dung môi hữu cơ. Sau đó, AC được lọc áp suất thấp, sấy chân không ở 140[o] C qua đêm. Tiếp theo, AC tiếp tục được ngâm trong dung dịch HCl 1 M trong 16 giờ để loại bỏ các thành phần kim loại. Cuối cùng, sản phẩm sau ngâm được lọc áp suất thấp, rửa với nước cất hai lần đến pH trung tính và sấy khô ở 140[o] C trong chân không qua đêm. Quy trình tiền xử lý AC được chi tiết trong hình 1. 
 
 
-![](Anh huong cua phu gia dan dien graphite den kha_images/image-0002-16.png)
+![](_images/Anh huong cua phu gia dan dien graphite den kha_images/image-0002-16.png)
 
 
 **Hình 1. Quy trình tiền xử lý AC.** 
@@ -81,7 +81,7 @@ AC sau khi biến tính được phối trộn với graphite (MTI, USA) theo t�
 **Bảng 1. Khối lượng của các thành phần trong hệ điện cực ACgraphite.** 
 
 
-![](Anh huong cua phu gia dan dien graphite den kha_images/image-0002-22.png)
+![](_images/Anh huong cua phu gia dan dien graphite den kha_images/image-0002-22.png)
 
 
 **----- Start of picture text -----**<br>
@@ -101,11 +101,11 @@ Các nhóm chức đặc trưng của vật liệu AC trước và sau khi biế
 Các tính chất điện hóa của điện cực được khảo sát trên hệ ba điện cực: điện cực làm việc là điện cực composite m-AC-graphite, điện cực so sánh Ag/AgCl (KCl 3,5 M) và điện cực đối Pt trong dung dịch điện ly NaCl 2000 ppm, sử dụng thiết bị BASi® Epsilon EW-4960 (BASi®, USA). Phương pháp quét thế vòng tuần hoàn được thực hiện trong khoảng điện thế từ -1 V đến +1 V (vs. Ag/ AgCl), tốc độ quét thế 20 mV/s. Giá trị điện dung riêng được tính từ đường cong CV được xác định dựa vào phương trình (1). 
 
 
-![](Anh huong cua phu gia dan dien graphite den kha_images/image-0003-04.png)
+![](_images/Anh huong cua phu gia dan dien graphite den kha_images/image-0003-04.png)
 
 
 
-![](Anh huong cua phu gia dan dien graphite den kha_images/image-0003-05.png)
+![](_images/Anh huong cua phu gia dan dien graphite den kha_images/image-0003-05.png)
 
 
 Trong đó, _Area_ là diện tích hình học của đường cong CV, _ν_ là tốc độ quét thế (V/s), _m_ là khối lượng vật liệu composite trên điện cực làm việc (g) và _ΔE_ là khoảng quét thế (V). 
@@ -113,11 +113,11 @@ Trong đó, _Area_ là diện tích hình học của đường cong CV, _ν_ l�
 Phương pháp áp thế cố định (Chronoamperometry) được thực hiện với thế áp đặt 1,2 V và 0 V (vs. Ag/AgCl) trong thời gian 900 giây. Độ hấp phụ muối (salt adsorption capacity, SAC) được xác định dựa vào phương trình (2). 
 
 
-![](Anh huong cua phu gia dan dien graphite den kha_images/image-0003-08.png)
+![](_images/Anh huong cua phu gia dan dien graphite den kha_images/image-0003-08.png)
 
 
 
-![](Anh huong cua phu gia dan dien graphite den kha_images/image-0003-09.png)
+![](_images/Anh huong cua phu gia dan dien graphite den kha_images/image-0003-09.png)
 
 
 Trong đó, I là cường độ dòng điện của quá trình áp thế tại 1,2 V; F là hằng số Faraday (96485 C/mol); mactive là khối lượng vật liệu composite trên điện cực làm việc và MNaCl là khối lượng mol của NaCl (58 g/mol). 
@@ -131,7 +131,7 @@ Phổ FT-IR của AC trước và sau biến tính (hình 2) cho thấy, dao đ�
 chức có chứa oxy trên bề mặt, dẫn đến sự phân tán tốt hơn của cho thấy quá trình hoạt hóa vật liệu với HNO3 đã tạo ra các nhóm m-AC trong dung môi cũng như trên nền PVA. 
 
 
-![](Anh huong cua phu gia dan dien graphite den kha_images/image-0003-15.png)
+![](_images/Anh huong cua phu gia dan dien graphite den kha_images/image-0003-15.png)
 
 
 **Hình 2. Phổ FT-IR mẫu AC trước và sau khi biến tính với HNO3.** 
@@ -139,11 +139,11 @@ chức có chứa oxy trên bề mặt, dẫn đến sự phân tán tốt hơn 
 Đường cong hấp phụ - giải hấp khí N2 và phân bố kích thước hạt của AC trước và sau khi biến tính với HNO3 (hình 3) khá tương đồng và đặc trưng cho vật liệu có kích thước vi mao quản (microporous). Diện tích bề mặt tính theo BET của AC trước và sau biến tính có giá trị lần lượt là 951 và 1002 m[2] /g. Điều này cho thấy, quá trình tiền xử lý và biến tính với HNO3 ngoài loại bỏ các tạp chất còn giúp tăng diện tích bề mặt của AC. Kích thước lỗ xốp của AC trước và sau khi biến tính không có sự thay đổi đáng kể, kích thước lỗ xốp trung bình đạt 1,62 Å. 
 
 
-![](Anh huong cua phu gia dan dien graphite den kha_images/image-0003-18.png)
+![](_images/Anh huong cua phu gia dan dien graphite den kha_images/image-0003-18.png)
 
 
 
-![](Anh huong cua phu gia dan dien graphite den kha_images/image-0003-19.png)
+![](_images/Anh huong cua phu gia dan dien graphite den kha_images/image-0003-19.png)
 
 
 **Hình 3. Đường cong hấp phụ - giải hấp và phân bố kích thước mao quản của AC trước và sau khi biến tính trong môi trường khí N2.** 
@@ -163,13 +163,13 @@ _**Khoa học Kỹ thuật và Công nghệ**_
 đã được kết nối với nhau bởi chất kết dính PVA-GA. Ảnh SEM cũng cho thấy điện cực composite chế tạo được có bề mặt xốp, nó hứa hẹn sẽ làm tăng khả năng hấp phụ của điện cực. 
 
 
-![](Anh huong cua phu gia dan dien graphite den kha_images/image-0004-02.png)
+![](_images/Anh huong cua phu gia dan dien graphite den kha_images/image-0004-02.png)
 
 
 **Hình 4. Phổ FT-IR của ba mẫu điện cực với thành phần graphite 1, 5 và 10%.** 
 
 
-![](Anh huong cua phu gia dan dien graphite den kha_images/image-0004-04.png)
+![](_images/Anh huong cua phu gia dan dien graphite den kha_images/image-0004-04.png)
 
 
 **----- Start of picture text -----**<br>
@@ -183,7 +183,7 @@ _**Khoa học Kỹ thuật và Công nghệ**_
 Trong quá trình điện hấp phụ muối trên bề mặt điện cực, giá trị điện dung riêng là một thông số quan trọng để đánh giá khả năng tạo lớp điện tích kép trên bề mặt điện cực. Giá trị điện dung riêng của các hệ điện cực được đánh giá thông qua phương pháp quét thế vòng tuần hoàn trong dung dịch điện ly NaCl 2000 ppm. Đường cong CV của các mẫu điện cực (hình 6) cho thấy quá trình điện hấp phụ diễn ra theo cơ chế điện dung, nghĩa là các ion di chuyển đến bề mặt điện cực trái dấu, hấp phụ lên bề mặt điện cực và tích điện mà không có quá trình trao đổi điện tử. Kết quả này phù hợp với các nghiên cứu trước đây về khả năng hấp phụ của vật liệu than hoạt tính. Ngoài ra, cấu trúc graphite là dạng lớp với khoảng cách các lớp lớn, các ion có khả năng đan xen vào giữa các lớp của graphite trong quá trình điện hấp phụ. Tuy nhiên, quan sát trên đường cong CV, chúng tôi nhận thấy việc bổ sung graphite không làm ảnh hưởng đến tính chất điện hấp phụ theo cơ chế điện dung của AC. 
 
 
-![](Anh huong cua phu gia dan dien graphite den kha_images/image-0004-08.png)
+![](_images/Anh huong cua phu gia dan dien graphite den kha_images/image-0004-08.png)
 
 
 **----- Start of picture text -----**<br>
@@ -197,7 +197,7 @@ Kết quả điện dung riêng của các hệ điện cực tính từ đườ
 **Bảng 2. Giá trị điện dung riêng của các hệ điện cực khảo sát.** 
 
 
-![](Anh huong cua phu gia dan dien graphite den kha_images/image-0004-12.png)
+![](_images/Anh huong cua phu gia dan dien graphite den kha_images/image-0004-12.png)
 
 
 **----- Start of picture text -----**<br>
@@ -207,7 +207,7 @@ Mẫu Điện dung riêng trung bình (F/g)<br>100% AC-HNO3 19,9<br>1% graphite 
 Ngoài giá trị điện dung riêng, giá trị độ hấp phụ muối là thông số quan trọng để đánh giá hiệu quả hấp phụ muối của các hệ điện cực. Các hệ điện cực được nghiên cứu khả năng điện hấp phụ - giải hấp ion trong dung dịch điện ly NaCl 2000 ppm trong điều kiện áp thế liên tục 1,2 V với thời gian 900 giây (quá trình điện hấp phụ ion lên bề mặt điện cực), sau đó đảo chiều với điện thế 0 V trong 900 giây (quá trình giải hấp ion ra khỏi bề mặt điện cực). Hình 7 là đồ thị điện hấp phụ - giải hấp ion của điện cực 1% graphite. Khi điện cực được áp thế 1,2 V, các ion Na[+] và Cl[-] di chuyển về các điện cực tích điện trái dấu và hấp phụ tại bề mặt điện cực. Quá trình hấp phụ diễn ra đi kèm với sự sụt giảm của cường độ dòng điện (quá trình tích điện). Khi cường độ dòng điện tiệm cận 0 chứng tỏ quá trình điện hấp phụ diễn ra bão hòa. Sau đó, tiến hành đảo thế tại điện thế 0 V, các ion tích điện trên bề mặt điện cực sẽ được giải phóng đi kèm với quá trình phóng điện. Khi quá trình phóng điện đạt giá trị tiệm cận 0 chứng tỏ các ion đã được giải hấp hoàn toàn khỏi bề mặt điện cực. 
 
 
-![](Anh huong cua phu gia dan dien graphite den kha_images/image-0004-14.png)
+![](_images/Anh huong cua phu gia dan dien graphite den kha_images/image-0004-14.png)
 
 
 **Hình 7. Đồ thị điện hấp phụ - giải hấp của điên cực 1% graphite.** 
@@ -223,13 +223,13 @@ _**Khoa học Kỹ thuật và Công nghệ**_
 và 10% có sự suy giảm điện thế chậm hơn so với điện cực chứa 1% graphite. Kết quả này phù hợp với các giá trị điện dung riêng tính từ đường cong CV, cho thấy khả năng tích điện cao của điện cực có phụ gia graphite. Sau 400 giây, các điện cực đạt giá trị cường độ dòng tiệm cận 0 (dưới 0,5 mA), cho thấy quá trình hấp phụ đạt gần giá trị bão hòa. Đồng thời, hiệu suất Coulomb của quá trình hấp phụ - giải hấp của ion trên bề mặt điện cực được xác định dựa trên tỷ số của điện lượng tích điện và phóng điện của điện cực. Cả ba điện cực đều có giá trị hiệu suất Coulomb đạt giá trị gần 100%, cho thấy các quá trình hấp phụ - giải hấp của ion diễn ra thuận nghịch hoàn toàn. 
 
 
-![](Anh huong cua phu gia dan dien graphite den kha_images/image-0005-02.png)
+![](_images/Anh huong cua phu gia dan dien graphite den kha_images/image-0005-02.png)
 
 
 **Hình 8. Đồ thị so sánh quá trình điện hấp phụ các hệ điện cực trong dung dịch điện ly NaCl 2000 ppm tại thế áp đặt 1,2 V.** 
 
 
-![](Anh huong cua phu gia dan dien graphite den kha_images/image-0005-04.png)
+![](_images/Anh huong cua phu gia dan dien graphite den kha_images/image-0005-04.png)
 
 
 **Hình 9. Độ hấp phụ muối (mg/g) của các điện cực composite ACgraphite.** 

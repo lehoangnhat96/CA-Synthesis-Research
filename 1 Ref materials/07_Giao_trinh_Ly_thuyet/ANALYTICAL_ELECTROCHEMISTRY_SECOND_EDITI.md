@@ -2,7 +2,7 @@
 
 
 
-![Ảnh 1](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-1-img-1.jpeg)
+![Ảnh 1](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-1-img-1.jpeg)
 
 ## Page 2
 
@@ -11,14 +11,14 @@ ELECTROCHEMISTRY
 SECOND EDITION
 
 
-![Ảnh 2](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-2-img-1.png)
+![Ảnh 2](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-2-img-1.png)
 
 ## Page 3
 
 This page intentionally left blank
 
 
-![Ảnh 3](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-3-img-1.png)
+![Ảnh 3](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-3-img-1.png)
 
 ## Page 4
 
@@ -30,7 +30,7 @@ WILEY-VCH
 A JOHN WILEY & SONS, INC., PUBLICATION
 
 
-![Ảnh 4](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-4-img-1.png)
+![Ảnh 4](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-4-img-1.png)
 
 ## Page 5
 
@@ -60,21 +60,21 @@ Printed in the United States of America.
 10 9 8 7 6 5 4 3
 
 
-![Ảnh 5](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-5-img-1.png)
+![Ảnh 5](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-5-img-1.png)
 
 ## Page 6
 
 Dedicated to the memory of my parents, Elka and Moshe Wang
 
 
-![Ảnh 6](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-6-img-1.png)
+![Ảnh 6](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-6-img-1.png)
 
 ## Page 7
 
 This page intentionally left blank
 
 
-![Ảnh 7](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-7-img-1.png)
+![Ảnh 7](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-7-img-1.png)
 
 ## Page 8
 
@@ -107,7 +107,7 @@ Questions / 26
 vii
 
 
-![Ảnh 8](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-8-img-1.png)
+![Ảnh 8](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-8-img-1.png)
 
 ## Page 9
 
@@ -170,7 +170,7 @@ Cell Design / 88
 3-6.4 Detection Modes / 92
 
 
-![Ảnh 9](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-9-img-1.png)
+![Ảnh 9](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-9-img-1.png)
 
 ## Page 10
 
@@ -233,7 +233,7 @@ Questions / 138
 5-2.1.1 pH Electrodes / 147
 
 
-![Ảnh 10](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-10-img-1.png)
+![Ảnh 10](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-10-img-1.png)
 
 ## Page 11
 
@@ -290,7 +290,7 @@ INDEX
 205
 
 
-![Ảnh 11](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-11-img-1.png)
+![Ảnh 11](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-11-img-1.png)
 
 ## Page 12
 
@@ -322,7 +322,7 @@ common gap between recent research literature and standard textbooks.
 XI
 
 
-![Ảnh 12](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-12-img-1.png)
+![Ảnh 12](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-12-img-1.png)
 
 ## Page 13
 
@@ -351,7 +351,7 @@ Joseph Wang
 Las Cruces, New Mexico, U.S.A.
 
 
-![Ảnh 13](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-13-img-1.png)
+![Ảnh 13](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-13-img-1.png)
 
 ## Page 14
 
@@ -401,7 +401,7 @@ Deoxyribonucleic acid
 xiii
 
 
-![Ảnh 14](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-14-img-1.png)
+![Ảnh 14](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-14-img-1.png)
 
 ## Page 15
 
@@ -476,7 +476,7 @@ Standard rate constant
 Michaelis-Menten constant; mass transport coefficient
 
 
-![Ảnh 15](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-15-img-1.png)
+![Ảnh 15](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-15-img-1.png)
 
 ## Page 16
 
@@ -556,7 +556,7 @@ U
 Flow rate, stirring rate
 
 
-![Ảnh 16](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-16-img-1.png)
+![Ảnh 16](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-16-img-1.png)
 
 ## Page 17
 
@@ -598,7 +598,7 @@ co
 Angular velocity
 
 
-![Ảnh 17](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-17-img-1.png)
+![Ảnh 17](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-17-img-1.png)
 
 ## Page 18
 
@@ -607,14 +607,14 @@ ELECTROCHEMISTRY
 SECOND EDITION
 
 
-![Ảnh 18](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-18-img-1.png)
+![Ảnh 18](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-18-img-1.png)
 
 ## Page 19
 
 This page intentionally left blank
 
 
-![Ảnh 19](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-19-img-1.png)
+![Ảnh 19](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-19-img-1.png)
 
 ## Page 20
 
@@ -645,7 +645,7 @@ constitute the electrochemical cell. The electrode surface is thus a junction be
 an ionic conductor and an electronic conductor. One of the two electrodes responds
 
 
-![Ảnh 20](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-20-img-1.png)
+![Ảnh 20](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-20-img-1.png)
 
 ## Page 21
 
@@ -754,7 +754,7 @@ current.
 electrode.
 
 
-![Ảnh 21](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-21-img-1.png)
+![Ảnh 21](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-21-img-1.png)
 
 ## Page 22
 
@@ -799,7 +799,7 @@ and the forward reaction (i.e., reduction) is more favorable. The current result
 from a change in oxidation state of the electroactive species is termed the faradaic
 
 
-![Ảnh 22](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-22-img-1.png)
+![Ảnh 22](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-22-img-1.png)
 
 ## Page 23
 
@@ -850,7 +850,7 @@ number).
 These modes of mass transport are illustrated in Figure 1-1.
 
 
-![Ảnh 23](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-23-img-1.png)
+![Ảnh 23](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-23-img-1.png)
 
 ## Page 24
 
@@ -887,7 +887,7 @@ i= -nFAJ
 (1-4)
 
 
-![Ảnh 24](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-24-img-1.png)
+![Ảnh 24](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-24-img-1.png)
 
 ## Page 25
 
@@ -939,7 +939,7 @@ application of a (Laplace transformation) mathematical method. The Laplace
 transformation is of great value for such applications, as it enables the conversion
 
 
-![Ảnh 25](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-25-img-1.png)
+![Ảnh 25](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-25-img-1.png)
 
 ## Page 26
 
@@ -975,7 +975,7 @@ FIGURE 1-2 Concentration profiles for different times t after the start of a pot
 experiment.
 
 
-![Ảnh 26](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-26-img-1.png)
+![Ảnh 26](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-26-img-1.png)
 
 ## Page 27
 
@@ -1026,7 +1026,7 @@ increase in the diffusion layer thickness, which dominates the change in the slo
 after Co(0, t) approaches zero. The net result is a peak-shaped voltammogram. Such
 
 
-![Ảnh 27](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-27-img-1.png)
+![Ảnh 27](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-27-img-1.png)
 
 ## Page 28
 
@@ -1050,10 +1050,10 @@ right, along with the points corresponding to each concentration gradient. (Repr
 permission from reference 1.)
 
 
-![Ảnh 28](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-28-img-1.png)
+![Ảnh 28](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-28-img-1.png)
 
 
-![Ảnh 29](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-28-img-2.jpeg)
+![Ảnh 29](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-28-img-2.jpeg)
 
 ## Page 29
 
@@ -1109,7 +1109,7 @@ These methods may simultaneously minimize surface fouling effects, as desired fo
 retaining surface reactivity.
 
 
-![Ảnh 30](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-29-img-1.png)
+![Ảnh 30](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-29-img-1.png)
 
 ## Page 30
 
@@ -1128,7 +1128,7 @@ FIGURE 1-6 The hydrodynamic boundary (Prandtl) layer. Also shown (as dotted line
 the diffusion layer.
 
 
-![Ảnh 31](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-30-img-1.png)
+![Ảnh 31](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-30-img-1.png)
 
 ## Page 31
 
@@ -1171,7 +1171,7 @@ ib=nFAVb
 (1-22)
 
 
-![Ảnh 32](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-31-img-1.png)
+![Ảnh 32](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-31-img-1.png)
 
 ## Page 32
 
@@ -1205,7 +1205,7 @@ transfer is rate limiting, Co = CR, and a = 0.5. The dotted lines show the catho
 anodic (za) components.
 
 
-![Ảnh 33](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-32-img-1.png)
+![Ảnh 33](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-32-img-1.png)
 
 ## Page 33
 
@@ -1253,7 +1253,7 @@ infinite value due to restrictions from the rate at which the reactant reaches t
 surface. (Recall that the rate-determining step depends upon the potential region.)
 
 
-![Ảnh 34](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-33-img-1.png)
+![Ảnh 34](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-33-img-1.png)
 
 ## Page 34
 
@@ -1293,7 +1293,7 @@ where Q is the equilibrium ratio function (i.e., ratio of the equilibrium concen
 tions).
 
 
-![Ảnh 35](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-34-img-1.png)
+![Ảnh 35](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-34-img-1.png)
 
 ## Page 35
 
@@ -1318,7 +1318,7 @@ FIGURE 1-9 Free energy curve for a redox process at a potential more positive th
 equilibrium value.
 
 
-![Ảnh 36](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-35-img-1.png)
+![Ảnh 36](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-35-img-1.png)
 
 ## Page 36
 
@@ -1351,7 +1351,7 @@ Effect of a change in the applied potential on the free energies of activation
 for reduction and oxidation.
 
 
-![Ảnh 37](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-36-img-1.png)
+![Ảnh 37](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-36-img-1.png)
 
 ## Page 37
 
@@ -1394,7 +1394,7 @@ electrode (qe). A positively charged electrode thus attracts a layer of negative
 charge of the ions in the nearby solution). Accordingly, such a counterlayer is made
 
 
-![Ảnh 38](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-37-img-1.png)
+![Ảnh 38](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-37-img-1.png)
 
 ## Page 38
 
@@ -1433,7 +1433,7 @@ The total charge of the compact and diffuse layers equals (and is opposite in si
 the net charge on the electrode side. The potential-distance profile across the double-
 
 
-![Ảnh 39](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-38-img-1.png)
+![Ảnh 39](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-38-img-1.png)
 
 ## Page 39
 
@@ -1472,7 +1472,7 @@ plane
 FIGURE 1-12 Variation of the potential across the electrical double layer.
 
 
-![Ảnh 40](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-39-img-1.png)
+![Ảnh 40](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-39-img-1.png)
 
 ## Page 40
 
@@ -1526,7 +1526,7 @@ applied to a series RC circuit:
 (1.49)
 
 
-![Ảnh 41](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-40-img-1.png)
+![Ảnh 41](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-40-img-1.png)
 
 ## Page 41
 
@@ -1580,7 +1580,7 @@ Electrocapillarity is the study of the interfacial tension as a function of the 
 potential. Such a study can provide useful insight into the structure and properties of
 
 
-![Ảnh 42](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-41-img-1.png)
+![Ảnh 42](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-41-img-1.png)
 
 ## Page 42
 
@@ -1619,7 +1619,7 @@ E-Epzc(V)
 FIGURE 1-14 Electrocapillary curve (surface tension y vs. potential).
 
 
-![Ảnh 43](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-42-img-1.png)
+![Ảnh 43](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-42-img-1.png)
 
 ## Page 43
 
@@ -1660,7 +1660,7 @@ FIGURE 1-16 Electrocapillary curves of background (•), ethynylestradiol (•),
 (A) and morgestrel (^). (Reproduced with permission from reference 12.)
 
 
-![Ảnh 44](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-43-img-1.png)
+![Ảnh 44](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-43-img-1.png)
 
 ## Page 44
 
@@ -1706,7 +1706,7 @@ A.M. Bond, Modern Polarographic Methods in Analytical Chemistry, Dekker, New Yor
 1980.
 
 
-![Ảnh 45](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-44-img-1.png)
+![Ảnh 45](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-44-img-1.png)
 
 ## Page 45
 
@@ -1750,7 +1750,7 @@ Figure 1-4).
 2. Describe and draw clearly the structure of the electrical double layer (with its
 
 
-![Ảnh 46](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-45-img-1.png)
+![Ảnh 46](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-45-img-1.png)
 
 ## Page 46
 
@@ -1779,7 +1779,7 @@ absolute value is r'0). Suggest an experimental route for estimating the value o
 potential shift) is used for increasing the activation energy barrier.
 
 
-![Ảnh 47](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-46-img-1.png)
+![Ảnh 47](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-46-img-1.png)
 
 ## Page 47
 
@@ -1811,7 +1811,7 @@ process takes place (at least 90/« mV beyond the peak), the direction of the po
 28
 
 
-![Ảnh 48](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-47-img-1.png)
+![Ảnh 48](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-47-img-1.png)
 
 ## Page 48
 
@@ -1850,7 +1850,7 @@ Typical cyclic voltammogram for a reversible O + ne~
 R redox process.
 
 
-![Ảnh 49](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-48-img-1.png)
+![Ảnh 49](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-48-img-1.png)
 
 ## Page 49
 
@@ -1878,7 +1878,7 @@ for the diagnostics developed by Nicholson and Shain (1) for analyzing the cycli
 voltammetric response.
 
 
-![Ảnh 50](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-49-img-1.png)
+![Ảnh 50](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-49-img-1.png)
 
 ## Page 50
 
@@ -1925,7 +1925,7 @@ greatest chemical interest and for which the diagnostic power of cyclic voltamme
 is most useful. Such information is usually obtained by comparing the experimental
 
 
-![Ảnh 51](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-50-img-1.png)
+![Ảnh 51](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-50-img-1.png)
 
 ## Page 51
 
@@ -1963,7 +1963,7 @@ and the half-peak potential (at 25°C) will differ by 48/anmV Hence, the voltam-
 mogram becomes more drawn-out as an decreases.
 
 
-![Ảnh 52](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-51-img-1.png)
+![Ảnh 52](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-51-img-1.png)
 
 ## Page 52
 
@@ -2003,7 +2003,7 @@ reaction pathways and for providing reliable chemical information about reactive
 intermediates.
 
 
-![Ảnh 53](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-52-img-1.png)
+![Ảnh 53](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-52-img-1.png)
 
 ## Page 53
 
@@ -2043,7 +2043,7 @@ irreversible step for various ratios of chemical rate constant to scan rate, k/a
 a — nFv/RT. (Reproduced with permission from reference 1.)
 
 
-![Ảnh 54](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-53-img-1.png)
+![Ảnh 54](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-53-img-1.png)
 
 ## Page 54
 
@@ -2094,7 +2094,7 @@ ving coupled chemical reactions. Powerful cyclic voltammetric computational
 simulators, exploring the behavior of virtually any user-specific mechanism, have
 
 
-![Ảnh 55](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-54-img-1.png)
+![Ảnh 55](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-54-img-1.png)
 
 ## Page 55
 
@@ -2133,7 +2133,7 @@ Cyclic voltammetry can also be used for evaluating the interfacial behavior of
 electroactive compounds. Both the reactant and the product can be involved in an
 
 
-![Ảnh 56](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-55-img-1.png)
+![Ảnh 56](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-55-img-1.png)
 
 ## Page 56
 
@@ -2178,10 +2178,10 @@ Repetitive cyclic voltammograms for 1 x 10~6 M riboflavin in a 1 mM sodium
 hydroxide solution. (Reproduced with permission from reference 10.)
 
 
-![Ảnh 57](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-56-img-1.png)
+![Ảnh 57](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-56-img-1.png)
 
 
-![Ảnh 58](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-56-img-2.jpeg)
+![Ảnh 58](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-56-img-2.jpeg)
 
 ## Page 57
 
@@ -2217,7 +2217,7 @@ Equations have been derived for less ideal situations, involving quasi-reversibl
 irreversible adsorbing electroactive molecules and different strengths of adsorption
 
 
-![Ảnh 59](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-57-img-1.png)
+![Ảnh 59](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-57-img-1.png)
 
 ## Page 58
 
@@ -2252,10 +2252,10 @@ establishment of the proper baseline. For neighboring peaks (of a mixture), the
 baseline for the second peak is obtained by extrapolating the current decay of the
 
 
-![Ảnh 60](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-58-img-1.png)
+![Ảnh 60](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-58-img-1.png)
 
 
-![Ảnh 61](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-58-img-2.jpeg)
+![Ảnh 61](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-58-img-2.jpeg)
 
 ## Page 59
 
@@ -2307,7 +2307,7 @@ Optically transparent electrodes (OTEs), which enable light to be passed through
 their surface and the adjacent solution, are the keys for performing transmission
 
 
-![Ảnh 62](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-59-img-1.png)
+![Ảnh 62](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-59-img-1.png)
 
 ## Page 60
 
@@ -2349,7 +2349,7 @@ absorbance response (A-t curve) during the electrochemical generation (or consum
 tion) of an optically active species can yield extremely useful insights on reaction
 
 
-![Ảnh 63](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-60-img-1.png)
+![Ảnh 63](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-60-img-1.png)
 
 ## Page 61
 
@@ -2400,7 +2400,7 @@ contributions and holds considerable promise for mechanism diagnosis and kinetic
 characterization of coupled chemical reactions.
 
 
-![Ảnh 64](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-61-img-1.png)
+![Ảnh 64](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-61-img-1.png)
 
 ## Page 62
 
@@ -2429,7 +2429,7 @@ transparent electrode, using scan rates of (A) 25, (B) 50, (C) 97.2 and (D) 265 
 (Reproduced with permission from reference 28.)
 
 
-![Ảnh 65](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-62-img-1.png)
+![Ảnh 65](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-62-img-1.png)
 
 ## Page 63
 
@@ -2481,7 +2481,7 @@ relying on the linear dependence of the ECL intensity and the reactant concentra
 have also been realized (39).
 
 
-![Ảnh 66](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-63-img-1.png)
+![Ảnh 66](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-63-img-1.png)
 
 ## Page 64
 
@@ -2534,7 +2534,7 @@ during vacuum exposure. Uncertainties associated with potential loss of material
 during such exposure have led to renewed emphasis on direct (in-situ) probes.
 
 
-![Ảnh 67](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-64-img-1.png)
+![Ảnh 67](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-64-img-1.png)
 
 ## Page 65
 
@@ -2583,7 +2583,7 @@ spontaneously adsorbed alkanethiol monolayer on a gold surface. Useful insights
 into the structural-preparation relationships of conducting polymers can also be
 
 
-![Ảnh 68](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-65-img-1.png)
+![Ảnh 68](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-65-img-1.png)
 
 ## Page 66
 
@@ -2613,10 +2613,10 @@ Atomic force microscopy (AFM) has become a standard technique for high-
 resolution imaging of the topography of surfaces. It enables one to see nanoscopic
 
 
-![Ảnh 69](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-66-img-1.png)
+![Ảnh 69](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-66-img-1.png)
 
 
-![Ảnh 70](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-66-img-2.jpeg)
+![Ảnh 70](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-66-img-2.jpeg)
 
 ## Page 67
 
@@ -2628,10 +2628,10 @@ an ethanethiolate monolayer on a gold film, (c) Contours of the image along the 
 in (b). (Reproduced with permission from reference 47.)
 
 
-![Ảnh 71](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-67-img-1.png)
+![Ảnh 71](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-67-img-1.png)
 
 
-![Ảnh 72](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-67-img-2.jpeg)
+![Ảnh 72](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-67-img-2.jpeg)
 
 ## Page 68
 
@@ -2676,7 +2676,7 @@ diffusion to the tip is hindered, and the feedback current diminishes (c). For e
 Figure 2-18 displays a two-dimensional scan of a gold minigrid surface. The
 
 
-![Ảnh 73](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-68-img-1.png)
+![Ảnh 73](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-68-img-1.png)
 
 ## Page 69
 
@@ -2706,7 +2706,7 @@ consumption of electroactive species, for example, the product of an enzymatic
 surface reaction. The utility of potentiometric (pH-selective) tips has also been
 
 
-![Ảnh 74](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-69-img-1.png)
+![Ảnh 74](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-69-img-1.png)
 
 ## Page 70
 
@@ -2736,10 +2736,10 @@ acting as an electrochemical "pen" or "eraser." Various electrochemical processe
 (e.g., electroplating, etching) can thus be carried out at high resolution while moving
 
 
-![Ảnh 75](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-70-img-1.png)
+![Ảnh 75](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-70-img-1.png)
 
 
-![Ảnh 76](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-70-img-2.jpeg)
+![Ảnh 76](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-70-img-2.jpeg)
 
 ## Page 71
 
@@ -2767,7 +2767,7 @@ based on a quartz crystal wafer, which is sandwiched between two electrodes, use
 to induce an electric field (Figure 2-20). The field produces a mechanical oscillation
 
 
-![Ảnh 77](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-71-img-1.png)
+![Ảnh 77](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-71-img-1.png)
 
 ## Page 72
 
@@ -2805,7 +2805,7 @@ Sauerbrey equation to the study of polymeric films in solutions requires adheren
 the rigid film approximation (i.e., behavior of an elastic, solvent-free thin layer).
 
 
-![Ảnh 78](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-72-img-1.png)
+![Ảnh 78](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-72-img-1.png)
 
 ## Page 73
 
@@ -2841,7 +2841,7 @@ REFERENCES
 3. C.P. Andrieux, P. Hapiot, and J.M. Saveant, Electroanalysis, 2, 183 (1990).
 
 
-![Ảnh 79](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-73-img-1.png)
+![Ảnh 79](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-73-img-1.png)
 
 ## Page 74
 
@@ -2892,7 +2892,7 @@ tical Chemistry, Vol. 10, Marcel Dekker, New York, 1977.
 40. D. Jeanmarie and R. Van Duyne, J. Electroanal. Chem., 84, 1 (1977).
 
 
-![Ảnh 80](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-74-img-1.png)
+![Ảnh 80](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-74-img-1.png)
 
 ## Page 75
 
@@ -2940,7 +2940,7 @@ Example 2-1 The reversible oxidation of dopamine (DA) is a two-electron
 process. A cyclic voltammetric anodic peak current of 2.2 uA is observed for a
 
 
-![Ảnh 81](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-75-img-1.png)
+![Ảnh 81](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-75-img-1.png)
 
 ## Page 76
 
@@ -2979,7 +2979,7 @@ the frequency change associated with the deposition of 4 ng polyphenol onto a
 0.5cm2 crystal (/0 = 8 MHz).
 
 
-![Ảnh 82](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-76-img-1.png)
+![Ảnh 82](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-76-img-1.png)
 
 ## Page 77
 
@@ -3022,7 +3022,7 @@ current of 20.2 uA at 250 mV s"1.
 activity of composite electrode materials.
 
 
-![Ảnh 83](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-77-img-1.png)
+![Ảnh 83](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-77-img-1.png)
 
 ## Page 78
 
@@ -3046,7 +3046,7 @@ peroxide in the presence of its substrate and oxygen.)
 process followed by a chemical reaction?
 
 
-![Ảnh 84](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-78-img-1.png)
+![Ảnh 84](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-78-img-1.png)
 
 ## Page 79
 
@@ -3076,7 +3076,7 @@ behavior occur at long times (usually over 100 s) as a result of natural convect
 60
 
 
-![Ảnh 85](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-79-img-1.png)
+![Ảnh 85](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-79-img-1.png)
 
 ## Page 80
 
@@ -3114,7 +3114,7 @@ The potential-step experiment can also be used to record the charge versus time
 dependence. This is accomplished by integrating the current resulting from the
 
 
-![Ảnh 86](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-80-img-1.png)
+![Ảnh 86](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-80-img-1.png)
 
 ## Page 81
 
@@ -3164,7 +3164,7 @@ Here, id will have units of amperes (A) when D is in cm2 s , m is in g s , Ms in
 seconds and C is in mol cnT3. This expression represents the current at the end of
 
 
-![Ảnh 87](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-81-img-1.png)
+![Ảnh 87](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-81-img-1.png)
 
 ## Page 82
 
@@ -3221,7 +3221,7 @@ Therefore, by measuring the half-wave potential, one can identify the species
 responsible for an unknown polarographic wave. Typical half-wave potentials for
 
 
-![Ảnh 88](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-82-img-1.png)
+![Ảnh 88](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-82-img-1.png)
 
 ## Page 83
 
@@ -3283,7 +3283,7 @@ omitted for simplicity.) The difference between the half-wave potential for the
 complexed and uncomplexed metal ion is given by (2): 
 
 
-![Ảnh 89](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-83-img-1.png)
+![Ảnh 89](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-83-img-1.png)
 
 ## Page 84
 
@@ -3331,7 +3331,7 @@ species of interest is composed of contributions due to double-layer charging pr
 and redox reactions of impurities, as well as of the solvent, electrolyte, or electrode.
 
 
-![Ảnh 90](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-84-img-1.png)
+![Ảnh 90](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-84-img-1.png)
 
 ## Page 85
 
@@ -3376,7 +3376,7 @@ FIGURE 3-3 Variation of the charging (curve A) and diffusion currents (curves B)
 the lifetime of a drop.
 
 
-![Ảnh 91](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-85-img-1.png)
+![Ảnh 91](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-85-img-1.png)
 
 ## Page 86
 
@@ -3424,7 +3424,7 @@ charging current is nearly zero. In addition, because of the short pulse duratio
 diffusion layer is thinner than that in DC polarography (i.e., there is larger flux of
 
 
-![Ảnh 92](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-86-img-1.png)
+![Ảnh 92](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-86-img-1.png)
 
 ## Page 87
 
@@ -3463,7 +3463,7 @@ magnitude pulses—superimposed on a linear potential ramp—are applied to the
 working electrode at a time just before the end of the drop (Figure 3-5). The current
 
 
-![Ảnh 93](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-87-img-1.png)
+![Ảnh 93](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-87-img-1.png)
 
 ## Page 88
 
@@ -3507,7 +3507,7 @@ FIGURE 3-5
 Excitation signal for differential-pulse voltammetry.
 
 
-![Ảnh 94](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-88-img-1.png)
+![Ảnh 94](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-88-img-1.png)
 
 ## Page 89
 
@@ -3528,7 +3528,7 @@ Differential pulse (a) and DC (b) polarograms for a 1.3 x 1(T5 M chloram-
 phenicol solution. (Reproduced with permission from reference 7.)
 
 
-![Ảnh 95](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-89-img-1.png)
+![Ảnh 95](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-89-img-1.png)
 
 ## Page 90
 
@@ -3560,7 +3560,7 @@ about the chemical form in which the analyte appears (oxidation states, complexa
 tion, etc.).
 
 
-![Ảnh 96](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-90-img-1.png)
+![Ảnh 96](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-90-img-1.png)
 
 ## Page 91
 
@@ -3598,7 +3598,7 @@ wave period, T; delay time, Td; and current measurement times, 1 and 2. (Reprodu
 permission from reference 9.)
 
 
-![Ảnh 97](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-91-img-1.png)
+![Ảnh 97](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-91-img-1.png)
 
 ## Page 92
 
@@ -3632,7 +3632,7 @@ speed of square-wave voltammetry can greatly increase sample throughputs in batc
 detection for liquid chromatography and capillary electrophoresis can be used to
 
 
-![Ảnh 98](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-92-img-1.png)
+![Ảnh 98](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-92-img-1.png)
 
 ## Page 93
 
@@ -3671,7 +3671,7 @@ potential of which is the same as the polarographic half-wave potential. (In thi
 region the sinusoid has maximum impact on the surface concentration, i.e., on the
 
 
-![Ảnh 99](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-93-img-1.png)
+![Ảnh 99](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-93-img-1.png)
 
 ## Page 94
 
@@ -3710,7 +3710,7 @@ ments. Hence, four to six metals can be measured simultaneously in various
 matrices at concentration levels down to 10~10M, utilizing relatively inexpensive
 
 
-![Ảnh 100](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-94-img-1.png)
+![Ảnh 100](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-94-img-1.png)
 
 ## Page 95
 
@@ -3758,7 +3758,7 @@ current (usually square-wave or differential-pulse ramps). Such pulse excitation
 offer reduced oxygen interferences and analyte replating, respectively. During this
 
 
-![Ảnh 101](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-95-img-1.png)
+![Ảnh 101](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-95-img-1.png)
 
 ## Page 96
 
@@ -3796,7 +3796,7 @@ FIGURE 3-12 Anodic stripping voltammetry: the potential-time waveform (a), along
 the resulting voltammogram (b).
 
 
-![Ảnh 102](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-96-img-1.png)
+![Ảnh 102](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-96-img-1.png)
 
 ## Page 97
 
@@ -3825,7 +3825,7 @@ mercury film (A) and hanging mercury drop (B) electrodes. (Reproduced with permi
 from reference 21.)
 
 
-![Ảnh 103](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-97-img-1.png)
+![Ảnh 103](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-97-img-1.png)
 
 ## Page 98
 
@@ -3874,7 +3874,7 @@ where Cox is the concentration of the oxidant. Hence, the signal may be increase
 by decreasing the oxidant concentration. The qualitative identification relies on
 
 
-![Ảnh 104](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-98-img-1.png)
+![Ảnh 104](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-98-img-1.png)
 
 ## Page 99
 
@@ -3928,7 +3928,7 @@ Adsorptive stripping analysis greatly enhances the scope of stripping measuremen
 toward numerous trace elements (23,24). This relatively new strategy involves the
 
 
-![Ảnh 105](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-99-img-1.png)
+![Ảnh 105](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-99-img-1.png)
 
 ## Page 100
 
@@ -3976,7 +3976,7 @@ Accumulation and stripping steps in adsorptive stripping measurements of a
 metal ion (M"+) in the presence of an appropriate chelating agent (L).
 
 
-![Ảnh 106](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-100-img-1.png)
+![Ảnh 106](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-100-img-1.png)
 
 ## Page 101
 
@@ -4084,7 +4084,7 @@ inorganic compounds capable of forming insoluble salts with mercury. Among these
 are various thiols or penicillins, as well as halide ions, cyanide, and sulfide. Highly
 
 
-![Ảnh 107](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-101-img-1.png)
+![Ảnh 107](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-101-img-1.png)
 
 ## Page 102
 
@@ -4118,7 +4118,7 @@ X" = cr,Br
 Copper-based electrodes can also be employed for the same task.
 
 
-![Ảnh 108](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-102-img-1.png)
+![Ảnh 108](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-102-img-1.png)
 
 ## Page 103
 
@@ -4149,7 +4149,7 @@ An electrochemical detector uses the electrochemical properties of target analyt
 their determination in a flowing stream. While parameters such as current, potential,
 
 
-![Ảnh 109](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-103-img-1.png)
+![Ảnh 109](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-103-img-1.png)
 
 ## Page 104
 
@@ -4265,10 +4265,10 @@ Reference
 54
 
 
-![Ảnh 110](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-104-img-1.png)
+![Ảnh 110](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-104-img-1.png)
 
 
-![Ảnh 111](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-104-img-2.jpeg)
+![Ảnh 111](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-104-img-2.jpeg)
 
 ## Page 105
 
@@ -4306,7 +4306,7 @@ and on-line microdialysis). Such coupling with advanced separation steps allows
 electroanalysis to address highly complex samples.
 
 
-![Ảnh 112](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-105-img-1.png)
+![Ảnh 112](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-105-img-1.png)
 
 ## Page 106
 
@@ -4353,7 +4353,7 @@ ethanol at an enzyme carbon-paste electrode. Peaks a through h: 2 x 10~5 M to 1.
 ethanol.
 
 
-![Ảnh 113](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-106-img-1.png)
+![Ảnh 113](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-106-img-1.png)
 
 ## Page 107
 
@@ -4396,7 +4396,7 @@ Common detector configurations: (a) thin-layer (channel) and (b) wall-jet
 flow cells. WE = working electrode.
 
 
-![Ảnh 114](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-107-img-1.png)
+![Ảnh 114](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-107-img-1.png)
 
 ## Page 108
 
@@ -4444,7 +4444,7 @@ electrode; WE, working electrode, AE, auxiliary electrode. (Reproduced with perm
 reference 58.)
 
 
-![Ảnh 115](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-108-img-1.png)
+![Ảnh 115](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-108-img-1.png)
 
 ## Page 109
 
@@ -4483,7 +4483,7 @@ dopamine (1), 4.1 fmol isoproterenol (2), and 2.7 fmol catechol (3). (Reproduced
 permission from reference 60.)
 
 
-![Ảnh 116](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-109-img-1.png)
+![Ảnh 116](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-109-img-1.png)
 
 ## Page 110
 
@@ -4546,7 +4546,7 @@ volume flow rate; u — velocity (cm s-1); n — number of electrons.
 Adapted from reference 62.
 
 
-![Ảnh 117](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-110-img-1.png)
+![Ảnh 117](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-110-img-1.png)
 
 ## Page 111
 
@@ -4595,7 +4595,7 @@ Triple-pulse amperometric waveform.
 120
 
 
-![Ảnh 118](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-111-img-1.png)
+![Ảnh 118](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-111-img-1.png)
 
 ## Page 112
 
@@ -4633,7 +4633,7 @@ Dual-electrode thin-layer detector configurations for operation in the series
 (a) and parallel (b) amperometric modes.
 
 
-![Ảnh 119](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-112-img-1.png)
+![Ảnh 119](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-112-img-1.png)
 
 ## Page 113
 
@@ -4671,7 +4671,7 @@ REFERENCES
 10. S. Borman, Anal. Chem., 54, 698A (1982).
 
 
-![Ảnh 120](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-113-img-1.png)
+![Ảnh 120](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-113-img-1.png)
 
 ## Page 114
 
@@ -4721,7 +4721,7 @@ Electroanalytical Chemistry, Vol. 16, p. 1, Marcel Dekker, New York, 1989.
 49. S.B. Adeloju, A.M. Bond and M.H. Briggs, Anal. Chim. Acta, 164, 181 (1984).
 
 
-![Ảnh 121](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-114-img-1.png)
+![Ảnh 121](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-114-img-1.png)
 
 ## Page 115
 
@@ -4763,7 +4763,7 @@ Solution
 The resulting current peaks lead to the following standards additions plot:
 
 
-![Ảnh 122](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-115-img-1.png)
+![Ảnh 122](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-115-img-1.png)
 
 ## Page 116
 
@@ -4798,7 +4798,7 @@ Cu
 E,V
 
 
-![Ảnh 123](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-116-img-1.png)
+![Ảnh 123](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-116-img-1.png)
 
 ## Page 117
 
@@ -4837,7 +4837,7 @@ for a sample containing 1 x 10~4 M uric acid and flowing at a rate of 0.9 mL min
 Calculate the original concentration of uric acid in the sample.
 
 
-![Ảnh 124](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-117-img-1.png)
+![Ảnh 124](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-117-img-1.png)
 
 ## Page 118
 
@@ -4878,7 +4878,7 @@ time-dependent change of the concentration gradient during a potential-step
 experiment.
 
 
-![Ảnh 125](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-118-img-1.png)
+![Ảnh 125](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-118-img-1.png)
 
 ## Page 119
 
@@ -4908,7 +4908,7 @@ the sample solution, the reference electrode may be insulated from the sample
 100
 
 
-![Ảnh 126](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-119-img-1.png)
+![Ảnh 126](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-119-img-1.png)
 
 ## Page 120
 
@@ -4924,10 +4924,10 @@ holes in the cell cover.
 FIGURE 4-2 A complete cell stand. (Courtesy of BAS Inc.)
 
 
-![Ảnh 127](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-120-img-1.png)
+![Ảnh 127](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-120-img-1.png)
 
 
-![Ảnh 128](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-120-img-2.jpeg)
+![Ảnh 128](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-120-img-2.jpeg)
 
 ## Page 121
 
@@ -4978,7 +4978,7 @@ decrease the resistance of the solution, to eliminate electromigration effects, 
 to maintain a constant ionic strength (i.e., "swamping out" the effect of variable
 
 
-![Ảnh 129](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-121-img-1.png)
+![Ảnh 129](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-121-img-1.png)
 
 ## Page 122
 
@@ -5027,7 +5027,7 @@ scrubbers, nitrogen-activated nebulizers, and chemical reduction (by addition of
 sodium sulfite or ascorbic acid). Alternately, it may be useful to employ voltam-
 
 
-![Ảnh 130](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-122-img-1.png)
+![Ảnh 130](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-122-img-1.png)
 
 ## Page 123
 
@@ -5088,7 +5088,7 @@ Analytical@clevelandOH. com
 www.solartron.com
 
 
-![Ảnh 131](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-123-img-1.png)
+![Ảnh 131](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-123-img-1.png)
 
 ## Page 124
 
@@ -5136,7 +5136,7 @@ amplifier
 FIGURE 4-3 Schematic diagram of a three-electrode potentiostat.
 
 
-![Ảnh 132](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-124-img-1.png)
+![Ảnh 132](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-124-img-1.png)
 
 ## Page 125
 
@@ -5174,10 +5174,10 @@ FIGURE 4-4 Microprocessor-controlled voltammetric analyzer, in connection with a
 autosampler. (Courtesy of Metrohm Inc.)
 
 
-![Ảnh 133](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-125-img-1.png)
+![Ảnh 133](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-125-img-1.png)
 
 
-![Ảnh 134](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-125-img-2.jpeg)
+![Ảnh 134](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-125-img-2.jpeg)
 
 ## Page 126
 
@@ -5253,7 +5253,7 @@ FIGURE 4-5 Accessible potential window of platinum, mercury, and carbon electrod
 various supporting electrolytes.
 
 
-![Ảnh 135](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-126-img-1.png)
+![Ảnh 135](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-126-img-1.png)
 
 ## Page 127
 
@@ -5289,10 +5289,10 @@ electrode
 FIGURE 4-6 The dropping mercury electrode.
 
 
-![Ảnh 136](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-127-img-1.png)
+![Ảnh 136](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-127-img-1.png)
 
 
-![Ảnh 137](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-127-img-2.jpeg)
+![Ảnh 137](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-127-img-2.jpeg)
 
 ## Page 128
 
@@ -5320,10 +5320,10 @@ contained in a compact unit. Such a commercial probe allows the conversion from
 FIGURE 4-7 The static mercury drop electrode and its cell stand.
 
 
-![Ảnh 138](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-128-img-1.png)
+![Ảnh 138](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-128-img-1.png)
 
 
-![Ảnh 139](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-128-img-2.jpeg)
+![Ảnh 139](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-128-img-2.jpeg)
 
 ## Page 129
 
@@ -5373,7 +5373,7 @@ activity (18). Such surface heterogeneity leads to deviations from the behavior
 expected for homogeneous surfaces.
 
 
-![Ảnh 140](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-129-img-1.png)
+![Ảnh 140](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-129-img-1.png)
 
 ## Page 130
 
@@ -5412,7 +5412,7 @@ FIGURE 4-8
 Construction of a typical disk electrode.
 
 
-![Ảnh 141](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-130-img-1.png)
+![Ảnh 141](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-130-img-1.png)
 
 ## Page 131
 
@@ -5444,7 +5444,7 @@ D
 (4-6)
 
 
-![Ảnh 142](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-131-img-1.png)
+![Ảnh 142](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-131-img-1.png)
 
 ## Page 132
 
@@ -5496,7 +5496,7 @@ transfer rates observed at carbon surfaces are often slower than those observed 
 metal electrodes. The electron-transfer reactivity is strongly affected by the origin
 
 
-![Ảnh 143](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-132-img-1.png)
+![Ảnh 143](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-132-img-1.png)
 
 ## Page 133
 
@@ -5546,7 +5546,7 @@ high surface area (~ 66 cm2 cm~3 for the 100-ppi grade), 90-97% void volume, and
 a low resistance to fluid flow.
 
 
-![Ảnh 144](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-133-img-1.png)
+![Ảnh 144](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-133-img-1.png)
 
 ## Page 134
 
@@ -5582,10 +5582,10 @@ Such materials are produced, mainly in connection with the preparation of high-
 strength composites, by high-temperature pyrolysis of polymer textiles or via
 
 
-![Ảnh 145](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-134-img-1.png)
+![Ảnh 145](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-134-img-1.png)
 
 
-![Ảnh 146](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-134-img-2.jpeg)
+![Ảnh 146](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-134-img-2.jpeg)
 
 ## Page 135
 
@@ -5614,10 +5614,10 @@ FIGURE 4-11
 Scanning electron image of a carbon-fiber electrode.
 
 
-![Ảnh 147](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-135-img-1.png)
+![Ảnh 147](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-135-img-1.png)
 
 
-![Ảnh 148](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-135-img-2.jpeg)
+![Ảnh 148](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-135-img-2.jpeg)
 
 ## Page 136
 
@@ -5657,7 +5657,7 @@ oxide formation (Q^) and reduction (Qc) as well as formation, of hydrogen (Hc) a
 oxidation (H^) are indicated. (Reproduced with permission from reference 33.)
 
 
-![Ảnh 149](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-136-img-1.png)
+![Ảnh 149](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-136-img-1.png)
 
 ## Page 137
 
@@ -5709,7 +5709,7 @@ transfer, such applications include chemical sensors and biosensors, information
 storage devices, or lithography.
 
 
-![Ảnh 150](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-137-img-1.png)
+![Ảnh 150](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-137-img-1.png)
 
 ## Page 138
 
@@ -5739,7 +5739,7 @@ disorders and defects (e.g., pinholes) often lead to degraded performance. Coas-
 sembled monolayers, formed from mixtures of alkanethiols, can offer compositional
 
 
-![Ảnh 151](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-138-img-1.png)
+![Ảnh 151](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-138-img-1.png)
 
 ## Page 139
 
@@ -5776,10 +5776,10 @@ interaction with the analyte -that diffuses into the matrix. Besides their abili
 entrap the modifier, sol-gel processes offer tunability of the physical characteristics
 
 
-![Ảnh 152](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-139-img-1.png)
+![Ảnh 152](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-139-img-1.png)
 
 
-![Ảnh 153](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-139-img-2.jpeg)
+![Ảnh 153](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-139-img-2.jpeg)
 
 ## Page 140
 
@@ -5831,7 +5831,7 @@ schemes, with the target analyte being preferentially partitioned from the dilut
 sample into the preconcentrating surface layer, and subsequently being reduced or
 
 
-![Ảnh 154](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-140-img-1.png)
+![Ảnh 154](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-140-img-1.png)
 
 ## Page 141
 
@@ -5877,7 +5877,7 @@ FIGURE 4-16
 Electrocatalytic detection of NADH.
 
 
-![Ảnh 155](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-141-img-1.png)
+![Ảnh 155](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-141-img-1.png)
 
 ## Page 142
 
@@ -5908,7 +5908,7 @@ coated flow detector rapidly responds to the small hydrogen peroxide molecule, b
 not to the larger ascorbic acid, uric acid, or cysteine species (Figure 4-18). Note also
 
 
-![Ảnh 156](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-142-img-1.png)
+![Ảnh 156](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-142-img-1.png)
 
 ## Page 143
 
@@ -5947,7 +5947,7 @@ c, uric acid (1 mM); d, L-cysteine (1 mM); and e, control human serum. (Reproduc
 permission from reference 63.)
 
 
-![Ảnh 157](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-143-img-1.png)
+![Ảnh 157](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-143-img-1.png)
 
 ## Page 144
 
@@ -5960,10 +5960,10 @@ Use of negatively charged polymeric films for excluding anionic interfer-
 ences.
 
 
-![Ảnh 158](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-144-img-1.png)
+![Ảnh 158](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-144-img-1.png)
 
 
-![Ảnh 159](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-144-img-2.jpeg)
+![Ảnh 159](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-144-img-2.jpeg)
 
 ## Page 145
 
@@ -6026,7 +6026,7 @@ Hence, conducting polymers can act as efficient molecular interfaces between
 recognition elements and electrode transducers. The unique physical and chemical
 
 
-![Ảnh 160](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-145-img-1.png)
+![Ảnh 160](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-145-img-1.png)
 
 ## Page 146
 
@@ -6126,7 +6126,7 @@ S2, 2.5 x 10~4M; S3, 5 x 10~4M) based on the doping-undoping process. (Reproduce
 with permission from reference 74.)
 
 
-![Ảnh 161](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-146-img-1.png)
+![Ảnh 161](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-146-img-1.png)
 
 ## Page 147
 
@@ -6169,7 +6169,7 @@ cell body. The microelectrode and glass capillary (containing the chemical stimu
 micromanipulated up to the cell body. (Reproduced with permission from reference 82.)
 
 
-![Ảnh 162](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-147-img-1.png)
+![Ảnh 162](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-147-img-1.png)
 
 ## Page 148
 
@@ -6220,7 +6220,7 @@ composed of the planar flux and radial flux diffusion components:
 (4-14)
 
 
-![Ảnh 163](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-148-img-1.png)
+![Ảnh 163](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-148-img-1.png)
 
 ## Page 149
 
@@ -6272,7 +6272,7 @@ carbon fibers, or thin metal films are commonly used for these preparations.
 Molecular (nanometer)-sized electrodes being developed in several laboratories
 
 
-![Ảnh 164](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-149-img-1.png)
+![Ảnh 164](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-149-img-1.png)
 
 ## Page 150
 
@@ -6331,7 +6331,7 @@ for fabricating such arrays (with various patterning), allowing precise control 
 spacing (88). Ensembles can be fabricated by mixing or pressing a powdered
 
 
-![Ảnh 165](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-150-img-1.png)
+![Ảnh 165](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-150-img-1.png)
 
 ## Page 151
 
@@ -6368,7 +6368,7 @@ The exact time scale for the change from isolated to merged diffusion layers dep
 on the spacing between the individual electrodes and their size. Larger distances and
 
 
-![Ảnh 166](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-151-img-1.png)
+![Ảnh 166](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-151-img-1.png)
 
 ## Page 152
 
@@ -6393,7 +6393,7 @@ Schematic representation of an interdigitated microarray electrode (a) and
 closely-spaced microdisk electrodes (b).
 
 
-![Ảnh 167](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-152-img-1.png)
+![Ảnh 167](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-152-img-1.png)
 
 ## Page 153
 
@@ -6427,7 +6427,7 @@ microband (solid line). The dotted line represents the current of the collector 
 a potential of —0.1 V (Reproduced with permission from reference 95.)
 
 
-![Ảnh 168](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-153-img-1.png)
+![Ảnh 168](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-153-img-1.png)
 
 ## Page 154
 
@@ -6476,7 +6476,7 @@ York, 1980.
 19. WJ Albery and M. Hitchman, Ring-Disk Electrodes, Clarendon Press, Oxford, 1971.
 
 
-![Ảnh 169](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-154-img-1.png)
+![Ảnh 169](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-154-img-1.png)
 
 ## Page 155
 
@@ -6526,7 +6526,7 @@ Electroanalytical Chemistry, Vol. 16, p. 1, Marcel Dekker, New York, 1989.
 57. N. Oyama and F.C. Anson, Anal Chem., 52, 1192 (1980).
 
 
-![Ảnh 170](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-155-img-1.png)
+![Ảnh 170](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-155-img-1.png)
 
 ## Page 156
 
@@ -6576,7 +6576,7 @@ Electroanalytical Chemistry, Vol. 16, p. 1, Marcel Dekker, New York, 1989.
 96. O Niwa, Electroanalysis, 1, 606 (1995).
 
 
-![Ảnh 171](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-156-img-1.png)
+![Ảnh 171](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-156-img-1.png)
 
 ## Page 157
 
@@ -6615,7 +6615,7 @@ measurements?
 measurements?
 
 
-![Ảnh 172](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-157-img-1.png)
+![Ảnh 172](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-157-img-1.png)
 
 ## Page 158
 
@@ -6644,7 +6644,7 @@ concentrations of ferric ion in an industrial stream. What are the challenges of
 such in-situ monitoring?
 
 
-![Ảnh 173](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-158-img-1.png)
+![Ảnh 173](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-158-img-1.png)
 
 ## Page 159
 
@@ -6676,7 +6676,7 @@ response and a wide linear range, are not affected by color or turbidity, are no
 140
 
 
-![Ảnh 174](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-159-img-1.png)
+![Ảnh 174](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-159-img-1.png)
 
 ## Page 160
 
@@ -6727,7 +6727,7 @@ nF
 V*;,int.soln
 
 
-![Ảnh 175](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-160-img-1.png)
+![Ảnh 175](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-160-img-1.png)
 
 ## Page 161
 
@@ -6766,10 +6766,10 @@ FIGURE 5-2 Membrane potential reflects the gradient of activity of the analyte i
 inner and outer (sample) solutions.
 
 
-![Ảnh 176](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-161-img-1.png)
+![Ảnh 176](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-161-img-1.png)
 
 
-![Ảnh 177](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-161-img-2.jpeg)
+![Ảnh 177](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-161-img-2.jpeg)
 
 ## Page 162
 
@@ -6820,7 +6820,7 @@ for a possible charge difference between the target and interfering ions. Normal
 the most serious interferences have the same charge as the primary ion, so that
 
 
-![Ảnh 178](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-162-img-1.png)
+![Ảnh 178](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-162-img-1.png)
 
 ## Page 163
 
@@ -6875,7 +6875,7 @@ performed over an exceedingly broad concentration range, which, for certain
 electrodes, may embrace five orders of magnitude. In practice, the usable range
 
 
-![Ảnh 179](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-163-img-1.png)
+![Ảnh 179](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-163-img-1.png)
 
 ## Page 164
 
@@ -6918,7 +6918,7 @@ The logarithmic response of ISEs can cause major accuracy problems. Very small
 uncertainties in the measured cell potential can cause large errors. (Recall that an
 
 
-![Ảnh 180](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-164-img-1.png)
+![Ảnh 180](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-164-img-1.png)
 
 ## Page 165
 
@@ -6942,7 +6942,7 @@ FIGURE 5-5 Determination of the detection limit of an ion-selective electrode. (
 duced with permission from reference 12.)
 
 
-![Ảnh 181](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-165-img-1.png)
+![Ảnh 181](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-165-img-1.png)
 
 ## Page 166
 
@@ -6989,7 +6989,7 @@ particular its extremely high selectivity for hydrogen ions, its remarkably broa
 response range, and to its fast and stable response. The phenomenon of glass
 
 
-![Ảnh 182](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-166-img-1.png)
+![Ảnh 182](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-166-img-1.png)
 
 ## Page 167
 
@@ -7018,7 +7018,7 @@ Ag wire
 FIGURE 5-6 A glass pH electrode.
 
 
-![Ảnh 183](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-167-img-1.png)
+![Ảnh 183](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-167-img-1.png)
 
 ## Page 168
 
@@ -7066,7 +7066,7 @@ controlled, and allow double-point calibration, slope calculation, temperature a
 ment, and accuracy to ± 0.001 pH unit, all with few basic steps. The electrode must
 
 
-![Ảnh 184](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-168-img-1.png)
+![Ảnh 184](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-168-img-1.png)
 
 ## Page 169
 
@@ -7094,10 +7094,10 @@ permission from reference 16.)
 FIGURE 5-8 A modern microprocessor-controlled pH meter.
 
 
-![Ảnh 185](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-169-img-1.png)
+![Ảnh 185](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-169-img-1.png)
 
 
-![Ảnh 186](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-169-img-2.jpeg)
+![Ảnh 186](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-169-img-2.jpeg)
 
 ## Page 170
 
@@ -7148,7 +7148,7 @@ electrical properties can he achieved using more complex glasses containing vari
 additives.
 
 
-![Ảnh 187](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-170-img-1.png)
+![Ảnh 187](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-170-img-1.png)
 
 ## Page 171
 
@@ -7201,7 +7201,7 @@ liquid cation exchanger, consisting of an aliphatic diester of phosphoric acid
 calcium ions. The ion exchanger is held in a porous, plastic filter membrane that
 
 
-![Ảnh 188](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-171-img-1.png)
+![Ảnh 188](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-171-img-1.png)
 
 ## Page 172
 
@@ -7251,7 +7251,7 @@ FIGURE 5-9
 Schematic diagram of a calcium ion-selective electrode.
 
 
-![Ảnh 189](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-172-img-1.png)
+![Ảnh 189](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-172-img-1.png)
 
 ## Page 173
 
@@ -7284,7 +7284,7 @@ FIGURE 5-11 The recognition process occurring at the TDMAC/PVC membrane/ sample
 interface used for measurements of heparin. (Reproduced with permission from reference 26.)
 
 
-![Ảnh 190](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-173-img-1.png)
+![Ảnh 190](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-173-img-1.png)
 
 ## Page 174
 
@@ -7338,7 +7338,7 @@ sodium (31), respectively; the ionophore ETH 1117 for magnesium; calixarene
 derivatives for sodium (32); and macrocyclic thioethers for mercury and silver (33).
 
 
-![Ảnh 191](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-174-img-1.png)
+![Ảnh 191](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-174-img-1.png)
 
 ## Page 175
 
@@ -7404,7 +7404,7 @@ Considerable work has been devoted to the development of solid membranes that ar
 selective primarily to anions. The solid-state membrane can be made of single
 
 
-![Ảnh 192](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-175-img-1.png)
+![Ảnh 192](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-175-img-1.png)
 
 ## Page 176
 
@@ -7453,7 +7453,7 @@ a 1000: 1 preference for fluoride over chloride or bromide ions. In acidic solut
 formation of HF).
 
 
-![Ảnh 193](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-176-img-1.png)
+![Ảnh 193](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-176-img-1.png)
 
 ## Page 177
 
@@ -7476,7 +7476,7 @@ electrodes: (a) Mn(III) porphyrin; (b) vitamin B12 derivative; (c) tri-n-octylti
 lipophilic polyamine macrocyclic compound.
 
 
-![Ảnh 194](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-177-img-1.png)
+![Ảnh 194](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-177-img-1.png)
 
 ## Page 178
 
@@ -7523,7 +7523,7 @@ AgX + 2OST -> Ag(CN) j + X
 (5-17)
 
 
-![Ảnh 195](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-178-img-1.png)
+![Ảnh 195](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-178-img-1.png)
 
 ## Page 179
 
@@ -7594,7 +7594,7 @@ Hg2+
 "From Orion Guide to Ion Analysis, Orion Research, Cambridge, MA, 1983. With permission.
 
 
-![Ảnh 196](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-179-img-1.png)
+![Ảnh 196](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-179-img-1.png)
 
 ## Page 180
 
@@ -7625,7 +7625,7 @@ higher throughputs, reaching 360 samples per hour, have been employed in
 connection with air-segmented flow systems (48). Such analyzers are now being
 
 
-![Ảnh 197](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-180-img-1.png)
+![Ảnh 197](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-180-img-1.png)
 
 ## Page 181
 
@@ -7673,7 +7673,7 @@ In addition to automated analysis, ISEs can be used to detect ionic species in
 chromatographic effluents. Particularly powerful is the coupling of modern ion
 
 
-![Ảnh 198](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-181-img-1.png)
+![Ảnh 198](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-181-img-1.png)
 
 ## Page 182
 
@@ -7704,7 +7704,7 @@ planar electrode arrays for the simultaneous in-vivo monitoring of the pH and
 potassium ion in the porcine beating heart during acute ischemia (Figure 5-19).
 
 
-![Ảnh 199](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-182-img-1.png)
+![Ảnh 199](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-182-img-1.png)
 
 ## Page 183
 
@@ -7741,10 +7741,10 @@ ing biocompatability and drift problems associated with its direct contact with 
 blood.
 
 
-![Ảnh 200](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-183-img-1.png)
+![Ảnh 200](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-183-img-1.png)
 
 
-![Ảnh 201](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-183-img-2.jpeg)
+![Ảnh 201](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-183-img-2.jpeg)
 
 ## Page 184
 
@@ -7779,10 +7779,10 @@ Press, New York, 1978 and 1980.
 9. B.P. Nikolskii, Acta Physiochim. U.S.S.R., 1, 597 (1937).
 
 
-![Ảnh 202](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-184-img-1.png)
+![Ảnh 202](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-184-img-1.png)
 
 
-![Ảnh 203](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-184-img-2.jpeg)
+![Ảnh 203](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-184-img-2.jpeg)
 
 ## Page 185
 
@@ -7834,7 +7834,7 @@ E. Pretsch, and W. Simon, Anal Chem., 56, 535 (1984).
 40. E. Pungor and K. Toth, Pure Appl. Chem., 31, 521 (1972).
 
 
-![Ảnh 204](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-185-img-1.png)
+![Ảnh 204](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-185-img-1.png)
 
 ## Page 186
 
@@ -7876,7 +7876,7 @@ The relative error in concentration is thus
 [10~10 x (1 x 10"2)/10~12] x 100 = 100%
 
 
-![Ảnh 205](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-186-img-1.png)
+![Ảnh 205](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-186-img-1.png)
 
 ## Page 187
 
@@ -7915,7 +7915,7 @@ Therefore the error in mV is
 Error = K + 249 - (K + 254) = -5 mV
 
 
-![Ảnh 206](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-187-img-1.png)
+![Ảnh 206](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-187-img-1.png)
 
 ## Page 188
 
@@ -7958,7 +7958,7 @@ calcium one.
 5. Describe the source of errors in pH measurements using the glass pH electrode.
 
 
-![Ảnh 207](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-188-img-1.png)
+![Ảnh 207](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-188-img-1.png)
 
 ## Page 189
 
@@ -7983,7 +7983,7 @@ large errors in the response of ISEs.
 13. Discuss the major sources of errors in potentiometric measurements.
 
 
-![Ảnh 208](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-189-img-1.png)
+![Ảnh 208](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-189-img-1.png)
 
 ## Page 190
 
@@ -8015,7 +8015,7 @@ niques with the specificity of biological recognition processes. The aim is to
 171
 
 
-![Ảnh 209](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-190-img-1.png)
+![Ảnh 209](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-190-img-1.png)
 
 ## Page 191
 
@@ -8065,7 +8065,7 @@ stability. Several physical and chemical schemes can thus be used to immobilize
 the enzyme onto the electrode. The simplest approach is to entrap a solution of the
 
 
-![Ảnh 210](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-191-img-1.png)
+![Ảnh 210](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-191-img-1.png)
 
 ## Page 192
 
@@ -8110,7 +8110,7 @@ mediator), speed (due to close proximity of biocatalytic and sensing sites, and
 absence of membrane barriers), ease of fabrication, and renewability.
 
 
-![Ảnh 211](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-192-img-1.png)
+![Ảnh 211](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-192-img-1.png)
 
 ## Page 193
 
@@ -8149,7 +8149,7 @@ In this mechanism, the substrate S combines with the enzyme E to form an
 intermediate complex ES, which subsequently breaks down into products P and
 
 
-![Ảnh 212](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-193-img-1.png)
+![Ảnh 212](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-193-img-1.png)
 
 ## Page 194
 
@@ -8192,7 +8192,7 @@ FIGURE 6-3 Dependence of the velocity of an enzyme-catalyzed reaction upon the
 substrate concentration (at a constant level of enzyme activity).
 
 
-![Ảnh 213](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-194-img-1.png)
+![Ảnh 213](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-194-img-1.png)
 
 ## Page 195
 
@@ -8261,7 +8261,7 @@ Schematic of a "first-generation" glucose biosensor (based on a probe
 manufactured by YSI Inc.).
 
 
-![Ảnh 214](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-195-img-1.png)
+![Ảnh 214](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-195-img-1.png)
 
 ## Page 196
 
@@ -8309,7 +8309,7 @@ single-use disposable strips used with this device are made of poly(vinyl chlori
 and a screen-printed carbon electrode containing a mixture of glucose oxidase and
 
 
-![Ảnh 215](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-196-img-1.png)
+![Ảnh 215](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-196-img-1.png)
 
 ## Page 197
 
@@ -8353,7 +8353,7 @@ C2H5OH + NAD+ ™ C2H5O + NADH
 (6-10)
 
 
-![Ảnh 216](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-197-img-1.png)
+![Ảnh 216](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-197-img-1.png)
 
 ## Page 198
 
@@ -8381,10 +8381,10 @@ Schematic representation of a disposable glucose sensor strip. (Reproduced
 with permission from reference 13.)
 
 
-![Ảnh 217](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-198-img-1.png)
+![Ảnh 217](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-198-img-1.png)
 
 
-![Ảnh 218](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-198-img-2.jpeg)
+![Ảnh 218](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-198-img-2.jpeg)
 
 ## Page 199
 
@@ -8410,7 +8410,7 @@ FIGURE 6-9 Electrical contact of a flavoenzyme by its reconstitution with a rela
 semisynthetic cofactor. Fc = ferrocene. (Reproduced with permission from reference 2.)
 
 
-![Ảnh 219](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-199-img-1.png)
+![Ảnh 219](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-199-img-1.png)
 
 ## Page 200
 
@@ -8465,7 +8465,7 @@ and activators) that influence the rate of biocatalytic reactions can also be me
 Sensing probes for organophosphate and carbamate pesticides, for the respiratory
 
 
-![Ảnh 220](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-200-img-1.png)
+![Ảnh 220](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-200-img-1.png)
 
 ## Page 201
 
@@ -8552,10 +8552,10 @@ Reference
 30
 
 
-![Ảnh 221](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-201-img-1.png)
+![Ảnh 221](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-201-img-1.png)
 
 
-![Ảnh 222](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-201-img-2.jpeg)
+![Ảnh 222](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-201-img-2.jpeg)
 
 ## Page 202
 
@@ -8599,7 +8599,7 @@ Ab + Ag ^ AbAg
 (6-13)
 
 
-![Ảnh 223](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-202-img-1.png)
+![Ảnh 223](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-202-img-1.png)
 
 ## Page 203
 
@@ -8642,7 +8642,7 @@ FIGURE 6-13 Enzyme immunosensors based on the competitive or sandwich modes of
 operation. (Reproduced with permission from reference 40.)
 
 
-![Ảnh 224](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-203-img-1.png)
+![Ảnh 224](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-203-img-1.png)
 
 ## Page 204
 
@@ -8695,7 +8695,7 @@ microelectrodes (each coated with a different oligonucleotide probe) for the
 simultaneous hybridization detection of multiple DNA sequences. The new gene
 
 
-![Ảnh 225](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-204-img-1.png)
+![Ảnh 225](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-204-img-1.png)
 
 ## Page 205
 
@@ -8738,7 +8738,7 @@ analyte can thus result in an increase of the transmembrane conduction that invo
 thousands of ions. Unlike most antibody binding (aimed at specific substances),
 
 
-![Ảnh 226](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-205-img-1.png)
+![Ảnh 226](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-205-img-1.png)
 
 ## Page 206
 
@@ -8789,7 +8789,7 @@ sensitivity and selectivity can be achieved also by using the receptor recogniti
 process as an in-situ preconcentration step (56).
 
 
-![Ảnh 227](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-206-img-1.png)
+![Ảnh 227](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-206-img-1.png)
 
 ## Page 207
 
@@ -8824,10 +8824,10 @@ permeable membrane. Typically, such hydrophobic membranes are 0.01-0.1mm
 thick and are impermeable to water or ions. Hence, gas-sensing probes exhibit
 
 
-![Ảnh 228](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-207-img-1.png)
+![Ảnh 228](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-207-img-1.png)
 
 
-![Ảnh 229](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-207-img-2.jpeg)
+![Ảnh 229](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-207-img-2.jpeg)
 
 ## Page 208
 
@@ -8877,10 +8877,10 @@ Schematic of the potentiometric sensor for carbon dioxide. (Reproduced
 with permission from reference 60.)
 
 
-![Ảnh 230](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-208-img-1.png)
+![Ảnh 230](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-208-img-1.png)
 
 
-![Ảnh 231](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-208-img-2.jpeg)
+![Ảnh 231](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-208-img-2.jpeg)
 
 ## Page 209
 
@@ -8945,7 +8945,7 @@ Membrane-covered oxygen probe based on the Clark electrode. (Reproduced
 with permission from reference 60.)
 
 
-![Ảnh 232](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-209-img-1.png)
+![Ảnh 232](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-209-img-1.png)
 
 ## Page 210
 
@@ -8995,7 +8995,7 @@ advantages include the in-situ impedance transformation and the ability for
 temperature and noise compensation. While the concept of the ISFET is very
 
 
-![Ảnh 233](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-210-img-1.png)
+![Ảnh 233](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-210-img-1.png)
 
 ## Page 211
 
@@ -9038,7 +9038,7 @@ The biological recognition process results in modulation of the gate voltage, an
 controls the drain current. For example, an enzyme field-effect transistor (ENFET)
 
 
-![Ảnh 234](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-211-img-1.png)
+![Ảnh 234](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-211-img-1.png)
 
 ## Page 212
 
@@ -9088,7 +9088,7 @@ PS = potentiostat; CE and RE = counter and reference electrodes, respectively. (
 with permission from reference 76.)
 
 
-![Ảnh 235](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-212-img-1.png)
+![Ảnh 235](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-212-img-1.png)
 
 ## Page 213
 
@@ -9128,7 +9128,7 @@ A silicon-based sensor array for monitoring various blood electrolytes,
 gases, and metabolites. (Courtesy of i-STAT Co.)
 
 
-![Ảnh 236](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-213-img-1.png)
+![Ảnh 236](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-213-img-1.png)
 
 ## Page 214
 
@@ -9176,10 +9176,10 @@ terminate at reservoirs containing the indicated solutions. (Reproduced with per
 from reference 81.)
 
 
-![Ảnh 237](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-214-img-1.png)
+![Ảnh 237](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-214-img-1.png)
 
 
-![Ảnh 238](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-214-img-2.jpeg)
+![Ảnh 238](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-214-img-2.jpeg)
 
 ## Page 215
 
@@ -9208,10 +9208,10 @@ being combined with advanced materials (e.g., hydrogels) that obviate the need f
 internal filling solutions (common to ISE sensors; see Chapter 5). The screen-
 
 
-![Ảnh 239](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-215-img-1.png)
+![Ảnh 239](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-215-img-1.png)
 
 
-![Ảnh 240](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-215-img-2.jpeg)
+![Ảnh 240](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-215-img-2.jpeg)
 
 ## Page 216
 
@@ -9253,7 +9253,7 @@ The array comprised carbon-paste electrodes doped with CoO (1), Cu2O (2), NiO (3
 (4). (Reproduced with permission from reference 84.)
 
 
-![Ảnh 241](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-216-img-1.png)
+![Ảnh 241](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-216-img-1.png)
 
 ## Page 217
 
@@ -9301,7 +9301,7 @@ REFERENCES
 3. L. Gorton, Electroanalysis, 7, 23 (1995).
 
 
-![Ảnh 242](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-217-img-1.png)
+![Ảnh 242](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-217-img-1.png)
 
 ## Page 218
 
@@ -9351,7 +9351,7 @@ Bioelectron., 1, 661 (1992).
 F. Scheller, Anal Chem., 68, 2453 (1996).
 
 
-![Ảnh 243](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-218-img-1.png)
+![Ảnh 243](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-218-img-1.png)
 
 ## Page 219
 
@@ -9401,7 +9401,7 @@ K. Kallury, Anal. Proc., 26, 370 (1991).
 (1997).
 
 
-![Ảnh 244](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-219-img-1.png)
+![Ảnh 244](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-219-img-1.png)
 
 ## Page 220
 
@@ -9444,7 +9444,7 @@ Concentration/mM
 From which a glucose concentration of 2.4 mM can be obtained for the sample.
 
 
-![Ảnh 245](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-220-img-1.png)
+![Ảnh 245](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-220-img-1.png)
 
 ## Page 221
 
@@ -9481,7 +9481,7 @@ transducer. What is the relationship between the substrate concentration and the
 potential response?
 
 
-![Ảnh 246](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-221-img-1.png)
+![Ảnh 246](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-221-img-1.png)
 
 ## Page 222
 
@@ -9499,14 +9499,14 @@ operation of sensor arrays.
 glucose.
 
 
-![Ảnh 247](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-222-img-1.png)
+![Ảnh 247](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-222-img-1.png)
 
 ## Page 223
 
 This page intentionally left blank
 
 
-![Ảnh 248](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-223-img-1.png)
+![Ảnh 248](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-223-img-1.png)
 
 ## Page 224
 
@@ -9570,7 +9570,7 @@ Carbon fiber electrodes, 89, 110, 115, 128
 205
 
 
-![Ảnh 249](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-224-img-1.png)
+![Ảnh 249](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-224-img-1.png)
 
 ## Page 225
 
@@ -9684,7 +9684,7 @@ Ethanol electrodes, 87, 178
 Exchange current, 14
 
 
-![Ảnh 250](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-225-img-1.png)
+![Ảnh 250](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-225-img-1.png)
 
 ## Page 226
 
@@ -9787,7 +9787,7 @@ Mediator, 177, 178
 MeldolaBlue, 121, 179
 
 
-![Ảnh 251](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-226-img-1.png)
+![Ảnh 251](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-226-img-1.png)
 
 ## Page 227
 
@@ -9893,7 +9893,7 @@ Receptor-based sensors, 186
 Redox recycling, 135
 
 
-![Ảnh 252](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-227-img-1.png)
+![Ảnh 252](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-227-img-1.png)
 
 ## Page 228
 
@@ -9989,4 +9989,4 @@ XPS, 45
 Zinc, 85
 
 
-![Ảnh 253](ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-228-img-1.png)
+![Ảnh 253](_images/ANALYTICAL_ELECTROCHEMISTRY_SECOND_EDITI_images/page-228-img-1.png)

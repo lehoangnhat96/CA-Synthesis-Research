@@ -1,7 +1,7 @@
 View Article Online View Journal 
 
 
-![](_temp_04c3e5c6_convert__images/_temp_04c3e5c6_convert_.pdf-0001-01.png)
+![](_images/Recent advances in two-dimensional-material-based sensing technology toward heal_images/_temp_58de78f7_convert_.pdf-0001-01.png)
 
 
 ## Nanoscale 
@@ -11,7 +11,7 @@ View Article Online View Journal
 This article can be cited before page numbers have been issued, to do this please use:  D. Tyagi, H. Wang, W. Huang, L. Hu, Y. Tang, Z. Guo, Z. Ouyang and H. Zhang _, Nanoscale_ , 2020, DOI: 10.1039/C9NR10178K. 
 
 
-![](_temp_04c3e5c6_convert__images/_temp_04c3e5c6_convert_.pdf-0001-05.png)
+![](_images/Recent advances in two-dimensional-material-based sensing technology toward heal_images/_temp_58de78f7_convert_.pdf-0001-05.png)
 
 
 **----- Start of picture text -----**<br>
@@ -19,7 +19,7 @@ Volume 10<br>Number 4<br>28 January 2018<br>Pages 1549-2172<br>**----- End of pi
 
 
 
-![](_temp_04c3e5c6_convert__images/_temp_04c3e5c6_convert_.pdf-0001-06.png)
+![](_images/Recent advances in two-dimensional-material-based sensing technology toward heal_images/_temp_58de78f7_convert_.pdf-0001-06.png)
 
 
 **----- Start of picture text -----**<br>
@@ -27,7 +27,7 @@ Volume 10<br>Number 4<br>28 January 2018<br>Pages 1549-2172<br>**----- End of pi
 
 
 
-![](_temp_04c3e5c6_convert__images/_temp_04c3e5c6_convert_.pdf-0001-07.png)
+![](_images/Recent advances in two-dimensional-material-based sensing technology toward heal_images/_temp_58de78f7_convert_.pdf-0001-07.png)
 
 
 **----- Start of picture text -----**<br>
@@ -43,7 +43,7 @@ You can find more information about Accepted Manuscripts in the Information for 
 Please note that technical editing may introduce minor changes to the text and/or graphics, which may alter content. The journal’s standard Terms & Conditions and the Ethical guidelines still apply. In no event shall the Royal Society of Chemistry be held responsible for any errors or omissions in this Accepted Manuscript or any consequences arising from the use of any information it contains. 
 
 
-![](_temp_04c3e5c6_convert__images/_temp_04c3e5c6_convert_.pdf-0001-12.png)
+![](_images/Recent advances in two-dimensional-material-based sensing technology toward heal_images/_temp_58de78f7_convert_.pdf-0001-12.png)
 
 
 rsc.li/nanoscale 
@@ -51,7 +51,7 @@ rsc.li/nanoscale
 Page 1 of 26 Please do not adjust margins Nanoscale 
 
 
-![](_temp_04c3e5c6_convert__images/_temp_04c3e5c6_convert_.pdf-0002-03.png)
+![](_images/Recent advances in two-dimensional-material-based sensing technology toward heal_images/_temp_58de78f7_convert_.pdf-0002-03.png)
 
 
 View Article Online 
@@ -75,7 +75,7 @@ The primary concern relating our safe and constructive existence on this planet 
 Many sensing techniques have been developed so far such as surface-enhanced raman scattering,[2] plasma mass spectrometry, electrochemistry,[3] chemiluminescence,[4] fluorescence,[5, 6] and many more. Although  most of the techniques are have the advantages of high precision and reliable repeatability, the main disadvantages with these techniques are high cost of 
 
 
-![](_temp_04c3e5c6_convert__images/_temp_04c3e5c6_convert_.pdf-0002-14.png)
+![](_images/Recent advances in two-dimensional-material-based sensing technology toward heal_images/_temp_58de78f7_convert_.pdf-0002-14.png)
 
 
 Please do not adjust margins 
@@ -147,7 +147,7 @@ materials. In this survey, we focus on reviewing the on going advances of 2D nan
 ## **2 .Unique Features of Two-Dimensional Materials in Sensing** 
 
 
-![](_temp_04c3e5c6_convert__images/_temp_04c3e5c6_convert_.pdf-0005-08.png)
+![](_images/Recent advances in two-dimensional-material-based sensing technology toward heal_images/_temp_58de78f7_convert_.pdf-0005-08.png)
 
 
 Fig. 1 The classification of layered materials on the basis of stability. 
@@ -155,11 +155,11 @@ Fig. 1 The classification of layered materials on the basis of stability.
 2D materials have striking remarkable material properties with promising efficacy in detection strategies.[79] The assembly of these 2D materials over a large scale with a faithful reproduction in their properties plays a key role in the device manufacturing. These 2D materials exhibit variation in the thickness ranging from atomic layer length scale to a few microns and lateral 
 
 
-![](_temp_04c3e5c6_convert__images/_temp_04c3e5c6_convert_.pdf-0005-11.png)
+![](_images/Recent advances in two-dimensional-material-based sensing technology toward heal_images/_temp_58de78f7_convert_.pdf-0005-11.png)
 
 
 
-![](_temp_04c3e5c6_convert__images/_temp_04c3e5c6_convert_.pdf-0005-12.png)
+![](_images/Recent advances in two-dimensional-material-based sensing technology toward heal_images/_temp_58de78f7_convert_.pdf-0005-12.png)
 
 
 **----- Start of picture text -----**<br>
@@ -181,7 +181,7 @@ dimension of few centimetres.[80] Because of its one of a kind physical, chemica
 High surface to volume ratio of monolayers 2D materials enables them to be more chemically reactive than their bulk form, in they are being inert.[72] . The conductivity of 2D material varies from insulator to a metal depending on their band gaps and can be changed by number of methods such as producing defects within structure, by doping or fictionalizations or by changing the number of layers (Fig. 2).[70, 90] A fine tuning in the configuration of the 2D nanomaterial leads to the variation in their band gap and as well as conductivity (Fig. 3).[74] 
 
 
-![](_temp_04c3e5c6_convert__images/_temp_04c3e5c6_convert_.pdf-0006-07.png)
+![](_images/Recent advances in two-dimensional-material-based sensing technology toward heal_images/_temp_58de78f7_convert_.pdf-0006-07.png)
 
 
 Fig. 2 Conductivity, electron and hole mobility, bandgap on the EM spectrum for different layered material. 
@@ -261,7 +261,7 @@ Page 8 of 26
 combinations of the transition metal and chalcogenides varies throughout the range from non-metallic to metallic. Metallic View Article Online resistance is shown by NbS2 and TaS2 and the other range of spectrum is shown by HfS2, which are essentially non-metallic. The DOI: 10.1039/C9NR10178K most interesting resistive range that has intrigued us for the device application is the semiconductor range shown particularly by MoS2, WS2, WTe2 and TiSe2.[120] The stoichiometry of the compound formed by the transition metal group elements and the chalcogen depends upon the method of preparation and strategy followed. Bottom-up and top-down strategy have their own pros and cons regarding the quality of the end product.[125, 126] Bottom-up strategy requires a strict control over the elemental composition formed during the proceeding reaction. These methods also require control chamber and higher temperature furnaces to produce these materials. The bottom-up strategy provides one unique advantage that introduction of small dopant at the interstitial locations may lead to drastic change in physical and chemical properties.[127] The electronic and physical properties of the monolayer or a few layers of the TMDCs are inherently different from their bulk counter-part, which already has been established and discussed in the same context of grapheme.[128] Additionally the thermal and chemical stability of TMDCs are relatively high, rendering these materials as shows potential for gas sensors and future sensing devices.[129] Top-down strategy of the preparation requires bulk forms of TMDCs which are either exfoliated of sonicated in the presence of small and highly mobile ions to separate sheets in the form of monolayer. Transfer of this monolayer from either scotch tape or from the suspension to a suitable substrate is also a challenging task for the device application. As the exfoliated single layer with basal plane and prismatic edge allows structural variations when associated with a compound which determines the assembly properties.[120] These structural variations in turn affect the electrical and chemical properties in the single layer itself and these variations get amplified when these monolayer are assembled to form a device. One of the most evident variations in the chemical property of the monolayer is the widening of the band gap due to disrupted s-pz orbital interactions in-between the atoms of the layers at the nearest neighbour distance. High level of atomic control makes the reactivity and electronic properties of 2D TMDC nanosheets extremely adjustable.[128] In spite of adjusting compositional features, a wide range of synthetic options to develop TMDCs must be taken into account. Both the previously mentioned aspects play a vital role in the sensitivity toward 
 
 
-![](_temp_04c3e5c6_convert__images/_temp_04c3e5c6_convert_.pdf-0009-07.png)
+![](_images/Recent advances in two-dimensional-material-based sensing technology toward heal_images/_temp_58de78f7_convert_.pdf-0009-07.png)
 
 
 Fig.6 The crystal structure of monolayer MoS2 showing a layer of molybdenum atoms (blue) sandwiched between two layers of sulfur atoms (yellow). a) 3d view of the monolayer MoS2, b) planar view from z axis, c) planar view from y axis, d) planar view from x axis. 
@@ -287,11 +287,11 @@ Please do not adjust margins
 conductive behavior.[64] , this property allows MO to be widely implemented in the gas sensor technologies. Fabrication cost of View Article Online MO is less, compared to other sensing devices as they intrinsically have 2Dscale arrangement.[137] They are chemically inert at DOI: 10.1039/C9NR10178K high temperature and moisture.[138] Hence, the use of metal oxides toward versatile and scaled down detecting stages requires raised working temperatures. This shortcoming demands  intensive research contrasted with sensors operations at RT.[139] The 2D 
 
 
-![](_temp_04c3e5c6_convert__images/_temp_04c3e5c6_convert_.pdf-0010-06.png)
+![](_images/Recent advances in two-dimensional-material-based sensing technology toward heal_images/_temp_58de78f7_convert_.pdf-0010-06.png)
 
 
 
-![](_temp_04c3e5c6_convert__images/_temp_04c3e5c6_convert_.pdf-0010-07.png)
+![](_images/Recent advances in two-dimensional-material-based sensing technology toward heal_images/_temp_58de78f7_convert_.pdf-0010-07.png)
 
 
 **----- Start of picture text -----**<br>
@@ -341,7 +341,7 @@ Similar to the TMDCs there exists another group of material having almost simila
 ## **4.1 Infrared Photodetection.** 
 
 
-![](_temp_04c3e5c6_convert__images/_temp_04c3e5c6_convert_.pdf-0011-14.png)
+![](_images/Recent advances in two-dimensional-material-based sensing technology toward heal_images/_temp_58de78f7_convert_.pdf-0011-14.png)
 
 
 **10** | _J. Name_ ., 2019, **00** , 1-3 
@@ -365,7 +365,7 @@ The environmental aspect of infrared detection requires an ability of the detect
 In the past few years, scientific studies and development have been focused at the nano-scale light-material interactions giving edge to researchers in developing extremely capable photo detectors (PD) having a selective response towards a particular frequency of electromagnetic (EM) spectrum.[166, 167] compact  geometry and small,  response time up to ~picoseconds resulted in manufacture of high-performance PD for optoelectronic communication and cameras of high frame rates.[166] For infrared photo detectors (IRPDs), lead sulfide (PbS) nano-crystal are relatively substantive materials and the Lead Sulphide (PbS) based photo detectors are beneficial in a variety of applications because of their low manufacturing cost, sensitivity towards a large band of spectrum, and compatibility of the PbS material fabrication over a variety of substrate. Low dimensional nano-structured materials coupled with p-n or schottky junction one can achieve the low-leakage current system along with the sensitivity towards color and polarization of the IR.[168] . The response time for the detection is reduced drastically along with the operational temperature for such nano-structure loaded devices. Region specific highly sensitive light detectors and imaging devices can be developed by dubbing material with black silicon (BS) at low cost. The fine-tuned and narrow band gap of these nanostructures allow high absorbance in the range of 90% over the spectral range of 250nm to 2500nm.[169] Additionally, practical device application are possible because of  the high photo-conductive gain and responsivity (0.57 A/W atλ = 1050 nm).[170] Improvement in the functionality of the nano-devices requires a crucial input in terms of the novelty in the research of the material and implications of variation in the dimensionality, architecture and size. . Lately, GaN NW-based photo detectors were reported with high photocurrent gain at room temperature. Furthermore, core shell NWs based photo detectors were reported with high speed photoresponse (~ps) and mobility in MIR range at RT. These core-shell NWs are made from InGaN, InAs/InP, and InAs/InAsSb based material, a schematic of such device is shown in Fig. 9a where the Cr/Au based Ohmic-Ohmic contact was manufactured. Corresponding I vs V characteristics for these devices are shown for different wavelength (refer Fig. 9b and Fig. 9c, 9d shows the light and dark current response for the Schottky-Ohmic combination.[171, 172] In addition, 2D materials and their heterojunctions have broad application prospects in the field of flexible infrared optoelectronic detection in the future.[173] 
 
 
-![](_temp_04c3e5c6_convert__images/_temp_04c3e5c6_convert_.pdf-0012-09.png)
+![](_images/Recent advances in two-dimensional-material-based sensing technology toward heal_images/_temp_58de78f7_convert_.pdf-0012-09.png)
 
 
 Fig. 9 Schematic illustration of InAs nanowire based photodetector and photoresponse analysis of the devices. 
@@ -412,7 +412,7 @@ View Article Online ~~DOI: 10.1039/C9N~~ R10178K
 The recent 2D materials such as graphene and BP are gaining rigorous consideration in IR sensing devices.[189, 190] Field effects and strains tune the electronic properties of 2D materials making them the building blocks in flexible and foldable electronics having excellent tolerance against fracture under external strains.[191][191] Graphene and BP are mostly explored for infrared photodetection, because of their ability to absorb a large range of photons of low energy in IR region. Graphene absorbs 2.3% of incident photons irrespective of wavelength at atomic layer thickness and absorption efficiency can be improved by changing the stacking sequence or by incorporating graphene into other nanostructures.[192] Graphene-based photodetectors have an operational domain extending up to extremely high frequency of 500 GHz.[193] Graphene/metal junction, tunneling barrier junctions, and graphene stacking are various methods which have been in use for efficient partition of the photon-excited carrier at such short time scales.[190] The separation of carriers excited by photons at peco-second frequency rates can be achieved by either metal-graphene or tunneling-barrier junctions when stacked in the form of ordered multilayer using different deposition techniques. By incorporating graphene and CQD into a single device one may achieve an ultra-high gain in photocurrent.[194] Ina hybrid heterostructure based photodetector the charege-carriers generated due to photon excitations get separetaed at the interface. The implementatiaon of dyes of organic nature facilitates the formation of nanostructures of high-extinctin coefficients, one of the many examples is optical sensitization.[195] Recently, photodetectors  on PbS CQDs and graphene hybrid hetero structure based with a significant photo-responsivity of 107 AW[-1] in the Near IR region were also reported.[186] The light absorption and the transportation of carrier taking place in the PbS CQD layer and graphene layer is shown in Fig. 10a. Band 
 
 
-![](_temp_04c3e5c6_convert__images/_temp_04c3e5c6_convert_.pdf-0013-11.png)
+![](_images/Recent advances in two-dimensional-material-based sensing technology toward heal_images/_temp_58de78f7_convert_.pdf-0013-11.png)
 
 
 Fig. 10 (a) Structure of PbS CQDs/graphene PD (b) Representation of intense near field absorption using B-doped Si QD/graphene composite based PD (c) Schematic illustration of multi interface hetero-structure using B-doped Si QDs PbS/TiO2/graphene based PD (d) Schematic representation of heterostructure based PD using Bi2Te3 nanoplatelets/graphene nanocomposites. 
@@ -462,7 +462,7 @@ Anodic stripping voltammetry (ASV) methods used to distinguish the majority of t
 In view of T-Hg2þ - T coordination science, Zhang and associates developed an ultra-delicate electrochemical component based device to check the presence of Hg2þ. The data obtained from the electrochemical sensor based on graphene for detection of three distinct samples from the environment was found to be comparable with an atomic fluorescence spectrometry result[219] . Utilizing a similar association, three-dimensional rGO, and chitosan particles, Zhou's gathering built up a label free detecting methodology for Hg2þ detection in water (CS@3DrGO, Fig.11c). Best condition given, the acquired biosensor displayed a small 
 
 
-![](_temp_04c3e5c6_convert__images/_temp_04c3e5c6_convert_.pdf-0015-11.png)
+![](_images/Recent advances in two-dimensional-material-based sensing technology toward heal_images/_temp_58de78f7_convert_.pdf-0015-11.png)
 
 
 Fig. 11 (a) Diagram representation of graphene-based tailored electrode for Zn(II), Cd(II) and Pd(II) detection. (b) Schematic representation of the reaction events for Hg2þ detection. (c) Schematic illustration of Hg2þ detection using the CS@3D-rGO@DNA nano-composite based electrochemical biosensor.(d) Schematic representation of Pb2þ and Hg2þ detection. 
@@ -500,7 +500,7 @@ Page 16 of 26
 ## **Journal Name** 
 
 
-![](_temp_04c3e5c6_convert__images/_temp_04c3e5c6_convert_.pdf-0017-06.png)
+![](_images/Recent advances in two-dimensional-material-based sensing technology toward heal_images/_temp_58de78f7_convert_.pdf-0017-06.png)
 
 
 **----- Start of picture text -----**<br>
@@ -530,7 +530,7 @@ Please do not adjust margins
 Contamination brought about by pesticides, mainly organo-phosphorus pesticides, is gravely destructive to human and animal View Article Online wellbeing. Pesticides effectively gather on leaves of vegetables and organic products, prompting possibly unsafe to buyers since DOI: 10.1039/C9NR10178K they cause an unfriendly impact on the capacity of the human body and even passing by means of the hindrance of acetylcholinesterase (AChE) action. Electrochemical sensors for pesticides detection have had a decent amount of utilizing low 
 
 
-![](_temp_04c3e5c6_convert__images/_temp_04c3e5c6_convert_.pdf-0018-06.png)
+![](_images/Recent advances in two-dimensional-material-based sensing technology toward heal_images/_temp_58de78f7_convert_.pdf-0018-06.png)
 
 
 Fig. 13 (a) Representation of AChE/AuNPs/cr-Gs assembly for pesticide detection using PDDA. (b) A dependable and strong methylparathion sensor using heterostructured MoS2/graphene nanocomposite assembly. 
@@ -558,11 +558,11 @@ View Article Online
 Antibiotic is considered as a sort of serious contamination because of its over abused use in human and animals at the same DOI: 10.1039/C9NR10178K time. As we are probably aware, antibiotics are frequently utilized to treat illnesses but over the time hearing misfortune, poisonous quality to kidneys and poor reaction to illness treatment are are occurring common  medical problems due to steadily buildup in sustenance items. Hints of a few anti-infection agents, like metronidazole, chloramphenicol,[232] midecamycin,[233] azithromycin,[234] penicillin,[235] linezolid,[236] antibiotic medication,[237] levofloxacin,[238] and ofloxacin[239] were distinguished by the electrochemical method. Zhang and his group identified metronidazole using electrochemical sensor based on petal-like decorated silver on graphene (Fig. 14a). Besides, they additionally talked about the process of electron transfer in the electrochemical sensor[239] . MoS2/polyaniline nanocomposite, as an electrochemical detecting material was utilized by Chen et al. to sense chloramphenicol. Pei and collaborators manufactured an electrochemical apta-sensors for kanamycin anti-microbial recognition by utilizing thionine-improved graphene and PtCu alloy (Fig. 14b). 
 
 
-![](_temp_04c3e5c6_convert__images/_temp_04c3e5c6_convert_.pdf-0019-09.png)
+![](_images/Recent advances in two-dimensional-material-based sensing technology toward heal_images/_temp_58de78f7_convert_.pdf-0019-09.png)
 
 
 
-![](_temp_04c3e5c6_convert__images/_temp_04c3e5c6_convert_.pdf-0019-10.png)
+![](_images/Recent advances in two-dimensional-material-based sensing technology toward heal_images/_temp_58de78f7_convert_.pdf-0019-10.png)
 
 
 **----- Start of picture text -----**<br>
@@ -592,7 +592,7 @@ Please do not adjust margins
 Other than S. aureus and E. coli, other microscopic organisms, for example, Genus shewanella,[244] Staphylococcus arlettae,[245] 
 
 
-![](_temp_04c3e5c6_convert__images/_temp_04c3e5c6_convert_.pdf-0020-07.png)
+![](_images/Recent advances in two-dimensional-material-based sensing technology toward heal_images/_temp_58de78f7_convert_.pdf-0020-07.png)
 
 
 Fig. 15 (a) Illustration of electrochemical sensor mechanism for S. aureus detection. (b) Diagram of mechanism involved for tailored electrode using sulfonated graphene-poly-(3,4-ethylenedioxythiophene)-gold nanoparticles (SG-PEDOT-AuNPs) detection of E. coli O157:H7. (c) Illustration of the procedure of the electrochemical sensor for detection of Shewanella oneidensis. 
@@ -908,7 +908,7 @@ Please do not adjust margins
 Page 26 of 26 
 
 
-![](_temp_04c3e5c6_convert__images/_temp_04c3e5c6_convert_.pdf-0027-02.png)
+![](_images/Recent advances in two-dimensional-material-based sensing technology toward heal_images/_temp_58de78f7_convert_.pdf-0027-02.png)
 
 
 **----- Start of picture text -----**<br>

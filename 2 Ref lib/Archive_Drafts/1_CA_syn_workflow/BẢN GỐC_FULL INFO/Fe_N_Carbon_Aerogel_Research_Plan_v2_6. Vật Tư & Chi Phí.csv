@@ -1,0 +1,34 @@
+﻿DANH SÁCH VẬT TƯ HÓA CHẤT & ƯỚC TÍNH CHI PHÍ TOÀN DỰ ÁN
+STT,Hóa chất / Vật tư,Mục đích,Nhà cung cấp gợi ý,Quy cách,Số lượng,Đơn giá ước tính (VNĐ),Thành tiền (VNĐ)
+1,Xơ dừa (coir fiber),Nguyên liệu chính,Chợ địa phương / hợp tác xã,1 kg,3,"15,000",170000
+2,NaOH (96%),"Tiền xử lý, hòa tan cellulose",Xilong / Merck,500g,2,"85,000",90000
+3,Urea (99%),Dung môi hòa tan + N-doping,Xilong,500g,2,"45,000",320000
+4,Melamine (99%),N-doping nguồn phụ,Sigma-Aldrich,100g,1,"320,000",180000
+5,FeCl₃·6H₂O (97%),Fe-doping,Xilong / Sigma,250g,1,"180,000",850000
+6,Epichlorohydrin (ECH),Crosslinker (PA grade),Sigma-Aldrich,100mL,1,"850,000",55000
+7,Citric acid (monohydrate),Crosslinker xanh,Xilong,500g,1,"55,000",1200000
+8,"TMCS (Trimethylchlorosilane, 99%)",Surface modification,Sigma-Aldrich,100mL,1,"1,200,000",380000
+9,n-Hexane (anhydrous),Dung môi TMCS,Xilong,2.5L,1,"380,000",840000
+10,Ethanol tuyệt đối (99.8%),Solvent exchange,Xilong,2.5L,4,"210,000",7500000
+11,"GCE (Glassy Carbon Electrode, 3mm)",Điện cực nền,Pine Research / CH Instruments,1 pc,10,"750,000",1850000
+12,Nafion solution (5% in alcohol),Binder màng điện cực,Sigma-Aldrich,5mL,1,"1,850,000",230000
+13,PBS tablets (pH 7.4),Đệm đo dopamine,Sigma-Aldrich,100 tablets,1,"230,000",230000
+14,Acetate buffer (pH 4.5),Đệm đo ion KL,Tự pha,—,—,"50,000",280000
+15,"Pb(NO₃)₂, Cd(NO₃)₂, CuSO₄",Chuẩn bị standard ion KL,Merck,100g/mỗi loại,1,"280,000",650000
+16,Dopamine HCl (99%),Chuẩn bị standard DA,Sigma-Aldrich,1g,1,"650,000",95000
+17,"Ascorbic acid, Uric acid",Interferent test,Xilong,500g/mỗi loại,1,"95,000",120000
+18,"KCl (99%), K₃Fe(CN)₆",Điện dịch EIS,Xilong,500g/mỗi loại,1,"120,000",85000
+19,"HNO₃, HCl (PA grade)","Rửa GCE, pha chế",Xilong,1L/mỗi loại,1,"85,000",960000
+20,Al₂O₃ polishing powder (0.05µm),Đánh bóng GCE,BASi / CH Instruments,pack 25g,2,"480,000",500000
+21,Cuvet thạch anh,Raman/UV-Vis,—,1,2,"250,000",840000
+22,KBr (IR grade),FTIR pellet,Sigma,250g,2,"420,000",1200000
+23,Khí N₂ (99.999%),"Carbonization, degassing",Air Liquide VN,cylinder 10m³,1,"1,200,000",2500000
+24,Dụng cụ thủy tinh tổng hợp,"Beaker, flask, pipette...",Nhiều nhà cung cấp,bộ,1,"2,500,000",350000
+25,Màng lọc PTFE 0.45µm,Lọc mẫu trước đo,—,pack 100,1,"350,000",0
+"TỔNG CHI PHÍ ƯỚC TÍNH (chưa bao gồm phí thiết bị đo, dịch vụ phân tích bên ngoài)",,,,,,,21305000
+📌 LƯU Ý CHI PHÍ & MUA SẮM
+"• Ưu tiên mua hóa chất từ Xilong (TQ, giá rẻ) cho giai đoạn screening; chuyển sang Sigma-Aldrich cho mẫu đo final công bố"
+"• TMCS và ECH là hóa chất nguy hiểm – cần kiểm tra quy trình nhập khẩu, lưu kho theo MSDS"
+• GCE 3mm: mua 10 cái để dự phòng hư hỏng; có thể tái sử dụng nếu đánh bóng đúng cách
+"• Phí đo BET, XPS, TEM thường tính theo dịch vụ (150–500k/mẫu) – KHÔNG có trong bảng, cần bổ sung vào đề tài"
+• Khí N₂: liên hệ Air Liquide Vietnam; nếu lab đã có hệ thống gas thì không cần mua thêm

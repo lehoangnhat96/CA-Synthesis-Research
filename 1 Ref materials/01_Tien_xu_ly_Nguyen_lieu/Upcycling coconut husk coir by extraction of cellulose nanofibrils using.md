@@ -1,7 +1,7 @@
 ## RSC Sustainability 
 
 
-![](_temp_6c7e70fa_convert__images/_temp_6c7e70fa_convert_.pdf-0001-02.png)
+![](_images/Upcycling coconut husk coir by extraction of cellulose nanofibrils using_images/_temp_39aa0789_convert_.pdf-0001-02.png)
 
 
 ## PAPER 
@@ -9,7 +9,7 @@
 **View Article Online View Journal | View Issue** 
 
 
-![](_temp_6c7e70fa_convert__images/_temp_6c7e70fa_convert_.pdf-0001-05.png)
+![](_images/Upcycling coconut husk coir by extraction of cellulose nanofibrils using_images/_temp_39aa0789_convert_.pdf-0001-05.png)
 
 
 Cite this: RSC Sustainability, 2025, 3, 2970 
@@ -87,7 +87,7 @@ RSC Sustainability
 Paper 
 
 
-![](_temp_6c7e70fa_convert__images/_temp_6c7e70fa_convert_.pdf-0003-04.png)
+![](_images/Upcycling coconut husk coir by extraction of cellulose nanofibrils using_images/_temp_39aa0789_convert_.pdf-0003-04.png)
 
 
 Fig. 1 The steps involved in preparing sustainable nanocellulose fibers from coconut husk are (A) green lemon juice citric acid hydrolysis process and (B) the conventional process using mineral sulfuric acid for the extraction processes. 
@@ -135,7 +135,7 @@ Atomic force microscopy (AFM). Atomic Force Microscopy (AFM) was carried out usi
 Coconut husk bers are known to contain cellulose, hemicelluloses, and lignin components with functional groups like alcohol, acid, ester, ketones, etc.[18] Fig. 2 shows the FTIR spectra of all the samples: raw, alkali-treated, bleached, mineral acidtreated, and lemon juice-treated coconut husk (R-CH, AT-CH, B-CH, MA-CH, LJ-CH). The peaks at 3350 cm[−][1] to 3320 cm[−][1] were due to the O–H stretching of hydroxyl groups in the cellulose samples with associated water molecules. The intensication in this peak aer treatment indicates a relative increase in cellulose content with the removal of lignin, although the citric acid extracted cellulose also showed a less intensive shoulder, which could have to do with adsorbed citric acid as opposed to water molecules.[19] The peaks between 2930 cm[−][1] and 2880 cm[−][1] corresponded to the C–H stretching vibrations of methyl and methylene groups.[20] In samples R-CH and AT-CH, the peaks present at 1506 cm[−][1] and 1264 cm[−][1] were due to stretching vibrations of acetyl groups of hemicelluloses and ring stretching vibrations of aromatic C]C in lignin, respectively.[21] These peaks disappeared aer treatment due to 
 
 
-![](_temp_6c7e70fa_convert__images/_temp_6c7e70fa_convert_.pdf-0004-12.png)
+![](_images/Upcycling coconut husk coir by extraction of cellulose nanofibrils using_images/_temp_39aa0789_convert_.pdf-0004-12.png)
 
 
 Fig. 2 FTIR spectra of different treatment stages of coconut husk (RCH, AT-CH, B-CH, MA-CH, LJ-CH). 
@@ -159,7 +159,7 @@ RSC Sustainability
 Paper 
 
 
-![](_temp_6c7e70fa_convert__images/_temp_6c7e70fa_convert_.pdf-0005-04.png)
+![](_images/Upcycling coconut husk coir by extraction of cellulose nanofibrils using_images/_temp_39aa0789_convert_.pdf-0005-04.png)
 
 
 Fig. 3 XRD spectra of differently treated coconut husk; R-CH (Raw Coconut Husk), AT-CH (Alkali-Treated Coconut Husk), B-CH (Bleached Coconut husk), MA-CH (Mineral Acid hydrolyzed Coconut Husk), and LJ-CH (Lemon Juice hydrolyzed Coconut Husk). 
@@ -211,7 +211,7 @@ RSC Sustainability
 Paper 
 
 
-![](_temp_6c7e70fa_convert__images/_temp_6c7e70fa_convert_.pdf-0006-04.png)
+![](_images/Upcycling coconut husk coir by extraction of cellulose nanofibrils using_images/_temp_39aa0789_convert_.pdf-0006-04.png)
 
 
 Fig. 4 Particle size distribution graphs of different treatment stages of coconut husk (R-CH, AT-CH, B-CH, MA-CH, LJ-CH) can be visualized in a graph where the x-axis represents the particle size (in nanometers) and the y-axis represents the frequency or intensity of the particles of that size. 
@@ -235,7 +235,7 @@ The observed hydrodynamic radii ranged between 390–530 nm (Fig. 4), which is n
 The zeta potential (Fig. 5) of the cellulose samples was measured to evaluate the surface charge modications resulting 
 
 
-![](_temp_6c7e70fa_convert__images/_temp_6c7e70fa_convert_.pdf-0006-12.png)
+![](_images/Upcycling coconut husk coir by extraction of cellulose nanofibrils using_images/_temp_39aa0789_convert_.pdf-0006-12.png)
 
 
 Fig. 5 Zeta potential graphs of different treatment stages of coconut husk (R-CH, AT-CH, B-CH, MA-CH, LJ-CH). 
@@ -278,7 +278,7 @@ The results conrmed the distinct effects of sulfuric acid and citric acid hyd
 A comparative analysis of these hydrolysis treatments highlights key differences in charge density and electrostatic interactions. Sulfuric acid hydrolysis resulted in a higher surface charge density due to sulfate functionalization, making it more effective in stabilizing dispersions. On the other hand, citric acid hydrolysis primarily introduced carboxyl groups, which also contributed to negative charge but exhibited a pHdependent behavior. Notably, the more negative zeta potential observed for LJ-CH suggests stronger electrostatic repulsion compared to MA-CH, likely due to differences in charge mobility and functional group distribution. These ndings indicate that while sulfate half-esters contribute to greater surface charge stability, carboxyl groups play a crucial role in modifying the colloidal behavior of nanocellulose suspensions. The results provide important insights into tailoring cellulose surface properties for specic applications. 
 
 
-![](_temp_6c7e70fa_convert__images/_temp_6c7e70fa_convert_.pdf-0007-08.png)
+![](_images/Upcycling coconut husk coir by extraction of cellulose nanofibrils using_images/_temp_39aa0789_convert_.pdf-0007-08.png)
 
 
 Fig. 6 SEM images of all the treatment stages of coconut fibers (a) R- CH, (b) AT-CH, (c) B-CH, (d) MA-CH, (e) LJ-CH. After bleach treatment (B-CH), the fibers appeared as clearly visible as long strands. 
@@ -304,7 +304,7 @@ RSC Sustainability
 Paper 
 
 
-![](_temp_6c7e70fa_convert__images/_temp_6c7e70fa_convert_.pdf-0008-04.png)
+![](_images/Upcycling coconut husk coir by extraction of cellulose nanofibrils using_images/_temp_39aa0789_convert_.pdf-0008-04.png)
 
 
 Fig. 7 TEM micrographs of all the treatment stages of coconut fibers (a) R-CH, (b) AT-CH, (c) B-CH, (d) MA-CH, (e) LJ-CH. 
@@ -328,7 +328,7 @@ RSC Sustainability
 Paper 
 
 
-![](_temp_6c7e70fa_convert__images/_temp_6c7e70fa_convert_.pdf-0009-04.png)
+![](_images/Upcycling coconut husk coir by extraction of cellulose nanofibrils using_images/_temp_39aa0789_convert_.pdf-0009-04.png)
 
 
 Fig. 8 3D topography AFM images of all the treatment stages of coconut fibers (a) R-CH, (b) AT-CH, (c) B-CH, (d) MA-CH, (e) LJ-CH. 
@@ -359,7 +359,7 @@ The sustainability of this research is evident in several key areas, including t
 A direct comparison of the energy requirements between citric acid hydrolysis (lemon hydrolysis) and sulfuric acid hydrolysis reveals a signicant difference in energy consumption. The total energy consumption was calculated by considering the energy required for heating (Q) and sonication (Esonication), using the equations: 
 
 
-![](_temp_6c7e70fa_convert__images/_temp_6c7e70fa_convert_.pdf-0009-16.png)
+![](_images/Upcycling coconut husk coir by extraction of cellulose nanofibrils using_images/_temp_39aa0789_convert_.pdf-0009-16.png)
 
 
 2978 | RSC Sustainability, 2025, 3, 2970–2983 
@@ -389,13 +389,13 @@ For lemon hydrolysis, the process operates at an average temperature of 75 °C (
 Lemon hydrolysis: 
 
 
-![](_temp_6c7e70fa_convert__images/_temp_6c7e70fa_convert_.pdf-0010-10.png)
+![](_images/Upcycling coconut husk coir by extraction of cellulose nanofibrils using_images/_temp_39aa0789_convert_.pdf-0010-10.png)
 
 
 Sulfuric acid hydrolysis: 
 
 
-![](_temp_6c7e70fa_convert__images/_temp_6c7e70fa_convert_.pdf-0010-12.png)
+![](_images/Upcycling coconut husk coir by extraction of cellulose nanofibrils using_images/_temp_39aa0789_convert_.pdf-0010-12.png)
 
 
 For sonication, assuming a power of 500 W (0.5 kW) used for 30 minutes (1800 s) for lemon hydrolysis and 60 minutes (3600 s) for sulfuric acid hydrolysis: 
@@ -403,13 +403,13 @@ For sonication, assuming a power of 500 W (0.5 kW) used for 30 minutes (1800 s) 
 Lemon hydrolysis: 
 
 
-![](_temp_6c7e70fa_convert__images/_temp_6c7e70fa_convert_.pdf-0010-15.png)
+![](_images/Upcycling coconut husk coir by extraction of cellulose nanofibrils using_images/_temp_39aa0789_convert_.pdf-0010-15.png)
 
 
 Sulfuric acid hydrolysis: 
 
 
-![](_temp_6c7e70fa_convert__images/_temp_6c7e70fa_convert_.pdf-0010-17.png)
+![](_images/Upcycling coconut husk coir by extraction of cellulose nanofibrils using_images/_temp_39aa0789_convert_.pdf-0010-17.png)
 
 
 Thus, the total energy required per batch (heating + sonication) is: 
@@ -463,7 +463,7 @@ RSC Sustainability
 Paper 
 
 
-![](_temp_6c7e70fa_convert__images/_temp_6c7e70fa_convert_.pdf-0011-04.png)
+![](_images/Upcycling coconut husk coir by extraction of cellulose nanofibrils using_images/_temp_39aa0789_convert_.pdf-0011-04.png)
 
 
 Fig. 9 Sustainability of lemon citric acid hydrolysis versus fossil sulphuric acid hydrolysis. 

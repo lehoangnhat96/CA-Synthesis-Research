@@ -1,11 +1,11 @@
 _**materials**_ 
 
 
-![](_temp_2f0a67f7_convert__images/_temp_2f0a67f7_convert_.pdf-0001-01.png)
+![](_images/Preparation of Carbon Aerogel Electrode for Electrosorption of Copper Ions_images/_temp_1353ec22_convert_.pdf-0001-01.png)
 
 
 
-![](_temp_2f0a67f7_convert__images/_temp_2f0a67f7_convert_.pdf-0001-02.png)
+![](_images/Preparation of Carbon Aerogel Electrode for Electrosorption of Copper Ions_images/_temp_1353ec22_convert_.pdf-0001-02.png)
 
 
 _Article_ 
@@ -65,7 +65,7 @@ _Materials_ **2019** , _12_ , 1864
 and negative electrodes. The rubber gaskets were clamped between the plexiglass and the electrode to prevent water leakage (as shown in Figure 1). CDI adsorption experiments were performed in a batch-mode circulatory system shown in Figure 1, which consisted of a CDI cell, solution tank, conductivity meter, peristaltic pump, and a direct current (DC) voltage source. The solution was flowed from the solution tank into the CDI cell and back to the solution tank, forming a circulation system. The solution flow rate was about 25 mL/min and constant for all the tests. The DC voltage source was used to provide DC voltage. The conductivity of the solution was detected in real time by the conductivity meter connected to the computer, and the data was recorded every minute. 
 
 
-![](_temp_2f0a67f7_convert__images/_temp_2f0a67f7_convert_.pdf-0003-03.png)
+![](_images/Preparation of Carbon Aerogel Electrode for Electrosorption of Copper Ions_images/_temp_1353ec22_convert_.pdf-0003-03.png)
 
 
 **Figure 1.** Capacitive deionization (CDI) system diagram and the framework of the CDI cell. Thereinto, 1 is a plexiglass plate as a support plate, 2 is a rubber gasket to prevent the water leakage, 3 is a carbon aerogel (CA) electrode as the working electrode, and 4 is a glass filament separator to prevent short circuiting. 
@@ -98,19 +98,19 @@ _Materials_ **2019** , _12_ , 1864
 pore structure parameters of 330, 530, 830, 1030, and 1530. With the increase of R/C, the micropore SSA firstly improves and then falls off. The 1030 sample has the largest pore volume (3.41 cm[3] /g), micropore SSA (1083 m[2] /g), and volume (0.55 cm[3] /g), and average pore diameter, which provides the fast pathway for ion transfer that facilitates electrosorption. 
 
 
-![](_temp_2f0a67f7_convert__images/_temp_2f0a67f7_convert_.pdf-0004-03.png)
+![](_images/Preparation of Carbon Aerogel Electrode for Electrosorption of Copper Ions_images/_temp_1353ec22_convert_.pdf-0004-03.png)
 
 
 
-![](_temp_2f0a67f7_convert__images/_temp_2f0a67f7_convert_.pdf-0004-04.png)
+![](_images/Preparation of Carbon Aerogel Electrode for Electrosorption of Copper Ions_images/_temp_1353ec22_convert_.pdf-0004-04.png)
 
 
 
-![](_temp_2f0a67f7_convert__images/_temp_2f0a67f7_convert_.pdf-0004-05.png)
+![](_images/Preparation of Carbon Aerogel Electrode for Electrosorption of Copper Ions_images/_temp_1353ec22_convert_.pdf-0004-05.png)
 
 
 
-![](_temp_2f0a67f7_convert__images/_temp_2f0a67f7_convert_.pdf-0004-06.png)
+![](_images/Preparation of Carbon Aerogel Electrode for Electrosorption of Copper Ions_images/_temp_1353ec22_convert_.pdf-0004-06.png)
 
 
 **Figure 2.** SEM image of different CAs. ( **a** ) 330; ( **b** ) 530; ( **c** ) 830; ( **d** ) 1030; ( **e** ) 1530. 
@@ -135,7 +135,7 @@ pore structure parameters of 330, 530, 830, 1030, and 1530. With the increase of
 Figure 3a displays the CV curves of CA samples with different R/C in 6 mol/L KOH solution at the scan rate of 10 mV/s. It can be found that almost all the curves show symmetrical rectangular shape, indicating that the CA electrodes have excellent electric double layer performance. There are no obvious redox peaks in the five curves, which manifests that no redox reaction and faradaic pseudo-capacitance occur. It is further demonstrated that ions are trapped in the electrode by forming an electric double layer during electrosorption. The specific capacitance SC of each CA electrode can be calculated as follows: 
 
 
-![](_temp_2f0a67f7_convert__images/_temp_2f0a67f7_convert_.pdf-0004-13.png)
+![](_images/Preparation of Carbon Aerogel Electrode for Electrosorption of Copper Ions_images/_temp_1353ec22_convert_.pdf-0004-13.png)
 
 
 where _I_ is the current (A), _V_ is the voltage (V), m is the mass of CA in the electrode material (g), and v is the scan rate (V/s). The specific capacitance of CA samples with different R/C is shown in Table 2. The specific capacitance tends to increase first and then decrease with the increase of R/C. The specific capacity of the 1530 sample is significantly reduced. The 1030 sample has the largest specific capacitance, attaining 156 F/g (at the scan rate of 10 mV/s), indicating that 1030 has the best electrosorption performance. The variation trend of specific capacitance for CA electrodes is consistent with the changes in the amount of micropores (Table 1), which proves that the electrosorption performance has a great relationship with the pore volume and micropore amount of aerogel. 
@@ -145,15 +145,15 @@ _Materials_ **2019** , _12_ , 1864
 5 of 9 
 
 
-![](_temp_2f0a67f7_convert__images/_temp_2f0a67f7_convert_.pdf-0005-02.png)
+![](_images/Preparation of Carbon Aerogel Electrode for Electrosorption of Copper Ions_images/_temp_1353ec22_convert_.pdf-0005-02.png)
 
 
 
-![](_temp_2f0a67f7_convert__images/_temp_2f0a67f7_convert_.pdf-0005-03.png)
+![](_images/Preparation of Carbon Aerogel Electrode for Electrosorption of Copper Ions_images/_temp_1353ec22_convert_.pdf-0005-03.png)
 
 
 
-![](_temp_2f0a67f7_convert__images/_temp_2f0a67f7_convert_.pdf-0005-04.png)
+![](_images/Preparation of Carbon Aerogel Electrode for Electrosorption of Copper Ions_images/_temp_1353ec22_convert_.pdf-0005-04.png)
 
 
 **----- Start of picture text -----**<br>
@@ -190,7 +190,7 @@ _Materials_ **2019** , _12_ , 1864
 the external electric field is stronger, the rate of ions moving toward the electrodes is faster, and the adsorption rate is also higher. The SAC gets sequentially weakened in the solution with SO4[2][−] , NO3[−] and Cl[−] . In addition, the CDI electrosorption is impacted by the hydrated ionic radius (HIR) and ion mass. The HIR of NO3[−] and Cl[−] (335 pm and 332 pm, respectively) differs slightly, while the ion mass of NO3[−] (62.004 amu) is greater than that of Cl[-] (35.453 amu). Thus, the adsorption amount of ions by the CA electrode in Cu(NO3)2 solution is slightly larger than that in the CuCl2 solution. Therefore, in the following experiments, the CuSO4 solution is selected as the adsorption solution. 
 
 
-![](_temp_2f0a67f7_convert__images/_temp_2f0a67f7_convert_.pdf-0006-03.png)
+![](_images/Preparation of Carbon Aerogel Electrode for Electrosorption of Copper Ions_images/_temp_1353ec22_convert_.pdf-0006-03.png)
 
 
 **Figure 4.** The adsorption curves of CA electrodes for three copper solution. 
@@ -216,15 +216,15 @@ _Materials_ **2019** , _12_ , 1864
 7 of 9 
 
 
-![](_temp_2f0a67f7_convert__images/_temp_2f0a67f7_convert_.pdf-0007-02.png)
+![](_images/Preparation of Carbon Aerogel Electrode for Electrosorption of Copper Ions_images/_temp_1353ec22_convert_.pdf-0007-02.png)
 
 
 
-![](_temp_2f0a67f7_convert__images/_temp_2f0a67f7_convert_.pdf-0007-03.png)
+![](_images/Preparation of Carbon Aerogel Electrode for Electrosorption of Copper Ions_images/_temp_1353ec22_convert_.pdf-0007-03.png)
 
 
 
-![](_temp_2f0a67f7_convert__images/_temp_2f0a67f7_convert_.pdf-0007-04.png)
+![](_images/Preparation of Carbon Aerogel Electrode for Electrosorption of Copper Ions_images/_temp_1353ec22_convert_.pdf-0007-04.png)
 
 
 **----- Start of picture text -----**<br>
@@ -238,15 +238,15 @@ _Materials_ **2019** , _12_ , 1864
 Operating conditions have a major impact on CDI performance. Therefore, the electrosorption capacity of CA in CuSO4 solution with the concentration of 100 mg/L under different applied voltage was investigated with the 1030 sample. The adsorption curves under the voltage of 0.4–1.5 V are displayed in Figure 6a. Since the CA samples are the same, the specific adsorption capacities in the front part of the curves are similar. Under different voltages, the adsorption rate is accelerated, with the increasing voltage due to the intensive electric field force. Combined with the SAC calculation at different voltages in Table 4, the electrosorption capacities of CA climb up and then decline as the applied voltage increases. CA electrode achieves the largest SAC under the applied voltage of 1.2 V. The SAC decreases at 1.5 V, which may be ascribed to the electrolytic reaction of water caused by the too large voltage. The applied voltage is an important factor affecting the adsorption capacity, adsorption rate, and removal rate of the CA electrode. Therefore, for different CDI systems, the corresponding optimal operating voltage should be ascertained. 
 
 
-![](_temp_2f0a67f7_convert__images/_temp_2f0a67f7_convert_.pdf-0007-08.png)
+![](_images/Preparation of Carbon Aerogel Electrode for Electrosorption of Copper Ions_images/_temp_1353ec22_convert_.pdf-0007-08.png)
 
 
 
-![](_temp_2f0a67f7_convert__images/_temp_2f0a67f7_convert_.pdf-0007-09.png)
+![](_images/Preparation of Carbon Aerogel Electrode for Electrosorption of Copper Ions_images/_temp_1353ec22_convert_.pdf-0007-09.png)
 
 
 
-![](_temp_2f0a67f7_convert__images/_temp_2f0a67f7_convert_.pdf-0007-10.png)
+![](_images/Preparation of Carbon Aerogel Electrode for Electrosorption of Copper Ions_images/_temp_1353ec22_convert_.pdf-0007-10.png)
 
 
 **----- Start of picture text -----**<br>
@@ -327,7 +327,7 @@ _Materials_ **2019** , _12_ , 1864
 17. Noked, M.; Avraham, E.; Soffer, A.; Aurbach, D. The Rate-Determining Step of Electroadsorption Processes into Nanoporous Carbon Electrodes Related to Water Desalination. _J. Phys. Chem. C_ **2009** , _113_ , 237–246. [CrossRef] 
 
 
-![](_temp_2f0a67f7_convert__images/_temp_2f0a67f7_convert_.pdf-0009-17.png)
+![](_images/Preparation of Carbon Aerogel Electrode for Electrosorption of Copper Ions_images/_temp_1353ec22_convert_.pdf-0009-17.png)
 
 
 - © 2019 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (http://creativecommons.org/licenses/by/4.0/). 

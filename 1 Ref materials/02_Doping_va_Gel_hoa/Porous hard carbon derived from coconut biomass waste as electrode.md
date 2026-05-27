@@ -1,7 +1,7 @@
 JCIS Open 19 (2025) 100147 
 
 
-![](_temp_467aac6a_convert__images/_temp_467aac6a_convert_.pdf-0001-01.png)
+![](_images/Porous hard carbon derived from coconut biomass waste as electrode_images/_temp_881b7838_convert_.pdf-0001-01.png)
 
 
 Contents lists available at ScienceDirect 
@@ -11,13 +11,13 @@ Contents lists available at ScienceDirect
 journal homepage: www.journals.elsevier.com/jcis-open 
 
 
-![](_temp_467aac6a_convert__images/_temp_467aac6a_convert_.pdf-0001-05.png)
+![](_images/Porous hard carbon derived from coconut biomass waste as electrode_images/_temp_881b7838_convert_.pdf-0001-05.png)
 
 
 ## Porous hard carbon derived from coconut biomass waste as electrode material for supercapacitor 
 
 
-![](_temp_467aac6a_convert__images/_temp_467aac6a_convert_.pdf-0001-07.png)
+![](_images/Porous hard carbon derived from coconut biomass waste as electrode_images/_temp_881b7838_convert_.pdf-0001-07.png)
 
 
 Muhammadin Hamid[a][,][*] , Indri Dayana[b] , Habib Satria[b] , Dadan Ramdan[b] , Junaidi[c] , Muhammad Fadlan Siregar[b] , Dewi Sholeha[d] , Juliaster Marbun[e] , Hadi Wijoyo[a] 
@@ -119,7 +119,7 @@ Where n is a positive integer, λ is the wavelength of incident X-rays (λ = 1.5
 The arrangement of the atomic structure helps in the orientation and growth of the carbon layer. As the carbon layers grow and become more organized with increasing temperature, the d-spacing decreases. Another effect that cannot be ignored here is the effect of heteroatoms. The presence of heteroatoms increases the distance between layers, creating stress on the lattice. Thus, when heteroatoms are removed from the carbon, the stress and d-spacing will decrease. We can see from the morphological analysis that the number of heteroatoms decreases with increasing temperature. So, the trend of reducing d-spacing with temperature can be attributed to the structural orientation of carbon atoms and the removal of heteroatoms from porous hard carbon. When heteroatoms are removed through thermal or chemical treatment, the carbon structure becomes more ordered and the layers move closer 
 
 
-![](_temp_467aac6a_convert__images/_temp_467aac6a_convert_.pdf-0003-13.png)
+![](_images/Porous hard carbon derived from coconut biomass waste as electrode_images/_temp_881b7838_convert_.pdf-0003-13.png)
 
 
 **Fig. 1.** The scheme of Porous Hard Carbon. 
@@ -131,7 +131,7 @@ _JCIS Open 19 (2025) 100147_
 _M. Hamid et al.                                                                                                                                                                                                                                 JCIS_ 
 
 
-![](_temp_467aac6a_convert__images/_temp_467aac6a_convert_.pdf-0004-02.png)
+![](_images/Porous hard carbon derived from coconut biomass waste as electrode_images/_temp_881b7838_convert_.pdf-0004-02.png)
 
 
 **Fig. 2.** SEM images of porous hard carbon at temperatures of 500[◦] C (a), 600[◦] C (b), and 700[◦] C (c), then particle distribution at temperatures of 500[◦] C (d), 600[◦] C (e), and 700[◦] C (f). 
@@ -141,15 +141,15 @@ together, thereby enhancing π–π interactions between the layers and expandin
 The crystallite size (D), micro strain (ε), and dislocation density (δ) were calculated using Eqs. (2)–(4), based on the Williamson-Hall method and Scherrer equation (Eqs. (2)–(4)): 
 
 
-![](_temp_467aac6a_convert__images/_temp_467aac6a_convert_.pdf-0004-06.png)
+![](_images/Porous hard carbon derived from coconut biomass waste as electrode_images/_temp_881b7838_convert_.pdf-0004-06.png)
 
 
 
-![](_temp_467aac6a_convert__images/_temp_467aac6a_convert_.pdf-0004-07.png)
+![](_images/Porous hard carbon derived from coconut biomass waste as electrode_images/_temp_881b7838_convert_.pdf-0004-07.png)
 
 
 
-![](_temp_467aac6a_convert__images/_temp_467aac6a_convert_.pdf-0004-08.png)
+![](_images/Porous hard carbon derived from coconut biomass waste as electrode_images/_temp_881b7838_convert_.pdf-0004-08.png)
 
 
 Where D is the crystallite size (nm), δ is the dislocation density (n/m[2] ), β 
@@ -207,17 +207,17 @@ of the samples. In addition, the peaks on the CV curves significantly strengthen
 Furthermore, based on Fig. 3(a,b,c), the specific capacitance results of PHC-500, PHC-600, and PHC-700 are 439.97 F/g, 463.20 F/g, and 1012.27 F/g, respectively. This substantial increase in specific capacitance is due to the increased area accessible to electrolyte ions with vapor activation. As a result, the specific capacitance of PHCs is not much different. However PHC-700, which exhibited the largest specific surface area, was confirmed to also exhibit the largest specific capacitance [28]. The charge storage mechanism of the PHC electrode is described using power law analysis of electrochemical kinetics as Eq. 5, 6: 
 
 
-![](_temp_467aac6a_convert__images/_temp_467aac6a_convert_.pdf-0005-13.png)
+![](_images/Porous hard carbon derived from coconut biomass waste as electrode_images/_temp_881b7838_convert_.pdf-0005-13.png)
 
 
 
-![](_temp_467aac6a_convert__images/_temp_467aac6a_convert_.pdf-0005-14.png)
+![](_images/Porous hard carbon derived from coconut biomass waste as electrode_images/_temp_881b7838_convert_.pdf-0005-14.png)
 
 
 It is known that _i_ represents the maximum current density, _v_ is the scan rate, and _a_ and _b_ are constants. Specifically, when _b_ equals 1, the charge storage is predominantly governed by a capacitive process, whereas _b_ value of 0.5 indicates that the process is mainly diffusioncontrolled. According to the Dunn method, the total charge storage at a given scan rate results from a combination of capacitive and diffusioncontrolled processes. Therefore, the total stored charge at a specific scan rate can be estimated as the sum of the capacitive contribution, or EDLC (where _I_ ∝ _v_ ), and the diffusion-controlled contribution, or pseudocapacitance (where _I_ ∝ _v_[1] ᐟ[2] ) [29]. The charge storage mechanism appears to result from a combination of capacitive and diffusion-controlled processes [30]. Furthermore, the quantitative contributions of PHC electrode governed by these mechanisms were estimated using Eq. (7). 
 
 
-![](_temp_467aac6a_convert__images/_temp_467aac6a_convert_.pdf-0005-16.png)
+![](_images/Porous hard carbon derived from coconut biomass waste as electrode_images/_temp_881b7838_convert_.pdf-0005-16.png)
 
 
 Where, _i_ represents the total current, _k_ 1 _v_ and _k_ 2 _v_[1] 2 correspond to the capacitive and diffusion-controlled contributions, respectively, and k1 and k2 are constants. Fig. 3(d,e,f) illustrates the total charge storage of PHC at various scan rates, which is governed by both capacitive and diffusion-controlled mechanisms. The results reveal that the PHC-500 and PHC-700 electrodes primarily store charge through a diffusioncontrolled mechanism. In contrast, the PHC-600 electrode stores charge mainly via a capacitive mechanism, although not overwhelmingly dominant, contributing approximately 80 % of the total charge storage at a scan rate of 10 mV/s. The remaining 20 % is attributed to diffusion processes, as depicted in Fig. 3(g,h,i) At the same scan rate, the capacitive process accounts for around 57.92 % of the total charge storage, while the remaining 42.08 % originates from diffusioncontrolled contributions. A quantitative evaluation of the charge storage contributions is essential for developing materials with higher specific capacitance and for designing strategies to optimize the involvement of both mechanisms. 
@@ -229,7 +229,7 @@ The addition of orange juice activator to coconut biomass waste increases the sp
 _JCIS Open 19 (2025) 100147_ 
 
 
-![](_temp_467aac6a_convert__images/_temp_467aac6a_convert_.pdf-0006-02.png)
+![](_images/Porous hard carbon derived from coconut biomass waste as electrode_images/_temp_881b7838_convert_.pdf-0006-02.png)
 
 
 **Fig. 3.** CV curve of sample PHC-500 (a), PHC-600 (b), PHC-700 (c), diffusion and capacitive method contributions of sample PHC-500 (d), PHC-600 (e), PHC-700 (f), b-value computation of sample PHC-500 (g), PHC-600 (h), PHC-700 (i). 
@@ -239,7 +239,7 @@ _JCIS Open 19 (2025) 100147_
 > _M. Hamid et al.                                                                                                                                                                                                                                 JCIS Open 19 (2025) 100147_ 
 
 
-![](_temp_467aac6a_convert__images/_temp_467aac6a_convert_.pdf-0007-01.png)
+![](_images/Porous hard carbon derived from coconut biomass waste as electrode_images/_temp_881b7838_convert_.pdf-0007-01.png)
 
 
 – **Fig. 4.** Nyquist plots of sample PHC-500 (a), PHC-600 (b), and PHC-700 (c), XRD graph (d), N2 adsorption desorption isotherms (e), BJH pore-size distribution curve (f), and GCD Curve on current density 1 A/g (g). 
@@ -289,7 +289,7 @@ value indicates that electrons or ions can move more easily within the electrode
 Subsequently, GCD testing was conducted to evaluate the charge and discharge capabilities of the sample. Several necessary equations are as follows: 
 
 
-![](_temp_467aac6a_convert__images/_temp_467aac6a_convert_.pdf-0008-14.png)
+![](_images/Porous hard carbon derived from coconut biomass waste as electrode_images/_temp_881b7838_convert_.pdf-0008-14.png)
 
 
 Where, C: Specific capacitance of the button cell (F/g), ΔV: Voltage window (V); E: energy density (Wh/kg); P: power density (W/kg), and Δt-discharge time (s) [39]. 

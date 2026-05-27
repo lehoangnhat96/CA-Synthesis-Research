@@ -1,9 +1,9 @@
 
-![](_temp_fc5fe5cd_convert__images/_temp_fc5fe5cd_convert_.pdf-0001-00.png)
+![](_images/0 Multi-Objective Optimization and Analysis of Mechanical Properties of Coir_images/_temp_080ed8a6_convert_.pdf-0001-00.png)
 
 
 
-![](_temp_fc5fe5cd_convert__images/_temp_fc5fe5cd_convert_.pdf-0001-01.png)
+![](_images/0 Multi-Objective Optimization and Analysis of Mechanical Properties of Coir_images/_temp_080ed8a6_convert_.pdf-0001-01.png)
 
 
 ## _Article_ 
@@ -29,7 +29,7 @@ Received: 30 October 2022 Accepted: 29 November 2022 Published: 30 November 2022
 **Publisher’s Note:** MDPI stays neutral with regard to jurisdictional claims in published maps and institutional affiliations. 
 
 
-![](_temp_fc5fe5cd_convert__images/_temp_fc5fe5cd_convert_.pdf-0001-13.png)
+![](_images/0 Multi-Objective Optimization and Analysis of Mechanical Properties of Coir_images/_temp_080ed8a6_convert_.pdf-0001-13.png)
 
 
 **Copyright:** © 2022 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https:// creativecommons.org/licenses/by/ 4.0/). 
@@ -65,7 +65,7 @@ is of great importance to improve the comprehensive mechanical properties of the
 The waste coconut shells used in the experiments were collected from mature coconuts grown in Hainan Province, China. The coir fiber was extracted from the waste in the coconut forest. Figure 1 shows the coconut forest, waste coconut shell and coir fiber. The chemical used to treat the coir fibers was sodium hydroxide (NaOH) solution, which was purchased from Phygene Biotechnology, Fuzhou. 
 
 
-![](_temp_fc5fe5cd_convert__images/_temp_fc5fe5cd_convert_.pdf-0003-06.png)
+![](_images/0 Multi-Objective Optimization and Analysis of Mechanical Properties of Coir_images/_temp_080ed8a6_convert_.pdf-0003-06.png)
 
 
 **Figure 1.** Coconut forest, waste coconut shell and coir fibers. 
@@ -79,7 +79,7 @@ The coir fibers for experimental use were selected by hand to ensure that they w
 _Forests_ **2022** , _13_ , 2033 
 
 
-![](_temp_fc5fe5cd_convert__images/_temp_fc5fe5cd_convert_.pdf-0004-02.png)
+![](_images/0 Multi-Objective Optimization and Analysis of Mechanical Properties of Coir_images/_temp_080ed8a6_convert_.pdf-0004-02.png)
 
 
 **Figure 2.** Preparation process of coir fiber samples. 
@@ -127,7 +127,7 @@ The untreated and treated samples of coir fiber were studied and analyzed with t
 The crystallinity index of untreated and treated samples of coir fiber was measured by an X-ray Diffractometer (XRD) (Smart Lab, Rigaku, Tokyo, Japan). Before the determination, the coir fiber was broken with a pulverizer to prepare powder samples, all of which were scanned in the range 2θ of 5 _[◦]_ –60 _[◦]_ at the scanning speed of 5 _[◦]_ /min. The relative crystallinity index of each fiber sample was calculated according to the obtained spectral data and the Segal empirical method [23]. 
 
 
-![](_temp_fc5fe5cd_convert__images/_temp_fc5fe5cd_convert_.pdf-0005-11.png)
+![](_images/0 Multi-Objective Optimization and Analysis of Mechanical Properties of Coir_images/_temp_080ed8a6_convert_.pdf-0005-11.png)
 
 
 where CrI is crystallinity index, I002 is the maximum intensity of 002 lattice diffraction plane at a 2θ close to 22 _[◦]_ and Iam is the intensity diffraction of amorphous materials at a 2θ close to 18 _[◦]_ . 
@@ -246,13 +246,13 @@ Note: _p_ -value < 0.01 (highly significant, **); _p_ -value < 0.05 (significant
 The significance of variables in the regression model is related to _p_ -value, and it is considered to be significant when the _p_ -value is less than 0.05. Table 3 shows the ANOVA results of tensile strength. It can be seen that variables A, B, C, BC, A[2] , B[2] and C[2] exert a significant impact on tensile strength Y1. To optimize model Y1, insignificant model terms were eliminated. The regression model is shown in Equation (2). The model of tensile strength Y1 is highly significant ( _p_ < 0.01), and the lack-of-fit value is not significant ( _p_ > 0.05), suggesting a good fitting relationship between the regression model and the actual situation. The regression coefficient _R_[2] is 0.9789, indicating that the data can properly express the model. The table also shows that the predicted _R_[2] is 0.9365 and the adjusted _R_[2] is 0.9625; the difference is less than 0.2. Furthermore, the adequate precision measures the signal to noise ratio. When the ratio is greater than 4, it is desirable. This ratio in the model is 21.8151, indicating that the signal is sufficient and that the model can be used in the navigation design space [24,27]. 
 
 
-![](_temp_fc5fe5cd_convert__images/_temp_fc5fe5cd_convert_.pdf-0007-06.png)
+![](_images/0 Multi-Objective Optimization and Analysis of Mechanical Properties of Coir_images/_temp_080ed8a6_convert_.pdf-0007-06.png)
 
 
 Table 4 shows the ANOVA results of elastic modulus. The _p_ -values corresponding to each variable are compared, and it is shown that the variables A, B, C, AB, A[2] , B[2] and C[2] have a significant impact on elastic modulus Y2. After the insignificant model terms in the model were eliminated, the regression model is obtained, as shown in Equation (3). The model of elastic modulus Y2 was highly significant, while the lack-of-fit value was not, which shows that the fitting degree between the regression model and the actual situation was good within the testing range. In addition, the regression coefficient _R_[2] is 0.9859 in the regression model of elastic modulus Y2, and the predicted _R_[2] of 0.9533 is in reasonable agreement with the adjusted _R_[2] of 0.9750. It can be found that they show a significant relationship. Adequate precision measures the signal to noise ratio, which in this model is 28.0769, satisfying the requirements of the navigation design space with an adequate signal [24,27]. 
 
 
-![](_temp_fc5fe5cd_convert__images/_temp_fc5fe5cd_convert_.pdf-0007-08.png)
+![](_images/0 Multi-Objective Optimization and Analysis of Mechanical Properties of Coir_images/_temp_080ed8a6_convert_.pdf-0007-08.png)
 
 
 Table 5 shows the ANOVA results for elongation. The _p_ -value of the elongation regression equation model is less than 0.0001, indicating that the model is highly significant, while the lack-of-fit value is insignificant. Therefore, it can be concluded that the model is suitable. The regression model is shown in Equation (4). Among them, variables A, B, C, AB, AC, BC, A[2] , B[2] and C[2] have a significant impact on elongation Y3. The same table also 
@@ -264,13 +264,13 @@ _Forests_ **2022** , _13_ , 2033
 shows that the regression coefficient _R_[2] , the predicted _R_[2] and the adjusted _R_[2] are 0.9946, 0.9504 and 0.9876, respectively. The predicted value is highly correlated with the actual value, suggesting that the empirical model is significantly reliable. The adequate precision ratio of the model is 32.1528, indicating that the model can be used to navigate the design space [24,27]. 
 
 
-![](_temp_fc5fe5cd_convert__images/_temp_fc5fe5cd_convert_.pdf-0008-03.png)
+![](_images/0 Multi-Objective Optimization and Analysis of Mechanical Properties of Coir_images/_temp_080ed8a6_convert_.pdf-0008-03.png)
 
 
 To gain deeper insight into the testing results, the perturbation plots in Figure 3 show the effect of the treatment conditions on tensile strength, elastic modulus and elongation. Conclusions can also be drawn by analyzing the F-value of each treatment condition in Tables 3–5. The influential order for tensile strength is NaOH concentration, time and temperature from the largest to the smallest; that for elastic modulus is temperature, NaOH concentration and time; and that for elongation is NaOH concentration, time and temperature. In addition, NaOH concentration has the greatest effect on the tensile strength, while the time and temperature have relatively little effect on the tensile strength. Compared with the time, NaOH concentration and temperature exert slightly greater impact on elastic modulus. The effect of NaOH concentration on elongation is greater than that of time and temperature. Similar results indicating that the NaOH concentration of alkali treatment has a greater impact on the mechanical properties of natural fibers have been reported elsewhere [26]. 
 
 
-![](_temp_fc5fe5cd_convert__images/_temp_fc5fe5cd_convert_.pdf-0008-05.png)
+![](_images/0 Multi-Objective Optimization and Analysis of Mechanical Properties of Coir_images/_temp_080ed8a6_convert_.pdf-0008-05.png)
 
 
 **Figure 3.** Perturbation plots: ( **a** ) Effect of factors on tensile strength, ( **b** ) effect of factors on elastic modulus, ( **c** ) effect of factors on elongation. 
@@ -286,7 +286,7 @@ _Forests_ **2022** , _13_ , 2033
 lignin, whose functions are support and bonding, is dissolved after a long period of time, resulting in the decrease of tensile strength. Jiang et al. also reported that unreasonable alkali treatment conditions would adversely affect the tensile strength of fibers in their research on the effects of alkali treatment on palm fibers [28]. 
 
 
-![](_temp_fc5fe5cd_convert__images/_temp_fc5fe5cd_convert_.pdf-0009-03.png)
+![](_images/0 Multi-Objective Optimization and Analysis of Mechanical Properties of Coir_images/_temp_080ed8a6_convert_.pdf-0009-03.png)
 
 
 **Figure 4.** Effect of time and temperature on the tensile strength of coir fiber at a NaOH concentration of 6%: ( **a** ) three-dimensional surface plot; ( **b** ) contour plot. 
@@ -296,7 +296,7 @@ lignin, whose functions are support and bonding, is dissolved after a long perio
 Elastic modulus is one of the most important properties of coir fiber. The interaction of NaOH concentration and time has a significant impact on the elastic modulus of coir fiber. Its three-dimensional surface plot and the contour plot are shown in Figure 5. According to the analysis of the three-dimensional surface plot in Figure 5a, the elastic modulus of coir fiber tends to increase and then decrease as treatment time lengthens in the same NaOH concentration, when the temperature of alkali treatment was fixed at the level of 0 (C = 40 _[◦]_ C), and the trend is the same as NaOH concentration increases when the treatment time remains unchanged. In addition, as shown in the contour plot in Figure 5b, the elastic modulus changes rapidly along the NaOH concentration direction and slowly along the time direction. It is worth noting that excessively high NaOH concentration or excessively long treatment time will cause damage to coir fiber [18]. When the elastic modulus reaches the maximum, any further increase in NaOH concentration and treatment time will reduce 
 
 
-![](_temp_fc5fe5cd_convert__images/_temp_fc5fe5cd_convert_.pdf-0009-07.png)
+![](_images/0 Multi-Objective Optimization and Analysis of Mechanical Properties of Coir_images/_temp_080ed8a6_convert_.pdf-0009-07.png)
 
 
 **Figure 5.** Effect of NaOH concentration and time on elastic modulus of coir fiber at a temperature of 40 _[◦]_ C: ( **a** ) three-dimensional surface plot; ( **b** ) contour plot. 
@@ -318,7 +318,7 @@ Jiang et al. and Valášek et al. also studied the effect of alkali treatment on
 _Forests_ **2022** , _13_ , 2033 
 
 
-![](_temp_fc5fe5cd_convert__images/_temp_fc5fe5cd_convert_.pdf-0011-02.png)
+![](_images/0 Multi-Objective Optimization and Analysis of Mechanical Properties of Coir_images/_temp_080ed8a6_convert_.pdf-0011-02.png)
 
 
 **Figure 6.** Effect of NaOH concentration and time on elongation of coir fiber at a temperature of 40 _[◦]_ C: ( **a** ) three-dimensional surface plot; ( **b** ) contour plot. Effect of NaOH concentration and temperature on elongation of coir fiber at a time of 12 h: ( **c** ) three-dimensional surface plot; ( **d** ) contour plot. Effect of time and temperature on elongation of coir fiber at a NaOH concentration of 6%: ( **e** ) three-dimensional surface plot; ( **f** ) contour plot. 
@@ -332,7 +332,7 @@ _Forests_ **2022** , _13_ , 2033
 Figure 7a–c show the relationship between the actual and predicted values of tensile strength, elastic modulus and elongation, respectively. All points in the figures are distributed near the diagonal line, indicating a high correlation between the actual and predicted values. They also reflect that the model is highly accurate. It can be seen that these selected models are adequate [24,26]. 
 
 
-![](_temp_fc5fe5cd_convert__images/_temp_fc5fe5cd_convert_.pdf-0012-04.png)
+![](_images/0 Multi-Objective Optimization and Analysis of Mechanical Properties of Coir_images/_temp_080ed8a6_convert_.pdf-0012-04.png)
 
 
 **Figure 7.** Linear plots: ( **a** ) predicted and actual values of tensile strength, ( **b** ) predicted and actual values of elastic modulus and ( **c** ) predicted and actual values of elongation. 
@@ -340,7 +340,7 @@ Figure 7a–c show the relationship between the actual and predicted values of t
 To obtain better properties of coir fibers, suitable alkali treatment conditions are essential. Therefore, the tensile strength, elastic modulus, and elongation exhibited by coir fibers are taken as optimization objectives. In this study, multi-objective optimization is required to optimize the combination of parameters that satisfy several indicators; thus, the NaOH concentration, time, and temperature of the alkali treatment are optimized. The mathematical model is obtained by building a parametric optimization model and analyzing the regression equation as shown in Equation (5). 
 
 
-![](_temp_fc5fe5cd_convert__images/_temp_fc5fe5cd_convert_.pdf-0012-07.png)
+![](_images/0 Multi-Objective Optimization and Analysis of Mechanical Properties of Coir_images/_temp_080ed8a6_convert_.pdf-0012-07.png)
 
 
 The model is optimized and analyzed by Design-Expert software 11, and a sufficient range is set for the parameters to ensure that the optimization results appear in the given range. As can be observed from Figure 8, the optimal operating conditions for alkali treatment are 4.12% NaOH concentration, 15.08 h of treatment time and a treatment temperature of 34.21 _[◦]_ C. Under these treatment conditions, the tensile strength is 98.13 MPa, elastic modulus is 2.99 GPa and elongation is 29.71%. 
@@ -354,7 +354,7 @@ To confirm the accuracy of the model prediction, validation tests were performed
 _Forests_ **2022** , _13_ , 2033 
 
 
-![](_temp_fc5fe5cd_convert__images/_temp_fc5fe5cd_convert_.pdf-0013-02.png)
+![](_images/0 Multi-Objective Optimization and Analysis of Mechanical Properties of Coir_images/_temp_080ed8a6_convert_.pdf-0013-02.png)
 
 
 **Figure 8.** Optimal results. 
@@ -382,13 +382,13 @@ _Forests_ **2022** , _13_ , 2033
 mechanical interlocking between the coir fiber and the polymer matrix can be produced after solidification, thus effectively improving the interfacial bonding performance between them [32,33]. This further proves the effect of alkali treatment under appropriate conditions. 
 
 
-![](_temp_fc5fe5cd_convert__images/_temp_fc5fe5cd_convert_.pdf-0014-03.png)
+![](_images/0 Multi-Objective Optimization and Analysis of Mechanical Properties of Coir_images/_temp_080ed8a6_convert_.pdf-0014-03.png)
 
 
 **Figure 9.** Mechanical properties of untreated and treated coir fibers under optimal conditions. 
 
 
-![](_temp_fc5fe5cd_convert__images/_temp_fc5fe5cd_convert_.pdf-0014-05.png)
+![](_images/0 Multi-Objective Optimization and Analysis of Mechanical Properties of Coir_images/_temp_080ed8a6_convert_.pdf-0014-05.png)
 
 
 **Figure 10.** SEM micrographs of coir fiber surfaces: ( **a** ) untreated fiber (200 _×_ ), ( **b** ) untreated fiber (800 _×_ ), ( **c** ) treated fiber under optimal conditions (200 _×_ ) and ( **d** ) treated fiber under optimal conditions (800 _×_ ). 
@@ -400,7 +400,7 @@ _Forests_ **2022** , _13_ , 2033
 Figure 11a,b shows SEM micrographs of UCF cross-sections at different magnifications. Figure 11c,d show SEM micrographs of OCF cross-sections at different magnifications. When the micrographs of UCF and OCF are compared, some differences can be found. It is more obvious that the cross-section of UCF is relatively flat, while that of OCF shows a fine burr-like appearance, due to the erosion by alkali treatment. After the treatment, the non-cellulosic substances in the pores are removed, the coir fiber becomes soft, and a large number of fiber cells contained in them are partially deformed. Additionally, more gaps are observed inside the OCF cross-section compared with UCF, attributable to the network-like association between the deformed fiber cells. These changes improve the elongation of coir fiber [18]. Thus, it can be seen that alkali treatment under appropriate conditions can make the advantageous properties of coir fibers more prominent. 
 
 
-![](_temp_fc5fe5cd_convert__images/_temp_fc5fe5cd_convert_.pdf-0015-03.png)
+![](_images/0 Multi-Objective Optimization and Analysis of Mechanical Properties of Coir_images/_temp_080ed8a6_convert_.pdf-0015-03.png)
 
 
 **Figure 11.** SEM micrographs of coir fiber cross-sections: ( **a** ) untreated fiber (200 _×_ ), ( **b** ) untreated fiber (800 _×_ ), ( **c** ) treated fiber under optimal conditions (200 _×_ ) and ( **d** ) treated fiber under optimal conditions (800 _×_ ). 
@@ -416,7 +416,7 @@ _Forests_ **2022** , _13_ , 2033
 and pectin from coir fiber after alkali treatment [28], which is consistent with the results of SEM. 
 
 
-![](_temp_fc5fe5cd_convert__images/_temp_fc5fe5cd_convert_.pdf-0016-03.png)
+![](_images/0 Multi-Objective Optimization and Analysis of Mechanical Properties of Coir_images/_temp_080ed8a6_convert_.pdf-0016-03.png)
 
 
 **Figure 12.** ( **a** ) The TGA curves of untreated (black) and treated (red) coir fibers under optimal conditions. ( **b** ) The DTG curves of untreated (black) and treated (red) coir fibers under optimal conditions. 
@@ -430,7 +430,7 @@ Both UCF and OCF samples were analyzed using FTIR. Figure 13a shows the FTIR spe
 _Forests_ **2022** , _13_ , 2033 
 
 
-![](_temp_fc5fe5cd_convert__images/_temp_fc5fe5cd_convert_.pdf-0017-02.png)
+![](_images/0 Multi-Objective Optimization and Analysis of Mechanical Properties of Coir_images/_temp_080ed8a6_convert_.pdf-0017-02.png)
 
 
 **Figure 13.** ( **a** ) FTIR spectra of untreated (black) and treated (red) coir fibers under optimal conditions. ( **b** ) Enlarged view of labeled regions in FTIR spectra. 
@@ -457,7 +457,7 @@ _Forests_ **2022** , _13_ , 2033
 To investigate changes in coir fiber after treatment, XRD analysis was performed on both samples. Their X-ray diffractograms are shown in Figure 14. It can be seen from the figure that the shapes of the XRD spectra of the two samples are almost the same, with obvious peaks near 16 _[◦]_ , 22 _[◦]_ and 35 _[◦]_ . The peak located around 16 _[◦]_ is related to the overlap of the 101 plane and 101 plane of cellulose, the one located around 22 _[◦]_ is mainly related to the 002 plane, and the one located around 35 _[◦]_ is related to the 040 plane. This indicates that the cellulose I crystalline structure of coir fiber did not change after alkali treatment. These phenomena were also mentioned by Ma et al. and Wu et al. in the study on alkali treatment of natural fibers [12,17]. In addition, some information can be obtained by comparing the two curves in the diffractograms. The peak of the XRD spectrum of OCF is more obvious, which shows that the crystallinity index of OCF is higher than that of UCF [28]. To verify this conclusion, the crystallinity indexes of the two samples were calculated based on the Segal empirical method. The crystallinity indexes of UCF and OCF are shown in Table 8, which are 35.85% and 40.40%, respectively. This change may be attributed to the large presence of lignin and hemicellulose in UCF and the removal of some amorphous components in OCF, such as hemicellulose and lignin. This increases the relative content of crystalline cellulose, resulting in cellulose crystal to accumulate and cellulose molecules to rearrange [28,37,38]. Therefore, OCF exhibits a higher crystallinity index than UCF, which also suggests that OCF has better mechanical properties than UCF. 
 
 
-![](_temp_fc5fe5cd_convert__images/_temp_fc5fe5cd_convert_.pdf-0018-04.png)
+![](_images/0 Multi-Objective Optimization and Analysis of Mechanical Properties of Coir_images/_temp_080ed8a6_convert_.pdf-0018-04.png)
 
 
 **Figure 14.** XRD spectra of untreated (black) and treated (red) coir fibers under optimal conditions. **Table 8.** Crystallinity index values of coir fibers. 

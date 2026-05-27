@@ -1,11 +1,11 @@
 _**energies**_ 
 
 
-![](_temp_9863e0c1_convert__images/_temp_9863e0c1_convert_.pdf-0001-01.png)
+![](_images/Coconut Shell-Derived Activated Carbon for High-Performance_images/_temp_991a7081_convert_.pdf-0001-01.png)
 
 
 
-![](_temp_9863e0c1_convert__images/_temp_9863e0c1_convert_.pdf-0001-02.png)
+![](_images/Coconut Shell-Derived Activated Carbon for High-Performance_images/_temp_991a7081_convert_.pdf-0001-02.png)
 
 
 ## _Article_ 
@@ -37,7 +37,7 @@ Received: 26 June 2021 Accepted: 23 July 2021 Published: 27 July 2021
 **Publisher’s Note:** MDPI stays neutral with regard to jurisdictional claims in published maps and institutional affiliations. 
 
 
-![](_temp_9863e0c1_convert__images/_temp_9863e0c1_convert_.pdf-0001-17.png)
+![](_images/Coconut Shell-Derived Activated Carbon for High-Performance_images/_temp_991a7081_convert_.pdf-0001-17.png)
 
 
 **Copyright:** © 2021 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https:// creativecommons.org/licenses/by/ 4.0/). 
@@ -91,7 +91,7 @@ Galvanostatic charge and discharge (GCD), cyclic voltammetry (CV), and electroch
 From the GCD curves, the specific capacitances( _Cm_ , F g _[−]_[1] ) of the electrodes and symmetric supercapacitors were calculated using Equation (1): 
 
 
-![](_temp_9863e0c1_convert__images/_temp_9863e0c1_convert_.pdf-0003-09.png)
+![](_images/Coconut Shell-Derived Activated Carbon for High-Performance_images/_temp_991a7081_convert_.pdf-0003-09.png)
 
 
 where _I_ , ∆ _t_ , _m_ , and _V_ are the discharging current (A), the discharging time (s), the mass of the electroactive materials or total active materials in the positive and negative electrodes (g), and the voltage change (V), respectively. 
@@ -99,11 +99,11 @@ where _I_ , ∆ _t_ , _m_ , and _V_ are the discharging current (A), the dischar
 Specific energy densities ( _E_ , Wh _·_ kg _[−]_[1] ) and specific power densities ( _P_ , W _·_ kg _[−]_[1] ) for the symmetric supercapacitors were acquired via Equations (2) and (3): 
 
 
-![](_temp_9863e0c1_convert__images/_temp_9863e0c1_convert_.pdf-0003-12.png)
+![](_images/Coconut Shell-Derived Activated Carbon for High-Performance_images/_temp_991a7081_convert_.pdf-0003-12.png)
 
 
 
-![](_temp_9863e0c1_convert__images/_temp_9863e0c1_convert_.pdf-0003-13.png)
+![](_images/Coconut Shell-Derived Activated Carbon for High-Performance_images/_temp_991a7081_convert_.pdf-0003-13.png)
 
 
 4 of 11 
@@ -119,15 +119,15 @@ where _C_ (F g _[−]_[1] ) is the specific capacitance, _V_ (V) is the operatin
 Microstructural properties of the carbon samples were characterised using SEM. Micrographs of CSC and CSCK1 – CSCK3 samples are shown in Figure 1. Significant differences between the surface morphology of CSC (HTC treated) and CSCKs (HTC plus KOH treated) were observed. As shown in Figure 1a, the surface of CSC was rough and with no pores available on the surface. During HTC, the amorphous hemicellulose, cellulose, and lignin are postulated to have undergone liquefaction. Following that, leaching might have occurred, causing the materials to vacate the coconut shells, resulting in the random plane volumes as shown. In contrast, the structure was severely destroyed by KOH with the formation of porous and tattered surfaces for CSCK1 – CSCK3 (Figure 1b–d). The surface of CSCK1 was composed of small conchoidal cavities. With the increase in KOH amount, a highly porous, three-dimensional network structure was observed for CSCK2, while CSCK3 was quite irregular and full of micrometer-scale large pores on the skeleton. In this case, a high KOH concentration might have caused the formation of pores by altering the structures of the samples. 
 
 
-![](_temp_9863e0c1_convert__images/_temp_9863e0c1_convert_.pdf-0004-06.png)
+![](_images/Coconut Shell-Derived Activated Carbon for High-Performance_images/_temp_991a7081_convert_.pdf-0004-06.png)
 
 
 
-![](_temp_9863e0c1_convert__images/_temp_9863e0c1_convert_.pdf-0004-07.png)
+![](_images/Coconut Shell-Derived Activated Carbon for High-Performance_images/_temp_991a7081_convert_.pdf-0004-07.png)
 
 
 
-![](_temp_9863e0c1_convert__images/_temp_9863e0c1_convert_.pdf-0004-08.png)
+![](_images/Coconut Shell-Derived Activated Carbon for High-Performance_images/_temp_991a7081_convert_.pdf-0004-08.png)
 
 
 **----- Start of picture text -----**<br>
@@ -145,15 +145,15 @@ _Energies_ **2021** , _14_ , 4546
 in Figure 2a, the CSCK range adsorbed a relatively high amount of N2 when _P_ / _P_ 0 < 0.1, indicating the abundance of micropores. Over the relative pressure of 0.8, the multilayer adsorption of N2 occurred on activated carbon, resulting in the isotherms not reaching a horizontal plateau and indicating a tendency of the sample to have a macropore size distribution. The isotherms may be considered an intermediate between types I and II In accordance with the Brunauer–Deming–Deming–Teller (BDDB) classification [26], the isotherms appear to be a hybrid of Types I and II. This is due to the observable nitrogen absorption at low _P/P_ 0, indicating the Type I isotherm, as well as nitrogen absorption at high _P_ / _P_ 0, indicating the Type II isotherm. In addition, unlike the other samples, the CSCK1 sample demonstrated a mixture of Type I and II isotherms, also showing hysteresis of the H2 type due to capillary condensation at _P_ / _P_ 0 = 0.45–0.89, signifying that it has high mesoporosity, and further suggesting that micro-, meso-, and macropores co-exist [27]. Such hierarchical micro/mesoporous texture for the CSCK samples was intuitively disclosed by their corresponding pore size distribution diagrams, depicted in Figure 2b. CSCK1 had a broad pore size of up to 50 nm and high ratio of mesopore volume. Using KOH in activating CSCK2 and CSCK3, the enlargement of their pores ensured, resulting in a drop in their mesoporous volume. 
 
 
-![](_temp_9863e0c1_convert__images/_temp_9863e0c1_convert_.pdf-0005-03.png)
+![](_images/Coconut Shell-Derived Activated Carbon for High-Performance_images/_temp_991a7081_convert_.pdf-0005-03.png)
 
 
 
-![](_temp_9863e0c1_convert__images/_temp_9863e0c1_convert_.pdf-0005-04.png)
+![](_images/Coconut Shell-Derived Activated Carbon for High-Performance_images/_temp_991a7081_convert_.pdf-0005-04.png)
 
 
 
-![](_temp_9863e0c1_convert__images/_temp_9863e0c1_convert_.pdf-0005-05.png)
+![](_images/Coconut Shell-Derived Activated Carbon for High-Performance_images/_temp_991a7081_convert_.pdf-0005-05.png)
 
 
 **----- Start of picture text -----**<br>
@@ -184,7 +184,7 @@ _Energies_ **2021** , _14_ , 4546
 Raman spectroscopy was carried out to investigate how the structures of the materials evolved as KOH was added in different concentrations while the materials were being activated. Results for the spectroscopy are shown in Figure 3. Two apparent bands are detected approximately at the wavenumbers of 1350 and 1580 cm _[−]_[1] . At about 1350 cm _[−]_[1] , band ‘D’ appears as a result of the existence of imperfections or defects for the material. On the other hand, band ‘G’ ca. 1580 cm _[−]_[1] corresponds to the basal planes of graphene vibrating in the stretching mode. The ratios of ID to IG are representations of structural defects and disorders of the graphitic structures. In this study, the aforementioned ratio for the samples descend according to: CSCK3 (1.21) > CSCK2(1.00) > CSCK1(0.99) > CSC (0.95). The ID/IG ratio for CSC was relatively low, which is attributed to its porous structure that are underdeveloped. Meanwhile, the aforesaid ratio for all CSCK samples was higher than 1, indicating the presence defect-rich structures in CSCKs. This indicated that KOH activation brings about considerable defect formation, resulting in the material’s increased surface area and porosity (Table 1). 
 
 
-![](_temp_9863e0c1_convert__images/_temp_9863e0c1_convert_.pdf-0006-06.png)
+![](_images/Coconut Shell-Derived Activated Carbon for High-Performance_images/_temp_991a7081_convert_.pdf-0006-06.png)
 
 
 **Figure 3.** Raman spectra for the as-prepared CSC and CSCKs. 
@@ -198,15 +198,15 @@ Previous investigations suggest that an increased BET surface area is beneficial
 _Energies_ **2021** , _14_ , 4546 
 
 
-![](_temp_9863e0c1_convert__images/_temp_9863e0c1_convert_.pdf-0007-02.png)
+![](_images/Coconut Shell-Derived Activated Carbon for High-Performance_images/_temp_991a7081_convert_.pdf-0007-02.png)
 
 
 
-![](_temp_9863e0c1_convert__images/_temp_9863e0c1_convert_.pdf-0007-03.png)
+![](_images/Coconut Shell-Derived Activated Carbon for High-Performance_images/_temp_991a7081_convert_.pdf-0007-03.png)
 
 
 
-![](_temp_9863e0c1_convert__images/_temp_9863e0c1_convert_.pdf-0007-04.png)
+![](_images/Coconut Shell-Derived Activated Carbon for High-Performance_images/_temp_991a7081_convert_.pdf-0007-04.png)
 
 
 **----- Start of picture text -----**<br>
@@ -234,15 +234,15 @@ In this study, power densities ( _P_ ) and energy densities ( _E_ ) of the SSC d
 _Energies_ **2021** , _14_ , 4546 
 
 
-![](_temp_9863e0c1_convert__images/_temp_9863e0c1_convert_.pdf-0009-02.png)
+![](_images/Coconut Shell-Derived Activated Carbon for High-Performance_images/_temp_991a7081_convert_.pdf-0009-02.png)
 
 
 
-![](_temp_9863e0c1_convert__images/_temp_9863e0c1_convert_.pdf-0009-03.png)
+![](_images/Coconut Shell-Derived Activated Carbon for High-Performance_images/_temp_991a7081_convert_.pdf-0009-03.png)
 
 
 
-![](_temp_9863e0c1_convert__images/_temp_9863e0c1_convert_.pdf-0009-04.png)
+![](_images/Coconut Shell-Derived Activated Carbon for High-Performance_images/_temp_991a7081_convert_.pdf-0009-04.png)
 
 
 **----- Start of picture text -----**<br>

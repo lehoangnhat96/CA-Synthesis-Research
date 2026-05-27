@@ -3,7 +3,7 @@ Microchimica Acta (2021) 188: 86 https://doi.org/10.1007/s00604-021-04743-y
 ORIGINAL PAPER 
 
 
-![](_temp_df3db6a1_convert__images/_temp_df3db6a1_convert_.pdf-0001-02.png)
+![](_images/Construction of an electrochemical sensor with graphene aerogel doped with_images/_temp_98c7600b_convert_.pdf-0001-02.png)
 
 
 ## Construction of an electrochemical sensor with graphene aerogel doped with ZrO2 nanoparticles and chitosan for the selective detection of luteolin 
@@ -67,7 +67,7 @@ Page 3 of 10 86
 Microchim Acta (2021) 188: 86 
 
 
-![](_temp_df3db6a1_convert__images/_temp_df3db6a1_convert_.pdf-0003-02.png)
+![](_images/Construction of an electrochemical sensor with graphene aerogel doped with_images/_temp_98c7600b_convert_.pdf-0003-02.png)
 
 
 Fig. 1 Chemical structures of different flavonoids and the oxidation mechanism of luteolin 
@@ -97,7 +97,7 @@ The surface morphological feature of electrode materials was investigated. Figur
 Microchim Acta (2021) 188: 86 
 
 
-![](_temp_df3db6a1_convert__images/_temp_df3db6a1_convert_.pdf-0004-02.png)
+![](_images/Construction of an electrochemical sensor with graphene aerogel doped with_images/_temp_98c7600b_convert_.pdf-0004-02.png)
 
 
 Fig. 2 Preparation schema of the ZrO2/CS/rGOA modified electrode 
@@ -111,7 +111,7 @@ The XPS analysis was carried out for the rGOA and ZrO2/CS/ rGOA and the spectra 
 The thermal stability of rGOA and ZrO2/CS/rGOA was studied by TGA. As shown in Fig. 4c, the initial weight loss below 100 °C was mainly ascribed to the evaporation of water molecules presenting in free or bound form in all samples. The weight loss of GOA after 100 °C was attributed to the thermal decomposition of the labile oxygen-containing functional groups and side groups of GOA. The weight loss of ZrO2/ CS/rGOA was mainly due to the decomposition of the polysaccharide ring of CS and slightly oxygen-containing functional groups of rGOA. 
 
 
-![](_temp_df3db6a1_convert__images/_temp_df3db6a1_convert_.pdf-0004-08.png)
+![](_images/Construction of an electrochemical sensor with graphene aerogel doped with_images/_temp_98c7600b_convert_.pdf-0004-08.png)
 
 
 Fig. 3 The surface morphologies of GOA (a) and ZrO2/CS/rGOA (b, c) 
@@ -121,7 +121,7 @@ Page 5 of 10 86
 Microchim Acta (2021) 188: 86 
 
 
-![](_temp_df3db6a1_convert__images/_temp_df3db6a1_convert_.pdf-0005-02.png)
+![](_images/Construction of an electrochemical sensor with graphene aerogel doped with_images/_temp_98c7600b_convert_.pdf-0005-02.png)
 
 
 Fig. 4 Characterizations of ZrO2/CS/rGOA: (a) FT-IR spectra, (b) XPS spectra and (c) TGA analysis 
@@ -145,7 +145,7 @@ In addition, some inorganic ions were also selected to evaluate the adsorption s
 Microchim Acta (2021) 188: 86 
 
 
-![](_temp_df3db6a1_convert__images/_temp_df3db6a1_convert_.pdf-0006-02.png)
+![](_images/Construction of an electrochemical sensor with graphene aerogel doped with_images/_temp_98c7600b_convert_.pdf-0006-02.png)
 
 
 Fig. 5 CVs of different modified electrodes in 0.1 M pH 6.0 phosphate buffered solution containing 2 μM LUT (a), CV curves of ZrO2/CS/ rGOA electrode in pH 6.0 phosphate buffered solution containing different flavonoids (5 μM) (b), and in the mixture solution with different pH containing 5 μM quercetin, 5 μM apigenin, 5 μM myricetin, 1 μM luteolin (c) 
@@ -165,7 +165,7 @@ CVs of ZrO2/CS/rGOA-GCE for the determination of luteolin at different scan rate
 The linear relationship of peak current and scanning rate was favorable in the range of 20–300 mV s[−][1] , which could be expressed by the following equation: I pa(μ A) = 0.0668 V(mV s[−][1] ) + 1.6650 (R[2] = 0.9905), Ipc(μA) = − 0.0432 V(mV s[−][1] )-0.1271 (R[2] = 0.9920). It indicated that the redox reaction of luteolin on the surface of ZrO2/CS/ rGOA-GCE was a reversible and surface-confined process. Results suggested that ZrO2/CS/rGOA-GCE provided fast electron transfer between the redox center of luteolin and the surface of ZrO2/CS/rGOA composite. Besides, the redox potential difference of luteolin was almost no shift with the change of scanning rate. and their values were close to 32 mV. And according to Laviron’s equation, 
 
 
-![](_temp_df3db6a1_convert__images/_temp_df3db6a1_convert_.pdf-0006-11.png)
+![](_images/Construction of an electrochemical sensor with graphene aerogel doped with_images/_temp_98c7600b_convert_.pdf-0006-11.png)
 
 
 it presented that the electrochemical reaction of luteolin on ZrO2/CS/rGOA-GCE was a reversible process with twoprotons and two-electrodes. The oxidation mechanism of luteolin was shown in Fig. 1b. 
@@ -175,7 +175,7 @@ Page 7 of 10 86
 Microchim Acta (2021) 188: 86 
 
 
-![](_temp_df3db6a1_convert__images/_temp_df3db6a1_convert_.pdf-0007-02.png)
+![](_images/Construction of an electrochemical sensor with graphene aerogel doped with_images/_temp_98c7600b_convert_.pdf-0007-02.png)
 
 
 Fig. 6 Effect of the accumulation time at open-circuit potential on anodic and catholic peak currents (a), the linear relationship of Ipa and Ipc with scanning rates (b), and Epa, Epc, Ipa and Ipc with pH (c, d), and their CVs of 
@@ -193,7 +193,7 @@ DPV responses of luteolin with different concentrations at the ZrO2/CS/rGOA-GCE 
 optimized conditions. Figure 7 showed typical DPVs for luteolin in different concentrations. The sharp and welldefined anodic peak currents at around 0.344 V would rise 
 
 
-![](_temp_df3db6a1_convert__images/_temp_df3db6a1_convert_.pdf-0007-10.png)
+![](_images/Construction of an electrochemical sensor with graphene aerogel doped with_images/_temp_98c7600b_convert_.pdf-0007-10.png)
 
 
 Fig. 7 DPV curves of the ZrO2/CS/rGOA/GCE with 5 min open-circuit accumulation in 0.1 M pH 6.0 phosphate buffered solution with 5– 1000 nM luteolin 

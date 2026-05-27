@@ -1,5 +1,5 @@
 
-![](_temp_0c3eb92a_convert__images/_temp_0c3eb92a_convert_.pdf-0001-00.png)
+![](_images/0 Effects of Liq-to-Solid Ratio and Reaction Temperature on NaOH_images/_temp_ecadc1c5_convert_.pdf-0001-00.png)
 
 
 **----- Start of picture text -----**<br>

@@ -3,7 +3,7 @@ pubs.acs.org/Langmuir
 Article 
 
 
-![](_temp_d430656a_convert__images/_temp_d430656a_convert_.pdf-0001-03.png)
+![](_images/IronNitrogen-Doped CarbonAerogels for Fluorescentand Electrochemical Dual-Mode D_images/_temp_1ea5c83d_convert_.pdf-0001-03.png)
 
 
 ## Iron, Nitrogen-Doped Carbon Aerogels for Fluorescent and Electrochemical Dual-Mode Detection of Glucose 
@@ -17,7 +17,7 @@ ACCESS Metrics & More Article Recommendations *sı Supporting Information
 ABSTRACT: Due to their effective catalytic activity and maximum atom utilization, single metal atoms dispersed in carbon matrices have found diverse applications in electrocatalysis, photocatalysis, organic catalysis, and biosensing. Herein, iron is atomically dispersed into nitrogen-doped porous carbon aerogel by a facile pyrolysis procedure, and the resulting nanocomposite behaves both as a peroxidase mimic for the sensitive detection of glucose by fluorescence spectroscopy and as an effective catalyst for the electrochemical oxidation of glucose. The glucose concentration can be quantified within the millimolar to micromolar range with a limit of detection of 3.1 and 0.5 μM, respectively. Such a dualfunctional detection platform also shows excellent reproducibility, stability, 
 
 
-![](_temp_d430656a_convert__images/_temp_d430656a_convert_.pdf-0001-09.png)
+![](_images/IronNitrogen-Doped CarbonAerogels for Fluorescentand Electrochemical Dual-Mode D_images/_temp_1ea5c83d_convert_.pdf-0001-09.png)
 
 
 and selectivity, and the performance in glucose detection of clinical and artificial human body fluids is highly comparable to that of leading assays in recent studies and results from commercial sensors. Results from this study suggest that carbon aerogel-supported single atoms can be used as a dual-functional nanozyme for the construction of low-cost, high-performance dual-signal readout platforms for glucose detection. 
@@ -33,7 +33,7 @@ mediated glucose sensors, several drawbacks are commonly observed. For instance,
 Fluorescence-based methods possess unique advantages, such as rapid analysis and excellent sensitivity.[11] In recent years, nanozymes mimicking glucose oxidase (GOx) and horseradish peroxidase (HRP) have been attracting extensive interest for glucose sensing and detection; yet, most of these nanozymes have to work under acidic conditions (pH = 3.0− 5.0).[6][,][8][,][9] This greatly limits their applications in clinic tests under physiological conditions. In addition, most nanozymes require the use of noble metals.[17] Therefore, for both fundamental research and biomedical diagnosis, it is imperative to develop effective nanozymes with good sensitivity, selectivity, and low cost,[18] where both electrochemical and fluorescent platforms can be exploited for the dual-mode detection of glucose, so as to enhance the accuracy and minimize systematic and/or background errors. 
 
 
-![](_temp_d430656a_convert__images/_temp_d430656a_convert_.pdf-0001-16.png)
+![](_images/IronNitrogen-Doped CarbonAerogels for Fluorescentand Electrochemical Dual-Mode D_images/_temp_1ea5c83d_convert_.pdf-0001-16.png)
 
 
 Received: July 13, 2021 Revised: September 4, 2021 Published: September 19, 2021 
@@ -79,7 +79,7 @@ Artificial saliva was prepared from Na2HPO4, CaCl2, KCl, NaCl, and urea.[30] Art
 https://doi.org/10.1021/acs.langmuir.1c01866 Langmuir 2021, 37, 11309−11315 
 
 
-![](_temp_d430656a_convert__images/_temp_d430656a_convert_.pdf-0003-00.png)
+![](_images/IronNitrogen-Doped CarbonAerogels for Fluorescentand Electrochemical Dual-Mode D_images/_temp_1ea5c83d_convert_.pdf-0003-00.png)
 
 
 **----- Start of picture text -----**<br>
@@ -91,7 +91,7 @@ Langmuir pubs.acs.org/Langmuir Article<br>**----- End of picture text -----**<br
 Preparation and Characterization of NCAG/Fe. Figure 1a illustrates the fabrication procedure of the biomass-derived 
 
 
-![](_temp_d430656a_convert__images/_temp_d430656a_convert_.pdf-0003-03.png)
+![](_images/IronNitrogen-Doped CarbonAerogels for Fluorescentand Electrochemical Dual-Mode D_images/_temp_1ea5c83d_convert_.pdf-0003-03.png)
 
 
 Figure 1. (a) Fabrication procedure of biomass-derived NCAG/Fe carbon aerogel, with the corresponding (b) TEM, (c) bright-field and (d) dark-field STEM images, and (e) elemental maps. 
@@ -101,7 +101,7 @@ NCAG/Fe carbon aerogel, which entails three major steps:[27][−][29] (a) prepar
 Further structural insights of the as-synthesized NCAG/Fe carbon aerogel were obtained from N2 adsorption−desorption isotherm, XRD, ICP-OES, and XPS measurements. From the N2 adsorption−desorption isotherm and the corresponding pore size distribution (Figure S2 and inset), the NCAG/Fe aerogels can be found to possess a hierarchical pore structure with a high surface area of 1039.9 m[2] g[−][1] . From the XRD patterns in Figure 2a, NCAG/Fe can be seen to display only two broad diffraction peaks at 2θ = 24.2 and 43.5° due to the (002) and (101) planes of the partially graphitized carbon, respectively (PDF 656212).[27][−][29] The fact that no other diffraction peaks can be observed further confirms the absence of metal (oxide) nanoparticles in the sample, consistent with 
 
 
-![](_temp_d430656a_convert__images/_temp_d430656a_convert_.pdf-0003-07.png)
+![](_images/IronNitrogen-Doped CarbonAerogels for Fluorescentand Electrochemical Dual-Mode D_images/_temp_1ea5c83d_convert_.pdf-0003-07.png)
 
 
 Figure 2. (a) XRD patterns of NCAG/Fe. (b) XPS survey spectrum and high-resolution scans of the (c) Fe 2p and (d) N 1s electrons of NCAG/Fe. Black curves in panel (c,d) are the experimental data and colored peaks are deconvolution fits. (e) Fe K-edge XANES spectra of NCAG/Fe, Fe foil, and FePc. (f) EXAFS spectrum and the corresponding fit of NCAG/Fe. 
@@ -139,7 +139,7 @@ Under the optimized experimental conditions identified above, the fluorescence e
 Under these optimal conditions, the fluorescence emission spectra at 414 nm excitation were acquired with the solution containing GOx (12 μg/mL), NCAG/Fe (10 μg/mL), OPD (20 μg/mL), and glucose at different concentrations (Figure 3a). It can be observed that with the increasing glucose concentration, the fluorescence intensity at 568 nm increased accordingly. Figure 3b shows the corresponding F/F0, which 
 
 
-![](_temp_d430656a_convert__images/_temp_d430656a_convert_.pdf-0004-12.png)
+![](_images/IronNitrogen-Doped CarbonAerogels for Fluorescentand Electrochemical Dual-Mode D_images/_temp_1ea5c83d_convert_.pdf-0004-12.png)
 
 
 Figure 3. (a) Fluorescence emission spectra at 414 nm excitation with the solution containing GOx (12 μg/mL), NCAG/Fe (10 μg/mL), OPD (20 μg/mL), and glucose at different concentrations (specified in figure legends). (b) Fluorescence response efficiency (F/F0) vs glucose concentration. (c) Linear range (calibration curve) for the detection of glucose. (d) Fluorescence response in the presence of different saccharides, metal ions, and amino acids (3 mM each). The concentration of glucose is 0.6 mM. Error bars represent the standard deviations of three repetitive experiments. 
@@ -165,7 +165,7 @@ The electrochemical platform also exhibited remarkable specificity in glucose de
 Detection of Glucose in Clinical and Artificial Samples. In order to verify the practicability of the NCAG/ 
 
 
-![](_temp_d430656a_convert__images/_temp_d430656a_convert_.pdf-0005-08.png)
+![](_images/IronNitrogen-Doped CarbonAerogels for Fluorescentand Electrochemical Dual-Mode D_images/_temp_1ea5c83d_convert_.pdf-0005-08.png)
 
 
 Figure 4. (a) Amperometric response of NCAG/Fe upon the addition of glucose at various concentrations (2, 10, 50, 100, 200, 500, 1000, and 2000 μM) to a 0.1 M NaOH solution at an applied potential of +0.35 V. (b) Corresponding linear correlation between the oxidation current increase and glucose concentration in the range of 2−2000 μM. (c) Chronoamperometric response of the NCAG/Fe electrode upon the addition of different interferents, dopamine, L-AA, NH4Cl, L-glutamic acid, lactose, uric acid, and L-histidine. (d) Chronoamperometric profiles of the NCAG/Fe electrode stored under ambient conditions for up to a week with the addition of 100 μM glucose. 

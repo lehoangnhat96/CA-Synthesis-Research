@@ -1,27 +1,27 @@
 Article 
 
 
-![](_temp_f71bfab0_convert__images/_temp_f71bfab0_convert_.pdf-0001-01.png)
+![](_images/Hydrophobic Modification of Sulfonated Carbon Aerogels from Coir_images/_temp_c4948297_convert_.pdf-0001-01.png)
 
 
 
-![](_temp_f71bfab0_convert__images/_temp_f71bfab0_convert_.pdf-0001-02.png)
+![](_images/Hydrophobic Modification of Sulfonated Carbon Aerogels from Coir_images/_temp_c4948297_convert_.pdf-0001-02.png)
 
 
 
-![](_temp_f71bfab0_convert__images/_temp_f71bfab0_convert_.pdf-0001-03.png)
+![](_images/Hydrophobic Modification of Sulfonated Carbon Aerogels from Coir_images/_temp_c4948297_convert_.pdf-0001-03.png)
 
 
 
-![](_temp_f71bfab0_convert__images/_temp_f71bfab0_convert_.pdf-0001-04.png)
+![](_images/Hydrophobic Modification of Sulfonated Carbon Aerogels from Coir_images/_temp_c4948297_convert_.pdf-0001-04.png)
 
 
 
-![](_temp_f71bfab0_convert__images/_temp_f71bfab0_convert_.pdf-0001-05.png)
+![](_images/Hydrophobic Modification of Sulfonated Carbon Aerogels from Coir_images/_temp_c4948297_convert_.pdf-0001-05.png)
 
 
 
-![](_temp_f71bfab0_convert__images/_temp_f71bfab0_convert_.pdf-0001-06.png)
+![](_images/Hydrophobic Modification of Sulfonated Carbon Aerogels from Coir_images/_temp_c4948297_convert_.pdf-0001-06.png)
 
 
 http://pubs.acs.org/journal/acsodf 
@@ -39,7 +39,7 @@ ACCESS Metrics & More Article Recommendations
 ABSTRACT: The hydrophilicity of sulfonic acid-functionalized solid catalysts tends to accelerate the deactivation of the catalyst for chemical reactions where water is produced during the process. In this work, we proposed a hydrophobic carbon aerogel acid catalyst derived from coir fibers by a sulfonation-hydrophobization route via the diazo reduction method. Sulfonation using the diazo reduction method offers some advantages such as the process takes only a few minutes and the modified surface can be easily modified further to be hydrophobic. The carbon aerogel was produced by direct pyrolysis of cellulose aerogels derived from coir fibers using an NH4OH−urea method and then sulfonated and hydrophobized using sulfanilic acid and 4- _tert_ -butylaniline (TBA), respectively. The carbon aerogel exhibited a very high surface area (2624.93− 
 
 
-![](_temp_f71bfab0_convert__images/_temp_f71bfab0_convert_.pdf-0001-14.png)
+![](_images/Hydrophobic Modification of Sulfonated Carbon Aerogels from Coir_images/_temp_c4948297_convert_.pdf-0001-14.png)
 
 
 3911.05 m[2] g[−][1] ), which provides a lot of number of sites for sulfonate groups (2.30−2.70 mmol g[−][1] ). The water contact angle of the sulfonated catalyst after hydrophobization ranged from 70 to 115°, depending on the mass ratio of the TBA-to-solid catalyst. The hydrophobic catalyst exhibited better catalytic performance toward esterification of acetic acid with ethanol. A conversion of 65− 74% could be achieved in a brief time using the hydrophobic catalyst. The conversions were much higher than that obtained by the unmodified hydrophilic catalyst. Our study offers a strategy to tune the surface hydrophobicity of the sulfonated solid acid catalyst to match for specific chemical reactions. 
@@ -53,7 +53,7 @@ Sulfonated ordered mesoporous carbons (OMCs) have been extensively studied as so
 the pyrolysis process along with ordered mesoporous silica (OMS) templates (e.g., MCM-41 and SBA-15). The main steps to prepare the OMCs using this method are: (i) preparation of OMS, (ii) impregnation of carbon precursors into the OMS, (iii) pyrolysis, and (iv) removal of the OMS. The OMSs are typically prepared by the catalytic hydrolysis and condensation of silicon alkoxides using polymers or surfactants as templates. Hydrofluoric acid (HF), a very corrosive acid, is typically used to completely remove the OMS template, making the process harmful and environmentally unfriendly.[11][−][13] We have proposed sulfonated carbon aerogels (SCAs) prepared by incomplete carbonization of cellulose aerogels derived from coir fibers as solid acid catalysts for esterification reactions.[14] Although carbon aerogels are a nonordered material, they have a high specific surface area and pore volume and when sulfonated with sulfuric acid and they 
 
 
-![](_temp_f71bfab0_convert__images/_temp_f71bfab0_convert_.pdf-0001-20.png)
+![](_images/Hydrophobic Modification of Sulfonated Carbon Aerogels from Coir_images/_temp_c4948297_convert_.pdf-0001-20.png)
 
 
 Received: April 3, 2023 Accepted: July 12, 2023 Published: July 24, 2023 
@@ -95,7 +95,7 @@ Article
 measured mass ( _m_ ) by the measured volume ( _V_ ) of the aerogel. Then, the porosity of the aerogel was calculated as 
 
 
-![](_temp_f71bfab0_convert__images/_temp_f71bfab0_convert_.pdf-0003-04.png)
+![](_images/Hydrophobic Modification of Sulfonated Carbon Aerogels from Coir_images/_temp_c4948297_convert_.pdf-0003-04.png)
 
 
 where _ρ_ t is the true density of cellulose (1.528 g cm[−][3] ).[25] 
@@ -103,7 +103,7 @@ where _ρ_ t is the true density of cellulose (1.528 g cm[−][3] ).[25]
 **2.4. Catalytic Reactions.** According to our previous work,[14] the catalytic performance of the solid acid catalysts was evaluated for esterification of acetic acid with ethanol. The esterification was performed in a three-neck flask equipped with a reflux condenser and heated by a heating mantle with a temperature controller and a magnetic stirrer. The molar ratio of acetic acid and ethanol was fixed at 1:2 with a catalyst loading of 0.01 g/g acetic acid. The reaction was carried out at 80 °C under stirring for 3 h. The progress of the reaction was followed by periodically sampling from the reaction mixture and the conversion was determined by analyzing the acetic acid concentration using gas chromatography (GC; Thermo Scientific, TRACE 1310). The gas chromatograph was equipped with a flame ionization detector (FID) and a Thermo Scientific column of type TG-5MS (30 m; 0.25 mm; 0.25 mm). The input injector, which was set up at 125 °C with a split ratio of 1:150 and nitrogen carrier gas flowing at 1 mL/ min, was then used to inject 0.5 _μ_ L of each sample. The analysis was started at a temperature of 45 °C and it was maintained at this temperature for 3 min before being heated to 125 °C at a rate of 60 °C/min. Next, the temperature was cooled to 45 °C. Isobutanol was added as an internal calibration to determine the unreacted acetic acid. The esterification conversion of acetic acid was calculated as 
 
 
-![](_temp_f71bfab0_convert__images/_temp_f71bfab0_convert_.pdf-0003-07.png)
+![](_images/Hydrophobic Modification of Sulfonated Carbon Aerogels from Coir_images/_temp_c4948297_convert_.pdf-0003-07.png)
 
 
 where _n_ i and _n_ f are the initial and final mole numbers of acetic acid in the reaction mixture, respectively. 
@@ -115,7 +115,7 @@ where _n_ i and _n_ f are the initial and final mole numbers of acetic acid in t
 To produce carbon aerogels, the cellulose aerogel was directly pyrolyzed under a nitrogen atmosphere at various temperatures to determine its effect on its characteristics. Figure 2 shows SEM images of the carbon aerogels produced at various pyrolysis temperatures. After pyrolysis, the color of the aerogels changed to black (insets of Figure 2), showing that cellulose had been degraded to carbon. The carbon aerogel produced had porous structures and comprised a threedimensional network of interconnected fibers having a cylindrical shape, which inherited the microstructure of the original cellulose aerogel. The size of the carbon aerogel fibers, compared to that of the initial cellulose aerogel fibers, became 
 
 
-![](_temp_f71bfab0_convert__images/_temp_f71bfab0_convert_.pdf-0003-12.png)
+![](_images/Hydrophobic Modification of Sulfonated Carbon Aerogels from Coir_images/_temp_c4948297_convert_.pdf-0003-12.png)
 
 
 Figure 1. Physical appearance of the cellulose aerogel. The inset shows the size of the cellulose aerogel. 
@@ -137,7 +137,7 @@ https://doi.org/10.1021/acsomega.3c02244 _ACS Omega_ 2023, 8, 27139−27145
 Article 
 
 
-![](_temp_f71bfab0_convert__images/_temp_f71bfab0_convert_.pdf-0004-03.png)
+![](_images/Hydrophobic Modification of Sulfonated Carbon Aerogels from Coir_images/_temp_c4948297_convert_.pdf-0004-03.png)
 
 
 Figure 2. SEM images of the carbon aerogel obtained in various pyrolysis temperatures: (A1−A3) 500 °C, (B1−B3) 600 °C, and (C1−C3) 700 °C. The inset pictures show the photograph of the carbon aerogel. 
@@ -150,7 +150,7 @@ Table 1. Characteristics of Carbon Aerogels Pyrolyzed at Various Temperatures
 
 
 
-![](_temp_f71bfab0_convert__images/_temp_f71bfab0_convert_.pdf-0004-07.png)
+![](_images/Hydrophobic Modification of Sulfonated Carbon Aerogels from Coir_images/_temp_c4948297_convert_.pdf-0004-07.png)
 
 
 Figure 3. FTIR spectra of the cellulose aerogel (i) and its corresponding carbon aerogel obtained at various pyrolysis temperatures: (ii) 500 °C, (iii) 600 °C, and (iv) 700 °C. 
@@ -172,7 +172,7 @@ https://doi.org/10.1021/acsomega.3c02244 _ACS Omega_ 2023, 8, 27139−27145
 Article 
 
 
-![](_temp_f71bfab0_convert__images/_temp_f71bfab0_convert_.pdf-0005-03.png)
+![](_images/Hydrophobic Modification of Sulfonated Carbon Aerogels from Coir_images/_temp_c4948297_convert_.pdf-0005-03.png)
 
 
 Figure 4. FTIR spectra of the SCA: (i) SCA, (ii) hydrophobic SCA with a mass ratio of TBA to SCA of 0.1:1 (HSCA0.1), (iii) mass ratio of TBA to SCA of 0.3:1 (HSCA0.3), and (iv) mass ratio of TBA to SCA of 0.5:1 (HSCA0.5). 
@@ -196,7 +196,7 @@ route. The acid densities determined by the titration method of all the prepared
 The changes in the surface hydrophilic−hydrophobic properties of the SCA before and after surface modification with TBA were examined by dispersing the aerogels into water and by measuring the water contact angle. For the unmodified SCA, the solid particles were immediately dispersed into the water body once they were dropped on the water surface. This is different for the case of the modified SCAs. As shown in Figure 5a, the solid particles floated on the water surface once they were dropped and then slowly some of the particles settled down into water due to gravity. Fewer particles settled down for the SCA modified with a higher TBA-to-solid ratio. These indicate that SCAs modified with a higher TBA-to-solid ratio are more hydrophobic. To be more quantitative, the contact angle of the water droplet dropped on the SCA surface was measured. Figure 5b shows that the shape of the water 
 
 
-![](_temp_f71bfab0_convert__images/_temp_f71bfab0_convert_.pdf-0005-11.png)
+![](_images/Hydrophobic Modification of Sulfonated Carbon Aerogels from Coir_images/_temp_c4948297_convert_.pdf-0005-11.png)
 
 
 Figure 5. (a) Dispersion of the prepared hydrophobic SCA into water, and (b) water contact angles of the hydrophobic SCA. 
@@ -220,7 +220,7 @@ https://doi.org/10.1021/acsomega.3c02244 _ACS Omega_ 2023, 8, 27139−27145
 Article 
 
 
-![](_temp_f71bfab0_convert__images/_temp_f71bfab0_convert_.pdf-0006-03.png)
+![](_images/Hydrophobic Modification of Sulfonated Carbon Aerogels from Coir_images/_temp_c4948297_convert_.pdf-0006-03.png)
 
 
 Figure 6. Conversion of acetic acid during the esterification reaction using the SCA catalysts at various reaction times. 

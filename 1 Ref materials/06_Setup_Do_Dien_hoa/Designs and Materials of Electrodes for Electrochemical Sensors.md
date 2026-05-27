@@ -3,7 +3,7 @@ Review doi.org/10.1002/celc.202500230
 ChemElectroChem 
 
 
-![](_temp_33e1aa15_convert__images/_temp_33e1aa15_convert_.pdf-0001-02.png)
+![](_images/Designs and Materials of Electrodes for Electrochemical Sensors_images/_temp_1a79f929_convert_.pdf-0001-02.png)
 
 
 www.chemelectrochem.org 
@@ -25,7 +25,7 @@ Several studies have reported the development of analytical methods that offer r
 P. J. Obeid, N. Sari-Chmayssem, P. Yammine, D. Homsi, H. El-Nakat, Z. Matar, S. Hamieh, D. Koumeir, A. Chmayssem University of Balamand Faculty of Arts and Sciences P.O. Box 100, Tripoli, Lebanon E-mail: ayman.chmayssem@fty.balamand.edu.lb N. Sari-Chmayssem, A. Chmayssem Lebanese University Faculty of Public Health Tripoli, Lebanon A. Chmayssem Electrochemistry Consulting & Services (E2CS) Tripoli, Lebanon © 2025 The Author(s). ChemElectroChem published by Wiley-VCH GmbH. This is an open access article under the terms of the Creative Commons Attribution License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited. 
 
 
-![](_temp_33e1aa15_convert__images/_temp_33e1aa15_convert_.pdf-0001-12.png)
+![](_images/Designs and Materials of Electrodes for Electrochemical Sensors_images/_temp_1a79f929_convert_.pdf-0001-12.png)
 
 
 impedance spectroscopy.[[6]] These methods typically use a classical electrochemical setup or more advanced configurations based on the use of electrochemical chips that contain all the electrochemical setup on the same support. 
@@ -51,11 +51,11 @@ deposition (CVD), and printing technologies (including screen printed,[[15]] ink
 On the other hand, the design of electrochemical cell is also of high importance. Key configuration aspects such as the number of electrodes, the substrate material, the surface area of each electrode according to its function, and the detection strategy (single mode detection, multiparametric detection, etc.) play all significant roles in determining detection efficiency. This review article aims to summarize recent advances in 
 
 
-![](_temp_33e1aa15_convert__images/_temp_33e1aa15_convert_.pdf-0002-07.png)
+![](_images/Designs and Materials of Electrodes for Electrochemical Sensors_images/_temp_1a79f929_convert_.pdf-0002-07.png)
 
 
 
-![](_temp_33e1aa15_convert__images/_temp_33e1aa15_convert_.pdf-0002-08.png)
+![](_images/Designs and Materials of Electrodes for Electrochemical Sensors_images/_temp_1a79f929_convert_.pdf-0002-08.png)
 
 
 Pierre J. Obeid is an Associate Professor of Zeinab Matar has a Ph.D. doctorate in environChemistry and head of the Chemistry and mental geochemistry since 2012, she gets in Environmental Sciences departments at the 2024 the grade professor at the Lebanese University of Balamand, Lebanon. He holds a University - Faculty of Sciences I - Hadat Ph.D. in Chemistry and leads a multidisciplinary Campus - Beirut, Lebanon, researcher member research group specializing in environmental of the Laboratory of Georessources, analytical chemistry, toxicology, and analytical Geosciences and Environment (L2GE), methods development. His work focuses on Lebanese University - Fanar Campus - Beirut, assessing heavy metal contamination in food Lebanon. Between 2009 and 2012, she carried and water, with a strong emphasis on public out a doctoral thesis on the influence of organic health risk evaluation in the Middle East. matter on the speciation and bioavailability of Dr. Obeid has published over 25 peer-reviewed metals in urbanized aquatic systems (France). articles addressing issues such as trace metal Since 2013, she has been a lecturer-researcher exposure, toxicity, and food safety. He is also at the Lebanese University, giving courses and actively engaged in developing advanced practical work in organic geochemistry, envimicrofluidic and lab-on-chip platforms for rapid ronment and pollution and speciation, sources environmental and biomedical diagnostics. His and transfer of metallic contaminants. Her recent collaborations explore organ-on-a-chip research activities in recent years have enabled systems, fluorescence sensing, and DNA-based her to have good expertise today on the influanalytical tools. Widely cited for his impactful ence of organic matter of urban origin on the contributions, his research bridges chemistry, biogeochemistry of metallic trace elements. public health, and bioengineering, with ongoThis leads her to consider the possibility of ing projects targeting emerging contaminants an orientation towards new themes always and next-generation analytical technologies for concerning the properties of organic matter real-world applications. of urban origin. Since 2017, she is responsible Doris Homsi is an Assistant Professor of and coordinator of the master program in Chemistry at the University of Balamand, where Geosciences at the Lebanese University in she teaches and conducts research in environthe field of Geo-resources and Environmental mental chemistry, food chemistry and electroGeosciences. chemistry. She completed her Ph.D. in Ayman Chmayssem received his M.S. degree in Chemistry Applied to the Environment at the analytical chemistry from the Lebanese University of Littoral Cote d’Opale in France University in 2012 and a Ph.D. degree in in 2012, where her research focused on catalyelectrochemistry from the National School of sis and steam reforming of methane and ethaChemistry of Rennes (ENSCR), France, in nol for hydrogen production from alternative 2016. Between 2018 and 2021, he worked as fuels. She has published several peer-reviewed a research fellow in the French Alternative articles and book chapters in the fields of catalEnergies and Atomic Energy Commission ysis and renewable energy and is actively (CEA-LETI) in the μ-Technologies for the engaged in research on green energy producBiology and Healthcare Department. In 2022, tion, food safety and electrochemistry. he joined the laboratory of TIMC (SyNaBi team) in the University of Grenoble Alpes (UGA) as a research fellow. In 2023, he founded Electrochemistry Consulting & Services (E2CS), a company that provides consultancy and technical support in the field of applied electrochemistry. He also provides lectures at Balamand and Lebanese universities. Dr. Chmayssem is the author or coauthor of 16 journal publications and the holder of one patent application and has published more than 30 proceedings. His main research interests include electrochemical (bio)sensors, μfluidic technology, organ-on-chip, and sensor-based analysis. 
@@ -83,7 +83,7 @@ In this section, we will focus on miniaturized systems, particularly SPEs, as th
 It is important to highlight that an analyte can be detected using a single working electrode (WE) (Figure 2a,b,c,d,i,k). 
 
 
-![](_temp_33e1aa15_convert__images/_temp_33e1aa15_convert_.pdf-0003-10.png)
+![](_images/Designs and Materials of Electrodes for Electrochemical Sensors_images/_temp_1a79f929_convert_.pdf-0003-10.png)
 
 
 Figure 1. a) Classical electrochemical cell of three-electrodes setup including the working, counter and REs[[42]] . b) Distribution of all electrodes on the chip of a SPE[[28]] . c) Microfluidic cell (namely also flow cell) integrating a SPE to perform experiment under flow conditions.[[28]] 
@@ -97,7 +97,7 @@ Review doi.org/10.1002/celc.202500230
 ChemElectroChem 
 
 
-![](_temp_33e1aa15_convert__images/_temp_33e1aa15_convert_.pdf-0004-03.png)
+![](_images/Designs and Materials of Electrodes for Electrochemical Sensors_images/_temp_1a79f929_convert_.pdf-0004-03.png)
 
 
 Figure 2. Common designs of SPEs. a) Classical design of a three-electrode system consisting of a WE (planar, positioned at the center, in gray), a CE (on the left, black), and a RE (on the right, in gray). b) Design of a two-electrode system consisting of electrode serving as a WE and the other one serving as a counter and RE at the same time. c) Design of a two-electrode system with special connectors using crocodile clips often used for potentiometric measurements, similar to design b but with different connection way. d) Specific design of a three-electrode system consisting of a WE (positioned at the center, in gray), a CE (on the left, semi-rectangle, in brown), and a RE (on the top, open-rectangle, in brown). e) Specific design consisting of dual WEs integrated within the same electrochemical cell (two planar electrodes positioned at the center, in brown), a CE (at the top, surrounding the working and REs, in brown), and a RE (rectangle, at the bottom, in gray). f) Design of a multiparametric platform or multielectrode array consisting of eight WEs (planar, in brown), a CE (at the center, surrounding the WEs, in black), and a RE (planar, at the center, in gray). g) Design of an electrochemical platform with eight independent electrochemical cells, each cell consisting of its own working, counter, and REs (typical design to perform measurements). h) Multielectrode array consisting of four WEs (planar, in brown), a CE (at the center, surrounding the WEs, in black), and a RE (star, at the center, in gray). i,k) Design of an electrochemical sensors integrated into a microfluidic chip for real-time monitoring of analyte under flow condition, designed as two-electrode system consisting of a WE and a reference and CE at the same time (electrode in black, positioned in (i) perpendicular to the flow and in (k) parallel to the flow). j) Design of a petri dish-embed electrochemical sensors for the monitoring of culture media environment during cell culture; electrodes are integrated at the bottom of the cell-culture wells, WEs (in black), and counter and RE at the same time (around the WEs, in gray)). 
@@ -139,7 +139,7 @@ Review doi.org/10.1002/celc.202500230
 ChemElectroChem 
 
 
-![](_temp_33e1aa15_convert__images/_temp_33e1aa15_convert_.pdf-0006-03.png)
+![](_images/Designs and Materials of Electrodes for Electrochemical Sensors_images/_temp_1a79f929_convert_.pdf-0006-03.png)
 
 
 **----- Start of picture text -----**<br>
@@ -173,7 +173,7 @@ Review doi.org/10.1002/celc.202500230
 ChemElectroChem 
 
 
-![](_temp_33e1aa15_convert__images/_temp_33e1aa15_convert_.pdf-0007-03.png)
+![](_images/Designs and Materials of Electrodes for Electrochemical Sensors_images/_temp_1a79f929_convert_.pdf-0007-03.png)
 
 
 Figure 4. Common carbon-based materials used for the development of electrochemical sensors used in various applications including pathogens detection, heavy metals analysis, and antibiotics and pesticides monitoring.[[317]] 
@@ -322,7 +322,7 @@ Review doi.org/10.1002/celc.202500230
 ChemElectroChem 
 
 
-![](_temp_33e1aa15_convert__images/_temp_33e1aa15_convert_.pdf-0012-03.png)
+![](_images/Designs and Materials of Electrodes for Electrochemical Sensors_images/_temp_1a79f929_convert_.pdf-0012-03.png)
 
 
 Figure 5. a[0] ) CPs used for the construction of electrochemical sensors. b[0] ) CP redox in plasmonic hotspots. a) Schematic of electrochromic nanoparticle-onmirror (eNPoM). Each gold nanoparticle (Au NP) is coated with (i) PANI (Au@PANI), (ii) poly-3,4-ethylenedioxythiophene (Au@PEDOT), or (iii) PPy (Au@PPy). b) Redox polymer reactions. c) Finite-difference time-domain (FDTD) simulated absorption (dashed) and scattering (line) spectra of individual eNPoM optical switching of eNPoMs. (i) Au@PANI, (ii) Au@PEDOT, and (iii) Au@PPy. c[0] ) (a) CV with apparent transfer coefficients (m þ β), (b) Dark-field (DF) scattering images, scale bar 1 μm. (c) DF scattering spectra of single eNPoMs as potential applied. Dashed λl = 633 nm is laser wavelength used for surface-enhanced Raman spectroscopy (SERS, see below). d) Time-series normalized DF scattering spectra from single eNPoMs over 5 cycles. d’) Mechanism of CP redox: Two pathways for oxidative doping: (a) consecutive two-step electron transfer by losing two electrons step-wise. (b) Disproportionation-type electron transfer by losing one electron; then, two P[•][þ] rapidly combine to form a P.[2][þ] without extra electron transfers.[[318]] 
@@ -443,7 +443,7 @@ Review doi.org/10.1002/celc.202500230
 ChemElectroChem 
 
 
-![](_temp_33e1aa15_convert__images/_temp_33e1aa15_convert_.pdf-0016-03.png)
+![](_images/Designs and Materials of Electrodes for Electrochemical Sensors_images/_temp_1a79f929_convert_.pdf-0016-03.png)
 
 
 Figure 6. NiNPs synthesis, properties, and applications.[[236]] 
@@ -528,7 +528,7 @@ Review doi.org/10.1002/celc.202500230
 ChemElectroChem 
 
 
-![](_temp_33e1aa15_convert__images/_temp_33e1aa15_convert_.pdf-0019-03.png)
+![](_images/Designs and Materials of Electrodes for Electrochemical Sensors_images/_temp_1a79f929_convert_.pdf-0019-03.png)
 
 
 Figure 7. Chemical structures and redox mechanism of: a) PB, b) MB, and c) MB’. 

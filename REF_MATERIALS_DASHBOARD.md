@@ -4,6 +4,14 @@
 > *Dashboard này được tự động hóa tạo ra bởi Python để quản lý toàn bộ tài liệu nghiên cứu chuyên ngành Carbon Aerogel phục vụ viết luận văn Thạc sĩ.*
 > *Tất cả các liên kết dưới đây đều có thể click trực tiếp trong **Obsidian** hoặc trình đọc Markdown để mở tệp Markdown, file PDF gốc hoặc thư mục ảnh trích xuất tương ứng.*
 
+## 🛠️ Quy trình tiêu chuẩn tự phát triển (Internal SOPs & Handbooks)
+
+| STT | Tài liệu hướng dẫn thực hành | Phân vùng chức năng | Định dạng văn bản |
+| :---: | :--- | :--- | :---: |
+| 1 | [Quy trình Tiêu chuẩn Hợp nhất (Master SOP)](file:///D:/1%20Master's%20Ana%20Chem/1%20Master's%20thesis/Carbon%20Aerogel/1%20SOPs/Final_SOPs_CA.md) | Chế tạo & Điện hóa cảm biến | [📄 Word](file:///D:/1%20Master's%20Ana%20Chem/1%20Master's%20thesis/Carbon%20Aerogel/1%20SOPs/Final_SOPs_CA.docx) / [📝 Obsidian](file:///D:/1%20Master's%20Ana%20Chem/1%20Master's%20thesis/Carbon%20Aerogel/1%20SOPs/Final_SOPs_CA.md) |
+| 2 | [Cẩm nang Tổng hợp Carbon Aerogel](file:///D:/1%20Master's%20Ana%20Chem/1%20Master's%20thesis/Carbon%20Aerogel/2%20Ref%20lib/1_coconut_coir_carbon_aerogel_synthesis_sop.md) | Mass Balance & Định lượng phối liệu | [📝 Obsidian](file:///D:/1%20Master's%20Ana%20Chem/1%20Master's%20thesis/Carbon%20Aerogel/2%20Ref%20lib/1_coconut_coir_carbon_aerogel_synthesis_sop.md) |
+| 3 | [Cẩm nang Đo đạc Điện hóa](file:///D:/1%20Master's%20Ana%20Chem/1%20Master's%20thesis/Carbon%20Aerogel/2%20Ref%20lib/3_electrode_fabrication_and_electrochemistry_sop.md) | Kỹ thuật chế tạo điện cực GCE | [📝 Obsidian](file:///D:/1%20Master's%20Ana%20Chem/1%20Master's%20thesis/Carbon%20Aerogel/2%20Ref%20lib/3_electrode_fabrication_and_electrochemistry_sop.md) |
+
 ## 📊 Báo cáo thống kê tài liệu
 
 * **Tổng số lượng tài liệu đã số hóa:** `143` bộ tài liệu.
