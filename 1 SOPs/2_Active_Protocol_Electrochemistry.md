@@ -1,9 +1,9 @@
 # 2_Active_Protocol_Electrochemistry.md — Quy Trình Chế Tạo Điện Cực & Đo Đạc Điện Hóa Phân Tích
 
 > [!NOTE]
-> * Quy trình thực nghiệm liên hợp: [1_Active_Protocol_Synthesis.md](file:///D:/1%20Master's%20Ana%20Chem/1%20Master's%20thesis/Carbon%20Aerogel/1%20SOPs/1_Active_Protocol_Synthesis.md)
-> * Cơ sở lý thuyết bổ trợ: [3_Literature_Review_and_Gap_Analysis.md](file:///D:/1%20Master's%20Ana%20Chem/1%20Master's%20thesis/Carbon%20Aerogel/1%20SOPs/3_Literature_Review_and_Gap_Analysis.md)
-> * Cẩm nang bóc tách đỉnh phổ: [4_Material_Characterization_Guide.md](file:///D:/1%20Master's%20Ana%20Chem/1%20Master's%20thesis/Carbon%20Aerogel/1%20SOPs/4_Material_Characterization_Guide.md)
+> * Quy trình thực nghiệm liên hợp: `1_Active_Protocol_Synthesis.md`
+> * Cơ sở lý thuyết bổ trợ: `3_Literature_Review_and_Gap_Analysis.md`
+> * Cẩm nang bóc tách đỉnh phổ: `4_Material_Characterization_Guide.md`
 
 ---
 

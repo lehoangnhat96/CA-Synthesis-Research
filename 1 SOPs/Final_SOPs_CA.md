@@ -2,9 +2,9 @@
 
 > [!NOTE]
 > * **Tài liệu tham chiếu chuẩn cốt lõi:**
->   1. Luận án Tiến sĩ [Nguyễn Trần Xuân Phương 2024](file:///D:/1%20Master's%20Ana%20Chem/1%20Master's%20thesis/Carbon%20Aerogel/1%20Ref%20materials/08_Review_va_Tong_quan/TOM_TAT_NTXPhuong.md) (Quy trình delignification xơ dừa và hệ đối chứng $NaOH$-Urea).
->   2. Công trình [Fauziyah et al. 2020 (Ind. Eng. Chem. Res.)](file:///D:/1%20Master's%20Ana%20Chem/1%20Master's%20thesis/Carbon%20Aerogel/1%20Ref%20materials/02_Doping_va_Gel_hoa/2%20Nitrogen-Doped%20Carbon%20Aerogels%20Prepared%20by%20Direct%20Pyrolysis%20of.md) (Hệ dung môi $NH_4OH$-Urea chuyển pha Cellulose III).
->   3. Công trình [Wu et al. 2024 (Sensors)](file:///D:/1%20Master's%20Ana%20Chem/1%20Master's%20thesis/Carbon%20Aerogel/1%20Ref%20materials/02_Doping_va_Gel_hoa/1%20Facile%20Synthesis%20of%20Fe-Doped%20Algae%20Residue-Derived%20Carbon%20Aerogels%20for.md) (Hệ tẩm $Fe$, graphit hóa nhiệt độ cao và chế tạo màng cảm biến GCE).
+>   1. Luận án Tiến sĩ Nguyễn Trần Xuân Phương 2024 (Tài liệu: `TOM_TAT_NTXPhuong.md` trong thư mục `08_Review_va_Tong_quan`).
+>   2. Công trình Fauziyah et al. 2020 (Ind. Eng. Chem. Res.) (Tài liệu: `2 Nitrogen-Doped Carbon Aerogels Prepared by Direct Pyrolysis of.md` trong thư mục `02_Doping_va_Gel_hoa`).
+>   3. Công trình Wu et al. 2024 (Sensors) (Tài liệu: `1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for.md` trong thư mục `02_Doping_va_Gel_hoa`).
 
 ---
 
@@ -311,6 +311,6 @@ Toàn bộ các chỉ số vật lý, hóa học, tinh thể đạt chuẩn (Pas
 *   **Hoạt hóa điện cực nền GCE:** Bắt buộc áp dụng bước anodize hóa học trong dung dịch $NaOH$ $0.1\text{ M}$ ở thế $+1.8\text{ V}$ vs. $Ag/AgCl$ trong $10\text{ giây}$ để hòa tan sạch cặn alumina lưỡng tính bám dính cơ học, giải phóng hoàn toàn các khe nano hoạt tính của GCE.
 
 ### 2. Danh mục File Tham chiếu Hệ thống
-*   [TOM_TAT_NTXPhuong.md](file:///D:/1%20Master's%20Ana%20Chem%20/%201%20Master's%20thesis%20/%20Carbon%20Aerogel/1%20Ref%20materials/08_Review_va_Tong_quan/TOM_TAT_NTXPhuong.md)
-*   [2 Nitrogen-Doped Carbon Aerogels Prepared by Direct Pyrolysis of.md](file:///D:/1%20Master's%20Ana%20Chem%20/%201%20Master's%20thesis%20/%20Carbon%20Aerogel/1%20Ref%20materials/02_Doping_va_Gel_hoa/2%20Nitrogen-Doped%20Carbon%20Aerogels%20Prepared%20by%20Direct%20Pyrolysis%20of.md)
-*   [1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for.md](file:///D:/1%20Master's%20Ana%20Chem%20/%201%20Master's%20thesis%20/%20Carbon%20Aerogel/1%20Ref%20materials/02_Doping_va_Gel_hoa/1%20Facile%20Synthesis%20of%20Fe-Doped%20Algae%20Residue-Derived%20Carbon%20Aerogels%20for.md)
+*   Tài liệu `TOM_TAT_NTXPhuong.md` trong thư mục `08_Review_va_Tong_quan`.
+*   Tài liệu `2 Nitrogen-Doped Carbon Aerogels Prepared by Direct Pyrolysis of.md` trong thư mục `02_Doping_va_Gel_hoa`.
+*   Tài liệu `1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for.md` trong thư mục `02_Doping_va_Gel_hoa`.

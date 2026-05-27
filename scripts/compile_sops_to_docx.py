@@ -118,9 +118,98 @@ def add_styled_heading(doc, text, level):
         run.font.size = Pt(11)
         run.font.color.rgb = RGBColor(0x55, 0x55, 0x55)
 
+def add_chemical_formula_runs(p, formula_text):
+    # This parses a LaTeX chemical formula like NH_4OH, Pb^{2+}, Fe-N_4, FeCl_3\cdot6H_2O, etc.
+    # Replace LaTeX symbol commands with actual unicode symbols
+    text = formula_text.replace(r'\cdot', '·')
+    text = text.replace(r'\approx', '≈')
+    text = text.replace(r'\le', '≤')
+    text = text.replace(r'\ge', '≥')
+    text = text.replace(r'\pm', '±')
+    text = text.replace(r'\varnothing', 'Ø')
+    text = text.replace(r'\text{ }', ' ')
+    
+    # Strip standard \text{...} from text by regex
+    text = re.sub(r'\\text\{([^}]+)\}', r'\1', text)
+    
+    # Determine if it's a math variable (italic) or a chemical species (upright)
+    is_variable = False
+    raw_stripped = text.strip()
+    if len(raw_stripped) == 1 and raw_stripped.isalpha():
+        is_variable = True
+    elif re.match(r'^(E|t|R|S|V|D|C|I|E_p|Delta E_p|R_ct|S_BET|V_pore|D_pore|C_dl|I_pa|I_pc|I_c|E_dep|t_dep|E_dc|quiet|Quiet|P_0|P/P_0|pH|A|n|T)$', raw_stripped):
+        is_variable = True
+    elif any(prefix in raw_stripped for prefix in ['E_', 't_', 'R_', 'S_', 'V_', 'D_', 'C_', 'I_', 'E{', 't{']):
+        is_variable = True
+        
+    i = 0
+    while i < len(text):
+        if text[i] == '_':
+            i += 1
+            if i < len(text) and text[i] == '{':
+                end = text.find('}', i)
+                if end != -1:
+                    sub_text = text[i+1:end]
+                    run = p.add_run(sub_text)
+                    run.font.subscript = True
+                    run.font.name = 'Georgia'
+                    run.font.color.rgb = RGBColor(0x1B, 0x36, 0x5D)
+                    i = end + 1
+                else:
+                    run = p.add_run('_' + text[i:])
+                    run.font.name = 'Georgia'
+                    break
+            else:
+                if i < len(text):
+                    sub_text = text[i]
+                    run = p.add_run(sub_text)
+                    run.font.subscript = True
+                    run.font.name = 'Georgia'
+                    run.font.color.rgb = RGBColor(0x1B, 0x36, 0x5D)
+                    i += 1
+                else:
+                    run = p.add_run('_')
+                    run.font.name = 'Georgia'
+        elif text[i] == '^':
+            i += 1
+            if i < len(text) and text[i] == '{':
+                end = text.find('}', i)
+                if end != -1:
+                    super_text = text[i+1:end]
+                    run = p.add_run(super_text)
+                    run.font.superscript = True
+                    run.font.name = 'Georgia'
+                    run.font.color.rgb = RGBColor(0x1B, 0x36, 0x5D)
+                    i = end + 1
+                else:
+                    run = p.add_run('^' + text[i:])
+                    run.font.name = 'Georgia'
+                    break
+            else:
+                if i < len(text):
+                    super_text = text[i]
+                    run = p.add_run(super_text)
+                    run.font.superscript = True
+                    run.font.name = 'Georgia'
+                    run.font.color.rgb = RGBColor(0x1B, 0x36, 0x5D)
+                    i += 1
+                else:
+                    run = p.add_run('^')
+                    run.font.name = 'Georgia'
+        else:
+            # Regular text sequence
+            start = i
+            while i < len(text) and text[i] not in ('_', '^'):
+                i += 1
+            reg_text = text[start:i]
+            run = p.add_run(reg_text)
+            run.font.name = 'Georgia'
+            run.font.italic = is_variable
+            run.font.color.rgb = RGBColor(0x1B, 0x36, 0x5D)
+
 def format_rich_text(p, text):
-    # Regex to extract bold (**), inline code (`), and regular text
-    tokens = re.split(r'(\*\*.*?\*\*|`.*?`)', text)
+    # Regex to extract bold (**), inline code (`), formulas ($), and regular text
+    tokens = re.split(r'(\*\*.*?\*\*|`.*?`|\$.*?\$)', text)
     for token in tokens:
         if token.startswith('**') and token.endswith('**'):
             t_text = token[2:-2]
@@ -132,7 +221,10 @@ def format_rich_text(p, text):
             run = p.add_run(t_text)
             run.font.name = 'Courier New'
             run.font.size = Pt(9.5)
-            run.font.color.rgb = RGBColor(0xA3, 0x15, 0x15) # Crimson code
+            run.font.color.rgb = RGBColor(0xA3, 0x15, 0x15)
+        elif token.startswith('$') and token.endswith('$'):
+            t_text = token[1:-1]
+            add_chemical_formula_runs(p, t_text)
         else:
             run = p.add_run(token)
             run.font.name = 'Arial'

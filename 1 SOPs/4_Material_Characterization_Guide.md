@@ -1,10 +1,7 @@
 # 4_Material_Characterization_Guide.md — Cẩm Nang Phân Tích Đặc Trưng & Tiêu Chuẩn Kỹ Thuật Vật Liệu
 
 > [!NOTE]
-> * Quy quy trình liên hợp thực tế:
->   * [1_Active_Protocol_Synthesis.md](file:///D:/1%20Master's%20Ana%20Chem/1%20Master's%20thesis/Carbon%20Aerogel/1%20SOPs/1_Active_Protocol_Synthesis.md)  
->   * [2_Active_Protocol_Electrochemistry.md](file:///D:/1%20Master's%20Ana%20Chem/1%20Master's%20thesis/Carbon%20Aerogel/1%20SOPs/2_Active_Protocol_Electrochemistry.md)  
->   * [3_Literature_Review_and_Gap_Analysis.md](file:///D:/1%20Master's%20Ana%20Chem/1%20Master's%20thesis/Carbon%20Aerogel/1%20SOPs/3_Literature_Review_and_Gap_Analysis.md)
+> * Quy trình liên hợp thực tế: `1_Active_Protocol_Synthesis.md`, `2_Active_Protocol_Electrochemistry.md`, `3_Literature_Review_and_Gap_Analysis.md`
 
 ---
 

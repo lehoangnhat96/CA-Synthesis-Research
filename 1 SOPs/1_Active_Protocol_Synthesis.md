@@ -1,9 +1,9 @@
 # 1_Active_Protocol_Synthesis.md — Quy Trình Thực Nghiệm Chế Tạo Bột Carbon Aerogel Điện Hóa
 
 > [!NOTE]
-> * Luận án tham chiếu: [Nguyễn Trần Xuân Phương 2024](file:///D:/1%20Master's%20Ana%20Chem/1%20Master's%20thesis/Carbon%20Aerogel/1%20Ref%20materials/08_Review_va_Tong_quan/TOM_TAT_NTXPhuong.md) (Quy trình tách Cellulose II và hấp phụ).
-> * Nghiên cứu cơ sở: [Fauziyah et al. 2020 (Ind. Eng. Chem. Res.)](file:///D:/1%20Master's%20Ana%20Chem/1%20Master's%20thesis/Carbon%20Aerogel/1%20Ref%20materials/02_Doping_va_Gel_hoa/2%20Nitrogen-Doped%20Carbon%20Aerogels%20Prepared%20by%20Direct%20Pyrolysis%20of.md) (Hệ $NH_4OH$-Urea tạo carbon aerogel Cellulose III).
-> * Nghiên cứu gel hóa: [Cai & Zhang 2006 (Biomacromolecules)](file:///D:/1%20Master's%20Ana%20Chem/1%20Master's%20thesis/Carbon%20Aerogel/1%20Ref%20materials/08_Review_va_Tong_quan/Unique%20Gelation%20Behavior%20of%20Cellulose%20in%20NaOH%20Urea%20Aqueous%20Solution.md) (Nhiệt động học gel hóa).
+> * Luận án tham chiếu: Nguyễn Trần Xuân Phương 2024 (Tài liệu: `TOM_TAT_NTXPhuong.md` trong thư mục `08_Review_va_Tong_quan`).
+> * Nghiên cứu cơ sở: Fauziyah et al. 2020 (Ind. Eng. Chem. Res.) (Tài liệu: `2 Nitrogen-Doped Carbon Aerogels Prepared by Direct Pyrolysis of.md` trong thư mục `02_Doping_va_Gel_hoa`).
+> * Nghiên cứu gel hóa: Cai & Zhang 2006 (Biomacromolecules) (Tài liệu: `Unique Gelation Behavior of Cellulose in NaOH Urea Aqueous Solution.md` trong thư mục `08_Review_va_Tong_quan`).
 
 ---
 

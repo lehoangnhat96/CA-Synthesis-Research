@@ -1,12 +1,9 @@
 # 3_Literature_Review_and_Gap_Analysis.md — So Sánh Đối Chứng Kỹ Thuật & Giải Quyết Lỗ Hổng Thực Nghiệm (Gap Analysis)
 
 > [!NOTE]
-> * Luận án tham chiếu: [Nguyễn Trần Xuân Phương 2024](file:///D:/1%20Master's%20Ana%20Chem/1%20Master's%20thesis/Carbon%20Aerogel/1%20Ref%20materials/08_Review_va_Tong_quan/TOM_TAT_NTXPhuong.md) (Đối chứng hệ $NaOH$ và TEPA).
-> * Nghiên cứu cơ sở: [Fauziyah et al. 2020 (Ind. Eng. Chem. Res.)](file:///D:/1%20Master's%20Ana%20Chem/1%20Master's%20thesis/Carbon%20Aerogel/1%20Ref%20materials/02_Doping_va_Gel_hoa/2%20Nitrogen-Doped%20Carbon%20Aerogels%20Prepared%20by%20Direct%20Pyrolysis%20of.md) (Mô hình $NH_4OH$-Urea chuyển pha Cellulose III).
-> * Quy trình liên kết thực tế:
->   * [1_Active_Protocol_Synthesis.md](file:///D:/1%20Master's%20Ana%20Chem/1%20Master's%20thesis/Carbon%20Aerogel/1%20SOPs/1_Active_Protocol_Synthesis.md)  
->   * [2_Active_Protocol_Electrochemistry.md](file:///D:/1%20Master's%20Ana%20Chem/1%20Master's%20thesis/Carbon%20Aerogel/1%20SOPs/2_Active_Protocol_Electrochemistry.md)  
->   * [4_Material_Characterization_Guide.md](file:///D:/1%20Master's%20Ana%20Chem/1%20Master's%20thesis/Carbon%20Aerogel/1%20SOPs/4_Material_Characterization_Guide.md)
+> * Luận án tham chiếu: Nguyễn Trần Xuân Phương 2024 (Tài liệu `TOM_TAT_NTXPhuong.md` trong thư mục `08_Review_va_Tong_quan`).
+> * Nghiên cứu cơ sở: Fauziyah et al. 2020 (Tài liệu `2 Nitrogen-Doped Carbon Aerogels Prepared by Direct Pyrolysis of.md` trong thư mục `02_Doping_va_Gel_hoa`).
+> * Quy trình liên kết thực tế: `1_Active_Protocol_Synthesis.md`, `2_Active_Protocol_Electrochemistry.md`, `4_Material_Characterization_Guide.md`
 
 ---
 
