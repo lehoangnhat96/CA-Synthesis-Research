@@ -37,7 +37,7 @@ gantt
 *Đề tài nghiên cứu điện hóa được phân tách một cách khoa học thành **2 bài báo quốc tế độc lập** nhằm khai thác tối đa tính mới và phân chia quyền lợi tác giả hợp lý:*
 
 ### 2.1 Bài báo 1 — Ứng dụng cảm biến điện hóa đo Paracetamol (DPV)
-*   **Vật liệu nền:** N-CA-700 (Carbon aerogel chỉ doping Nitơ nung ở 700°C hệ amoniac).
+*   **Vật liệu nền:** N-CA-700 (Carbon aerogel chỉ doping Nitơ nung ở 700 °C hệ amoniac).
 *   **Ứng dụng điện hóa:** Phân tích paracetamol bằng kỹ thuật Von-Ampe vi phân xung (DPV) sử dụng binder Nafion 0.25%.
 *   **Phân vai tác giả:**
     *   *Tác giả chính (First Author):* Bạn cùng lớp (Người hỗ trợ thu thập dữ liệu đo paracetamol).
@@ -46,13 +46,13 @@ gantt
 *   **Mục tiêu phân khúc:** Tạp chí ISI/Scopus nhóm **Q3 hoặc Q4** (làm bản lề tích lũy điểm phản biện nhanh).
 
 ### 2.2 Bài báo 2 — Cảm biến điện hóa siêu nhạy đo Pb²⁺ (SWASV) kết hợp xúc tác ORR
-*   **Vật liệu nền:** Fe/N-CA-800/800 (Carbon aerogel co-doped Fe/N nung 800°C, tẩm Fe, leaching HCl và nung lại ở 800°C).
-*   **Ứng dụng điện hóa:** Phân tích đồng thời kim loại nặng Pb2+ bằng sóng vuông hòa tan (SWASV) sử dụng binder Chitosan 1%, kết hợp phép đo đối chứng động học xúc tác ORR trong KOH 0.1M làm "Proof of Concept" chứng minh cấu trúc coordinated $Fe-N_4$.
+*   **Vật liệu nền:** Fe/N-CA-800/800 (Carbon aerogel co-doped Fe/N nung 800 °C, tẩm Fe, leaching HCl và nung lại ở 800 °C).
+*   **Ứng dụng điện hóa:** Phân tích đồng thời kim loại nặng Pb2+ bằng sóng vuông hòa tan (SWASV) sử dụng binder Chitosan 1%, kết hợp phép đo đối chứng động học xúc tác ORR trong KOH 0.1M làm "Proof of Concept" chứng minh cấu trúc coordinated Fe-N₄.
 *   **Phân vai tác giả:**
     *   *Tác giả chính & Tác giả liên hệ (First & Co-corresponding Author):* **Nhật** (Đảm nhiệm 100% phần thiết kế vật liệu Fe-N₄, đo đạc điện hóa nâng cao và viết nháp bài báo).
     *   *Đồng tác giả (2nd Author):* Bạn cùng lớp.
     *   *Tác giả hướng dẫn (Last Author):* Giảng viên hướng dẫn (GVHD).
-*   **Mục tiêu phân khúc:** Tạp chí uy tín cao nhóm **Q1 hoặc Q2** (Khẳng định giá trị khoa học cốt lõi của hướng xúc tác đơn nguyên tử $Fe-N_x$ trong điện phân tích từ sinh khối).
+*   **Mục tiêu phân khúc:** Tạp chí uy tín cao nhóm **Q1 hoặc Q2** (Khẳng định giá trị khoa học cốt lõi của hướng xúc tác đơn nguyên tử Fe-Nₓ trong điện phân tích từ sinh khối).
 
 ### 2.3 Chiến lược tránh bị cướp tính mới (Scoop Prevention)
 > [!IMPORTANT]
@@ -70,11 +70,11 @@ gantt
 | :--- | :--- | :---: | :--- |
 | **SEM - EDX** | Phòng thí nghiệm Trung tâm - Đại học Công nghiệp TPHCM (IUH) hoặc ĐH Bách Khoa TPHCM | 300,000 – 500,000 | Ảnh vách cấu trúc tổ ong + Bản đồ phân bố nguyên tố thô C, N, O. |
 | **HR-TEM** | Viện Công nghệ Nano (INT) - ĐHQG TPHCM | 1,200,000 – 1,800,000 | Ảnh lá carbon mỏng + Xác nhận không tụ hạt sắt kim loại thô. |
-| **BET (N₂ 77K)** | Khoa Kỹ thuật Hóa học - ĐH Bách Khoa TPHCM hoặc ĐH Khoa học Tự nhiên TPHCM | 600,000 – 800,000 | Diện tích $S_{BET}$ và phân bố thể tích lỗ xốp BJH. |
-| **Raman** | Viện Vật lý TP.HCM hoặc ĐH Khoa học Tự nhiên TPHCM | 250,000 – 350,000 | Tỷ lệ $I_D/I_G$ xác định cấu trúc defect carbon. |
+| **BET (N₂ 77K)** | Khoa Kỹ thuật Hóa học - ĐH Bách Khoa TPHCM hoặc ĐH Khoa học Tự nhiên TPHCM | 600,000 – 800,000 | Diện tích S_BET và phân bố thể tích lỗ xốp BJH. |
+| **Raman** | Viện Vật lý TP.HCM hoặc ĐH Khoa học Tự nhiên TPHCM | 250,000 – 350,000 | Tỷ lệ I_D/I_G xác định cấu trúc defect carbon. |
 | **XPS** | Trung tâm Phân tích Quốc gia (hoặc gửi mẫu dịch vụ sang Đài Loan/Hàn Quốc) | 1,800,000 – 2,500,000 | Định lượng nguyên tố Nitơ/Sắt + Trích xuất dạng pyridinic-N và liên kết Fe-Nₓ. |
 | **XRD** | Khoa Vật lý - ĐH Khoa học Tự nhiên TPHCM hoặc ĐH Sư phạm TPHCM | 150,000 – 250,000 | Đỉnh rộng carbon (002) và (100). |
 
 ### 3.2 Chiến lược tối ưu hóa chi phí
 * **Chiến lược gửi mẫu BET:** Chỉ đo BET đối với 2 mẫu đại diện ưu tú nhất (N-CA-700 tối ưu và Fe/N-CA-800 tối ưu) sau khi đã vượt qua vòng lọc điện hóa CV/EIS nền. Không đo BET tràn lan các mẫu khảo sát trung gian.
-* **Chiến lược đo XPS:** Đo XPS là đắt đỏ nhất. Bắt buộc phải đo Raman trước, nếu mẫu nào có tỷ lệ $I_D/I_G$ nằm ngoài dải vàng $0.9 - 1.2$ thì tuyệt đối không gửi đi đo XPS để tránh lãng phí ngân sách.
+* **Chiến lược đo XPS:** Đo XPS là đắt đỏ nhất. Bắt buộc phải đo Raman trước, nếu mẫu nào có tỷ lệ I_D/I_G nằm ngoài dải vàng 0.9 - 1.2 thì tuyệt đối không gửi đi đo XPS để tránh lãng phí ngân sách.
