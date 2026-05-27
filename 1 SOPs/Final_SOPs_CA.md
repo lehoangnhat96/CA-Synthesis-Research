@@ -242,12 +242,15 @@ Bảng tổng hợp toàn bộ các thông số điều kiện phản ứng cố
 | **Chì (Pb²⁺)** | **≈ -0.50V** |
 | **Đồng (Cu²⁺)** | **≈ +0.05V** |
 
-#### 3. Thiết lập quy trình đo riêng lẻ Thủy ngân (Hg²⁺)
-*   **Dung dịch điện ly nền:** Đệm Acetate 0.1 M, pH = 4.5.
-*   **Quy trình đo đơn Hg²⁺:**
-    *   Áp thế làm giàu khử chọn lọc: **E_dep = -0.20V vs. Ag/AgCl** trong thời gian **120 giây** (tránh phản ứng phụ giải phóng hydro HER phá hỏng màng).
+#### 3. Thiết lập quy trình đo riêng lẻ Thủy ngân (Hg²⁺) và Thạch tín (As³⁺)
+*   **Dung dịch điện ly nền:** Đệm Acetate 0.1 M, pH = 4.5 (cho Hg²⁺) hoặc đệm H₂SO₄ loãng (cho As³⁺).
+*   **Quy trình đo đơn Hg²⁺ / As³⁺:**
+    *   Áp thế làm giàu khử chọn lọc: **E_dep = -0.20V đến -0.40V vs. Ag/AgCl** trong thời gian **120 - 180 giây** (tránh phản ứng phụ giải phóng hydro HER phá hỏng màng).
     *   Quiet time: 10 giây.
-    *   Quét thế hòa tan sóng vuông từ **0.0V đến +0.6V** vs. Ag/AgCl. Peak hòa tan xuất hiện tại **≈ +0.25V**.
+    *   Quét thế hòa tan sóng vuông từ **0.0V đến +0.6V** vs. Ag/AgCl.
+*   **Thế hiệu đỉnh hòa tan đặc trưng:**
+    *   **Thạch tín (As³⁺):** Xuất hiện tại **≈ +0.15V đến +0.20V**.
+    *   **Thủy ngân (Hg²⁺):** Xuất hiện tại **≈ +0.25V đến +0.30V**.
 
 #### 4. Phép đo cảm biến Paracetamol bằng kỹ thuật xung vi phân (DPV)
 *   **Điện cực làm việc (WE):** Điện cực N-CA-700 / Nafion/GCE.

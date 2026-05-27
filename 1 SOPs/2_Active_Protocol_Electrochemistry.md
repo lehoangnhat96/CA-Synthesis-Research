@@ -90,7 +90,29 @@ Màng điện cực biến tính phải vượt qua các chỉ số baseline dư
       * *Thông số sóng vuông:* SW frequency = **25 Hz** | SW amplitude = **25 mV** | Step potential = **5 mV**.
   4. **Làm sạch điện cực (Cleaning):** Áp thế dương **+0.2V trong 30 giây** kết hợp khuấy từ tốc độ cao 600 rpm để giải phóng lượng kim loại còn sót lại, tránh hiện tượng nhiễm chéo mẫu.
 
-### 2. Phép đo cảm biến Paracetamol bằng kỹ thuật xung vi phân (DPV)
+### 2. Mở rộng đo đồng thời đa ion kim loại nặng (Zn²⁺, Cd²⁺, Pb²⁺, Cu²⁺) bằng kỹ thuật SWASV
+* **Dung dịch điện ly nền:** Đệm Acetate 0.1 M, pH = 4.5.
+* **Các bước lập trình thiết bị:**
+  1. **Làm giàu khử:** Áp thế E_dep = **-1.30V vs. Ag/AgCl** trong **120 - 180 giây** (khuấy 400 rpm).
+  2. **Thời gian cân bằng:** 10 giây.
+  3. **Hòa tan sóng vuông:** Quét thế từ **-1.40V đến +0.40V** vs. Ag/AgCl.
+* **Thế hiệu đỉnh hòa tan (Stripping Potentials) đặc trưng:**
+  * **Kẽm (Zn²⁺):** ≈ -1.10V
+  * **Cadmium (Cd²⁺):** ≈ -0.80V
+  * **Chì (Pb²⁺):** ≈ -0.50V
+  * **Đồng (Cu²⁺):** ≈ +0.05V
+
+### 3. Thiết lập quy trình đo riêng lẻ Thủy ngân (Hg²⁺) và Thạch tín (As³⁺)
+* **Dung dịch điện ly nền:** Đệm Acetate 0.1 M, pH = 4.5 (cho Hg²⁺) hoặc đệm H₂SO₄ loãng (cho As³⁺).
+* **Các bước lập trình thiết bị:**
+  1. **Làm giàu khử:** Áp thế chọn lọc E_dep = **-0.20V đến -0.40V vs. Ag/AgCl** trong **120 - 180 giây** (tránh sinh bọt khí H₂).
+  2. **Thời gian cân bằng:** 10 giây.
+  3. **Hòa tan sóng vuông:** Quét thế từ **0.0V đến +0.6V** vs. Ag/AgCl.
+* **Thế hiệu đỉnh hòa tan đặc trưng:**
+  * **Thạch tín (As³⁺):** ≈ +0.15V đến +0.20V
+  * **Thủy ngân (Hg²⁺):** ≈ +0.25V đến +0.30V
+
+### 4. Phép đo cảm biến Paracetamol bằng kỹ thuật xung vi phân (DPV)
 * **WE sử dụng:** Điện cực N-CA-700 / Nafion/GCE.
 * **Dung dịch điện ly nền:** Phosphate Buffered Saline (PBS) 0.1 M, pH = 7.0 - 7.4.
 * **Các bước lập trình thiết bị (DPV Program):**
