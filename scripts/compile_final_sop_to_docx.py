@@ -127,6 +127,13 @@ def add_chemical_formula_runs(p, formula_text):
     text = text.replace(r'\ge', '≥')
     text = text.replace(r'\pm', '±')
     text = text.replace(r'\varnothing', 'Ø')
+    text = text.replace(r'^\circ', '°')
+    text = text.replace(r'\circ', '°')
+    text = text.replace(r'\alpha', 'α')
+    text = text.replace(r'\theta', 'θ')
+    text = text.replace(r'\Delta', 'Δ')
+    text = text.replace(r'\rightarrow', '→')
+    text = text.replace(r'\%', '%')
     text = text.replace(r'\text{ }', ' ')
     
     # Strip standard \text{...} from text by regex

@@ -257,7 +257,7 @@ Bảng tổng hợp toàn bộ các thông số điều kiện phản ứng cố
 | **Tốc độ quét thế (Scan rate)** | **$20\text{ mV/s}$** |
 | **Biên độ xung (Pulse Amplitude)** | **$50\text{ mV}$** |
 | **Độ rộng xung (Pulse Width)** | **$50\text{ ms}$** |
-| **Bước thế (Step potential)** | **$5\text{ mV$** |
+| **Bước thế (Step potential)** | **$5\text{ mV}$** |
 
 *   **Peak oxy hóa Paracetamol:** Xuất hiện rõ nét tại **$\approx +0.34\text{ V}$** vs. $Ag/AgCl$.
 
