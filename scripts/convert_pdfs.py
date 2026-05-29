@@ -2,6 +2,7 @@ import os
 import sys
 import hashlib
 import shutil
+import ctypes
 import multiprocessing
 from pathlib import Path
 
@@ -178,11 +179,46 @@ def _multiprocess_worker(pdf_path, output_md_path, images_dir, workspace_dir, qu
         queue.put((False, f"LỖI Worker: {str(e)}"))
 
 
+def get_free_ram_gb():
+    """Lấy dung lượng RAM vật lý còn trống thực tế (đơn vị GB) trên Windows."""
+    try:
+        if os.name == 'nt':
+            class MEMORYSTATUSEX(ctypes.Structure):
+                _fields_ = [
+                    ('dwLength', ctypes.c_ulong),
+                    ('dwMemoryLoad', ctypes.c_ulong),
+                    ('ullTotalPhys', ctypes.c_ulonglong),
+                    ('ullAvailPhys', ctypes.c_ulonglong),
+                    ('ullTotalPageFile', ctypes.c_ulonglong),
+                    ('ullAvailPageFile', ctypes.c_ulonglong),
+                    ('ullTotalVirtual', ctypes.c_ulonglong),
+                    ('ullAvailVirtual', ctypes.c_ulonglong),
+                    ('ullAvailExtendedVirtual', ctypes.c_ulonglong),
+                ]
+            stat = MEMORYSTATUSEX()
+            stat.dwLength = ctypes.sizeof(stat)
+            ctypes.windll.kernel32.GlobalMemoryStatusEx(ctypes.byref(stat))
+            return stat.ullAvailPhys / (1024**3)
+    except Exception:
+        pass
+    return 4.0  # Mặc định coi như dư dả nếu không lấy được (để không chặn chạy bình thường)
+
+
 def convert_pdf_with_timeout(pdf_path, output_md_path, images_dir, workspace_dir, timeout=45):
     """
     Chạy hàm chuyển đổi PDF trong một Tiến trình riêng biệt với giới hạn thời gian (Timeout).
-    Nếu quá thời gian cho phép (mặc định 45s), tiến trình sẽ bị kết thúc cưỡng bức để tránh treo script.
+    Nếu quá thời gian cho phép (mặc định 45s) hoặc hệ thống thiếu RAM trầm trọng, 
+    tiến trình sẽ tự động fallback chạy đơn luồng an toàn.
     """
+    # 1. Kiểm tra RAM vật lý trống trước khi khởi tạo tiến trình mới
+    free_ram = get_free_ram_gb()
+    if free_ram < 1.2:
+        print(f"  ⚠️ Cảnh báo: RAM trống rất thấp ({free_ram:.2f} GB). Chuyển sang chạy tuần tự đơn luồng trực tiếp để tránh OOM...")
+        try:
+            return convert_pdf_to_md_basic(pdf_path, output_md_path, images_dir)
+        except Exception as e:
+            return False, f"LỖI chạy đơn luồng trực tiếp do thiếu RAM: {str(e)}"
+
     # Khởi tạo Queue giao tiếp giữa các tiến trình
     ctx = multiprocessing.get_context("spawn")
     queue = ctx.Queue()
@@ -193,7 +229,15 @@ def convert_pdf_with_timeout(pdf_path, output_md_path, images_dir, workspace_dir
         args=(pdf_path, output_md_path, images_dir, workspace_dir, queue)
     )
     
-    p.start()
+    try:
+        p.start()
+    except Exception as e:
+        print(f"  ⚠️ Lỗi khi khởi chạy tiến trình con (hệ thống thiếu tài nguyên: {str(e)}). Fallback chạy đơn luồng trực tiếp...")
+        try:
+            return convert_pdf_to_md_basic(pdf_path, output_md_path, images_dir)
+        except Exception as ex:
+            return False, f"LỖI chạy đơn luồng trực tiếp sau khi khởi chạy thất bại: {str(ex)}"
+
     p.join(timeout)
     
     if p.is_alive():

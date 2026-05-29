@@ -1,5 +1,6 @@
 import os
 import sys
+import shutil
 from pathlib import Path
 
 # Thiết lập UTF-8 cho console để tránh lỗi UnicodeEncodeError trên Windows

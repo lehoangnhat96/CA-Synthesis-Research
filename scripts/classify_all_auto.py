@@ -1,6 +1,8 @@
 import os
 import sys
 import json
+import re
+import shutil
 from pathlib import Path
 
 # Thiết lập UTF-8 cho console để tránh lỗi UnicodeEncodeError trên Windows
@@ -67,55 +69,120 @@ def classify_paper(pdf_name, relative_path, title, abstract, conclusion):
     return "08_Review_va_Tong_quan"
 
 
-def find_brain_dir():
-    # Thử quét các đường dẫn App Data phổ biến
-    possible_roots = [
-        Path(r"C:\Users\ADMIN\.gemini\antigravity-ide\brain"),
-        Path(r"C:\Users\ADMIN\.gemini\antigravity\brain"),
-    ]
-    for root in possible_roots:
-        if root.exists():
-            for subdir in root.iterdir():
-                if subdir.is_dir() and (subdir / "extracted_summaries.json").exists():
-                    return subdir
-    # Fallback mặc định
-    return Path(r"C:\Users\ADMIN\.gemini\antigravity-ide\brain\359d6ede-d8e5-472b-9493-636056861f13")
+def extract_info_from_md(md_path):
+    """
+    Đọc tệp tin Markdown và trích xuất nhanh Tiêu đề, Tóm tắt (Abstract) và Kết luận (Conclusion)
+    để phục vụ việc phân loại từ khóa.
+    """
+    try:
+        with open(md_path, "r", encoding="utf-8", errors="ignore") as f:
+            content = f.read()
+            
+        # 1. Trích xuất Title (dựa trên tên tệp hoặc các dòng đầu tiên)
+        title = md_path.stem
+        lines = [line.strip() for line in content.splitlines() if line.strip()]
+        for line in lines[:10]:
+            if line.startswith("#") or len(line) > 15:
+                title_candidate = line.lstrip("#* \t")
+                if "page" not in title_candidate.lower() and len(title_candidate) > 10:
+                    title = title_candidate
+                    break
+        
+        # 2. Trích xuất Abstract
+        abstract = ""
+        abstract_match = re.search(r'(?:abstract|tóm tắt)\b', content, re.IGNORECASE)
+        if abstract_match:
+            start_idx = abstract_match.end()
+            abstract = content[start_idx:start_idx + 1500].strip()
+            
+        # 3. Trích xuất Conclusion
+        conclusion = ""
+        conclusion_match = re.search(r'(?:conclusion|conclusions|kết luận|summary)\b', content, re.IGNORECASE)
+        if conclusion_match:
+            start_idx = conclusion_match.end()
+            conclusion = content[start_idx:start_idx + 1500].strip()
+            
+        return title, abstract, conclusion
+    except Exception as e:
+        print(f"Lỗi khi đọc file {md_path.name}: {e}")
+        return md_path.stem, "", ""
+
+
+def make_long_path(path):
+    """Vượt qua giới hạn MAX_PATH (260 ký tự) trên Windows khi thao tác file bằng Python."""
+    abs_path = os.path.abspath(path)
+    if os.name == 'nt' and not abs_path.startswith('\\\\?\\'):
+        abs_path = abs_path.replace('/', '\\')
+        return '\\\\?\\' + abs_path
+    return abs_path
+
 
 def main():
-    brain_dir = find_brain_dir()
-    json_path = brain_dir / "extracted_summaries.json"
+    workspace_dir = Path(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+    ref_materials_dir = workspace_dir / "1 Ref materials"
+    unclassified_dir = ref_materials_dir / "Chua phan loai"
     
-    if not json_path.exists():
-        print(f"LỖI: Không tìm thấy file {json_path}")
+    if not unclassified_dir.exists():
+        print(f"LỖI: Không tìm thấy thư mục: {unclassified_dir}")
         return
         
-    with open(json_path, "r", encoding="utf-8") as f:
-        data = json.load(f)
-        
-    print(f"=== Bắt đầu phân loại chính xác kết hợp Thư mục cho {len(data)} tài liệu ===")
+    md_files = list(unclassified_dir.glob("*.md"))
     
-    classification_map = {}
+    if not md_files:
+        print(f"=== Thư mục {unclassified_dir.name} rỗng. Không có tài liệu cần phân loại. ===")
+        return
+        
+    print(f"=== Bắt đầu phân loại tự động và di chuyển vật lý cho {len(md_files)} tài liệu ===")
+    
     stats = {}
+    moved_count = 0
     
-    for pdf_name, item in data.items():
-        title = item.get("title", "")
-        abstract = item.get("abstract", "")
-        conclusion = item.get("conclusion", "")
-        relative_path = item.get("relative_path", "")
+    for md_path in md_files:
+        pdf_name = md_path.stem + ".pdf"
+        relative_path = f"Chua phan loai/{md_path.name}"
         
+        # Trích xuất thông tin học thuật trực tiếp từ file Markdown
+        title, abstract, conclusion = extract_info_from_md(md_path)
+        
+        # Phân loại tài liệu bằng hàm lọc từ khóa
         category = classify_paper(pdf_name, relative_path, title, abstract, conclusion)
-        classification_map[pdf_name] = category
         
-        stats[category] = stats.get(category, 0) + 1
+        target_dir = ref_materials_dir / category
+        os.makedirs(make_long_path(target_dir), exist_ok=True)
         
-    # Ghi kết quả vào file classification_map.json trong thư mục brain
-    output_path = brain_dir / "classification_map.json"
-    with open(output_path, "w", encoding="utf-8") as f:
-        json.dump(classification_map, f, ensure_ascii=False, indent=2)
+        print(f"\n📄 Tài liệu: {md_path.name}")
+        print(f"   -> Nhóm phân loại: {category}")
         
-    print(f"\n=== HOÀN THÀNH PHÂN LOẠI CHÍNH XÁC ===")
-    print(f"Kết quả phân loại đã được lưu tại: {output_path}")
-    print("\nThống kê số lượng file theo từng nhóm mới:")
+        # Tiến hành di chuyển vật lý
+        try:
+            # 1. Di chuyển file .md
+            dest_md_path = target_dir / md_path.name
+            shutil.move(make_long_path(md_path), make_long_path(dest_md_path))
+            
+            # 2. Di chuyển file .pdf tương ứng nếu có
+            pdf_path = unclassified_dir / pdf_name
+            if pdf_path.exists():
+                dest_pdf_path = target_dir / pdf_name
+                shutil.move(make_long_path(pdf_path), make_long_path(dest_pdf_path))
+                
+            # 3. Di chuyển thư mục ảnh tương ứng nếu có
+            images_dir_name = md_path.stem + "_images"
+            images_dir = unclassified_dir / images_dir_name
+            if images_dir.exists():
+                dest_images_dir = target_dir / images_dir_name
+                if dest_images_dir.exists():
+                    shutil.rmtree(make_long_path(dest_images_dir))
+                shutil.move(make_long_path(images_dir), make_long_path(dest_images_dir))
+                
+            print(f"   ✅ Đã di chuyển tài liệu và dữ liệu đi kèm thành công!")
+            moved_count += 1
+            stats[category] = stats.get(category, 0) + 1
+        except Exception as e:
+            print(f"   ❌ Lỗi khi di chuyển tài liệu: {e}")
+            
+    print(f"\n=== HOÀN THÀNH QUÁ TRÌNH PHÂN LOẠI VÀ DI CHUYỂN ===")
+    print(f"Tổng số tài liệu đã di chuyển thành công: {moved_count}/{len(md_files)}")
+    print("\nThống kê số lượng file được di chuyển theo từng nhóm:")
     for cat, count in sorted(stats.items()):
         print(f"  - {cat}: {count} tệp")
 
