@@ -1,4 +1,5 @@
 ## Page 1
+
 Subscriber access provided by La Trobe University Library
 The Journal of Physical Chemistry C is published by the American Chemical Society.
 1155 Sixteenth Street N.W., Washington, DC 20036
@@ -28,7 +29,19 @@ and ethical guidelines that apply to the journal pertain. ACS cannot be held res
 or consequences arising from the use of information contained in these “Just Accepted” manuscripts.
 
 
+### Page Images
+
+![Page 1 Image 1](Biomass-Derived Carbon Fiber Aerogel as a Binder-Free Electrode for High-Rate Supercapacitors_images/image-0001-01.png)
+
+![Page 1 Image 2](Biomass-Derived Carbon Fiber Aerogel as a Binder-Free Electrode for High-Rate Supercapacitors_images/image-0001-02.png)
+
+![Page 1 Image 3](Biomass-Derived Carbon Fiber Aerogel as a Binder-Free Electrode for High-Rate Supercapacitors_images/image-0001-03.jpeg)
+
+
+---
+
 ## Page 2
+
  1 / 36 
  
 Biomass-Derived Carbon Fiber Aerogel as Binder-Free Electrode for 
@@ -115,7 +128,11 @@ The Journal of Physical Chemistry
 60
 
 
+
+---
+
 ## Page 3
+
  2 / 36 
  
 Abstract 
@@ -204,7 +221,11 @@ The Journal of Physical Chemistry
 60
 
 
+
+---
+
 ## Page 4
+
  3 / 36 
  
 INTRODUCTION 
@@ -294,7 +315,11 @@ The Journal of Physical Chemistry
 60
 
 
+
+---
+
 ## Page 5
+
  4 / 36 
  
 interactions during self-assembly and the physical cross-linking between neighboring 
@@ -384,7 +409,11 @@ The Journal of Physical Chemistry
 60
 
 
+
+---
+
 ## Page 6
+
  5 / 36 
  
 cotton using KOH. As illustrated in Scheme 1, the helical and tubular carbon fibers 
@@ -473,7 +502,11 @@ The Journal of Physical Chemistry
 60
 
 
+
+---
+
 ## Page 7
+
  6 / 36 
  
 CF of 0.2 g was soaked into 2.0 M KOH aqueous solution of different volumes to get 
@@ -563,7 +596,11 @@ The Journal of Physical Chemistry
 60
 
 
+
+---
+
 ## Page 8
+
  7 / 36 
  
 532 nm. The electrical conductivity of samples was tested by using a standard 
@@ -653,7 +690,11 @@ The Journal of Physical Chemistry
 60
 
 
+
+---
+
 ## Page 9
+
  8 / 36 
  
 with an amplitude of 10 mV at the frequency range of 0.01 Hz to 100 kHz. The real 
@@ -747,7 +788,11 @@ The Journal of Physical Chemistry
 60
 
 
+
+---
+
 ## Page 10
+
  9 / 36 
  
 identical stress-strain curves in the second and third stress-strain experiment (Figure 
@@ -837,7 +882,11 @@ The Journal of Physical Chemistry
 60
 
 
+
+---
+
 ## Page 11
+
  10 / 36 
  
 low graphitization of CF sample. After chemical activation, these two peaks become 
@@ -937,7 +986,11 @@ The Journal of Physical Chemistry
 60
 
 
+
+---
+
 ## Page 12
+
  11 / 36 
  
 KOH/CF ratio. This pore size enlargement is likely caused by merging neighboring 
@@ -1027,7 +1080,11 @@ The Journal of Physical Chemistry
 60
 
 
+
+---
+
 ## Page 13
+
  12 / 36 
  
 measured to be 0.77 and 0.80 cm3 g−1 for aCF-6 and aCF-7, respectively. This analysis 
@@ -1123,7 +1180,11 @@ The Journal of Physical Chemistry
 60
 
 
+
+---
+
 ## Page 14
+
  13 / 36 
  
 i = avb  
@@ -1213,7 +1274,11 @@ The Journal of Physical Chemistry
 60
 
 
+
+---
+
 ## Page 15
+
  14 / 36 
  
 results in aCF-6 to exhibit high-rate capability. As shown in Figure 6b, upon 
@@ -1303,7 +1368,11 @@ The Journal of Physical Chemistry
 60
 
 
+
+---
+
 ## Page 16
+
  15 / 36 
  
 electrode (0.46 and 0.49 s),35, 52 but rather smaller than those with activated carbon 
@@ -1393,7 +1462,11 @@ The Journal of Physical Chemistry
 60
 
 
+
+---
+
 ## Page 17
+
  16 / 36 
  
 application of aCF-6 electrode in electrochemical energy storage.  
@@ -1482,7 +1555,11 @@ The Journal of Physical Chemistry
 60
 
 
+
+---
+
 ## Page 18
+
  17 / 36 
  
  
@@ -1556,7 +1633,11 @@ The Journal of Physical Chemistry
 60
 
 
+
+---
+
 ## Page 19
+
  18 / 36 
  
 Reference  
@@ -1646,7 +1727,11 @@ The Journal of Physical Chemistry
 60
 
 
+
+---
+
 ## Page 20
+
  19 / 36 
  
 (8)  Lu, X. H.; Yu, M. H.; Wang, G. M.; Tong, Y. X.; Li, Y. Flexible Solid-State 
@@ -1736,7 +1821,11 @@ The Journal of Physical Chemistry
 60
 
 
+
+---
+
 ## Page 21
+
  20 / 36 
  
 (16)  Xu, Y.; Sheng, K.; Li, C.; Shi, G. Self-Assembled Graphene Hydrogel via a 
@@ -1826,7 +1915,11 @@ The Journal of Physical Chemistry
 60
 
 
+
+---
+
 ## Page 22
+
  21 / 36 
  
 (23)  Hong, K.-l.; Qie, L.; Zeng, R.; Yi, Z.-Q.; Zhang, W.; Wang, D.; Yin, W.; Wu, C.; 
@@ -1924,7 +2017,11 @@ The Journal of Physical Chemistry
 60
 
 
+
+---
+
 ## Page 23
+
  22 / 36 
  
 Supercapacitor Application, RSC Adv. 2014, 4, 31300-31307. 
@@ -2014,7 +2111,11 @@ The Journal of Physical Chemistry
 60
 
 
+
+---
+
 ## Page 24
+
  23 / 36 
  
 (37)  Zhu, Y. W.; Murali, S.; Stoller, M. D.; Ganesh, K. J.; Cai, W. W.; Ferreira, P. J.; 
@@ -2104,7 +2205,11 @@ The Journal of Physical Chemistry
 60
 
 
+
+---
+
 ## Page 25
+
  24 / 36 
  
 Self-Generating Graphene and Porous Nanocarbon Composites for Capacitive 
@@ -2207,7 +2312,11 @@ The Journal of Physical Chemistry
 60
 
 
+
+---
+
 ## Page 26
+
  25 / 36 
  
 Impedance Spectroscopy Studies of Carbon-Carbon Supercapacitors, J. 
@@ -2293,7 +2402,11 @@ The Journal of Physical Chemistry
 60
 
 
+
+---
+
 ## Page 27
+
  26 / 36 
  
 Captions for Figures and Table 
@@ -2401,7 +2514,11 @@ The Journal of Physical Chemistry
 60
 
 
+
+---
+
 ## Page 28
+
  27 / 36 
  
  
@@ -2484,7 +2601,19 @@ The Journal of Physical Chemistry
 60
 
 
+### Page Images
+
+![Page 28 Image 1](Biomass-Derived Carbon Fiber Aerogel as a Binder-Free Electrode for High-Rate Supercapacitors_images/image-0028-01.jpeg)
+
+![Page 28 Image 2](Biomass-Derived Carbon Fiber Aerogel as a Binder-Free Electrode for High-Rate Supercapacitors_images/image-0028-02.jpeg)
+
+![Page 28 Image 3](Biomass-Derived Carbon Fiber Aerogel as a Binder-Free Electrode for High-Rate Supercapacitors_images/image-0028-03.jpeg)
+
+
+---
+
 ## Page 29
+
  28 / 36 
  
  
@@ -2567,7 +2696,21 @@ The Journal of Physical Chemistry
 60
 
 
+### Page Images
+
+![Page 29 Image 1](Biomass-Derived Carbon Fiber Aerogel as a Binder-Free Electrode for High-Rate Supercapacitors_images/image-0029-01.jpeg)
+
+![Page 29 Image 2](Biomass-Derived Carbon Fiber Aerogel as a Binder-Free Electrode for High-Rate Supercapacitors_images/image-0029-02.jpeg)
+
+![Page 29 Image 3](Biomass-Derived Carbon Fiber Aerogel as a Binder-Free Electrode for High-Rate Supercapacitors_images/image-0029-03.jpeg)
+
+![Page 29 Image 4](Biomass-Derived Carbon Fiber Aerogel as a Binder-Free Electrode for High-Rate Supercapacitors_images/image-0029-04.jpeg)
+
+
+---
+
 ## Page 30
+
  29 / 36 
  
  
@@ -2655,7 +2798,23 @@ The Journal of Physical Chemistry
 60
 
 
+### Page Images
+
+![Page 30 Image 1](Biomass-Derived Carbon Fiber Aerogel as a Binder-Free Electrode for High-Rate Supercapacitors_images/image-0030-01.png)
+
+![Page 30 Image 2](Biomass-Derived Carbon Fiber Aerogel as a Binder-Free Electrode for High-Rate Supercapacitors_images/image-0030-02.png)
+
+![Page 30 Image 3](Biomass-Derived Carbon Fiber Aerogel as a Binder-Free Electrode for High-Rate Supercapacitors_images/image-0030-03.png)
+
+![Page 30 Image 4](Biomass-Derived Carbon Fiber Aerogel as a Binder-Free Electrode for High-Rate Supercapacitors_images/image-0030-04.png)
+
+![Page 30 Image 5](Biomass-Derived Carbon Fiber Aerogel as a Binder-Free Electrode for High-Rate Supercapacitors_images/image-0030-05.png)
+
+
+---
+
 ## Page 31
+
  30 / 36 
  
  
@@ -2837,7 +2996,11 @@ The Journal of Physical Chemistry
 60
 
 
+
+---
+
 ## Page 32
+
  31 / 36 
  
  
@@ -2974,7 +3137,11 @@ The Journal of Physical Chemistry
 49
 
 
+
+---
+
 ## Page 33
+
  32 / 36 
  
  
@@ -3115,7 +3282,11 @@ The Journal of Physical Chemistry
 60
 
 
+
+---
+
 ## Page 34
+
  33 / 36 
  
  
@@ -3301,7 +3472,11 @@ The Journal of Physical Chemistry
 60
 
 
+
+---
+
 ## Page 35
+
  34 / 36 
  
  
@@ -3514,7 +3689,15 @@ The Journal of Physical Chemistry
 60
 
 
+### Page Images
+
+![Page 35 Image 1](Biomass-Derived Carbon Fiber Aerogel as a Binder-Free Electrode for High-Rate Supercapacitors_images/image-0035-01.jpeg)
+
+
+---
+
 ## Page 36
+
  35 / 36 
  
  
@@ -3677,7 +3860,11 @@ The Journal of Physical Chemistry
 60
 
 
+
+---
+
 ## Page 37
+
  36 / 36 
  
  
@@ -3780,4 +3967,17 @@ The Journal of Physical Chemistry
 59
 60
 
+
+### Page Images
+
+![Page 37 Image 1](Biomass-Derived Carbon Fiber Aerogel as a Binder-Free Electrode for High-Rate Supercapacitors_images/image-0037-01.jpeg)
+
+![Page 37 Image 2](Biomass-Derived Carbon Fiber Aerogel as a Binder-Free Electrode for High-Rate Supercapacitors_images/image-0037-02.jpeg)
+
+![Page 37 Image 3](Biomass-Derived Carbon Fiber Aerogel as a Binder-Free Electrode for High-Rate Supercapacitors_images/image-0037-03.jpeg)
+
+![Page 37 Image 4](Biomass-Derived Carbon Fiber Aerogel as a Binder-Free Electrode for High-Rate Supercapacitors_images/image-0037-04.jpeg)
+
+
+---
 

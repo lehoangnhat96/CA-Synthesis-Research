@@ -1,10 +1,10 @@
 **QUY TRÌNH TỔNG HỢP CARBON AEROGEL TỪ XƠ DỪA ĐẾN MÀNG ĐIỆN CỰC** 
 
-## **GIAI ĐOẠN #0: TIỀN XỬ LÝ (Delignification & Bleaching)** 
+## **GIAI ĐOẠN #0: TIỀN XỬ LÝ (Delignification)** 
 
 ## 🎯 **MỤC TIÊU** 
 
-Loại bỏ lignin, hemicellulose → Cellulose tinh khiết 70-80% + Bảo tồn cấu trúc ống rỗng 
+Loại bỏ lignin, hemicellulose → Cellulose sạch, xơ dừa vàng rơm + Bảo tồn cấu trúc ống rỗng 
 
 ## 📋 **BẢNG 0.1: HÓA CHẤT VÀ THIẾT BỊ** 
 
@@ -16,19 +16,17 @@ Loại bỏ lignin, hemicellulose → Cellulose tinh khiết 70-80% + Bảo tồ
 |1|Xơ dừa thô|Từ vỏ trái dừa|Cắt 2-3 cm|Nguyên liệu|Thu gom địa|
 ||||||phương|
 |2|NaOH pellets|AR grade, ≥96%|**1.5M (~6% w/v)**|Delignification|Xilong, Merck|
-|3|H₂O₂|40% (v/v)|**Pha loãng → 10%**|Bleaching|Xilong|
-||||**(v/v)**|||
-|4|DI water|Conductivity <1|-|Rửa sạch|Hệ thống RO|
+|3|DI water|Conductivity <1|-|Rửa sạch|Hệ thống RO|
 |||μS/cm||||
 |**THIẾT BỊ**||||||
-|5|Bếp đun khuấy|T_max 120°C|200-400 rpm|Gia nhiệt đều|IKA, Heidolph|
+|4|Bếp đun khuấy|T_max 120°C|200-400 rpm|Gia nhiệt đều|IKA, Heidolph|
 ||từ|||||
-|6|Bình phản ứng|2-5 lít, borosilicate|-|Chứa dung|Duran, Schott|
+|5|Bình phản ứng|2-5 lít, borosilicate|-|Chứa dung|Duran, Schott|
 |||||dịch||
-|7|Nhiệt kế|0-150°C|±1°C|Monitoring|-|
-|8|pH meter|Dải 0-14|±0.1 pH|Kiểm tra pH|Mettler Toledo|
-|9|Lưới lọc inox|Mesh 200|75 μm|Lọc xơ|-|
-|10|Tủ sấy đối lưu|60°C|±2°C|Sấy khô|Memmert|
+|6|Nhiệt kế|0-150°C|±1°C|Monitoring|-|
+|7|pH meter|Dải 0-14|±0.1 pH|Kiểm tra pH|Mettler Toledo|
+|8|Lưới lọc inox|Mesh 200|75 μm|Lọc xơ|-|
+|9|Tủ sấy đối lưu|60°C|±2°C|Sấy khô|Memmert|
 
 
 
@@ -61,22 +59,10 @@ Loại bỏ lignin, hemicellulose → Cellulose tinh khiết 70-80% + Bảo tồ
 ||lần 2|**90 phút**|||vàng nhạt|
 |0A.6|Lọc & rửa|Rửa DI water đến pH 7-8|45 phút|Loại kiềm dư|pH = 7.0 ± 0.5|
 ||2|||||
-|**PHẦN B: BLEACHING**||||||
-|0B.1|Pha H₂O₂|**10% (v/v) + NaOH 1M**|10 phút|Tạo môi trường|pH 10-11|
-|||**→ pH 10-11**||kiềm||
-|0B.2|Tẩy trắng|**80°C, 120 phút, 300**|2h|Oxy hóa lignin|Xơ trắng kem|
-||lần 1|**rpm**, đậy nắp||||
-|0B.3|Lọc & rửa|Rửa nước ấm 5 lần|30 phút|Loại H₂O₂ dư|pH = 7-8|
-|0B.4|Tẩy trắng|**H₂O₂ 10% mới, 80°C,**|2h|Tẩy trắng hoàn|Xơ trắng sáng|
-||lần 2|**120 phút**||toàn||
-|0B.5|Rửa cuối|Rửa DI đến pH 6.5-7.5,|1h|Loại tạp chất|Nước trong,|
-|||ngâm 30'|||pH=7|
-|**PHẦN C: SẤY KHÔ**||||||
-|0C.1|Vắt nước|Ly tâm 2000 rpm, 5 phút|5 phút|Loại nước tự do|Độ ẩm ~60-|
-||||||70%|
-|0C.2|Sấy đối lưu|**60°C, 12-16h**, trải mỏng|12-16h|Bay hơi nước|Độ ẩm <5%|
-|0C.3|Cân khối|Cân chính xác|5 phút|Tính yield|**Yield = 40-**|
-||lượng||||**50%**|
+|**PHẦN B: SẤY KHÔ**||||||
+|0B.1|Vắt nước|Ly tâm 2000 rpm, 5 phút|5 phút|Loại nước tự do|Độ ẩm ~60-70%|
+|0B.2|Sấy đối lưu|**60°C, 12-16h**, trải mỏng|12-16h|Bay hơi nước|Độ ẩm <5%|
+|0B.3|Cân khối lượng|Cân chính xác|5 phút|Tính yield|**Yield = 40-50%**|
 
 
 
@@ -89,12 +75,11 @@ Loại bỏ lignin, hemicellulose → Cellulose tinh khiết 70-80% + Bảo tồ
 |||cm⁻¹)|||công|||
 |TGA||T_decomposition||Cellulose Td|Cellulose tinh khiết||Q3|
 |||||~350°C||||
-|Visual||Màu sắc||Trắng sáng|Đánh giá nhanh||Q3|
+|Visual||Màu sắc||Vàng rơm / Nâu nhạt|Đánh giá nhanh||Q3|
 |SEM||Cấu trúc ống rỗng||Đường kính 5-50|Tubular structure bảo|tồn|Q2|
 |||||μm||||
 |⚠**Lưu ý:**||||||||
 ||Nấu kiềm tối đa 3 lần (>3 lần → cellulose phân hủy)|||||||
-||H₂O₂|dễ bay hơi → phải đậy nắp hồi lưu||||||
 |**GIAI**|**ĐOẠN #1: SOL-GEL**||**& IN-SITU METAL DOPING**|||||
 |🎯**MỤC TIÊU**||||||||
 |Hòa tan cellulose → Tái kết tủa 3D + Doping NiCo||||đồng thời (in-situ)||||

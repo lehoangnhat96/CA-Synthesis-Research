@@ -14,8 +14,6 @@ Giai đoạn này quyết định **chất lượng nền tảng** - Nếu còn 
 ||3 cm||bộ|
 |**NaOH pellets**|AR grade, ≥96%|Phá vỡ lignin (delignification)|⚠Ăn mòn mạnh - Găng tay|
 ||||cao su dày|
-|**H₂O₂ (Hydrogen**|40% (v/v), food grade|Tẩy trắng (bleaching), loại|⚠Oxy hóa mạnh - Tránh|
-|**peroxide)**||lignin còn sót|tiếp xúc da|
 |**Nước cất (DI water)**|Conductivity <1 μS/cm|Rửa sạch kiềm, acid|Cần ~10-15 lít/batch 100g xơ|
 |**Bếp đun có khuấy từ**|T_max 120°C, khuấy 200-|Gia nhiệt đều, tránh cháy đáy|Dùng bình cầu 2-5 lít|
 ||400 rpm|||
@@ -71,48 +69,19 @@ Giai đoạn này quyết định **chất lượng nền tảng** - Nếu còn 
 
 Nếu sau 2 lần nấu xơ vẫn còn vàng sậm → Nấu lần 3 (80°C, 60 phút) Không nấu quá 3 lần → Cellulose bị phân hủy, độ bền cơ học giảm 
 
-## **Bước 0B: Bleaching (Tẩy Trắng)** 
-
-|**STT**|**Thao tác**|**Điều kiện cụ thể**|**Mục đích**|**Cơ chế hóa học**|**Target đạt**|
-|---|---|---|---|---|---|
-||**kỹ thuật**|||||
-|**0B.1**|**Pha H₂O₂**|• H₂O₂ 40%: pha|Tạo môi trường kiềm|pH cao → H₂O₂ phân ly:|Dung dịch pH 10-|
-||**+ NaOH**|loãng → 10% (v/v)|nhẹ cho H₂O₂ hoạt|**H₂O₂ + OH⁻ → HO₂⁻ +**|11, không sủi bọt|
-|||• Thêm NaOH 1M|động|**H₂O**||
-|||(pH 10-11)||(Perhydroxyl anion, tác||
-|||• Thể tích: 20 ml/g||nhân tẩy mạnh)||
-|||xơ||||
-|**0B.2**|**Tẩy trắng**|• 80°C, 120 phút|Oxy hóa lignin còn sót|**Lignin + H₂O₂ →**|Xơ chuyển trắng|
-||**lần 1**|• Khuấy 300 rpm|thành hợp chất tan|**Quinones + CO₂ + H₂O**|kem/vàng nhạt|
-|||• Đậy nắp hồi lưu||(Oxy hóa vòng thơm||
-|||(H₂O₂ dễ bay hơi)||thành carbonyl)||
-|**0B.3**|**Lọc & rửa**|• Lọc, rửa nước ấm 5|Loại sản phẩm oxy|Rửa trôi quinones,|pH = 7-8|
-|||lần|hóa tan, H₂O₂ dư|peroxide||
-|||• Kiểm tra pH||||
-|**0B.4**|**Tẩy trắng**|• H₂O₂ 10% + NaOH|Tẩy trắng hoàn toàn|Tương tự lần 1|Xơ trắng sáng (gần|
-||**lần 2**|mới|||như trắng giấy)|
-|||• 80°C, 120 phút||||
-|**0B.5**|**Rửa cuối**|• Rửa DI water đến|Loại sạch H₂O₂, kiềm,|Ngâm loại ion còn lại|Nước rửa trong|
-||**cùng**|pH = 6.5-7.5|tạp chất||suốt, pH trung tính|
-|||• Ngâm DI water 30||||
-|||phút (thay nước 2||||
-|||lần)||||
-
-
-
-## **Bước 0C: Sấy Khô** 
+## **Bước 0B: Sấy Khô** 
 
 |**STT**|**Thao tác kỹ**|**Điều kiện cụ thể**|**Mục đích**|**Cơ chế vật lý**|**Target đạt**|
 |---|---|---|---|---|---|
 ||**thuật**|||||
-|**0C.1**|**Vắt nước**|• Dùng tay vắt nhẹ|Loại nước tự|Lực cơ học đẩy nước ra|Độ ẩm ~60-70%|
+|**0B.1**|**Vắt nước**|• Dùng tay vắt nhẹ|Loại nước tự|Lực cơ học đẩy nước ra|Độ ẩm ~60-70%|
 |||(không vặn xoắn)|do|||
 |||• Hoặc ly tâm 2000||||
 |||rpm, 5 phút||||
-|**0C.2**|**Sấy đối lưu**|• 60°C, 12-16h|Bay hơi nước|Nhiệt độ thấp tránh phân|Độ ẩm <5%|
+|**0B.2**|**Sấy đối lưu**|• 60°C, 12-16h|Bay hơi nước|Nhiệt độ thấp tránh phân|Độ ẩm <5%|
 |||• Trải mỏng trên khay|còn lại|hủy cellulose||
 |||inox||||
-|**0C.3**|**Cân khối**|• Cân chính xác khối|Tính yield|-|Yield = 40-50% khối|
+|**0B.3**|**Cân khối**|• Cân chính xác khối|Tính yield|-|Yield = 40-50% khối|
 ||**lượng**|lượng khô|cellulose||lượng ban đầu|
 
 
@@ -163,12 +132,9 @@ Cellulose content (%) = (Khối lượng khô sau xử lý / Khối lượng xơ
 ||**(%)**|**(%)**||**rỗng**||
 |Chưa xử lý|~40%|~30%|Nâu sẫm|Nguyên vẹn|Không dùng|
 ||||||được|
-|Nấu kiềm 1 lần|~55%|~15%|Vàng kem|Nguyên vẹn|Chưa đủ sạch|
-|**Nấu kiềm 2 lần + Tẩy 2**|**70-80%**|**<5%**|**Trắng**|**Nguyên vẹn**|**Optimal**|
-|**lần** ⭐|||**sáng**|||
-|Nấu kiềm 3 lần + Tẩy 3|~75%|<3%|Trắng|Một số ống bị|Over-treatment|
-|lần|||sáng|nứt||
-
+|Nấu kiềm 1 lần|~55%|~15%|Vàng kem / nâu nhạt|Nguyên vẹn|Chưa đủ sạch|
+|**Nấu kiềm 2 lần** ⭐|**65-75%**|**<8%**|**Vàng rơm / vàng nhạt**|**Nguyên vẹn**|**Optimal**|
+|Nấu kiềm 3 lần|~70%|<6%|Vàng nhạt|Một số ống bị nứt|Over-treatment|
 
 
 ## 💡 **GHI CHÚ QUAN TRỌNG** 
@@ -186,12 +152,6 @@ Lignin = polyphenol không đều → Carbon hóa không đồng nhất
 Acid (H₂SO₄) phá cả cellulose → Yield thấp 
 
 NaOH chọn lọc với lignin (phenolic OH) → Giữ được cellulose 
-
-## **Tại sao H₂O₂ cần pH cao?** 
-
-pH thấp: H₂O₂ ổn định, tẩy yếu 
-
-pH 10-11: Tạo HO₂⁻ (perhydroxyl), oxy hóa mạnh hơn 10 lần 
 
 **Hạng Q: Q3** (Cơ bản, bắt buộc nhưng không phức tạp) 
 

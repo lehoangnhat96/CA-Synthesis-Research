@@ -1,4 +1,5 @@
 ## Page 1
+
 www.chemelectrochem.org
 Designs and Materials of Electrodes for Electrochemical
 Sensors
@@ -107,7 +108,19 @@ Review
 doi.org/10.1002/celc.202500230
 
 
+### Page Images
+
+![Page 1 Image 1](Designs and Materials of Electrodes for Electrochemical Sensors_images/image-0001-01.png)
+
+![Page 1 Image 2](Designs and Materials of Electrodes for Electrochemical Sensors_images/image-0001-02.png)
+
+![Page 1 Image 3](Designs and Materials of Electrodes for Electrochemical Sensors_images/image-0001-03.png)
+
+
+---
+
 ## Page 2
+
 to distinguish between target molecules and interfering substan-
 ces.[12] Finally, for biomedical or environmental applications,
 biocompatibility is necessary, allowing materials to interact safely
@@ -270,7 +283,21 @@ doi.org/10.1002/celc.202500230
  21960216, 2025, 19, Downloaded from https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/celc.202500230 by Readcube (Labtiva Inc.), Wiley Online Library on [24/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
 
 
+### Page Images
+
+![Page 2 Image 1](Designs and Materials of Electrodes for Electrochemical Sensors_images/image-0002-01.jpeg)
+
+![Page 2 Image 2](Designs and Materials of Electrodes for Electrochemical Sensors_images/image-0002-02.jpeg)
+
+![Page 2 Image 3](Designs and Materials of Electrodes for Electrochemical Sensors_images/image-0002-03.jpeg)
+
+![Page 2 Image 4](Designs and Materials of Electrodes for Electrochemical Sensors_images/image-0002-04.jpeg)
+
+
+---
+
 ## Page 3
+
 electrochemical cell design and materials used for electrochemi-
 cal (bio)sensing applications.
 2. Design of Electrodes in Electrochemical
@@ -329,7 +356,15 @@ doi.org/10.1002/celc.202500230
  21960216, 2025, 19, Downloaded from https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/celc.202500230 by Readcube (Labtiva Inc.), Wiley Online Library on [24/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
 
 
+### Page Images
+
+![Page 3 Image 1](Designs and Materials of Electrodes for Electrochemical Sensors_images/image-0003-01.jpeg)
+
+
+---
+
 ## Page 4
+
 This configuration refers to a setup where only one WE is respon-
 sible for the electrochemical reaction under investigation.
 In contrast, it is possible to use multiple WE systems (up to 96
@@ -376,7 +411,15 @@ doi.org/10.1002/celc.202500230
  21960216, 2025, 19, Downloaded from https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/celc.202500230 by Readcube (Labtiva Inc.), Wiley Online Library on [24/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
 
 
+### Page Images
+
+![Page 4 Image 1](Designs and Materials of Electrodes for Electrochemical Sensors_images/image-0004-01.png)
+
+
+---
+
 ## Page 5
+
 Electrochemical sensor configurations typically involve two
 categories: 1) two-electrode system and 2) three-electrode sys-
 tem.[6,25] Each design has its own advantages and limitations
@@ -512,7 +555,11 @@ doi.org/10.1002/celc.202500230
  21960216, 2025, 19, Downloaded from https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/celc.202500230 by Readcube (Labtiva Inc.), Wiley Online Library on [24/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
 
 
+
+---
+
 ## Page 6
+
 performance. Depending on the fabrication technology used,
 electrodes can be produced in small batches suitable for limited
 quantities or in large batches which reduce the production costs
@@ -624,7 +671,11 @@ doi.org/10.1002/celc.202500230
  21960216, 2025, 19, Downloaded from https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/celc.202500230 by Readcube (Labtiva Inc.), Wiley Online Library on [24/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
 
 
+
+---
+
 ## Page 7
+
 and glassy carbon (GC) respectively. The absence of parasitic
 reactions on BDD reduces interference with the measurement
 of target analytes, thereby enhancing selectivity.[61] In addition,
@@ -710,7 +761,15 @@ doi.org/10.1002/celc.202500230
  21960216, 2025, 19, Downloaded from https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/celc.202500230 by Readcube (Labtiva Inc.), Wiley Online Library on [24/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
 
 
+### Page Images
+
+![Page 7 Image 1](Designs and Materials of Electrodes for Electrochemical Sensors_images/image-0007-01.png)
+
+
+---
+
 ## Page 8
+
 procedures, PGEs can be refreshed quickly and reproducibly, thus
 enhancing their utility in analytical applications.[82,84] PGEs and
 graphite-modified electrodes have been effectively used in the
@@ -834,7 +893,11 @@ doi.org/10.1002/celc.202500230
  21960216, 2025, 19, Downloaded from https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/celc.202500230 by Readcube (Labtiva Inc.), Wiley Online Library on [24/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
 
 
+
+---
+
 ## Page 9
+
 particularly its high production cost, limit the feasibility of
 graphene and related materials for cost-effective, large-scale
 manufacturing. Nonetheless, modified graphenes and/or GOs
@@ -969,7 +1032,11 @@ doi.org/10.1002/celc.202500230
  21960216, 2025, 19, Downloaded from https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/celc.202500230 by Readcube (Labtiva Inc.), Wiley Online Library on [24/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
 
 
+
+---
+
 ## Page 10
+
 GC is available in several forms, including cellular GC (CGC),
 monolithic GC (MGC), and reticulated GC (RGC). Among these,
 RGC is the most commonly used electrode in electrochemical
@@ -1094,7 +1161,11 @@ doi.org/10.1002/celc.202500230
  21960216, 2025, 19, Downloaded from https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/celc.202500230 by Readcube (Labtiva Inc.), Wiley Online Library on [24/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
 
 
+
+---
+
 ## Page 11
+
 3.1.1.8. Biochar-Based Material
 Biochar is a carbon-rich material produced from the pyrolysis of
 biomass (thermal decomposition of organic waste in the absence
@@ -1239,7 +1310,11 @@ doi.org/10.1002/celc.202500230
  21960216, 2025, 19, Downloaded from https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/celc.202500230 by Readcube (Labtiva Inc.), Wiley Online Library on [24/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
 
 
+
+---
+
 ## Page 12
+
 Figure 5. a 0) CPs used for the construction of electrochemical sensors. b 0) CP redox in plasmonic hotspots. a) Schematic of electrochromic nanoparticle-on-
 mirror (eNPoM). Each gold nanoparticle (Au NP) is coated with (i) PANI (Au@PANI), (ii) poly-3,4-ethylenedioxythiophene (Au@PEDOT), or (iii) PPy (Au@PPy).
 b) Redox polymer reactions. c) Finite-difference time-domain (FDTD) simulated absorption (dashed) and scattering (line) spectra of individual eNPoM optical
@@ -1340,7 +1415,15 @@ doi.org/10.1002/celc.202500230
  21960216, 2025, 19, Downloaded from https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/celc.202500230 by Readcube (Labtiva Inc.), Wiley Online Library on [24/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
 
 
+### Page Images
+
+![Page 12 Image 1](Designs and Materials of Electrodes for Electrochemical Sensors_images/image-0012-01.jpeg)
+
+
+---
+
 ## Page 13
+
 3.1.2.2. PPy
 Compared to PANI, PPy has similar properties. PPy is electrochem-
 ically active due to its reversible redox activity; it facilitates
@@ -1470,7 +1553,11 @@ doi.org/10.1002/celc.202500230
  21960216, 2025, 19, Downloaded from https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/celc.202500230 by Readcube (Labtiva Inc.), Wiley Online Library on [24/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
 
 
+
+---
+
 ## Page 14
+
 They can transform chemical interactions into measurable elec-
 trical signals, making them ideal for use in electrochemical and
 chemi-resistive sensors. For example, PANI-based sensors have
@@ -1588,7 +1675,11 @@ doi.org/10.1002/celc.202500230
  21960216, 2025, 19, Downloaded from https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/celc.202500230 by Readcube (Labtiva Inc.), Wiley Online Library on [24/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
 
 
+
+---
+
 ## Page 15
+
 reduce the overpotential of H2O2 and enhance the electron trans-
 fer rate between the electrode and the Pt nanoparticles.
 Platinum-based materials present many advantages compared
@@ -1703,7 +1794,11 @@ doi.org/10.1002/celc.202500230
  21960216, 2025, 19, Downloaded from https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/celc.202500230 by Readcube (Labtiva Inc.), Wiley Online Library on [24/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
 
 
+
+---
+
 ## Page 16
+
 Recent studies have focused on innovative electrode designs
 incorporating NiNPs to overcome existing challenges and
 enhance sensor performance. Electrodes modified with NiNPs
@@ -1799,7 +1894,15 @@ doi.org/10.1002/celc.202500230
  21960216, 2025, 19, Downloaded from https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/celc.202500230 by Readcube (Labtiva Inc.), Wiley Online Library on [24/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
 
 
+### Page Images
+
+![Page 16 Image 1](Designs and Materials of Electrodes for Electrochemical Sensors_images/image-0016-01.jpeg)
+
+
+---
+
 ## Page 17
+
 other molecules onto them was found to interfere with their sens-
 ing accuracy.[253] To overcome these challenges, recent studies
 have focused on innovative electrode designs to enhance sensor
@@ -1928,7 +2031,11 @@ doi.org/10.1002/celc.202500230
  21960216, 2025, 19, Downloaded from https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/celc.202500230 by Readcube (Labtiva Inc.), Wiley Online Library on [24/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
 
 
+
+---
+
 ## Page 18
+
 issues.[269,290] In terms of specificity and selectivity, MOXNP-based
 sensors faced a challenge when analyzing complex environments
 with various analytes.[285]
@@ -2079,7 +2186,11 @@ doi.org/10.1002/celc.202500230
  21960216, 2025, 19, Downloaded from https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/celc.202500230 by Readcube (Labtiva Inc.), Wiley Online Library on [24/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
 
 
+
+---
+
 ## Page 19
+
 peroxidase, which catalyze the reduction of H2O2 at low poten-
 tials (between 0.1 and 0 V vs. Ag/AgCl). This significantly min-
 imizes interference from electroactive species present notably in
@@ -2153,7 +2264,15 @@ doi.org/10.1002/celc.202500230
  21960216, 2025, 19, Downloaded from https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/celc.202500230 by Readcube (Labtiva Inc.), Wiley Online Library on [24/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
 
 
+### Page Images
+
+![Page 19 Image 1](Designs and Materials of Electrodes for Electrochemical Sensors_images/image-0019-01.png)
+
+
+---
+
 ## Page 20
+
 efforts aim to improve material stability and enable portable,
 field-deployable sensor platforms.[309]
 In a separate and promising application, researchers have
@@ -2265,7 +2384,11 @@ doi.org/10.1002/celc.202500230
  21960216, 2025, 19, Downloaded from https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/celc.202500230 by Readcube (Labtiva Inc.), Wiley Online Library on [24/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
 
 
+
+---
+
 ## Page 21
+
 [4] N. Vishnu, M. Gandhi, D. Rajagopal, A. S. Kumar, Anal. Methods 2017, 9,
 2265.
 [5] D. W. Kimmel, G. LeBlanc, M. E. Meschievitz, D. E. Cliffel, Anal. Chem. 2012,
@@ -2440,7 +2563,11 @@ doi.org/10.1002/celc.202500230
  21960216, 2025, 19, Downloaded from https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/celc.202500230 by Readcube (Labtiva Inc.), Wiley Online Library on [24/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
 
 
+
+---
+
 ## Page 22
+
 [85] V. Vyskoc, Monatsh. Chem. 2017, 148, 577–583.
 [86] M. I. N. Ovák 2014, 724.
 [87] P. A. Pushpanjali, J. G. Manjunatha, N. Hareesha 2021, 11, 161–177.
@@ -2606,7 +2733,11 @@ doi.org/10.1002/celc.202500230
  21960216, 2025, 19, Downloaded from https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/celc.202500230 by Readcube (Labtiva Inc.), Wiley Online Library on [24/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
 
 
+
+---
+
 ## Page 23
+
 [174] S. Jiang, L. Jin, H. Hou, L. Zhang, Polymer-Based Multifunctional
 Nanocomposites and Their Applications, Elsevier 2019, pp. 201–243.
 [175] A. Z. Alanazi, K. Alhazzani, M. M. El-Wekil, A.-M. B. H. Ali, M. Darweesh,
@@ -2778,7 +2909,11 @@ doi.org/10.1002/celc.202500230
  21960216, 2025, 19, Downloaded from https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/celc.202500230 by Readcube (Labtiva Inc.), Wiley Online Library on [24/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
 
 
+
+---
+
 ## Page 24
+
 Toxicity Mechanisms, and Future Strategies for Health Risk Prevention,
 BioMed Central 2025.
 [249] B. Mekassa, P. G. L. Baker, B. S. Chandravanshi, M. Tessema, J. Solid State
@@ -2946,7 +3081,11 @@ doi.org/10.1002/celc.202500230
  21960216, 2025, 19, Downloaded from https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/celc.202500230 by Readcube (Labtiva Inc.), Wiley Online Library on [24/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
 
 
+
+---
+
 ## Page 25
+
 [326] P. K. Takahashi, Int. J. Hydrogen Energy 2012, 37, https://doi.org/10.1016/
 j.ijhydene.2011.10.007.
 [327] V. Gillet, E. Aubignat, S. Costil, B. Courant, C. Langlade, P. Casari,
@@ -3012,4 +3151,7 @@ Review
 doi.org/10.1002/celc.202500230
  21960216, 2025, 19, Downloaded from https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/celc.202500230 by Readcube (Labtiva Inc.), Wiley Online Library on [24/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
 
+
+
+---
 

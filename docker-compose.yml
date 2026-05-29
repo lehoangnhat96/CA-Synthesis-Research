@@ -11,7 +11,7 @@ services:
     environment:
       - PYTHONUNBUFFERED=1
       - PYTHONIOENCODING=utf-8
-    command: python convert_pdfs.py
+    command: python scripts/convert_pdfs.py
     restart: "no"
 
   classifier:
@@ -24,7 +24,7 @@ services:
       - ./:/app
     environment:
       - PYTHONUNBUFFERED=1
-    command: python classify_all_auto.py
+    command: python scripts/classify_all_auto.py
     depends_on:
       - pdf-processor
     restart: "no"

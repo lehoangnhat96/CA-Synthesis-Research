@@ -1,4 +1,5 @@
 ## Page 1
+
 A Review on Recent Trends and Future Developments in
 Electrochemical Sensing
 Rimmy Singh,* Ruchi Gupta, Deepak Bansal, Rachna Bhateria, and Mona Sharma*
@@ -89,7 +90,37 @@ Downloaded via 116.111.185.116 on May 24, 2026 at 16:17:49 (UTC).
 See https://pubs.acs.org/sharingguidelines for options on how to legitimately share published articles.
 
 
+### Page Images
+
+![Page 1 Image 1](A Review on Recent Trends and Future Developments in Electrochemical Sensing_images/image-0001-01.png)
+
+![Page 1 Image 2](A Review on Recent Trends and Future Developments in Electrochemical Sensing_images/image-0001-02.png)
+
+![Page 1 Image 3](A Review on Recent Trends and Future Developments in Electrochemical Sensing_images/image-0001-03.png)
+
+![Page 1 Image 4](A Review on Recent Trends and Future Developments in Electrochemical Sensing_images/image-0001-04.png)
+
+![Page 1 Image 5](A Review on Recent Trends and Future Developments in Electrochemical Sensing_images/image-0001-05.png)
+
+![Page 1 Image 6](A Review on Recent Trends and Future Developments in Electrochemical Sensing_images/image-0001-06.png)
+
+![Page 1 Image 7](A Review on Recent Trends and Future Developments in Electrochemical Sensing_images/image-0001-07.png)
+
+![Page 1 Image 8](A Review on Recent Trends and Future Developments in Electrochemical Sensing_images/image-0001-08.png)
+
+![Page 1 Image 9](A Review on Recent Trends and Future Developments in Electrochemical Sensing_images/image-0001-09.png)
+
+![Page 1 Image 10](A Review on Recent Trends and Future Developments in Electrochemical Sensing_images/image-0001-10.png)
+
+![Page 1 Image 11](A Review on Recent Trends and Future Developments in Electrochemical Sensing_images/image-0001-11.jpeg)
+
+![Page 1 Image 12](A Review on Recent Trends and Future Developments in Electrochemical Sensing_images/image-0001-12.jpeg)
+
+
+---
+
 ## Page 2
+
 introduced depending upon the interaction between analyte
 and the nanomaterials employed to modify the WE. Conven-
 tionally, carbon and gold are the most common electrode
@@ -173,7 +204,15 @@ ACS Omega 2024, 9, 7336−7356
 7337
 
 
+### Page Images
+
+![Page 2 Image 1](A Review on Recent Trends and Future Developments in Electrochemical Sensing_images/image-0002-01.jpeg)
+
+
+---
+
 ## Page 3
+
 importantly, 2D materials are ideally single layered materials
 restricting thickness to only a few nanometers, thus imparting
 high surface to volume ratio.35 Furthermore, their conductivity
@@ -284,7 +323,15 @@ ACS Omega 2024, 9, 7336−7356
 7338
 
 
+### Page Images
+
+![Page 3 Image 1](A Review on Recent Trends and Future Developments in Electrochemical Sensing_images/image-0003-01.jpeg)
+
+
+---
+
 ## Page 4
+
 and its derivatives to detect contaminants in potable water,
 wastewater, food, and soil. Both adsorption and catalytic
 efficiency of the sensing material toward the target analyte have
@@ -505,7 +552,11 @@ ACS Omega 2024, 9, 7336−7356
 7339
 
 
+
+---
+
 ## Page 5
+
 Figure 3. (A) MXene-based wristband laminated on human skin as a wearable biosensor.98 (B) PEDOT:PSS polymer on polyethylene
 terephthalate (PETE) substrate for 3D printing.99 (C) Synthesis of MoS2 on a flexible Au−PI electrode (MoS2−Au-polyimide flexible sensor).100
 Reprinted with permission from ref 101. Copyright 2020 KeAi.
@@ -517,7 +568,15 @@ ACS Omega 2024, 9, 7336−7356
 7340
 
 
+### Page Images
+
+![Page 5 Image 1](A Review on Recent Trends and Future Developments in Electrochemical Sensing_images/image-0005-01.jpeg)
+
+
+---
+
 ## Page 6
+
 possess various physical and chemical properties such as layer-
 dependent bandgaps, high-charge mobility, emission of light
 and absorption.120
@@ -594,7 +653,15 @@ ACS Omega 2024, 9, 7336−7356
 7341
 
 
+### Page Images
+
+![Page 6 Image 1](A Review on Recent Trends and Future Developments in Electrochemical Sensing_images/image-0006-01.jpeg)
+
+
+---
+
 ## Page 7
+
 the detection of chlorpromazine (CPZ). The anodic behavior
 of CPZ was studied by “differential pulse voltammetry” (DPV)
 and “cyclic voltammetry” (CV). A LOD of 0.03 μM and a
@@ -700,7 +767,17 @@ ACS Omega 2024, 9, 7336−7356
 7342
 
 
+### Page Images
+
+![Page 7 Image 1](A Review on Recent Trends and Future Developments in Electrochemical Sensing_images/image-0007-01.jpeg)
+
+![Page 7 Image 2](A Review on Recent Trends and Future Developments in Electrochemical Sensing_images/image-0007-02.jpeg)
+
+
+---
+
 ## Page 8
+
 glucose electrochemical sensors, enzymatic sensors use
 enzymes for direct reaction with glucose leading to electron
 transfer, whereas nonenzymatic sensors cause direct oxidation
@@ -726,7 +803,17 @@ ACS Omega 2024, 9, 7336−7356
 7343
 
 
+### Page Images
+
+![Page 8 Image 1](A Review on Recent Trends and Future Developments in Electrochemical Sensing_images/image-0008-01.jpeg)
+
+![Page 8 Image 2](A Review on Recent Trends and Future Developments in Electrochemical Sensing_images/image-0008-02.jpeg)
+
+
+---
+
 ## Page 9
+
 electrode,159 screen-printed electrode modified with poly-
 (ethylene glycol)-400 and diglycidyl ether160 eggshell mem-
 brane”161 were synthesized and evaluated. Shortcomings of
@@ -841,7 +928,15 @@ ACS Omega 2024, 9, 7336−7356
 7344
 
 
+### Page Images
+
+![Page 9 Image 1](A Review on Recent Trends and Future Developments in Electrochemical Sensing_images/image-0009-01.jpeg)
+
+
+---
+
 ## Page 10
+
 adsorb DDT molecules specifically. When DDT was adsorbing
 on PDA@Fe2O4-MIP magnetic nanoparticles, the electro-
 chemical impedance of the nanoparticles increased. In Figure
@@ -913,7 +1008,15 @@ ACS Omega 2024, 9, 7336−7356
 7345
 
 
+### Page Images
+
+![Page 10 Image 1](A Review on Recent Trends and Future Developments in Electrochemical Sensing_images/image-0010-01.jpeg)
+
+
+---
+
 ## Page 11
+
 interstitial fluid (ISF) by developing wearable microneedle
 sensors.205,206 Using microneedles, many electrochemical
 sensors have been developed to monitor a range of
@@ -934,7 +1037,15 @@ ACS Omega 2024, 9, 7336−7356
 7346
 
 
+### Page Images
+
+![Page 11 Image 1](A Review on Recent Trends and Future Developments in Electrochemical Sensing_images/image-0011-01.jpeg)
+
+
+---
+
 ## Page 12
+
 drug detection in multiplexed microneedle-based sensing.210 In
 continuing research, for the detection of Parkinson disease, L-
 Dopa drugs, a strategy based on multimodal microneedle
@@ -1023,7 +1134,15 @@ ACS Omega 2024, 9, 7336−7356
 7347
 
 
+### Page Images
+
+![Page 12 Image 1](A Review on Recent Trends and Future Developments in Electrochemical Sensing_images/image-0012-01.jpeg)
+
+
+---
+
 ## Page 13
+
 covalent cross-linking, Higson’s group immobilized lactate
 oxidase using highly porous polycarbonate membranes.219 Lin
 et al. demonstrated a differential pulse voltammetry-based
@@ -1146,7 +1265,15 @@ ACS Omega 2024, 9, 7336−7356
 7348
 
 
+### Page Images
+
+![Page 13 Image 1](A Review on Recent Trends and Future Developments in Electrochemical Sensing_images/image-0013-01.jpeg)
+
+
+---
+
 ## Page 14
+
 answer nature” and their ability to target a wide range of
 biochemical analytes, POCT can provide powerful insights that
 can help speed up the diagnosis process if chosen wisely.
@@ -1278,7 +1405,11 @@ ACS Omega 2024, 9, 7336−7356
 7349
 
 
+
+---
+
 ## Page 15
+
 ■REFERENCES
 (1) Liu, D.; Wang, J.; Wu, L.; Huang, Y.; Zhang, Y.; Zhu, M.; Yang,
 C.; et al. Trends in miniaturized biosensors for point-of-care testing.
@@ -1424,7 +1555,11 @@ ACS Omega 2024, 9, 7336−7356
 7350
 
 
+
+---
+
 ## Page 16
+
 electrochemical sensitive detection of phenolic acids. Talanta 2020,
 218, No. 121123.
 (41) Yin, H.; Zhan, T.; Chen, J.; Wang, L.; Gong, J.; Zhao, S.; Nie,
@@ -1571,7 +1706,11 @@ ACS Omega 2024, 9, 7336−7356
 7351
 
 
+
+---
+
 ## Page 17
+
 (78) Xu, Y.; Sheng, K.; Li, C.; Shi, G. Highly conductive chemically
 converted graphene prepared from mildly oxidized graphene oxide. J.
 Mater. Chem. 2011, 21 (20), 7376−7380.
@@ -1716,7 +1855,11 @@ ACS Omega 2024, 9, 7336−7356
 7352
 
 
+
+---
+
 ## Page 18
+
 (116) Dickinson, R. G.; Pauling, L. The crystal structure of
 molybdenite. J. Am. Chem. Soc. 1923, 45 (6), 1466−1471.
 (117) Wilson, J. A.; Yoffe, A. D. The transition metal
@@ -1862,7 +2005,11 @@ ACS Omega 2024, 9, 7336−7356
 7353
 
 
+
+---
+
 ## Page 19
+
 (155) Bagheri, H.; Afkhami, A.; Khoshsafar, H.; Rezaei, M.;
 Sabounchei, S. J.; Sarlakifar, M. Simultaneous electrochemical sensing
 of thallium, lead and mercury using a novel ionic liquid/graphene
@@ -2008,7 +2155,11 @@ ACS Omega 2024, 9, 7336−7356
 7354
 
 
+
+---
+
 ## Page 20
+
 (192) Ivnitski, D.; Abdel-Hamid, I.; Atanasov, P.; Wilkins, E.;
 Stricker, S. Application of electrochemical biosensors for detection of
 food pathogenic bacteria. Electroanalysis: An International Journal
@@ -2155,7 +2306,11 @@ ACS Omega 2024, 9, 7336−7356
 7355
 
 
+
+---
+
 ## Page 21
+
 (230) Ferrag, C.; Kerman, K. Grand challenges in nanomaterial-
 based electrochemical sensors. Frontiers in Sensors 2020, 1,
 No. 583822.
@@ -2218,4 +2373,7 @@ https://doi.org/10.1021/acsomega.3c08060
 ACS Omega 2024, 9, 7336−7356
 7356
 
+
+
+---
 

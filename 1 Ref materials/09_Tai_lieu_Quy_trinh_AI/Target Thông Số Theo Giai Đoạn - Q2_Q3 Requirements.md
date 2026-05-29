@@ -5,8 +5,7 @@
 |**Giai**|**Kỹ thuật kiểm tra**|**Target Q3 (Minimum)**|**Target Q2 (Good)**|**Red Flag (Fail)**|
 |---|---|---|---|---|
 |**đoạn**|||||
-|**#0**|Visual + FTIR +|Trắng kem, lignin <10%|Trắng sáng, lignin <5%|Vàng sậm, lignin >15%|
-||TGA||||
+|**#0**|Visual + FTIR + TGA|Vàng rơm/nâu nhạt, lignin <12%|Vàng nhạt/vàng rơm, lignin <8%|Nâu đen/vàng sậm, lignin >15%|
 |**#1**|Visual + ICP-MS|Gel xanh đồng nhất, Ni:Co|Gel không rỉ nước, kim loại|Gel nứt, kết tủa|
 |||≈1:2|±5%|hydroxide|
 |**#2**|BET + SEM|SSA >1000, mesopore|SSA 1500-2500, mesopore|SSA <800, gel sụp|
@@ -27,9 +26,9 @@
 
 |**Thông số**|**Q3 Minimum**|**Q2 Good**|**Kỹ thuật đo**|**Nếu fail → Action**|
 |---|---|---|---|---|
-|**Cellulose content**|60-70%|**70-80%**|Gravimetry + TGA|Tẩy H₂O₂ thêm 1 lần|
-|**Lignin còn lại**|<10%|**<5%**|FTIR (1730 cm⁻¹ peak)|Nấu kiềm lần 3|
-|**Màu sắc**|Trắng kem|**Trắng sáng**|Visual|Tẩy H₂O₂ thêm|
+|**Cellulose content**|60-70%|**70-80%**|Gravimetry + TGA|Nấu kiềm thêm 1 lần|
+|**Lignin còn lại**|<12%|**<8%**|FTIR (1730 cm⁻¹ peak)|Nấu kiềm lần 3|
+|**Màu sắc**|Nâu nhạt|**Vàng rơm / vàng nhạt**|Visual|Nấu kiềm thêm|
 |**Tubular structure**|Còn 70% ống|**>90% ống nguyên vẹn**|SEM cross-section|Giảm NaOH xuống 1M|
 |**Độ ẩm**|<8%|**<5%**|Sấy 60°C đến khô|Sấy thêm 2-4h|
 
@@ -37,7 +36,7 @@
 
 **Thông số Q3 Minimum Q2 Good Kỹ thuật đo Nếu fail → Action Yield** >35% **40-50%** Cân khối lượng Accept (thấp = sạch hơn) 
 
-**Checkpoint:** Trắng + FTIR lignin yếu → Pass 
+**Checkpoint:** Màu vàng rơm/nâu nhạt + FTIR lignin yếu → Pass 
 
 ## **#1 - SOL-GEL & DOPING** 
 
@@ -148,7 +147,7 @@
 
 |**Giai đoạn**|**Must-have**|**Nice-to-have**|
 |---|---|---|
-|#0|Trắng kem, lignin <10%|-|
+|#0|Nâu nhạt, lignin <12%|-|
 |#1|Gel xanh, không rỉ|ICP-MS|
 |#2|SSA >1000, mesopore >40%|Type IV isotherm|
 |#3|SKIP (nếu #2 OK) hoặc SSA +200|-|
@@ -164,7 +163,7 @@
 
 |**Giai đoạn**|**Must-have**|**Must-measure**|
 |---|---|---|
-|#0|Trắng sáng, lignin <5%|FTIR + TGA|
+|#0|Vàng rơm / vàng nhạt, lignin <8%|FTIR + TGA|
 |#1|Gel không rỉ, Ni:Co 1:2±0.1|TGA ash 25±2%|
 |#2|SSA 1500-2500, mesopore 50-60%|**BET + BJH + SEM**|
 |#3|SKIP preferred|Nếu làm: NiCo >80%|

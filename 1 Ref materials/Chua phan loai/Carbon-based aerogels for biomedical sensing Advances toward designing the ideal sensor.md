@@ -1,4 +1,5 @@
 ## Page 1
+
 Advances in Colloid and Interface Science 298 (2021) 102550
 Available online 19 October 2021
 0001-8686/© 2021 Elsevier B.V. All rights reserved.
@@ -74,7 +75,19 @@ https://doi.org/10.1016/j.cis.2021.102550
 Received in revised form 21 September 2021;    
 
 
+### Page Images
+
+![Page 1 Image 1](Carbon-based aerogels for biomedical sensing Advances toward designing the ideal sensor_images/image-0001-01.jpeg)
+
+![Page 1 Image 2](Carbon-based aerogels for biomedical sensing Advances toward designing the ideal sensor_images/image-0001-02.jpeg)
+
+![Page 1 Image 3](Carbon-based aerogels for biomedical sensing Advances toward designing the ideal sensor_images/image-0001-03.png)
+
+
+---
+
 ## Page 2
+
 Advances in Colloid and Interface Science 298 (2021) 102550
 2
 aerogel under a nitrogen atmosphere with the following heating pro­
@@ -210,7 +223,11 @@ biomedical related agents to provide a comprehensive reference for
 M. Mahmoudpour et al.                                                                                                                                                                                                                       
 
 
+
+---
+
 ## Page 3
+
 Advances in Colloid and Interface Science 298 (2021) 102550
 3
 future aerogel based studies. The sensing mechanism of the reported 
@@ -288,7 +305,15 @@ precursor. (C) Schematic illustration of the β-cyclodextrin-reduced graphene ox
 M. Mahmoudpour et al.                                                                                                                                                                                                                       
 
 
+### Page Images
+
+![Page 3 Image 1](Carbon-based aerogels for biomedical sensing Advances toward designing the ideal sensor_images/image-0003-01.jpeg)
+
+
+---
+
 ## Page 4
+
 Advances in Colloid and Interface Science 298 (2021) 102550
 4
 of 0.03 mU/mL. Unlike sandwich-type immunoassays, these type 
@@ -340,7 +365,15 @@ FA-GAM-OA. ((A) Reprinted from [59] with permission license of 5037421225179 and
 M. Mahmoudpour et al.                                                                                                                                                                                                                       
 
 
+### Page Images
+
+![Page 4 Image 1](Carbon-based aerogels for biomedical sensing Advances toward designing the ideal sensor_images/image-0004-01.jpeg)
+
+
+---
+
 ## Page 5
+
 Advances in Colloid and Interface Science 298 (2021) 102550
 5
 variations should be monitored in real time and compared against 
@@ -429,7 +462,15 @@ with permission license of 5037421502305).
 M. Mahmoudpour et al.                                                                                                                                                                                                                       
 
 
+### Page Images
+
+![Page 5 Image 1](Carbon-based aerogels for biomedical sensing Advances toward designing the ideal sensor_images/image-0005-01.jpeg)
+
+
+---
+
 ## Page 6
+
 Advances in Colloid and Interface Science 298 (2021) 102550
 6
 marvelous features such as high electrical conductivity, high surface 
@@ -565,7 +606,11 @@ basically produced from waste biomass.
 M. Mahmoudpour et al.                                                                                                                                                                                                                       
 
 
+
+---
+
 ## Page 7
+
 Advances in Colloid and Interface Science 298 (2021) 102550
 7
 Hierarchical materials are well-organized structure substances with 
@@ -639,7 +684,15 @@ representation for the fabrication of the MIPPy/CA electrode, (C) Diagram proced
 M. Mahmoudpour et al.                                                                                                                                                                                                                       
 
 
+### Page Images
+
+![Page 7 Image 1](Carbon-based aerogels for biomedical sensing Advances toward designing the ideal sensor_images/image-0007-01.jpeg)
+
+
+---
+
 ## Page 8
+
 Advances in Colloid and Interface Science 298 (2021) 102550
 8
 as low as 2.0 μM (dynamic range 5.0 to 950 μM). Moreover, Zhao and 
@@ -709,7 +762,15 @@ samples. ((A) Reprinted from [104] with permission license of 5037430387925, and
 M. Mahmoudpour et al.                                                                                                                                                                                                                       
 
 
+### Page Images
+
+![Page 8 Image 1](Carbon-based aerogels for biomedical sensing Advances toward designing the ideal sensor_images/image-0008-01.jpeg)
+
+
+---
+
 ## Page 9
+
 Advances in Colloid and Interface Science 298 (2021) 102550
 9
 problem is more obvious in optical based approach in which various 
@@ -804,7 +865,15 @@ license of 5037440078296).
 M. Mahmoudpour et al.                                                                                                                                                                                                                       
 
 
+### Page Images
+
+![Page 9 Image 1](Carbon-based aerogels for biomedical sensing Advances toward designing the ideal sensor_images/image-0009-01.jpeg)
+
+
+---
+
 ## Page 10
+
 Advances in Colloid and Interface Science 298 (2021) 102550
 10
 cyanide pair can enhance the sensitivity about 100 billion orders on 
@@ -868,7 +937,15 @@ of 5037440272739, and (C) reprinted from [124] with permission license of 503744
 M. Mahmoudpour et al.                                                                                                                                                                                                                       
 
 
+### Page Images
+
+![Page 10 Image 1](Carbon-based aerogels for biomedical sensing Advances toward designing the ideal sensor_images/image-0010-01.jpeg)
+
+
+---
+
 ## Page 11
+
 Advances in Colloid and Interface Science 298 (2021) 102550
 11
 Table 1 
@@ -1168,7 +1245,11 @@ codeine phosphate, phenacetin and diloxanide
 M. Mahmoudpour et al.                                                                                                                                                                                                                       
 
 
+
+---
+
 ## Page 12
+
 Advances in Colloid and Interface Science 298 (2021) 102550
 12
 exchange between GCE and the coted substrate. AuNPs were not only 
@@ -1324,7 +1405,11 @@ after addition of 1 μg/mL of BSA.
 M. Mahmoudpour et al.                                                                                                                                                                                                                       
 
 
+
+---
+
 ## Page 13
+
 Advances in Colloid and Interface Science 298 (2021) 102550
 13
 [13] Vareda JP, Lamy-Mendes A, Dur˜aes L. A reconsideration on the definition of the 
@@ -1501,7 +1586,11 @@ Electrochem 2015;19(1):307–14.
 M. Mahmoudpour et al.                                                                                                                                                                                                                       
 
 
+
+---
+
 ## Page 14
+
 Advances in Colloid and Interface Science 298 (2021) 102550
 14
 [72] Sun Q-Q, Xu M, Bao S-J, Li CM. pH-controllable synthesis of unique 
@@ -1675,4 +1764,7 @@ immobilization of antibodies: a voltammetric immunosensor for the tumor
 marker CA 15–3. Microchim Acta 2018;185(11):1–7. 
 M. Mahmoudpour et al.                                                                                                                                                                                                                       
 
+
+
+---
 

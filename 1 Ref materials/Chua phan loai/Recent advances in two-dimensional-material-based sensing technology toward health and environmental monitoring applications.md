@@ -1,4 +1,5 @@
 ## Page 1
+
 rsc.li/nanoscale
  Nanoscale
 rsc.li/nanoscale
@@ -36,7 +37,21 @@ This article can be cited before page numbers have been issued, to do this pleas
 W. Huang, L. Hu, Y. Tang, Z. Guo, Z. Ouyang and H. Zhang, Nanoscale, 2020, DOI: 10.1039/C9NR10178K.
 
 
+### Page Images
+
+![Page 1 Image 1](Recent advances in two-dimensional-material-based sensing technology toward health and environmental monitoring applications_images/image-0001-01.png)
+
+![Page 1 Image 2](Recent advances in two-dimensional-material-based sensing technology toward health and environmental monitoring applications_images/image-0001-02.png)
+
+![Page 1 Image 3](Recent advances in two-dimensional-material-based sensing technology toward health and environmental monitoring applications_images/image-0001-03.jpeg)
+
+![Page 1 Image 4](Recent advances in two-dimensional-material-based sensing technology toward health and environmental monitoring applications_images/image-0001-04.jpeg)
+
+
+---
+
 ## Page 2
+
  
  
  
@@ -91,7 +106,19 @@ View Article Online
 DOI: 10.1039/C9NR10178K
 
 
+### Page Images
+
+![Page 2 Image 1](Recent advances in two-dimensional-material-based sensing technology toward health and environmental monitoring applications_images/image-0002-01.jpeg)
+
+![Page 2 Image 2](Recent advances in two-dimensional-material-based sensing technology toward health and environmental monitoring applications_images/image-0002-02.jpeg)
+
+![Page 2 Image 3](Recent advances in two-dimensional-material-based sensing technology toward health and environmental monitoring applications_images/image-0002-03.jpeg)
+
+
+---
+
 ## Page 3
+
 ARTICLE 
 Journal Name 
 2 | J. Name., 2019, 00, 1-3 
@@ -144,7 +171,15 @@ View Article Online
 DOI: 10.1039/C9NR10178K
 
 
+### Page Images
+
+![Page 3 Image 1](Recent advances in two-dimensional-material-based sensing technology toward health and environmental monitoring applications_images/image-0003-01.jpeg)
+
+
+---
+
 ## Page 4
+
 Journal Name 
 ARTICLE 
 This journal is © The Royal Society of Chemistry 20xx 
@@ -238,7 +273,25 @@ View Article Online
 DOI: 10.1039/C9NR10178K
 
 
+### Page Images
+
+![Page 4 Image 1](Recent advances in two-dimensional-material-based sensing technology toward health and environmental monitoring applications_images/image-0004-01.jpeg)
+
+![Page 4 Image 2](Recent advances in two-dimensional-material-based sensing technology toward health and environmental monitoring applications_images/image-0004-02.jpeg)
+
+![Page 4 Image 3](Recent advances in two-dimensional-material-based sensing technology toward health and environmental monitoring applications_images/image-0004-03.jpeg)
+
+![Page 4 Image 4](Recent advances in two-dimensional-material-based sensing technology toward health and environmental monitoring applications_images/image-0004-04.jpeg)
+
+![Page 4 Image 5](Recent advances in two-dimensional-material-based sensing technology toward health and environmental monitoring applications_images/image-0004-05.jpeg)
+
+![Page 4 Image 6](Recent advances in two-dimensional-material-based sensing technology toward health and environmental monitoring applications_images/image-0004-06.jpeg)
+
+
+---
+
 ## Page 5
+
 ARTICLE 
 Journal Name 
 4 | J. Name., 2019, 00, 1-3 
@@ -263,7 +316,21 @@ View Article Online
 DOI: 10.1039/C9NR10178K
 
 
+### Page Images
+
+![Page 5 Image 1](Recent advances in two-dimensional-material-based sensing technology toward health and environmental monitoring applications_images/image-0005-01.jpeg)
+
+![Page 5 Image 2](Recent advances in two-dimensional-material-based sensing technology toward health and environmental monitoring applications_images/image-0005-02.jpeg)
+
+![Page 5 Image 3](Recent advances in two-dimensional-material-based sensing technology toward health and environmental monitoring applications_images/image-0005-03.jpeg)
+
+![Page 5 Image 4](Recent advances in two-dimensional-material-based sensing technology toward health and environmental monitoring applications_images/image-0005-04.jpeg)
+
+
+---
+
 ## Page 6
+
 Journal Name 
 ARTICLE 
 This journal is © The Royal Society of Chemistry 20xx 
@@ -305,7 +372,21 @@ View Article Online
 DOI: 10.1039/C9NR10178K
 
 
+### Page Images
+
+![Page 6 Image 1](Recent advances in two-dimensional-material-based sensing technology toward health and environmental monitoring applications_images/image-0006-01.jpeg)
+
+![Page 6 Image 2](Recent advances in two-dimensional-material-based sensing technology toward health and environmental monitoring applications_images/image-0006-02.jpeg)
+
+![Page 6 Image 3](Recent advances in two-dimensional-material-based sensing technology toward health and environmental monitoring applications_images/image-0006-03.jpeg)
+
+![Page 6 Image 4](Recent advances in two-dimensional-material-based sensing technology toward health and environmental monitoring applications_images/image-0006-04.jpeg)
+
+
+---
+
 ## Page 7
+
 ARTICLE 
 Journal Name 
 6 | J. Name., 2019, 00, 1-3 
@@ -354,7 +435,19 @@ View Article Online
 DOI: 10.1039/C9NR10178K
 
 
+### Page Images
+
+![Page 7 Image 1](Recent advances in two-dimensional-material-based sensing technology toward health and environmental monitoring applications_images/image-0007-01.jpeg)
+
+![Page 7 Image 2](Recent advances in two-dimensional-material-based sensing technology toward health and environmental monitoring applications_images/image-0007-02.jpeg)
+
+![Page 7 Image 3](Recent advances in two-dimensional-material-based sensing technology toward health and environmental monitoring applications_images/image-0007-03.jpeg)
+
+
+---
+
 ## Page 8
+
 Journal Name 
 ARTICLE 
 This journal is © The Royal Society of Chemistry 20xx 
@@ -407,7 +500,21 @@ View Article Online
 DOI: 10.1039/C9NR10178K
 
 
+### Page Images
+
+![Page 8 Image 1](Recent advances in two-dimensional-material-based sensing technology toward health and environmental monitoring applications_images/image-0008-01.jpeg)
+
+![Page 8 Image 2](Recent advances in two-dimensional-material-based sensing technology toward health and environmental monitoring applications_images/image-0008-02.jpeg)
+
+![Page 8 Image 3](Recent advances in two-dimensional-material-based sensing technology toward health and environmental monitoring applications_images/image-0008-03.jpeg)
+
+![Page 8 Image 4](Recent advances in two-dimensional-material-based sensing technology toward health and environmental monitoring applications_images/image-0008-04.jpeg)
+
+
+---
+
 ## Page 9
+
 ARTICLE 
 Journal Name 
 8 | J. Name., 2019, 00, 1-3 
@@ -463,7 +570,19 @@ View Article Online
 DOI: 10.1039/C9NR10178K
 
 
+### Page Images
+
+![Page 9 Image 1](Recent advances in two-dimensional-material-based sensing technology toward health and environmental monitoring applications_images/image-0009-01.jpeg)
+
+![Page 9 Image 2](Recent advances in two-dimensional-material-based sensing technology toward health and environmental monitoring applications_images/image-0009-02.jpeg)
+
+![Page 9 Image 3](Recent advances in two-dimensional-material-based sensing technology toward health and environmental monitoring applications_images/image-0009-03.jpeg)
+
+
+---
+
 ## Page 10
+
 Journal Name 
 ARTICLE 
 This journal is © The Royal Society of Chemistry 20xx 
@@ -517,7 +636,21 @@ View Article Online
 DOI: 10.1039/C9NR10178K
 
 
+### Page Images
+
+![Page 10 Image 1](Recent advances in two-dimensional-material-based sensing technology toward health and environmental monitoring applications_images/image-0010-01.jpeg)
+
+![Page 10 Image 2](Recent advances in two-dimensional-material-based sensing technology toward health and environmental monitoring applications_images/image-0010-02.jpeg)
+
+![Page 10 Image 3](Recent advances in two-dimensional-material-based sensing technology toward health and environmental monitoring applications_images/image-0010-03.jpeg)
+
+![Page 10 Image 4](Recent advances in two-dimensional-material-based sensing technology toward health and environmental monitoring applications_images/image-0010-04.jpeg)
+
+
+---
+
 ## Page 11
+
 ARTICLE 
 Journal Name 
 10 | J. Name., 2019, 00, 1-3 
@@ -584,7 +717,17 @@ View Article Online
 DOI: 10.1039/C9NR10178K
 
 
+### Page Images
+
+![Page 11 Image 1](Recent advances in two-dimensional-material-based sensing technology toward health and environmental monitoring applications_images/image-0011-01.jpeg)
+
+![Page 11 Image 2](Recent advances in two-dimensional-material-based sensing technology toward health and environmental monitoring applications_images/image-0011-02.jpeg)
+
+
+---
+
 ## Page 12
+
 Journal Name 
 ARTICLE 
 This journal is © The Royal Society of Chemistry 20xx 
@@ -636,7 +779,21 @@ View Article Online
 DOI: 10.1039/C9NR10178K
 
 
+### Page Images
+
+![Page 12 Image 1](Recent advances in two-dimensional-material-based sensing technology toward health and environmental monitoring applications_images/image-0012-01.jpeg)
+
+![Page 12 Image 2](Recent advances in two-dimensional-material-based sensing technology toward health and environmental monitoring applications_images/image-0012-02.jpeg)
+
+![Page 12 Image 3](Recent advances in two-dimensional-material-based sensing technology toward health and environmental monitoring applications_images/image-0012-03.jpeg)
+
+![Page 12 Image 4](Recent advances in two-dimensional-material-based sensing technology toward health and environmental monitoring applications_images/image-0012-04.jpeg)
+
+
+---
+
 ## Page 13
+
 ARTICLE 
 Journal Name 
 12 | J. Name., 2019, 00, 1-3 
@@ -785,7 +942,19 @@ View Article Online
 DOI: 10.1039/C9NR10178K
 
 
+### Page Images
+
+![Page 13 Image 1](Recent advances in two-dimensional-material-based sensing technology toward health and environmental monitoring applications_images/image-0013-01.jpeg)
+
+![Page 13 Image 2](Recent advances in two-dimensional-material-based sensing technology toward health and environmental monitoring applications_images/image-0013-02.jpeg)
+
+![Page 13 Image 3](Recent advances in two-dimensional-material-based sensing technology toward health and environmental monitoring applications_images/image-0013-03.jpeg)
+
+
+---
+
 ## Page 14
+
 Journal Name 
 ARTICLE 
 This journal is © The Royal Society of Chemistry 20xx 
@@ -856,7 +1025,17 @@ View Article Online
 DOI: 10.1039/C9NR10178K
 
 
+### Page Images
+
+![Page 14 Image 1](Recent advances in two-dimensional-material-based sensing technology toward health and environmental monitoring applications_images/image-0014-01.jpeg)
+
+![Page 14 Image 2](Recent advances in two-dimensional-material-based sensing technology toward health and environmental monitoring applications_images/image-0014-02.jpeg)
+
+
+---
+
 ## Page 15
+
 ARTICLE 
 Journal Name 
 14 | J. Name., 2019, 00, 1-3 
@@ -905,7 +1084,19 @@ View Article Online
 DOI: 10.1039/C9NR10178K
 
 
+### Page Images
+
+![Page 15 Image 1](Recent advances in two-dimensional-material-based sensing technology toward health and environmental monitoring applications_images/image-0015-01.jpeg)
+
+![Page 15 Image 2](Recent advances in two-dimensional-material-based sensing technology toward health and environmental monitoring applications_images/image-0015-02.jpeg)
+
+![Page 15 Image 3](Recent advances in two-dimensional-material-based sensing technology toward health and environmental monitoring applications_images/image-0015-03.jpeg)
+
+
+---
+
 ## Page 16
+
 Journal Name 
 ARTICLE 
 This journal is © The Royal Society of Chemistry 20xx 
@@ -945,7 +1136,17 @@ View Article Online
 DOI: 10.1039/C9NR10178K
 
 
+### Page Images
+
+![Page 16 Image 1](Recent advances in two-dimensional-material-based sensing technology toward health and environmental monitoring applications_images/image-0016-01.jpeg)
+
+![Page 16 Image 2](Recent advances in two-dimensional-material-based sensing technology toward health and environmental monitoring applications_images/image-0016-02.jpeg)
+
+
+---
+
 ## Page 17
+
 ARTICLE 
 Journal Name 
 16 | J. Name., 2019, 00, 1-3 
@@ -985,7 +1186,19 @@ View Article Online
 DOI: 10.1039/C9NR10178K
 
 
+### Page Images
+
+![Page 17 Image 1](Recent advances in two-dimensional-material-based sensing technology toward health and environmental monitoring applications_images/image-0017-01.jpeg)
+
+![Page 17 Image 2](Recent advances in two-dimensional-material-based sensing technology toward health and environmental monitoring applications_images/image-0017-02.jpeg)
+
+![Page 17 Image 3](Recent advances in two-dimensional-material-based sensing technology toward health and environmental monitoring applications_images/image-0017-03.jpeg)
+
+
+---
+
 ## Page 18
+
 Journal Name 
 ARTICLE 
 This journal is © The Royal Society of Chemistry 20xx 
@@ -1025,7 +1238,21 @@ View Article Online
 DOI: 10.1039/C9NR10178K
 
 
+### Page Images
+
+![Page 18 Image 1](Recent advances in two-dimensional-material-based sensing technology toward health and environmental monitoring applications_images/image-0018-01.jpeg)
+
+![Page 18 Image 2](Recent advances in two-dimensional-material-based sensing technology toward health and environmental monitoring applications_images/image-0018-02.jpeg)
+
+![Page 18 Image 3](Recent advances in two-dimensional-material-based sensing technology toward health and environmental monitoring applications_images/image-0018-03.jpeg)
+
+![Page 18 Image 4](Recent advances in two-dimensional-material-based sensing technology toward health and environmental monitoring applications_images/image-0018-04.jpeg)
+
+
+---
+
 ## Page 19
+
 ARTICLE 
 Journal Name 
 18 | J. Name., 2019, 00, 1-3 
@@ -1072,7 +1299,19 @@ View Article Online
 DOI: 10.1039/C9NR10178K
 
 
+### Page Images
+
+![Page 19 Image 1](Recent advances in two-dimensional-material-based sensing technology toward health and environmental monitoring applications_images/image-0019-01.jpeg)
+
+![Page 19 Image 2](Recent advances in two-dimensional-material-based sensing technology toward health and environmental monitoring applications_images/image-0019-02.jpeg)
+
+![Page 19 Image 3](Recent advances in two-dimensional-material-based sensing technology toward health and environmental monitoring applications_images/image-0019-03.jpeg)
+
+
+---
+
 ## Page 20
+
 Journal Name 
 ARTICLE 
 This journal is © The Royal Society of Chemistry 20xx 
@@ -1120,7 +1359,21 @@ View Article Online
 DOI: 10.1039/C9NR10178K
 
 
+### Page Images
+
+![Page 20 Image 1](Recent advances in two-dimensional-material-based sensing technology toward health and environmental monitoring applications_images/image-0020-01.jpeg)
+
+![Page 20 Image 2](Recent advances in two-dimensional-material-based sensing technology toward health and environmental monitoring applications_images/image-0020-02.jpeg)
+
+![Page 20 Image 3](Recent advances in two-dimensional-material-based sensing technology toward health and environmental monitoring applications_images/image-0020-03.jpeg)
+
+![Page 20 Image 4](Recent advances in two-dimensional-material-based sensing technology toward health and environmental monitoring applications_images/image-0020-04.jpeg)
+
+
+---
+
 ## Page 21
+
 ARTICLE 
 Journal Name 
 20 | J. Name., 2019, 00, 1-3 
@@ -1184,7 +1437,15 @@ View Article Online
 DOI: 10.1039/C9NR10178K
 
 
+### Page Images
+
+![Page 21 Image 1](Recent advances in two-dimensional-material-based sensing technology toward health and environmental monitoring applications_images/image-0021-01.jpeg)
+
+
+---
+
 ## Page 22
+
 Journal Name 
 ARTICLE 
 This journal is © The Royal Society of Chemistry 20xx 
@@ -1304,7 +1565,17 @@ View Article Online
 DOI: 10.1039/C9NR10178K
 
 
+### Page Images
+
+![Page 22 Image 1](Recent advances in two-dimensional-material-based sensing technology toward health and environmental monitoring applications_images/image-0022-01.jpeg)
+
+![Page 22 Image 2](Recent advances in two-dimensional-material-based sensing technology toward health and environmental monitoring applications_images/image-0022-02.jpeg)
+
+
+---
+
 ## Page 23
+
 ARTICLE 
 Journal Name 
 22 | J. Name., 2019, 00, 1-3 
@@ -1431,7 +1702,15 @@ View Article Online
 DOI: 10.1039/C9NR10178K
 
 
+### Page Images
+
+![Page 23 Image 1](Recent advances in two-dimensional-material-based sensing technology toward health and environmental monitoring applications_images/image-0023-01.jpeg)
+
+
+---
+
 ## Page 24
+
 Journal Name 
 ARTICLE 
 This journal is © The Royal Society of Chemistry 20xx 
@@ -1563,7 +1842,17 @@ View Article Online
 DOI: 10.1039/C9NR10178K
 
 
+### Page Images
+
+![Page 24 Image 1](Recent advances in two-dimensional-material-based sensing technology toward health and environmental monitoring applications_images/image-0024-01.jpeg)
+
+![Page 24 Image 2](Recent advances in two-dimensional-material-based sensing technology toward health and environmental monitoring applications_images/image-0024-02.jpeg)
+
+
+---
+
 ## Page 25
+
 ARTICLE 
 Journal Name 
 24 | J. Name., 2019, 00, 1-3 
@@ -1691,7 +1980,15 @@ View Article Online
 DOI: 10.1039/C9NR10178K
 
 
+### Page Images
+
+![Page 25 Image 1](Recent advances in two-dimensional-material-based sensing technology toward health and environmental monitoring applications_images/image-0025-01.jpeg)
+
+
+---
+
 ## Page 26
+
 Journal Name 
 ARTICLE 
 This journal is © The Royal Society of Chemistry 20xx 
@@ -1823,7 +2120,17 @@ View Article Online
 DOI: 10.1039/C9NR10178K
 
 
+### Page Images
+
+![Page 26 Image 1](Recent advances in two-dimensional-material-based sensing technology toward health and environmental monitoring applications_images/image-0026-01.jpeg)
+
+![Page 26 Image 2](Recent advances in two-dimensional-material-based sensing technology toward health and environmental monitoring applications_images/image-0026-02.jpeg)
+
+
+---
+
 ## Page 27
+
 2D￿Materials
 Sensors￿toward￿
 Health￿and￿
@@ -1840,4 +2147,21 @@ Nanoscale
 Nanoscale Accepted Manuscript
 Published on 09 January 2020. Downloaded by Tulane University on 1
 
+
+### Page Images
+
+![Page 27 Image 1](Recent advances in two-dimensional-material-based sensing technology toward health and environmental monitoring applications_images/image-0027-01.jpeg)
+
+![Page 27 Image 2](Recent advances in two-dimensional-material-based sensing technology toward health and environmental monitoring applications_images/image-0027-02.jpeg)
+
+![Page 27 Image 3](Recent advances in two-dimensional-material-based sensing technology toward health and environmental monitoring applications_images/image-0027-03.jpeg)
+
+![Page 27 Image 4](Recent advances in two-dimensional-material-based sensing technology toward health and environmental monitoring applications_images/image-0027-04.jpeg)
+
+![Page 27 Image 5](Recent advances in two-dimensional-material-based sensing technology toward health and environmental monitoring applications_images/image-0027-05.jpeg)
+
+![Page 27 Image 6](Recent advances in two-dimensional-material-based sensing technology toward health and environmental monitoring applications_images/image-0027-06.jpeg)
+
+
+---
 

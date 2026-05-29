@@ -346,7 +346,6 @@
 | Kiềm hóa NaOH | 6% w/v (30g NaOH / 500 mL DI), 80 ± 2°C, 4 giờ, 610 rpm | Phá vỡ liên kết lignin-cellulose. Tỷ lệ 40g xơ dừa : 500 mL. |
 | Lọc & rửa | Giấy lọc, rửa nước máy đến pH 6–7 | Kiểm tra pH bằng giấy chỉ thị chấm trực tiếp lên bã ướt. |
 | Sấy khô | 80°C / 4 giờ | Dàn đều tránh vón cục. Nếu vón → sấy lại + nghiền. |
-| **Tẩy trắng H₂O₂** (tuỳ chọn) | 10% H₂O₂ + 3% NaOH (1:1), 1g:20mL, 80°C, 1h × 2 lần | Loại lignin tàn dư. Có thể bỏ qua nếu muốn giữ khung lignin. |
 | Cân khối lượng (Gravimetry) | Sấy 105°C, cân trước/sau kiềm hóa | **Dữ liệu gốc.** Tính % weight-loss. |
 
 > [!TIP]

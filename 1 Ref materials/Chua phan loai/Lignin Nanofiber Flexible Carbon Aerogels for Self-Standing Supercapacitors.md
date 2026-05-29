@@ -1,4 +1,5 @@
 ## Page 1
+
 Lignin Nanofiber Flexible Carbon Aerogels for Self-
 Standing Supercapacitors
 MiJung Cho,[a, b] Justine Yiu,[a] Li-Ting Lin,[a] Qi Hua,[a] Muzaffer A. Karaaslan,[a] and
@@ -110,7 +111,17 @@ Research Article
 doi.org/10.1002/cssc.202400932
 
 
+### Page Images
+
+![Page 1 Image 1](Lignin Nanofiber Flexible Carbon Aerogels for Self-Standing Supercapacitors_images/image-0001-01.jpeg)
+
+![Page 1 Image 2](Lignin Nanofiber Flexible Carbon Aerogels for Self-Standing Supercapacitors_images/image-0001-02.jpeg)
+
+
+---
+
 ## Page 2
+
 improvement in strength and modulus when the polymer
 chains become crosslinked.[7] One critical problem for these
 unique nanoscale materials is their assembly into two-dimen-
@@ -216,7 +227,11 @@ Research Article
 doi.org/10.1002/cssc.202400932
 
 
+
+---
+
 ## Page 3
+
 Compressive Mechanical Tests
 The compressive mechanical properties of lignin-based ultra-
 light materials were evaluated by TA Instruments Q800 DMA
@@ -344,7 +359,11 @@ Research Article
 doi.org/10.1002/cssc.202400932
 
 
+
+---
+
 ## Page 4
+
 entangle (Figure S5). Suspensions of fragmented electrospun
 fibers were isolated from lignin mats formed at 25 and 27 wt.%
 solution with 1 wt.% PEO loading relative to lignin dry content.
@@ -373,7 +392,17 @@ Research Article
 doi.org/10.1002/cssc.202400932
 
 
+### Page Images
+
+![Page 4 Image 1](Lignin Nanofiber Flexible Carbon Aerogels for Self-Standing Supercapacitors_images/image-0004-01.jpeg)
+
+![Page 4 Image 2](Lignin Nanofiber Flexible Carbon Aerogels for Self-Standing Supercapacitors_images/image-0004-02.jpeg)
+
+
+---
+
 ## Page 5
+
 indicates that the spinning conditions described above play a
 crucial role in controlling the fiber diameter, thereby influencing
 the subsequent ability of fibers to reform entangled networks
@@ -441,7 +470,17 @@ Research Article
 doi.org/10.1002/cssc.202400932
 
 
+### Page Images
+
+![Page 5 Image 1](Lignin Nanofiber Flexible Carbon Aerogels for Self-Standing Supercapacitors_images/image-0005-01.jpeg)
+
+![Page 5 Image 2](Lignin Nanofiber Flexible Carbon Aerogels for Self-Standing Supercapacitors_images/image-0005-02.jpeg)
+
+
+---
+
 ## Page 6
+
 no breakage of the samples. As shown in Figures 4(a)–(d), the
 concentration of the fiber suspension when making the aerogel
 influenced the mechanical properties at the same compressive
@@ -579,7 +618,11 @@ Research Article
 doi.org/10.1002/cssc.202400932
 
 
+
+---
+
 ## Page 7
+
 jected to 20 cyclic compressive tests at 80°C with 60% strain at
 a strain rate of 10%/min (Figure 6e). Remarkably, the compres-
 sive properties exhibited no significant change compared to
@@ -625,7 +668,17 @@ Research Article
 doi.org/10.1002/cssc.202400932
 
 
+### Page Images
+
+![Page 7 Image 1](Lignin Nanofiber Flexible Carbon Aerogels for Self-Standing Supercapacitors_images/image-0007-01.jpeg)
+
+![Page 7 Image 2](Lignin Nanofiber Flexible Carbon Aerogels for Self-Standing Supercapacitors_images/image-0007-02.jpeg)
+
+
+---
+
 ## Page 8
+
 electrolytes can increase operation voltage to 2.4 V for coin cell
 systems for further testing and commercialization.
 Figure 7 (b) shows the CV curves of the 70–30 FCA at
@@ -704,7 +757,15 @@ Research Article
 doi.org/10.1002/cssc.202400932
 
 
+### Page Images
+
+![Page 8 Image 1](Lignin Nanofiber Flexible Carbon Aerogels for Self-Standing Supercapacitors_images/image-0008-01.jpeg)
+
+
+---
+
 ## Page 9
+
 structure distribution in the materials.[19] During the activation
 process, forming porous structures on the fiber could further
 increase the surface area of AFCA. Moreover, the three-dimen-
@@ -788,7 +849,15 @@ Research Article
 doi.org/10.1002/cssc.202400932
 
 
+### Page Images
+
+![Page 9 Image 1](Lignin Nanofiber Flexible Carbon Aerogels for Self-Standing Supercapacitors_images/image-0009-01.jpeg)
+
+
+---
+
 ## Page 10
+
 Acknowledgements
 The research team would like to acknowledgement Hannah
 Wang and Catherine Wu for their help in preparing samples for
@@ -878,4 +947,7 @@ ChemSusChem
 Research Article
 doi.org/10.1002/cssc.202400932
 
+
+
+---
 

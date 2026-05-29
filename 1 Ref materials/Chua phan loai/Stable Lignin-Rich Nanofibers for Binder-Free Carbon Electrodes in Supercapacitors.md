@@ -1,4 +1,5 @@
 ## Page 1
+
 Stable Lignin-Rich Nanoﬁbers for Binder-Free Carbon Electrodes in
 Supercapacitors
 Phakkhanan Khamnantha, Chanakran Homla-or, Khomson Suttisintong, Jedsada Manyam, Marisa Raita,
@@ -81,7 +82,17 @@ Downloaded via TSINGHUA UNIV on November 4, 2022 at 13:29:48 (UTC).
 See https://pubs.acs.org/sharingguidelines for options on how to legitimately share published articles.
 
 
+### Page Images
+
+![Page 1 Image 1](Stable Lignin-Rich Nanofibers for Binder-Free Carbon Electrodes in Supercapacitors_images/image-0001-01.png)
+
+![Page 1 Image 2](Stable Lignin-Rich Nanofibers for Binder-Free Carbon Electrodes in Supercapacitors_images/image-0001-02.png)
+
+
+---
+
 ## Page 2
+
 used precursor for carbon ﬁbers due to its high carbon yield,
 excellent spinnability, and good mechanical properties.29
 However, PAN is from fossil fuel resources and expensive,
@@ -162,7 +173,15 @@ ACS Appl. Nano Mater. 2021, 4, 13099−13111
 13100
 
 
+### Page Images
+
+![Page 2 Image 1](Stable Lignin-Rich Nanofibers for Binder-Free Carbon Electrodes in Supercapacitors_images/image-0002-01.png)
+
+
+---
+
 ## Page 3
+
 air oven at 70 °C for 4 h before preparing electrospinning solutions.
 PEO (Mw = 600 kg mol−1), BT, and PAN (Mw = 150 kg mol−1) were
 purchased from Sigma-Aldrich. N,N-Dimethylformamide (DMF) was
@@ -255,7 +274,15 @@ ACS Appl. Nano Mater. 2021, 4, 13099−13111
 13101
 
 
+### Page Images
+
+![Page 3 Image 1](Stable Lignin-Rich Nanofibers for Binder-Free Carbon Electrodes in Supercapacitors_images/image-0003-01.png)
+
+
+---
+
 ## Page 4
+
 from 3200 to 870 cm−1 by using a NT-MDT NTEGRA Spectra
 system with a green laser (λ = 532 nm). N2 adsorption−desorption
 isotherms were analyzed on a Micromeritics 3Flex physisorption
@@ -434,7 +461,11 @@ ACS Appl. Nano Mater. 2021, 4, 13099−13111
 13102
 
 
+
+---
+
 ## Page 5
+
 demethylated unit of guaiacol. It was reported that the S/G
 content of lignin had an inﬂuence on the properties of carbon
 materials.36,38 Based on 31P NMR calculation, the S/G ratios of
@@ -506,7 +537,15 @@ ACS Appl. Nano Mater. 2021, 4, 13099−13111
 13103
 
 
+### Page Images
+
+![Page 5 Image 1](Stable Lignin-Rich Nanofibers for Binder-Free Carbon Electrodes in Supercapacitors_images/image-0005-01.png)
+
+
+---
+
 ## Page 6
+
 Electrospinning and Conversion of Lignin-Rich Nano-
 ﬁbers into Carbon Nanoﬁbers. DMF is a good solvent for
 organosolv lignin; therefore, it was used for preparing lignin
@@ -618,7 +657,15 @@ ACS Appl. Nano Mater. 2021, 4, 13099−13111
 13104
 
 
+### Page Images
+
+![Page 6 Image 1](Stable Lignin-Rich Nanofibers for Binder-Free Carbon Electrodes in Supercapacitors_images/image-0006-01.png)
+
+
+---
+
 ## Page 7
+
 the lignin-based ACNFs show broad (002) and (100)
 diﬀraction peaks at 23−26° and ∼43° 2θ (Figure S5),
 conﬁrming the amorphous character of turbostratic carbon.
@@ -785,7 +832,11 @@ ACS Appl. Nano Mater. 2021, 4, 13099−13111
 13105
 
 
+
+---
+
 ## Page 8
+
 at medium and high relative pressure (P/P0 ∼0.2−1.0). This
 shape indicated a coexistence of micropores, mesopores,
 macropores, and external surface.62,63 Micropores with pore
@@ -800,7 +851,15 @@ ACS Appl. Nano Mater. 2021, 4, 13099−13111
 13106
 
 
+### Page Images
+
+![Page 8 Image 1](Stable Lignin-Rich Nanofibers for Binder-Free Carbon Electrodes in Supercapacitors_images/image-0008-01.png)
+
+
+---
+
 ## Page 9
+
 20 nm were indeed observed in the LB/PEO/BT ACNFs. The
 speciﬁc surface area was calculated based on the BET method.
 The mesopore volume and micropore volume were estimated
@@ -825,7 +884,15 @@ ACS Appl. Nano Mater. 2021, 4, 13099−13111
 13107
 
 
+### Page Images
+
+![Page 9 Image 1](Stable Lignin-Rich Nanofibers for Binder-Free Carbon Electrodes in Supercapacitors_images/image-0009-01.png)
+
+
+---
+
 ## Page 10
+
 lignins (452−590 m2 g−1). Therefore, the preparation of
 activated carbons in the form of nanoﬁbers improved the
 speciﬁc surface areas. The LB/PEO/BT ACNFs from high-
@@ -960,7 +1027,11 @@ ACS Appl. Nano Mater. 2021, 4, 13099−13111
 13108
 
 
+
+---
+
 ## Page 11
+
 PEO/BT ACNFs as binder-free electrodes for supercapacitors.
 After charging, two symmetric cells with ∼40 mg of LB/PEO/
 BT as electrodes and 1.0 M H2SO4 as an electrolyte could
@@ -1089,7 +1160,11 @@ ACS Appl. Nano Mater. 2021, 4, 13099−13111
 13109
 
 
+
+---
+
 ## Page 12
+
 Waste Bagasse for Advanced Supercapacitor Application. ACS
 Sustainable Chem. Eng. 2018, 6, 15325−15332.
 (5) Liu, Y.; Li, G.; Guo, Y.; Ying, Y.; Peng, X. Flexible and Binder-
@@ -1235,7 +1310,11 @@ ACS Appl. Nano Mater. 2021, 4, 13099−13111
 13110
 
 
+
+---
+
 ## Page 13
+
 (41) Hu, S.; Hsieh, Y.-L. Lignin derived activated carbon particulates
 as an electric supercapacitor: carbonization and activation on porous
 structures and microstructures. RSC Adv. 2017, 7, 30459−30468.
@@ -1348,4 +1427,7 @@ https://doi.org/10.1021/acsanm.1c02637
 ACS Appl. Nano Mater. 2021, 4, 13099−13111
 13111
 
+
+
+---
 
