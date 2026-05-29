@@ -67,8 +67,22 @@ def classify_paper(pdf_name, relative_path, title, abstract, conclusion):
     return "08_Review_va_Tong_quan"
 
 
+def find_brain_dir():
+    # Thử quét các đường dẫn App Data phổ biến
+    possible_roots = [
+        Path(r"C:\Users\ADMIN\.gemini\antigravity-ide\brain"),
+        Path(r"C:\Users\ADMIN\.gemini\antigravity\brain"),
+    ]
+    for root in possible_roots:
+        if root.exists():
+            for subdir in root.iterdir():
+                if subdir.is_dir() and (subdir / "extracted_summaries.json").exists():
+                    return subdir
+    # Fallback mặc định
+    return Path(r"C:\Users\ADMIN\.gemini\antigravity-ide\brain\359d6ede-d8e5-472b-9493-636056861f13")
+
 def main():
-    brain_dir = Path(r"C:\Users\ADMIN\.gemini\antigravity\brain\365f84a4-e609-4dee-9c3d-858faeaa18e0")
+    brain_dir = find_brain_dir()
     json_path = brain_dir / "extracted_summaries.json"
     
     if not json_path.exists():
