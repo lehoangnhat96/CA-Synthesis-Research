@@ -25,7 +25,7 @@ if hasattr(sys.stderr, "reconfigure"):
 # Define paths
 WORKSPACE_DIR = Path(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 INPUT_MD = WORKSPACE_DIR / "1 Ref materials" / "09_Tai_lieu_Quy_trinh_AI" / "1 Phân Tích Chi Tiết Giai Đoạn #0 & #1_ Tiền Xử Lý và Sol-Gel.md"
-OUTPUT_DOCX = WORKSPACE_DIR / "1 SOPs" / "new" / "PHAN_TICH_CHI_TIET_TIEN_XU_LY_VA_SOL_GEL.docx"
+OUTPUT_DOCX = WORKSPACE_DIR / "1 SOPs" / "new" / "1 Phân Tích Chi Tiết Giai Đoạn #0 & #1_ Tiền Xử Lý và Sol-Gel.docx"
 
 def add_formatted_text(p, text):
     """Parses markdown bold (**) and adds formatted runs to a paragraph."""
