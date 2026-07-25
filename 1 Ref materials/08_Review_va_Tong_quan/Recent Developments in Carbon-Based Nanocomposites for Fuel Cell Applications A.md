@@ -1,11 +1,11 @@
 _**molecules**_ 
 
 
-![](_images/Recent Developments in Carbon-Based Nanocomposites for Fuel Cell Applications A_img/_temp_92969aac_heal_.pdf-0001-01.png)
+![](_temp_92969aac_convert__images/_temp_92969aac_convert_.pdf-0001-01.png)
 
 
 
-![](_images/Recent Developments in Carbon-Based Nanocomposites for Fuel Cell Applications A_img/_temp_92969aac_heal_.pdf-0001-02.png)
+![](_temp_92969aac_convert__images/_temp_92969aac_convert_.pdf-0001-02.png)
 
 
 ## _Review_ 
@@ -41,7 +41,7 @@ Received: 24 November 2021 Accepted: 19 January 2022 Published: 24 January 2022
 **Publisher’s Note:** MDPI stays neutral with regard to jurisdictional claims in published maps and institutional affiliations. 
 
 
-![](_images/Recent Developments in Carbon-Based Nanocomposites for Fuel Cell Applications A_img/_temp_92969aac_heal_.pdf-0001-19.png)
+![](_temp_92969aac_convert__images/_temp_92969aac_convert_.pdf-0001-19.png)
 
 
 **Copyright:** © 2022 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https:// creativecommons.org/licenses/by/ 4.0/). 
@@ -69,19 +69,19 @@ Fuels cells are classified as phosphoric acid fuel cell (PAFC), polymer electrol
 _At anode_ , _oxidation_ 
 
 
-![](_images/Recent Developments in Carbon-Based Nanocomposites for Fuel Cell Applications A_img/_temp_92969aac_heal_.pdf-0002-05.png)
+![](_temp_92969aac_convert__images/_temp_92969aac_convert_.pdf-0002-05.png)
 
 
 _At anode_ , _oxidation_ 
 
 
-![](_images/Recent Developments in Carbon-Based Nanocomposites for Fuel Cell Applications A_img/_temp_92969aac_heal_.pdf-0002-07.png)
+![](_temp_92969aac_convert__images/_temp_92969aac_convert_.pdf-0002-07.png)
 
 
 _Overall reaction_ 
 
 
-![](_images/Recent Developments in Carbon-Based Nanocomposites for Fuel Cell Applications A_img/_temp_92969aac_heal_.pdf-0002-09.png)
+![](_temp_92969aac_convert__images/_temp_92969aac_convert_.pdf-0002-09.png)
 
 
 During the electrochemical reaction, electrons and protons are created at the anode (oxidation reaction), while water and heat are produced at the cathode (reduction reaction) [17,18]. 
@@ -107,7 +107,7 @@ _Molecules_ **2022** , _27_ , 761
 4 of 28 
 
 
-![](_images/Recent Developments in Carbon-Based Nanocomposites for Fuel Cell Applications A_img/_temp_92969aac_heal_.pdf-0004-02.png)
+![](_temp_92969aac_convert__images/_temp_92969aac_convert_.pdf-0004-02.png)
 
 
 **Figure 1.** SEM images of the ( **a** ) cellulose aerogel, ( **b** ) carbon _−_ NaOH aerogel, and ( **c** ) carbon _−_ NH4OH aerogel. ( **d** ) CVs obtained for the different aerogels in O2 and N2 saturated solutions. Reprinted with permission from [36]. The American Chemical Society, Washington, DC, USA, 2020. 
@@ -123,7 +123,7 @@ _Molecules_ **2022** , _27_ , 761
 various pore sizes of CAs. CA-100, CA-200, and CA-300 were obtained by mixing 1.54 g, 3.08 g, and 4.62 g of resorcinol with 0.016 g of Na2CO3. The pore size of CA played a crucial role in the deposition of PtNPs. It was revealed that the micropore structure (<2 nm) is not appropriate for deposition of 2–4 nm of PtNPs, whereas the mesoporous structure is highly suitable due to their bigger size that is around 2–50 nm. Further, the mesopore structure stimulates the ionomer loading and creates an effective network for adequate proton transportation for H2 and O2. Figure 2d shows the step-by-step construction of membrane electrode assembly, where the homogenous catalyst ink was airbrushed on the carbon paper and dried. Then, the catalyst coated carbon papers were hot-pressed with Nafion 117 membrane at 130 _[◦]_ C for 1 min. The developed materials were tested in the context of hydrogen adsorption/desorption reaction, and it was found that CA-200 exhibited better activity than other catalysts. The surface area was estimated for Pt/CA-200 and Pt/CB and found to be 188 m[2] g _[−]_[1] and 86.4 m[2] g _[−]_[1] , respectively (Figure 2e). 
 
 
-![](_images/Recent Developments in Carbon-Based Nanocomposites for Fuel Cell Applications A_img/_temp_92969aac_heal_.pdf-0005-03.png)
+![](_temp_92969aac_convert__images/_temp_92969aac_convert_.pdf-0005-03.png)
 
 
 **Figure 2.** ( **a** ) Synthesis of CA, ( **b** ) Pt/catalyst (e.g., Pt/CA or Pt/CB) preparation, ( **c** ) application onto the electrode, and ( **d** ) membrane electrode assembly (MEA) preparation. ( **e** ) CVs of Pt/CB and Pt/CA-200 catalyst layer for ECSA analysis by hydrogen adsorption/desorption at a scan rate of 20 mV s _[−]_[1] . Reprinted with permission from [38]. Elsevier, Amsterdam, The Netherlands, 2021. 
@@ -141,7 +141,7 @@ Graphene (GR) is a 2D-material, and it has high electron conductivity, a large S
 The single atom-based transition-metal catalyst is considered an emerging nanomaterial for ORR applications. Several strategies were implemented to improve the catalytic performance of the single atom-based transition-metal catalyst, including electronic structure modulation, defect engineering, and integration with other suitable support [44]. The preparation of NCAs was demonstrated, where Co atoms (Co-NCA@F127-1) were atomically dispersed on chitosan template [45]. A polymeric material was obtained by reacting the _p_ -aminophenol and F with HMTA under acidic and high-temperature conditions, and the resulting polymer was coated onto a chitosan template. To acquire the phenolic resin/Co[2+] composite hydrogel, Co ions were chelated with the developed polymer that contained active functional groups, namely _−_ OH, _−_ NH2, and _−_ COOH. Moreover, a surfactant, poloxamer (F127), was incorporated into the composite to improve the mechanical stability as well as control the morphology and pore structure of the CAs. The morphological characterization of CA by TEM revealed that it appeared as a 3D crosslinked coral structure. Further, ORR activity was investigated under alkaline conditions by the developed Co-NCA@F127-1, and the catalytic response was compared with the commercial Pt/C (Figure 3). It was found that the Co-NCA@F127-1 displayed an onset and half-wave potential of 0.935 V and 0.805 V vs. RHE, respectively, which is almost 128 mV higher than that of NCAs. In addition, in terms of diffusion limiting current density, the Co-NCA@F127-1 (5.96 mA cm _[−]_[2] ) outperformed the commercial Pt/C (5.21 mA cm _[−]_[2] ). 
 
 
-![](_images/Recent Developments in Carbon-Based Nanocomposites for Fuel Cell Applications A_img/_temp_92969aac_heal_.pdf-0006-04.png)
+![](_temp_92969aac_convert__images/_temp_92969aac_convert_.pdf-0006-04.png)
 
 
 **Figure 3.** Rotating disc voltammetry for the ORR performance of NCA, Co-NCA, Co-NCA@F127-1, and Pt/C in O2-saturated 0.1 mol L _[−]_[1] KOH solution at a scan rate of 10 mV s _[−]_[1] and a rotation rate of 1600 rpm. Reprinted with permission from [45]. Elsevier, Amsterdam, The Netherlands, 2021. 
@@ -153,7 +153,7 @@ _Molecules_ **2022** , _27_ , 761
 A molecular-templating strategy was employed to develop microporous carbon aerogels (MPCAs) using a fast and straightforward polycondensation of 4,4 _[′]_ -biphenyl dicarboxaldehyde (BPDA) with octaaminophenyl polyhedral oligomeric silsesquioxane (POSS-NH2) [46]. The as-prepared MPCAs displayed a 3D interconnected macroporous structure along with a well-defined micropore framework (Figure 4a). To improve the catalytic efficiency of MPCAs, iron (III) nitrate was introduced with methylene blue by a simple annealing process. The obtained catalysts were investigated towards the ORR in 0.1 mol L _[−]_[1] KOH, and it was found that the MPCAs–Fe[III] exhibited remarkable catalytic response compared to the Fe-free MPCAs and the commercial Pt/C catalyst (Figure 4b). The Fe[III] incorporated MPCAs showed half-wave potential and current density of 0.88 V and 5.8 mA cm _[−]_[2] , respectively, and these values were relatively superior to those of their counterparts, such as pristine MPCAs (0.76 V, 4.8 mA cm _[−]_[2] ), Fe[III] doped microporous carbon particles (MPCPs-Fe) (0.82 V, 4.8 mA cm _[−]_[2] ), and also the commercial Pt/C catalyst (0.85 V, 5.3 mA cm _[−]_[2] ). Further, the durability of the MPCAs–Fe[III] catalyst was investigated by chronoamperometric measurements. Figure 4c depicts that there was a discernable change in the current response after 10,000 cycles, and it indicates that the catalyst has long-lasting catalytic activity for ORR. Moreover, no significant change in the morphology was observed for the catalyst after 10 h of continuous current measurement. These results revealed that MPCAs–Fe[III] is a promising catalyst for fuel cell applications. 
 
 
-![](_images/Recent Developments in Carbon-Based Nanocomposites for Fuel Cell Applications A_img/_temp_92969aac_heal_.pdf-0007-03.png)
+![](_temp_92969aac_convert__images/_temp_92969aac_convert_.pdf-0007-03.png)
 
 
 **Figure 4.** ( **a** ) SEM image of MPCAs–Fe and ( **b** ) ORR polarization curves of Pt/C, MPCAs, MPCAs–Fe, and MPCPs–Fe catalysts at a rotation rate of 1600 rpm in O2-saturated 0.1 mol L _[−]_[1] KOH solution at a scan rate of 10 mV s _[−]_[1] . ( **c** ) ORR polarization curves of MPCAs–Fe before and after 10,000 CV cycles. Reprinted with permission from [46]. Elsevier, Amsterdam, The Netherlands, 2021. 
@@ -198,11 +198,11 @@ _Molecules_ **2022** , _27_ , 761
 (Co). Figure 5d–f shows that Pt particles were aggregated on the CNF support, while uniformly dispersed on GCF-GCF-(Co). In comparison to Pt/CNF and Pt/GCF-HT, a reduced size of Pt NPs dispersed on GCF-(Co) according to HR-TEM images, as shown in Figure 5g–i. The average particle size was determined for Pt/CNF, Pt/GCF-HT, and Pt/GCF-(Co) and was found to be 6.0, 4.7, and 3.9 nm, respectively. In terms of PEMFC efficiency, the Pt/GCF-(Co)-HT attained a higher maximum power density of 0.85 W cm _[−]_[2] in the active area of 25 cm[2] upon a modest loading level of 0.1 mg Pt cm _[−]_[2] . When compared to the commercial Pt/C-TKK catalyst, the Pt/GCF-(Co)-HT catalyst had a superior mass transfer performance (over 2.2 A cm[2] ). Further, Pt catalysts incorporated graphitized carbon in the PEMFC cathode; the 25 cm[2] size of a single cell is schematically represented in Figure 5j [74]. 
 
 
-![](_images/Recent Developments in Carbon-Based Nanocomposites for Fuel Cell Applications A_img/_temp_92969aac_heal_.pdf-0009-03.png)
+![](_temp_92969aac_convert__images/_temp_92969aac_convert_.pdf-0009-03.png)
 
 
 
-![](_images/Recent Developments in Carbon-Based Nanocomposites for Fuel Cell Applications A_img/_temp_92969aac_heal_.pdf-0009-04.png)
+![](_temp_92969aac_convert__images/_temp_92969aac_convert_.pdf-0009-04.png)
 
 
 **Figure 5.** ( **a** – **c** ) FE-SEM, ( **d** – **f** ) TEM, and ( **g** – **i** ) HR-TEM images of Pt/CNF, Pt/GCF-HT, and Pt/GCF(Co) (inset: Pt particle size distribution). ( **j** ) Scheme for the meso/macroporous graphitized carbonsupported Pt catalyst in the PEMFC cathode. Reprinted with permission from [74]. Elsevier, Amsterdam, The Netherlands, 2020. 
@@ -218,17 +218,17 @@ _Molecules_ **2022** , _27_ , 761
 solution and then carbonizing it. A consistent polydopamine (PD) coating layer formed on the surface of the NCNF paper by immersing it in a dopamine solution at ambient temperature. After 12 h of dopamine polymerization, the solution color changed from pale brown to dark brown. With a significant power density (~80 mW cm _[−]_[2] ) of 177.2 mA cm _[−]_[2] , the CoOx@CoNy/NCNF550-catalyst-coated MEA demonstrated outstanding electrochemical ORR performance in AMFC (Figure 7b). It was revealed that the observed excellent ORR and OER activities were associated with the synergic effect between CoOx@CoNy nanorods and NCNF. The ORR activity of NCNF was investigated, and the authors realized that it had a very poor catalytic response as a result of the 2e _[−]_ transfer process [78]. The ORR was assisted by the interfacial rim sites between the CoOx@CoNy and NCNF, which allowed for moderate adsorption of intermediates and quick charge injection. Moreover, the Co4N nanorods’ oxidized coatings offered effective OER active sites with increased Co _d_ -band vacancies. 
 
 
-![](_images/Recent Developments in Carbon-Based Nanocomposites for Fuel Cell Applications A_img/_temp_92969aac_heal_.pdf-0010-03.png)
+![](_temp_92969aac_convert__images/_temp_92969aac_convert_.pdf-0010-03.png)
 
 
 **Figure 6.** ( **a** ) The constructed new MFC, ( **b** ) Nyquist plots of EIS spectra, and ( **c** ) Tafel plots and the linear fitting of the exchange current at the overpotential between 80 mV and 100 mV. Reprinted with permission from [76]. Elsevier, Amsterdam, The Netherlands, 2019. 
 
 
-![](_images/Recent Developments in Carbon-Based Nanocomposites for Fuel Cell Applications A_img/_temp_92969aac_heal_.pdf-0010-05.png)
+![](_temp_92969aac_convert__images/_temp_92969aac_convert_.pdf-0010-05.png)
 
 
 
-![](_images/Recent Developments in Carbon-Based Nanocomposites for Fuel Cell Applications A_img/_temp_92969aac_heal_.pdf-0010-06.png)
+![](_temp_92969aac_convert__images/_temp_92969aac_convert_.pdf-0010-06.png)
 
 
 **Figure 7.** ( **a** ) Schematic illustration of the fabrication processes of CoOx@CoNy/NCNFs, ( **b** ) polarization curves of CoOx@CoNy/NCNF550-coated MEA in AMFC, and ( **c** ) proposed reaction scheme of CoOx@CoNy/NCNF toward ORR/OER. Reprinted with permission from [77]. The American Chemical Society, Washington, DC, USA, 2021. 
@@ -240,7 +240,7 @@ _Molecules_ **2022** , _27_ , 761
 Jeon et al. [79] fabricated CNF/TiO2–Pt nanofibrous electrocatalyst via an in situ process through the protocol given in Figure 8a. The discovered nanofibrous catalyst had a larger active surface area and excellent ORR activity. The structural change that occurred upon the calcination and reduction procedure of the electrospun nanofibers can be noticed in the XRD analysis (Figure 8b). Furthermore, the HR-TEM photograph in Figure 8c depicts the whole synthesis flow of the nanofibrous composite structure, and it was discovered that before reduction, the surface appeared as a single phase of NiTiO3 with a typical interplanar distance of 2.7, harmonizing the (104) plane. On the other hand, after the reduction process, spherical Ni NPs with an average size of ~10 nm were well-deposited on the TiO2 nanofiber surface. The fabricated CNF/TiO2–Pt served as a better catalyst for ORR applications. Further, it was mentioned that the chemical structure of Pt NPs was modified on the CNF/TiO2–Pt surface due to the interaction between the Pt NPs and TiO2, ~~as illustrated in Figure 8d.~~ 
 
 
-![](_images/Recent Developments in Carbon-Based Nanocomposites for Fuel Cell Applications A_img/_temp_92969aac_heal_.pdf-0011-03.png)
+![](_temp_92969aac_convert__images/_temp_92969aac_convert_.pdf-0011-03.png)
 
 
 _−_ **Figure 8. (a)** Schematic illustration of synthesis procedure of the CNF/TiO2 Pt nanofibrous catalyst, ( **b** ) XRD patterns, ( **c** ) HR-TEM images of NiTiO3/TiO2, Ni-TiO2/TiO2, CNF/TiO2, and CNF/TiO2 _−_ Pt nanofibers, and ( **d** ) Schematic illustration of the Pt chemical state and catalytic reaction mechanism of the CNF/TiO2 _−_ Pt catalyst. Reprinted with permission from [79]. The American Chemical Society, Washington, DC, USA, 2018. 
@@ -279,7 +279,7 @@ _Molecules_ **2022** , _27_ , 761
 activity (2490 mA mg _[−]_[1] ) in alkaline medium than Pd/rGO (1232 mA mg _[−]_[1] ). As previously stated, hollow N-doped GR microspheres are useful not only for immobilizing Pd NPs, but also for facilitating reactant diffusion for a better catalytic response [100]. 
 
 
-![](_images/Recent Developments in Carbon-Based Nanocomposites for Fuel Cell Applications A_img/_temp_92969aac_heal_.pdf-0013-03.png)
+![](_temp_92969aac_convert__images/_temp_92969aac_convert_.pdf-0013-03.png)
 
 
 **Figure 9.** Schematic diagram of ( **a** ) 2D-GO/Pt NPs, ( **b** ) 3D-GO Pt@r-GO@Pt hollow nanospheres, and ( **c** ) 3D-Pt@holey r-GO@Pt hollow nanospheres, and ( **d** ) Pt mass-normalized CV curves recorded in an N2-saturated 0.5 mol L _[−]_[1] of H2SO4 + CH3OH solution with a sweep rate of 50 mV s _[−]_[1] . Reprinted with permission from [95]. The American Chemical Society, Washington, DC, USA, 2018. 
@@ -293,15 +293,15 @@ _Molecules_ **2022** , _27_ , 761
 14 of 28 
 
 
-![](_images/Recent Developments in Carbon-Based Nanocomposites for Fuel Cell Applications A_img/_temp_92969aac_heal_.pdf-0014-02.png)
+![](_temp_92969aac_convert__images/_temp_92969aac_convert_.pdf-0014-02.png)
 
 
 
-![](_images/Recent Developments in Carbon-Based Nanocomposites for Fuel Cell Applications A_img/_temp_92969aac_heal_.pdf-0014-03.png)
+![](_temp_92969aac_convert__images/_temp_92969aac_convert_.pdf-0014-03.png)
 
 
 
-![](_images/Recent Developments in Carbon-Based Nanocomposites for Fuel Cell Applications A_img/_temp_92969aac_heal_.pdf-0014-04.png)
+![](_temp_92969aac_convert__images/_temp_92969aac_convert_.pdf-0014-04.png)
 
 
 **Figure 10.** ( **a** ) Schematic illustration of the synthesis of Pt/SWNT-O3 with 3.9 wt% of Pt content; HAADF/STEM image of ( **b** , **c** ) CNT bundles with Pt/SWNT before and after heat treatment. Reprinted with permission from [108]. Elsevier, Amsterdam, The Netherlands, 2020. 
@@ -313,11 +313,11 @@ _Molecules_ **2022** , _27_ , 761
 15 of 28 
 
 
-![](_images/Recent Developments in Carbon-Based Nanocomposites for Fuel Cell Applications A_img/_temp_92969aac_heal_.pdf-0015-02.png)
+![](_temp_92969aac_convert__images/_temp_92969aac_convert_.pdf-0015-02.png)
 
 
 
-![](_images/Recent Developments in Carbon-Based Nanocomposites for Fuel Cell Applications A_img/_temp_92969aac_heal_.pdf-0015-03.png)
+![](_temp_92969aac_convert__images/_temp_92969aac_convert_.pdf-0015-03.png)
 
 
 **Figure 11.** The AC impedance spectrum in Nyquist form for HER at an overpotential of 100 mV at the ( **a** ) CFE/CB/Pt electrode and ( **b** ) CFE/SWCNT/Pt electrode. ( **c** ) The power density and galvanostatic polarization data at different temperatures of an MEA prepared using a CFE/SWCNT/Pt anode and a CFE/CB/Pt cathode, and ( **d** ) the power density and galvanostatic polarization data at different temperatures of an MEA prepared using a CFE/SWCNT/Pt anode and cathode. Reprinted with permission from [112]. The American Chemical Society, Washington, DC, USA, 2005. 
@@ -329,7 +329,7 @@ _Molecules_ **2022** , _27_ , 761
 16 of 28 
 
 
-![](_images/Recent Developments in Carbon-Based Nanocomposites for Fuel Cell Applications A_img/_temp_92969aac_heal_.pdf-0016-02.png)
+![](_temp_92969aac_convert__images/_temp_92969aac_convert_.pdf-0016-02.png)
 
 
 **Figure 12.** ( **a** ) Schematic illustration of the PFO-assisted one-pot surface engineering process for the preparation of OLO@m-SWCNT powders. ( **b** ) Conceptual illustration of the beneficial effect of the m-SWCNT nanonets on the bifunctional ORR/OER electrocatalytic activity (i.e., the ORR through the SWCNTs themselves and the OER accelerated by the m-SWCNT nanonets) of the NSC, and ( **c** ) ORR electrocatalytic activities of the pristine NSC, NSC@SWCNTs, and NSC@m-SWCNTs. Reproduced with permission [113]. Copyright, The Royal Society of Chemistry, London, UK, 2017. 
@@ -345,19 +345,19 @@ _Molecules_ **2022** , _27_ , 761
 on MWCNT (Pt/MWCNT) composite by the intermittent microwave irradiation (IMT) technique, and with H2PtCl6 used as a precursor. Figure 13a shows the TEM image of Pt/MWCNT; the Pt nanoparticles were uniformly placed on the MWCNT with a size range from 1.5 to 4.0 nm. The binding energy study of the Pt/MWCNT composite was carried out by XPS analysis before and after the reduction treatment process. Before the reduction process, the particles were clearly indicated at Pt 4f, Cl 2p, C 1s, and O 1s, respectively, whereas the Cl 2p peak vanished from the Pt/MWCNT composite after the reduction treatment method. The removal of halide ions can influence the catalytic activity of methanol fuel cells (Figure 13b). The electrochemical properties of Pt/MWCNT composite were studied using the cyclic voltammetric technique, using 0.5 M H2SO4 solution (Figure 13c). The as-synthesized Pt/MWCNT nanocomposite showed significantly enhanced methanol oxidation compared to E-TEK 40% Pt/C catalyst under acidic conditions (Figure 13d). 
 
 
-![](_images/Recent Developments in Carbon-Based Nanocomposites for Fuel Cell Applications A_img/_temp_92969aac_heal_.pdf-0017-03.png)
+![](_temp_92969aac_convert__images/_temp_92969aac_convert_.pdf-0017-03.png)
 
 
 
-![](_images/Recent Developments in Carbon-Based Nanocomposites for Fuel Cell Applications A_img/_temp_92969aac_heal_.pdf-0017-04.png)
+![](_temp_92969aac_convert__images/_temp_92969aac_convert_.pdf-0017-04.png)
 
 
 
-![](_images/Recent Developments in Carbon-Based Nanocomposites for Fuel Cell Applications A_img/_temp_92969aac_heal_.pdf-0017-05.png)
+![](_temp_92969aac_convert__images/_temp_92969aac_convert_.pdf-0017-05.png)
 
 
 
-![](_images/Recent Developments in Carbon-Based Nanocomposites for Fuel Cell Applications A_img/_temp_92969aac_heal_.pdf-0017-06.png)
+![](_temp_92969aac_convert__images/_temp_92969aac_convert_.pdf-0017-06.png)
 
 
 **Figure 13.** ( **a** ) TEM micrographs of Pt/MWCNT-10 nm, ( **b** ) XPS survey scan spectra of Pt/MWCNT nanocomposites before and after reduction treatment, and CVs of Pt/MWCNT nanocomposites prepared on MWCNTs with different diameters in ( **c** ) N2 saturated 0.5 mol L _[−]_[1] H2SO4 and ( **d** ) CVs of Pt/MWCNT nanocomposites prepared on MWCNTs with different diameters in N2-saturated 0.5 mol L _[−]_[1] H2SO4. Reprinted with permission from [129]. The American Chemical Society, Washington, DC, USA, 2006. 
@@ -369,7 +369,7 @@ _Molecules_ **2022** , _27_ , 761
 Generally, composite materials are often used for the development of polymer electrolyte membrane fuel cells. Barker et al. [130] showed the Nafion (NAF) proton exchange membrane and ceria-coated multi-walled carbon nanotube (CeO2/MWCNT/NAF) composite by wet chemical as well as solution-casting techniques. Figure 14a shows the TEM micrograph of the MWCNT wall after treatment of ceria nanoparticles, i.e., the diameter of the ceria particle was about 5 nm. The tensile strength and mechanical properties of CeO2/MWCNT/NAF composites were enhanced by the typical stress–strain study (Figure 14b). The electrode stability of the composite materials was tested using an open circuit potential value of the membrane degraded at 0.472 mV h _[−]_[1] , as shown in Figure 14c. The gas cross-over study revealed that the catalyst retained activity for up to 96 h (Figure 14d). 
 
 
-![](_images/Recent Developments in Carbon-Based Nanocomposites for Fuel Cell Applications A_img/_temp_92969aac_heal_.pdf-0018-03.png)
+![](_temp_92969aac_convert__images/_temp_92969aac_convert_.pdf-0018-03.png)
 
 
 **Figure 14.** ( **a** ) TEM micrographs showing MWCNT after ceria treatment. ( **b** ) Typical stress–strain curves for NAF and [2% CeO2/MWCNT]/NAF membranes at 23 _[◦]_ C and 50% RH. ( **c** ) OCV decay of recast NAF and [2% CeO2/MWCNT]/NAF at 90 _[◦]_ C and 30% RH with H2/O2 flow rates of 100/200 sccm. ( **d** ) Gas crossover of recast NAF and [2% CeO2-MWCNT]/NAF membranes during OCV hold. Reprinted with permission from [130]. The American Chemical Society, Washington, DC, USA, 2014. 
@@ -383,7 +383,7 @@ _Molecules_ **2022** , _27_ , 761
 nanoparticle decorated MWCNT shows the flower and budlike morphologies and their average distribution of 80 nm (Figure 15a–c). The decorated Pt-MWCNT electrocatalysts were used to evaluate ORR by the CV technique in 0.5 M H2SO4 (Figure 15d). The electrocatalytic oxidation of methanol was evaluated by the CV technique, the anodic peak potentials were observed at ~0.9 V, and the methanol oxidation onset potential occurred at ~0.42 V (Figure 15e). The steady-state current was examined by using the chronopotentiometric technique (Figure 15f) [131]. Mink and co-workers successfully proposed a method to develop an MWCNT-based anode, and it was confirmed to be a feasible micro sized fuel cell device. The MWCNT-based anode materials hold promise as energy storage devices, and generated both electricity and water [132]. 
 
 
-![](_images/Recent Developments in Carbon-Based Nanocomposites for Fuel Cell Applications A_img/_temp_92969aac_heal_.pdf-0019-03.png)
+![](_temp_92969aac_convert__images/_temp_92969aac_convert_.pdf-0019-03.png)
 
 
 **Figure 15.** TEM ( **a** , **b** ) images and ( **c** ) SAED pattern obtained for the Pt nanoparticle decorated MWCNTs. The scale bar in ( **b** ) and ( **c** ) is 100 nm; ( **d** ) CV illustrates the electrocatalytic activity of nPtFs toward ORR in 0.5 mol L _[−]_[1] H2SO4; scan rate: 25 mV s _[−]_[1] . ( **e** ) CV illustrating the electrocatalytic performance of nPtFs toward oxidation of methanol (0.1 mol L _[−]_[1] ) in 0.5 mol L _[−]_[1] H2SO4; scan rate: 25 mV s _[−]_[1] . Inset shows the voltammetric response of electrode modified with commercial catalyst toward methanol oxidation. ( **f** ) Chronoamperometric curves obtained for the oxidation of methanol (0.1 mol L _[−]_[1] ) on nPtFs and commercial catalyst-modified electrodes. Reprinted with permission from [132]. The American Chemical Society, Washington, DC, USA, 2010. 
@@ -397,7 +397,7 @@ _Molecules_ **2022** , _27_ , 761
 Buckminsterfullerene or C60 is an allotropic carbon present in different forms such as a spherical, tubular, and ellipsoid shape and was discovered by Kroto in 1985. It is ~~represented as 0-D carbon-based materials [133]. Fullerene (C60) received c~~ onsiderable attention owing to its high electron transporting properties, good electron-accepting ability, and stable structural arrangements [134–136]. Moreover, C60-based electrode materials have been used as an efficient electrocatalyst in many fields, such as solar cells [137], batteries [138], biosensors [139], and fuel cells, etc. [140]. Having remarkable properties, such as convenience, low temperature operation, and high energy density of direct methanol fuel cells, using fullerene nanosheet modified (Pt/Ru/Sn/W fullerene) electrocatalysts could increase their catalytic activity with fuel cell efficiency [141]. The Pt-supported fullerene (Pt/C60(OH)24-27)-based electrocatalyst was synthesized through a simple process, where formic acid was used as a reducing agent. From TEM analysis, the agglomerated spherical-shaped fullerene (Pt/C60(OH)24–27) was obtained. Moreover, it can be used as an efficient electrocatalyst during the electrocatalytic oxidation of ethanol [142]. Rambabu and Bhat [143] developed a sulfonated polyether ether ketone supported sulfonated fullerene (SPEEK-Sfu)-based composite membrane by the diazotization reaction route. The SPEEK-Sfu composite membrane matrix showed better oxidation resistance with reduced methanol permeability in DMFCs. A new class of heterostructured boron nitride nanosheets was modified with fullerene molecules by a new strategic route to form 10% F/BCN multifunctional-based supramolecules (Figure 16a). Using the LSV technique, the constructed 10% F/BCN//10% F/BCN cell device exhibited remarkable current density (10 mA cm _[−]_[2] ), and the insert digital image shows the overall water splitting process (Figure 16b). Finally, the 10% F/BCN electrocatalyst was tested through the chronoamperometric method, using a measurement period of about 20 h, showed good electrode stability (Figure 16c) [144]. 
 
 
-![](_images/Recent Developments in Carbon-Based Nanocomposites for Fuel Cell Applications A_img/_temp_92969aac_heal_.pdf-0020-04.png)
+![](_temp_92969aac_convert__images/_temp_92969aac_convert_.pdf-0020-04.png)
 
 
 **Figure 16.** ( **a** ) Schematic representation of the synthesis of F/BCN nanohybrids, ( **b** ) LSV curve of the overall water splitting process using 10% F/BCN as both cathode and anode in a 0.5 mol L _[−]_[1] NaOH solution. The inset in ( **b** ) shows the digital photograph for producing O2 (anode) and H2 (cathode) bubbles on the 10% F/BCN modified carbon cloth electrodes and ( **c** ) chronoamperometric measurements of 10% F/BCN for H2O electrolysis at 1.61 V for 20 h. Reprinted with permission from [144]. The American Chemical Society, Washington, DC, USA, 2021. 

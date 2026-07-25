@@ -1,0 +1,2 @@
+Para 509: [37] Y. Feng, Y. Li, S. Yu, Q. Yang, Y. Tong, and B.-C. Ye, "Electrochemical sensor based on N-doped carbon dots decorated with manganese oxide nanospheres for simultaneous detection of p-aminophenol and paracetamol," Analyst, vol. 146, no. 16, pp. 5135-5145, 2021, doi: 10.1039/d1an00966d.
+Para 510: [38] S. Allende, Y. Liu, and M. V. Jacob, "Electrochemical sensing of paracetamol based on sugarcane bagasse-activated biochar," Ind. Crops Prod., vol. 211, p. 118241, May 2024, doi: 10.1016/j.indcrop.2024.118241.

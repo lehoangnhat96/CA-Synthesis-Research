@@ -1,11 +1,11 @@
 
-![](_images/0 Electrochemical Properties of Carbon Aerogel Electrodes Dependence on Synthesi_images/_temp_d6647488_convert_.pdf-0001-00.png)
+![](_temp_3f830819_convert__images/_temp_3f830819_convert_.pdf-0001-00.png)
 
 
 ## _**molecules**_ 
 
 
-![](_images/0 Electrochemical Properties of Carbon Aerogel Electrodes Dependence on Synthesi_images/_temp_d6647488_convert_.pdf-0001-02.png)
+![](_temp_3f830819_convert__images/_temp_3f830819_convert_.pdf-0001-02.png)
 
 
 _Article_ 
@@ -59,7 +59,7 @@ Very often, comparison of the materials described in different papers is difficu
 The molecular structure of the RF-gel and aerogel prepared by the literature method [8], can be described by the formula in Figure 1A. 
 
 
-![](_images/0 Electrochemical Properties of Carbon Aerogel Electrodes Dependence on Synthesi_images/_temp_d6647488_convert_.pdf-0002-08.png)
+![](_temp_3f830819_convert__images/_temp_3f830819_convert_.pdf-0002-08.png)
 
 
 **----- Start of picture text -----**<br>
@@ -92,15 +92,15 @@ _Molecules_ **2019** , _24_ , 3847
 It can be seen that a specific surface area of C-AGs is practically independent from annealing temperature and practically doubles the Ssp of initial RF-aerogel. The porosity of C-AGs was 91–93%. The full adsorption–desorption isotherms are presented in Figure 2. 
 
 
-![](_images/0 Electrochemical Properties of Carbon Aerogel Electrodes Dependence on Synthesi_images/_temp_d6647488_convert_.pdf-0003-05.png)
+![](_temp_3f830819_convert__images/_temp_3f830819_convert_.pdf-0003-05.png)
 
 
 
-![](_images/0 Electrochemical Properties of Carbon Aerogel Electrodes Dependence on Synthesi_images/_temp_d6647488_convert_.pdf-0003-06.png)
+![](_temp_3f830819_convert__images/_temp_3f830819_convert_.pdf-0003-06.png)
 
 
 
-![](_images/0 Electrochemical Properties of Carbon Aerogel Electrodes Dependence on Synthesi_images/_temp_d6647488_convert_.pdf-0003-07.png)
+![](_temp_3f830819_convert__images/_temp_3f830819_convert_.pdf-0003-07.png)
 
 
 **----- Start of picture text -----**<br>
@@ -120,19 +120,19 @@ _Molecules_ **2019** , _24_ , 3847
 4 of 13 
 
 
-![](_images/0 Electrochemical Properties of Carbon Aerogel Electrodes Dependence on Synthesi_images/_temp_d6647488_convert_.pdf-0004-02.png)
+![](_temp_3f830819_convert__images/_temp_3f830819_convert_.pdf-0004-02.png)
 
 
 
-![](_images/0 Electrochemical Properties of Carbon Aerogel Electrodes Dependence on Synthesi_images/_temp_d6647488_convert_.pdf-0004-03.png)
+![](_temp_3f830819_convert__images/_temp_3f830819_convert_.pdf-0004-03.png)
 
 
 
-![](_images/0 Electrochemical Properties of Carbon Aerogel Electrodes Dependence on Synthesi_images/_temp_d6647488_convert_.pdf-0004-04.png)
+![](_temp_3f830819_convert__images/_temp_3f830819_convert_.pdf-0004-04.png)
 
 
 
-![](_images/0 Electrochemical Properties of Carbon Aerogel Electrodes Dependence on Synthesi_images/_temp_d6647488_convert_.pdf-0004-05.png)
+![](_temp_3f830819_convert__images/_temp_3f830819_convert_.pdf-0004-05.png)
 
 
 **----- Start of picture text -----**<br>
@@ -144,7 +144,7 @@ A  B  C<br>**----- End of picture text -----**<br>
 The TEM images of RF-1100 sample are presented at Figure 4. The boundaries of carbon grains are highlighted by a solarization filter revealing that the grain boundaries in these samples were wider, and grains begin to combine together (see Supplementary, Figure S4). It can be seen that the selected areas between grains were filled by some structures with a density lower than that in compact grains. 
 
 
-![](_images/0 Electrochemical Properties of Carbon Aerogel Electrodes Dependence on Synthesi_images/_temp_d6647488_convert_.pdf-0004-08.png)
+![](_temp_3f830819_convert__images/_temp_3f830819_convert_.pdf-0004-08.png)
 
 
 **Figure 4.** The TEM image of the RF-1100 sample. Graphene scales between carbon grains are visible in blue. 
@@ -162,7 +162,7 @@ _Molecules_ **2019** , _24_ , 3847
 5 of 13 
 
 
-![](_images/0 Electrochemical Properties of Carbon Aerogel Electrodes Dependence on Synthesi_images/_temp_d6647488_convert_.pdf-0005-02.png)
+![](_temp_3f830819_convert__images/_temp_3f830819_convert_.pdf-0005-02.png)
 
 
 **Figure 5.** The dependence of specific electronic conductivity of carbon aerogels on pyrolysis temperature. 
@@ -172,7 +172,7 @@ _Molecules_ **2019** , _24_ , 3847
 The typical impedance spectra of RF-900, RF-1000 and RF-1100 samples are given in complex coordinates (Nyquist) in Figure 6. The spectra (hodographs) of RF-1000 and RF-1100 samples are similar, and can be divided into two regions. In the frequency domain, higher than 0.2 Hz there is a strong depressed arc (depressing angle is more than π/4), but lower than the 0.2 Hz domain there is a typical capacitive frequency response—an almost vertical straight line. 
 
 
-![](_images/0 Electrochemical Properties of Carbon Aerogel Electrodes Dependence on Synthesi_images/_temp_d6647488_convert_.pdf-0005-06.png)
+![](_temp_3f830819_convert__images/_temp_3f830819_convert_.pdf-0005-06.png)
 
 
 **Figure 6.** Spe ~~ctrum of sample impedance (pyrolysis at 1000, 1100 and 900[◦] C) in the co~~ mplex plane (hodograph). ~~Z[′] = RE (Z) is the real (active) component, Z[′′] = Im (Z) is the imagin~~ ary (reactive, capacitive) co ~~mponent.~~ 
@@ -218,11 +218,11 @@ CVA curves for RF-1000 electrode are presented at Figure 7 (CVA curve for the em
 The capacitance value calculated for different scanning rates was as follows: 
 
 
-![](_images/0 Electrochemical Properties of Carbon Aerogel Electrodes Dependence on Synthesi_images/_temp_d6647488_convert_.pdf-0006-15.png)
+![](_temp_3f830819_convert__images/_temp_3f830819_convert_.pdf-0006-15.png)
 
 
 
-![](_images/0 Electrochemical Properties of Carbon Aerogel Electrodes Dependence on Synthesi_images/_temp_d6647488_convert_.pdf-0006-16.png)
+![](_temp_3f830819_convert__images/_temp_3f830819_convert_.pdf-0006-16.png)
 
 
 The estimation of series resistance for V = 10 mV/s gave the ESR value ~35 Ohm. 
@@ -232,7 +232,7 @@ _Molecules_ **2019** , _24_ , 3847
 7 of 13 
 
 
-![](_images/0 Electrochemical Properties of Carbon Aerogel Electrodes Dependence on Synthesi_images/_temp_d6647488_convert_.pdf-0007-02.png)
+![](_temp_3f830819_convert__images/_temp_3f830819_convert_.pdf-0007-02.png)
 
 
 **Figure 7.** Voltammograms of samples of the experimental supercapacitor electrode from RF-1000 aerogel. 
@@ -248,13 +248,13 @@ _Molecules_ **2019** , _24_ , 3847
 8 of 13 
 
 
-![](_images/0 Electrochemical Properties of Carbon Aerogel Electrodes Dependence on Synthesi_images/_temp_d6647488_convert_.pdf-0008-02.png)
+![](_temp_3f830819_convert__images/_temp_3f830819_convert_.pdf-0008-02.png)
 
 
 ( **A** ) 
 
 
-![](_images/0 Electrochemical Properties of Carbon Aerogel Electrodes Dependence on Synthesi_images/_temp_d6647488_convert_.pdf-0008-04.png)
+![](_temp_3f830819_convert__images/_temp_3f830819_convert_.pdf-0008-04.png)
 
 
 ( **B** ) 
@@ -270,17 +270,17 @@ _Molecules_ **2019** , _24_ , 3847
 9 of 13 
 
 
-![](_images/0 Electrochemical Properties of Carbon Aerogel Electrodes Dependence on Synthesi_images/_temp_d6647488_convert_.pdf-0009-02.png)
+![](_temp_3f830819_convert__images/_temp_3f830819_convert_.pdf-0009-02.png)
 
 
 ( **A** ) 
 
 
-![](_images/0 Electrochemical Properties of Carbon Aerogel Electrodes Dependence on Synthesi_images/_temp_d6647488_convert_.pdf-0009-04.png)
+![](_temp_3f830819_convert__images/_temp_3f830819_convert_.pdf-0009-04.png)
 
 
 
-![](_images/0 Electrochemical Properties of Carbon Aerogel Electrodes Dependence on Synthesi_images/_temp_d6647488_convert_.pdf-0009-05.png)
+![](_temp_3f830819_convert__images/_temp_3f830819_convert_.pdf-0009-05.png)
 
 
 **----- Start of picture text -----**<br>
@@ -434,7 +434,7 @@ _Molecules_ **2019** , _24_ , 3847
 **Sample Availability:** Samples of all aerogels listed in the paper are available from the authors. 
 
 
-![](_images/0 Electrochemical Properties of Carbon Aerogel Electrodes Dependence on Synthesi_images/_temp_d6647488_convert_.pdf-0013-12.png)
+![](_temp_3f830819_convert__images/_temp_3f830819_convert_.pdf-0013-12.png)
 
 
 - © 2019 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (http://creativecommons.org/licenses/by/4.0/). 

@@ -5,7 +5,7 @@ Title: 3D nitrogen-doped graphene aerogel: A low-cost, facile prepared direct el
 Author: Zhi-Xiong Cai Xin-Hong Song Yi-Ying Chen Yi-Ru Wang Xi Chen 
 
 
-![](_images/3D nitrogen-doped graphene aerogel a low-cost facile H2O2_images/_temp_5635d570_convert_.pdf-0001-03.png)
+![](_temp_410abb74_convert__images/_temp_410abb74_convert_.pdf-0001-03.png)
 
 
 PII: S0925-4005(15)30272-0 DOI: http://dx.doi.org/doi:10.1016/j.snb.2015.08.094 Reference: SNB 18949 To appear in: _Sensors and Actuators B_ Received date: 16-6-2015 Revised date: 11-8-2015 Accepted date: 21-8-2015 
@@ -15,7 +15,7 @@ Please cite this article as: Z.-X. Cai, X.-H. Song, Y.-Y. Chen, Y.-R. Wang, X. C
 This is a PDF file of an unedited manuscript that has been accepted for publication. As a service to our customers we are providing this early version of the manuscript. The manuscript will undergo copyediting, typesetting, and review of the resulting proof before it is published in its final form. Please note that during the production process errors may be discovered which could affect the content, and all legal disclaimers that apply to the journal pertain. 
 
 
-![](_images/3D nitrogen-doped graphene aerogel a low-cost facile H2O2_images/_temp_5635d570_convert_.pdf-0002-00.png)
+![](_temp_410abb74_convert__images/_temp_410abb74_convert_.pdf-0002-00.png)
 
 
 ## **3D nitrogen-doped graphene aerogel: a low-cost, facile** 
@@ -51,7 +51,7 @@ interest in a variety of fields due to its unique structure and electronic prope
 Page 1 of 15 
 
 
-![](_images/3D nitrogen-doped graphene aerogel a low-cost facile H2O2_images/_temp_5635d570_convert_.pdf-0003-00.png)
+![](_temp_410abb74_convert__images/_temp_410abb74_convert_.pdf-0003-00.png)
 
 
 notably, in the area of electrochemical analysis, carbon-based sensors show good performance in the detection of molecules such as uric acid [3], ascorbic acid [4], dopamine [5], nitric oxide [6], H2O2 [7], H2S [8], glucose [9] and TNT [10]. Recently, the researches of graphene-based nanocomposites on biosensors have been greatly developed. However, these nanocomposites meet 
@@ -71,7 +71,7 @@ some troubles due to small specific surface area and poor durability, which are 
 Page 2 of 15 
 
 
-![](_images/3D nitrogen-doped graphene aerogel a low-cost facile H2O2_images/_temp_5635d570_convert_.pdf-0004-00.png)
+![](_temp_410abb74_convert__images/_temp_410abb74_convert_.pdf-0004-00.png)
 
 
 N-graphene because the nitrogen doped carbon nanostructures are known to decompose reactive intermediates such as hydrogen peroxide into oxygen formed during ORR [21]. Generally, there is an intrinsic correlation between the redox of H2O2 and ORR, and the electrocatalyst with a low overpotential for ORR should be favorable for H2O2 redox [22]. This suggests a possibility to 
@@ -85,15 +85,15 @@ N-doped graphene. Briefly, the N-doped graphene would show high sensitivity in H
 Page 3 of 15 
 
 
-![](_images/3D nitrogen-doped graphene aerogel a low-cost facile H2O2_images/_temp_5635d570_convert_.pdf-0005-00.png)
+![](_temp_410abb74_convert__images/_temp_410abb74_convert_.pdf-0005-00.png)
 
 
 
-![](_images/3D nitrogen-doped graphene aerogel a low-cost facile H2O2_images/_temp_5635d570_convert_.pdf-0005-01.png)
+![](_temp_410abb74_convert__images/_temp_410abb74_convert_.pdf-0005-01.png)
 
 
 
-![](_images/3D nitrogen-doped graphene aerogel a low-cost facile H2O2_images/_temp_5635d570_convert_.pdf-0005-02.png)
+![](_temp_410abb74_convert__images/_temp_410abb74_convert_.pdf-0005-02.png)
 
 
 **----- Start of picture text -----**<br>
@@ -117,7 +117,7 @@ The graphite powder was purchased from Lvyin Co. (China). 5% Nafion ethanol solu
 Page 4 of 15 
 
 
-![](_images/3D nitrogen-doped graphene aerogel a low-cost facile H2O2_images/_temp_5635d570_convert_.pdf-0006-00.png)
+![](_temp_410abb74_convert__images/_temp_410abb74_convert_.pdf-0006-00.png)
 
 
 ## _2.3. Apparatus_ 
@@ -141,13 +141,13 @@ PHI Quantum 2000 Scanning ESCA Microprobe with a monochromatized microfocused Al
 Page 5 of 15 
 
 
-![](_images/3D nitrogen-doped graphene aerogel a low-cost facile H2O2_images/_temp_5635d570_convert_.pdf-0007-00.png)
+![](_temp_410abb74_convert__images/_temp_410abb74_convert_.pdf-0007-00.png)
 
 
 used to examine the 3D-NGA composition. The XPS peaks of the 3D-NGA at about 401, 284.8 and 532.7 eV corresponded to N1s, C1s and O1s (Fig. 1c). Compared with PDA-GO, 3D-NGA showed less content of oxygen, indicating the recovery of GO sp[2] structure. Moreover, as shown in the high-resolution N1s XPS spectra, e, before annealing, the N atoms of PDA-GO embodied 
 
 
-![](_images/3D nitrogen-doped graphene aerogel a low-cost facile H2O2_images/_temp_5635d570_convert_.pdf-0007-02.png)
+![](_temp_410abb74_convert__images/_temp_410abb74_convert_.pdf-0007-02.png)
 
 
 Fig. 1 (a) Typical SEM image and (b) TEM image of the NGA. (c) XPS spectrum of the NGA and PDA-GO, and 
@@ -159,7 +159,7 @@ the chemical bonding of PDA (primary amine, secondary amine, oxime) (Fig. 1e). C
 Page 6 of 15 
 
 
-![](_images/3D nitrogen-doped graphene aerogel a low-cost facile H2O2_images/_temp_5635d570_convert_.pdf-0008-00.png)
+![](_temp_410abb74_convert__images/_temp_410abb74_convert_.pdf-0008-00.png)
 
 
 (d) (e) the corresponding high-resolution N1s peak. (f) the EDX spectrum of NGA. 
@@ -179,7 +179,7 @@ half maximum of 3D NGA presents a relatively narrow peak. It is about 5[[o]] sma
 Page 7 of 15 
 
 
-![](_images/3D nitrogen-doped graphene aerogel a low-cost facile H2O2_images/_temp_5635d570_convert_.pdf-0009-00.png)
+![](_temp_410abb74_convert__images/_temp_410abb74_convert_.pdf-0009-00.png)
 
 
 It is reported that there was an intrinsic correlation between redox of H2O2 and ORR [20]. We further performed CV measurements using the bare 3D-GA electrode and the 3D-NGA electrode in O2 and N2-saturated PBS (0.2 M, pH 7). As shown in Fig. 3b, no obvious reduction peak could be observed using both the 3D-GA electrode and the 3D-NGA electrode in N2 saturated solution. 
@@ -201,13 +201,13 @@ In contrast, in the presence of O2, the 3D-GA electrode and the 3D-NGA electrode
 Page 8 of 15 
 
 
-![](_images/3D nitrogen-doped graphene aerogel a low-cost facile H2O2_images/_temp_5635d570_convert_.pdf-0010-00.png)
+![](_temp_410abb74_convert__images/_temp_410abb74_convert_.pdf-0010-00.png)
 
 
 reversible hydrogen electrode (RHE), and a half-wave potential (E1/2) of 0.66 V in the ORR region (Fig. 4a), which is comparable with those of Pt/C (onset potential = 0.94 V, E1/2 = 0.80 V). In OER region, 3D-NGA afforded a sharp onset potential at 1.46 V, which is lower than that of Pt/C at 1.52 V (Fig. 4b). The OER overpotentials at a current density of 10 mA cm[-2] is also lower than that of 
 
 
-![](_images/3D nitrogen-doped graphene aerogel a low-cost facile H2O2_images/_temp_5635d570_convert_.pdf-0010-02.png)
+![](_temp_410abb74_convert__images/_temp_410abb74_convert_.pdf-0010-02.png)
 
 
 **----- Start of picture text -----**<br>
@@ -215,7 +215,7 @@ counted as a promising low-cost bifunctional electrocatalyst, which therefore co
 
 
 
-![](_images/3D nitrogen-doped graphene aerogel a low-cost facile H2O2_images/_temp_5635d570_convert_.pdf-0010-03.png)
+![](_temp_410abb74_convert__images/_temp_410abb74_convert_.pdf-0010-03.png)
 
 
 **----- Start of picture text -----**<br>
@@ -235,7 +235,7 @@ Pt/C. This catalytic performance both in ORR and OER indicates that 3D-NGA elect
 Page 9 of 15 
 
 
-![](_images/3D nitrogen-doped graphene aerogel a low-cost facile H2O2_images/_temp_5635d570_convert_.pdf-0011-00.png)
+![](_temp_410abb74_convert__images/_temp_410abb74_convert_.pdf-0011-00.png)
 
 
 was selected. The pH effect of PBS on the amperometric response was also examined. The profile 
@@ -243,7 +243,7 @@ was selected. The pH effect of PBS on the amperometric response was also examine
 of Fig. 5cd, showed that the current reached a maximum value at pH 7. Therefore, pH 7 PBS was selected in the further studies. 
 
 
-![](_images/3D nitrogen-doped graphene aerogel a low-cost facile H2O2_images/_temp_5635d570_convert_.pdf-0011-03.png)
+![](_temp_410abb74_convert__images/_temp_410abb74_convert_.pdf-0011-03.png)
 
 
 **----- Start of picture text -----**<br>
@@ -259,11 +259,11 @@ Fig. 5 The effect of solution pH (a) (b) and applied potential (c) (d)to the amp
 Page 10 of 15 
 
 
-![](_images/3D nitrogen-doped graphene aerogel a low-cost facile H2O2_images/_temp_5635d570_convert_.pdf-0012-00.png)
+![](_temp_410abb74_convert__images/_temp_410abb74_convert_.pdf-0012-00.png)
 
 
 
-![](_images/3D nitrogen-doped graphene aerogel a low-cost facile H2O2_images/_temp_5635d570_convert_.pdf-0012-01.png)
+![](_temp_410abb74_convert__images/_temp_410abb74_convert_.pdf-0012-01.png)
 
 
 **----- Start of picture text -----**<br>
@@ -277,11 +277,11 @@ Fig. 6 Amperometric response of the 3D-NGA electrode to successive injection of 
 Page 11 of 15 
 
 
-![](_images/3D nitrogen-doped graphene aerogel a low-cost facile H2O2_images/_temp_5635d570_convert_.pdf-0013-00.png)
+![](_temp_410abb74_convert__images/_temp_410abb74_convert_.pdf-0013-00.png)
 
 
 
-![](_images/3D nitrogen-doped graphene aerogel a low-cost facile H2O2_images/_temp_5635d570_convert_.pdf-0013-01.png)
+![](_temp_410abb74_convert__images/_temp_410abb74_convert_.pdf-0013-01.png)
 
 
 **----- Start of picture text -----**<br>
@@ -301,7 +301,7 @@ This research work was financially supported by the National Nature Scientific F
 Page 12 of 15 
 
 
-![](_images/3D nitrogen-doped graphene aerogel a low-cost facile H2O2_images/_temp_5635d570_convert_.pdf-0014-00.png)
+![](_temp_410abb74_convert__images/_temp_410abb74_convert_.pdf-0014-00.png)
 
 
 acknowledged. 
@@ -333,7 +333,7 @@ acknowledged.
 Page 13 of 15 
 
 
-![](_images/3D nitrogen-doped graphene aerogel a low-cost facile H2O2_images/_temp_5635d570_convert_.pdf-0015-00.png)
+![](_temp_410abb74_convert__images/_temp_410abb74_convert_.pdf-0015-00.png)
 
 
 [17] D.W. Wang, D. Su, Heterogeneous nanocarbon materials for oxygen reduction reaction, Energ. Environ. Sci., 7 (2014) 576-591. 
@@ -371,7 +371,7 @@ Page 13 of 15
 Page 14 of 15 
 
 
-![](_images/3D nitrogen-doped graphene aerogel a low-cost facile H2O2_images/_temp_5635d570_convert_.pdf-0016-00.png)
+![](_temp_410abb74_convert__images/_temp_410abb74_convert_.pdf-0016-00.png)
 
 
 electrochemical sensing. 

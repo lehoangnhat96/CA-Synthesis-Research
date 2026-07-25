@@ -1,0 +1,1649 @@
+{
+  "last_updated": "2026-06-21",
+  "total_processed": 109,
+  "papers": [
+    {
+      "paper_id": "P-001",
+      "file": "0 Cellulose Extraction from Coconut Coir with Alkaline Delignification Process.md",
+      "folder": "01_Tien_xu_ly_Nguyen_lieu",
+      "processed": true,
+      "stages": [
+        "GĐ1"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-001_0_Cellulose_Extraction_from_Co.md"
+    },
+    {
+      "paper_id": "P-002",
+      "file": "0 Effect of Sodium Hydroxide NaOH Treatment on Coconut Coir.md",
+      "folder": "01_Tien_xu_ly_Nguyen_lieu",
+      "processed": true,
+      "stages": [
+        "GĐ1"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-002_0_Effect_of_Sodium_Hydroxide_N.md"
+    },
+    {
+      "paper_id": "P-003",
+      "file": "0 Effects of Liq-to-Solid Ratio and Reaction Temperature on NaOH.md",
+      "folder": "01_Tien_xu_ly_Nguyen_lieu",
+      "processed": true,
+      "stages": [
+        "GĐ1"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-003_0_Effects_of_Liq-to-Solid_Rati.md"
+    },
+    {
+      "paper_id": "P-004",
+      "file": "0 Integrated dynamic model of the alkaline delignification process of.md",
+      "folder": "01_Tien_xu_ly_Nguyen_lieu",
+      "processed": true,
+      "stages": [
+        "GĐ1"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-004_0_Integrated_dynamic_model_of_.md"
+    },
+    {
+      "paper_id": "P-005",
+      "file": "0 Multi-Objective Optimization and Analysis of Mechanical Properties of Coir.md",
+      "folder": "01_Tien_xu_ly_Nguyen_lieu",
+      "processed": true,
+      "stages": [
+        "GĐ1"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-005_0_Multi-Objective_Optimization.md"
+    },
+    {
+      "paper_id": "P-006",
+      "file": "Anh huong cua qua trinh xu ly hoa hoc voi.md",
+      "folder": "01_Tien_xu_ly_Nguyen_lieu",
+      "processed": true,
+      "stages": [
+        "GĐ1"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-006_Anh_huong_cua_qua_trinh_xu_ly_.md"
+    },
+    {
+      "paper_id": "P-007",
+      "file": "Danh gia dac tinh soi xo dua qua qua trinh.md",
+      "folder": "01_Tien_xu_ly_Nguyen_lieu",
+      "processed": true,
+      "stages": [
+        "GĐ1"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-007_Danh_gia_dac_tinh_soi_xo_dua_q.md"
+    },
+    {
+      "paper_id": "P-008",
+      "file": "Effect of alkali treatment on physicochemical and microstructural properties.md",
+      "folder": "01_Tien_xu_ly_Nguyen_lieu",
+      "processed": true,
+      "stages": [
+        "GĐ1"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-008_Effect_of_alkali_treatment_on_.md"
+    },
+    {
+      "paper_id": "P-009",
+      "file": "Effect of Bleaching Processes on Physicochemical.md",
+      "folder": "01_Tien_xu_ly_Nguyen_lieu",
+      "processed": true,
+      "stages": [
+        "GĐ1"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-009_Effect_of_Bleaching_Processes_.md"
+    },
+    {
+      "paper_id": "P-010",
+      "file": "Effect of lignin removal on the properties of coconut coir fiber wheat gluten biocomposite.md",
+      "folder": "01_Tien_xu_ly_Nguyen_lieu",
+      "processed": true,
+      "stages": [
+        "GĐ1",
+        "GĐ8"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-010_An_ultrasensitive.md"
+    },
+    {
+      "paper_id": "P-011",
+      "file": "Fabrication and characterization of coconut shell activated carbon using.md",
+      "folder": "01_Tien_xu_ly_Nguyen_lieu",
+      "processed": true,
+      "stages": [
+        "GĐ4"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-011_Fabrication_and_characterizati.md"
+    },
+    {
+      "paper_id": "P-012",
+      "file": "Insights into sustainable aerogels from lignocellulosic materials.md",
+      "folder": "01_Tien_xu_ly_Nguyen_lieu",
+      "processed": true,
+      "stages": [
+        "GĐ2",
+        "GĐ3"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-012_Insights_into_sustainable_aero.md"
+    },
+    {
+      "paper_id": "P-013",
+      "file": "Khao sat tinh chat soi xo dua san xuat bang may dap tuoc lien hoan tai Ben Tre va nghien cuu xu ly soi bang NaOH.md",
+      "folder": "01_Tien_xu_ly_Nguyen_lieu",
+      "processed": true,
+      "stages": [
+        "GĐ1"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-013_Khao_sat_tinh_chat_soi_xo_dua_.md"
+    },
+    {
+      "paper_id": "P-014",
+      "file": "SU ANH HUONG CUA CAC YEU TO TOI QUA TRINH.md",
+      "folder": "01_Tien_xu_ly_Nguyen_lieu",
+      "processed": true,
+      "stages": [
+        "GĐ1"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-014_SU_ANH_HUONG_CUA_CAC_YEU_TO_TO.md"
+    },
+    {
+      "paper_id": "P-015",
+      "file": "Than sinh hoc tu phu pham nong nghiep Tinh chat.md",
+      "folder": "01_Tien_xu_ly_Nguyen_lieu",
+      "processed": true,
+      "stages": [
+        "GĐ2"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-015_Than_sinh_hoc_tu_phu_pham_nong.md"
+    },
+    {
+      "paper_id": "P-016",
+      "file": "Thermochemical Characterization of Coconut Husk Rice Husk and Mineral Coal.md",
+      "folder": "01_Tien_xu_ly_Nguyen_lieu",
+      "processed": true,
+      "stages": [
+        "None"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-016_Thermochemical_Characterizatio.md"
+    },
+    {
+      "paper_id": "P-017",
+      "file": "Upcycling coconut husk coir by extraction of cellulose nanofibrils using.md",
+      "folder": "01_Tien_xu_ly_Nguyen_lieu",
+      "processed": true,
+      "stages": [
+        "GĐ1"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-017_Upcycling_coconut_husk_coir_by.md"
+    },
+    {
+      "paper_id": "P-018",
+      "file": "0 Electrochemical Properties of Carbon Aerogel Electrodes Dependence on Synthesi.md",
+      "folder": "02_Doping_va_Gel_hoa",
+      "processed": true,
+      "stages": [
+        "- **Processed:** true"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-018_0_Electrochemical_Properties_o.md"
+    },
+    {
+      "paper_id": "P-019",
+      "file": "1 2 Synthesis of Cellulose Aerogels from Coir Fibers via.md",
+      "folder": "02_Doping_va_Gel_hoa",
+      "processed": true,
+      "stages": [
+        "GĐ1",
+        "GĐ2",
+        "GĐ3"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-019_1_2_Synthesis_of_Cellulose_Aer.md"
+    },
+    {
+      "paper_id": "P-020",
+      "file": "1 Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon Aerogels for.md",
+      "folder": "02_Doping_va_Gel_hoa",
+      "processed": true,
+      "stages": [
+        "GĐ2",
+        "GĐ3",
+        "GĐ5"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-020_1_Facile_Synthesis_of_Fe-Doped.md"
+    },
+    {
+      "paper_id": "P-021",
+      "file": "1 N-doped carbon xerogels from urea-resorcinol-formaldehyde as carbon matrix for.md",
+      "folder": "02_Doping_va_Gel_hoa",
+      "processed": true,
+      "stages": [
+        "GĐ2",
+        "GĐ3",
+        "GĐ5",
+        "GĐ6"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-021_1_N-doped_carbon_xerogels_from.md"
+    },
+    {
+      "paper_id": "P-022",
+      "file": "1 Sustainable Hydrothermal Carbonization Synthesis of Iron-Nitrogen-Doped Carbon.md",
+      "folder": "02_Doping_va_Gel_hoa",
+      "processed": true,
+      "stages": [
+        "GĐ3",
+        "GĐ5",
+        "GĐ6"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-022_1_Sustainable_Hydrothermal_Car.md"
+    },
+    {
+      "paper_id": "P-023",
+      "file": "2 Facile Preparation of Cellulose Aerogels with Controllable Pore Structure.md",
+      "folder": "02_Doping_va_Gel_hoa",
+      "processed": true,
+      "stages": [
+        "GĐ2",
+        "GĐ3"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-023_2_Facile_Preparation_of_Cellul.md"
+    },
+    {
+      "paper_id": "P-024",
+      "file": "2 Nitrogen-Doped Carbon Aerogels Prepared ORR.md",
+      "folder": "02_Doping_va_Gel_hoa",
+      "processed": true,
+      "stages": [
+        "GĐ1",
+        "GĐ2",
+        "GĐ3",
+        "GĐ5"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-024_2_Nitrogen-Doped_Carbon_Aeroge.md"
+    },
+    {
+      "paper_id": "P-025",
+      "file": "3D hierarchical porous N-doped carbon aerogel from renewable cellulose an.md",
+      "folder": "02_Doping_va_Gel_hoa",
+      "processed": true,
+      "stages": [
+        "GĐ2",
+        "GĐ3",
+        "GĐ5"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-025_3D_hierarchical_porous_N-doped.md"
+    },
+    {
+      "paper_id": "P-026",
+      "file": "Antioxidant Capacity of Nitrogen and Sulfur Codoped Carbon.md",
+      "folder": "02_Doping_va_Gel_hoa",
+      "processed": true,
+      "stages": [
+        "- **Processed:** true"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-026_Antioxidant_Capacity_of_Nitrog.md"
+    },
+    {
+      "paper_id": "P-027",
+      "file": "Carbon Aerogels and Monoliths Control of Porosity and.md",
+      "folder": "02_Doping_va_Gel_hoa",
+      "processed": true,
+      "stages": [
+        "- **Processed:** true"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-027_Carbon_Aerogels_and_Monoliths_.md"
+    },
+    {
+      "paper_id": "P-028",
+      "file": "Coconut Residue-Derived Nanoporous Carbon via Hydrothermal.md",
+      "folder": "02_Doping_va_Gel_hoa",
+      "processed": true,
+      "stages": [
+        "GĐ1",
+        "GĐ2",
+        "GĐ5",
+        "GĐ8"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-028_Coconut_Residue-Derived_Nanopo.md"
+    },
+    {
+      "paper_id": "P-029",
+      "file": "Coconut Shell-Derived Activated Carbon for High-Performance.md",
+      "folder": "02_Doping_va_Gel_hoa",
+      "processed": true,
+      "stages": [
+        "GĐ1",
+        "GĐ2",
+        "GĐ5",
+        "GĐ8"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-029_Coconut_Shell-Derived_Activate.md"
+    },
+    {
+      "paper_id": "P-030",
+      "file": "Controlling NDoping Nature at Carbon Aerogels from Biomass for Enhanced.md",
+      "folder": "02_Doping_va_Gel_hoa",
+      "processed": true,
+      "stages": [
+        "GĐ1",
+        "GĐ2",
+        "GĐ3",
+        "GĐ4",
+        "GĐ5",
+        "GĐ8"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-030_Controlling_NDoping_Nature_at_.md"
+    },
+    {
+      "paper_id": "P-031",
+      "file": "Dieu che nanocomposite Ag Fe3O4 Nano tinh the cellulose bang.md",
+      "folder": "02_Doping_va_Gel_hoa",
+      "processed": true,
+      "stages": [
+        "GĐ1",
+        "GĐ2"
+      ],
+      "domain": "Mechanistic",
+      "card_path": "paper_cards/P-031_Dieu_che_nanocomposite_Ag_Fe3O.md"
+    },
+    {
+      "paper_id": "P-032",
+      "file": "Direct dissolution of cellulose in NaOH thiourea urea aqueous solution.md",
+      "folder": "02_Doping_va_Gel_hoa",
+      "processed": true,
+      "stages": [
+        "GĐ2"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-032_Dynamic_Self-Assembly.md"
+    },
+    {
+      "paper_id": "P-033",
+      "file": "Dynamic Self-Assembly Induced Rapid Dissolution of Cellulose at Low Temperatures.md",
+      "folder": "02_Doping_va_Gel_hoa",
+      "processed": true,
+      "stages": [
+        "GĐ2"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-033_Dynamic_Self-Assembly_Induced_.md"
+    },
+    {
+      "paper_id": "P-034",
+      "file": "Effects of non-solvents and electrolytes on the formation and properties of cellulose I filaments.md",
+      "folder": "02_Doping_va_Gel_hoa",
+      "processed": true,
+      "stages": [
+        "- **Processed:** true"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-034_Elucidating_roles.md"
+    },
+    {
+      "paper_id": "P-035",
+      "file": "Electrochemically Controlled Synthesis of Ultrathin Nickel Hydroxide Nanosheets.md",
+      "folder": "02_Doping_va_Gel_hoa",
+      "processed": true,
+      "stages": [
+        "- **Processed:** true"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-035_Electrochemically_Controlled_S.md"
+    },
+    {
+      "paper_id": "P-036",
+      "file": "Elucidating the roles of the Fe-Nx active sites and pore characteristics on Fe-Pani-biomass-derived RGO as oxygen reduction catalysts in PEMFCs.md",
+      "folder": "02_Doping_va_Gel_hoa",
+      "processed": true,
+      "stages": [
+        "- **Processed:** true"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-036_Elucidating_the_roles_of_the_F.md"
+    },
+    {
+      "paper_id": "P-037",
+      "file": "Fe and N Co-Doped Porous Carbon Nanospheres with High.md",
+      "folder": "02_Doping_va_Gel_hoa",
+      "processed": true,
+      "stages": [
+        "GĐ5"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-037_Fe_and_N_Co-Doped_Porous_Carbo.md"
+    },
+    {
+      "paper_id": "P-038",
+      "file": "Fe-Cluster Pushing Electrons to N-Doped Graphitic Layers with Fe3CFe Hybrid.md",
+      "folder": "02_Doping_va_Gel_hoa",
+      "processed": true,
+      "stages": [
+        "GĐ5"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-038_Fe-Cluster_Pushing_Electrons_t.md"
+    },
+    {
+      "paper_id": "P-039",
+      "file": "Green Fabrication of Bio-based Aerogels from Coconut Coir.md",
+      "folder": "02_Doping_va_Gel_hoa",
+      "processed": true,
+      "stages": [
+        "GĐ5"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-039_Cellulose_Lignin_Interactions_Pyrolysis.md"
+    },
+    {
+      "paper_id": "P-040",
+      "file": "Green Synthesis of Activated Carbons from Coconut Coir Dust via.md",
+      "folder": "02_Doping_va_Gel_hoa",
+      "processed": true,
+      "stages": [
+        "GĐ5"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-040_Review_Lignin_Pyrolysis.md"
+    },
+    {
+      "paper_id": "P-041",
+      "file": "Heteroatom tuning in agarose derived carbon aerogel forenhanced potassium ion.md",
+      "folder": "02_Doping_va_Gel_hoa",
+      "processed": true,
+      "stages": [
+        "GĐ4"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-041_CDA_Aerogels_Low_Shrinkage.md"
+    },
+    {
+      "paper_id": "P-042",
+      "file": "Hydrophobic Modification of Sulfonated Carbon Aerogels from Coir.md",
+      "folder": "02_Doping_va_Gel_hoa",
+      "processed": true,
+      "stages": [
+        "GĐ4"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-042_Lupin_Hull_CNF_Aerogel.md"
+    },
+    {
+      "paper_id": "P-043",
+      "file": "Ice-TemplatingofLigninandCelluloseNanofiber-BasedCarbon.md",
+      "folder": "02_Doping_va_Gel_hoa",
+      "processed": true,
+      "stages": [
+        "GĐ5"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-043_Carbon_Nanofiber_Coal.md"
+    },
+    {
+      "paper_id": "P-044",
+      "file": "Lignin-Derived Activated Carbon as Electrode Material for High-Performance Supercapacitor.md",
+      "folder": "02_Doping_va_Gel_hoa",
+      "processed": true,
+      "stages": [
+        "GĐ6"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-044_PVDF_Binder.md"
+    },
+    {
+      "paper_id": "P-045",
+      "file": "MultifunctionalCarbonAerogelswithHierarchicalAnisotropic StructureDerivedfromLig.md",
+      "folder": "02_Doping_va_Gel_hoa",
+      "processed": true,
+      "stages": [
+        "GĐ6"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-045_Chitosan_Nafion.md"
+    },
+    {
+      "paper_id": "P-046",
+      "file": "New Class of Carbon-Nanotube Aerogel Electrodes.md",
+      "folder": "02_Doping_va_Gel_hoa",
+      "processed": true,
+      "stages": [
+        "GĐ1"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-046_Chitosan_Aerogel.md"
+    },
+    {
+      "paper_id": "P-047",
+      "file": "Nghien cuu dac tinh hoa ly va anh huong cua.md",
+      "folder": "02_Doping_va_Gel_hoa",
+      "processed": true,
+      "stages": [
+        "GĐ6"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-047_Chitosan_Binder_LiMn2O4.md"
+    },
+    {
+      "paper_id": "P-048",
+      "file": "Nitrogen-Doped Carbon Aerogels Derived from Starch Biomass with Improved Electro.md",
+      "folder": "02_Doping_va_Gel_hoa",
+      "processed": true,
+      "stages": [
+        "GĐ6"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-048_CO2_Reduction_Aerogel.md"
+    },
+    {
+      "paper_id": "P-049",
+      "file": "Novel Fabrication of Renewable Aerogels from Coconut Coir.md",
+      "folder": "02_Doping_va_Gel_hoa",
+      "processed": true,
+      "stages": [
+        "GĐ6"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-049_Polybenzoxazine_Supercap.md"
+    },
+    {
+      "paper_id": "P-050",
+      "file": "One-Pot Synthesis of Carbon-Based Composite Foams with Tailorable Structure.md",
+      "folder": "02_Doping_va_Gel_hoa",
+      "processed": true,
+      "stages": [
+        "- **Processed:** true"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-050_Review_Bio_Carbon.md"
+    },
+    {
+      "paper_id": "P-051",
+      "file": "Porous hard carbon derived from coconut biomass waste as electrode.md",
+      "folder": "02_Doping_va_Gel_hoa",
+      "processed": true,
+      "stages": [
+        "GĐ6"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-051_Lignin_Binder_Free.md"
+    },
+    {
+      "paper_id": "P-052",
+      "file": "Preparation_of_hierarchical_porous_carbon_through_.md",
+      "folder": "02_Doping_va_Gel_hoa",
+      "processed": true,
+      "stages": [
+        "- **Processed:** true"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-052_MFC_PVDF_Membrane.md"
+    },
+    {
+      "paper_id": "P-053",
+      "file": "Production of cellulose aerogels from coir fibers.md",
+      "folder": "02_Doping_va_Gel_hoa",
+      "processed": true,
+      "stages": [
+        "GĐ6"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-053_Sericin_Binder_LiS.md"
+    },
+    {
+      "paper_id": "P-054",
+      "file": "Self-supported bimodal-pore structured nitrogen-doped carbon fiber.md",
+      "folder": "02_Doping_va_Gel_hoa",
+      "processed": true,
+      "stages": [
+        "GĐ7"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-054_Comparison_of_CA_Supercap.md"
+    },
+    {
+      "paper_id": "P-055",
+      "file": "Structural functionalization of industrial softwood kraft lignin.md",
+      "folder": "02_Doping_va_Gel_hoa",
+      "processed": true,
+      "stages": [
+        "GĐ7"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-055_Anh_huong_phu_gia_graphite.md"
+    },
+    {
+      "paper_id": "P-056",
+      "file": "Synthesis of Nitrogen and Phosphorus-Sulfur Co-Doped.md",
+      "folder": "02_Doping_va_Gel_hoa",
+      "processed": true,
+      "stages": [
+        "GĐ7"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-056_Carbonaceous_electrode.md"
+    },
+    {
+      "paper_id": "P-057",
+      "file": "Synthesizing Nitrogen-Doped Activated Carbon and Probing its Active Sites for.md",
+      "folder": "02_Doping_va_Gel_hoa",
+      "processed": true,
+      "stages": [
+        "GĐ7"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-057_Designs_Materials_Electrodes.md"
+    },
+    {
+      "paper_id": "P-058",
+      "file": "TONG HOP VAT LIEU MnO2CARBON AEROGEL UNG DUNG.md",
+      "folder": "02_Doping_va_Gel_hoa",
+      "processed": true,
+      "stages": [
+        "GĐ7"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-058_Fabrication_of_composited.md"
+    },
+    {
+      "paper_id": "P-059",
+      "file": "3 Kinetics of Supercritical Drying of Gels.md",
+      "folder": "03_Say_va_Nung_Nhiet_phan",
+      "processed": true,
+      "stages": [
+        "GĐ4"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-059_3_Kinetics_of_Supercritical_Dr.md"
+    },
+    {
+      "paper_id": "P-060",
+      "file": "3 Porous Starch Materials via Supercritical- and Freeze-Drying.md",
+      "folder": "03_Say_va_Nung_Nhiet_phan",
+      "processed": true,
+      "stages": [
+        "GĐ4"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-060_3_Porous_Starch_Materials_via_.md"
+    },
+    {
+      "paper_id": "P-061",
+      "file": "4 Cellulose-Hemicellulose Cellulose-Lignin Interactions during Fast Pyrolysis.md",
+      "folder": "03_Say_va_Nung_Nhiet_phan",
+      "processed": true,
+      "stages": [
+        "GĐ5"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-061_4_Cellulose-Hemicellulose_Cell.md"
+    },
+    {
+      "paper_id": "P-062",
+      "file": "Cellulose Diacetate Aerogels with Low Drying Shrinkage High-Efficient Thermal In.md",
+      "folder": "03_Say_va_Nung_Nhiet_phan",
+      "processed": true,
+      "stages": [
+        "GĐ4"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-062_Cellulose_Diacetate_Aerogels_w.md"
+    },
+    {
+      "paper_id": "P-063",
+      "file": "Improvement of Solvent Exchange for Supercritical Dried Aerogels.md",
+      "folder": "03_Say_va_Nung_Nhiet_phan",
+      "processed": true,
+      "stages": [
+        "GĐ8"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-063_N_doped_C_dots_H2O2_PA.md"
+    },
+    {
+      "paper_id": "P-064",
+      "file": "Lupin hull cellulose nanofiber aerogel preparation by supercritical CO2 and.md",
+      "folder": "03_Say_va_Nung_Nhiet_phan",
+      "processed": true,
+      "stages": [
+        "GĐ4"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-064_Lupin_hull_cellulose_nanofiber.md"
+    },
+    {
+      "paper_id": "P-065",
+      "file": "TONG HOP VAT LIEU CARBON NANO SOI TREN NEN THAN.md",
+      "folder": "03_Say_va_Nung_Nhiet_phan",
+      "processed": true,
+      "stages": [
+        "GĐ5"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-065_TONG_HOP_VAT_LIEU_CARBON_NANO_.md"
+    },
+    {
+      "paper_id": "P-066",
+      "file": "1 Biomass-Derived Carbon-Based Electrodes for Electrochemical Sensing.md",
+      "folder": "04_Cam_bien_Dien_hoa_Sinh_hoc",
+      "processed": true,
+      "stages": [
+        "- **Processed:** true"
+      ],
+      "domain": "Direct",
+      "card_path": "paper_cards/P-066_1_Biomass-Derived_Carbon-Based.md"
+    },
+    {
+      "paper_id": "P-067",
+      "file": "1 Comparative Study of Two Types of Iron Doped Carbon.md",
+      "folder": "04_Cam_bien_Dien_hoa_Sinh_hoc",
+      "processed": true,
+      "stages": [
+        "GĐ8"
+      ],
+      "domain": "Direct",
+      "card_path": "paper_cards/P-067_1_Comparative_Study_of_Two_Typ.md"
+    },
+    {
+      "paper_id": "P-068",
+      "file": "3D nitrogen-doped graphene aerogel a low-cost facile H2O2.md",
+      "folder": "04_Cam_bien_Dien_hoa_Sinh_hoc",
+      "processed": true,
+      "stages": [
+        "GĐ8"
+      ],
+      "domain": "Direct",
+      "card_path": "paper_cards/P-068_3D_nitrogen-doped_graphene_aer.md"
+    },
+    {
+      "paper_id": "P-069",
+      "file": "A glassy carbon electrode modified with N-doped carbon dots.md",
+      "folder": "04_Cam_bien_Dien_hoa_Sinh_hoc",
+      "processed": true,
+      "stages": [
+        "GĐ8"
+      ],
+      "domain": "Direct",
+      "card_path": "paper_cards/P-069_A_glassy_carbon_electrode_modi.md"
+    },
+    {
+      "paper_id": "P-070",
+      "file": "A Novel Bismuth-Chitosan Nanocomposite Sensor for Simultaneous Detection of Pb(II), Cd(II) and Zn(II) in Wastewater.md",
+      "folder": "04_Cam_bien_Dien_hoa_Sinh_hoc",
+      "processed": true,
+      "stages": [
+        "GĐ8"
+      ],
+      "domain": "Direct",
+      "card_path": "paper_cards/P-070_A_Novel_Bismuth-Chitosan_Nanoc.md"
+    },
+    {
+      "paper_id": "P-071",
+      "file": "Activated carbon derived from coconut coir pith as high performance.md",
+      "folder": "04_Cam_bien_Dien_hoa_Sinh_hoc",
+      "processed": true,
+      "stages": [
+        "GĐ1",
+        "GĐ2"
+      ],
+      "domain": "Direct",
+      "card_path": "paper_cards/P-071_Activated_carbon_derived_from_.md"
+    },
+    {
+      "paper_id": "P-072",
+      "file": "Activated carbons derived from coconut.md",
+      "folder": "04_Cam_bien_Dien_hoa_Sinh_hoc",
+      "processed": true,
+      "stages": [
+        "GĐ1",
+        "GĐ2"
+      ],
+      "domain": "Direct",
+      "card_path": "paper_cards/P-072_Activated_carbons_derived_from.md"
+    },
+    {
+      "paper_id": "P-073",
+      "file": "Activated Glassy Carbon Electrode as an Electrochemical Sensing Platform for.md",
+      "folder": "04_Cam_bien_Dien_hoa_Sinh_hoc",
+      "processed": true,
+      "stages": [
+        "GĐ8"
+      ],
+      "domain": "Direct",
+      "card_path": "paper_cards/P-073_Activated_Glassy_Carbon_Electr.md"
+    },
+    {
+      "paper_id": "P-074",
+      "file": "An ultrasensitive electrochemical sensor based on cotton.md",
+      "folder": "04_Cam_bien_Dien_hoa_Sinh_hoc",
+      "processed": true,
+      "stages": [
+        "GĐ1",
+        "GĐ2",
+        "GĐ8"
+      ],
+      "domain": "Direct",
+      "card_path": "paper_cards/P-074_An_ultrasensitive_electrochemi.md"
+    },
+    {
+      "paper_id": "P-075",
+      "file": "Application of an Electrochemical Sensor Based on Nitrogen-Doped Biochar Loaded with Ruthenium Oxide for Heavy Metal Detection.md",
+      "folder": "04_Cam_bien_Dien_hoa_Sinh_hoc",
+      "processed": true,
+      "stages": [
+        "GĐ8"
+      ],
+      "domain": "Direct",
+      "card_path": "paper_cards/P-075_Application_of_an_Electrochemi.md"
+    },
+    {
+      "paper_id": "P-076",
+      "file": "Carbon gel materials synthesis structural design and emerging applications in.md",
+      "folder": "04_Cam_bien_Dien_hoa_Sinh_hoc",
+      "processed": true,
+      "stages": [
+        "- **Processed:** true"
+      ],
+      "domain": "Direct",
+      "card_path": "paper_cards/P-076_Carbon_gel_materials_synthesis.md"
+    },
+    {
+      "paper_id": "P-077",
+      "file": "Carbon-based aerogels for biomedical sensing Advances toward designing the ideal.md",
+      "folder": "04_Cam_bien_Dien_hoa_Sinh_hoc",
+      "processed": true,
+      "stages": [
+        "- **Processed:** true"
+      ],
+      "domain": "Direct",
+      "card_path": "paper_cards/P-077_Carbon-based_aerogels_for_biom.md"
+    },
+    {
+      "paper_id": "P-078",
+      "file": "Cellulose-derived carbon aerogels A novel porous platform for.md",
+      "folder": "04_Cam_bien_Dien_hoa_Sinh_hoc",
+      "processed": true,
+      "stages": [
+        "GĐ3",
+        "GĐ4"
+      ],
+      "domain": "Direct",
+      "card_path": "paper_cards/P-078_Cellulose-derived_carbon_aerog.md"
+    },
+    {
+      "paper_id": "P-079",
+      "file": "Characteristics of Biomass-derived Carbon Materials and Their Applications.md",
+      "folder": "04_Cam_bien_Dien_hoa_Sinh_hoc",
+      "processed": true,
+      "stages": [
+        "OUT_OF_SCOPE"
+      ],
+      "domain": "Direct",
+      "card_path": "paper_cards/P-079_Characteristics_of_Biomass-der.md"
+    },
+    {
+      "paper_id": "P-080",
+      "file": "Construction of an electrochemical sensor with graphene aerogel doped with ZrO2 nanoparticles and chitosan for the selective detection of luteolin.md",
+      "folder": "04_Cam_bien_Dien_hoa_Sinh_hoc",
+      "processed": true,
+      "stages": [
+        "GĐ8"
+      ],
+      "domain": "Direct",
+      "card_path": "paper_cards/P-080_Construction_of_an_electrochem.md"
+    },
+    {
+      "paper_id": "P-081",
+      "file": "Electroanalytical Overview ScreenPrinted Electrochemical Sensing Platforms.md",
+      "folder": "04_Cam_bien_Dien_hoa_Sinh_hoc",
+      "processed": true,
+      "stages": [
+        "OUT_OF_SCOPE"
+      ],
+      "domain": "Direct",
+      "card_path": "paper_cards/P-081_Electroanalytical_Overview_Scr.md"
+    },
+    {
+      "paper_id": "P-082",
+      "file": "Electrochemical sensing of paracetamol based on sugarcane bagasse-activated biochar.md",
+      "folder": "04_Cam_bien_Dien_hoa_Sinh_hoc",
+      "processed": true,
+      "stages": [
+        "GĐ1",
+        "GĐ5",
+        "GĐ8"
+      ],
+      "domain": "Direct",
+      "card_path": "paper_cards/P-082_Electrochemical_sensing_of_par.md"
+    },
+    {
+      "paper_id": "P-083",
+      "file": "Electrochemical sensor based on N-doped carbon dots decorated with manganese.md",
+      "folder": "04_Cam_bien_Dien_hoa_Sinh_hoc",
+      "processed": true,
+      "stages": [
+        "GĐ2",
+        "GĐ5",
+        "GĐ8"
+      ],
+      "domain": "Direct",
+      "card_path": "paper_cards/P-083_Electrochemical_sensor_based_o.md"
+    },
+    {
+      "paper_id": "P-084",
+      "file": "Electrochemical Sensors for Heavy Metal Ion Detection in Aqueous Medium.md",
+      "folder": "04_Cam_bien_Dien_hoa_Sinh_hoc",
+      "processed": true,
+      "stages": [
+        "OUT_OF_SCOPE"
+      ],
+      "domain": "Direct",
+      "card_path": "paper_cards/P-084_Electrochemical_Sensors_for_He.md"
+    },
+    {
+      "paper_id": "P-085",
+      "file": "Electrodes Based on Carbon Aerogels Partially.md",
+      "folder": "04_Cam_bien_Dien_hoa_Sinh_hoc",
+      "processed": true,
+      "stages": [
+        "GĐ2",
+        "GĐ3",
+        "GĐ5",
+        "GĐ6",
+        "GĐ8"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-085_Electrodes_Based_on_Carbon_Aer.md"
+    },
+    {
+      "paper_id": "P-086",
+      "file": "Emerging trends in aerogel technology for sensing and biosensing applications.md",
+      "folder": "04_Cam_bien_Dien_hoa_Sinh_hoc",
+      "processed": true,
+      "stages": [
+        "GĐ2",
+        "GĐ3",
+        "GĐ4",
+        "GĐ5",
+        "GĐ8"
+      ],
+      "domain": "Mechanistic",
+      "card_path": "paper_cards/P-086_Emerging_trends_in_aerogel_tec.md"
+    },
+    {
+      "paper_id": "P-087",
+      "file": "Hierarchical Porous HeteroatomsCo-Doped Activated Carbon.md",
+      "folder": "04_Cam_bien_Dien_hoa_Sinh_hoc",
+      "processed": true,
+      "stages": [
+        "GĐ1",
+        "GĐ2",
+        "GĐ4",
+        "GĐ5",
+        "GĐ8"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-087_Hierarchical_Porous_Heteroatom.md"
+    },
+    {
+      "paper_id": "P-088",
+      "file": "IronNitrogen-Doped CarbonAerogels for Fluorescentand Electrochemical Dual-Mode D.md",
+      "folder": "04_Cam_bien_Dien_hoa_Sinh_hoc",
+      "processed": true,
+      "stages": [
+        "GĐ2",
+        "GĐ4",
+        "GĐ5",
+        "GĐ6",
+        "GĐ8"
+      ],
+      "domain": "Direct",
+      "card_path": "paper_cards/P-088_IronNitrogen-Doped_CarbonAerog.md"
+    },
+    {
+      "paper_id": "P-089",
+      "file": "Lignin-BasedPolypyrrole Carbon Nanofiber Electrode With Enhanced Electrochemical Properties by Electrospun Method.md",
+      "folder": "04_Cam_bien_Dien_hoa_Sinh_hoc",
+      "processed": true,
+      "stages": [
+        "GĐ2",
+        "GĐ5",
+        "GĐ8"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-089_Lignin-BasedPolypyrrole_Carbon.md"
+    },
+    {
+      "paper_id": "P-090",
+      "file": "NGHIÊN CỨU ỨNG DỤNG CẢM BIẾN SINH HỌC ĐIỆN HÓA TRÊN CƠ SỞ VI ĐIỆN CỰC BIẾN TÍNH XÁC ĐỊNH DƯ LƯỢNG THUỐC BẢO VỆ THỰC VẬT.md",
+      "folder": "04_Cam_bien_Dien_hoa_Sinh_hoc",
+      "processed": true,
+      "stages": [
+        "GĐ8"
+      ],
+      "domain": "Direct",
+      "card_path": "paper_cards/P-090_NGHIÊN_CỨU_ỨNG_DỤNG_CẢM_BIẾN_S.md"
+    },
+    {
+      "paper_id": "P-091",
+      "file": "Novel synthesis of carbon nanofiber aerogels from coconut matrix for.md",
+      "folder": "04_Cam_bien_Dien_hoa_Sinh_hoc",
+      "processed": true,
+      "stages": [
+        "GĐ1",
+        "GĐ4",
+        "GĐ5",
+        "GĐ8"
+      ],
+      "domain": "Direct",
+      "card_path": "paper_cards/P-091_Novel_synthesis_of_carbon_nano.md"
+    },
+    {
+      "paper_id": "P-092",
+      "file": "Organic aerogel as electro-catalytic support in.md",
+      "folder": "04_Cam_bien_Dien_hoa_Sinh_hoc",
+      "processed": true,
+      "stages": [
+        "GĐ2",
+        "GĐ3",
+        "GĐ5",
+        "GĐ8"
+      ],
+      "domain": "Mechanistic",
+      "card_path": "paper_cards/P-092_Organic_aerogel_as_electro-cat.md"
+    },
+    {
+      "paper_id": "P-093",
+      "file": "Palladium Nanoparticle Incorporated Porous Activated Carbon Electrochemical Detection of Toxic Metal Ions.md",
+      "folder": "04_Cam_bien_Dien_hoa_Sinh_hoc",
+      "processed": true,
+      "stages": [
+        "GĐ1",
+        "GĐ5",
+        "GĐ6",
+        "GĐ8"
+      ],
+      "domain": "Direct",
+      "card_path": "paper_cards/P-093_Palladium_Nanoparticle_Incorpo.md"
+    },
+    {
+      "paper_id": "P-094",
+      "file": "Performance and mechanisms of waste-based carbon adsorbents in heavy metal.md",
+      "folder": "04_Cam_bien_Dien_hoa_Sinh_hoc",
+      "processed": true,
+      "stages": [
+        "GĐ5",
+        "GĐ7"
+      ],
+      "domain": "Direct",
+      "card_path": "paper_cards/P-094_Performance_and_mechanisms_of_.md"
+    },
+    {
+      "paper_id": "P-095",
+      "file": "PHAN HUY p-NITROPHENOL BANG KY THUAT FENTON DIEN HOA SU.md",
+      "folder": "04_Cam_bien_Dien_hoa_Sinh_hoc",
+      "processed": true,
+      "stages": [
+        "GĐ8"
+      ],
+      "domain": "Direct",
+      "card_path": "paper_cards/P-095_PHAN_HUY_p-NITROPHENOL_BANG_KY.md"
+    },
+    {
+      "paper_id": "P-096",
+      "file": "Principal Component Analysis of Biomass-Derived Carbon Aerogels Unveiling Key Pe.md",
+      "folder": "04_Cam_bien_Dien_hoa_Sinh_hoc",
+      "processed": true,
+      "stages": [
+        "GĐ2",
+        "GĐ5"
+      ],
+      "domain": "Direct",
+      "card_path": "paper_cards/P-096_Principal_Component_Analysis_o.md"
+    },
+    {
+      "paper_id": "P-097",
+      "file": "Research Advances on Biomass Derived Carbon Aerogel.md",
+      "folder": "04_Cam_bien_Dien_hoa_Sinh_hoc",
+      "processed": true,
+      "stages": [
+        "GĐ2",
+        "GĐ3",
+        "GĐ4",
+        "GĐ5"
+      ],
+      "domain": "Direct",
+      "card_path": "paper_cards/P-097_Research_Advances_on_Biomass_D.md"
+    },
+    {
+      "paper_id": "P-098",
+      "file": "Simultaneous determination of trace Cd(II), Pb(II) and Cu(II).md",
+      "folder": "04_Cam_bien_Dien_hoa_Sinh_hoc",
+      "processed": true,
+      "stages": [
+        "GĐ8"
+      ],
+      "domain": "Direct",
+      "card_path": "paper_cards/P-098_Simultaneous_determination_of_.md"
+    },
+    {
+      "paper_id": "P-099",
+      "file": "Tong hop truc tiep cacbon mao quan tu tinh tu.md",
+      "folder": "04_Cam_bien_Dien_hoa_Sinh_hoc",
+      "processed": true,
+      "stages": [
+        "GĐ5",
+        "GĐ6"
+      ],
+      "domain": "Direct",
+      "card_path": "paper_cards/P-099_Tong_hop_truc_tiep_cacbon_mao_.md"
+    },
+    {
+      "paper_id": "P-100",
+      "file": "A carbon electrode fabricated using a polyvinylidene fluoride binder controlled.md",
+      "folder": "05_Cross_Linker_va_Tao_mang",
+      "processed": true,
+      "stages": [
+        "GĐ6"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-100_A_carbon_electrode_fabricated_.md"
+    },
+    {
+      "paper_id": "P-101",
+      "file": "A screen-printed carbon electrode modified with a chitosan-based film for.md",
+      "folder": "05_Cross_Linker_va_Tao_mang",
+      "processed": true,
+      "stages": [
+        "GĐ6"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-101_A_screen-printed_carbon_electr.md"
+    },
+    {
+      "paper_id": "P-102",
+      "file": "A top modification strategy for enhancing the ability of a.md",
+      "folder": "05_Cross_Linker_va_Tao_mang",
+      "processed": true,
+      "stages": [
+        "GĐ1"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-102_A_top_modification_strategy_fo.md"
+    },
+    {
+      "paper_id": "P-103",
+      "file": "Comparative Study on Chitosans as Green Binder Materials for LiMn2O4.md",
+      "folder": "05_Cross_Linker_va_Tao_mang",
+      "processed": true,
+      "stages": [
+        "GĐ6"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-103_Comparative_Study_on_Chitosans.md"
+    },
+    {
+      "paper_id": "P-104",
+      "file": "Hierarchical Cross-Linked Carbon Aerogels with Transition.md",
+      "folder": "05_Cross_Linker_va_Tao_mang",
+      "processed": true,
+      "stages": [
+        "GĐ6"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-104_Hierarchical_Cross-Linked_Carb.md"
+    },
+    {
+      "paper_id": "P-105",
+      "file": "High-performance nanostructured bio-based carbon.md",
+      "folder": "05_Cross_Linker_va_Tao_mang",
+      "processed": true,
+      "stages": [
+        "- **Processed:** true"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-105_High-performance_nanostructure.md"
+    },
+    {
+      "paper_id": "P-106",
+      "file": "High-Performance Supercapacitor Electrodes from Fully Biomass-Based Polybenzoxaz.md",
+      "folder": "05_Cross_Linker_va_Tao_mang",
+      "processed": true,
+      "stages": [
+        "GĐ6"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-106_High-Performance_Supercapacito.md"
+    },
+    {
+      "paper_id": "P-107",
+      "file": "Lignin Nanofiber Flexible Carbon Aerogels for SelfStanding Supercapacitors.md",
+      "folder": "05_Cross_Linker_va_Tao_mang",
+      "processed": true,
+      "stages": [
+        "GĐ6"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-107_Lignin_Nanofiber_Flexible_Carb.md"
+    },
+    {
+      "paper_id": "P-108",
+      "file": "PVDF-Modified_Nafion_Membrane_for_Improved_Perform.md",
+      "folder": "05_Cross_Linker_va_Tao_mang",
+      "processed": true,
+      "stages": [
+        "- **Processed:** true"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-108_PVDF-Modified_Nafion_Membrane_.md"
+    },
+    {
+      "paper_id": "P-109",
+      "file": "Sustainable Protein-Based Binder for Lithium-Sulfur Cathodes Processed by a Solv.md",
+      "folder": "05_Cross_Linker_va_Tao_mang",
+      "processed": true,
+      "stages": [
+        "GĐ6"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-109_Sustainable_Protein-Based_Bind.md"
+    },
+    {
+      "paper_id": "P-110",
+      "file": "A Comparison of Electrochemical Performance of.md",
+      "folder": "06_Setup_Do_Dien_hoa",
+      "processed": true,
+      "stages": [
+        "GĐ7"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-110_A_Comparison_of_Electrochemica.md"
+    },
+    {
+      "paper_id": "P-111",
+      "file": "Anh huong cua phu gia dan dien graphite den kha.md",
+      "folder": "06_Setup_Do_Dien_hoa",
+      "processed": true,
+      "stages": [
+        "GĐ7"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-111_Anh_huong_cua_phu_gia_dan_dien.md"
+    },
+    {
+      "paper_id": "P-112",
+      "file": "Carbonaceous electrode.md",
+      "folder": "06_Setup_Do_Dien_hoa",
+      "processed": true,
+      "stages": [
+        "GĐ7"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-112_Carbonaceous_electrode.md"
+    },
+    {
+      "paper_id": "P-113",
+      "file": "Designs and Materials of Electrodes for Electrochemical Sensors.md",
+      "folder": "06_Setup_Do_Dien_hoa",
+      "processed": true,
+      "stages": [
+        "GĐ7"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-113_Designs_and_Materials_of_Elect.md"
+    },
+    {
+      "paper_id": "P-114",
+      "file": "Fabrication of composited electrode based on coconut activated carbon and.md",
+      "folder": "06_Setup_Do_Dien_hoa",
+      "processed": true,
+      "stages": [
+        "GĐ7"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-114_Fabrication_of_composited_elec.md"
+    },
+    {
+      "paper_id": "P-115",
+      "file": "Preparation of Carbon Aerogel Electrode for Electrosorption of Copper Ions.md",
+      "folder": "06_Setup_Do_Dien_hoa",
+      "processed": true,
+      "stages": [
+        "GĐ7"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-115_Preparation_of_Carbon_Aerogel_.md"
+    },
+    {
+      "paper_id": "P-116",
+      "file": "1 Fabrication Of Carbon Aerogels From Coir For Oil Adsorption.md",
+      "folder": "08_Review_va_Tong_quan",
+      "processed": true,
+      "stages": [
+        "GĐ1",
+        "GĐ2",
+        "GĐ3",
+        "GĐ5"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-116_1_Fabrication_Of_Carbon_Aeroge.md"
+    },
+    {
+      "paper_id": "P-117",
+      "file": "A General Approach to Preferential Formation Electrocatalysts for ORR.md",
+      "folder": "08_Review_va_Tong_quan",
+      "processed": true,
+      "stages": [
+        "GĐ5",
+        "GĐ6"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-117_A_General_Approach_to_Preferen.md"
+    },
+    {
+      "paper_id": "P-118",
+      "file": "A_carbonized_coconut_husk_for_supercapacitor_elect.md",
+      "folder": "08_Review_va_Tong_quan",
+      "processed": true,
+      "stages": [
+        "GĐ1",
+        "GĐ5"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-118_A_carbonized_coconut_husk_for_.md"
+    },
+    {
+      "paper_id": "P-119",
+      "file": "Bio-Based Aerogels for the Removal of Heavy Metal Ions and.md",
+      "folder": "08_Review_va_Tong_quan",
+      "processed": true,
+      "stages": [
+        "GĐ1",
+        "GĐ2",
+        "GĐ3",
+        "GĐ5"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-119_Bio-Based_Aerogels_for_the_Rem.md"
+    },
+    {
+      "paper_id": "P-120",
+      "file": "Bio-Based Aerogels in Energy Storage Systems.md",
+      "folder": "08_Review_va_Tong_quan",
+      "processed": true,
+      "stages": [
+        "GĐ2",
+        "GĐ3",
+        "GĐ5"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-120_Bio-Based_Aerogels_in_Energy_S.md"
+    },
+    {
+      "paper_id": "P-121",
+      "file": "Biomass-Derived Carbon Aerogels for ORR OER Bifunctional Oxygen Electrodes.md",
+      "folder": "08_Review_va_Tong_quan",
+      "processed": true,
+      "stages": [
+        "GĐ5",
+        "GĐ6"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-121_Biomass-Derived_Carbon_Aerogel.md"
+    },
+    {
+      "paper_id": "P-122",
+      "file": "CAN NHAC PdDoped Cellulose Carbon Aerogels for Energy Storage Applications.md",
+      "folder": "08_Review_va_Tong_quan",
+      "processed": true,
+      "stages": [
+        "GĐ2",
+        "GĐ5",
+        "GĐ6"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-122_CAN_NHAC_PdDoped_Cellulose_Car.md"
+    },
+    {
+      "paper_id": "P-123",
+      "file": "Carbon Aerogels as Electrocatalysts for Sustainable Energy Applications Recent D.md",
+      "folder": "08_Review_va_Tong_quan",
+      "processed": true,
+      "stages": [
+        "GĐ5",
+        "GĐ6"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-123_Carbon_Aerogels_as_Electrocata.md"
+    },
+    {
+      "paper_id": "P-124",
+      "file": "Carbon Aerogels for Environmental Clean-Up.md",
+      "folder": "08_Review_va_Tong_quan",
+      "processed": true,
+      "stages": [
+        "GĐ5"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-124_Carbon_Aerogels_for_Environmen.md"
+    },
+    {
+      "paper_id": "P-125",
+      "file": "Carbon Aerogels Synthesis Modification and Multifunctional Applications.md",
+      "folder": "08_Review_va_Tong_quan",
+      "processed": true,
+      "stages": [
+        "GĐ2",
+        "GĐ3",
+        "GĐ4",
+        "GĐ5",
+        "GĐ6"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-125_Carbon_Aerogels_Synthesis_Modi.md"
+    },
+    {
+      "paper_id": "P-126",
+      "file": "Cellulose and its derivatives towards biomedical applications.md",
+      "folder": "08_Review_va_Tong_quan",
+      "processed": true,
+      "stages": [
+        "GĐ0",
+        "GĐ1"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-126_Cellulose_and_its_derivatives_.md"
+    },
+    {
+      "paper_id": "P-127",
+      "file": "Cellulose crystallinity index measurement techniques and their impact on interpreting cellulase performance.md",
+      "folder": "08_Review_va_Tong_quan",
+      "processed": true,
+      "stages": [
+        "GĐ0",
+        "GĐ1"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-127_Cellulose_crystallinity_index_.md"
+    },
+    {
+      "paper_id": "P-128",
+      "file": "Electrochemical performance of supercapacitor electrodes based on carbon.md",
+      "folder": "08_Review_va_Tong_quan",
+      "processed": true,
+      "stages": [
+        "GĐ2",
+        "GĐ5",
+        "GĐ8"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-128_Electrochemical_performance_of.md"
+    },
+    {
+      "paper_id": "P-129",
+      "file": "From Cellulose Dissolution and Regeneration to Added Value Applications — Synergism Between Molecular Understanding and Material Development.md",
+      "folder": "08_Review_va_Tong_quan",
+      "processed": true,
+      "stages": [
+        "GĐ0",
+        "GĐ1"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-129_From_Cellulose_Dissolution_and.md"
+    },
+    {
+      "paper_id": "P-130",
+      "file": "Kraft Lignin-Derived Microporous Nitrogen-Doped Carbon Adsorbent for Air and Water Purification.md",
+      "folder": "08_Review_va_Tong_quan",
+      "processed": true,
+      "stages": [
+        "GĐ5",
+        "GĐ6",
+        "GĐ8"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-130_Kraft_Lignin-Derived_Microporo.md"
+    },
+    {
+      "paper_id": "P-131",
+      "file": "New Insights on the Role of Urea on the Dissolution.md",
+      "folder": "08_Review_va_Tong_quan",
+      "processed": true,
+      "stages": [
+        "GĐ1",
+        "GĐ2"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-131_New_Insights_on_the_Role_of_Ur.md"
+    },
+    {
+      "paper_id": "P-132",
+      "file": "Potential of Carbon Aerogels in Energy.md",
+      "folder": "08_Review_va_Tong_quan",
+      "processed": true,
+      "stages": [
+        "GĐ2",
+        "GĐ4",
+        "GĐ5",
+        "GĐ6"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-132_Potential_of_Carbon_Aerogels_i.md"
+    },
+    {
+      "paper_id": "P-133",
+      "file": "Recent Developments in Carbon-Based Nanocomposites for Fuel Cell Applications A.md",
+      "folder": "08_Review_va_Tong_quan",
+      "processed": true,
+      "stages": [
+        "GĐ2",
+        "GĐ5",
+        "GĐ6",
+        "GĐ8"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-133_Recent_Developments_in_Carbon-.md"
+    },
+    {
+      "paper_id": "P-134",
+      "file": "Sustainable Approach to Fabricate High-Performance Symmetry.md",
+      "folder": "08_Review_va_Tong_quan",
+      "processed": true,
+      "stages": [
+        "GĐ5",
+        "GĐ8"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-134_Sustainable_Approach_to_Fabric.md"
+    },
+    {
+      "paper_id": "P-135",
+      "file": "THAM KHAO A photothermal MoS2 decorated biomass carbonbased aerogel with.md",
+      "folder": "08_Review_va_Tong_quan",
+      "processed": true,
+      "stages": [
+        "GĐ0",
+        "GĐ5",
+        "GĐ8"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-135_THAM_KHAO_A_photothermal_MoS2_.md"
+    },
+    {
+      "paper_id": "P-136",
+      "file": "The effect of synthesis conditions and process parameters on aerogel.md",
+      "folder": "08_Review_va_Tong_quan",
+      "processed": true,
+      "stages": [
+        "None"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-136_The_effect_of_synthesis_condit.md"
+    },
+    {
+      "paper_id": "P-137",
+      "file": "TOM_TAT_NTXPhuong.md",
+      "folder": "08_Review_va_Tong_quan",
+      "processed": true,
+      "stages": [
+        "GĐ0",
+        "GĐ1",
+        "GĐ2",
+        "GĐ3",
+        "GĐ8"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-137_TOM_TAT_NTXPhuong.md"
+    },
+    {
+      "paper_id": "P-138",
+      "file": "TOM_TAT_TIEU_BIEU_6_BAI_BAO.md",
+      "folder": "08_Review_va_Tong_quan",
+      "processed": true,
+      "stages": [
+        "GĐ2",
+        "GĐ5",
+        "GĐ6",
+        "GĐ8"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-138_TOM_TAT_TIEU_BIEU_6_BAI_BAO.md"
+    },
+    {
+      "paper_id": "P-139",
+      "file": "Unique Gelation Behavior of Cellulose in NaOH Urea Aqueous Solution.md",
+      "folder": "08_Review_va_Tong_quan",
+      "processed": true,
+      "stages": [
+        "GĐ1",
+        "GĐ2"
+      ],
+      "domain": "Analogical",
+      "card_path": "paper_cards/P-139_Unique_Gelation_Behavior_of_Ce.md"
+    }
+  ]
+}

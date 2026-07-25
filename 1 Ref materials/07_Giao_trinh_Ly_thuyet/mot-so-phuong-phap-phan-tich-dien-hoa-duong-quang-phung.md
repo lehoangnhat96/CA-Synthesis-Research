@@ -19,10 +19,10 @@ p
 NHẢ XUẤT BẢN ĐẠI HỌC sư PHẠM
 
 
-![Ảnh 1](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-1-img-1.jpx)
+![Ảnh 1](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-1-img-1.jpx)
 
 
-![Ảnh 2](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-1-img-2.jpx)
+![Ảnh 2](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-1-img-2.jpx)
 
 ## Page 2
 
@@ -33,7 +33,7 @@ PHÂN TÍCH ĐIỆN HOÁ
 NHÀ XUẤT BẢN ĐẠI HỌC SƯPHẠM
 
 
-![Ảnh 3](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-2-img-1.png)
+![Ảnh 3](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-2-img-1.png)
 
 ## Page 3
 
@@ -69,7 +69,7 @@ Chương 3. Phương pháp phân tích điện phân............................
 ạ
 
 
-![Ảnh 4](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-3-img-1.png)
+![Ảnh 4](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-3-img-1.png)
 
 ## Page 4
 
@@ -110,7 +110,7 @@ Vị.;:: ii-\ìO t' ĨỄri.,''
 4
 
 
-![Ảnh 5](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-4-img-1.png)
+![Ảnh 5](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-4-img-1.png)
 
 ## Page 5
 
@@ -214,7 +214,7 @@ hệ số Ilkovic
 5
 
 
-![Ảnh 6](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-5-img-1.png)
+![Ảnh 6](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-5-img-1.png)
 
 ## Page 6
 
@@ -308,7 +308,7 @@ thể tích giọt Hg (mm3)
 6
 
 
-![Ảnh 7](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-6-img-1.png)
+![Ảnh 7](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-6-img-1.png)
 
 ## Page 7
 
@@ -352,7 +352,7 @@ _
 A
 
 
-![Ảnh 8](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-7-img-1.png)
+![Ảnh 8](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-7-img-1.png)
 
 ## Page 8
 
@@ -398,7 +398,7 @@ theo tín chỉ: 2 tín chì tương đưong 30 giờ), chúng tôi tập trung 
 1
 
 
-![Ảnh 9](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-8-img-1.png)
+![Ảnh 9](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-8-img-1.png)
 
 ## Page 9
 
@@ -441,7 +441,7 @@ Tác giả
 9
 
 
-![Ảnh 10](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-9-img-1.png)
+![Ảnh 10](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-9-img-1.png)
 
 ## Page 10
 
@@ -489,7 +489,7 @@ electron là không định hướng mà Ịà hỗn độn trọng toàn bộ m
 11
 
 
-![Ảnh 11](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-10-img-1.png)
+![Ảnh 11](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-10-img-1.png)
 
 ## Page 11
 
@@ -524,7 +524,7 @@ chất điện hoạt (phári tích) nhằứì đảm bảơ tính dẵh đỉ�
 12
 
 
-![Ảnh 12](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-11-img-1.png)
+![Ảnh 12](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-11-img-1.png)
 
 ## Page 12
 
@@ -566,7 +566,7 @@ trên 2 điện cực xảy ra cấc cẵn bằrig; cân bằng của mỏi đi�
 13
 
 
-![Ảnh 13](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-12-img-1.png)
+![Ảnh 13](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-12-img-1.png)
 
 ## Page 13
 
@@ -608,7 +608,7 @@ niệm anot và catot mà khôug, qói cực dựơng.hay cực ậm. Cực âm 
 ẠA
 
 
-![Ảnh 14](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-13-img-1.png)
+![Ảnh 14](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-13-img-1.png)
 
 ## Page 14
 
@@ -640,7 +640,7 @@ hiệu giữa hai bản tụ E ^ị và E^:
 hS
 
 
-![Ảnh 15](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-14-img-1.png)
+![Ảnh 15](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-14-img-1.png)
 
 ## Page 15
 
@@ -681,7 +681,7 @@ theo chiều anot. Những hệ loại này cân bằng được thiết lập r
 16
 
 
-![Ảnh 16](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-15-img-1.png)
+![Ảnh 16](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-15-img-1.png)
 
 ## Page 16
 
@@ -717,7 +717,7 @@ thành nguyên tử Zn trung hoà.
 17
 
 
-![Ảnh 17](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-16-img-1.png)
+![Ảnh 17](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-16-img-1.png)
 
 ## Page 17
 
@@ -766,7 +766,7 @@ J
 18
 
 
-![Ảnh 18](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-17-img-1.png)
+![Ảnh 18](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-17-img-1.png)
 
 ## Page 18
 
@@ -803,7 +803,7 @@ của pin (1.1), nếu điện cực kẽm trong điều kiộn chuẩn hoạt �
 19
 
 
-![Ảnh 19](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-18-img-1.png)
+![Ảnh 19](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-18-img-1.png)
 
 ## Page 19
 
@@ -844,7 +844,7 @@ u
 20
 
 
-![Ảnh 20](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-19-img-1.png)
+![Ảnh 20](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-19-img-1.png)
 
 ## Page 20
 
@@ -906,7 +906,7 @@ phần của H2.
 21
 
 
-![Ảnh 21](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-20-img-1.png)
+![Ảnh 21](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-20-img-1.png)
 
 ## Page 21
 
@@ -951,7 +951,7 @@ và biểu thức (1.13) có thể viết dưới dạng:
 22
 
 
-![Ảnh 22](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-21-img-1.png)
+![Ảnh 22](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-21-img-1.png)
 
 ## Page 22
 
@@ -1023,7 +1023,7 @@ Ví dụ sử dụrtg điện cực Ag, AgCIỊCr làm điện cực so sánh th
 23
 
 
-![Ảnh 23](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-22-img-1.png)
+![Ảnh 23](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-22-img-1.png)
 
 ## Page 23
 
@@ -1065,7 +1065,7 @@ chuẩn hoá chính xác theo điện cực hiđro tiêu chuẩn.
 24
 
 
-![Ảnh 24](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-23-img-1.png)
+![Ảnh 24](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-23-img-1.png)
 
 ## Page 24
 
@@ -1115,7 +1115,7 @@ bạc -  bạc clorua
 25
 
 
-![Ảnh 25](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-24-img-1.png)
+![Ảnh 25](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-24-img-1.png)
 
 ## Page 25
 
@@ -1171,7 +1171,7 @@ ECat = 0,2678-0,059 lg(Cr)
 26
 
 
-![Ảnh 26](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-25-img-1.png)
+![Ảnh 26](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-25-img-1.png)
 
 ## Page 26
 
@@ -1257,7 +1257,7 @@ Pt (H,) I ir , G" I AgCI, Ag
 27
 
 
-![Ảnh 27](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-26-img-1.png)
+![Ảnh 27](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-26-img-1.png)
 
 ## Page 27
 
@@ -1305,7 +1305,7 @@ Hình 1.8. Sự hình thành thế khuếch tàn
 28
 
 
-![Ảnh 28](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-27-img-1.png)
+![Ảnh 28](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-27-img-1.png)
 
 ## Page 28
 
@@ -1355,7 +1355,7 @@ dịch đo, và từ giá trị thế đo được nếu tính các giá trị t
 29
 
 
-![Ảnh 29](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-28-img-1.png)
+![Ảnh 29](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-28-img-1.png)
 
 ## Page 29
 
@@ -1400,7 +1400,7 @@ Nemst
 30
 
 
-![Ảnh 30](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-29-img-1.png)
+![Ảnh 30](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-29-img-1.png)
 
 ## Page 30
 
@@ -1453,7 +1453,7 @@ H2
 31
 
 
-![Ảnh 31](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-30-img-1.png)
+![Ảnh 31](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-30-img-1.png)
 
 ## Page 31
 
@@ -1490,7 +1490,7 @@ Thế của điện cực đừợc xác đinh:
 32
 
 
-![Ảnh 32](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-31-img-1.png)
+![Ảnh 32](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-31-img-1.png)
 
 ## Page 32
 
@@ -1531,7 +1531,7 @@ phương trình Nemst:
 33
 
 
-![Ảnh 33](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-32-img-1.png)
+![Ảnh 33](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-32-img-1.png)
 
 ## Page 33
 
@@ -1575,7 +1575,7 @@ Y
 34
 
 
-![Ảnh 34](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-33-img-1.png)
+![Ảnh 34](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-33-img-1.png)
 
 ## Page 34
 
@@ -1619,7 +1619,7 @@ V
 35
 
 
-![Ảnh 35](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-34-img-1.png)
+![Ảnh 35](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-34-img-1.png)
 
 ## Page 35
 
@@ -1658,7 +1658,7 @@ E.
 36
 
 
-![Ảnh 36](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-35-img-1.png)
+![Ảnh 36](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-35-img-1.png)
 
 ## Page 36
 
@@ -1708,7 +1708,7 @@ Vì vậy phương trình tính thế của điện cực chỉ còn:
 37
 
 
-![Ảnh 37](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-36-img-1.png)
+![Ảnh 37](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-36-img-1.png)
 
 ## Page 37
 
@@ -1755,7 +1755,7 @@ rắn dang được chế tạo và sử dụng.rộng rãi. Một trong các đ
 38
 
 
-![Ảnh 38](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-37-img-1.png)
+![Ảnh 38](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-37-img-1.png)
 
 ## Page 38
 
@@ -1788,7 +1788,7 @@ Dolẹ qó,t|iàíỊỈx phần ậốỊn:
 39
 
 
-![Ảnh 39](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-38-img-1.png)
+![Ảnh 39](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-38-img-1.png)
 
 ## Page 39
 
@@ -1842,7 +1842,7 @@ ionH+.
 40
 
 
-![Ảnh 40](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-39-img-1.png)
+![Ảnh 40](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-39-img-1.png)
 
 ## Page 40
 
@@ -1916,7 +1916,7 @@ là như nhau thì:
 41
 
 
-![Ảnh 41](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-40-img-1.png)
+![Ảnh 41](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-40-img-1.png)
 
 ## Page 41
 
@@ -1976,7 +1976,7 @@ dung địch nghiên cứu.
 42
 
 
-![Ảnh 42](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-41-img-1.png)
+![Ảnh 42](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-41-img-1.png)
 
 ## Page 42
 
@@ -2052,7 +2052,7 @@ tin cậy hơn
 43
 
 
-![Ảnh 43](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-42-img-1.png)
+![Ảnh 43](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-42-img-1.png)
 
 ## Page 43
 
@@ -2095,7 +2095,7 @@ cực, cho nên chúng sẽ hoạt động trao đổi khác nhau, ngáy từ l�
 44
 
 
-![Ảnh 44](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-43-img-1.png)
+![Ảnh 44](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-43-img-1.png)
 
 ## Page 44
 
@@ -2130,7 +2130,7 @@ của dung dịch cần đo tăng.
 45
 
 
-![Ảnh 45](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-44-img-1.png)
+![Ảnh 45](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-44-img-1.png)
 
 ## Page 45
 
@@ -2178,7 +2178,7 @@ dung dịch nghiên cứu.
 46
 
 
-![Ảnh 46](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-45-img-1.png)
+![Ảnh 46](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-45-img-1.png)
 
 ## Page 46
 
@@ -2213,7 +2213,7 @@ Hình 1.14. Cấu tạo cùa điện cục chọn lọc iơn.
 47
 
 
-![Ảnh 47](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-46-img-1.png)
+![Ảnh 47](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-46-img-1.png)
 
 ## Page 47
 
@@ -2253,7 +2253,7 @@ cực bền trong và thể màng:
 48
 
 
-![Ảnh 48](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-47-img-1.png)
+![Ảnh 48](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-47-img-1.png)
 
 ## Page 48
 
@@ -2310,7 +2310,7 @@ nF
 49
 
 
-![Ảnh 49](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-48-img-1.png)
+![Ảnh 49](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-48-img-1.png)
 
 ## Page 49
 
@@ -2346,7 +2346,7 @@ lg(X)(2)
 I
 
 
-![Ảnh 50](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-49-img-1.png)
+![Ảnh 50](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-49-img-1.png)
 
 ## Page 50
 
@@ -2385,7 +2385,7 @@ lượng này phụ thủộc vào những yếu tố nào).
 Cổ 3 loại điện cực chọn lọc ion;
 
 
-![Ảnh 51](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-50-img-1.png)
+![Ảnh 51](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-50-img-1.png)
 
 ## Page 51
 
@@ -2415,7 +2415,7 @@ và AgjSI. Màng cùa bầu điộn cực thuỷ tính cũrig thuộc loại mà
 52
 
 
-![Ảnh 52](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-51-img-1.png)
+![Ảnh 52](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-51-img-1.png)
 
 ## Page 52
 
@@ -2461,7 +2461,7 @@ tạp và ít sử dụng trong thực tế phân tích.
 53
 
 
-![Ảnh 53](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-52-img-1.png)
+![Ảnh 53](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-52-img-1.png)
 
 ## Page 53
 
@@ -2517,7 +2517,7 @@ Và có thổ xảy ra hai tnròng hợp:
 -  Nếu hoạt độ của Q “ thoả mãn:
 
 
-![Ảnh 54](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-53-img-1.png)
+![Ảnh 54](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-53-img-1.png)
 
 ## Page 54
 
@@ -2567,7 +2567,7 @@ Hình 1.19. Sự phụ thuộc thế màng vào hoạt độ r ỏ các hoạt �
 55
 
 
-![Ảnh 55](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-54-img-1.png)
+![Ảnh 55](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-54-img-1.png)
 
 ## Page 55
 
@@ -2606,7 +2606,7 @@ Moady và TTiomas đã đưa ra phương pháp chế tạo Tĩiàng điện cự
 56
 
 
-![Ảnh 56](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-55-img-1.png)
+![Ảnh 56](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-55-img-1.png)
 
 ## Page 56
 
@@ -2649,7 +2649,7 @@ hay còn gọi là “màng lỏng”. Ví dụ:
 57
 
 
-![Ảnh 57](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-56-img-1.png)
+![Ảnh 57](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-56-img-1.png)
 
 ## Page 57
 
@@ -2690,7 +2690,7 @@ kMX=ex
 58
 
 
-![Ảnh 58](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-57-img-1.png)
+![Ảnh 58](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-57-img-1.png)
 
 ## Page 58
 
@@ -2746,7 +2746,7 @@ M+ còn có ion ảnh hưởng đến việc xác định nồng của M+ là c*
 59
 
 
-![Ảnh 59](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-58-img-1.png)
+![Ảnh 59](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-58-img-1.png)
 
 ## Page 59
 
@@ -2803,7 +2803,7 @@ Thế của điện cục chọn lọc ion được tính theo phương trinh Ni
 60
 
 
-![Ảnh 60](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-59-img-1.png)
+![Ảnh 60](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-59-img-1.png)
 
 ## Page 60
 
@@ -2848,7 +2848,7 @@ n
 61
 
 
-![Ảnh 61](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-60-img-1.png)
+![Ảnh 61](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-60-img-1.png)
 
 ## Page 61
 
@@ -2937,7 +2937,7 @@ MX
 62
 
 
-![Ảnh 62](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-61-img-1.png)
+![Ảnh 62](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-61-img-1.png)
 
 ## Page 62
 
@@ -3030,7 +3030,7 @@ khác
 63
 
 
-![Ảnh 63](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-62-img-1.png)
+![Ảnh 63](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-62-img-1.png)
 
 ## Page 63
 
@@ -3129,7 +3129,7 @@ coị-
 64
 
 
-![Ảnh 64](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-63-img-1.png)
+![Ảnh 64](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-63-img-1.png)
 
 ## Page 64
 
@@ -3192,7 +3192,7 @@ phản ứng với H20  theo phản ứng:
 65
 
 
-![Ảnh 65](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-64-img-1.png)
+![Ảnh 65](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-64-img-1.png)
 
 ## Page 65
 
@@ -3276,7 +3276,7 @@ hoặc A g Ầ
 66
 
 
-![Ảnh 66](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-65-img-1.png)
+![Ảnh 66](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-65-img-1.png)
 
 ## Page 66
 
@@ -3348,7 +3348,7 @@ hoành); khoảng cách giữa hai dòng này tạo nên một khoảng cách g�
 67
 
 
-![Ảnh 67](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-66-img-1.png)
+![Ảnh 67](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-66-img-1.png)
 
 ## Page 67
 
@@ -3378,7 +3378,7 @@ dung'dịch chất điện li trơ chứa ion NHJ, Na* thì điểm kết thúc 
 68
 
 
-![Ảnh 68](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-67-img-1.png)
+![Ảnh 68](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-67-img-1.png)
 
 ## Page 68
 
@@ -3396,7 +3396,7 @@ nằm ngoài khoảng điộn hoạt đang được nghiên cứu.
 69
 
 
-![Ảnh 69](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-68-img-1.png)
+![Ảnh 69](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-68-img-1.png)
 
 ## Page 69
 
@@ -3437,7 +3437,7 @@ có ngtiĩa iă phản ứng điện tióẩ xầy ra trên bề mặt điện c
 71
 
 
-![Ảnh 70](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-69-img-1.png)
+![Ảnh 70](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-69-img-1.png)
 
 ## Page 70
 
@@ -3485,7 +3485,7 @@ cãm điện cực so sánh và cẩu nối chứa muối trơ KC1 hoặc KNOj t
 72
 
 
-![Ảnh 71](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-70-img-1.png)
+![Ảnh 71](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-70-img-1.png)
 
 ## Page 71
 
@@ -3519,7 +3519,7 @@ phương pháp sau:
 73
 
 
-![Ảnh 72](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-71-img-1.png)
+![Ảnh 72](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-71-img-1.png)
 
 ## Page 72
 
@@ -3548,7 +3548,7 @@ từng phần của thuốc thử.
 74
 
 
-![Ảnh 73](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-72-img-1.png)
+![Ảnh 73](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-72-img-1.png)
 
 ## Page 73
 
@@ -3588,7 +3588,7 @@ A n U
 75
 
 
-![Ảnh 74](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-73-img-1.png)
+![Ảnh 74](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-73-img-1.png)
 
 ## Page 74
 
@@ -3632,7 +3632,7 @@ tương ứng với thể tích tường dượng. Độ chính xác củầ gi�
 76
 
 
-![Ảnh 75](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-74-img-1.png)
+![Ảnh 75](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-74-img-1.png)
 
 ## Page 75
 
@@ -3699,7 +3699,7 @@ i
 Giá trị VTđ được tính theo công thức sau:
 
 
-![Ảnh 76](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-75-img-1.png)
+![Ảnh 76](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-75-img-1.png)
 
 ## Page 76
 
@@ -3756,7 +3756,7 @@ cứu và thế của điện cực chỉ thị (hỉđro, thúỷ tính, ...) c
 78
 
 
-![Ảnh 77](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-76-img-1.png)
+![Ảnh 77](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-76-img-1.png)
 
 ## Page 77
 
@@ -3803,7 +3803,7 @@ thế trong quá trình chuẩn độ. Dựa vào sự biến thiên của các 
 79
 
 
-![Ảnh 78](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-77-img-1.png)
+![Ảnh 78](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-77-img-1.png)
 
 ## Page 78
 
@@ -3855,7 +3855,7 @@ NaÀc + H20
 80
 
 
-![Ảnh 79](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-78-img-1.png)
+![Ảnh 79](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-78-img-1.png)
 
 ## Page 79
 
@@ -3952,7 +3952,7 @@ V'= 8,0
 81
 
 
-![Ảnh 80](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-79-img-1.png)
+![Ảnh 80](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-79-img-1.png)
 
 ## Page 80
 
@@ -4040,7 +4040,7 @@ Vẽ sự phụ thuộc pH ở cột 4 vào VNa0H ồf cột 2 được:
 82
 
 
-![Ảnh 81](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-80-img-1.png)
+![Ảnh 81](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-80-img-1.png)
 
 ## Page 81
 
@@ -4075,7 +4075,7 @@ tại vị trí 8,65ml, đó chính là VTđ = 8,65ml.
 83
 
 
-![Ảnh 82](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-81-img-1.png)
+![Ảnh 82](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-81-img-1.png)
 
 ## Page 82
 
@@ -4095,7 +4095,7 @@ vào V^OH
 84
 
 
-![Ảnh 83](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-82-img-1.png)
+![Ảnh 83](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-82-img-1.png)
 
 ## Page 83
 
@@ -4165,7 +4165,7 @@ và đổi dấu:
 85
 
 
-![Ảnh 84](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-83-img-1.png)
+![Ảnh 84](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-83-img-1.png)
 
 ## Page 84
 
@@ -4239,7 +4239,7 @@ CHjCOOH
 86
 
 
-![Ảnh 85](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-84-img-1.png)
+![Ảnh 85](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-84-img-1.png)
 
 ## Page 85
 
@@ -4286,7 +4286,7 @@ Trước điểm tương đương đường chuẩn độ nằm ngang vì nóng 
 không thay đổi.
 
 
-![Ảnh 86](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-85-img-1.png)
+![Ảnh 86](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-85-img-1.png)
 
 ## Page 86
 
@@ -4323,7 +4323,7 @@ thể chuẩn độ đo thế được.
 88
 
 
-![Ảnh 87](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-86-img-1.png)
+![Ảnh 87](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-86-img-1.png)
 
 ## Page 87
 
@@ -4365,7 +4365,7 @@ trên hình 2.9.
 89
 
 
-![Ảnh 88](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-87-img-1.png)
+![Ảnh 88](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-87-img-1.png)
 
 ## Page 88
 
@@ -4405,7 +4405,7 @@ OX2 + Kh2
 9Ữ*
 
 
-![Ảnh 89](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-88-img-1.png)
+![Ảnh 89](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-88-img-1.png)
 
 ## Page 89
 
@@ -4453,7 +4453,7 @@ sử dựng để chế tạo điện cực, nói chung không đo được.
 91
 
 
-![Ảnh 90](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-89-img-1.png)
+![Ảnh 90](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-89-img-1.png)
 
 ## Page 90
 
@@ -4536,7 +4536,7 @@ L,399
 92
 
 
-![Ảnh 91](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-90-img-1.png)
+![Ảnh 91](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-90-img-1.png)
 
 ## Page 91
 
@@ -4569,7 +4569,7 @@ số lớn.
 93
 
 
-![Ảnh 92](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-91-img-1.png)
+![Ảnh 92](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-91-img-1.png)
 
 ## Page 92
 
@@ -4640,7 +4640,7 @@ i' 1 ♦
 m
 
 
-![Ảnh 93](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-92-img-1.png)
+![Ảnh 93](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-92-img-1.png)
 
 ## Page 93
 
@@ -4683,7 +4683,7 @@ R T 1 r*
 (2.35)
 
 
-![Ảnh 94](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-93-img-1.png)
+![Ảnh 94](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-93-img-1.png)
 
 ## Page 94
 
@@ -4733,7 +4733,7 @@ chuẩn độ trên hình 2.11, sẽ thu được dạng đường cong chuẩn 
 96
 
 
-![Ảnh 95](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-94-img-1.png)
+![Ảnh 95](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-94-img-1.png)
 
 ## Page 95
 
@@ -4763,7 +4763,7 @@ trình chuẩn độ.
 97
 
 
-![Ảnh 96](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-95-img-1.png)
+![Ảnh 96](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-95-img-1.png)
 
 ## Page 96
 
@@ -4810,7 +4810,7 @@ Vẽ Sự phụ thụộc Ẹ ò biểu thức @09); hoặc,(2,36) yàp th í �
 AgNOj hoặc NaCl (xem hình 2.13):
 
 
-![Ảnh 97](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-96-img-1.png)
+![Ảnh 97](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-96-img-1.png)
 
 ## Page 97
 
@@ -4870,7 +4870,7 @@ F
 $9
 
 
-![Ảnh 98](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-97-img-1.png)
+![Ảnh 98](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-97-img-1.png)
 
 ## Page 98
 
@@ -4920,7 +4920,7 @@ cong, cắt trục hoành ở đâu, đó chính là giá trị của thể tíc
 Ìâỡ
 
 
-![Ảnh 99](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-98-img-1.png)
+![Ảnh 99](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-98-img-1.png)
 
 ## Page 99
 
@@ -5026,7 +5026,7 @@ V” = 15,80
 101
 
 
-![Ảnh 100](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-99-img-1.png)
+![Ảnh 100](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-99-img-1.png)
 
 ## Page 100
 
@@ -5094,7 +5094,7 @@ tích tương đương.
 102
 
 
-![Ảnh 101](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-100-img-1.png)
+![Ảnh 101](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-100-img-1.png)
 
 ## Page 101
 
@@ -5117,7 +5117,7 @@ Vẽ sự phụ thuộc
 103
 
 
-![Ảnh 102](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-101-img-1.png)
+![Ảnh 102](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-101-img-1.png)
 
 ## Page 102
 
@@ -5167,7 +5167,7 @@ và đổi dấu.
 m
 
 
-![Ảnh 103](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-102-img-1.png)
+![Ảnh 103](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-102-img-1.png)
 
 ## Page 103
 
@@ -5227,7 +5227,7 @@ Vfe(AgNQ,)= 16,<10+0,1.
 105
 
 
-![Ảnh 104](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-103-img-1.png)
+![Ảnh 104](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-103-img-1.png)
 
 ## Page 104
 
@@ -5280,7 +5280,7 @@ ferixianua (K3[Fe(CN)6]) vào đung dịch chuẩn độ ngay từ đầu.
 106
 
 
-![Ảnh 105](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-104-img-1.png)
+![Ảnh 105](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-104-img-1.png)
 
 ## Page 105
 
@@ -5324,7 +5324,7 @@ Vậy có thể viết:
 107
 
 
-![Ảnh 106](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-105-img-1.png)
+![Ảnh 106](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-105-img-1.png)
 
 ## Page 106
 
@@ -5380,7 +5380,7 @@ Eq,)
 108
 
 
-![Ảnh 107](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-106-img-1.png)
+![Ảnh 107](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-106-img-1.png)
 
 ## Page 107
 
@@ -5429,7 +5429,7 @@ E ^ = E ^  + E’Kl+^ P ± - PHd
 109
 
 
-![Ảnh 108](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-107-img-1.png)
+![Ảnh 108](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-107-img-1.png)
 
 ## Page 108
 
@@ -5474,7 +5474,7 @@ Pt (Hj) I Dung dịch đo pHx IIKC1 bẵo hoà Ị Hg2a 21 Hg
 110
 
 
-![Ảnh 109](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-108-img-1.png)
+![Ảnh 109](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-108-img-1.png)
 
 ## Page 109
 
@@ -5541,7 +5541,7 @@ Pt I Q, H2Q| Dung dịch đo pHx II KCỈ bão hoà ị Hg2ơ ,  I Hg
 111
 
 
-![Ảnh 110](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-109-img-1.png)
+![Ảnh 110](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-109-img-1.png)
 
 ## Page 110
 
@@ -5595,7 +5595,7 @@ E-Sdd
 P^d(l) - P^đ{2)
 
 
-![Ảnh 111](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-110-img-1.png)
+![Ảnh 111](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-110-img-1.png)
 
 ## Page 111
 
@@ -5632,7 +5632,7 @@ pháp đo thế còn có thể xác định pH bằng phương pháp đo màu.
 113
 
 
-![Ảnh 112](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-111-img-1.png)
+![Ảnh 112](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-111-img-1.png)
 
 ## Page 112
 
@@ -5682,7 +5682,7 @@ Cho biêh pKHCN = 9,35. Thế điộn cực của điện cực calomen bão h�
 114
 
 
-![Ảnh 113](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-112-img-1.png)
+![Ảnh 113](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-112-img-1.png)
 
 ## Page 113
 
@@ -5765,7 +5765,7 @@ a. Hãy điền cấc số íiệu còn thiếu vào cột — — (vị trí c�
 m
 
 
-![Ảnh 114](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-113-img-1.png)
+![Ảnh 114](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-113-img-1.png)
 
 ## Page 114
 
@@ -5833,7 +5833,7 @@ f
 c) Sai vìpK  ~ 8,86 >5.
 
 
-![Ảnh 115](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-114-img-1.png)
+![Ảnh 115](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-114-img-1.png)
 
 ## Page 115
 
@@ -5880,7 +5880,7 @@ và phản ứng phụ cùng xảy ra vối phản ứng chính.
 117
 
 
-![Ảnh 116](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-115-img-1.png)
+![Ảnh 116](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-115-img-1.png)
 
 ## Page 116
 
@@ -5924,7 +5924,7 @@ SÌỊ phói>g điện trực tiếp cùa iốn phức:
 H8
 
 
-![Ảnh 117](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-116-img-1.png)
+![Ảnh 117](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-116-img-1.png)
 
 ## Page 117
 
@@ -5968,7 +5968,7 @@ nghiệm phải tìm rihững điều kiện để thục hiện được cổe 
 119
 
 
-![Ảnh 118](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-117-img-1.png)
+![Ảnh 118](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-117-img-1.png)
 
 ## Page 118
 
@@ -6016,7 +6016,7 @@ i
 120
 
 
-![Ảnh 119](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-118-img-1.png)
+![Ảnh 119](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-118-img-1.png)
 
 ## Page 119
 
@@ -6060,7 +6060,7 @@ trường hợp:
 12Ỉ
 
 
-![Ảnh 120](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-119-img-1.png)
+![Ảnh 120](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-119-img-1.png)
 
 ## Page 120
 
@@ -6124,7 +6124,7 @@ S p Ị-  + 2e
 122
 
 
-![Ảnh 121](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-120-img-1.png)
+![Ảnh 121](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-120-img-1.png)
 
 ## Page 121
 
@@ -6178,7 +6178,7 @@ J
 123
 
 
-![Ảnh 122](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-121-img-1.png)
+![Ảnh 122](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-121-img-1.png)
 
 ## Page 122
 
@@ -6240,7 +6240,7 @@ F »  26,8 Ampe.giò.
 124
 
 
-![Ảnh 123](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-122-img-1.png)
+![Ảnh 123](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-122-img-1.png)
 
 ## Page 123
 
@@ -6280,7 +6280,7 @@ F
 125
 
 
-![Ảnh 124](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-123-img-1.png)
+![Ảnh 124](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-123-img-1.png)
 
 ## Page 124
 
@@ -6334,7 +6334,7 @@ nồng độ của chất điện hoạt, nhưng chưa cho thấy sự phụ thu
 Ì26
 
 
-![Ảnh 125](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-124-img-1.png)
+![Ảnh 125](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-124-img-1.png)
 
 ## Page 125
 
@@ -6400,7 +6400,7 @@ r : : s
 ỉ 27
 
 
-![Ảnh 126](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-125-img-1.png)
+![Ảnh 126](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-125-img-1.png)
 
 ## Page 126
 
@@ -6451,7 +6451,7 @@ gọi là dòng khuếch tần giói hạn nhu trong phừcmg pháp cực phổ 
 128
 
 
-![Ảnh 127](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-126-img-1.png)
+![Ảnh 127](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-126-img-1.png)
 
 ## Page 127
 
@@ -6488,7 +6488,7 @@ nF
 129
 
 
-![Ảnh 128](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-127-img-1.png)
+![Ảnh 128](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-127-img-1.png)
 
 ## Page 128
 
@@ -6542,7 +6542,7 @@ Dòng điện một chiều có tính chất cộng tính nên có thể viết:
 130
 
 
-![Ảnh 129](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-128-img-1.png)
+![Ảnh 129](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-128-img-1.png)
 
 ## Page 129
 
@@ -6606,7 +6606,7 @@ có tốc độ như nhau.
 .131
 
 
-![Ảnh 130](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-129-img-1.png)
+![Ảnh 130](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-129-img-1.png)
 
 ## Page 130
 
@@ -6650,7 +6650,7 @@ hình 3.3.
 Í32
 
 
-![Ảnh 131](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-130-img-1.png)
+![Ảnh 131](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-130-img-1.png)
 
 ## Page 131
 
@@ -6660,7 +6660,7 @@ Hình 3.3. Quả trình hình thành mầm kết tinh
 133
 
 
-![Ảnh 132](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-131-img-1.png)
+![Ảnh 132](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-131-img-1.png)
 
 ## Page 132
 
@@ -6703,7 +6703,7 @@ hận chế được.
 134
 
 
-![Ảnh 133](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-132-img-1.png)
+![Ảnh 133](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-132-img-1.png)
 
 ## Page 133
 
@@ -6750,7 +6750,7 @@ Eả>(Ni) = Ea>(Ni) ~ -0,293V
 135
 
 
-![Ảnh 134](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-133-img-1.png)
+![Ảnh 134](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-133-img-1.png)
 
 ## Page 134
 
@@ -6800,7 +6800,7 @@ thục hiện quá trình oxi hoá:
 136
 
 
-![Ảnh 135](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-134-img-1.png)
+![Ảnh 135](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-134-img-1.png)
 
 ## Page 135
 
@@ -6855,7 +6855,7 @@ Ecb(Ni))
 137
 
 
-![Ảnh 136](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-135-img-1.png)
+![Ảnh 136](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-135-img-1.png)
 
 ## Page 136
 
@@ -6907,7 +6907,7 @@ a
 138
 
 
-![Ảnh 137](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-136-img-1.png)
+![Ảnh 137](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-136-img-1.png)
 
 ## Page 137
 
@@ -6954,7 +6954,7 @@ Cd ; ECb(Cd) = -0 ,4 0 2 + ^
 139
 
 
-![Ảnh 138](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-137-img-1.png)
+![Ảnh 138](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-137-img-1.png)
 
 ## Page 138
 
@@ -7009,7 +7009,7 @@ Tính được:
 MỌ
 
 
-![Ảnh 139](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-138-img-1.png)
+![Ảnh 139](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-138-img-1.png)
 
 ## Page 139
 
@@ -7050,7 +7050,7 @@ c. Tính pH của dung dịch trưóc và saú khi điện phân 12 phứt!
 141
 
 
-![Ảnh 140](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-139-img-1.png)
+![Ảnh 140](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-139-img-1.png)
 
 ## Page 140
 
@@ -7093,7 +7093,7 @@ Eh:o=Eícb(h2o)+tìoj =1,2238 +0,478 = 1,6003 (V)
 u = E"0 -E£ t  IR = 1,6033 - 0,2884 + 0,20.1,5 = 1,6149(V)
 
 
-![Ảnh 141](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-140-img-1.png)
+![Ảnh 141](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-140-img-1.png)
 
 ## Page 141
 
@@ -7137,7 +7137,7 @@ nâng nhiệt độ lốn đến 40 -ỉ- 80 c . Không nâng nhiệt, độ lê
 143
 
 
-![Ảnh 142](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-141-img-1.png)
+![Ảnh 142](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-141-img-1.png)
 
 ## Page 142
 
@@ -7186,7 +7186,7 @@ hoặc bị oxi hóá ở anot và các phản ứng khử, oxi hoá này xảy 
 *44
 
 
-![Ảnh 143](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-142-img-1.png)
+![Ảnh 143](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-142-img-1.png)
 
 ## Page 143
 
@@ -7238,7 +7238,7 @@ không có hại;
 145
 
 
-![Ảnh 144](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-143-img-1.png)
+![Ảnh 144](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-143-img-1.png)
 
 ## Page 144
 
@@ -7286,7 +7286,7 @@ ion kim loại và do đó làm giảm thế cân bằng (theo phuơng trình Ne
 Ỉ46
 
 
-![Ảnh 145](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-144-img-1.png)
+![Ảnh 145](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-144-img-1.png)
 
 ## Page 145
 
@@ -7331,7 +7331,7 @@ bảo dính chặt, mịn và bóng. Các quy trình công nghệ mạ của cá
 147
 
 
-![Ảnh 146](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-145-img-1.png)
+![Ảnh 146](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-145-img-1.png)
 
 ## Page 146
 
@@ -7373,7 +7373,7 @@ H N03 loãng (2M), sau đó rửa bằng nước cất, sấy khô, và cân tr�
 %,
 
 
-![Ảnh 147](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-146-img-1.png)
+![Ảnh 147](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-146-img-1.png)
 
 ## Page 147
 
@@ -7428,7 +7428,7 @@ trờ lại.
 140
 
 
-![Ảnh 148](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-147-img-1.png)
+![Ảnh 148](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-147-img-1.png)
 
 ## Page 148
 
@@ -7475,7 +7475,7 @@ H+, NOâ
 Ị5Ọ
 
 
-![Ảnh 149](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-148-img-1.png)
+![Ảnh 149](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-148-img-1.png)
 
 ## Page 149
 
@@ -7516,7 +7516,7 @@ platin vối giấy chứng tỏ đã mắc đúng eực. Lúc đó ở cực l�
 151
 
 
-![Ảnh 150](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-149-img-1.png)
+![Ảnh 150](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-149-img-1.png)
 
 ## Page 150
 
@@ -7555,7 +7555,7 @@ EDTA 0,05M cho đến khi dung dịch chuyển từ màu vàng sang tím hoa cà
 m
 
 
-![Ảnh 151](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-150-img-1.png)
+![Ảnh 151](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-150-img-1.png)
 
 ## Page 151
 
@@ -7598,7 +7598,7 @@ CM
 í 53
 
 
-![Ảnh 152](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-151-img-1.png)
+![Ảnh 152](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-151-img-1.png)
 
 ## Page 152
 
@@ -7633,7 +7633,7 @@ m
 k.
 
 
-![Ảnh 153](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-152-img-1.png)
+![Ảnh 153](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-152-img-1.png)
 
 ## Page 153
 
@@ -7665,7 +7665,7 @@ số kim loại được tách đinh lượng ờ anot (-) ghi trong bảng 3.6.
 155
 
 
-![Ảnh 154](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-153-img-1.png)
+![Ảnh 154](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-153-img-1.png)
 
 ## Page 154
 
@@ -7785,7 +7785,7 @@ Chọn được anot (—) thích hợp để loại trừ kết tủa đồng t
 cùng với cation kim loại cần nội điện phân (E “ Kh kim loại cản nhỏ hơn E ^ h
 
 
-![Ảnh 155](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-154-img-1.png)
+![Ảnh 155](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-154-img-1.png)
 
 ## Page 155
 
@@ -7818,7 +7818,7 @@ hơn từ 50 lẫn ưở lên so với nồng độ chất nội điện phân.
 157
 
 
-![Ảnh 156](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-155-img-1.png)
+![Ảnh 156](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-155-img-1.png)
 
 ## Page 156
 
@@ -7865,7 +7865,7 @@ Cu
 158
 
 
-![Ảnh 157](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-156-img-1.png)
+![Ảnh 157](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-156-img-1.png)
 
 ## Page 157
 
@@ -7909,7 +7909,7 @@ nồng độ NaCN được giữ cố 4ịnh bằng IM trong thòi gian điện 
 159
 
 
-![Ảnh 158](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-157-img-1.png)
+![Ảnh 158](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-157-img-1.png)
 
 ## Page 158
 
@@ -7958,7 +7958,7 @@ Tại thời điểm đó chì đã tách ra được bao nhiêu %?
 160
 
 
-![Ảnh 159](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-158-img-1.png)
+![Ảnh 159](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-158-img-1.png)
 
 ## Page 159
 
@@ -8002,7 +8002,7 @@ b. Tính pH tối thiểu cần thiết lập để điộn phân đung địch 
 161
 
 
-![Ảnh 160](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-159-img-1.png)
+![Ảnh 160](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-159-img-1.png)
 
 ## Page 160
 
@@ -8043,7 +8043,7 @@ tIh2{P0 = -0,068V ; riFe(Pl) = -0,00í2V ; Po2 = latm; pHỉ = 1 atm.
 162
 
 
-![Ảnh 161](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-160-img-1.png)
+![Ảnh 161](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-160-img-1.png)
 
 ## Page 161
 
@@ -8060,7 +8060,7 @@ b. 0,018853 g; 650 giây tương ứng: 10 phút 50 giây.
 163
 
 
-![Ảnh 162](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-161-img-1.png)
+![Ảnh 162](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-161-img-1.png)
 
 ## Page 162
 
@@ -8105,7 +8105,7 @@ bầu Ịèn hoặc hạ xuống để điẻu ehình chiều cao cột tihủy 
 165
 
 
-![Ảnh 163](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-162-img-1.png)
+![Ảnh 163](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-162-img-1.png)
 
 ## Page 163
 
@@ -8145,7 +8145,7 @@ I
 thiên thế E theo õhiều âm dần (gọi là quét thế với lốc độ biến dổi thế 0,1 v/giây)
 
 
-![Ảnh 164](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-163-img-1.png)
+![Ảnh 164](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-163-img-1.png)
 
 ## Page 164
 
@@ -8183,7 +8183,7 @@ Hình 4 2. Đường cong cực phổ (sóng) của CuCI2 10r4M trong KCI 0,01 M
 167
 
 
-![Ảnh 165](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-164-img-1.png)
+![Ảnh 165](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-164-img-1.png)
 
 ## Page 165
 
@@ -8225,7 +8225,7 @@ cường độ dòng do sự khử ion K+ trong dung dịch: K+ + e + Hg ~  K(Hg
 168
 
 
-![Ảnh 166](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-165-img-1.png)
+![Ảnh 166](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-165-img-1.png)
 
 ## Page 166
 
@@ -8255,7 +8255,7 @@ dại lượng đặc trưng định tính, của chất tham gia phản ứng �
 169
 
 
-![Ảnh 167](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-166-img-1.png)
+![Ảnh 167](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-166-img-1.png)
 
 ## Page 167
 
@@ -8324,7 +8324,7 @@ hấp phụ, động học và dòng xúc tác), đối với trườhg hợp s�
 ngân rơi là điện cực hình cầu động vì trong qúá trình đo riố lớn dần cho đến khi
 
 
-![Ảnh 168](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-167-img-1.png)
+![Ảnh 168](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-167-img-1.png)
 
 ## Page 168
 
@@ -8377,7 +8377,7 @@ Với các điều kiện như vậy, giải ra được:
 171
 
 
-![Ảnh 169](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-168-img-1.png)
+![Ảnh 169](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-168-img-1.png)
 
 ## Page 169
 
@@ -8412,7 +8412,7 @@ lKT(sM-max
 172
 
 
-![Ảnh 170](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-169-img-1.png)
+![Ảnh 170](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-169-img-1.png)
 
 ## Page 170
 
@@ -8460,7 +8460,7 @@ t = k ~ .
 173
 
 
-![Ảnh 171](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-170-img-1.png)
+![Ảnh 171](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-170-img-1.png)
 
 ## Page 171
 
@@ -8501,7 +8501,7 @@ Tuy vậy, tốc đô chảy và chu kì giọt không chỉ phụ thuộc chế
 174
 
 
-![Ảnh 172](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-171-img-1.png)
+![Ảnh 172](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-171-img-1.png)
 
 ## Page 172
 
@@ -8544,7 +8544,7 @@ thuỷ ngân, 0X1 dễ bị ldìử và cho hai sóng câíot:
 175
 
 
-![Ảnh 173](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-172-img-1.png)
+![Ảnh 173](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-172-img-1.png)
 
 ## Page 173
 
@@ -8586,7 +8586,7 @@ nước và không nước. Nguyên nhân xuất hiện cực đại loại 1 l�
 thuỷ ngân xuất hiện một điện trường không đồng nhất làm thúc đẩy sự hấp phụ
 
 
-![Ảnh 174](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-173-img-1.png)
+![Ảnh 174](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-173-img-1.png)
 
 ## Page 174
 
@@ -8621,7 +8621,7 @@ quyết định, xuất hiện khi tốc độ chảy của thuỷ ngân vượt
 loại 2 không quan sát thấy khi dừng điên cực giọt tĩnh hoặc điộn cực rắn. Dvorak
 
 
-![Ảnh 175](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-174-img-1.png)
+![Ảnh 175](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-174-img-1.png)
 
 ## Page 175
 
@@ -8670,7 +8670,7 @@ V
 -  Các iòn M ^ khuẽch tẩrí tìr dung dịch đến lớp sất bề íriặt điện cực.
 
 
-![Ảnh 176](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-175-img-1.png)
+![Ảnh 176](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-175-img-1.png)
 
 ## Page 176
 
@@ -8740,7 +8740,7 @@ V
 179
 
 
-![Ảnh 177](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-176-img-1.png)
+![Ảnh 177](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-176-img-1.png)
 
 ## Page 177
 
@@ -8784,7 +8784,7 @@ trị dòng khuếch tán tí lệ thuận với nồng độ cửa chất cực
 «80
 
 
-![Ảnh 178](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-177-img-1.png)
+![Ảnh 178](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-177-img-1.png)
 
 ## Page 178
 
@@ -8856,7 +8856,7 @@ Kl-gh
 I
 
 
-![Ảnh 179](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-178-img-1.png)
+![Ảnh 179](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-178-img-1.png)
 
 ## Page 179
 
@@ -8897,7 +8897,7 @@ sau Mn2+ thành Mn vì:
 182
 
 
-![Ảnh 180](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-179-img-1.png)
+![Ảnh 180](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-179-img-1.png)
 
 ## Page 180
 
@@ -8976,7 +8976,7 @@ Tại điểm Z:
 183
 
 
-![Ảnh 181](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-180-img-1.png)
+![Ảnh 181](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-180-img-1.png)
 
 ## Page 181
 
@@ -9036,7 +9036,7 @@ với nó là dồng Ia. Theo quy ưóc Ic có giá trị dương, Ia có giá t
 Ì84
 
 
-![Ảnh 182](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-181-img-1.png)
+![Ảnh 182](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-181-img-1.png)
 
 ## Page 182
 
@@ -9092,7 +9092,7 @@ r
 Thay (4.63) và (4.65) vào (4.61) ta có:
 
 
-![Ảnh 183](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-182-img-1.png)
+![Ảnh 183](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-182-img-1.png)
 
 ## Page 183
 
@@ -9176,7 +9176,7 @@ thuộc vào nồng độ cùa các dạng oxi hoá và khử.
 m
 
 
-![Ảnh 184](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-183-img-1.png)
+![Ảnh 184](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-183-img-1.png)
 
 ## Page 184
 
@@ -9201,7 +9201,7 @@ người ta dùng phương pháp cực phổ tiến hành trong môi trường k
 187
 
 
-![Ảnh 185](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-184-img-1.png)
+![Ảnh 185](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-184-img-1.png)
 
 ## Page 185
 
@@ -9261,7 +9261,7 @@ tađuợc:
 188
 
 
-![Ảnh 186](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-185-img-1.png)
+![Ảnh 186](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-185-img-1.png)
 
 ## Page 186
 
@@ -9338,7 +9338,7 @@ _ ;
 189
 
 
-![Ảnh 187](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-186-img-1.png)
+![Ảnh 187](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-186-img-1.png)
 
 ## Page 187
 
@@ -9429,7 +9429,7 @@ khử ở catot sẽ là:
 Cu2+ +2e + Hg ^  Cu(Hg).
 
 
-![Ảnh 188](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-187-img-1.png)
+![Ảnh 188](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-187-img-1.png)
 
 ## Page 188
 
@@ -9505,7 +9505,7 @@ theo bản chất của ion kim;loại và phối tử mà hằng số bền c�
 191
 
 
-![Ảnh 189](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-188-img-1.png)
+![Ảnh 189](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-188-img-1.png)
 
 ## Page 189
 
@@ -9550,7 +9550,7 @@ cóng cực phổ hoặc sống cực phổ. Cắc máy cực phổ ngày nay c�
 192
 
 
-![Ảnh 190](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-189-img-1.png)
+![Ảnh 190](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-189-img-1.png)
 
 ## Page 190
 
@@ -9600,7 +9600,7 @@ trong một số Irứờng tìợp cho phép xẩc định được cád chẩt
 , ỉ 93
 
 
-![Ảnh 191](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-190-img-1.png)
+![Ảnh 191](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-190-img-1.png)
 
 ## Page 191
 
@@ -9630,7 +9630,7 @@ lựqnig .sản phẩm tnrôc khi xuất xưộng ví 4ụ như.B,, Ba, B6 .; tr
 m
 
 
-![Ảnh 192](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-191-img-1.png)
+![Ảnh 192](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-191-img-1.png)
 
 ## Page 192
 
@@ -9672,7 +9672,7 @@ cho kết quả ra màn hình, ngưòi đo ra lệnh tiếp: Các thế nửa s�
 195
 
 
-![Ảnh 193](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-192-img-1.png)
+![Ảnh 193](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-192-img-1.png)
 
 ## Page 193
 
@@ -9700,7 +9700,7 @@ dung dịcKchuẩn.
 196
 
 
-![Ảnh 194](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-193-img-1.png)
+![Ảnh 194](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-193-img-1.png)
 
 ## Page 194
 
@@ -9774,7 +9774,7 @@ phần mềm Excel, đồ thị được thể hiện như hình 4.10.
 197
 
 
-![Ảnh 195](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-194-img-1.png)
+![Ảnh 195](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-194-img-1.png)
 
 ## Page 195
 
@@ -9852,7 +9852,7 @@ và (£Cj)2 = 784.10 12, thay các số liệu vào công thức sau tính a và
 198
 
 
-![Ảnh 196](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-195-img-1.png)
+![Ảnh 196](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-195-img-1.png)
 
 ## Page 196
 
@@ -9900,7 +9900,7 @@ Hình 4.11. Sự phụ thuộc hỊ vào nồng độ đổng(ll).
 199
 
 
-![Ảnh 197](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-196-img-1.png)
+![Ảnh 197](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-196-img-1.png)
 
 ## Page 197
 
@@ -9956,7 +9956,7 @@ V
 <200
 
 
-![Ảnh 198](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-197-img-1.png)
+![Ảnh 198](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-197-img-1.png)
 
 ## Page 198
 
@@ -10004,7 +10004,7 @@ tự tạo.
 201
 
 
-![Ảnh 199](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-198-img-1.png)
+![Ảnh 199](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-198-img-1.png)
 
 ## Page 199
 
@@ -10090,7 +10090,7 @@ và (SCj )2 = 1,44.10' 10
 202
 
 
-![Ảnh 200](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-199-img-1.png)
+![Ảnh 200](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-199-img-1.png)
 
 ## Page 200
 
@@ -10130,7 +10130,7 @@ thực hiện một vài thao tác sẽ nhận được phương trình đưòng
 203
 
 
-![Ảnh 201](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-200-img-1.png)
+![Ảnh 201](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-200-img-1.png)
 
 ## Page 201
 
@@ -10208,7 +10208,7 @@ bảng 4.7;
 204
 
 
-![Ảnh 202](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-201-img-1.png)
+![Ảnh 202](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-201-img-1.png)
 
 ## Page 202
 
@@ -10297,7 +10297,7 @@ phương pháp hồi quy tuyến tính (bình phương tối thiểu) và do đ�
 đường chuẩn tỏ rõ ưu việt lă nhanh và tốn ít hòá ổhất hơn phương pháp thêm chuẩn.
 
 
-![Ảnh 203](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-202-img-1.png)
+![Ảnh 203](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-202-img-1.png)
 
 ## Page 203
 
@@ -10362,7 +10362,7 @@ cong (sóng) cực phổ, Phượng trìọb (4.43) có thể viết dưới d�
 206
 
 
-![Ảnh 204](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-203-img-1.png)
+![Ảnh 204](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-203-img-1.png)
 
 ## Page 204
 
@@ -10448,7 +10448,7 @@ Bật máy tính, mở phần mềm Excel nhập các giá trị: lg-— —----
 và thực hiện vài thao tác sẽ nhận được phucmg trình đường thẳng:
 
 
-![Ảnh 205](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-204-img-1.png)
+![Ảnh 205](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-204-img-1.png)
 
 ## Page 205
 
@@ -10486,7 +10486,7 @@ n
 208
 
 
-![Ảnh 206](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-205-img-1.png)
+![Ảnh 206](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-205-img-1.png)
 
 ## Page 206
 
@@ -10537,7 +10537,7 @@ bảng 4.10 và hình 4.15.
 209
 
 
-![Ảnh 207](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-206-img-1.png)
+![Ảnh 207](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-206-img-1.png)
 
 ## Page 207
 
@@ -10593,7 +10593,7 @@ Dường 3: CuCl2 10_SM nền NaAc + HR 1,5.10“’M.
 Đường 5: CuGỊ2 10"5Mnển NaAc + HR 2,0.10^ .
 
 
-![Ảnh 208](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-207-img-1.png)
+![Ảnh 208](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-207-img-1.png)
 
 ## Page 208
 
@@ -10669,7 +10669,7 @@ iQ y i = 184,5362
 211
 
 
-![Ảnh 209](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-208-img-1.png)
+![Ảnh 209](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-208-img-1.png)
 
 ## Page 209
 
@@ -10700,7 +10700,7 @@ túyến tính:
 112
 
 
-![Ảnh 210](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-209-img-1.png)
+![Ảnh 210](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-209-img-1.png)
 
 ## Page 210
 
@@ -10737,7 +10737,7 @@ chỉ mang tính chất minh họa lí thuyết còn trong thực tế phân tí
 213
 
 
-![Ảnh 211](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-210-img-1.png)
+![Ảnh 211](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-210-img-1.png)
 
 ## Page 211
 
@@ -10816,7 +10816,7 @@ oxi trong 10 phút bằng cách sục nitơ. Đặt thế quét từ 0 đến -2
 214
 
 
-![Ảnh 212](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-211-img-1.png)
+![Ảnh 212](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-211-img-1.png)
 
 ## Page 212
 
@@ -10881,7 +10881,7 @@ Cho biết: Co = 58,9; N =  14; 0 = 1 6 .
 2Ỉ5
 
 
-![Ảnh 213](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-212-img-1.png)
+![Ảnh 213](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-212-img-1.png)
 
 ## Page 213
 
@@ -10931,7 +10931,7 @@ Biết: Cu = 63,45
 Đáp số: Ị3,113 ỉỉiq Ctt/I
 
 
-![Ảnh 214](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-213-img-1.png)
+![Ảnh 214](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-213-img-1.png)
 
 ## Page 214
 
@@ -10972,7 +10972,7 @@ vạch định mức. Sau đó rót toàn bộ dung dịch vào cốc điện ph
 217
 
 
-![Ảnh 215](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-214-img-1.png)
+![Ảnh 215](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-214-img-1.png)
 
 ## Page 215
 
@@ -11010,7 +11010,7 @@ i:
 2Ỉ8
 
 
-![Ảnh 216](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-215-img-1.png)
+![Ảnh 216](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-215-img-1.png)
 
 ## Page 216
 
@@ -11054,7 +11054,7 @@ tăng độ nhạy đến khoảng 100 lần và tăng độ chọn lọc 50.000
 219
 
 
-![Ảnh 217](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-216-img-1.png)
+![Ảnh 217](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-216-img-1.png)
 
 ## Page 217
 
@@ -11096,7 +11096,7 @@ thuỷ ngân thì dùng khuấy từ với tốc độ không đổi.
 220
 
 
-![Ảnh 218](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-217-img-1.png)
+![Ảnh 218](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-217-img-1.png)
 
 ## Page 218
 
@@ -11148,7 +11148,7 @@ Ví dụ: Đường cong cực phổ cổ điển (dòng một chiều) của du
 221
 
 
-![Ảnh 219](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-218-img-1.png)
+![Ảnh 219](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-218-img-1.png)
 
 ## Page 219
 
@@ -11197,7 +11197,7 @@ hống hoặc trên toàn bộ bề điện cực để khi hoà tan sẽ có d�
 222
 
 
-![Ảnh 220](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-219-img-1.png)
+![Ảnh 220](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-219-img-1.png)
 
 ## Page 220
 
@@ -11222,7 +11222,7 @@ dưới đường von-ampe hoè tan
 223
 
 
-![Ảnh 221](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-220-img-1.png)
+![Ảnh 221](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-220-img-1.png)
 
 ## Page 221
 
@@ -11266,10 +11266,10 @@ AE
 224
 
 
-![Ảnh 222](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-221-img-1.png)
+![Ảnh 222](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-221-img-1.png)
 
 
-![Ảnh 223](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-221-img-2.png)
+![Ảnh 223](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-221-img-2.png)
 
 ## Page 222
 
@@ -11333,7 +11333,7 @@ thời giạn đỉện phân dài. Để đảm bảo thế không đối, ngư
 225
 
 
-![Ảnh 224](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-222-img-1.png)
+![Ảnh 224](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-222-img-1.png)
 
 ## Page 223
 
@@ -11387,7 +11387,7 @@ a
 226
 
 
-![Ảnh 225](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-223-img-1.png)
+![Ảnh 225](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-223-img-1.png)
 
 ## Page 224
 
@@ -11406,7 +11406,7 @@ phú. Có thể kể ra các loại chính sau:
 227
 
 
-![Ảnh 226](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-224-img-1.png)
+![Ảnh 226](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-224-img-1.png)
 
 ## Page 225
 
@@ -11448,7 +11448,7 @@ cực anot (+).
 m
 
 
-![Ảnh 227](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-225-img-1.png)
+![Ảnh 227](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-225-img-1.png)
 
 ## Page 226
 
@@ -11511,7 +11511,7 @@ dp.p.ư dito cực,.^ > 0 *3+
 Í29
 
 
-![Ảnh 228](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-226-img-1.png)
+![Ảnh 228](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-226-img-1.png)
 
 ## Page 227
 
@@ -11568,7 +11568,7 @@ M<n±m> + (n+m),RH
 230
 
 
-![Ảnh 229](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-227-img-1.png)
+![Ảnh 229](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-227-img-1.png)
 
 ## Page 228
 
@@ -11617,7 +11617,7 @@ X~ +■ RI i  bám vào điện cực
 231
 
 
-![Ảnh 230](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-228-img-1.png)
+![Ảnh 230](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-228-img-1.png)
 
 ## Page 229
 
@@ -11666,7 +11666,7 @@ CkimtoỊi cần xác định:
 232
 
 
-![Ảnh 231](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-229-img-1.png)
+![Ảnh 231](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-229-img-1.png)
 
 ## Page 230
 
@@ -11716,7 +11716,7 @@ nặng trong nước uông, nước sinh hoạt, các đột tố trong thực p
 233
 
 
-![Ảnh 232](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-230-img-1.png)
+![Ảnh 232](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-230-img-1.png)
 
 ## Page 231
 
@@ -11748,7 +11748,7 @@ KC1 bão hoà.
 23.4
 
 
-![Ảnh 233](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-231-img-1.png)
+![Ảnh 233](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-231-img-1.png)
 
 ## Page 232
 
@@ -11767,7 +11767,7 @@ Hình 5.4. Sơ đổ của phép đo von-ampe hoà tan trèn mày cục phổ đ
 235
 
 
-![Ảnh 234](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-232-img-1.png)
+![Ảnh 234](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-232-img-1.png)
 
 ## Page 233
 
@@ -11806,7 +11806,7 @@ xác định độ lặp ghi bảng 5.3.
 236
 
 
-![Ảnh 235](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-233-img-1.png)
+![Ảnh 235](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-233-img-1.png)
 
 ## Page 234
 
@@ -11963,7 +11963,7 @@ chọn lọc cao có thể xác định được thế ứng với hai pic nhỏ
 237
 
 
-![Ảnh 236](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-234-img-1.png)
+![Ảnh 236](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-234-img-1.png)
 
 ## Page 235
 
@@ -12012,7 +12012,7 @@ Saunder College. Publishing, 199 i.
 238
 
 
-![Ảnh 237](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-235-img-1.png)
+![Ảnh 237](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-235-img-1.png)
 
 ## Page 236
 
@@ -12053,7 +12053,7 @@ Berlin, 1979.
 239
 
 
-![Ảnh 238](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-236-img-1.png)
+![Ảnh 238](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-236-img-1.png)
 
 ## Page 237
 
@@ -12107,7 +12107,7 @@ c. 101 -  105,1986.
 240
 
 
-![Ảnh 239](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-237-img-1.png)
+![Ảnh 239](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-237-img-1.png)
 
 ## Page 238
 
@@ -12235,7 +12235,7 @@ Co2* + 2e —y Go
 ‘-9,5
 
 
-![Ảnh 240](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-238-img-1.png)
+![Ảnh 240](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-238-img-1.png)
 
 ## Page 239
 
@@ -12345,7 +12345,7 @@ Au+ + e -> Au
 24T
 
 
-![Ảnh 241](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-239-img-1.png)
+![Ảnh 241](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-239-img-1.png)
 
 ## Page 240
 
@@ -12451,7 +12451,7 @@ l - > 0  .
 243
 
 
-![Ảnh 242](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-240-img-1.png)
+![Ảnh 242](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-240-img-1.png)
 
 ## Page 241
 
@@ -12585,7 +12585,7 @@ NaOH 0,5M
 244
 
 
-![Ảnh 243](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-241-img-1.png)
+![Ảnh 243](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-241-img-1.png)
 
 ## Page 242
 
@@ -12731,7 +12731,7 @@ N^SO, 0,1M + H2S0410'1M
 245
 
 
-![Ảnh 244](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-242-img-1.png)
+![Ảnh 244](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-242-img-1.png)
 
 ## Page 243
 
@@ -12880,7 +12880,7 @@ KSCN 0;1M
 0,38
 
 
-![Ảnh 245](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-243-img-1.png)
+![Ảnh 245](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-243-img-1.png)
 
 ## Page 244
 
@@ -13026,7 +13026,7 @@ N aO H O JM
 247
 
 
-![Ảnh 246](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-244-img-1.png)
+![Ảnh 246](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-244-img-1.png)
 
 ## Page 245
 
@@ -13168,7 +13168,7 @@ KSCN1,0M
 0,46
 
 
-![Ảnh 247](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-245-img-1.png)
+![Ảnh 247](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-245-img-1.png)
 
 ## Page 246
 
@@ -13302,7 +13302,7 @@ glixerín
 249
 
 
-![Ảnh 248](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-246-img-1.png)
+![Ảnh 248](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-246-img-1.png)
 
 ## Page 247
 
@@ -13430,7 +13430,7 @@ Air+
 250
 
 
-![Ảnh 249](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-247-img-1.png)
+![Ảnh 249](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-247-img-1.png)
 
 ## Page 248
 
@@ -13637,7 +13637,7 @@ Zn2+
 0
 
 
-![Ảnh 250](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-248-img-1.png)
+![Ảnh 250](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-248-img-1.png)
 
 ## Page 249
 
@@ -13830,7 +13830,7 @@ Co2+
 252
 
 
-![Ảnh 251](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-249-img-1.png)
+![Ảnh 251](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-249-img-1.png)
 
 ## Page 250
 
@@ -13932,7 +13932,7 @@ for i := 1 to k do read(fr, Cl[i]);
 253
 
 
-![Ảnh 252](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-250-img-1.png)
+![Ảnh 252](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-250-img-1.png)
 
 ## Page 251
 
@@ -13972,7 +13972,7 @@ begin
 254
 
 
-![Ảnh 253](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-251-img-1.png)
+![Ảnh 253](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-251-img-1.png)
 
 ## Page 252
 
@@ -14022,7 +14022,7 @@ Writeln(f; A= (’,y: l0:3,,+’,sy*tak:)0:4,rc + c,x: !0:3,v, sx*tak:l0:4/y);
 255
 
 
-![Ảnh 254](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-252-img-1.png)
+![Ảnh 254](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-252-img-1.png)
 
 ## Page 253
 
@@ -14062,7 +14062,7 @@ BEGIN
 256
 
 
-![Ảnh 255](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-253-img-1.png)
+![Ảnh 255](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-253-img-1.png)
 
 ## Page 254
 
@@ -14107,7 +14107,7 @@ nhapsolieu;
 257
 
 
-![Ảnh 256](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-254-img-1.png)
+![Ảnh 256](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-254-img-1.png)
 
 ## Page 255
 
@@ -14146,7 +14146,7 @@ W rite('Nhap hang so Student tak = ’); readln(tak);
 258
 
 
-![Ảnh 257](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-255-img-1.png)
+![Ảnh 257](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-255-img-1.png)
 
 ## Page 256
 
@@ -14189,7 +14189,7 @@ write(f,'Nhap gia tri thuc cua X = \gtthuc:15:5);
 259
 
 
-![Ảnh 258](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-256-img-1.png)
+![Ảnh 258](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-256-img-1.png)
 
 ## Page 257
 
@@ -14207,7 +14207,7 @@ write(f,’ Su khac nhau giua li thuyet va thuc nghiem la khong ngau nhien');
 close(f); readln;
 
 
-![Ảnh 259](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-257-img-1.png)
+![Ảnh 259](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-257-img-1.png)
 
 ## Page 258
 
@@ -14230,4 +14230,4 @@ Giấy ĐKXB số : 18 - 2009/CXB/555 - 47/Đ'HSP, kí ngày 29/12/2008.
 In xong và nộp lưu chiểu tháng 7 năm 2009.
 
 
-![Ảnh 260](_images/mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-258-img-1.png)
+![Ảnh 260](mot-so-phuong-phap-phan-tich-dien-hoa-duong-quang-phung_images/page-258-img-1.png)

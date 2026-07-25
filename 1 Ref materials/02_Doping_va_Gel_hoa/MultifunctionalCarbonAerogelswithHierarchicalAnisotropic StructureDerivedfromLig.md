@@ -1,13 +1,13 @@
 This is an open access article published under a Creative Commons Attribution (CC-BY) License, which permits unrestricted use, distribution and reproduction in any medium, provided the author and source are cited. 
 
 
-![](_images/MultifunctionalCarbonAerogelswithHierarchicalAnisotropic StructureDerivedfromLig_img/_temp_b0a62745_heal_.pdf-0001-02.png)
+![](_temp_b0a62745_convert__images/_temp_b0a62745_convert_.pdf-0001-02.png)
 
 
 www.acsami.org 
 
 
-![](_images/MultifunctionalCarbonAerogelswithHierarchicalAnisotropic StructureDerivedfromLig_img/_temp_b0a62745_heal_.pdf-0001-04.png)
+![](_temp_b0a62745_convert__images/_temp_b0a62745_convert_.pdf-0001-04.png)
 
 
 Research Article 
@@ -23,7 +23,7 @@ ACCESS Metrics & More Article Recommendations *sı Supporting Information
 ABSTRACT: In current times, CO2 capture and lightweight energy storage are receiving significant attention and will be vital functions in next-generation materials. Porous carbonaceous materials have great potential in these areas, whereas most of the developed carbon materials still have significant limitations, such as nonrenewable resources, complex and costly processing, or the absence of tailorable structure. In this study, a new strategy is developed for using the currently underutilized lignin and cellulose nanofibers, which can be extracted from renewable resources to produce high-performance multifunctional carbon aerogels with a tailorable, anisotropic pore structure. Both the macro- and microstructure of the carbon aerogels can be simultaneously controlled by carefully tuning the weight ratio of lignin to cellulose nanofibers in the precursors, which considerably influences their final porosity and surface area. The designed carbon aerogels demonstrate excellent performance in both CO2 capture and capacitive energy storage, and the best results exhibit a CO2 adsorption capacity of 5.23 mmol g[−][1] at 273 K and 100 kPa and a specific electrical double-layer capacitance of 124 F g[−][1] at a current density of 0.2 A g[−][1] , indicating that they have great future potential in the relevant applications. 
 
 
-![](_images/MultifunctionalCarbonAerogelswithHierarchicalAnisotropic StructureDerivedfromLig_img/_temp_b0a62745_heal_.pdf-0001-11.png)
+![](_temp_b0a62745_convert__images/_temp_b0a62745_convert_.pdf-0001-11.png)
 
 
 KEYWORDS: carbon aerogels, lignin, cellulose nanofibers, CO2 capture, supercapacitors 
@@ -47,7 +47,7 @@ https://dx.doi.org/10.1021/acsami.9b19955 ACS Appl. Mater. Interfaces 2020, 12, 
 ACS Applied Materials & Interfaces www.acsami.org Research Article 
 
 
-![](_images/MultifunctionalCarbonAerogelswithHierarchicalAnisotropic StructureDerivedfromLig_img/_temp_b0a62745_heal_.pdf-0002-01.png)
+![](_temp_b0a62745_convert__images/_temp_b0a62745_convert_.pdf-0002-01.png)
 
 
 Figure 1. (a) LTCAs production process and illustrations of the products generated from each step, including (b) lignin/TOCNF suspensions, (c) lignin/TOCNF precursors, and (d) LTCAs. 
@@ -71,7 +71,7 @@ The preparation process of the lignin/TOCNF-derived carbon aerogels (LTCAs) stud
 https://dx.doi.org/10.1021/acsami.9b19955 ACS Appl. Mater. Interfaces 2020, 12, 7432−7441 
 
 
-![](_images/MultifunctionalCarbonAerogelswithHierarchicalAnisotropic StructureDerivedfromLig_img/_temp_b0a62745_heal_.pdf-0003-00.png)
+![](_temp_b0a62745_convert__images/_temp_b0a62745_convert_.pdf-0003-00.png)
 
 
 **----- Start of picture text -----**<br>
@@ -79,13 +79,13 @@ ACS Applied Materials & Interfaces www.acsami.org Research Article<br>**----- En
 
 
 
-![](_images/MultifunctionalCarbonAerogelswithHierarchicalAnisotropic StructureDerivedfromLig_img/_temp_b0a62745_heal_.pdf-0003-01.png)
+![](_temp_b0a62745_convert__images/_temp_b0a62745_convert_.pdf-0003-01.png)
 
 
 Figure 2. (a) AFM height image of the TOCNFs. (b) pH, conductivity, and viscosity of the aqueous lignin/TOCNF suspensions with different TOCNF contents at ∼22 °C. (c) Thermal degradation behavior of lignin and TOCNF against the processing time during the same heating process as the carbonization procedure used in this work. (d) Schematic of the expected microstructure of the lignin/TOCNF aerogel before and after carbonization. (e) N2 adsorption isotherms of LTCA8, LTCA10, and LTCA12 recorded at 77 K and their corresponding BET surface area. 
 
 
-![](_images/MultifunctionalCarbonAerogelswithHierarchicalAnisotropic StructureDerivedfromLig_img/_temp_b0a62745_heal_.pdf-0003-03.png)
+![](_temp_b0a62745_convert__images/_temp_b0a62745_convert_.pdf-0003-03.png)
 
 
 Figure 3. SEM images of the (a) cross section and (b) longitudinal section of the lignin/TOCNF precursors with different TOCNF contents. 
@@ -107,7 +107,7 @@ ACS Applied Materials & Interfaces
 Research Article 
 
 
-![](_images/MultifunctionalCarbonAerogelswithHierarchicalAnisotropic StructureDerivedfromLig_img/_temp_b0a62745_heal_.pdf-0004-02.png)
+![](_temp_b0a62745_convert__images/_temp_b0a62745_convert_.pdf-0004-02.png)
 
 
 **----- Start of picture text -----**<br>
@@ -115,7 +115,7 @@ www.acsami.org<br>**----- End of picture text -----**<br>
 
 
 
-![](_images/MultifunctionalCarbonAerogelswithHierarchicalAnisotropic StructureDerivedfromLig_img/_temp_b0a62745_heal_.pdf-0004-03.png)
+![](_temp_b0a62745_convert__images/_temp_b0a62745_convert_.pdf-0004-03.png)
 
 
 Figure 4. SEM images of LTCA12 from the (a) cross section, (b) longitudinal section, and (c, d) magnified views. SEM-EDX spectra of LTCA12 collected from (e) a certain area and (f) a certain point located on a surface particle. 
@@ -130,7 +130,7 @@ Table 1. Elemental Composition (in at. %) of the Lignin/TOCNF Precursors and the
 
 
 
-![](_images/MultifunctionalCarbonAerogelswithHierarchicalAnisotropic StructureDerivedfromLig_img/_temp_b0a62745_heal_.pdf-0004-07.png)
+![](_temp_b0a62745_convert__images/_temp_b0a62745_convert_.pdf-0004-07.png)
 
 
 Figure 5. CO2 capture analysis for the LTCAs before washing. (a) CO2 adsorption isotherms of LTCA8 at different temperatures, and the isotherms of LTCA8, LTCA10, and LTCA12 at (b) 273 K and (c) 298 and 323 K. (d, e) CO2 adsorption capacity of the LTCAs at different temperatures against their BET surface area under 10 and 100 kPa according to the related adsorption isotherms. (f) Enthalpy (ΔHad) and entropy (ΔS) of CO2 adsorption by the LTCAs calculated by using the Langmuir adsorption model and van’t Hoff equation. 
@@ -150,7 +150,7 @@ ACS Applied Materials & Interfaces www.acsami.org
 Research Article 
 
 
-![](_images/MultifunctionalCarbonAerogelswithHierarchicalAnisotropic StructureDerivedfromLig_img/_temp_b0a62745_heal_.pdf-0005-02.png)
+![](_temp_b0a62745_convert__images/_temp_b0a62745_convert_.pdf-0005-02.png)
 
 
 Figure 6. CO2 capture analysis for the LTCAs after washing. (a) BET surface area of the LTCAs before and after washing. (b) CO2 adsorption isotherms of LTCA12 at different temperatures before and after washing and (c) of the W-LTCAs at 273 K. (d, e) CO2 adsorption capacity of the unwashed LTCAs (black points with yellow background) and the W-LTCAs at different temperatures against their BET surface area under 10 and 100 kPa. (f) CO2 adsorption enthalpy and entropy of the W-LTCAs. 
@@ -170,7 +170,7 @@ https://dx.doi.org/10.1021/acsami.9b19955 ACS Appl. Mater. Interfaces 2020, 12, 
 ACS Applied Materials & Interfaces www.acsami.org Research Article 
 
 
-![](_images/MultifunctionalCarbonAerogelswithHierarchicalAnisotropic StructureDerivedfromLig_img/_temp_b0a62745_heal_.pdf-0006-01.png)
+![](_temp_b0a62745_convert__images/_temp_b0a62745_convert_.pdf-0006-01.png)
 
 
 − Figure 7. (a c) CV curves of SCs with LTCA8, LTCA10, and LTCA12 electrodes at different scan rates. (d) Comparison of the CV curves of the LTCA-SCs at a scan rate of 20 mV s[−][1] . (e) GCD curves of LTCA12-SC at various current densities. (f) Comparison of the GCD curves of the LTCA-SCs at a current density of 0.2 A g[−][1] . 
@@ -194,7 +194,7 @@ ACS Applied Materials & Interfaces www.acsami.org
 Research Article 
 
 
-![](_images/MultifunctionalCarbonAerogelswithHierarchicalAnisotropic StructureDerivedfromLig_img/_temp_b0a62745_heal_.pdf-0007-02.png)
+![](_temp_b0a62745_convert__images/_temp_b0a62745_convert_.pdf-0007-02.png)
 
 
 Figure 8. (a) Specific gravimetric capacitance of LTCA8, LTCA10, and LTCA12 at various current densities. (b) Nyquist plots of the LTCA-SCs. (c) Ragone plots of the LTCA-SCs. (d) Comparison of the areal capacitance of LTCA8 and other carbonaceous electrodes reported in the literature. (e) Cycle life of the LTCA-SCs. Inset: GCD curves of cycles 2980−3000 of LTCA12-SC at a current density of 5 A g[−][1] . 
@@ -238,7 +238,7 @@ To prepare the W-LTCAs, the LTCAs were rinsed and soaked in distilled water for 
 Characterizations. The topography of the TOCNFs was investigated by using an AFM under the tapping mode with a Veeco MultiMode scanning probe (Santa Barbara, CA) and Bruker TESPA tips (Camarillo, USA). The AFM sample was obtained by depositing one droplet of a diluted TOCNF suspension (0.001 wt %) on a freshly cleaved mica and then dried in a vacuum oven (60 °C). The width of the TOCNFs was determined from the captured AFM height images, and over 100 nanofibers were analyzed to obtain the average value. The pH, conductivity, and viscosity of the lignin/ TOCNF suspensions were measured with a pH 21 pH meter (Hanna Instruments, Woonsocket, RI), an S30 SevenEasy conductivity meter (Mettler Toledo, Schwerzenbach, Switzerland), and an SV-10 Vibro viscometer (A&D Company, Tokyo, Japan), respectively. TGA measurements were conducted using a TA Q500 thermogravimetric analyzer (TA Instruments, New Castle, DE) under simulated carbonization conditions. The porosity of the LTCAs was determined to be 
 
 
-![](_images/MultifunctionalCarbonAerogelswithHierarchicalAnisotropic StructureDerivedfromLig_img/_temp_b0a62745_heal_.pdf-0008-12.png)
+![](_temp_b0a62745_convert__images/_temp_b0a62745_convert_.pdf-0008-12.png)
 
 
 where ρ* is the bulk density of the LTCAs, calculated by dividing the weight by the volume, and ρ is the density of the solid carbon material (2.1 g cm[−][3] for amorphous carbon).[48] The BET surface area of the LTCAs and W-LTCAs was determined by conducting a N2 adsorption test at 77 K using a Gemini VII 2390a analyzer (Micromeritics Instrument Corp., Norcross, GA) after 3 h of degassing at 300 °C, and the pore size distribution of the samples was collected by using an ASAP 2020 Plus BET analyzer (Micromeritics Instrument Corp.) under the same conditions. The morphology of the lignin/TOCNF precursors coated with platinum (EM ACE200 sputter, Leica, Wetzlar, Germany) and LTCAs was investigated by SEM (JEOL JSM 6460LV, JEOL Ltd., Tokyo, Japan), and elemental analysis was conducted by SEM-EDX using an equipped silicon drift detector (Oxford X-MaxN 50 mm[2] , Oxford Instrument, UK). 
@@ -246,11 +246,11 @@ where ρ* is the bulk density of the LTCAs, calculated by dividing the weight by
 The CO2 adsorption isotherms of the LTCAs and W-LTCAs were obtained by using the ASAP 2020 Plus BET analyzer with a pressure range of 0−120 kPa at 273, 298, and 323 K after degassing at 300 °C for 4 h. The CO2 adsorption enthalpy (ΔHad) and entropy (ΔS) were calculated according to the adsorption isotherms using the Langmuir adsorption model and van’t Hoff equation: 
 
 
-![](_images/MultifunctionalCarbonAerogelswithHierarchicalAnisotropic StructureDerivedfromLig_img/_temp_b0a62745_heal_.pdf-0008-15.png)
+![](_temp_b0a62745_convert__images/_temp_b0a62745_convert_.pdf-0008-15.png)
 
 
 
-![](_images/MultifunctionalCarbonAerogelswithHierarchicalAnisotropic StructureDerivedfromLig_img/_temp_b0a62745_heal_.pdf-0008-16.png)
+![](_temp_b0a62745_convert__images/_temp_b0a62745_convert_.pdf-0008-16.png)
 
 
 where qe and Ce denote the amount of adsorbed CO2 and pressure at equilibrium from the isotherms, respectively, Keq is the equilibrium constant, R is the Avogadro constant, and T is the temperature. 
@@ -268,23 +268,23 @@ www.acsami.org
 ## ACS Applied Materials & Interfaces 
 
 
-![](_images/MultifunctionalCarbonAerogelswithHierarchicalAnisotropic StructureDerivedfromLig_img/_temp_b0a62745_heal_.pdf-0009-03.png)
+![](_temp_b0a62745_convert__images/_temp_b0a62745_convert_.pdf-0009-03.png)
 
 
 where I is the discharging current, ΔV is the scanned potential window, Δt is the discharging time, and m is the total mass of both electrodes. Similarly, the areal capacitance of the LTCAs, Ca, was determined as follows: 
 
 
-![](_images/MultifunctionalCarbonAerogelswithHierarchicalAnisotropic StructureDerivedfromLig_img/_temp_b0a62745_heal_.pdf-0009-05.png)
+![](_temp_b0a62745_convert__images/_temp_b0a62745_convert_.pdf-0009-05.png)
 
 
 where S represents the effective area of the related SCs. Consequently, the gravimetric energy density (Ed) and power density (Pd) of the SCs can be calculated as 
 
 
-![](_images/MultifunctionalCarbonAerogelswithHierarchicalAnisotropic StructureDerivedfromLig_img/_temp_b0a62745_heal_.pdf-0009-07.png)
+![](_temp_b0a62745_convert__images/_temp_b0a62745_convert_.pdf-0009-07.png)
 
 
 
-![](_images/MultifunctionalCarbonAerogelswithHierarchicalAnisotropic StructureDerivedfromLig_img/_temp_b0a62745_heal_.pdf-0009-08.png)
+![](_temp_b0a62745_convert__images/_temp_b0a62745_convert_.pdf-0009-08.png)
 
 
 The cycle stability tests of the LTCAs were performed using a lowvolume three-electrode cell kit (Pine Research Instrumentation, Durham, NC) connected to the Princeton Applied Research VersaSTAT 3 potentiostat/galvanostat. A platinum electrode was used as a counter electrode and a Ag/AgCl electrode worked as a reference electrode, and 0.5 M H2SO4 was used as the electrolyte. 

@@ -1,5 +1,5 @@
 
-![](_images/Green Synthesis of Activated Carbons from Coconut Coir Dust via_images/_temp_95bbc14c_convert_.pdf-0001-00.png)
+![](_temp_b8ca3f54_convert__images/_temp_b8ca3f54_convert_.pdf-0001-00.png)
 
 
 ## _Article_ 
@@ -71,7 +71,7 @@ The coconut coir dust was collected from the local market in Thailand. It was pa
 Coconut coir dust was first subjected to carbonization at 500, 600, and 700 _[◦]_ C for 1 h in a Vecstar tube furnace (Chesterfield, UK) under an argon atmosphere, with a heating rate of 5 _[◦]_ C min _[−]_[1] . After cooling to room temperature, the resulting carbonized products were gently ground using a mortar and pestle to obtain fine powders. The samples carbonized at 500, 600, and 700 _[◦]_ C were designated as CCD-5, CCD-6, and CCD-7, respectively. Subsequently, each CCD sample was activated with steam in the same tube furnace at 900 _[◦]_ C for 2 h under a continuous argon flow (0.2 L min _[−]_[1] ) using the same heating rate of 5 _[◦]_ C min _[−]_[1] . After natural cooling to room temperature, the steam-activated products were thoroughly ground to obtain fine carbon powders. The resulting steam-activated carbons derived from CCD-5, CCD-6, and CCD-7 were labeled as SA-CCD-5, SA-CCD-6, and SA-CCD-7, respectively. A schematic illustration of the overall preparation process is shown in Figure 1. 
 
 
-![](_images/Green Synthesis of Activated Carbons from Coconut Coir Dust via_images/_temp_95bbc14c_convert_.pdf-0003-09.png)
+![](_temp_b8ca3f54_convert__images/_temp_b8ca3f54_convert_.pdf-0003-09.png)
 
 
 **Figure 1.** Schematic illustration of the carbonization and steam activation steps used to prepare SA-CCD in this work. 
@@ -93,7 +93,7 @@ All electrochemical measurements were conducted at room temperature in 6 M KOH e
 The specific capacitance ( _Cs_ ) of SA-CCD electrodes was calculated from the GCD curves according to the following equation: 
 
 
-![](_images/Green Synthesis of Activated Carbons from Coconut Coir Dust via_images/_temp_95bbc14c_convert_.pdf-0004-08.png)
+![](_temp_b8ca3f54_convert__images/_temp_b8ca3f54_convert_.pdf-0004-08.png)
 
 
 where _I_ is the applied current, _m_ is the mass of the active material,[�] _V_ d _t_ is the integrated area under the discharge curves, and _Vi_ and _Vf_ are the initial and final potentials, respectively. 
@@ -109,7 +109,7 @@ Two identical electrodes were assembled face-to-face with a separator saturated 
 The specific capacitance of the cell ( _C_ cell) was determined from the GCD curves using the following equation: 
 
 
-![](_images/Green Synthesis of Activated Carbons from Coconut Coir Dust via_images/_temp_95bbc14c_convert_.pdf-0005-04.png)
+![](_temp_b8ca3f54_convert__images/_temp_b8ca3f54_convert_.pdf-0005-04.png)
 
 
 where _I_ is the applied current, ∆ _t_ is the discharge time, _m_ is the total mass of active material on both electrodes, and ∆ _V_ is the potential window. 
@@ -117,11 +117,11 @@ where _I_ is the applied current, ∆ _t_ is the discharge time, _m_ is the tota
 The corresponding energy density ( _E_ , Wh kg _[−]_[1] ) and power density ( _P_ , W kg _[−]_[1] ) of the cell were calculated using the following equations: 
 
 
-![](_images/Green Synthesis of Activated Carbons from Coconut Coir Dust via_images/_temp_95bbc14c_convert_.pdf-0005-07.png)
+![](_temp_b8ca3f54_convert__images/_temp_b8ca3f54_convert_.pdf-0005-07.png)
 
 
 
-![](_images/Green Synthesis of Activated Carbons from Coconut Coir Dust via_images/_temp_95bbc14c_convert_.pdf-0005-08.png)
+![](_temp_b8ca3f54_convert__images/_temp_b8ca3f54_convert_.pdf-0005-08.png)
 
 
 ## **3. Results and Discussion** 
@@ -131,7 +131,7 @@ The corresponding energy density ( _E_ , Wh kg _[−]_[1] ) and power density ( 
 The surface morphologies of the carbonized and activated samples are shown in Figure 2. At the lowest carbonization temperature (500 _[◦]_ C), the CCD-5 retained a relatively well-preserved cellular framework with clearly defined pore channels, reflecting the intrinsic microstructure of the original coconut coir dust (Figure S1). As the carbonization temperature increased to 600 _[◦]_ C and 700 _[◦]_ C, progressive structural collapse and densification of the cell walls were observed. This morphological evolution is attributed to the enhanced thermal decomposition of hemicellulose and cellulose, accompanied by the release of volatile matter and softening of the carbon matrix during pyrolysis. Consequently, the surface became smoother and more compact, with a noticeable reduction in macropore openness. After steam activation at 900 _[◦]_ C, the overall morphology of the SA-CCD samples remained largely similar to that of their carbonized counterparts, indicating that the activation process did not significantly alter the macroscopic cellular framework. The preservation of the skeleton structure suggests that steam activation primarily promoted internal pore development, particularly the formation of micro- and mesopores within the carbon matrix, rather than the extensive external etching. 
 
 
-![](_images/Green Synthesis of Activated Carbons from Coconut Coir Dust via_images/_temp_95bbc14c_convert_.pdf-0005-12.png)
+![](_temp_b8ca3f54_convert__images/_temp_b8ca3f54_convert_.pdf-0005-12.png)
 
 
 **Figure 2.** SEM images of ( **a** ) CCD-5, ( **b** ) CCD-6, ( **c** ) CCD-7, ( **d** ) SA-CCD-5, ( **e** ) SA-CCD-6, and ( **f** ) SA-CCD-7. 
@@ -145,11 +145,11 @@ _Chemistry_ **2025** , _7_ , 184
 The textural characteristics of the CCD and SA-CCD samples were evaluated by N2 adsorption–desorption measurements, as shown in Figure 3a. The specific surface area ( _S_ BET) was determined by the Brunauer–Emmett–Teller (BET) method. The isotherm of CCD-5 showed very low N2 adsorption with an _S_ BET of only 7 m[2] g _[−]_[1] , indicating that carbonization at 500 _[◦]_ C was insufficient to develop a porous structure. This observation is consistent with the SEM results, which showed an intact cellular morphology. When the carbonization temperature increased to 600 and 700 _[◦]_ C, a substantial rise in N2 uptake was observed for CCD-6 and CCD-7, both exhibiting a type I isotherm and higher _S_ BET values of 140 and 203 m[2] g _[−]_[1] , respectively. This enhancement can be attributed to the progressive decomposition of lignocellulosic components and the release of volatile species, which generate primary micropores within the carbon matrix. According to the _t_ -plot analysis, the micropore surface area ( _S_ micro) accounted for approximately 79% and 85% of _S_ BET for CCD-6 and CCD-7, respectively, confirming that micropores dominate the porosity of the carbonized samples. After steam activation, all samples showed a pronounced increase in N2 adsorption, particularly at both low ( _P_ / _P_ 0 < 0.01) and intermediate ( _P_ / _P_ 0 = 0.45–0.99) relative pressures, indicating the formation of a hierarchical micro–mesoporous structure. The isotherm type evolved from type I to type IV, characteristic of mesoporous materials with capillary condensation in the medium-pressure region. The _S_ BET values of SA-CCD-5, SA-CCD-6, and SA-CCD-7 significantly increased to 779, 802, and 889 m[2] g _[−]_[1] , respectively, accompanied by a corresponding rise in total pore volume ( _V_ total) from 0.536 to 0.715 cm[3] g _[−]_[1] . This significant enhancement in surface area and pore volume confirms that steam activation effectively develops internal porosity within the carbon framework. 
 
 
-![](_images/Green Synthesis of Activated Carbons from Coconut Coir Dust via_images/_temp_95bbc14c_convert_.pdf-0006-04.png)
+![](_temp_b8ca3f54_convert__images/_temp_b8ca3f54_convert_.pdf-0006-04.png)
 
 
 
-![](_images/Green Synthesis of Activated Carbons from Coconut Coir Dust via_images/_temp_95bbc14c_convert_.pdf-0006-05.png)
+![](_temp_b8ca3f54_convert__images/_temp_b8ca3f54_convert_.pdf-0006-05.png)
 
 
 **Figure 3.** ( **a** ) N2 adsorption–desorption isotherms and ( **b** ) DFT pore-size distribution profiles of CCD and SA-CCD samples. 
@@ -190,31 +190,31 @@ _Chemistry_ **2025** , _7_ , 184
 These elements originate from the inherent mineral components of coconut coir dust and may remain partially embedded within the carbon matrix after carbonization and steam activation. Although present in small amounts, such residues are likely responsible for the minor crystalline peaks observed in the XRD patterns. 
 
 
-![](_images/Green Synthesis of Activated Carbons from Coconut Coir Dust via_images/_temp_95bbc14c_convert_.pdf-0008-03.png)
+![](_temp_b8ca3f54_convert__images/_temp_b8ca3f54_convert_.pdf-0008-03.png)
 
 
 
-![](_images/Green Synthesis of Activated Carbons from Coconut Coir Dust via_images/_temp_95bbc14c_convert_.pdf-0008-04.png)
+![](_temp_b8ca3f54_convert__images/_temp_b8ca3f54_convert_.pdf-0008-04.png)
 
 
 
-![](_images/Green Synthesis of Activated Carbons from Coconut Coir Dust via_images/_temp_95bbc14c_convert_.pdf-0008-05.png)
+![](_temp_b8ca3f54_convert__images/_temp_b8ca3f54_convert_.pdf-0008-05.png)
 
 
 
-![](_images/Green Synthesis of Activated Carbons from Coconut Coir Dust via_images/_temp_95bbc14c_convert_.pdf-0008-06.png)
+![](_temp_b8ca3f54_convert__images/_temp_b8ca3f54_convert_.pdf-0008-06.png)
 
 
 
-![](_images/Green Synthesis of Activated Carbons from Coconut Coir Dust via_images/_temp_95bbc14c_convert_.pdf-0008-07.png)
+![](_temp_b8ca3f54_convert__images/_temp_b8ca3f54_convert_.pdf-0008-07.png)
 
 
 
-![](_images/Green Synthesis of Activated Carbons from Coconut Coir Dust via_images/_temp_95bbc14c_convert_.pdf-0008-08.png)
+![](_temp_b8ca3f54_convert__images/_temp_b8ca3f54_convert_.pdf-0008-08.png)
 
 
 
-![](_images/Green Synthesis of Activated Carbons from Coconut Coir Dust via_images/_temp_95bbc14c_convert_.pdf-0008-09.png)
+![](_temp_b8ca3f54_convert__images/_temp_b8ca3f54_convert_.pdf-0008-09.png)
 
 
 **Figure 4.** ( **a** ) XRD patterns and ( **b** ) Raman spectra of the CCD and SA-CCD samples. 
@@ -230,11 +230,11 @@ _Chemistry_ **2025** , _7_ , 184
 9 of 16 
 
 
-![](_images/Green Synthesis of Activated Carbons from Coconut Coir Dust via_images/_temp_95bbc14c_convert_.pdf-0009-02.png)
+![](_temp_b8ca3f54_convert__images/_temp_b8ca3f54_convert_.pdf-0009-02.png)
 
 
 
-![](_images/Green Synthesis of Activated Carbons from Coconut Coir Dust via_images/_temp_95bbc14c_convert_.pdf-0009-03.png)
+![](_temp_b8ca3f54_convert__images/_temp_b8ca3f54_convert_.pdf-0009-03.png)
 
 
 **Figure 5.** FTIR spectra of raw coconut coir dust, CCD, and SA-CCD samples. 
@@ -250,11 +250,11 @@ _Chemistry_ **2025** , _7_ , 184
 10 of 16 
 
 
-![](_images/Green Synthesis of Activated Carbons from Coconut Coir Dust via_images/_temp_95bbc14c_convert_.pdf-0010-02.png)
+![](_temp_b8ca3f54_convert__images/_temp_b8ca3f54_convert_.pdf-0010-02.png)
 
 
 
-![](_images/Green Synthesis of Activated Carbons from Coconut Coir Dust via_images/_temp_95bbc14c_convert_.pdf-0010-03.png)
+![](_temp_b8ca3f54_convert__images/_temp_b8ca3f54_convert_.pdf-0010-03.png)
 
 
 **Figure 6.** Electrochemical measurements in 6 M KOH electrolyte using a three-electrode system: ( **a** ) Comparative CV curves at a scan rate of 50 mV s _[−]_[1] of all SA-CCD samples. ( **b** ) CV curves of the SA-CCD-7 at various scan rates varying from 10 to 100 mV s _[−]_[1] . ( **c** ) Comparative GCD curves at a current density of 1 A g _[−]_[1] of all SA-CCD samples. ( **d** ) GCD curves of SA-CCD-7 at various current densities ranging from 1 to 20 A g _[−]_[1] . 
@@ -270,11 +270,11 @@ _Chemistry_ **2025** , _7_ , 184
 further highlights the advantage of its interconnected pore network, which effectively balances high surface area with rapid ion diffusion pathways. The _Cs_ value of SA-CCD-7 obtained in this work is comparable to that of biomass-derived ACs prepared by physical activation (steam or CO2) reported in previous studies (Table 2) [46–52]. 
 
 
-![](_images/Green Synthesis of Activated Carbons from Coconut Coir Dust via_images/_temp_95bbc14c_convert_.pdf-0011-03.png)
+![](_temp_b8ca3f54_convert__images/_temp_b8ca3f54_convert_.pdf-0011-03.png)
 
 
 
-![](_images/Green Synthesis of Activated Carbons from Coconut Coir Dust via_images/_temp_95bbc14c_convert_.pdf-0011-04.png)
+![](_temp_b8ca3f54_convert__images/_temp_b8ca3f54_convert_.pdf-0011-04.png)
 
 
 **Figure 7.** ( **a** ) Specific capacitance ( _Cs_ ) versus current density and ( **b** ) capacitance contribution derived from the Trasatti method of SA-CCD samples. 
@@ -305,39 +305,39 @@ _Chemistry_ **2025** , _7_ , 184
 the electrode material. The GCD curves at current densities from 0.1 to 2 A g _[−]_[1] exhibited symmetric and linear triangular profiles with negligible _IR_ drop, further verifying ideal capacitive behavior and high reversibility of charge–discharge processes (Figure 8b). The specific capacitance of the device ( _C_ cell), calculated from the GCD curves (Figure 8c), decreased gradually with increasing current density, due to limited ion diffusion at high rates. The device retained a capacitance of 5.4 F g _[−]_[1] at 2 A g _[−]_[1] , corresponding to 68% of its initial value (8.0 F g _[−]_[1] at 0.1 A g _[−]_[1] ), demonstrating good rate performance and stable charge storage capability. The Ragone plot (Figure 8d) shows that the device delivered an energy density of 0.9–1.2 Wh kg _[−]_[1] and a power density of 50–2500 W kg _[−]_[1] . The gradual decrease in energy density with increasing power density reflects the typical power–energy trade-off observed in electrochemical supercapacitors, where higher current densities shorten discharge times and increase resistive losses. However, the device maintained a relatively high energy density even at elevated power density. These values are comparable to or higher than those of other biomass-derived ACs reported in the literature [16,57–63]. The inset in Figure 8c further demonstrates the ability of two assembled coin-cell devices connected in series to illuminate a green light-emitting diode (LED), visually confirming the practical energy-storage capability of the fabricated supercapacitor devices. 
 
 
-![](_images/Green Synthesis of Activated Carbons from Coconut Coir Dust via_images/_temp_95bbc14c_convert_.pdf-0012-03.png)
+![](_temp_b8ca3f54_convert__images/_temp_b8ca3f54_convert_.pdf-0012-03.png)
 
 
 
-![](_images/Green Synthesis of Activated Carbons from Coconut Coir Dust via_images/_temp_95bbc14c_convert_.pdf-0012-04.png)
+![](_temp_b8ca3f54_convert__images/_temp_b8ca3f54_convert_.pdf-0012-04.png)
 
 
 
-![](_images/Green Synthesis of Activated Carbons from Coconut Coir Dust via_images/_temp_95bbc14c_convert_.pdf-0012-05.png)
+![](_temp_b8ca3f54_convert__images/_temp_b8ca3f54_convert_.pdf-0012-05.png)
 
 
 
-![](_images/Green Synthesis of Activated Carbons from Coconut Coir Dust via_images/_temp_95bbc14c_convert_.pdf-0012-06.png)
+![](_temp_b8ca3f54_convert__images/_temp_b8ca3f54_convert_.pdf-0012-06.png)
 
 
 
-![](_images/Green Synthesis of Activated Carbons from Coconut Coir Dust via_images/_temp_95bbc14c_convert_.pdf-0012-07.png)
+![](_temp_b8ca3f54_convert__images/_temp_b8ca3f54_convert_.pdf-0012-07.png)
 
 
 
-![](_images/Green Synthesis of Activated Carbons from Coconut Coir Dust via_images/_temp_95bbc14c_convert_.pdf-0012-08.png)
+![](_temp_b8ca3f54_convert__images/_temp_b8ca3f54_convert_.pdf-0012-08.png)
 
 
 
-![](_images/Green Synthesis of Activated Carbons from Coconut Coir Dust via_images/_temp_95bbc14c_convert_.pdf-0012-09.png)
+![](_temp_b8ca3f54_convert__images/_temp_b8ca3f54_convert_.pdf-0012-09.png)
 
 
 
-![](_images/Green Synthesis of Activated Carbons from Coconut Coir Dust via_images/_temp_95bbc14c_convert_.pdf-0012-10.png)
+![](_temp_b8ca3f54_convert__images/_temp_b8ca3f54_convert_.pdf-0012-10.png)
 
 
 
-![](_images/Green Synthesis of Activated Carbons from Coconut Coir Dust via_images/_temp_95bbc14c_convert_.pdf-0012-11.png)
+![](_temp_b8ca3f54_convert__images/_temp_b8ca3f54_convert_.pdf-0012-11.png)
 
 
 **Figure 8.** Electrochemical measurements of a symmetric coin-cell supercapacitor device (twoelectrode system) using SA-CCD-7 as the electrode materials: ( **a** ) CV curves at various scan rates ranging from 10 to 100 mV s _[−]_[1] , ( **b** ) GCD curves at various current densities ranging from 0.1 to 2 A g _[−]_[1] , ( **c** ) specific capacitance versus current density (the inset shows a green LED powering by two coin-cell supercapacitors), and ( **d** ) Ragone plot (energy density versus power density) of our coin-cell supercapacitor device compared with those using biomass-derived ACs as the electrode materials reported in the literature [16,57–63]. 
@@ -351,11 +351,11 @@ _Chemistry_ **2025** , _7_ , 184
 versibility and mechanical integrity. Similarly, the GCD curves recorded after 10,000 cycles (Figure 9b) showed minimal distortion compared to the initial scan, confirming excellent long-term durability. Collectively, these results demonstrate that SA-CCD-7 delivered high capacitance, competitive energy and power densities, and exceptional cycling stability, highlighting its potential as a sustainable electrode material for next-generation biomass-derived supercapacitors. 
 
 
-![](_images/Green Synthesis of Activated Carbons from Coconut Coir Dust via_images/_temp_95bbc14c_convert_.pdf-0013-03.png)
+![](_temp_b8ca3f54_convert__images/_temp_b8ca3f54_convert_.pdf-0013-03.png)
 
 
 
-![](_images/Green Synthesis of Activated Carbons from Coconut Coir Dust via_images/_temp_95bbc14c_convert_.pdf-0013-04.png)
+![](_temp_b8ca3f54_convert__images/_temp_b8ca3f54_convert_.pdf-0013-04.png)
 
 
 **Figure 9.** ( **a** ) Capacitance retention over 10,000 cycles at 2 A g _[−]_[1] , and ( **b** ) GCD curves at 1 A g _[−]_[1] before and after stability test for 10,000 cycles (1st and 10,000th cycles). 

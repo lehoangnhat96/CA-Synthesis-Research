@@ -1,0 +1,36 @@
+--- Match around line 274 ---
+271: [38](#quy-hoạch-thực-nghiệm-tối-ưu-hóa-doe)](#quy-hoạch-thực-nghiệm-tối-ưu-hóa-doe)
+272: 
+273: [2.9. Kế hoạch thẩm định phương pháp phân tích (Validation)
+274: [39](#kế-hoạch-thẩm-định-phương-pháp-phân-tích-validation)](#kế-hoạch-thẩm-định-phương-pháp-phân-tích-validation)
+275: 
+276: [2.10. Thiết lập thông số đo SWASV kim loại nặng (Pb²⁺, Cd²⁺, Zn²⁺)
+277: [40](#thiết-lập-thông-số-đo-swasv-kim-loại-nặng-pb²-cd²-zn²)](#thiết-lập-thông-số-đo-swasv-kim-loại-nặng-pb²-cd²-zn²)
+
+--- Match around line 1031 ---
+1028: Hệ dung môi NH<sub>4</sub>OH-Urea trương nở cellulose thông qua việc
+1029: thiết lập lớp solvate hóa phân cực và tích lũy điện tích bề mặt (hạn chế
+1030: tiềm tàng cần đối chứng thực nghiệm). Theo lý thuyết keo của Paul C.
+1031: Hiemenz \[39\], thuyết DLVO chỉ ra sự thế cân bằng giữa lực đẩy tĩnh
+1032: điện (lớp kép điện hóa EDL) và lực hút Van der Waals giữ cho cellulose
+1033: sol ổn định ở nhiệt độ lạnh.
+1034: 
+
+--- Match around line 1637 ---
+1634: góc thấm ướt, r là bán kính lỗ xốp (với lỗ xốp nano/mesopore, r \< 50 nm
+1635: làm Pc tăng lên hàng chục Megapascal). Áp suất khổng lồ này kéo ép hai
+1636: vách lỗ xốp lại gần nhau, làm sập hoàn toàn cấu trúc aerogel (Linear
+1637: Shrinkage \> 20%) \[39\].
+1638: 
+1639: #### 2.4.4.2. Nguyên lý thăng hoa băng giữ cấu trúc xốp (Freeze-Drying)
+1640: 
+
+--- Match around line 2711 ---
+2708: Prod.*, vol. 211, p. 118241, May 2024, doi:
+2709: 10.1016/j.indcrop.2024.118241.
+2710: 
+2711: \[39\] A. W. Adamson and A. P. Gast, Physical Chemistry of Surfaces, 6th
+2712: ed. New York, NY, USA: John Wiley & Sons, 1997.
+2713: 
+2714: \[40\] J. N. Israelachvili, Intermolecular and Surface Forces, 3rd ed.
+

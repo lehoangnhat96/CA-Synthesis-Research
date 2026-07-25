@@ -45,7 +45,7 @@ _Cố định màng enzyme trên bề mặt vi điện cực:_ Enzym Acetylcholi
 Các thí nghiệm điện hóa được tiến hành trên thiết bị AUTOLAB PGSTAT302N (Metrohm, Hà Lan). Hình ảnh FE-SEM được chụp trên thiết bị S-4800 (Hitachi, Nhật Bản). Phổ FTIR 
 
 
-![](_images/NGHIÊN CỨU ỨNG DỤNG CẢM BIẾN SINH HỌC ĐIỆN HÓA TRÊN CƠ SỞ VI ĐIỆN CỰC BIẾN TÍNH XÁC ĐỊNH DƯ LƯỢNG THUỐC BẢO VỆ THỰC VẬT_images/_temp_8d1fb74a_convert_.pdf-0002-11.png)
+![](_temp_b2c9d4ca_convert__images/_temp_b2c9d4ca_convert_.pdf-0002-11.png)
 
 
 _Hình 1. Sơ đồ khối hệ thống tích hợp: cảm biến, xử lí/khuếch đại và truyền dữ liệu không dây_ 
@@ -59,11 +59,11 @@ _Hình 1. Sơ đồ khối hệ thống tích hợp: cảm biến, xử lí/khu�
 Hình 2 là phổ FTIR của màng PANi phủ trên bề mặt điện cực bằng phương pháp điện hóa. Kết quả trên phổ FTIR xuất hiện các dao động đặc trưng cho PANi tại số sóng 3441 cm[-1] (dao  động hóa trị N H), 2920 cm[-1] (dao động hóa trị =C  H trong mạch vòng), 1594 cm[-1 ] (dao động C=N), 1509 cm[-1] (dao động hóa trị C=C (dao động khung)); 1302 cm[-1 ] (dao động C-N);  1161, 825 và 520 cm[-1] (dao động hóa trị C H) [10,11]. Như vậy, màng PANi đã được tổng hợp điện hóa thành công trên bề mặt hệ vi điện cực. Màng polyme dẫn có nhóm chức –NH được xác định bằng phổ FT-IR tạo khả năng liên kết với các vật liệu chức năng (graphen, enzym đặc hiệu) để xây dựng cảm biến sinh học điện hóa. 
 
 
-![](_images/NGHIÊN CỨU ỨNG DỤNG CẢM BIẾN SINH HỌC ĐIỆN HÓA TRÊN CƠ SỞ VI ĐIỆN CỰC BIẾN TÍNH XÁC ĐỊNH DƯ LƯỢNG THUỐC BẢO VỆ THỰC VẬT_images/_temp_8d1fb74a_convert_.pdf-0003-03.png)
+![](_temp_b2c9d4ca_convert__images/_temp_b2c9d4ca_convert_.pdf-0003-03.png)
 
 
 
-![](_images/NGHIÊN CỨU ỨNG DỤNG CẢM BIẾN SINH HỌC ĐIỆN HÓA TRÊN CƠ SỞ VI ĐIỆN CỰC BIẾN TÍNH XÁC ĐỊNH DƯ LƯỢNG THUỐC BẢO VỆ THỰC VẬT_images/_temp_8d1fb74a_convert_.pdf-0003-04.png)
+![](_temp_b2c9d4ca_convert__images/_temp_b2c9d4ca_convert_.pdf-0003-04.png)
 
 
 **----- Start of picture text -----**<br>
@@ -75,7 +75,7 @@ _Hình 2. Phổ FT-IR của PANi tổng hợp bằng phương pháp điện hóa
 Hình 3 là ảnh FE-SEM của màng Gr sau khi phủ trên bề mặt điện cực Pt/PANi. Kết quả cho thấy màng Gr rất mỏng và được phủ đều trên bề mặt điện cực Pt/PANi. Cấu trúc màng layerby-layer PANi/Gr được chế tạo thành công sẽ làm tăng độ nhạy, độ dẫn điện và thời gian truyền dẫn tín hiệu điện hóa của cảm biến. 
 
 
-![](_images/NGHIÊN CỨU ỨNG DỤNG CẢM BIẾN SINH HỌC ĐIỆN HÓA TRÊN CƠ SỞ VI ĐIỆN CỰC BIẾN TÍNH XÁC ĐỊNH DƯ LƯỢNG THUỐC BẢO VỆ THỰC VẬT_images/_temp_8d1fb74a_convert_.pdf-0003-07.png)
+![](_temp_b2c9d4ca_convert__images/_temp_b2c9d4ca_convert_.pdf-0003-07.png)
 
 
 _Hình 3. Ảnh FE-SEM của màng graphen sau khi gắn lên điện cực Pt/PANi_ 
@@ -83,7 +83,7 @@ _Hình 3. Ảnh FE-SEM của màng graphen sau khi gắn lên điện cực Pt/P
 Tính chất điện hóa của bề mặt vi điện cực biến tính được nghiên cứu bằng phổ xung sóng vuông nhằm hạn chế sự ảnh hưởng của điện áp đặt vào vật liệu sinh học, tăng độ nhạy của tín hiệu. Dòng điện phản hồi của vi điện cực được thể hiện trên hình 4. 
 
 
-![](_images/NGHIÊN CỨU ỨNG DỤNG CẢM BIẾN SINH HỌC ĐIỆN HÓA TRÊN CƠ SỞ VI ĐIỆN CỰC BIẾN TÍNH XÁC ĐỊNH DƯ LƯỢNG THUỐC BẢO VỆ THỰC VẬT_images/_temp_8d1fb74a_convert_.pdf-0003-10.png)
+![](_temp_b2c9d4ca_convert__images/_temp_b2c9d4ca_convert_.pdf-0003-10.png)
 
 
 **----- Start of picture text -----**<br>
@@ -99,7 +99,7 @@ Kết quả phổ xung sóng vuông SWV trên hình 4 cho thấy màng PANi gắ
 Hoạt tính của enzym AChE gắn cố định trên điện cực được thử nghiệm với nồng độ cơ chất AChCl 50 µM. Sự thủy phân của cơ chất tại các vị trí hoạt động của enzym trên bề mặt cảm biến được ghi nhận bằng hai phương pháp áp thế và quét thế (Hình 5). Điều đó khẳng định enzym đã được gắn cố định trên điện cực và vẫn giữ được hoạt tính. 
 
 
-![](_images/NGHIÊN CỨU ỨNG DỤNG CẢM BIẾN SINH HỌC ĐIỆN HÓA TRÊN CƠ SỞ VI ĐIỆN CỰC BIẾN TÍNH XÁC ĐỊNH DƯ LƯỢNG THUỐC BẢO VỆ THỰC VẬT_images/_temp_8d1fb74a_convert_.pdf-0004-01.png)
+![](_temp_b2c9d4ca_convert__images/_temp_b2c9d4ca_convert_.pdf-0004-01.png)
 
 
 _Hình 5. Ghi nhận phản ứng enzym-cơ chất trên bề mặt điện cực bằng phương pháp quét thế tại V = + 300 mV_ 
@@ -107,7 +107,7 @@ _Hình 5. Ghi nhận phản ứng enzym-cơ chất trên bề mặt điện cự
 Việc xác định dư lượng thuốc BVTV sử dụng cảm biến enzym dựa trên sự ức chế của thuốc BVTV tới hoạt tính của enzym đó. Tín hiệu liên quan đến hoạt hóa của enzym càng mạnh thì càng thuận tiện cho việc theo dõi độ giảm của độ hoạt hóa khi có mặt thuốc BVTV. Do đó, việc xác định nồng độ cơ chất bão hòa, nồng độ của cơ chất mà tại đó tín hiệu thu nhận giữ giá trị không đổi và màng enzym đã phản ứng hoàn toàn với cơ chất, đóng vai trò quan trọng đối với hoạt động của các cảm biến enzym. Đường chuẩn cơ chất của cảm biến enzym được thể hiện trên hình 6. Đáp ứng dòng điện đối với điện áp +300 mV được ghi nhận với nồng độ cơ chất tăng từ 1 tới 900 µM. Kết quả thu được cho thấy khi cơ chất AChCl đạt nồng độ trong khoảng 1 mM thì tín hiệu thu được đạt giá trị bão hòa và tín hiệu đầu ra không đổi. Vùng hoạt động tối ưu của cảm biến được xác định là nằm trong khoảng 50 – 100 µM. Nghiên cứu thử nghiệm hoạt động của cảm biến ở các nồng độ lớn hơn (trên 100 µM) cho thấy dấu hiệu chậm hoạt động của các cảm biến này khi có chất ức chế. Và hiển nhiên, vùng nồng độ thấp hơn (< 50 µM) sẽ cho tín hiệu ban đầu thấp, không thuận tiện cho phép đo xác định nồng độ thuốc BVTV. 
 
 
-![](_images/NGHIÊN CỨU ỨNG DỤNG CẢM BIẾN SINH HỌC ĐIỆN HÓA TRÊN CƠ SỞ VI ĐIỆN CỰC BIẾN TÍNH XÁC ĐỊNH DƯ LƯỢNG THUỐC BẢO VỆ THỰC VẬT_images/_temp_8d1fb74a_convert_.pdf-0004-04.png)
+![](_temp_b2c9d4ca_convert__images/_temp_b2c9d4ca_convert_.pdf-0004-04.png)
 
 
 _Hình 6. Đường chuẩn biểu diễn sự phụ thuộc của tín hiệu đầu ra vào nồng độ cơ chất_ 
@@ -117,7 +117,7 @@ _Hình 6. Đường chuẩn biểu diễn sự phụ thuộc của tín hiệu �
 Trong phần này chúng tôi tiến hành thử nghiệm khả năng phát hiện thuốc BVTV của cảm biến đã chế tạo được với một số thuốc thử nghiệm thuộc dòng lân hữu cơ (Methamidophos). Thử nghiệm được tiến hành bằng phương pháp áp thế tại điện thế +300 mV. Sự có mặt của thuốc BVTV trong dung dịch thử được biểu hiện thông qua sự ức chế phản ứng enzyme AChE với cơ chất AChCl, nói cách khác là sự sụt dòng trên đường áp thế. Độ dốc của đường suy giảm cường độ dòng điện trên đường áp thế khi có mặt thuốc BVTV tỉ lệ với nồng độ thuốc BVTV (Hình 7). 
 
 
-![](_images/NGHIÊN CỨU ỨNG DỤNG CẢM BIẾN SINH HỌC ĐIỆN HÓA TRÊN CƠ SỞ VI ĐIỆN CỰC BIẾN TÍNH XÁC ĐỊNH DƯ LƯỢNG THUỐC BẢO VỆ THỰC VẬT_images/_temp_8d1fb74a_convert_.pdf-0004-08.png)
+![](_temp_b2c9d4ca_convert__images/_temp_b2c9d4ca_convert_.pdf-0004-08.png)
 
 
 _Hình 7. Phát hiện thuốc BVTV họ Methamidophos sử dụng cảm biến điện hóa AChE bằng phương pháp áp thế_ 
@@ -129,7 +129,7 @@ Việc tiến hành xây dựng đường chuẩn để xác định dư lượn
 129 
 
 
-![](_images/NGHIÊN CỨU ỨNG DỤNG CẢM BIẾN SINH HỌC ĐIỆN HÓA TRÊN CƠ SỞ VI ĐIỆN CỰC BIẾN TÍNH XÁC ĐỊNH DƯ LƯỢNG THUỐC BẢO VỆ THỰC VẬT_images/_temp_8d1fb74a_convert_.pdf-0005-00.png)
+![](_temp_b2c9d4ca_convert__images/_temp_b2c9d4ca_convert_.pdf-0005-00.png)
 
 
 _Hình 8. Đường chuẩn thuốc BVTV họ Methamidophos sử dụng cảm biến điện hóa AChE bằng phương pháp áp thế_ 
@@ -163,7 +163,7 @@ _Bảng 2. Kết quả phân tích trên nền rau_
 Kết quả kiểm tra dư lượng thuốc BVTV có thể được tính toán từ các dữ liệu hiển thị trên màn hình máy đo, hoặc màn hình máy tính. Tuy nhiên, chúng tôi tiến hành kết nối hệ thiết bị với modun dẫn truyền không dây GSM/GPRS nhằm đẩy dữ liệu này lên Google Drive, cho phép hiển thị trực tiếp nồng độ thuốc BVTV. Giao diện đăng nhập cho người sử dụng là tài khoản Google và giao diện người sử dụng là bảng Google spreadsheet nằm bên trong Google Drive (hình 9). 
 
 
-![](_images/NGHIÊN CỨU ỨNG DỤNG CẢM BIẾN SINH HỌC ĐIỆN HÓA TRÊN CƠ SỞ VI ĐIỆN CỰC BIẾN TÍNH XÁC ĐỊNH DƯ LƯỢNG THUỐC BẢO VỆ THỰC VẬT_images/_temp_8d1fb74a_convert_.pdf-0005-11.png)
+![](_temp_b2c9d4ca_convert__images/_temp_b2c9d4ca_convert_.pdf-0005-11.png)
 
 
 _Hình 9. Giao diện truy cập tài khoản Google_ 
@@ -171,7 +171,7 @@ _Hình 9. Giao diện truy cập tài khoản Google_
 130 
 
 
-![](_images/NGHIÊN CỨU ỨNG DỤNG CẢM BIẾN SINH HỌC ĐIỆN HÓA TRÊN CƠ SỞ VI ĐIỆN CỰC BIẾN TÍNH XÁC ĐỊNH DƯ LƯỢNG THUỐC BẢO VỆ THỰC VẬT_images/_temp_8d1fb74a_convert_.pdf-0006-00.png)
+![](_temp_b2c9d4ca_convert__images/_temp_b2c9d4ca_convert_.pdf-0006-00.png)
 
 
 _Hình 10. Hiển thị nồng độ thuốc trừ sâu trên thiết bị Client_ 

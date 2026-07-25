@@ -1,11 +1,11 @@
 ## Analyst 
 
 
-![](_images/Electrochemical sensor based on N-doped carbon dots decorated with manganese_images/_temp_64c0b665_convert_.pdf-0001-02.png)
+![](_temp_8a69eaaa_convert__images/_temp_8a69eaaa_convert_.pdf-0001-02.png)
 
 
 
-![](_images/Electrochemical sensor based on N-doped carbon dots decorated with manganese_images/_temp_64c0b665_convert_.pdf-0001-03.png)
+![](_temp_8a69eaaa_convert__images/_temp_8a69eaaa_convert_.pdf-0001-03.png)
 
 
 Cite this: Analyst, 2021, 146, 5135 
@@ -79,7 +79,7 @@ Analyst
 Paper 
 
 
-![](_images/Electrochemical sensor based on N-doped carbon dots decorated with manganese_images/_temp_64c0b665_convert_.pdf-0003-04.png)
+![](_temp_8a69eaaa_convert__images/_temp_8a69eaaa_convert_.pdf-0003-04.png)
 
 
 Fig. 1 Schematic representation of N-CMOS/GCE preparation. 
@@ -113,7 +113,7 @@ Analyst
 Paper 
 
 
-![](_images/Electrochemical sensor based on N-doped carbon dots decorated with manganese_images/_temp_64c0b665_convert_.pdf-0004-04.png)
+![](_temp_8a69eaaa_convert__images/_temp_8a69eaaa_convert_.pdf-0004-04.png)
 
 
 Fig. 2 (A) and (B) SEM images of N-CMOS, (C) EDS element mapping of N-CMOS, (D) FTIR spectra of N-CMOS and PN-CMOS, (E) XRD patterns of N-CMOS and (F) N2 adsorption desorption curves of N-CMOS and PN-CMOS. 
@@ -129,7 +129,7 @@ The electrocatalytic properties of GCE, N-CMOS/GCE and PN-CMOS/GCE were studied 
 The effective specific surface area (Aeff ) values of these three working electrodes were estimated using the Randles–Sevcik equation as follows: 
 
 
-![](_images/Electrochemical sensor based on N-doped carbon dots decorated with manganese_images/_temp_64c0b665_convert_.pdf-0004-11.png)
+![](_temp_8a69eaaa_convert__images/_temp_8a69eaaa_convert_.pdf-0004-11.png)
 
 
 In which IP represents the anodic peak current (A), Aeff is the effective specific surface area of the different working electrodes (cm[2] ), n refers to the number of electrons participating in the redox reaction, D0 is the diffusion coefficient of a 5 mM [Fe (CN)6][−][3/][−][4] solution containing 0.1 M KCl (0.673 × 10[−][5] cm[2] s[−][1] ), ν is the scanning rate (mV s[−][1] ), and C0 is the concentration of the redox probe (mol cm[−][3] ). The effective surface area of the bare GCE, N-CMOS/GCE and PN-CMOS/GCE were calculated as 0.218, 0.288, and 0.116 cm[2] , and the corresponding current densities were 102.03, 114.28, and 99.84 μA cm[−][2] , respectively. The surface average (Γ, in mol cm[−][2] ) of 
@@ -145,7 +145,7 @@ Analyst
 Paper 
 
 
-![](_images/Electrochemical sensor based on N-doped carbon dots decorated with manganese_images/_temp_64c0b665_convert_.pdf-0005-04.png)
+![](_temp_8a69eaaa_convert__images/_temp_8a69eaaa_convert_.pdf-0005-04.png)
 
 
 Fig. 3 (A) DPV curves of N-CMOS/GCE, GCE and PN-CMOS/GCE in 0.1 M PB (pH 7.0) containing 150 μM AP and PAP, (B) CV curves and (C) EIS curves of GCE, N-CMOS/GCE and PN-CMOS/GCE in 5.0 mM [Fe (CN)6][3][−][/4][−] containing 0.1 M KCl. EIS conditions: frequency range of 0.01 Hz–100 kHz, scan rate of 100 mV s[−][1] . (D) CV curves of N-CMOS/GCE in 150 μM PB (pH 7.0) containing 0.1 mM AP and PAP at different scan rates (10–140 mV s[−][1] ). Relationship between the redox peak current and ν for (E) AP, and (F) PAP. Black line: oxidation peak. Red line: reduction peak. 
@@ -153,7 +153,7 @@ Fig. 3 (A) DPV curves of N-CMOS/GCE, GCE and PN-CMOS/GCE in 0.1 M PB (pH 7.0) co
 N-CMOS immobilized on the N-CMOS/GCE was calculated using the following equation. 
 
 
-![](_images/Electrochemical sensor based on N-doped carbon dots decorated with manganese_images/_temp_64c0b665_convert_.pdf-0005-07.png)
+![](_temp_8a69eaaa_convert__images/_temp_8a69eaaa_convert_.pdf-0005-07.png)
 
 
 In which Q is the charge consumed in the CV spectra and n is the electron transfer number (n = 1). F is the Faraday constant (F = 96 493C mol[−][1] ) and Aeff is the effective area of the electrode. The values of Γ for GCE and N-CMOS/GCE were calculated as 5.96 × 10[−][9] and 6.84 × 10[−][9] mol cm[−][2] , which indicated that the N-CMOS/GCE nanocomposites increased the fixed amount of AP and PAP. Therefore, the nanostructure of N-CMOS increases the effective surface area for enrichment of the tested substances, and provides a good conductivity to improve the electron transfer. We can conclude that the N-CMOS nanocomposites fruitfully improved the electrochemical performance of the detected electrode. 
@@ -183,7 +183,7 @@ Paper
 0.5 according to Laviron theory.[27] As a quasi-reversible surfacecontrolled electrochemical process, the electron-transfer rate constant (KS) is determined using Laviron theory:[27] 
 
 
-![](_images/Electrochemical sensor based on N-doped carbon dots decorated with manganese_images/_temp_64c0b665_convert_.pdf-0006-05.png)
+![](_temp_8a69eaaa_convert__images/_temp_8a69eaaa_convert_.pdf-0006-05.png)
 
 
 In which R is the gas constant (R = 8.314 J mol[−][1] K[−][1] ), T is the temperature in Kelvin (T = 298 K) and m is a constant, which relates to ΔEP. The KS AP is calculated as 14.54 s[−][1] , and KS PAP was calculated as 6.61 s[−][1] , which are satisfactory results. 
@@ -197,7 +197,7 @@ unchanged and is also linearly related to the concentration (0.1 to 80 μM), in 
 As shown in Fig. 4C, N-CMOS/GCE were used for the simultaneous detection of PAP and AP in mixed solutions. PAP and AP peak currents increase proportionally upon increasing the corresponding concentrations without resulting in interference with each other. The corresponding linear regression equations of PAP and AP are I (μA) = 0.413 C (μM) + 2.117 (R[2] = 0.997) and I (μA) = 0.593 CAP (μM) + 8.457 (the sensitivity for PAP and AP is calculated as = 0.994) using a concentration range from 0.1 to 100 μM. Subsequently, the results were compared with previously reported electrochemical sensors for the detection of PAP and AP (Table 1), and it can be concluded that the constructed sensor has a superior sensitivity and lower detection limit. 
 
 
-![](_images/Electrochemical sensor based on N-doped carbon dots decorated with manganese_images/_temp_64c0b665_convert_.pdf-0006-11.png)
+![](_temp_8a69eaaa_convert__images/_temp_8a69eaaa_convert_.pdf-0006-11.png)
 
 
 Fig. 4 Differential pulse voltammograms at N-CMOS/GCE in 0.1 M PB (pH 7.0) containing (A) 10 μM AP, and different concentrations of PAP from 0.1 to 100 μM, (B) 30 μM PAP and different concentrations of AP from 0.1 to 100 μM. (C) DPV curves of N-CMOS/GCE in 0.1 M PB (pH 7.0) containing different concentrations of PAP (0.1–100 μM) and AP (0.1–80 μM). The corresponding calibration plots between the DPV response and (D) PAP and (E) AP concentrations. (F) Calibration graphs for simultaneous determination of AP and PAP (S/N = 3). 
@@ -231,7 +231,7 @@ To assess the selectivity, N-CMOS/GCE was used to detect PAP and AP in a mixture
 In order to verify the practical accuracy and precision of the fabricated sensor in actual sample analysis, the N-CMOS/GCE sensor was used to simultaneously detect AP and PAP in paracetamol tablets. As shown in Table S1,† the recovery range of the sensor was 101.01–103.43% for AP and 96.36–103.3% for 
 
 
-![](_images/Electrochemical sensor based on N-doped carbon dots decorated with manganese_images/_temp_64c0b665_convert_.pdf-0007-08.png)
+![](_temp_8a69eaaa_convert__images/_temp_8a69eaaa_convert_.pdf-0007-08.png)
 
 
 Fig. 5 Sensing responses towards AP and PAP in the presence of decuple concentrations of interfering substances using N-CMOS/GCE. 

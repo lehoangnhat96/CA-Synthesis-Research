@@ -21,13 +21,13 @@ Võ Thị Minh Thảo[1*] , Nguyễn Thị Cành[2,4] , Nguyễn Lữ Nguyệt H
 **DOI:** 10.46223/HCMCOUJS. tech.vi.18.1.2200.2023 
 
 
-![](_images/Nghien cuu dac tinh hoa ly va anh huong cua_images/_temp_4c4087fc_convert_.pdf-0001-11.png)
+![](_temp_00b24ca4_convert__images/_temp_00b24ca4_convert_.pdf-0001-11.png)
 
 
 Ngày nhận: 03/03/2022 Ngày nhận lại: 06/05/2022 Duyệt đăng: 17/05/2022 
 
 
-![](_images/Nghien cuu dac tinh hoa ly va anh huong cua_images/_temp_4c4087fc_convert_.pdf-0001-13.png)
+![](_temp_00b24ca4_convert__images/_temp_00b24ca4_convert_.pdf-0001-13.png)
 
 
 ## _Từ khóa_ : 
@@ -35,7 +35,7 @@ Ngày nhận: 03/03/2022 Ngày nhận lại: 06/05/2022 Duyệt đăng: 17/05/20
 điểm điện tích không; hấp phụ; khả năng giữ nước; than sinh học; xơ dừa 
 
 
-![](_images/Nghien cuu dac tinh hoa ly va anh huong cua_images/_temp_4c4087fc_convert_.pdf-0001-16.png)
+![](_temp_00b24ca4_convert__images/_temp_00b24ca4_convert_.pdf-0001-16.png)
 
 
 ## _Keywords:_ 
@@ -53,7 +53,7 @@ Võ Thị Minh Thảo và cộng sự. _HCMCOUJS-Kỹ thuật và Công nghệ, 
 6 
 
 
-![](_images/Nghien cuu dac tinh hoa ly va anh huong cua_images/_temp_4c4087fc_convert_.pdf-0002-02.png)
+![](_temp_00b24ca4_convert__images/_temp_00b24ca4_convert_.pdf-0002-02.png)
 
 
 adsorption and desorption pore sizes are 0.118nm and 0.121nm. There are functional groups O-H, C = O, -CH, C = C that helped enhance chemical adsorption. The coconut coir biochar has a pHPZC of 5.2 and an amorphous carbon structure. The pH value for good adsorption of ammonium, nitrite, and nitrate are 8, 2 with the adsorption efficiency of about 40%, 99.78%, and 99.11%, respectively, thereby aiming to optimize the removal of nitrogen compounds in the environment. 
@@ -115,7 +115,7 @@ Phương pháp bố trí thí nghiệm như sau: Cân 1g than sinh học cho và
 Hiệu suất hấp phụ ammonium được tính bởi công thức: 
 
 
-![](_images/Nghien cuu dac tinh hoa ly va anh huong cua_images/_temp_4c4087fc_convert_.pdf-0004-03.png)
+![](_temp_00b24ca4_convert__images/_temp_00b24ca4_convert_.pdf-0004-03.png)
 
 
 Trong đó: Co (mg/L) là nồng độ chất bị hấp phụ ở thời điểm ban đầu; Ce (mg/L) là nồng độ chất bị hấp phụ ở thời điểm cân bằng và H (%) là hiệu suất của quá trình hấp phụ. 
@@ -177,25 +177,25 @@ Võ Thị Minh Thảo và cộng sự. _HCMCOUJS-Kỹ thuật và Công nghệ, 
 10 
 
 
-![](_images/Nghien cuu dac tinh hoa ly va anh huong cua_images/_temp_4c4087fc_convert_.pdf-0006-02.png)
+![](_temp_00b24ca4_convert__images/_temp_00b24ca4_convert_.pdf-0006-02.png)
 
 
 - a 
 
 
-![](_images/Nghien cuu dac tinh hoa ly va anh huong cua_images/_temp_4c4087fc_convert_.pdf-0006-04.png)
+![](_temp_00b24ca4_convert__images/_temp_00b24ca4_convert_.pdf-0006-04.png)
 
 
 c 
 
 
-![](_images/Nghien cuu dac tinh hoa ly va anh huong cua_images/_temp_4c4087fc_convert_.pdf-0006-06.png)
+![](_temp_00b24ca4_convert__images/_temp_00b24ca4_convert_.pdf-0006-06.png)
 
 
 - b 
 
 
-![](_images/Nghien cuu dac tinh hoa ly va anh huong cua_images/_temp_4c4087fc_convert_.pdf-0006-08.png)
+![](_temp_00b24ca4_convert__images/_temp_00b24ca4_convert_.pdf-0006-08.png)
 
 
 d 
@@ -205,7 +205,7 @@ d
 Nguồn: Từ kết quả nghiên cứu của nhóm thực hiện 
 
 
-![](_images/Nghien cuu dac tinh hoa ly va anh huong cua_images/_temp_4c4087fc_convert_.pdf-0006-12.png)
+![](_temp_00b24ca4_convert__images/_temp_00b24ca4_convert_.pdf-0006-12.png)
 
 
 **Hình 2.** Giản đồ nhiễu xạ tia X (XRD) của than sinh học từ xơ dừa 
@@ -219,7 +219,7 @@ Võ Thị Minh Thảo và cộng sự. _HCMCOUJS-Kỹ thuật và Công nghệ, 
 11 
 
 
-![](_images/Nghien cuu dac tinh hoa ly va anh huong cua_images/_temp_4c4087fc_convert_.pdf-0007-02.png)
+![](_temp_00b24ca4_convert__images/_temp_00b24ca4_convert_.pdf-0007-02.png)
 
 
 **----- Start of picture text -----**<br>
@@ -235,7 +235,7 @@ Kết quả phổ hồng ngoại FT-IR của than sinh học từ xơ dừa cho 
 Kết quả thí nghiệm xác định điểm điện tích không (PZC) của than sinh học từ xơ dừa như sau: Thí nghiệm xác định sơ bộ pHPZC của than sinh học từ xơ dừa ở pH 2 - 12 cho kết quả sự phụ thuộc của ∆pH theo pHi được thể hiện ở đồ thị Hình 4, pHPZC nằm trong khoảng từ 5 - 6. Khoảng pH này được tiếp tục khảo sát chính xác hơn trên dung dịch nền KCl 0.01M, phương trình sự phụ thuộc của ∆pH theo pHi: y = - 1.7457x + 9.1848 với R[2] = 0.9942 (Hình 5) cho thấy điểm pHPZC là 5.2 với ∆pHKCl 0.01M = 0.02. Trên dung dịch nền KCl 0.1M cũng thu được kết quả tương tự với ∆pHKCl 0.1M = 0.07. Như vậy, pHPZC(KCl) của than sinh học từ xơ dừa là 5.2 tương tự với kết quả nghiên cứu của tác giả Hettiarachchi, Perera, Perera, và Kottegoda (2016) là pHPZC = 5.5. 
 
 
-![](_images/Nghien cuu dac tinh hoa ly va anh huong cua_images/_temp_4c4087fc_convert_.pdf-0007-07.png)
+![](_temp_00b24ca4_convert__images/_temp_00b24ca4_convert_.pdf-0007-07.png)
 
 
 **Hình 4.** Đồ thị xác định điểm điện tích không (PZC) của TSH từ xơ dừa ở pH từ 2 - 12 Nguồn: Từ kết quả nghiên cứu của nhóm thực hiện 
@@ -245,7 +245,7 @@ Võ Thị Minh Thảo và cộng sự. _HCMCOUJS-Kỹ thuật và Công nghệ, 
 12 
 
 
-![](_images/Nghien cuu dac tinh hoa ly va anh huong cua_images/_temp_4c4087fc_convert_.pdf-0008-02.png)
+![](_temp_00b24ca4_convert__images/_temp_00b24ca4_convert_.pdf-0008-02.png)
 
 
 **Hình 5.** Đồ thị xác định điểm điện tích không (PZC) của TSH từ xơ dừa ở pH từ 5 - 6 
@@ -257,7 +257,7 @@ _**3.2. Khảo sát ảnh hưởng của pH đến khả năng hấp phụ ammon
 _3.2.1. Khảo sát ảnh hưởng của pH đến khả năng hấp phụ ammonium của than sinh học từ xơ dừa_ 
 
 
-![](_images/Nghien cuu dac tinh hoa ly va anh huong cua_images/_temp_4c4087fc_convert_.pdf-0008-07.png)
+![](_temp_00b24ca4_convert__images/_temp_00b24ca4_convert_.pdf-0008-07.png)
 
 
 **----- Start of picture text -----**<br>
@@ -285,7 +285,7 @@ Than sinh học xơ dừa có hiệu suất xử lý nitrite đạt cực đại
 Thêm vào đó các nghiên cứu của Namasivayam và Sureshkumar (2008) khi tìm hiểu về khả năng hấp phụ của than sinh học xơ dừa đối với Cr (VI), SO4[2-] và các anion khác đều cho kết quả tối ưu ở pH có tính acid. Ngoài ra, nghiên cứu của Santhy và Selvapathy (2006) cũng có kết quả tương tự với kết luận than xơ dừa có khả năng loại bỏ tốt nhất các hợp chất thuốc nhuộm ở khoảng pH từ 1 - 3. 
 
 
-![](_images/Nghien cuu dac tinh hoa ly va anh huong cua_images/_temp_4c4087fc_convert_.pdf-0009-07.png)
+![](_temp_00b24ca4_convert__images/_temp_00b24ca4_convert_.pdf-0009-07.png)
 
 
 **----- Start of picture text -----**<br>
@@ -371,7 +371,7 @@ Suman, S., & Gautam, S. (2017). Pyrolysis of coconut husk biomass: Analysis of i
 Zhang, L., Tu, L., Liang, Y., Chen, Q., Li, Z., Li, C., … Li, W. (2018). Coconut-based activated carbon fibers for efficient adsorption of various organic dyes. _RSC Advances, 8_ (74), 4228042291. 
 
 
-![](_images/Nghien cuu dac tinh hoa ly va anh huong cua_images/_temp_4c4087fc_convert_.pdf-0012-07.png)
+![](_temp_00b24ca4_convert__images/_temp_00b24ca4_convert_.pdf-0012-07.png)
 
 
 Creative Commons Attribution-NonCommercial 4.0 International License. 

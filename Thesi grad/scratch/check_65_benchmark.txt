@@ -1,0 +1,18 @@
+--- Match around line 2286 ---
+2283:   bề mặt điện cực nhờ khả năng phân tán tốt \[54\], mà còn hoạt động như
+2284:   một rào cản tĩnh điện (electrostatic barrier) đẩy lùi hiệu quả các
+2285:   anion cản trở, đồng thời ngăn chặn hiện tượng bám bẩn (fouling) từ quá
+2286:   trình ngưng tụ và trùng hợp của các sản phẩm phụ hữu cơ \[65\]. Cơ chế
+2287:   bảo vệ vi môi trường bề mặt này đặc biệt quan trọng để duy trì độ nhạy
+2288:   và độ lặp lại của cảm biến khi phân tích các mẫu chứa dư lượng dược
+2289:   phẩm có dòng oxi hóa phân hủy phức tạp như Paracetamol \[55, 61,
+
+--- Match around line 2829 ---
+2826: Society, vol. 164, no. 2, pp. A277–A283, Jan. 2017, doi:
+2827: 10.1149/2.0961702jes.
+2828: 
+2829: \[65\] F. Yang, J.-H. Liu, H.-T. Lu, and Q. Zhang, "Electrochemical
+2830: behavior and voltammetric determination of paracetamol on
+2831: Nafion/TiO₂–graphene modified glassy carbon electrode," Colloids and
+2832: Surfaces B: Biointerfaces, vol. 85, no. 2, pp. 289–292, Jul. 2011, doi:
+

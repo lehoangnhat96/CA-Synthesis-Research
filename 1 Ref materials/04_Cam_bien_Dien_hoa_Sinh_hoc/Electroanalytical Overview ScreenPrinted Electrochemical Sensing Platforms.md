@@ -5,7 +5,7 @@ ChemElectroChem
 www.chemelectrochem.org 
 
 
-![](_images/Electroanalytical Overview ScreenPrinted Electrochemical Sensing Platforms_images/_temp_2a02d6cc_convert_.pdf-0001-03.png)
+![](_temp_237fc96d_convert__images/_temp_237fc96d_convert_.pdf-0001-03.png)
 
 
 ## **Electroanalytical Overview: Screen-Printed Electrochemical Sensing Platforms** 
@@ -25,7 +25,7 @@ A classical electrochemical experimental set up is presented in Figure 1A, where
 _E-mail: c.banks@mmu.ac.uk_ 
 
 
-![](_images/Electroanalytical Overview ScreenPrinted Electrochemical Sensing Platforms_images/_temp_2a02d6cc_convert_.pdf-0001-12.png)
+![](_temp_237fc96d_convert__images/_temp_237fc96d_convert_.pdf-0001-12.png)
 
 
 _© 2024 The Authors. ChemElectroChem published by Wiley-VCH GmbH. This is an open access article under the terms of the Creative Commons Attribution License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited._ 
@@ -41,7 +41,7 @@ Review doi.org/10.1002/celc.202400370
 ChemElectroChem 
 
 
-![](_images/Electroanalytical Overview ScreenPrinted Electrochemical Sensing Platforms_images/_temp_2a02d6cc_convert_.pdf-0002-03.png)
+![](_temp_237fc96d_convert__images/_temp_237fc96d_convert_.pdf-0002-03.png)
 
 
 **Figure 1. A** : A typical experimental set-up showing the working electrode (WE, glassy carbon, 3 mm diameter), a counter electrode (CE, a nickel wire) and a reference electrode (RE, saturated calomel electrode); **B** : A screen-printed graphite electrode with a working electrode (3.1 mm diameter), a graphite counter and a Ag/AgCl reference electrodes; **C** : A Scopus search of the words “screen printed”, AND “electrodes” showing the number of paper published according to the year. 
@@ -83,7 +83,7 @@ Review doi.org/10.1002/celc.202400370
 ChemElectroChem 
 
 
-![](_images/Electroanalytical Overview ScreenPrinted Electrochemical Sensing Platforms_images/_temp_2a02d6cc_convert_.pdf-0004-03.png)
+![](_temp_237fc96d_convert__images/_temp_237fc96d_convert_.pdf-0004-03.png)
 
 
 **Figure 2. A** : An overview of how screen-printed electrodes are fabricated, where the ink is screen-printed through being forced through a screen mesh. **B** : A summary of how each layer is composed in order to screen-print electrodes. 
@@ -148,7 +148,7 @@ Review doi.org/10.1002/celc.202400370
 ChemElectroChem 
 
 
-![](_images/Electroanalytical Overview ScreenPrinted Electrochemical Sensing Platforms_images/_temp_2a02d6cc_convert_.pdf-0007-03.png)
+![](_temp_237fc96d_convert__images/_temp_237fc96d_convert_.pdf-0007-03.png)
 
 
 **Figure 3. A** : The use of MIPs being formed upon a screen-printed graphite electrodes that can be used for the measurement of proline. Reprinted with permission under a Creative Commons attribution-type BY from reference.[[49]] B: An overview of the sensing of ceftriaxone. Figure reproduced from reference.[[50]] Copyright 2014 Elsevier. 
@@ -178,7 +178,7 @@ The use of screen-printed graphite electrodes is used for the sensing of 5-fluor
 body (DAb) labelled with a horseradish peroxidase tagged secondary antibody (HRP-antimIgG). This was used to perform amperometry with the hydrogen peroxide–hydroquinone electrochemical based system which gives rise to the electroanalytical signal.[[63]] Using carboxylated magnetic beads, carboxyl groups are activated within a N-(3-dimethyl-aminopropyl)-N’-ethyl-carbodiimide/N-hydroxysulfosuccinimide solution for 35 mins. After which, these are washed twice and are incubated for 15 mins with 5-fluorouracil-BSA for covalent immobilisation. The 5-fluorouracil-BSA- carboxylated magnetic beads are washed twice and the uncreated groups upon the carboxylated magnetic beads are deactivated by incubation for 60 min within 0.1 M ethanolamine solution. Next, the fluorouracil-BSA- carboxylated magnetic beads are incubated for 30 min in a mixed solution containing fluorouracil-BSA (or the sample to analyze) and a diluted DAb solution. DAb-5-fluorouracil-BSAcarboxylated magnetic beads are washed then incubated for 30 min in a solution containing HRP-antimIgG antibody. After two washing steps with PBS, the resulting magnetic immunoconjugates, HRP-antimIgGDAb-5-fluorouracil-BSAcarboxylated magnetic beads are resuspended in a phosphate buffer. This is drop cased onto the screen-printed electrode surface where amperometric measurements are performed by holding the potential at � 0.2 V (Ag pseudo-reference electrode) which immunoassay gave a linear rage of 5–100 ng/mL with a LoD of 1 ng/mL and was shown as a proof-of-concept to be successful 
 
 
-![](_images/Electroanalytical Overview ScreenPrinted Electrochemical Sensing Platforms_images/_temp_2a02d6cc_convert_.pdf-0008-06.png)
+![](_temp_237fc96d_convert__images/_temp_237fc96d_convert_.pdf-0008-06.png)
 
 
 **Figure 4. A** . Summary of the electrochemical immunosensor for cholangiocarcinoma. Figure reproduced from reference.[[64]] Copyright 2024 Elsevier. **B** : Schematic diagram of the proposed 5-fluorouracil immunoassay strategy taking advantage of an indirect competitive assay performed on the surface of MBs and amperometric transduction using screen-printed graphite electrodes. Figure reproduced from reference.[[63]] Copyright 2024 Elsevier. **C** : An overview of the use of polyxydroxybutyrate (PHB) alongside graphene oxide for anchoring specific antibodies against SARS-CoV-2 nucleocapsid protein (AbN) for the detection of virus antigen (N-protein) in three different matrixes: saliva, serum, and nasal swab. Figure reproduced from reference.[[66]] Copyright 2023 Elsevier. 
@@ -237,7 +237,7 @@ Review doi.org/10.1002/celc.202400370
 ChemElectroChem 
 
 
-![](_images/Electroanalytical Overview ScreenPrinted Electrochemical Sensing Platforms_images/_temp_2a02d6cc_convert_.pdf-0011-03.png)
+![](_temp_237fc96d_convert__images/_temp_237fc96d_convert_.pdf-0011-03.png)
 
 
 **Figure 5. A** : A schematic image of the preparation of the biosensor for toxin detection utilizing a gold bulk modified screen-printed electrode hosting a competitive immunoassay format. Figure reproduced from reference.[[77]] Copyright 2017 Elsevier. **B** : In (a) SPE modified with DNA Aptamer and MCH to form a self-assembled monolayer (SAM). In (b) SPE modified with DNA Aptamer, MCH and HDT to form a ternary SAM. The HDT can adopt a vertical or horizontal configuration, blocking the remaining spaces on the irregular surface. The molecules were not drawn to scale. Figure reproduced from reference.[[78]] Copyright 2021 Elsevier. **C** : An overview of the assembling of the AChE biosensor. Figure reproduced from reference.[[80]] Copyright 2013 Elsevier. 
@@ -261,13 +261,13 @@ Review doi.org/10.1002/celc.202400370
 ChemElectroChem 
 
 
-![](_images/Electroanalytical Overview ScreenPrinted Electrochemical Sensing Platforms_images/_temp_2a02d6cc_convert_.pdf-0012-03.png)
+![](_temp_237fc96d_convert__images/_temp_237fc96d_convert_.pdf-0012-03.png)
 
 
 **Scheme 1.** An overview of the geometries of macroelectrodes (A), microelectrodes (B), microelectrode array (C), microband (D) and a microband (E) array. 
 
 
-![](_images/Electroanalytical Overview ScreenPrinted Electrochemical Sensing Platforms_images/_temp_2a02d6cc_convert_.pdf-0012-05.png)
+![](_temp_237fc96d_convert__images/_temp_237fc96d_convert_.pdf-0012-05.png)
 
 
 **Figure 6. A** : Schematic illustration of the multianalyte screen-printed carbon biosensor array. Figure reproduced from reference.[[94]] Copyright 2019 The American Chemical Society. **B** : Schematic illustration of a circulating tumor DNA sensor. Reprinted with permission under a Creative Commons attributiontype BY from reference.[[95]] **C** : An overview of the innovative in the development for a DNA sensor for the measurement of KRAS G12D and G13D point mutations in different tumour types. Reprinted with permission under a Creative Commons attribution-type BY from reference.[[96]] **D** : An overview of the design and facile production of screen-printed arrays (SPAs) for the internally validated determination of raised levels of serum procalcitonin (PCT). Reprinted with permission under a Creative Commons attribution-type BY from reference.[[97]] 
@@ -344,7 +344,7 @@ Review doi.org/10.1002/celc.202400370
 ChemElectroChem 
 
 
-![](_images/Electroanalytical Overview ScreenPrinted Electrochemical Sensing Platforms_images/_temp_2a02d6cc_convert_.pdf-0016-03.png)
+![](_temp_237fc96d_convert__images/_temp_237fc96d_convert_.pdf-0016-03.png)
 
 
 **Figure 7. A** – **D** : Optical and scanning electron microscopy images of the 50 μm graphite microband. Figure reproduced from reference.[[74]] Copyright 2013 The Royal Society of Chemistry. **E** : Bioelectrocatalysis on laccase-modified carbon electrodes. A and B represent the schemes of direct electron transfer (DET) and mediated electron transfer (MET), respectively, Cat and BQ are catechol and benzoquinone, respectively. i: DET on laccase-modified electrodes. Backgroundsubtracted linear sweep voltammograms obtained at laccase-modified glassy carbon, screen printed graphite disk electrode and graphite microband arrays (solid, dotted and dashed curves, respectively) in air-saturated buffer. ii, iii and iv: MET on laccase-modified glassy carbon, screen printed graphite disk electrode and graphite microband arrays respectively. Linear sweep voltammograms obtained after addition of 0, 10, 50 and 100 μM (black, red, green and blue curves, respectively) of catechol; 0.1 M acetate buffer, the scan rate is 1 mVs[�][1] . Figure reproduced from reference.[[132]] Copyright 2016 Elsevier. **F** : Cyclic voltammograms of the using screen-printed graphite microband electrode arrays within 1 mM solution of K4Fe(CN)6 (curves 1, 2a, 2b, and 3) and a 1 mM solution of Ru(NH3)6Cl2 (dashed curves 1’, 2a’, 2b’, and 3’) in 0.1M HCl, scan rate 50 mVs[�][1] which shows the macroelectrode (curves 1 and 1’, same as a), the multilayer array (curves 2a and 2a’, same as a), the single-layer microband array (0.4 mm length, curves 2b and 2b’), and the single microelectrode (diameter: 7 μm, curves 3 and 3’). Figure reproduced from reference.[[128]] Copyright 2014 Chemistry Europe Journal. **G** : An overview of the screen-printed graphite microband electrode arrays. A single-layer array with profilometer data is shown and a multilayer array of five electrode layers. The optical microscopy image shows the graphite layers as five dark interfacial layers. 
@@ -391,7 +391,7 @@ For example, Wang and co-workers[[176]] have explored an electrochemical pretrea
 electrode that was treated using 0.5 M H2SO4 and 0.01 M H2O2. This involved 10 consecutive voltammetric cycles between + 2 and � 0.3 V at 100 mVs[�][1] , followed by 25 consecutive voltammetric cycles between + 1 and � 0.7 V at 10 mVs[�][1] .[[180]] From observation of the Figure 8B, one can see the dramatic effects of the electrochemical pretreatment, giving rise to faster electron transfer properties facilitated by the formed oxygenate species. Using XPS, the authors show that the at.% carbon is 94.17% where the at.% oxygen is 5.65% before electrochemical activation which changes to at.% carbon is 77.89% where the at.% oxygen is 21.06%.[[180]] This is then presented into the different C/O groups which reports a high C� O to C=O ration as well presence of OH groups in carboxyl functionalisation.[[180]] In comparison for the electroanalysis of hydrogen peroxide, where using an unmodified screen-printed graphite electrode gave rise to a sensitivity of 1.7 nA μM[�][1] cm[�][2] , after treatment this improved to 881 nA μM[�][1] cm[�][2] , which shows the power of electrochemical activation. Another approach worthy of note, is the work by Chen and co-workers[[181]] where an electrochemically pretreated screen-printed graphite electrode, evidenced via XPS, which gave rise to hydroxyl (C� OH) functionalities and mixtures of carboxylic and carbonyl functional groups (� C=O(OH)), which supports the hydrogen evolution reaction. See Figure 8C, which shows the details on how they electrochemically pretreated their screen-printed carbon electrode, where negligible signals are transformed into distinctive hydrogen evolution reaction curves. The hydrogen evolution reaction 
 
 
-![](_images/Electroanalytical Overview ScreenPrinted Electrochemical Sensing Platforms_images/_temp_2a02d6cc_convert_.pdf-0018-05.png)
+![](_temp_237fc96d_convert__images/_temp_237fc96d_convert_.pdf-0018-05.png)
 
 
 **Figure 8. A** : Cyclic voltammograms for 1 mM i, acetaminophen; ii, cysteine; iii, tyrosine; iv, uric acid; and v, catechol at the untreated (top) and electrochemically pretreated (bottom) screen-printed graphite electrodes. Pretreatment (bottom), 3 min at + 2.0 V; scan rate, 50 mVs[�][1] within supporting electrolyte, 0.05 M phosphate buffer. Dashed lines correspond to the response of the blank buffer solution. Figure reproduced from reference.[[176]] Copyright 1996 The Royal Society of Chemistry. **B** : Electrochemical activating using screen-printed graphite electrodes. Figure reproduced from reference.[[180]] Copyright 2019 Elsevier. **C** : An overview of surface pre-treatment of screen-printed graphite electrodes and its assistance for the effective hydrogen evolution reaction in 0.5 M H2SO4 following Heyrovsky type of reaction mechanism. Also shown is linear sweep voltammetric response of pre-treated screen-printed graphite electrodes at � 1.5 V vs Ag/AgCl for 20,000s in pH7 PBS (a), 0.5 M NaOH (b) and 0.5 M H2SO4 (c). Figure reproduced from reference.[[181]] Copyright 2019 Elsevier. 

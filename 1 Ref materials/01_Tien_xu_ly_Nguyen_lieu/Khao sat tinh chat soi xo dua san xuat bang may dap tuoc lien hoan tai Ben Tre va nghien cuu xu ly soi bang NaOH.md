@@ -53,7 +53,7 @@ Hàng năm thế giới sử dụng 5 tỷ trái dừa để sản xuất sợi,
 Sợi rối xơ dừa Bến Tre, được sản xuất bằng máy đập tước liên hoàn, do Công ty TNHH Sáu Nhu thuộc ấp Vĩnh Khánh, xã An Thạnh, huyện Mỏ Cày Nam, Tỉnh Bến Tre cung cấp. 
 
 
-![](_images/Khao sat tinh chat soi xo dua san xuat bang may dap tuoc lien hoan tai Ben Tre va nghien cuu xu ly soi bang NaOH_img/_temp_829da260_heal_.pdf-0002-08.png)
+![](_temp_829da260_convert__images/_temp_829da260_convert_.pdf-0002-08.png)
 
 
 **Hình 1.** Sợi xơ dừa Bến Tre 
@@ -93,11 +93,11 @@ Giá trị đường kính sợi D của 1500 sợi xơ dừa trong khoảng 50�
 SCIENCE & TECHNOLOGY DEVELOPMENT, Vol 17, No.K4- 2014 
 
 
-![](_images/Khao sat tinh chat soi xo dua san xuat bang may dap tuoc lien hoan tai Ben Tre va nghien cuu xu ly soi bang NaOH_img/_temp_829da260_heal_.pdf-0004-01.png)
+![](_temp_829da260_convert__images/_temp_829da260_convert_.pdf-0004-01.png)
 
 
 
-![](_images/Khao sat tinh chat soi xo dua san xuat bang may dap tuoc lien hoan tai Ben Tre va nghien cuu xu ly soi bang NaOH_img/_temp_829da260_heal_.pdf-0004-02.png)
+![](_temp_829da260_convert__images/_temp_829da260_convert_.pdf-0004-02.png)
 
 
 **Hình 2.** Mẫu đo bền kéo của sợi xơ dừa 
@@ -123,7 +123,7 @@ Dựa trên kết quả phân bố đường kính sợi, nhóm nghiên cứu ti
 **TAÏP CHÍ PHAÙT TRIEÅN KH&CN, TAÄP 17, SOÁ K4-2014** 
 
 
-![](_images/Khao sat tinh chat soi xo dua san xuat bang may dap tuoc lien hoan tai Ben Tre va nghien cuu xu ly soi bang NaOH_img/_temp_829da260_heal_.pdf-0005-01.png)
+![](_temp_829da260_convert__images/_temp_829da260_convert_.pdf-0005-01.png)
 
 
 **Hình 3.** Sự phân bố đường kính sợi xơ dừa chưa qua xử lý NaOH 
@@ -149,7 +149,7 @@ So với sợi chưa xử lý, thì Dtb của các sợi đã qua xử lý bằn
 SCIENCE & TECHNOLOGY DEVELOPMENT, Vol 17, No.K4- 2014 
 
 
-![](_images/Khao sat tinh chat soi xo dua san xuat bang may dap tuoc lien hoan tai Ben Tre va nghien cuu xu ly soi bang NaOH_img/_temp_829da260_heal_.pdf-0006-01.png)
+![](_temp_829da260_convert__images/_temp_829da260_convert_.pdf-0006-01.png)
 
 
 **Hình 4.** Sự thay đổi đường kính trung bình Dtb của sợi xơ dừa chưa xử lý và đã qua xử lý bằng NaOH tại các nồng độ % NaOH và nhiệt độ xử lý khác nhau 
@@ -163,7 +163,7 @@ tăng lên và sợi xơ dừa trở nên xốp do các vi sợi rỗng nên d�
 Tuy nhiên khi tăng nồng độ NaOH lên cao 7% thì độ bền kéo đứt của sợi giảm 8.3% so với khi xử lý với nồng độ 5% NaOH, do đó nên xử lý sợi ở điều kiện êm dịu để đảm bảo cơ lý của sợi. 
 
 
-![](_images/Khao sat tinh chat soi xo dua san xuat bang may dap tuoc lien hoan tai Ben Tre va nghien cuu xu ly soi bang NaOH_img/_temp_829da260_heal_.pdf-0006-07.png)
+![](_temp_829da260_convert__images/_temp_829da260_convert_.pdf-0006-07.png)
 
 
 **Hình 5.** Độ bền kéo đứt của sợi xơ dừa chưa xử lý và đã qua xử lý bằng NaOH tại 60[o] C với các nồng độ % NaOH khác nhau 
@@ -175,7 +175,7 @@ Tuy nhiên khi tăng nồng độ NaOH lên cao 7% thì độ bền kéo đứt 
 ## **3.4. Ảnh hưởng của nhiệt độ xử lý lên độ bền kéo đứt sợi xơ dừa** 
 
 
-![](_images/Khao sat tinh chat soi xo dua san xuat bang may dap tuoc lien hoan tai Ben Tre va nghien cuu xu ly soi bang NaOH_img/_temp_829da260_heal_.pdf-0007-02.png)
+![](_temp_829da260_convert__images/_temp_829da260_convert_.pdf-0007-02.png)
 
 
 **Hình 6.** Độ bền kéo đứt của sợi xơ dừa chưa xử lý và đã qua xử lý bằng 5% NaOH tại 40[o] C,50[o] C, 60[o] C 
@@ -200,15 +200,15 @@ tăng của lực, kết quả là sợi độ bền cơ lý tăng khi xử lý 
 SCIENCE & TECHNOLOGY DEVELOPMENT, Vol 17, No.K4- 2014 
 
 
-![](_images/Khao sat tinh chat soi xo dua san xuat bang may dap tuoc lien hoan tai Ben Tre va nghien cuu xu ly soi bang NaOH_img/_temp_829da260_heal_.pdf-0008-01.png)
+![](_temp_829da260_convert__images/_temp_829da260_convert_.pdf-0008-01.png)
 
 
 
-![](_images/Khao sat tinh chat soi xo dua san xuat bang may dap tuoc lien hoan tai Ben Tre va nghien cuu xu ly soi bang NaOH_img/_temp_829da260_heal_.pdf-0008-02.png)
+![](_temp_829da260_convert__images/_temp_829da260_convert_.pdf-0008-02.png)
 
 
 
-![](_images/Khao sat tinh chat soi xo dua san xuat bang may dap tuoc lien hoan tai Ben Tre va nghien cuu xu ly soi bang NaOH_img/_temp_829da260_heal_.pdf-0008-03.png)
+![](_temp_829da260_convert__images/_temp_829da260_convert_.pdf-0008-03.png)
 
 
 **----- Start of picture text -----**<br>

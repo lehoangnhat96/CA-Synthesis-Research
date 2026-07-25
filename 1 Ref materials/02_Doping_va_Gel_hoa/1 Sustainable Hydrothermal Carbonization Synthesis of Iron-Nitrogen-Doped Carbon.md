@@ -1,11 +1,11 @@
 **www.MaterialsViews.com** 
 
 
-![](_images/1 Sustainable Hydrothermal Carbonization Synthesis of Iron-Nitrogen-Doped Carbon_img/_temp_abf51711_heal_.pdf-0001-01.png)
+![](_temp_abf51711_convert__images/_temp_abf51711_convert_.pdf-0001-01.png)
 
 
 
-![](_images/1 Sustainable Hydrothermal Carbonization Synthesis of Iron-Nitrogen-Doped Carbon_img/_temp_abf51711_heal_.pdf-0001-02.png)
+![](_temp_abf51711_convert__images/_temp_abf51711_convert_.pdf-0001-02.png)
 
 
 ## **Electrocatalysts** 
@@ -21,7 +21,7 @@ _**I** t is urgent to develop new kinds of low-cost and high-performance nonprec
 Development of advanced technical devices for energy storage and conversion, such as fuel cells and metal–air batteries, has been considered as an efficient strategy to meet 
 
 
-![](_images/1 Sustainable Hydrothermal Carbonization Synthesis of Iron-Nitrogen-Doped Carbon_img/_temp_abf51711_heal_.pdf-0001-09.png)
+![](_temp_abf51711_convert__images/_temp_abf51711_convert_.pdf-0001-09.png)
 
 
 L.-T. Song, Dr. Z.-Y. Wu, Dr. F. Zhou, Prof. H.-W. Liang, Z.-Y. Yu, Prof. S.-H. Yu Division of Nanomaterials & Chemistry Hefei National Laboratory for Physical Sciences at the Microscale Collaborative Innovation Center of Suzhou Nano Science and Technology Department of Chemistry CAS Center for Excellence in Nanoscience Hefei Science Center of CAS University of Science and Technology of China Hefei 230026, China E-mail: hwliang@ustc.edu.cn; shyu@ustc.edu.cn 
@@ -43,11 +43,11 @@ www.small-journal.com
 ## full papers 
 
 
-![](_images/1 Sustainable Hydrothermal Carbonization Synthesis of Iron-Nitrogen-Doped Carbon_img/_temp_abf51711_heal_.pdf-0002-01.png)
+![](_temp_abf51711_convert__images/_temp_abf51711_convert_.pdf-0002-01.png)
 
 
 
-![](_images/1 Sustainable Hydrothermal Carbonization Synthesis of Iron-Nitrogen-Doped Carbon_img/_temp_abf51711_heal_.pdf-0002-02.png)
+![](_temp_abf51711_convert__images/_temp_abf51711_convert_.pdf-0002-02.png)
 
 
 **----- Start of picture text -----**<br>
@@ -77,15 +77,15 @@ Low-magnification scanning electron microscopy (SEM) image of the HTC-Fe/N/C aer
 © 2016 Wiley-VCH Verlag GmbH & Co. KGaA, Weinheim 
 
 
-![](_images/1 Sustainable Hydrothermal Carbonization Synthesis of Iron-Nitrogen-Doped Carbon_img/_temp_abf51711_heal_.pdf-0003-00.png)
+![](_temp_abf51711_convert__images/_temp_abf51711_convert_.pdf-0003-00.png)
 
 
 
-![](_images/1 Sustainable Hydrothermal Carbonization Synthesis of Iron-Nitrogen-Doped Carbon_img/_temp_abf51711_heal_.pdf-0003-01.png)
+![](_temp_abf51711_convert__images/_temp_abf51711_convert_.pdf-0003-01.png)
 
 
 
-![](_images/1 Sustainable Hydrothermal Carbonization Synthesis of Iron-Nitrogen-Doped Carbon_img/_temp_abf51711_heal_.pdf-0003-02.png)
+![](_temp_abf51711_convert__images/_temp_abf51711_convert_.pdf-0003-02.png)
 
 
 **----- Start of picture text -----**<br>
@@ -93,7 +93,7 @@ www.MaterialsViews.com<br>**----- End of picture text -----**<br>
 
 
 
-![](_images/1 Sustainable Hydrothermal Carbonization Synthesis of Iron-Nitrogen-Doped Carbon_img/_temp_abf51711_heal_.pdf-0003-03.png)
+![](_temp_abf51711_convert__images/_temp_abf51711_convert_.pdf-0003-03.png)
 
 
 Figure 1. Schematic illustration of the synthesis of the Fe/N-CNFs catalysts. a) HTC treatment of a mixture of TeNWs, glucosamine hydrochloride, and ferrous gluconate at 180 °C created a monolithic wet gel composed of Te@Fe/N-containing carbonaceous nanocables. b) HTC-Fe/N/C aerogels were obtained after etching out the TeNWs templates and supercritical drying with CO2. c) The HTC-Fe/N/C aerogels were pyrolyzed at high temperature under Ar atmosphere for the first time to prepare the FeNPs/Fe/N-CNFs. d) The final Fe/N-CNFs catalysts were prepared after acid leaching and the second pyrolysis treatment. 
@@ -105,7 +105,7 @@ reported that metal ion could accelerate the formation of carbonaceous microsphe
 The key point for the successful template-directed HTC synthesis is the selection of an organic Fe (II) salts (i.e., ferrous gluconate in the current work) as iron source. The use of inorganic Fe (III) or Fe (II) salts failed in the synthesis of uniform HTC-Fe/N/C (Figure S3, Supporting Information). Inorganic Fe (III) salts (i.e., FeCl3) could oxidize the ultrathin TeNWs completely within 10 min, while Fe (II) salts (i.e., FeSO4) caused serious aggregation of TeNWs 
 
 
-![](_images/1 Sustainable Hydrothermal Carbonization Synthesis of Iron-Nitrogen-Doped Carbon_img/_temp_abf51711_heal_.pdf-0003-08.png)
+![](_temp_abf51711_convert__images/_temp_abf51711_convert_.pdf-0003-08.png)
 
 
 Figure 2. a) SEM image of the typical HTC-Fe/N/C aerogel. The inset shows the digital photo of the HTC-Fe/N/C aerogel. b–e) SEM images of the HTC-Fe/N/C aerogels with different diameters prepared at different HTC conditions. f) Dependence of the diameters of HTC-Fe/N/C nanofiber versus HTC reaction time or TeNWs amount. 
@@ -121,11 +121,11 @@ www.small-journal.com
 ## full papers 
 
 
-![](_images/1 Sustainable Hydrothermal Carbonization Synthesis of Iron-Nitrogen-Doped Carbon_img/_temp_abf51711_heal_.pdf-0004-01.png)
+![](_temp_abf51711_convert__images/_temp_abf51711_convert_.pdf-0004-01.png)
 
 
 
-![](_images/1 Sustainable Hydrothermal Carbonization Synthesis of Iron-Nitrogen-Doped Carbon_img/_temp_abf51711_heal_.pdf-0004-02.png)
+![](_temp_abf51711_convert__images/_temp_abf51711_convert_.pdf-0004-02.png)
 
 
 **----- Start of picture text -----**<br>
@@ -145,7 +145,7 @@ To analyze the elemental content and the doped nitrogen functionality of the cat
 No obvious Fe signals could be observed for all samples by XPS analysis because of the relatively high detection limit of the XPS technique. Therefore, inductively coupled plasma atomic emission spectrometry (ICP-AES) was taken 
 
 
-![](_images/1 Sustainable Hydrothermal Carbonization Synthesis of Iron-Nitrogen-Doped Carbon_img/_temp_abf51711_heal_.pdf-0004-09.png)
+![](_temp_abf51711_convert__images/_temp_abf51711_convert_.pdf-0004-09.png)
 
 
 Figure 3. a,b) TEM and HAADF-STEM images of the FeNPs/Fe/N-CNFs, respectively. c,d) TEM and HRTEM images of Fe/N-CNFs, respectively. The inset in (d) shows the enlarged HRTEM image. e) EFTEM element mapping of the Fe/N-CNFs catalyst. 
@@ -159,17 +159,17 @@ Figure 3. a,b) TEM and HAADF-STEM images of the FeNPs/Fe/N-CNFs, respectively. c
 DOI: 10.1002/smll.201602334 
 
 
-![](_images/1 Sustainable Hydrothermal Carbonization Synthesis of Iron-Nitrogen-Doped Carbon_img/_temp_abf51711_heal_.pdf-0005-00.png)
+![](_temp_abf51711_convert__images/_temp_abf51711_convert_.pdf-0005-00.png)
 
 
 
-![](_images/1 Sustainable Hydrothermal Carbonization Synthesis of Iron-Nitrogen-Doped Carbon_img/_temp_abf51711_heal_.pdf-0005-01.png)
+![](_temp_abf51711_convert__images/_temp_abf51711_convert_.pdf-0005-01.png)
 
 
 ## **www.MaterialsViews.com** 
 
 
-![](_images/1 Sustainable Hydrothermal Carbonization Synthesis of Iron-Nitrogen-Doped Carbon_img/_temp_abf51711_heal_.pdf-0005-03.png)
+![](_temp_abf51711_convert__images/_temp_abf51711_convert_.pdf-0005-03.png)
 
 
 **----- Start of picture text -----**<br>
@@ -201,11 +201,11 @@ full papers
 **www.MaterialsViews.com** 
 
 
-![](_images/1 Sustainable Hydrothermal Carbonization Synthesis of Iron-Nitrogen-Doped Carbon_img/_temp_abf51711_heal_.pdf-0006-02.png)
+![](_temp_abf51711_convert__images/_temp_abf51711_convert_.pdf-0006-02.png)
 
 
 
-![](_images/1 Sustainable Hydrothermal Carbonization Synthesis of Iron-Nitrogen-Doped Carbon_img/_temp_abf51711_heal_.pdf-0006-03.png)
+![](_temp_abf51711_convert__images/_temp_abf51711_convert_.pdf-0006-03.png)
 
 
 **----- Start of picture text -----**<br>
@@ -231,15 +231,15 @@ To further understand the nature of the active sites, we compared the ORR polari
 © 2016 Wiley-VCH Verlag GmbH & Co. KGaA, Weinheim 
 
 
-![](_images/1 Sustainable Hydrothermal Carbonization Synthesis of Iron-Nitrogen-Doped Carbon_img/_temp_abf51711_heal_.pdf-0007-00.png)
+![](_temp_abf51711_convert__images/_temp_abf51711_convert_.pdf-0007-00.png)
 
 
 
-![](_images/1 Sustainable Hydrothermal Carbonization Synthesis of Iron-Nitrogen-Doped Carbon_img/_temp_abf51711_heal_.pdf-0007-01.png)
+![](_temp_abf51711_convert__images/_temp_abf51711_convert_.pdf-0007-01.png)
 
 
 
-![](_images/1 Sustainable Hydrothermal Carbonization Synthesis of Iron-Nitrogen-Doped Carbon_img/_temp_abf51711_heal_.pdf-0007-02.png)
+![](_temp_abf51711_convert__images/_temp_abf51711_convert_.pdf-0007-02.png)
 
 
 **----- Start of picture text -----**<br>
@@ -247,7 +247,7 @@ www.MaterialsViews.com<br>**----- End of picture text -----**<br>
 
 
 
-![](_images/1 Sustainable Hydrothermal Carbonization Synthesis of Iron-Nitrogen-Doped Carbon_img/_temp_abf51711_heal_.pdf-0007-03.png)
+![](_temp_abf51711_convert__images/_temp_abf51711_convert_.pdf-0007-03.png)
 
 
 **----- Start of picture text -----**<br>
@@ -285,11 +285,11 @@ www.small-journal.com
 ## full papers 
 
 
-![](_images/1 Sustainable Hydrothermal Carbonization Synthesis of Iron-Nitrogen-Doped Carbon_img/_temp_abf51711_heal_.pdf-0008-01.png)
+![](_temp_abf51711_convert__images/_temp_abf51711_convert_.pdf-0008-01.png)
 
 
 
-![](_images/1 Sustainable Hydrothermal Carbonization Synthesis of Iron-Nitrogen-Doped Carbon_img/_temp_abf51711_heal_.pdf-0008-02.png)
+![](_temp_abf51711_convert__images/_temp_abf51711_convert_.pdf-0008-02.png)
 
 
 **----- Start of picture text -----**<br>
@@ -303,11 +303,11 @@ _Electrocatalytic Measurements_ : The electrochemical measurements were carried 
 Electron transfer numbers were calculated using the Koutecky– Levich equation 
 
 
-![](_images/1 Sustainable Hydrothermal Carbonization Synthesis of Iron-Nitrogen-Doped Carbon_img/_temp_abf51711_heal_.pdf-0008-06.png)
+![](_temp_abf51711_convert__images/_temp_abf51711_convert_.pdf-0008-06.png)
 
 
 
-![](_images/1 Sustainable Hydrothermal Carbonization Synthesis of Iron-Nitrogen-Doped Carbon_img/_temp_abf51711_heal_.pdf-0008-07.png)
+![](_temp_abf51711_convert__images/_temp_abf51711_convert_.pdf-0008-07.png)
 
 
 where _j_ is the measured current density, _j_ L and _j_ K are the diffusionlimiting and kinetic current densities, respectively. _n_ represents the overall number of electrons gained per O2, _F_ is the Faraday constant ( _F_ = 96485 C mol[−][1] ), _C_ 0 is the bulk concentration of O2 
@@ -359,11 +359,11 @@ _The authors acknowledge the funding support from the National Natural Science F
 © 2016 Wiley-VCH Verlag GmbH & Co. KGaA, Weinheim 
 
 
-![](_images/1 Sustainable Hydrothermal Carbonization Synthesis of Iron-Nitrogen-Doped Carbon_img/_temp_abf51711_heal_.pdf-0009-00.png)
+![](_temp_abf51711_convert__images/_temp_abf51711_convert_.pdf-0009-00.png)
 
 
 
-![](_images/1 Sustainable Hydrothermal Carbonization Synthesis of Iron-Nitrogen-Doped Carbon_img/_temp_abf51711_heal_.pdf-0009-01.png)
+![](_temp_abf51711_convert__images/_temp_abf51711_convert_.pdf-0009-01.png)
 
 
 ## **www.MaterialsViews.com** 

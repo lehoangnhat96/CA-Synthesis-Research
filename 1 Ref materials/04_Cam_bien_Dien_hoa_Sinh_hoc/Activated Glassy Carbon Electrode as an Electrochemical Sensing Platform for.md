@@ -1,27 +1,27 @@
 Article 
 
 
-![](_images/Activated Glassy Carbon Electrode as an Electrochemical Sensing Platform for_images/_temp_5a55b22f_convert_.pdf-0001-02.png)
+![](_temp_d9d3b95f_convert__images/_temp_d9d3b95f_convert_.pdf-0001-02.png)
 
 
 
-![](_images/Activated Glassy Carbon Electrode as an Electrochemical Sensing Platform for_images/_temp_5a55b22f_convert_.pdf-0001-03.png)
+![](_temp_d9d3b95f_convert__images/_temp_d9d3b95f_convert_.pdf-0001-03.png)
 
 
 
-![](_images/Activated Glassy Carbon Electrode as an Electrochemical Sensing Platform for_images/_temp_5a55b22f_convert_.pdf-0001-04.png)
+![](_temp_d9d3b95f_convert__images/_temp_d9d3b95f_convert_.pdf-0001-04.png)
 
 
 
-![](_images/Activated Glassy Carbon Electrode as an Electrochemical Sensing Platform for_images/_temp_5a55b22f_convert_.pdf-0001-05.png)
+![](_temp_d9d3b95f_convert__images/_temp_d9d3b95f_convert_.pdf-0001-05.png)
 
 
 
-![](_images/Activated Glassy Carbon Electrode as an Electrochemical Sensing Platform for_images/_temp_5a55b22f_convert_.pdf-0001-06.png)
+![](_temp_d9d3b95f_convert__images/_temp_d9d3b95f_convert_.pdf-0001-06.png)
 
 
 
-![](_images/Activated Glassy Carbon Electrode as an Electrochemical Sensing Platform for_images/_temp_5a55b22f_convert_.pdf-0001-07.png)
+![](_temp_d9d3b95f_convert__images/_temp_d9d3b95f_convert_.pdf-0001-07.png)
 
 
 http://pubs.acs.org/journal/acsodf 
@@ -37,7 +37,7 @@ ACCESS Metrics & More Article Recommendations * **sı** Supporting Information
 ABSTRACT: Glassy carbon electrode (GCE) was electrochemically activated using a repetitive cyclic voltammetric technique to develop an activated glassy carbon electrode (AGCE). The developed AGCE was optimized and utilized for the electrochemical assay of 4-nitrophenol (4NP) and dopamine (DA). Cyclic voltammetry (CV) was employed to investigate the electrochemical behavior of the AGCE. Compared to the bare GCE, the developed AGCE exhibits a significant increase in redox peak currents of 4-NP and DA, which indicates that the AGCE significantly improves the electrocatalytic reduction of 4-NP and oxidation of DA. The electrochemical signature of the activation process could be directly associated with the formation of oxygen-containing surface functional groups (OxSFGs), which are the main reason for the improved electron transfer ability and the enhancement of the electrocatalytic 
 
 
-![](_images/Activated Glassy Carbon Electrode as an Electrochemical Sensing Platform for_images/_temp_5a55b22f_convert_.pdf-0001-14.png)
+![](_temp_d9d3b95f_convert__images/_temp_d9d3b95f_convert_.pdf-0001-14.png)
 
 
 activity of the AGCE. The effects of various parameters on the voltammetric responses of the AGCE toward 4-NP and DA were studied and optimized, including the pH, scan rate, and accumulation time. Differential pulse voltammetry (DPV) was also utilized to investigate the analytical performance of the AGCE sensing platform. The optimized AGCE exhibited linear responses over the concentration ranges of 0.04−65 _μ_ M and 65−370 _μ_ M toward 4-NP with a lower limit of detection (LOD) of 0.02 _μ_ M (S/N = 3). Additionally, the AGCE exhibited a linear responses over the concentration ranges of 0.02−1.0 and 1.0−100 _μ_ M toward DA with a lower limit of detection (LOD) of 0.01 _μ_ M (S/N = 3). Moreover, the developed AGCE-based 4-NP and DA sensors are distinguished by their high sensitivity, excellent selectivity, and repeatability. The developed sensors were successfully applied for the determination of 4-NP and DA in real samples with satisfactory recovery results. 
@@ -49,7 +49,7 @@ Glassy carbon electrode (GCE) is favorable in electrocatalytic applications beca
 electron transfer ability and the enhancement of the electrocatalytic activity of the AGCE, which is advantageous in electrochemical sensors.[14] Our preliminary results showed that the AGCE could be used as a platform for the detection of oxidizable and reducible analytes.[14] Carboxylate and phenolate SFGs could facilitate the reduction of reducible analytes, and other SFGs (e.g., epoxide, quinone, and ketonic groups) could facilitate the oxidation of oxidizable analytes. Such SFGs facilitate the electron transfer at the AGCE surface, which results in the improvement of electron transfer and enhancement of the electrocatalytic activity. In this report, we have selected DA as a model for oxidizable analytes and 4-NP as a model for reducible analytes at the surface of the AGCE. 
 
 
-![](_images/Activated Glassy Carbon Electrode as an Electrochemical Sensing Platform for_images/_temp_5a55b22f_convert_.pdf-0001-19.png)
+![](_temp_d9d3b95f_convert__images/_temp_d9d3b95f_convert_.pdf-0001-19.png)
 
 
 Received: June 1, 2022 Accepted: August 31, 2022 Published: September 13, 2022 
@@ -67,7 +67,7 @@ Article
 Scheme 1. Proposed Mechanism of Possible Redox Processes Occuring at the Surface of the AGCE 
 
 
-![](_images/Activated Glassy Carbon Electrode as an Electrochemical Sensing Platform for_images/_temp_5a55b22f_convert_.pdf-0002-04.png)
+![](_temp_d9d3b95f_convert__images/_temp_d9d3b95f_convert_.pdf-0002-04.png)
 
 
 4-NP is extensively used in various industries[15][,][16] and may cause severe toxic effects on human beings, fish, animals, and plants.[17] The ingestion of 4-NP can cause health problems for humans and animals.[18] Because of these severe toxic effects, the US Environmental Protection Agency (EPA) listed 4-NP as a potential environmental pollutant. The European Union (EU) set the maximum allowed limit of 4-NP in drinking water at 0.43 _μ_ M.[16][,][19] 
@@ -103,13 +103,13 @@ https://doi.org/10.1021/acsomega.2c03427 _ACS Omega_ 2022, 7, 34127−34135
 Article 
 
 
-![](_images/Activated Glassy Carbon Electrode as an Electrochemical Sensing Platform for_images/_temp_5a55b22f_convert_.pdf-0003-03.png)
+![](_temp_d9d3b95f_convert__images/_temp_d9d3b95f_convert_.pdf-0003-03.png)
 
 
 Figure 1. CVs of the bare GCE (a) and AGCE (b) in 0.1 M PBS (pH 7.0) containing 1 × 10[−][4] M 4-NP (A) and 5 × 10[−][4] M DA (B) at a scan rate of 100 mVs[−][1] . Curve (c) represents the CV of the AGCE in a blank solution (0.1 M PBS free from 4-NP and DA). 
 
 
-![](_images/Activated Glassy Carbon Electrode as an Electrochemical Sensing Platform for_images/_temp_5a55b22f_convert_.pdf-0003-05.png)
+![](_temp_d9d3b95f_convert__images/_temp_d9d3b95f_convert_.pdf-0003-05.png)
 
 
 Figure 2. (A) CVs of 0.1 M PBS (pH 7.0) containing 1 × 10[−][4] M 4-NP at the AGCE as measured at different accumulation times (from 20 to 180s). (B) Effect of accumulation time on the cathodic peak currents of 4-NP. (C) CVs of 0.1 M PBS (pH 7.0) containing 5 × 10[−][4] M DA at the AGCE as measured at different accumulation times (from 0 to 90 s). (D) Effect of accumulation time on the anodic peak currents of DA. 
@@ -131,7 +131,7 @@ https://doi.org/10.1021/acsomega.2c03427 _ACS Omega_ 2022, 7, 34127−34135
 Article 
 
 
-![](_images/Activated Glassy Carbon Electrode as an Electrochemical Sensing Platform for_images/_temp_5a55b22f_convert_.pdf-0004-03.png)
+![](_temp_d9d3b95f_convert__images/_temp_d9d3b95f_convert_.pdf-0004-03.png)
 
 
 Figure 3. (A) CVs of 1 × 10[−][4] M 4-NP at the AGCE as measured at different pH values. (B) Relationship between pH and the cathodic peak currents of 4-NP. (C) CVs of 5 × 10[−][4] M DA at the AGCE as measured at different pH values. (D) Relationship between pH and the formal potential (E[0] ′) (a) and the relationship between pH and the anodic peak currents of DA (b). 
@@ -149,7 +149,7 @@ mechanism, which involves proton transfer[19][,][42][,][44][,][62] as described 
 Scheme 2. Reduction Mechanism of 4-NP at the AGCE 
 
 
-![](_images/Activated Glassy Carbon Electrode as an Electrochemical Sensing Platform for_images/_temp_5a55b22f_convert_.pdf-0004-11.png)
+![](_temp_d9d3b95f_convert__images/_temp_d9d3b95f_convert_.pdf-0004-11.png)
 
 
 electrochemical reduction process is confirmed by the shift of the cathodic peak potentials negatively with increasing pH. At high hydroxyl ion concentrations, pH > 7, the reduction of the nitro group (−NO2) of 4-NP to the hydroxylamine group (−NHOH) is retarded due to the decrease in H[+] concentration which participates in the reduction mechanism.[19][,][45][,][47][,][62] In addition, the percent of the anionic form of 4-NP (p _K_ a value of 7.2) increased with increasing pH.[47][,][62][,][63] Concomitantly, at alkaline pH, it is plausible that the OxSFGs deprotonate to their negatively charged forms. As a result, the electrostatic repulsion between 4-NP and the AGCE at alkaline pH might reduce the extent of its adsorption, which decreases the peak currents. Accordingly, pH 7.0 was chosen as the optimal pH value for detecting 4-NP. 
@@ -169,7 +169,7 @@ Article
 Scheme 3. Oxidation Mechanism of DA at the AGCE 
 
 
-![](_images/Activated Glassy Carbon Electrode as an Electrochemical Sensing Platform for_images/_temp_5a55b22f_convert_.pdf-0005-04.png)
+![](_temp_d9d3b95f_convert__images/_temp_d9d3b95f_convert_.pdf-0005-04.png)
 
 
 current reached its maximum at pH 7.0, and then the current gradually decreased at higher pH values (Figure 3D, b). At alkaline pH, OxSFGs at the AGCE could deprotonate to their negatively charged forms. Moreover, the percent of the cationic form of DA (p _K_ a = 8.9) is decreased with the increase in pH. Consequently, at high pH, the electrostatic attraction of DA to OxSFGs at the AGCE decreased. Both effects could participate in lowering DA adsorption at the AGCE and concomitantly reducing peak currents. Accordingly, pH 7.0, which is close to the physiological pH, was chosen as the optimal pH for detecting DA. 
@@ -177,7 +177,7 @@ current reached its maximum at pH 7.0, and then the current gradually decreased 
 **Effect of Scan Rate.** Cyclic voltammetry was utilized to study the effect of scan rate ( _ν_ ) on the response of the AGCE toward DA and 4-NP. CV experiments were performed at 1 × 10[−][4] M 4-NP (Figure 4A) and 5 × 10[−][4] M DA (Figure 4C) prepared in 0.1 M PBS, pH 7.0. Upon increasing the scan rate, a shift in peak potentials ( _E_ p) and an increase in peak currents ( _i_ p) were observed (Figure 4A,C). According to the Randles− Sevcik eq 1[65] 
 
 
-![](_images/Activated Glassy Carbon Electrode as an Electrochemical Sensing Platform for_images/_temp_5a55b22f_convert_.pdf-0005-07.png)
+![](_temp_d9d3b95f_convert__images/_temp_d9d3b95f_convert_.pdf-0005-07.png)
 
 
 A plot of the peak current ( _I_ p) versus the square root of scan rate ( _ν_[1/2] ) results in a linear relationship with linear regression equations of _i_ p ( _μ_ A) = (−11.7 ± 3.52) + (25 ± 0.72) _ν_[1/2] (mV/s)[1/2] ( _R_ = 0.994) for 4-NP (Figure 4B), and _i_ pa ( _μ_ A) = (−12.2 ± 2.16) + (34.91 ± 1.12) _ν_[1/2] (mV/s)[1/2] ( _R_[2] = 0.991) for oxidation and ipa ( _μ_ A) = (19.7 ± 2.87) − (22.1 ± 1.32) _ν_[1/2] (mV/s)[1/2] ( _R_[2] = 0.976) for reduction for DA (Figure 4D), which could indicate a diffusion-controlled nature of the redox processes for both 4-NP[42][,][44][,][45][,][48][,][62] and DA.[51][,][58][,][59][,][64][,][66][,][67] The 
@@ -191,7 +191,7 @@ _Repeatability, Stability, and Interference Studies._ The repeatability of AGCEs
 The current responses of the AGCE toward 100 _μ_ M 4-NP prepared in 0.1 M PBS (pH 7.0) were measured for 1 week. As shown in Figure S1, the electrochemical responses of the AGCE were found to be practically stable for 5 days with a signal change of about 3.0%. Thereafter, the current responses 
 
 
-![](_images/Activated Glassy Carbon Electrode as an Electrochemical Sensing Platform for_images/_temp_5a55b22f_convert_.pdf-0005-13.png)
+![](_temp_d9d3b95f_convert__images/_temp_d9d3b95f_convert_.pdf-0005-13.png)
 
 
 Figure 4. (A) CVs of the AGCE at different scan rates in 0.1 M PBS (pH 7.0) containing 1 × 10[−][4] M 4-NP (A) and 5 × 10[−][4] M DA (C). Scan rates from 10 to 300 mVs[−][1] . (B) Plot of the cathodic peak current ( _i_ p) of 4-NP versus the square root of the scan rate ( _ν_[1/2] ). (D) Plots of the anodic peak current ( _i_ pa) and cathodic peak current ( _i_ pc) of DA versus the square root of the scan rate ( _ν_[1/2] ). 
@@ -207,7 +207,7 @@ https://doi.org/10.1021/acsomega.2c03427 _ACS Omega_ 2022, 7, 34127−34135
 Article 
 
 
-![](_images/Activated Glassy Carbon Electrode as an Electrochemical Sensing Platform for_images/_temp_5a55b22f_convert_.pdf-0006-03.png)
+![](_temp_d9d3b95f_convert__images/_temp_d9d3b95f_convert_.pdf-0006-03.png)
 
 
 Figure 5. (A) DPVs of different concentrations of 4-NP as measured in 0.1 M PBS, pH 7.0, at the AGCE. Concentrations (from 1 to 15): 0.04, 0.08, 0.52, 1.0, 3.5, 5.8, 8.3, 10.7, 20.2, 43.0, 65.0, 128.74, 212.3, 290.0, and 370.0 _μ_ M. (B) Corresponding calibration plot for 4-NP at the AGCE. (C) DPVs of different concentrations of DA as measured in 0.1 M PBS, pH 7.0, at the AGCE. Concentrations (from 1 to 13): 0, 0.02, 0.04, 0.06, 0.08, 0.5, 0.8, 1.0, 20.0, 40.0, 55.0, 79.0, and 100.0 _μ_ M. (D) Corresponding calibration plot for DA at the AGCE. The inset of (D) indicates the responses at low concentrations of DA. 
@@ -446,7 +446,7 @@ Article
 (63) Ikhsan, N. I.; Rameshkumar, P.; Huang, N. M. Controlled synthesis of reduced graphene oxide supported silver nanoparticles for selective and sensitive electrochemical detection of 4-nitrophenol. _Electrochim. Acta_ 2016, _192_ , 392−399. 
 
 
-![](_images/Activated Glassy Carbon Electrode as an Electrochemical Sensing Platform for_images/_temp_5a55b22f_convert_.pdf-0009-21.png)
+![](_temp_d9d3b95f_convert__images/_temp_d9d3b95f_convert_.pdf-0009-21.png)
 
 
 **34135** 

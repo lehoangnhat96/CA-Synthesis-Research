@@ -1,5 +1,5 @@
 
-![](_images/Carbon Aerogels Synthesis Modification and Multifunctional Applications_img/_temp_10b9a60a_heal_.pdf-0001-00.png)
+![](_temp_10b9a60a_convert__images/_temp_10b9a60a_convert_.pdf-0001-00.png)
 
 
 ## _Review_ 
@@ -63,7 +63,7 @@ oxides and conductive polymer materials are commonly used as electrode materials
 Electric double-layer capacitors, store energy by utilizing the double layer formed at the interface between the electrode material and the electrolyte. When a conductor comes into contact with an electrolyte, stable double layers of charges with opposite signs will be generated at the interface, thus achieving the purpose of energy storage. Such double layers of charges are called electric double layers. The principle of the electric double layer was first discovered by the famous German physicist Helmholtz. The structure of the electric double layer is shown in Figure 1. 
 
 
-![](_images/Carbon Aerogels Synthesis Modification and Multifunctional Applications_img/_temp_10b9a60a_heal_.pdf-0003-05.png)
+![](_temp_10b9a60a_convert__images/_temp_10b9a60a_convert_.pdf-0003-05.png)
 
 
 **Figure 1.** EDL models: ( **a** ) Helmholtz model, ( **b** ) Gouy–Chapman model, and ( **c** ) Stern model. Reprinted with permission from [1]. 
@@ -91,7 +91,7 @@ _Gels_ **2025** , _11_ , 548
 metal oxides, such as RuO2 [8], MnO2 [9], Fe3O4 [10], etc. Their energy storage mechanism is that in the electrode surface or in the bulk phase, electroactive substances undergo underpotential deposition and highly reversible chemisorption/desorption or redox reactions. Moreover, these reactions can penetrate deep into the interior of the electrode. Therefore, energy is stored in a three-dimensional space, and they possess a high energy density. The other category is conductive polymers, such as polyaniline [11] polypyrrole [12], polythiophene [13], etc., mainly utilizing their ability to dope and dedope charges. Their energy storage mechanism is that, through rapid and reversible n-type and p-type element doping and dedoping redox reactions occurring in the polymers on the electrodes, the polymers can store charges at a high density, thus generating a high Faradaic pseudocapacitance. Song et al. [14] designed a multifunctional honeycomb-like nitrogen-doped carbon/bimetallic sulfide and oxide composite aerogel through simple mechanical mixing, freeze-drying, and heat treatment methods. The prepared N-CoFe2O4-CoxSy/FexSy@C composite material has excellent electromagnetic wave absorption performance and electrochemical performance. The specific capacitance of this material is 2883 F/g at 1 A/g, and its cycling stability after 5000 cycles is 89.5%, which is attributed to abundant active sites and a well-defined heterogeneous structure. 
 
 
-![](_images/Carbon Aerogels Synthesis Modification and Multifunctional Applications_img/_temp_10b9a60a_heal_.pdf-0005-03.png)
+![](_temp_10b9a60a_convert__images/_temp_10b9a60a_convert_.pdf-0005-03.png)
 
 
 **Figure 2.** Schematics of charge storage in pseudo-capacitors: ( **a** ) underpotential deposition, ( **b** ) redox reactions, ( **c** ) ion insertion/extraction. Reprinted with permission from [4]. 
@@ -111,7 +111,7 @@ _Gels_ **2025** , _11_ , 548
 steps such as the sol–gel process, solvent replacement and drying, carbonization, and activation treatment. The preparation process is roughly shown in Figure 3. 
 
 
-![](_images/Carbon Aerogels Synthesis Modification and Multifunctional Applications_img/_temp_10b9a60a_heal_.pdf-0006-03.png)
+![](_temp_10b9a60a_convert__images/_temp_10b9a60a_convert_.pdf-0006-03.png)
 
 
 **Figure 3.** The preparation process of carbon aerogel. 
@@ -226,7 +226,7 @@ _Gels_ **2025** , _11_ , 548
 Compared with carbon materials such as one-dimensional carbon nanotubes and twodimensional graphene, carbon aerogel has a continuous three-dimensional porous network structure [45,46], as shown in Figure 4. However, the single carbon aerogel electrode material has the disadvantages of low energy density, small specific capacitance, and small specific capacity, which limit its large-scale application in the electrochemical field [47]. Since the performance of a single carbon aerogel is average and cannot yet meet the performance requirements for commercialization, researchers have attempted to improve its performance through modification. Currently, the modification methods mainly fall into two categories: one is to introduce heteroatoms (such as N, S, P elements) to adjust the particle size and improve the utilization rate of porosity and specific surface area; the other is to combine carbon aerogel with graphene materials, conductive polymer materials, and transition metal compound materials and utilize the excellent conductive properties of the materials to improve the relevant performance of the overall composite material and further enhance the electrochemical performance of the carbon aerogel material. 
 
 
-![](_images/Carbon Aerogels Synthesis Modification and Multifunctional Applications_img/_temp_10b9a60a_heal_.pdf-0010-04.png)
+![](_temp_10b9a60a_convert__images/_temp_10b9a60a_convert_.pdf-0010-04.png)
 
 
 **Figure 4.** Physical models of common carbon-based materials: ( **a** ) one-dimensional carbon nanotubes; ( **b** ) two-dimensional graphene; ( **c** ) three-dimensional carbon aerogel. 
@@ -256,7 +256,7 @@ There are mainly two methods for heteroatom-doped carbon aerogel (taking nitroge
 Nitrogen atoms combine with the sp[2] hybridized carbon lattice network to form four forms of nitrogen atom bonding states (as shown in Figure 5): pyridine-N, pyrroleN, graphite-N, and oxidized-N. The changes in the physical and chemical properties of the carbon material caused by nitrogen doping enhance both its energy storage and electrocatalytic performance (Table 4 below). 
 
 
-![](_images/Carbon Aerogels Synthesis Modification and Multifunctional Applications_img/_temp_10b9a60a_heal_.pdf-0011-07.png)
+![](_temp_10b9a60a_convert__images/_temp_10b9a60a_convert_.pdf-0011-07.png)
 
 
 **Figure 5.** Doping forms of N atoms in the carbon material. 
@@ -452,7 +452,7 @@ _Gels_ **2025** , _11_ , 548
 20 of 37 
 
 
-![](_images/Carbon Aerogels Synthesis Modification and Multifunctional Applications_img/_temp_10b9a60a_heal_.pdf-0020-02.png)
+![](_temp_10b9a60a_convert__images/_temp_10b9a60a_convert_.pdf-0020-02.png)
 
 
 **Figure 6.** The synthetic strategies of aerogel-based catalysts. Reprinted with permission from [125]. 
@@ -482,27 +482,27 @@ to a certain extent. Moreover, as the amount of catalyst increases, the specific
 The unique advantage of high-loading catalysts is that they can maintain a high specific activity of the catalyst. Wang et al. [118]. recently reported a two-step wet chemical method for synthesizing Ir-NiO/carbon cloth catalyst, with the metal loading increased to 18 wt% (Ir on NiO), as shown in Figure 7. 
 
 
-![](_images/Carbon Aerogels Synthesis Modification and Multifunctional Applications_img/_temp_10b9a60a_heal_.pdf-0022-04.png)
+![](_temp_10b9a60a_convert__images/_temp_10b9a60a_convert_.pdf-0022-04.png)
 
 
 
-![](_images/Carbon Aerogels Synthesis Modification and Multifunctional Applications_img/_temp_10b9a60a_heal_.pdf-0022-05.png)
+![](_temp_10b9a60a_convert__images/_temp_10b9a60a_convert_.pdf-0022-05.png)
 
 
 
-![](_images/Carbon Aerogels Synthesis Modification and Multifunctional Applications_img/_temp_10b9a60a_heal_.pdf-0022-06.png)
+![](_temp_10b9a60a_convert__images/_temp_10b9a60a_convert_.pdf-0022-06.png)
 
 
 
-![](_images/Carbon Aerogels Synthesis Modification and Multifunctional Applications_img/_temp_10b9a60a_heal_.pdf-0022-07.png)
+![](_temp_10b9a60a_convert__images/_temp_10b9a60a_convert_.pdf-0022-07.png)
 
 
 
-![](_images/Carbon Aerogels Synthesis Modification and Multifunctional Applications_img/_temp_10b9a60a_heal_.pdf-0022-08.png)
+![](_temp_10b9a60a_convert__images/_temp_10b9a60a_convert_.pdf-0022-08.png)
 
 
 
-![](_images/Carbon Aerogels Synthesis Modification and Multifunctional Applications_img/_temp_10b9a60a_heal_.pdf-0022-09.png)
+![](_temp_10b9a60a_convert__images/_temp_10b9a60a_convert_.pdf-0022-09.png)
 
 
 **Figure 7.** High-loading catalysts with different metal contents and their performance comparison. ( **a** ) HAADF-STEM micrograph of the Ir-NiO catalyst; ( **b** , **c** ) corresponding atomic models; ( **d** , **e** ) polarization curves and Tafel plots of OER; ( **f** ) estimated value of double-layer capacitance. Reprinted with permission from [118]. ( **g** ) SEM image of the porous carbon framework; ( **h** ) steady-state ORR polarization curves of different SACs; (i) steady-state ORR polarization curves of the catalyst under different Fe loading amounts. Reprinted with permission from [119]. 
@@ -520,103 +520,103 @@ process of a single element or reducing the crystal size, etc., the leaching or 
 In addition to traditional experimental research methods, with the deepening of research, some new characterization methods and synthesis methods have also been gradually developed (Figure 8). 
 
 
-![](_images/Carbon Aerogels Synthesis Modification and Multifunctional Applications_img/_temp_10b9a60a_heal_.pdf-0023-04.png)
+![](_temp_10b9a60a_convert__images/_temp_10b9a60a_convert_.pdf-0023-04.png)
 
 
 
-![](_images/Carbon Aerogels Synthesis Modification and Multifunctional Applications_img/_temp_10b9a60a_heal_.pdf-0023-05.png)
+![](_temp_10b9a60a_convert__images/_temp_10b9a60a_convert_.pdf-0023-05.png)
 
 
 
-![](_images/Carbon Aerogels Synthesis Modification and Multifunctional Applications_img/_temp_10b9a60a_heal_.pdf-0023-06.png)
+![](_temp_10b9a60a_convert__images/_temp_10b9a60a_convert_.pdf-0023-06.png)
 
 
 
-![](_images/Carbon Aerogels Synthesis Modification and Multifunctional Applications_img/_temp_10b9a60a_heal_.pdf-0023-07.png)
+![](_temp_10b9a60a_convert__images/_temp_10b9a60a_convert_.pdf-0023-07.png)
 
 
 
-![](_images/Carbon Aerogels Synthesis Modification and Multifunctional Applications_img/_temp_10b9a60a_heal_.pdf-0023-08.png)
+![](_temp_10b9a60a_convert__images/_temp_10b9a60a_convert_.pdf-0023-08.png)
 
 
 
-![](_images/Carbon Aerogels Synthesis Modification and Multifunctional Applications_img/_temp_10b9a60a_heal_.pdf-0023-09.png)
+![](_temp_10b9a60a_convert__images/_temp_10b9a60a_convert_.pdf-0023-09.png)
 
 
 
-![](_images/Carbon Aerogels Synthesis Modification and Multifunctional Applications_img/_temp_10b9a60a_heal_.pdf-0023-10.png)
+![](_temp_10b9a60a_convert__images/_temp_10b9a60a_convert_.pdf-0023-10.png)
 
 
 
-![](_images/Carbon Aerogels Synthesis Modification and Multifunctional Applications_img/_temp_10b9a60a_heal_.pdf-0023-11.png)
+![](_temp_10b9a60a_convert__images/_temp_10b9a60a_convert_.pdf-0023-11.png)
 
 
 
-![](_images/Carbon Aerogels Synthesis Modification and Multifunctional Applications_img/_temp_10b9a60a_heal_.pdf-0023-12.png)
+![](_temp_10b9a60a_convert__images/_temp_10b9a60a_convert_.pdf-0023-12.png)
 
 
 
-![](_images/Carbon Aerogels Synthesis Modification and Multifunctional Applications_img/_temp_10b9a60a_heal_.pdf-0023-13.png)
+![](_temp_10b9a60a_convert__images/_temp_10b9a60a_convert_.pdf-0023-13.png)
 
 
 
-![](_images/Carbon Aerogels Synthesis Modification and Multifunctional Applications_img/_temp_10b9a60a_heal_.pdf-0023-14.png)
+![](_temp_10b9a60a_convert__images/_temp_10b9a60a_convert_.pdf-0023-14.png)
 
 
 
-![](_images/Carbon Aerogels Synthesis Modification and Multifunctional Applications_img/_temp_10b9a60a_heal_.pdf-0023-15.png)
+![](_temp_10b9a60a_convert__images/_temp_10b9a60a_convert_.pdf-0023-15.png)
 
 
 
-![](_images/Carbon Aerogels Synthesis Modification and Multifunctional Applications_img/_temp_10b9a60a_heal_.pdf-0023-16.png)
+![](_temp_10b9a60a_convert__images/_temp_10b9a60a_convert_.pdf-0023-16.png)
 
 
 
-![](_images/Carbon Aerogels Synthesis Modification and Multifunctional Applications_img/_temp_10b9a60a_heal_.pdf-0023-17.png)
+![](_temp_10b9a60a_convert__images/_temp_10b9a60a_convert_.pdf-0023-17.png)
 
 
 
-![](_images/Carbon Aerogels Synthesis Modification and Multifunctional Applications_img/_temp_10b9a60a_heal_.pdf-0023-18.png)
+![](_temp_10b9a60a_convert__images/_temp_10b9a60a_convert_.pdf-0023-18.png)
 
 
 
-![](_images/Carbon Aerogels Synthesis Modification and Multifunctional Applications_img/_temp_10b9a60a_heal_.pdf-0023-19.png)
+![](_temp_10b9a60a_convert__images/_temp_10b9a60a_convert_.pdf-0023-19.png)
 
 
 
-![](_images/Carbon Aerogels Synthesis Modification and Multifunctional Applications_img/_temp_10b9a60a_heal_.pdf-0023-20.png)
+![](_temp_10b9a60a_convert__images/_temp_10b9a60a_convert_.pdf-0023-20.png)
 
 
 
-![](_images/Carbon Aerogels Synthesis Modification and Multifunctional Applications_img/_temp_10b9a60a_heal_.pdf-0023-21.png)
+![](_temp_10b9a60a_convert__images/_temp_10b9a60a_convert_.pdf-0023-21.png)
 
 
 
-![](_images/Carbon Aerogels Synthesis Modification and Multifunctional Applications_img/_temp_10b9a60a_heal_.pdf-0023-22.png)
+![](_temp_10b9a60a_convert__images/_temp_10b9a60a_convert_.pdf-0023-22.png)
 
 
 
-![](_images/Carbon Aerogels Synthesis Modification and Multifunctional Applications_img/_temp_10b9a60a_heal_.pdf-0023-23.png)
+![](_temp_10b9a60a_convert__images/_temp_10b9a60a_convert_.pdf-0023-23.png)
 
 
 
-![](_images/Carbon Aerogels Synthesis Modification and Multifunctional Applications_img/_temp_10b9a60a_heal_.pdf-0023-24.png)
+![](_temp_10b9a60a_convert__images/_temp_10b9a60a_convert_.pdf-0023-24.png)
 
 
 
-![](_images/Carbon Aerogels Synthesis Modification and Multifunctional Applications_img/_temp_10b9a60a_heal_.pdf-0023-25.png)
+![](_temp_10b9a60a_convert__images/_temp_10b9a60a_convert_.pdf-0023-25.png)
 
 
 
-![](_images/Carbon Aerogels Synthesis Modification and Multifunctional Applications_img/_temp_10b9a60a_heal_.pdf-0023-26.png)
+![](_temp_10b9a60a_convert__images/_temp_10b9a60a_convert_.pdf-0023-26.png)
 
 
 
-![](_images/Carbon Aerogels Synthesis Modification and Multifunctional Applications_img/_temp_10b9a60a_heal_.pdf-0023-27.png)
+![](_temp_10b9a60a_convert__images/_temp_10b9a60a_convert_.pdf-0023-27.png)
 
 
 
-![](_images/Carbon Aerogels Synthesis Modification and Multifunctional Applications_img/_temp_10b9a60a_heal_.pdf-0023-28.png)
+![](_temp_10b9a60a_convert__images/_temp_10b9a60a_convert_.pdf-0023-28.png)
 
 
 **Figure 8.** ( **a** ) Schematic diagram of the synthesis process of the Ru1/Co1/Fen catalyst [138]; ( **b** ) wavelet transform of Co1-NG and Co-G. Reprinted with permission from [139]. ( **c** ) Theoretical calculation and proposed mechanism of the nitrogen-coordinated iron catalytic center. Reprinted with permission from [140]. ( **d** – **f** ) Schematic diagrams of the synthesis processes of some single-atom catalysts. Reprinted with permission from [141–143]. 
@@ -648,7 +648,7 @@ economically viable solution for oil spill cleanup and organic pollutant removal
 Adsorption has emerged as a prominent sewage treatment technology due to its costeffectiveness, operational simplicity, substantial adsorption capacity, and high removal efficiency [151]. The adsorption selectivity and efficiency of aerogels are fundamentally governed by their surface characteristics and chemical properties, including structural morphology, hydrophobicity, and polarity [152,153]. Recent investigations by Zang et al. revealed that porous CS/GCA structures exhibit enhanced lead ion (Pb[2+] ) adsorption capa- _·_ bilities, with adsorption capacity increasing from 68.5 to 100 mg g _[−]_[1] when graphene oxide (GO) content reached 5 wt% in the aerogel matrix. The adsorption mechanism for common heavy metal ions such as Pb[2+] and Cu[2+] primarily involves intergroup coordination and complexation reactions, as illustrated in Figure 9 [111]. 
 
 
-![](_images/Carbon Aerogels Synthesis Modification and Multifunctional Applications_img/_temp_10b9a60a_heal_.pdf-0025-05.png)
+![](_temp_10b9a60a_convert__images/_temp_10b9a60a_convert_.pdf-0025-05.png)
 
 
 **Figure 9.** The complexation (red) and chelation (blue) interaction of Pb(II) and Cu(II) adsorption on MWCNT-PDA/GO hybrid aerogel. Reprinted with permission from [111]. 

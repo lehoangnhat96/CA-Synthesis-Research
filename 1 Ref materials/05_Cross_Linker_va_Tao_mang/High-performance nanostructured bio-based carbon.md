@@ -3,7 +3,7 @@ Cellulose https://doi.org/10.1007/s10570-021-03881-z
 REVIEW PAPER 
 
 
-![](_images/High-performance nanostructured bio-based carbon_images/_temp_89239e55_convert_.pdf-0001-02.png)
+![](_temp_99f4c109_convert__images/_temp_99f4c109_convert_.pdf-0001-02.png)
 
 
 # High-performance nanostructured bio-based carbon electrodes for energy storage applications 
@@ -23,7 +23,7 @@ M. Yanilmaz (&) Nano Science and Nano Engineering, Istanbul Technical University
 M. Yanilmaz Textile Engineering, Istanbul Technical University, Istanbul 34469, Turkey 
 
 
-![](_images/High-performance nanostructured bio-based carbon_images/_temp_89239e55_convert_.pdf-0001-11.png)
+![](_temp_99f4c109_convert__images/_temp_99f4c109_convert_.pdf-0001-11.png)
 
 
 123 
@@ -33,7 +33,7 @@ Cellulose
 ## Graphic abstract 
 
 
-![](_images/High-performance nanostructured bio-based carbon_images/_temp_89239e55_convert_.pdf-0002-02.png)
+![](_temp_99f4c109_convert__images/_temp_99f4c109_convert_.pdf-0002-02.png)
 
 
 Keywords Biomass � Carbon � Physical properties � Electrochemical properties � Energy storage 
@@ -128,7 +128,7 @@ Recent reports have demonstrated the activation with somewhat unconventional mat
 Cellulose 
 
 
-![](_images/High-performance nanostructured bio-based carbon_images/_temp_89239e55_convert_.pdf-0006-01.png)
+![](_temp_99f4c109_convert__images/_temp_99f4c109_convert_.pdf-0006-01.png)
 
 
 Fig. 1 a, b SEM images of elastic nitrogen-doped chitin-based CNFs microspheres, c, d corresponding TEM images and diffraction pattern, e, g SEM images before and after 5 cycles of 
@@ -166,7 +166,7 @@ Nature biowastes, e.g. plant leaves, bamboo fiber, wheat straw, and dead ants, a
 Cellulose 
 
 
-![](_images/High-performance nanostructured bio-based carbon_images/_temp_89239e55_convert_.pdf-0008-01.png)
+![](_temp_99f4c109_convert__images/_temp_99f4c109_convert_.pdf-0008-01.png)
 
 
 Fig. 2 a shows wheat flour, b–e SEM images of Carbonized alkali-treated wheat flour, and f–h elemental analysis of C, N, and O, respectively. Reprinted with permission from Wu et al. (2015). Copyright (2015) Elsevier 
@@ -240,7 +240,7 @@ Cellulose
 Cellulose 
 
 
-![](_images/High-performance nanostructured bio-based carbon_images/_temp_89239e55_convert_.pdf-0014-01.png)
+![](_temp_99f4c109_convert__images/_temp_99f4c109_convert_.pdf-0014-01.png)
 
 
 Fig. 3 SEM and TEM images of LCNF@SnO2 with lignin and PMMA mixed at different mass ratios of a, b 1:9, c, d 3:7, e, f 5:5, g, h 7:3, and i, j 9:1, k HR-TEM image of when lignin 
@@ -258,7 +258,7 @@ LCNFs, without post- or pre-treatments, already possess somewhat high specific s
 Cellulose 
 
 
-![](_images/High-performance nanostructured bio-based carbon_images/_temp_89239e55_convert_.pdf-0015-01.png)
+![](_temp_99f4c109_convert__images/_temp_99f4c109_convert_.pdf-0015-01.png)
 
 
 Fig. 4 SEM images of a pristine cellulose-based CNFs b polypyrrole-coated cellulose-based CNFs, c TEM image of polypyrrole-coated cellulose-based CNFs, and d EDS image 
@@ -349,7 +349,7 @@ To summarize, lignin, cellulose, chitin, and other biomass materials can be cons
 It is worth to emphasize the different methodologies of KOH activation treatment due to their impact on the physical properties of carbon electrodes as is evident in Tables 2, 3, and 5, and throughout the reviews. The application of the KOH treatments differs depending on the adopted protocol. The most conventional method involves activation by soaking pre-carbonized materials into KOH solution or with a mixture of KOH and other activation agents. Solution concentration, mixture ratio, activation time, and activation temperature are the effective parameters that control the final physical properties of the carbon electrodes (He et al. 2016; Shehnaz et al. 2018; Zubbri et al. 2021). Others have utilized less common approach to active their samples using KOH as the activation agent. For example, one group utilized 
 
 
-![](_images/High-performance nanostructured bio-based carbon_images/_temp_89239e55_convert_.pdf-0020-05.png)
+![](_temp_99f4c109_convert__images/_temp_99f4c109_convert_.pdf-0020-05.png)
 
 
 Fig. 5 a, b SEM and c, d TEM images of half-sphere mesopores alginate nanofibers carbonized at 600 �C. Reprinted with permission from Li et al. (2015a). Copyright (2015) American Chemical Society 
@@ -390,7 +390,7 @@ Pristine cellulosic-based and hierarchical composite nanostructured carbon films
 Cellulose 
 
 
-![](_images/High-performance nanostructured bio-based carbon_images/_temp_89239e55_convert_.pdf-0023-01.png)
+![](_temp_99f4c109_convert__images/_temp_99f4c109_convert_.pdf-0023-01.png)
 
 
 Fig. 6 SEM images at different magnifications of cellulose nanofibrils- and cellulose nanocrystals-based carbon film A, B before carbonization, C–E after carbonization, and F TEM 
@@ -459,7 +459,7 @@ BC-based nitrogen-doped carbon aerogels can be prepared simply by thermally trea
 Cellulose 
 
 
-![](_images/High-performance nanostructured bio-based carbon_images/_temp_89239e55_convert_.pdf-0027-01.png)
+![](_temp_99f4c109_convert__images/_temp_99f4c109_convert_.pdf-0027-01.png)
 
 
 Fig. 7 Preparation of bacterial cellulose-based carbon aerogel. Reprinted with permission from Zhu et al. (2018a). Copyright (2018) Elsevier 
@@ -481,7 +481,7 @@ Depending on the starting chitin, different preparation methods have been report
 Cellulose 
 
 
-![](_images/High-performance nanostructured bio-based carbon_images/_temp_89239e55_convert_.pdf-0028-01.png)
+![](_temp_99f4c109_convert__images/_temp_99f4c109_convert_.pdf-0028-01.png)
 
 
 Fig. 8 Preparation steps of chitin-based carbon aerogel. Reprinted with permission from Ding et al. (2018). Copyright (2018) American Chemical Society 
@@ -519,7 +519,7 @@ Biowaste materials have engaged researchers’ attention to synthesize biowaste-
 Cellulose 
 
 
-![](_images/High-performance nanostructured bio-based carbon_images/_temp_89239e55_convert_.pdf-0030-01.png)
+![](_temp_99f4c109_convert__images/_temp_99f4c109_convert_.pdf-0030-01.png)
 
 
 Fig. 9 a preparation steps of aloe-based carbon aerogel, SEM images of aloe composite after b freeze-drying, c hydrothermal treatment, and d carbonization at 700 �C, e–g TEM images and elemental analysis of aloe-based carbon composite aerogel, and 
@@ -726,13 +726,13 @@ SC is another important class of storage devices that can deliver high power in 
 Cellulose 
 
 
-![](_images/High-performance nanostructured bio-based carbon_images/_temp_89239e55_convert_.pdf-0036-01.png)
+![](_temp_99f4c109_convert__images/_temp_99f4c109_convert_.pdf-0036-01.png)
 
 
 Fig. 10 Electrochemical and cycle performance of bagasse-derived electrodes at different current densities in (1) LIB and (2) in Li–S. Reprinted with permission from Wan and Hu (2020). Copyright (2020) Elsevier 
 
 
-![](_images/High-performance nanostructured bio-based carbon_images/_temp_89239e55_convert_.pdf-0036-03.png)
+![](_temp_99f4c109_convert__images/_temp_99f4c109_convert_.pdf-0036-03.png)
 
 
 Fig. 11 Electrochemical and cycle performance of CoFeP nanodots incorporated in a honeycomb-like electrode derived from egg white at different current densities. Reprinted with permission from Sun et al. (2019b). Copyright (2018) Elsevier 
@@ -748,7 +748,7 @@ from renewable sources. Although the starting biomass and biowaste materials are
 Cellulose 
 
 
-![](_images/High-performance nanostructured bio-based carbon_images/_temp_89239e55_convert_.pdf-0037-01.png)
+![](_temp_99f4c109_convert__images/_temp_99f4c109_convert_.pdf-0037-01.png)
 
 
 Fig. 12 Preparation steps and the electrochemical performance of the walnut shell-based electrode compared with an activated carbon counterpart. Reprinted with permission from Shang et al. (2020). Copyright (2020) Elsevier 

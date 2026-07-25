@@ -3,11 +3,11 @@
 **Minireview** 
 
 
-![](_images/Carbon Aerogels for Environmental Clean-Up_img/_temp_104100fb_heal_.pdf-0001-02.png)
+![](_temp_104100fb_convert__images/_temp_104100fb_convert_.pdf-0001-02.png)
 
 
 
-![](_images/Carbon Aerogels for Environmental Clean-Up_img/_temp_104100fb_heal_.pdf-0001-03.png)
+![](_temp_104100fb_convert__images/_temp_104100fb_convert_.pdf-0001-03.png)
 
 
 ## **Carbon Aerogels** 
@@ -39,11 +39,11 @@ _http://faculty.dlut.edu.cn/ecmxyli/zh_CN/index.htm_
 _https://www.seng.ust.hk/web/eng/people_detail.php?id=31&cur2=name ORCID(s) from the author(s) for this article is/are available on the WWW under https://doi.org/10.1002/ejic.201801512._ 
 
 
-![](_images/Carbon Aerogels for Environmental Clean-Up_img/_temp_104100fb_heal_.pdf-0001-18.png)
+![](_temp_104100fb_convert__images/_temp_104100fb_convert_.pdf-0001-18.png)
 
 
 
-![](_images/Carbon Aerogels for Environmental Clean-Up_img/_temp_104100fb_heal_.pdf-0001-19.png)
+![](_temp_104100fb_convert__images/_temp_104100fb_convert_.pdf-0001-19.png)
 
 
 Figure 1. The growing number of publications containing “carbon aerogel”. 
@@ -51,7 +51,7 @@ Figure 1. The growing number of publications containing “carbon aerogel”.
 the gel by sol-gel and aging processes; it is noteworthy that the aging process was regarded as one step of the gelation stage; (II) drying, the acquisition of aerogel by drying the gel under ambient, freeze or supercritical conditions; (III) carbonization, the formation of carbon aerogel by carbonizing aerogel at a high temperature under a flowing nitrogen atmosphere. At present, lots of carbon aerogels are commercially available which have been applied in real scenarios. According to the various sources of precursor, they are commonly divided into the following types: polymer carbon aerogels (PCAs),[[14,15]] graphene carbon aerogels (GCAs),[[16,17]] carbon nanotube carbon aerogels (CNCAs),[[18,19] ] biomass carbon aerogels (BCAs),[[20–22]] and composite carbon aerogels (CCAs).[[23,24]] Different types of carbon aerogels have their own unique characteristics and are suitable for different applications. 
 
 
-![](_images/Carbon Aerogels for Environmental Clean-Up_img/_temp_104100fb_heal_.pdf-0001-22.png)
+![](_temp_104100fb_convert__images/_temp_104100fb_convert_.pdf-0001-22.png)
 
 
 1 
@@ -63,37 +63,37 @@ _Eur. J. Inorg. Chem._ **0000** , 0–0
 **Minireview** 
 
 
-![](_images/Carbon Aerogels for Environmental Clean-Up_img/_temp_104100fb_heal_.pdf-0002-01.png)
+![](_temp_104100fb_convert__images/_temp_104100fb_convert_.pdf-0002-01.png)
 
 
 Carbon aerogels show wonderful adsorption and catalytic tion, they are easy to recycle due to their macrostructure, super performance because of the microscopic properties of carbon elasticity, and high-temperature resistance.[[25]] Therefore, their nanomaterials and the macroscopic structure of the gel. In addiapplication for environmental clean-up has grown rapidly and 
 
 
-![](_images/Carbon Aerogels for Environmental Clean-Up_img/_temp_104100fb_heal_.pdf-0002-03.png)
+![](_temp_104100fb_convert__images/_temp_104100fb_convert_.pdf-0002-03.png)
 
 
 
-![](_images/Carbon Aerogels for Environmental Clean-Up_img/_temp_104100fb_heal_.pdf-0002-04.png)
+![](_temp_104100fb_convert__images/_temp_104100fb_convert_.pdf-0002-04.png)
 
 
 
-![](_images/Carbon Aerogels for Environmental Clean-Up_img/_temp_104100fb_heal_.pdf-0002-05.png)
+![](_temp_104100fb_convert__images/_temp_104100fb_convert_.pdf-0002-05.png)
 
 
 
-![](_images/Carbon Aerogels for Environmental Clean-Up_img/_temp_104100fb_heal_.pdf-0002-06.png)
+![](_temp_104100fb_convert__images/_temp_104100fb_convert_.pdf-0002-06.png)
 
 
 
-![](_images/Carbon Aerogels for Environmental Clean-Up_img/_temp_104100fb_heal_.pdf-0002-07.png)
+![](_temp_104100fb_convert__images/_temp_104100fb_convert_.pdf-0002-07.png)
 
 
 
-![](_images/Carbon Aerogels for Environmental Clean-Up_img/_temp_104100fb_heal_.pdf-0002-08.png)
+![](_temp_104100fb_convert__images/_temp_104100fb_convert_.pdf-0002-08.png)
 
 
 
-![](_images/Carbon Aerogels for Environmental Clean-Up_img/_temp_104100fb_heal_.pdf-0002-09.png)
+![](_temp_104100fb_convert__images/_temp_104100fb_convert_.pdf-0002-09.png)
 
 
 _Guoqiang Gan received his master_ ′ _s degree in 2016, and since then, he has studied environmental engineering at Dalian University of Technology as a PhD student in the working group of Prof. Dr. Xinyong. Li. His scientific interests are focused on environment functional materials._ 
@@ -121,13 +121,13 @@ _Eur. J. Inorg. Chem._ **0000** , 0–0
 **Minireview** 
 
 
-![](_images/Carbon Aerogels for Environmental Clean-Up_img/_temp_104100fb_heal_.pdf-0003-01.png)
+![](_temp_104100fb_convert__images/_temp_104100fb_convert_.pdf-0003-01.png)
 
 
 drawn significant scientific interest.[[26]] Up to now, carbon aerogels have been used in lots of the remediation processes based on their adsorption and catalysis properties, like oil/water separation,[[7,27,28]] removal of heavy metal ions,[[29,30]] clean-up of volatile organic compounds (VOCs),[[31]] CO2 capture,[[32,33]] removal of nitrogen oxide (NOx)[[34]] and so on (Figure 2). 
 
 
-![](_images/Carbon Aerogels for Environmental Clean-Up_img/_temp_104100fb_heal_.pdf-0003-03.png)
+![](_temp_104100fb_convert__images/_temp_104100fb_convert_.pdf-0003-03.png)
 
 
 Figure 2. Schematic illustration of characteristics and applications of carbon aerogels. 
@@ -139,7 +139,7 @@ To the best of our knowledge, there are only a few review articles related to ca
 Carbon aerogels were firstly prepared by polymerizing resorcinol with formaldehyde (RF) under alkaline conditions, followed with supercritical drying and carbonization.[[1]] Since then, more and more monomers were used, such as melamine-form- 
 
 
-![](_images/Carbon Aerogels for Environmental Clean-Up_img/_temp_104100fb_heal_.pdf-0003-08.png)
+![](_temp_104100fb_convert__images/_temp_104100fb_convert_.pdf-0003-08.png)
 
 
 Figure 3. General preparation processes for carbon aerogels. 
@@ -191,7 +191,7 @@ _Eur. J. Inorg. Chem._ **0000** , 0–0 **www.eurjic.org**
 **Minireview** 
 
 
-![](_images/Carbon Aerogels for Environmental Clean-Up_img/_temp_104100fb_heal_.pdf-0005-01.png)
+![](_temp_104100fb_convert__images/_temp_104100fb_convert_.pdf-0005-01.png)
 
 
 those obtained through supercritical drying when the reactant concentration is increased or the catalyst concentration is decreased. 
@@ -215,7 +215,7 @@ To preserve the environmental quality, control and remove of hazardous organic c
 In recent decades, accidents of oil leakage and oil spill have become one of the top environmental concerns with the fastgrowing exploitation of crude oil.[[88, 89]] Selective oil/water separation is highly desired to reclaim the precious oil resources. Therefore, the development of selective, efficient and ecofriendly oil sorbents for oil/water separation is extremely urgent. The selective oil absorption capacity is mainly determined by two properties of the absorbent. The first is surface hydrophobicity, the higher surface hydrophobicity, the less competing adsorption of water. At the same time, the high surface 
 
 
-![](_images/Carbon Aerogels for Environmental Clean-Up_img/_temp_104100fb_heal_.pdf-0005-12.png)
+![](_temp_104100fb_convert__images/_temp_104100fb_convert_.pdf-0005-12.png)
 
 
 Figure 4. (a) Fabrication of the carbon aerogel. (b and c) SEM images of the carbon aerogel at different magnifications. (d) A 15 cm[3] carbon aerogel standing on a piece of _Marsilea quadrifolia_ grass. (e) Hydrophobicity of the carbon aerogel. (f) Adsorption of organic liquids by the carbon aerogel. (g) The regeneration of the carbon aerogel. Adapted with permission from ref.[[93]] Copyright (2014) The Royal Society of Chemistry. 
@@ -239,7 +239,7 @@ hydrothermal process, resulting excellent superhydrophobicity and superoleophili
 Although polymer-, graphene- and CNT- based aerogels exhibited fascinating capacity for the selective oil/water separation, they are not suitable for application in the industry due to their high cost and complex preparation process. Recently, biomass materials (even waste carbonaceous materials) have been converted into hydrophobic carbon aerogels and used for oil/water separation.[[7,64,90,113–118]] Li et al.[[91]] exploited a carbon aerogel by pyrolysis of poplar catkin microfibers with tubular structure. The resulting carbon aerogel showed excellent performance, like ultralow density, high compressibility, high electrical conductivity. The absorption capacity for oil was up to 
 
 
-![](_images/Carbon Aerogels for Environmental Clean-Up_img/_temp_104100fb_heal_.pdf-0006-06.png)
+![](_temp_104100fb_convert__images/_temp_104100fb_convert_.pdf-0006-06.png)
 
 
 Figure 5. The absorption mechanism model of the directional alignment capillary flow in PDA/MWCNT/graphene composite aerogel with “cabbagelike” hierarchical porous channels. The top left picture shows the super-absorption capacity of the composite aerogel frozen at different temperatures for organic solvents. Reprinted with permission from ref.[[18]] Copyright (2018) American Chemical Society. 
@@ -253,7 +253,7 @@ _Eur. J. Inorg. Chem._ **0000** , 0–0 **www.eurjic.org**
 **Minireview** 
 
 
-![](_images/Carbon Aerogels for Environmental Clean-Up_img/_temp_104100fb_heal_.pdf-0007-01.png)
+![](_temp_104100fb_convert__images/_temp_104100fb_convert_.pdf-0007-01.png)
 
 
 Table 1. Summary of carbon aerogels and their performance in selective oil/water separation. 
@@ -296,7 +296,7 @@ _Eur. J. Inorg. Chem._ **0000** , 0–0 **www.eurjic.org**
 **Minireview** 
 
 
-![](_images/Carbon Aerogels for Environmental Clean-Up_img/_temp_104100fb_heal_.pdf-0008-01.png)
+![](_temp_104100fb_convert__images/_temp_104100fb_convert_.pdf-0008-01.png)
 
 
 controlled by pore diffusion and chemical reaction on adsorbent surface. Furthermore, the presence of competing ions showed little effect on the adsorption efficiency toward Cr (VI) and Pb (II). 
@@ -353,7 +353,7 @@ _Eur. J. Inorg. Chem._ **0000** , 0–0 **www.eurjic.org**
 **Minireview** 
 
 
-![](_images/Carbon Aerogels for Environmental Clean-Up_img/_temp_104100fb_heal_.pdf-0009-01.png)
+![](_temp_104100fb_convert__images/_temp_104100fb_convert_.pdf-0009-01.png)
 
 
 highly toxic and carcinogenic, and they cause respiratory issues, acute poisoning or chronic toxicity as well as nasal tumors. And for the ecological environment, they bring serious problems including greenhouse effect, photochemical smog, stratospheric ozone depletion etc. Therefore, selective removal of VOCs is highly desired to air clean-up. Recently, tremendous efforts have been made to develop efficient VOCs elimination techniques. Adsorption process has been considered one of the most efficient methods with low cost and no secondary organic pollutants. And the key point of adsorption process is developing the high-performance adsorbents. Same as oil absorption, the VOCs absorption capacity is determined by surface hydrophobicity and the density of adsorbents. 
@@ -365,7 +365,7 @@ Another important application of carbon aerogels for VOC adsorption is their use
 VOCs at low concentrations (Figure 6). The encapsulated PDA derivatives formed a PDA–aerogel “artificial nose” through the production of distinct VOC-dependent color transformations. However, simultaneous detection of different kinds of trace VOCs with high sensitivity and selectivity is still challenging. 
 
 
-![](_images/Carbon Aerogels for Environmental Clean-Up_img/_temp_104100fb_heal_.pdf-0009-06.png)
+![](_temp_104100fb_convert__images/_temp_104100fb_convert_.pdf-0009-06.png)
 
 
 Figure 6. “Color fingerprinting” of VOCs using aerogel-embedded PDA derivatives. (A) Structures of the monomers employed; (B) scanned photographs of the PDA-aerogels after 60 min exposure to the VOCs (concentrations 1000 ppm). Reprinted with permission from ref.[[142]] Copyright (2017) American Chemical Society. 
@@ -396,7 +396,7 @@ _Eur. J. Inorg. Chem._ **0000** , 0–0 **www.eurjic.org**
 © 0000 Wiley-VCH Verlag GmbH & Co. KGaA, Weinheim 
 
 
-![](_images/Carbon Aerogels for Environmental Clean-Up_img/_temp_104100fb_heal_.pdf-0010-00.png)
+![](_temp_104100fb_convert__images/_temp_104100fb_convert_.pdf-0010-00.png)
 
 
 **----- Start of picture text -----**<br>
@@ -418,7 +418,7 @@ An ideal CO2 adsorbent should simultaneously have the characteristics of large a
 Amine functionalized carbon aerogels are a promising material for CO2 capture due to the strong affinity of amine moiety to CO2 molecules. In the presence of moisture, amine moiety reacts with CO2 selectively ammonium carbamate, while the product is carbamic acid in the dry atmosphere. The reaction is reversible and the saturated carbon aerogels is regenerated completely just by heating up to 100 °C. Therefore, more and 
 
 
-![](_images/Carbon Aerogels for Environmental Clean-Up_img/_temp_104100fb_heal_.pdf-0010-08.png)
+![](_temp_104100fb_convert__images/_temp_104100fb_convert_.pdf-0010-08.png)
 
 
 Figure 7. (a) Synthetic procedure for carbon nitride aerogel (CNA). Modified sol-gel reduction of graphene oxide (GO) with dicyandiamide results in dicyandiamide-functionalized reduced graphene oxide (DC-rGO) hydrogel. Subsequent liquid extraction with supercritical CO2 drying and thermal treatment transform this hydrogel into carbon nitride embedded graphene aerogel, which is capable of selective CO2 gas capture against N2. (b) DFT analysis of gas adsorption by carbon nitride aerogel. Reprinted with permission from ref.[[157]] Copyright (2015) American Chemical Society. 
@@ -432,7 +432,7 @@ _Eur. J. Inorg. Chem._ **0000** , 0–0 **www.eurjic.org**
 **Minireview** 
 
 
-![](_images/Carbon Aerogels for Environmental Clean-Up_img/_temp_104100fb_heal_.pdf-0011-01.png)
+![](_temp_104100fb_convert__images/_temp_104100fb_convert_.pdf-0011-01.png)
 
 
 Table 4. Summary of carbon aerogels and their performance in CO2 capture. 
@@ -480,7 +480,7 @@ _Eur. J. Inorg. Chem._ **0000** , 0–0 **www.eurjic.org**
 © 0000 Wiley-VCH Verlag GmbH & Co. KGaA, Weinheim 
 
 
-![](_images/Carbon Aerogels for Environmental Clean-Up_img/_temp_104100fb_heal_.pdf-0012-00.png)
+![](_temp_104100fb_convert__images/_temp_104100fb_convert_.pdf-0012-00.png)
 
 
 **----- Start of picture text -----**<br>
@@ -490,7 +490,7 @@ Minireview<br>**----- End of picture text -----**<br>
 oxide (NO) removal. PI-g-C3N4 aerogel exhibited a strong light absorption, and graphene oxide was beneficial for the charge transportation and the diminution of electron–hole pairs recombination. Therefore, the functionalized aerogel exhibited an excellent photocatalytic activity in NO purification with a removal ratio up to 66 %. The possible mechanism for NO removal was proposed, as shown in Figure 8. The absorption of visible-light by the aerogel resulted in the formation of electron–hole pairs, and the electrons were excited to the conduction band (CB). Then, the electrons in the CB of PI transferred to the valence band (VB) of g-C3N4 and recombined with holes. Finally, NO was oxidized to NO[3–] by the holes remaining in the VB of PI. Simultaneously, oxygen was quickly reduced to **·** O[2–] and **·** OH by the excited electrons in the CB of g-C3N4, and NO was transformed to NO[3–] with the intermediate product of NO2. 
 
 
-![](_images/Carbon Aerogels for Environmental Clean-Up_img/_temp_104100fb_heal_.pdf-0012-02.png)
+![](_temp_104100fb_convert__images/_temp_104100fb_convert_.pdf-0012-02.png)
 
 
 Figure 8. (a) Schematic illustration of the synthesis of the PICNGA composite aerogel. (b) Photographs of the aerogel fabrication process. (c) Photocatalytic mechanism of NO removal under visible-light irradiation by PICNGA aerogels. Reprinted from ref.[[34]] 
@@ -516,11 +516,11 @@ _Eur. J. Inorg. Chem._ **0000** , 0–0 **www.eurjic.org**
 **Minireview** 
 
 
-![](_images/Carbon Aerogels for Environmental Clean-Up_img/_temp_104100fb_heal_.pdf-0013-01.png)
+![](_temp_104100fb_convert__images/_temp_104100fb_convert_.pdf-0013-01.png)
 
 
 
-![](_images/Carbon Aerogels for Environmental Clean-Up_img/_temp_104100fb_heal_.pdf-0013-02.png)
+![](_temp_104100fb_convert__images/_temp_104100fb_convert_.pdf-0013-02.png)
 
 
 Figure 9. (a) Schematic illustration of the fabrication of Ru/GA-HK. (b) The reaction mechanism for CO removal. Reprinted from ref.[[188]] 
@@ -550,7 +550,7 @@ _Eur. J. Inorg. Chem._ **0000** , 0–0 **www.eurjic.org**
 **Minireview** 
 
 
-![](_images/Carbon Aerogels for Environmental Clean-Up_img/_temp_104100fb_heal_.pdf-0014-01.png)
+![](_temp_104100fb_convert__images/_temp_104100fb_convert_.pdf-0014-01.png)
 
 
 structural shrinkage and collapse under ambient pressure drying. To avoid that, supercritical drying and freeze-drying techniques are applied in many cases, increasing the operational risk and cost during preparation. Thirdly, many pristine carbon aerogels are fragile, weakening the regeneration of sorbent, especially for various water treatment purposes. Finally, the micromorphological features of a large amount of carbon aerogels are amorphous, which leads to the limitation of their selectivity in some applications. 
@@ -676,7 +676,7 @@ _Eur. J. Inorg. Chem._ **0000** , 0–0
 **Minireview** 
 
 
-![](_images/Carbon Aerogels for Environmental Clean-Up_img/_temp_104100fb_heal_.pdf-0015-01.png)
+![](_temp_104100fb_convert__images/_temp_104100fb_convert_.pdf-0015-01.png)
 
 
 - [52] B. C. Qiu, M. Y. Xing, J. L. Zhang, _J. Am. Chem. Soc._ **2014** , _136_ , 5852–5855. 
@@ -844,7 +844,7 @@ _Eur. J. Inorg. Chem._ **0000** , 0–0 **www.eurjic.org**
 **Minireview** 
 
 
-![](_images/Carbon Aerogels for Environmental Clean-Up_img/_temp_104100fb_heal_.pdf-0016-01.png)
+![](_temp_104100fb_convert__images/_temp_104100fb_convert_.pdf-0016-01.png)
 
 
 - [128] Q. P. Kong, C. H. Wei, S. Preis, Y. Hu, F. Wang, _Environ. Sci. Pollut. Res. Int._ **2018** , _25_ , 21164–21175. 
@@ -986,11 +986,11 @@ _Eur. J. Inorg. Chem._ **0000** , 0–0 **www.eurjic.org**
 **Minireview** 
 
 
-![](_images/Carbon Aerogels for Environmental Clean-Up_img/_temp_104100fb_heal_.pdf-0017-01.png)
+![](_temp_104100fb_convert__images/_temp_104100fb_convert_.pdf-0017-01.png)
 
 
 
-![](_images/Carbon Aerogels for Environmental Clean-Up_img/_temp_104100fb_heal_.pdf-0017-02.png)
+![](_temp_104100fb_convert__images/_temp_104100fb_convert_.pdf-0017-02.png)
 
 
 ## **Carbon Aerogels** 
@@ -1000,7 +1000,7 @@ _G. Gan, X. Li,* S. Fan, L. Wang, M. Qin, Z. Yin, G. Chen* ................_ 1�
 **Carbon Aerogels for Environmental Clean-Up** 
 
 
-![](_images/Carbon Aerogels for Environmental Clean-Up_img/_temp_104100fb_heal_.pdf-0017-06.png)
+![](_temp_104100fb_convert__images/_temp_104100fb_convert_.pdf-0017-06.png)
 
 
 Carbon aerogels have excellent properties including low apparent density, large specific surface area, abundant pore structure, high electrical conductivity, good chemical stability, environmental compatibility, as well as modifiable surface chemistry and controllable texture and structural features. Their applications as adsorbents and catalysts for environmental clean-up have been reviewed. 

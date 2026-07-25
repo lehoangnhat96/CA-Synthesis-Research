@@ -1,0 +1,15 @@
+﻿=== CHITOSAN_NAFION_RATIO ===
+[ref_38.md:8121] which paper with a photoconductive coating containing a ZnO binder is used directly is
+[ref_39.md:19709] 1971; de Gennes, 1992; Binder, 1983)
+[ref_39.md:27900] Akhmatov, A. S. (1966). Molecular physics of boundary friction. Jerusalem, Israel: Wiener Bindery Ltd. Israel
+
+
+=== CHITOSAN_CONC ===
+
+
+=== ANNEALING_TEMP ===
+
+
+=== CELL_VOLUME ===
+
+

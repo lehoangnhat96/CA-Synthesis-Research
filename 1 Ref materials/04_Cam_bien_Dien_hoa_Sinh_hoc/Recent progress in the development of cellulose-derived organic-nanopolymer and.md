@@ -71,7 +71,7 @@ and Technology, Kyung Hee University, Seoul 02447,
 Republic of Korea
 
 
-![Ảnh 1](_images/Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-1-img-1.png)
+![Ảnh 1](Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-1-img-1.png)
 
 ## Page 2
 
@@ -225,7 +225,7 @@ d different optical chemosens-
 ing platforms
 
 
-![Ảnh 2](_images/Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-3-img-1.jpeg)
+![Ảnh 2](Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-3-img-1.jpeg)
 
 ## Page 4
 
@@ -285,7 +285,7 @@ Fig. 2   Schematic illustration of synthetic strategies for extraction and
 and functionalised materials
 
 
-![Ảnh 3](_images/Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-4-img-1.jpeg)
+![Ảnh 3](Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-4-img-1.jpeg)
 
 ## Page 5
 
@@ -1167,7 +1167,7 @@ article for the legend colour). Reproduced from Ref. 32 with permis-
 sion of RSC
 
 
-![Ảnh 4](_images/Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-10-img-1.jpeg)
+![Ảnh 4](Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-10-img-1.jpeg)
 
 ## Page 11
 
@@ -1260,7 +1260,7 @@ from Ref. 33 with permission
 of RSC
 
 
-![Ảnh 5](_images/Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-11-img-1.jpeg)
+![Ảnh 5](Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-11-img-1.jpeg)
 
 ## Page 12
 
@@ -1307,7 +1307,7 @@ for the legend colour). Reproduced from Ref. 36 with permission of
 Elsevier
 
 
-![Ảnh 6](_images/Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-12-img-1.jpeg)
+![Ảnh 6](Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-12-img-1.jpeg)
 
 ## Page 13
 
@@ -1350,7 +1350,7 @@ colourimetric changes. (Refer to the web version of this article for the
 legend colour). Reproduced from Ref. 38 with permission of Elsevier
 
 
-![Ảnh 7](_images/Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-13-img-1.jpeg)
+![Ảnh 7](Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-13-img-1.jpeg)
 
 ## Page 14
 
@@ -1435,7 +1435,7 @@ lulose papers. (Refer to the web version of this article for the legend
 colour). Reproduced from Ref. 39 with permission of Elsevier
 
 
-![Ảnh 8](_images/Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-14-img-1.jpeg)
+![Ảnh 8](Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-14-img-1.jpeg)
 
 ## Page 15
 
@@ -1496,7 +1496,7 @@ the legend colour). Reproduced from Ref. 41 with permission of Else-
 vier
 
 
-![Ảnh 9](_images/Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-15-img-1.jpeg)
+![Ảnh 9](Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-15-img-1.jpeg)
 
 ## Page 16
 
@@ -1593,7 +1593,7 @@ Reproduced from Ref. 43 with
 permission of Springer
 
 
-![Ảnh 10](_images/Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-16-img-1.jpeg)
+![Ảnh 10](Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-16-img-1.jpeg)
 
 ## Page 17
 
@@ -1624,7 +1624,7 @@ and ­Hg2+ by 30. (Refer to the web version of this article for the leg-
 end colour). Reproduced from Ref. 45 with permission of Elsevier
 
 
-![Ảnh 11](_images/Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-17-img-1.jpeg)
+![Ảnh 11](Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-17-img-1.jpeg)
 
 ## Page 18
 
@@ -1697,7 +1697,7 @@ Arrows indicate regions of concentrated NPs. Scale bar = 20  mm.
 duced from Ref. 46 with permission of RSC
 
 
-![Ảnh 12](_images/Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-18-img-1.jpeg)
+![Ảnh 12](Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-18-img-1.jpeg)
 
 ## Page 19
 
@@ -1749,7 +1749,7 @@ of this article for the legend colour). Reproduced from Ref. 49 with
 permission of Elsevier
 
 
-![Ảnh 13](_images/Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-19-img-1.jpeg)
+![Ảnh 13](Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-19-img-1.jpeg)
 
 ## Page 20
 
@@ -1834,7 +1834,7 @@ colour). Reproduced from Ref.
 51 with permission of Elsevier
 
 
-![Ảnh 14](_images/Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-20-img-1.jpeg)
+![Ảnh 14](Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-20-img-1.jpeg)
 
 ## Page 21
 
@@ -1859,7 +1859,7 @@ sion of this article for the legend colour). Reproduced from Ref. 53
 with permission of Elsevier
 
 
-![Ảnh 15](_images/Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-21-img-1.jpeg)
+![Ảnh 15](Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-21-img-1.jpeg)
 
 ## Page 22
 
@@ -1924,7 +1924,7 @@ web version of this article for the legend colour). Reproduced from
 Ref. 54 with permission of RSC
 
 
-![Ảnh 16](_images/Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-22-img-1.jpeg)
+![Ảnh 16](Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-22-img-1.jpeg)
 
 ## Page 23
 
@@ -1981,7 +1981,7 @@ ual detection of ­Hg2+ by using 48 doped membranes under UV lamp.
 duced from Ref. 56 with permission of Elsevier
 
 
-![Ảnh 17](_images/Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-23-img-1.jpeg)
+![Ảnh 17](Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-23-img-1.jpeg)
 
 ## Page 24
 
@@ -2029,7 +2029,7 @@ article for the legend colour). Reproduced from Ref. 58 with permis-
 sion of Elsevier
 
 
-![Ảnh 18](_images/Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-24-img-1.jpeg)
+![Ảnh 18](Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-24-img-1.jpeg)
 
 ## Page 25
 
@@ -2102,7 +2102,7 @@ the legend colour). Reproduced from Ref. 59 with permission of Else-
 vier
 
 
-![Ảnh 19](_images/Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-25-img-1.jpeg)
+![Ảnh 19](Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-25-img-1.jpeg)
 
 ## Page 26
 
@@ -2136,7 +2136,7 @@ web version of this article for the legend colour). Reproduced from
 Ref. 61 with permission of ACS
 
 
-![Ảnh 20](_images/Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-26-img-1.jpeg)
+![Ảnh 20](Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-26-img-1.jpeg)
 
 ## Page 27
 
@@ -2210,7 +2210,7 @@ from Ref. 62 with permission
 of ACS
 
 
-![Ảnh 21](_images/Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-27-img-1.jpeg)
+![Ảnh 21](Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-27-img-1.jpeg)
 
 ## Page 28
 
@@ -2260,7 +2260,7 @@ centrations of ­Ni2+. (Refer to the web version of this article for the
 legend colour). Reproduced from Ref. 64 with permission of Elsevier
 
 
-![Ảnh 22](_images/Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-28-img-1.jpeg)
+![Ảnh 22](Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-28-img-1.jpeg)
 
 ## Page 29
 
@@ -2286,7 +2286,7 @@ d Complete preparation of 62 and detection mechanism for Se(IV).
 duced from Ref. 66 with permission of Springer
 
 
-![Ảnh 23](_images/Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-29-img-1.jpeg)
+![Ảnh 23](Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-29-img-1.jpeg)
 
 ## Page 30
 
@@ -2319,10 +2319,10 @@ Reproduced from Ref. 68 with
 permission of RSC
 
 
-![Ảnh 24](_images/Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-30-img-1.jpeg)
+![Ảnh 24](Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-30-img-1.jpeg)
 
 
-![Ảnh 25](_images/Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-30-img-2.jpeg)
+![Ảnh 25](Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-30-img-2.jpeg)
 
 ## Page 31
 
@@ -2390,7 +2390,7 @@ colour). Reproduced from Ref.
 69 with permission of ACS
 
 
-![Ảnh 26](_images/Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-31-img-1.jpeg)
+![Ảnh 26](Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-31-img-1.jpeg)
 
 ## Page 32
 
@@ -2453,7 +2453,7 @@ cle for the legend colour). Reproduced from Ref. 70 with permission
 of Elsevier
 
 
-![Ảnh 27](_images/Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-32-img-1.jpeg)
+![Ảnh 27](Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-32-img-1.jpeg)
 
 ## Page 33
 
@@ -2487,10 +2487,10 @@ version of this article for the legend colour). Reproduced from Ref.
 74 with permission of RSC
 
 
-![Ảnh 28](_images/Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-33-img-1.jpeg)
+![Ảnh 28](Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-33-img-1.jpeg)
 
 
-![Ảnh 29](_images/Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-33-img-2.jpeg)
+![Ảnh 29](Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-33-img-2.jpeg)
 
 ## Page 34
 
@@ -2545,7 +2545,7 @@ to the web version of this article for the legend colour). Reproduced
 from Ref. 77 with permission of Elsevier
 
 
-![Ảnh 30](_images/Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-34-img-1.jpeg)
+![Ảnh 30](Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-34-img-1.jpeg)
 
 ## Page 35
 
@@ -2712,7 +2712,7 @@ from Ref. 78 with permission
 of ACS
 
 
-![Ảnh 31](_images/Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-36-img-1.jpeg)
+![Ảnh 31](Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-36-img-1.jpeg)
 
 ## Page 37
 
@@ -2747,7 +2747,7 @@ of CNF-based probe 81. h Fluorescence selectivity of As(III) by 81.
 duced from Ref. 82 with permission of Elsevier
 
 
-![Ảnh 32](_images/Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-37-img-1.jpeg)
+![Ảnh 32](Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-37-img-1.jpeg)
 
 ## Page 38
 
@@ -2780,7 +2780,7 @@ of this article for the legend colour). Reproduced from Ref. 84 with
 permission of Wiley
 
 
-![Ảnh 33](_images/Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-38-img-1.jpeg)
+![Ảnh 33](Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-38-img-1.jpeg)
 
 ## Page 39
 
@@ -2866,7 +2866,7 @@ cle for the legend colour). Reproduced from Ref. 85 with permission
 of Elsevier
 
 
-![Ảnh 34](_images/Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-39-img-1.jpeg)
+![Ảnh 34](Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-39-img-1.jpeg)
 
 ## Page 40
 
@@ -2934,7 +2934,7 @@ film sensor 88. (Refer to the web version of this article for the legend
 colour). Reproduced from Ref. 87 with permission of ACS
 
 
-![Ảnh 35](_images/Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-40-img-1.jpeg)
+![Ảnh 35](Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-40-img-1.jpeg)
 
 ## Page 41
 
@@ -2964,10 +2964,10 @@ sion of this article for the legend colour). Reproduced from Ref. 92
 with permission of RSC
 
 
-![Ảnh 36](_images/Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-41-img-1.jpeg)
+![Ảnh 36](Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-41-img-1.jpeg)
 
 
-![Ảnh 37](_images/Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-41-img-2.jpeg)
+![Ảnh 37](Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-41-img-2.jpeg)
 
 ## Page 42
 
@@ -3112,7 +3112,7 @@ article for the legend colour). Reproduced from Ref. 94 with permis-
 sion of RSC
 
 
-![Ảnh 38](_images/Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-43-img-1.jpeg)
+![Ảnh 38](Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-43-img-1.jpeg)
 
 ## Page 44
 
@@ -3194,7 +3194,7 @@ from Ref. 96 with permission of
 Elsevier
 
 
-![Ảnh 39](_images/Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-44-img-1.jpeg)
+![Ảnh 39](Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-44-img-1.jpeg)
 
 ## Page 45
 
@@ -3241,7 +3241,7 @@ nism of 99 for ­Fe3+. e Chemical synthesis and formation of 99 films.
 duced from Ref. 98 with permission of Springer
 
 
-![Ảnh 40](_images/Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-45-img-1.jpeg)
+![Ảnh 40](Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-45-img-1.jpeg)
 
 ## Page 46
 
@@ -3279,7 +3279,7 @@ the legend colour). Reproduced from Ref. 100 with permission of
 ACS
 
 
-![Ảnh 41](_images/Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-46-img-1.jpeg)
+![Ảnh 41](Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-46-img-1.jpeg)
 
 ## Page 47
 
@@ -3345,7 +3345,7 @@ version of this article for the legend colour). Reproduced from Ref.
 102 with permission of Elsevier
 
 
-![Ảnh 42](_images/Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-47-img-1.jpeg)
+![Ảnh 42](Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-47-img-1.jpeg)
 
 ## Page 48
 
@@ -3363,7 +3363,7 @@ duced from Ref. 103 with permission of ACS. e Synthetic route for
 duced from Ref. 104 with permission of Elsevier
 
 
-![Ảnh 43](_images/Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-48-img-1.jpeg)
+![Ảnh 43](Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-48-img-1.jpeg)
 
 ## Page 49
 
@@ -3440,7 +3440,7 @@ this article for the legend colour). Reproduced from Ref. 106 with
 permission of Elsevier
 
 
-![Ảnh 44](_images/Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-49-img-1.jpeg)
+![Ảnh 44](Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-49-img-1.jpeg)
 
 ## Page 50
 
@@ -3487,7 +3487,7 @@ cline. (Refer to the web version of this article for the legend colour).
 Reproduced from Ref. 108 with permission of Wiley
 
 
-![Ảnh 45](_images/Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-50-img-1.jpeg)
+![Ảnh 45](Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-50-img-1.jpeg)
 
 ## Page 51
 
@@ -3559,7 +3559,7 @@ Fig. 45   a Schematic example of generation of 117. b Application of 117 i
 the legend colour). Reproduced from Ref. 109 with permission of ACS
 
 
-![Ảnh 46](_images/Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-51-img-1.jpeg)
+![Ảnh 46](Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-51-img-1.jpeg)
 
 ## Page 52
 
@@ -3600,7 +3600,7 @@ of this article for the legend colour). Reproduced from Ref. 111 with
 permission of ACS
 
 
-![Ảnh 47](_images/Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-52-img-1.jpeg)
+![Ảnh 47](Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-52-img-1.jpeg)
 
 ## Page 53
 
@@ -3632,7 +3632,7 @@ for materials 123–125. g Imaging profile of 123–125 in HeLa cells.
 duced from Ref. 114 with permission of Elsevier
 
 
-![Ảnh 48](_images/Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-53-img-1.jpeg)
+![Ảnh 48](Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-53-img-1.jpeg)
 
 ## Page 54
 
@@ -3673,7 +3673,7 @@ d Preparation of chitosan hydrogel 129. e Self-healing mechanism of
 Reproduced from Ref. 118 with permission of Elsevier
 
 
-![Ảnh 49](_images/Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-54-img-1.jpeg)
+![Ảnh 49](Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-54-img-1.jpeg)
 
 ## Page 55
 
@@ -3814,7 +3814,7 @@ ent levels of ­Hg2+. g Titration profile of 132 in the presence of ­Hg2+.
 duced from Ref. 121 with permission of Elsevier
 
 
-![Ảnh 50](_images/Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-56-img-1.jpeg)
+![Ảnh 50](Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-56-img-1.jpeg)
 
 ## Page 57
 
@@ -3869,7 +3869,7 @@ Reproduced from Ref. 122 with
 permission of Elsevier
 
 
-![Ảnh 51](_images/Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-57-img-1.jpeg)
+![Ảnh 51](Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-57-img-1.jpeg)
 
 ## Page 58
 
@@ -3901,7 +3901,7 @@ from Ref. 124 with permission of ACS. e Synthetic procedure for
 Reproduced from Ref. 125 with permission of Elsevier
 
 
-![Ảnh 52](_images/Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-58-img-1.jpeg)
+![Ảnh 52](Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-58-img-1.jpeg)
 
 ## Page 59
 
@@ -3957,7 +3957,7 @@ to the web version of this article for the legend colour). Reproduced
 from Ref. 127 with permission of Elsevier
 
 
-![Ảnh 53](_images/Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-59-img-1.jpeg)
+![Ảnh 53](Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-59-img-1.jpeg)
 
 ## Page 60
 
@@ -4022,7 +4022,7 @@ version of this article for the legend colour). Reproduced from Ref.
 128 with permission of Elsevier
 
 
-![Ảnh 54](_images/Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-60-img-1.jpeg)
+![Ảnh 54](Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-60-img-1.jpeg)
 
 ## Page 61
 
@@ -4101,7 +4101,7 @@ article for the legend colour). Reproduced from Ref. 131 with permis-
 sion of Elsevier
 
 
-![Ảnh 55](_images/Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-61-img-1.jpeg)
+![Ảnh 55](Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-61-img-1.jpeg)
 
 ## Page 62
 
@@ -4157,7 +4157,7 @@ article for the legend colour). Reproduced from Ref. 134 with permis-
 sion of ACS
 
 
-![Ảnh 56](_images/Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-62-img-1.jpeg)
+![Ảnh 56](Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-62-img-1.jpeg)
 
 ## Page 63
 
@@ -4221,7 +4221,7 @@ counter analytes. c Naked eye profile of 150 after addition of phenol.
 duced from Ref. 135 with permission of Elsevier
 
 
-![Ảnh 57](_images/Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-63-img-1.jpeg)
+![Ảnh 57](Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-63-img-1.jpeg)
 
 ## Page 64
 
@@ -4278,7 +4278,7 @@ for the legend colour). Reproduced from Ref. 137 with permission of
 Wiley
 
 
-![Ảnh 58](_images/Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-64-img-1.jpeg)
+![Ảnh 58](Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-64-img-1.jpeg)
 
 ## Page 65
 
@@ -4306,10 +4306,10 @@ colour). Reproduced from Ref.
 139 with permission of ACS
 
 
-![Ảnh 59](_images/Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-65-img-1.jpeg)
+![Ảnh 59](Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-65-img-1.jpeg)
 
 
-![Ảnh 60](_images/Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-65-img-2.jpeg)
+![Ảnh 60](Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-65-img-2.jpeg)
 
 ## Page 66
 
@@ -4360,7 +4360,7 @@ ecules. (Refer to the web version of this article for the legend colour).
 Reproduced from Ref. 142 with permission of Springer
 
 
-![Ảnh 61](_images/Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-66-img-1.jpeg)
+![Ảnh 61](Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-66-img-1.jpeg)
 
 ## Page 67
 
@@ -4420,7 +4420,7 @@ trinitrophenol. (Refer to the web version of this article for the legend
 colour). Reproduced from Ref. 144 with permission of Elsevier
 
 
-![Ảnh 62](_images/Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-67-img-1.jpeg)
+![Ảnh 62](Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-67-img-1.jpeg)
 
 ## Page 68
 
@@ -4477,7 +4477,7 @@ version of this article for the legend colour). Reproduced from Ref.
 146 with permission of Springer
 
 
-![Ảnh 63](_images/Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-68-img-1.jpeg)
+![Ảnh 63](Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-68-img-1.jpeg)
 
 ## Page 69
 
@@ -4524,7 +4524,7 @@ to the web version of this article for the legend colour). Reproduced
 from Ref. 149 with permission of Nature
 
 
-![Ảnh 64](_images/Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-69-img-1.jpeg)
+![Ảnh 64](Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-69-img-1.jpeg)
 
 ## Page 70
 
@@ -4585,7 +4585,7 @@ towards ­Fe3+. (Refer to the web version of this article for the legend
 colour). Reproduced from Ref. 151 with permission of Elsevier
 
 
-![Ảnh 65](_images/Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-70-img-1.jpeg)
+![Ảnh 65](Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-70-img-1.jpeg)
 
 ## Page 71
 
@@ -4671,7 +4671,7 @@ from Ref. 153 with permission
 of Elsevier
 
 
-![Ảnh 66](_images/Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-71-img-1.jpeg)
+![Ảnh 66](Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-71-img-1.jpeg)
 
 ## Page 72
 
@@ -4741,7 +4741,7 @@ legend colour). Reproduced from Ref. 155 with permission of Else-
 vier
 
 
-![Ảnh 67](_images/Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-72-img-1.jpeg)
+![Ảnh 67](Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-72-img-1.jpeg)
 
 ## Page 73
 
@@ -4763,10 +4763,10 @@ this article for the legend colour). Reproduced from Ref. 158 with
 permission of RSC
 
 
-![Ảnh 68](_images/Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-73-img-1.jpeg)
+![Ảnh 68](Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-73-img-1.jpeg)
 
 
-![Ảnh 69](_images/Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-73-img-2.jpeg)
+![Ảnh 69](Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-73-img-2.jpeg)
 
 ## Page 74
 
@@ -4830,7 +4830,7 @@ from Ref. 159 with permission
 of Elsevier
 
 
-![Ảnh 70](_images/Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-74-img-1.jpeg)
+![Ảnh 70](Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-74-img-1.jpeg)
 
 ## Page 75
 
@@ -4848,7 +4848,7 @@ to the web version of this article for the legend colour). Reproduced
 from Ref. 161 with permission of ACS
 
 
-![Ảnh 71](_images/Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-75-img-1.jpeg)
+![Ảnh 71](Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-75-img-1.jpeg)
 
 ## Page 76
 
@@ -4918,7 +4918,7 @@ from Ref. 163 with permission
 of Elsevier
 
 
-![Ảnh 72](_images/Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-76-img-1.jpeg)
+![Ảnh 72](Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-76-img-1.jpeg)
 
 ## Page 77
 
@@ -4960,7 +4960,7 @@ of ­Fe3+ and ­Cu2+. (Refer to the web version of this article for the leg-
 end colour). Reproduced from Ref. 165 with permission of Elsevier
 
 
-![Ảnh 73](_images/Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-77-img-1.jpeg)
+![Ảnh 73](Recent progress in the development of cellulose-derived organic-nanopolymer and_images/page-77-img-1.jpeg)
 
 ## Page 78
 

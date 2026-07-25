@@ -1,7 +1,7 @@
 Results in Chemistry 4 (2022) 100291 
 
 
-![](_images/Fabrication and characterization of coconut shell activated carbon using_images/_temp_5ad714f3_convert_.pdf-0001-01.png)
+![](_temp_79c2349e_convert__images/_temp_79c2349e_convert_.pdf-0001-01.png)
 
 
 Contents lists available at ScienceDirect 
@@ -11,13 +11,13 @@ Contents lists available at ScienceDirect
 journal homepage: www.sciencedirect.com/journal/results-in-chemistry 
 
 
-![](_images/Fabrication and characterization of coconut shell activated carbon using_images/_temp_5ad714f3_convert_.pdf-0001-05.png)
+![](_temp_79c2349e_convert__images/_temp_79c2349e_convert_.pdf-0001-05.png)
 
 
 ## Fabrication and characterization of coconut shell activated carbon using variation chemical activation for wastewater treatment application 
 
 
-![](_images/Fabrication and characterization of coconut shell activated carbon using_images/_temp_5ad714f3_convert_.pdf-0001-07.png)
+![](_temp_79c2349e_convert__images/_temp_79c2349e_convert_.pdf-0001-07.png)
 
 
 ## E.H. Sujiono[a][,][*] , D. Zabrian[a] , Zurnansyah[a] , Mulyati[a] , V. Zharvan[a] , Samnur[b] , N.A. Humairah[c ] 
@@ -53,7 +53,7 @@ _Results in Chemistry 4 (2022) 100291_
 _E.H. Sujiono et al._ 
 
 
-![](_images/Fabrication and characterization of coconut shell activated carbon using_images/_temp_5ad714f3_convert_.pdf-0002-02.png)
+![](_temp_79c2349e_convert__images/_temp_79c2349e_convert_.pdf-0002-02.png)
 
 
 **Fig. 1.** Schematic of synthesis activated carbon base coconut shells with different activating agents. 
@@ -90,7 +90,7 @@ Match! analysis result of coconut shell charcoal after washing with HF.
 
 
 
-![](_images/Fabrication and characterization of coconut shell activated carbon using_images/_temp_5ad714f3_convert_.pdf-0003-12.png)
+![](_temp_79c2349e_convert__images/_temp_79c2349e_convert_.pdf-0003-12.png)
 
 
 **Fig. 2.** XRD diffractogram pattern with elemental content in coconut shell charcoal after washing with hydrofluoric acid (HF). 
@@ -132,7 +132,7 @@ Microstructural XRD data of the three highest peaks of coconut shell charcoal.
 
 
 
-![](_images/Fabrication and characterization of coconut shell activated carbon using_images/_temp_5ad714f3_convert_.pdf-0004-05.png)
+![](_temp_79c2349e_convert__images/_temp_79c2349e_convert_.pdf-0004-05.png)
 
 
 **Fig. 3.** Surface morphology of the sample AC I (a,d,g), AC II (b,e,h), and AC III (c,f,i). 
@@ -164,7 +164,7 @@ Elemental composition of activated carbon-based coconut shell with different che
 
 
 
-![](_images/Fabrication and characterization of coconut shell activated carbon using_images/_temp_5ad714f3_convert_.pdf-0005-05.png)
+![](_temp_79c2349e_convert__images/_temp_79c2349e_convert_.pdf-0005-05.png)
 
 
 **Fig. 4.** FTIR spectra of activated carbon-based coconut shell by different chemical activator. 
@@ -214,13 +214,13 @@ _Results in Chemistry 4 (2022) 100291_
 _E.H. Sujiono et al._ 
 
 
-![](_images/Fabrication and characterization of coconut shell activated carbon using_images/_temp_5ad714f3_convert_.pdf-0006-02.png)
+![](_temp_79c2349e_convert__images/_temp_79c2349e_convert_.pdf-0006-02.png)
 
 
 **Fig. 5.** The graphic pattern of cumulative pore volume with pore width to produce pore volume value of AC I(a), AC II(b), and AC III(c) and the histogram data of pore size distribution on the surface area of the sample AC I(d), AC II(e), and AC III(f). 
 
 
-![](_images/Fabrication and characterization of coconut shell activated carbon using_images/_temp_5ad714f3_convert_.pdf-0006-04.png)
+![](_temp_79c2349e_convert__images/_temp_79c2349e_convert_.pdf-0006-04.png)
 
 
 **Fig. 6.** The pore distribution of the activated carbon based-coconut shell by different chemical activator. 
@@ -242,13 +242,13 @@ Adsorption/desorption isotherms data were measured using nitrogen at 77 K are sh
 _E.H. Sujiono et al.                                                                                                                                                                                                                              Results in Chemistry 4 (2022) 100291_ 
 
 
-![](_images/Fabrication and characterization of coconut shell activated carbon using_images/_temp_5ad714f3_convert_.pdf-0007-01.png)
+![](_temp_79c2349e_convert__images/_temp_79c2349e_convert_.pdf-0007-01.png)
 
 
 **Fig. 7.** Nitrogen adsorption–desorption of activated carbon based on coconut shell with different chemical agent : (a) NaOH, (b) ZnCl2, (c) H3PO4. 
 
 
-![](_images/Fabrication and characterization of coconut shell activated carbon using_images/_temp_5ad714f3_convert_.pdf-0007-03.png)
+![](_temp_79c2349e_convert__images/_temp_79c2349e_convert_.pdf-0007-03.png)
 
 
 **Fig. 8.** Schematic of the polluted water filtration process. 
@@ -281,7 +281,7 @@ _Results in Chemistry 4 (2022) 100291_
 _E.H. Sujiono et al._ 
 
 
-![](_images/Fabrication and characterization of coconut shell activated carbon using_images/_temp_5ad714f3_convert_.pdf-0008-02.png)
+![](_temp_79c2349e_convert__images/_temp_79c2349e_convert_.pdf-0008-02.png)
 
 
 **Fig. 9.** Illustration of well water and household wastewater before and after being filtered using activated carbon with an activating agent NaOH. 

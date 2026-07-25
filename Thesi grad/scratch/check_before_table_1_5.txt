@@ -1,0 +1,40 @@
+<img src="media/image4.png" style="width:3.07329in;height:2.31649in" />
+
+###### Hình 1.3. Công thức phân tử của chitosan (CAS 9012-76-4)
+
+Chitosan 1% giàu nhóm amino (-NH<sub>2</sub>) chelate hóa mạnh với Pb²⁺,
+Cd²⁺, Zn²⁺ hỗ trợ tích lũy lắng khử trong SWASV (cơ chế đề xuất cần kiểm
+chứng);
+
+Trong nền đệm Acetate pH 4.5, Chitosan bị proton hóa hoàn toàn thành
+dạng polymer mạch hở mang điện tích dương, đóng vai trò tạo màng keo xốp
+hydrogel bám dính cao trên bề mặt GCE, giúp cố định hạt carbon aerogel
+mà không làm bít tắc các tâm hoạt tính Fe-Nₓ của vật liệu nền.
+
+Nafion 0.25% mang điện tích âm của nhóm sulfonate (-SO<sub>3</sub>⁻)
+đóng vai trò màng trao đổi cation chọn lọc, đẩy các anion cản trở và
+chống bám bẩn điện cực (cơ chế đề xuất).
+
+<img src="media/image5.png" style="width:3.33333in;height:2.2963in"
+alt="Nafion&amp;#8482; 117 containing solution ~5% in a mixture of lower aliphatic alcohols and water" />
+
+###### Hình 1.4. Công thức phân tử của Nafion™ perfluorinated resin solution, 5 wt% (CAS 31175-20-9)
+
+## 1.7. Đối chiếu công trình nghiên cứu gần đây
+
+Hiệu năng cảm biến của đề tài đề xuất (N-CA và Fe/N-CA) so với các
+nghiên cứu cảm biến carbon sinh khối khác trong 5 năm gần đây, làm nổi
+bật giới hạn phát hiện LOD mục tiêu (Pb²⁺ \< 0,1 ppb). Đối với Zn²⁺, dù
+QCVN 08:2023/BTNMT \[7\] quy định giới hạn 500 µg/L, LOD \< 0,5 ppb được
+thiết kế để phân biệt chính xác stripping peak Zn²⁺ từ Pb²⁺/Cd²⁺ trong
+SWASV đồng thời, Đối với $`Zn^{2 +}`$, do QCVN 08:2023/BTNMT quy định
+giới hạn nước mặt là 500 µg/L và hướng dẫn cảm quan nguồn nước của WHO
+là 3 mg/L, việc đặt mục tiêu LOD ở dải vết là công cụ phân tích mạnh để
+kiểm soát sự phân tách pic, loại trừ hiện tượng chồng lấn tín hiệu dòng
+Faradaic khi phân tích đồng thời với các độc chất kim loại nặng dải vết
+như Pb²⁺ và Cd²⁺.
+
+##### Bảng 1.5. Đối chiếu các công trình vật liệu carbon/aerogel liên quan gần đây
+
+<table style="width:100%;">
+<colgroup>

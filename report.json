@@ -1,0 +1,22 @@
+{
+  "status": "PASSED",
+  "citations": {
+    "total_cited": 69,
+    "total_refs": 69,
+    "sequence_errors": [],
+    "orphan_refs": [],
+    "missing_from_bib": [],
+    "unresolved_rag_tags": []
+  },
+  "tables": {
+    "blank_lines_inside_tables": 0,
+    "triple_blank_line_runs": 0
+  },
+  "latex": {
+    "suspicious_H2O_fragments": 0,
+    "S_BET_occurrences": 0,
+    "Pb2plus_occurrences": 0,
+    "raw_english_note_blocks": 0
+  },
+  "total_lines": 1521
+}

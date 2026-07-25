@@ -1,11 +1,11 @@
 Subscriber access provided by University of Newcastle, Australia 
 
 
-![](_images/Fe-Cluster Pushing Electrons to N-Doped Graphitic Layers with Fe3CFe Hybrid_img/_temp_92017f1b_heal_.pdf-0001-01.png)
+![](_temp_92017f1b_convert__images/_temp_92017f1b_convert_.pdf-0001-01.png)
 
 
 
-![](_images/Fe-Cluster Pushing Electrons to N-Doped Graphitic Layers with Fe3CFe Hybrid_img/_temp_92017f1b_heal_.pdf-0001-02.png)
+![](_temp_92017f1b_convert__images/_temp_92017f1b_convert_.pdf-0001-02.png)
 
 
 ## Article 
@@ -21,7 +21,7 @@ _ACS Appl. Mater. Interfaces_ , **Just Accepted Manuscript** • DOI: 10.1021/ac
 “Just Accepted” manuscripts have been peer-reviewed and accepted for publication. They are posted online prior to technical editing, formatting for publication and author proofing. The American Chemical Society provides “Just Accepted” as a free service to the research community to expedite the dissemination of scientific material as soon as possible after acceptance. “Just Accepted” manuscripts appear in full in PDF format accompanied by an HTML abstract. “Just Accepted” manuscripts have been fully peer reviewed, but should not be considered the official version of record. They are accessible to all readers and citable by the Digital Object Identifier (DOI®). “Just Accepted” is an optional service offered to authors. Therefore, the “Just Accepted” Web site may not include all articles that will be published in the journal. After a manuscript is technically edited and formatted, it will be removed from the “Just Accepted” Web site and published as an ASAP article. Note that technical editing may introduce minor changes to the manuscript text and/or graphics which could affect content, and all legal disclaimers and ethical guidelines that apply to the journal pertain. ACS cannot be held responsible for errors or consequences arising from the use of information contained in these “Just Accepted” manuscripts. 
 
 
-![](_images/Fe-Cluster Pushing Electrons to N-Doped Graphitic Layers with Fe3CFe Hybrid_img/_temp_92017f1b_heal_.pdf-0001-09.png)
+![](_temp_92017f1b_convert__images/_temp_92017f1b_convert_.pdf-0001-09.png)
 
 
 ACS Applied Materials & Interfaces is published by the American Chemical Society. 1155 Sixteenth Street N.W., Washington, DC 20036 Published by American Chemical Society. Copyright © American Chemical Society. However, no copyright claim is made to original U.S. Government works, or works produced by employees of any Commonwealth realm Crown government in the course of their duties. 
@@ -483,35 +483,35 @@ The research was financially supported by Guangdong Innovation Team Project (No.
 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 
 
 
-![](_images/Fe-Cluster Pushing Electrons to N-Doped Graphitic Layers with Fe3CFe Hybrid_img/_temp_92017f1b_heal_.pdf-0023-03.png)
+![](_temp_92017f1b_convert__images/_temp_92017f1b_convert_.pdf-0023-03.png)
 
 
 
-![](_images/Fe-Cluster Pushing Electrons to N-Doped Graphitic Layers with Fe3CFe Hybrid_img/_temp_92017f1b_heal_.pdf-0023-04.png)
+![](_temp_92017f1b_convert__images/_temp_92017f1b_convert_.pdf-0023-04.png)
 
 
 
-![](_images/Fe-Cluster Pushing Electrons to N-Doped Graphitic Layers with Fe3CFe Hybrid_img/_temp_92017f1b_heal_.pdf-0023-05.png)
+![](_temp_92017f1b_convert__images/_temp_92017f1b_convert_.pdf-0023-05.png)
 
 
 
-![](_images/Fe-Cluster Pushing Electrons to N-Doped Graphitic Layers with Fe3CFe Hybrid_img/_temp_92017f1b_heal_.pdf-0023-06.png)
+![](_temp_92017f1b_convert__images/_temp_92017f1b_convert_.pdf-0023-06.png)
 
 
 
-![](_images/Fe-Cluster Pushing Electrons to N-Doped Graphitic Layers with Fe3CFe Hybrid_img/_temp_92017f1b_heal_.pdf-0023-07.png)
+![](_temp_92017f1b_convert__images/_temp_92017f1b_convert_.pdf-0023-07.png)
 
 
 
-![](_images/Fe-Cluster Pushing Electrons to N-Doped Graphitic Layers with Fe3CFe Hybrid_img/_temp_92017f1b_heal_.pdf-0023-08.png)
+![](_temp_92017f1b_convert__images/_temp_92017f1b_convert_.pdf-0023-08.png)
 
 
 
-![](_images/Fe-Cluster Pushing Electrons to N-Doped Graphitic Layers with Fe3CFe Hybrid_img/_temp_92017f1b_heal_.pdf-0023-09.png)
+![](_temp_92017f1b_convert__images/_temp_92017f1b_convert_.pdf-0023-09.png)
 
 
 
-![](_images/Fe-Cluster Pushing Electrons to N-Doped Graphitic Layers with Fe3CFe Hybrid_img/_temp_92017f1b_heal_.pdf-0023-10.png)
+![](_temp_92017f1b_convert__images/_temp_92017f1b_convert_.pdf-0023-10.png)
 
 
 Scheme 1. Synthesis of Fe3C(Fe) nanoparticles encased in nitrogen-doped graphitic layers. 
@@ -527,67 +527,67 @@ Scheme 1. Synthesis of Fe3C(Fe) nanoparticles encased in nitrogen-doped graphiti
 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 
 
 
-![](_images/Fe-Cluster Pushing Electrons to N-Doped Graphitic Layers with Fe3CFe Hybrid_img/_temp_92017f1b_heal_.pdf-0024-03.png)
+![](_temp_92017f1b_convert__images/_temp_92017f1b_convert_.pdf-0024-03.png)
 
 
 
-![](_images/Fe-Cluster Pushing Electrons to N-Doped Graphitic Layers with Fe3CFe Hybrid_img/_temp_92017f1b_heal_.pdf-0024-04.png)
+![](_temp_92017f1b_convert__images/_temp_92017f1b_convert_.pdf-0024-04.png)
 
 
 
-![](_images/Fe-Cluster Pushing Electrons to N-Doped Graphitic Layers with Fe3CFe Hybrid_img/_temp_92017f1b_heal_.pdf-0024-05.png)
+![](_temp_92017f1b_convert__images/_temp_92017f1b_convert_.pdf-0024-05.png)
 
 
 
-![](_images/Fe-Cluster Pushing Electrons to N-Doped Graphitic Layers with Fe3CFe Hybrid_img/_temp_92017f1b_heal_.pdf-0024-06.png)
+![](_temp_92017f1b_convert__images/_temp_92017f1b_convert_.pdf-0024-06.png)
 
 
 
-![](_images/Fe-Cluster Pushing Electrons to N-Doped Graphitic Layers with Fe3CFe Hybrid_img/_temp_92017f1b_heal_.pdf-0024-07.png)
+![](_temp_92017f1b_convert__images/_temp_92017f1b_convert_.pdf-0024-07.png)
 
 
 
-![](_images/Fe-Cluster Pushing Electrons to N-Doped Graphitic Layers with Fe3CFe Hybrid_img/_temp_92017f1b_heal_.pdf-0024-08.png)
+![](_temp_92017f1b_convert__images/_temp_92017f1b_convert_.pdf-0024-08.png)
 
 
 
-![](_images/Fe-Cluster Pushing Electrons to N-Doped Graphitic Layers with Fe3CFe Hybrid_img/_temp_92017f1b_heal_.pdf-0024-09.png)
+![](_temp_92017f1b_convert__images/_temp_92017f1b_convert_.pdf-0024-09.png)
 
 
 
-![](_images/Fe-Cluster Pushing Electrons to N-Doped Graphitic Layers with Fe3CFe Hybrid_img/_temp_92017f1b_heal_.pdf-0024-10.png)
+![](_temp_92017f1b_convert__images/_temp_92017f1b_convert_.pdf-0024-10.png)
 
 
 
-![](_images/Fe-Cluster Pushing Electrons to N-Doped Graphitic Layers with Fe3CFe Hybrid_img/_temp_92017f1b_heal_.pdf-0024-11.png)
+![](_temp_92017f1b_convert__images/_temp_92017f1b_convert_.pdf-0024-11.png)
 
 
 
-![](_images/Fe-Cluster Pushing Electrons to N-Doped Graphitic Layers with Fe3CFe Hybrid_img/_temp_92017f1b_heal_.pdf-0024-12.png)
+![](_temp_92017f1b_convert__images/_temp_92017f1b_convert_.pdf-0024-12.png)
 
 
 
-![](_images/Fe-Cluster Pushing Electrons to N-Doped Graphitic Layers with Fe3CFe Hybrid_img/_temp_92017f1b_heal_.pdf-0024-13.png)
+![](_temp_92017f1b_convert__images/_temp_92017f1b_convert_.pdf-0024-13.png)
 
 
 
-![](_images/Fe-Cluster Pushing Electrons to N-Doped Graphitic Layers with Fe3CFe Hybrid_img/_temp_92017f1b_heal_.pdf-0024-14.png)
+![](_temp_92017f1b_convert__images/_temp_92017f1b_convert_.pdf-0024-14.png)
 
 
 
-![](_images/Fe-Cluster Pushing Electrons to N-Doped Graphitic Layers with Fe3CFe Hybrid_img/_temp_92017f1b_heal_.pdf-0024-15.png)
+![](_temp_92017f1b_convert__images/_temp_92017f1b_convert_.pdf-0024-15.png)
 
 
 
-![](_images/Fe-Cluster Pushing Electrons to N-Doped Graphitic Layers with Fe3CFe Hybrid_img/_temp_92017f1b_heal_.pdf-0024-16.png)
+![](_temp_92017f1b_convert__images/_temp_92017f1b_convert_.pdf-0024-16.png)
 
 
 
-![](_images/Fe-Cluster Pushing Electrons to N-Doped Graphitic Layers with Fe3CFe Hybrid_img/_temp_92017f1b_heal_.pdf-0024-17.png)
+![](_temp_92017f1b_convert__images/_temp_92017f1b_convert_.pdf-0024-17.png)
 
 
 
-![](_images/Fe-Cluster Pushing Electrons to N-Doped Graphitic Layers with Fe3CFe Hybrid_img/_temp_92017f1b_heal_.pdf-0024-18.png)
+![](_temp_92017f1b_convert__images/_temp_92017f1b_convert_.pdf-0024-18.png)
 
 
 Figure 1. (a) and (b) TEM of FeNC-850; (c) XRD patterns; (d) Raman spectra; (e) Highresolution N 1s XPS of FeNC-850, (f) High-resolution Fe 2p XPS of FeNC-850. 
@@ -603,31 +603,31 @@ Figure 1. (a) and (b) TEM of FeNC-850; (c) XRD patterns; (d) Raman spectra; (e) 
 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 
 
 
-![](_images/Fe-Cluster Pushing Electrons to N-Doped Graphitic Layers with Fe3CFe Hybrid_img/_temp_92017f1b_heal_.pdf-0025-03.png)
+![](_temp_92017f1b_convert__images/_temp_92017f1b_convert_.pdf-0025-03.png)
 
 
 
-![](_images/Fe-Cluster Pushing Electrons to N-Doped Graphitic Layers with Fe3CFe Hybrid_img/_temp_92017f1b_heal_.pdf-0025-04.png)
+![](_temp_92017f1b_convert__images/_temp_92017f1b_convert_.pdf-0025-04.png)
 
 
 
-![](_images/Fe-Cluster Pushing Electrons to N-Doped Graphitic Layers with Fe3CFe Hybrid_img/_temp_92017f1b_heal_.pdf-0025-05.png)
+![](_temp_92017f1b_convert__images/_temp_92017f1b_convert_.pdf-0025-05.png)
 
 
 
-![](_images/Fe-Cluster Pushing Electrons to N-Doped Graphitic Layers with Fe3CFe Hybrid_img/_temp_92017f1b_heal_.pdf-0025-06.png)
+![](_temp_92017f1b_convert__images/_temp_92017f1b_convert_.pdf-0025-06.png)
 
 
 
-![](_images/Fe-Cluster Pushing Electrons to N-Doped Graphitic Layers with Fe3CFe Hybrid_img/_temp_92017f1b_heal_.pdf-0025-07.png)
+![](_temp_92017f1b_convert__images/_temp_92017f1b_convert_.pdf-0025-07.png)
 
 
 
-![](_images/Fe-Cluster Pushing Electrons to N-Doped Graphitic Layers with Fe3CFe Hybrid_img/_temp_92017f1b_heal_.pdf-0025-08.png)
+![](_temp_92017f1b_convert__images/_temp_92017f1b_convert_.pdf-0025-08.png)
 
 
 
-![](_images/Fe-Cluster Pushing Electrons to N-Doped Graphitic Layers with Fe3CFe Hybrid_img/_temp_92017f1b_heal_.pdf-0025-09.png)
+![](_temp_92017f1b_convert__images/_temp_92017f1b_convert_.pdf-0025-09.png)
 
 
 Figure 2. (a) Rotating disk electrode (RDE) voltammograms of all the samples in an O2-saturated 0.1 M KOH solution at a rotation speed of 1600 rpm with a scan rate of 10 mVs[−1] ; (b) A schematic representation of the ORR process at the surface of N-doped graphitic layers with Fe3C encased. 
@@ -643,67 +643,67 @@ Figure 2. (a) Rotating disk electrode (RDE) voltammograms of all the samples in 
 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 
 
 
-![](_images/Fe-Cluster Pushing Electrons to N-Doped Graphitic Layers with Fe3CFe Hybrid_img/_temp_92017f1b_heal_.pdf-0026-03.png)
+![](_temp_92017f1b_convert__images/_temp_92017f1b_convert_.pdf-0026-03.png)
 
 
 
-![](_images/Fe-Cluster Pushing Electrons to N-Doped Graphitic Layers with Fe3CFe Hybrid_img/_temp_92017f1b_heal_.pdf-0026-04.png)
+![](_temp_92017f1b_convert__images/_temp_92017f1b_convert_.pdf-0026-04.png)
 
 
 
-![](_images/Fe-Cluster Pushing Electrons to N-Doped Graphitic Layers with Fe3CFe Hybrid_img/_temp_92017f1b_heal_.pdf-0026-05.png)
+![](_temp_92017f1b_convert__images/_temp_92017f1b_convert_.pdf-0026-05.png)
 
 
 
-![](_images/Fe-Cluster Pushing Electrons to N-Doped Graphitic Layers with Fe3CFe Hybrid_img/_temp_92017f1b_heal_.pdf-0026-06.png)
+![](_temp_92017f1b_convert__images/_temp_92017f1b_convert_.pdf-0026-06.png)
 
 
 
-![](_images/Fe-Cluster Pushing Electrons to N-Doped Graphitic Layers with Fe3CFe Hybrid_img/_temp_92017f1b_heal_.pdf-0026-07.png)
+![](_temp_92017f1b_convert__images/_temp_92017f1b_convert_.pdf-0026-07.png)
 
 
 
-![](_images/Fe-Cluster Pushing Electrons to N-Doped Graphitic Layers with Fe3CFe Hybrid_img/_temp_92017f1b_heal_.pdf-0026-08.png)
+![](_temp_92017f1b_convert__images/_temp_92017f1b_convert_.pdf-0026-08.png)
 
 
 
-![](_images/Fe-Cluster Pushing Electrons to N-Doped Graphitic Layers with Fe3CFe Hybrid_img/_temp_92017f1b_heal_.pdf-0026-09.png)
+![](_temp_92017f1b_convert__images/_temp_92017f1b_convert_.pdf-0026-09.png)
 
 
 
-![](_images/Fe-Cluster Pushing Electrons to N-Doped Graphitic Layers with Fe3CFe Hybrid_img/_temp_92017f1b_heal_.pdf-0026-10.png)
+![](_temp_92017f1b_convert__images/_temp_92017f1b_convert_.pdf-0026-10.png)
 
 
 
-![](_images/Fe-Cluster Pushing Electrons to N-Doped Graphitic Layers with Fe3CFe Hybrid_img/_temp_92017f1b_heal_.pdf-0026-11.png)
+![](_temp_92017f1b_convert__images/_temp_92017f1b_convert_.pdf-0026-11.png)
 
 
 
-![](_images/Fe-Cluster Pushing Electrons to N-Doped Graphitic Layers with Fe3CFe Hybrid_img/_temp_92017f1b_heal_.pdf-0026-12.png)
+![](_temp_92017f1b_convert__images/_temp_92017f1b_convert_.pdf-0026-12.png)
 
 
 
-![](_images/Fe-Cluster Pushing Electrons to N-Doped Graphitic Layers with Fe3CFe Hybrid_img/_temp_92017f1b_heal_.pdf-0026-13.png)
+![](_temp_92017f1b_convert__images/_temp_92017f1b_convert_.pdf-0026-13.png)
 
 
 
-![](_images/Fe-Cluster Pushing Electrons to N-Doped Graphitic Layers with Fe3CFe Hybrid_img/_temp_92017f1b_heal_.pdf-0026-14.png)
+![](_temp_92017f1b_convert__images/_temp_92017f1b_convert_.pdf-0026-14.png)
 
 
 
-![](_images/Fe-Cluster Pushing Electrons to N-Doped Graphitic Layers with Fe3CFe Hybrid_img/_temp_92017f1b_heal_.pdf-0026-15.png)
+![](_temp_92017f1b_convert__images/_temp_92017f1b_convert_.pdf-0026-15.png)
 
 
 
-![](_images/Fe-Cluster Pushing Electrons to N-Doped Graphitic Layers with Fe3CFe Hybrid_img/_temp_92017f1b_heal_.pdf-0026-16.png)
+![](_temp_92017f1b_convert__images/_temp_92017f1b_convert_.pdf-0026-16.png)
 
 
 
-![](_images/Fe-Cluster Pushing Electrons to N-Doped Graphitic Layers with Fe3CFe Hybrid_img/_temp_92017f1b_heal_.pdf-0026-17.png)
+![](_temp_92017f1b_convert__images/_temp_92017f1b_convert_.pdf-0026-17.png)
 
 
 
-![](_images/Fe-Cluster Pushing Electrons to N-Doped Graphitic Layers with Fe3CFe Hybrid_img/_temp_92017f1b_heal_.pdf-0026-18.png)
+![](_temp_92017f1b_convert__images/_temp_92017f1b_convert_.pdf-0026-18.png)
 
 
 Figure 3. (a) LSV curves of FeNC-850 and Pt/C; (b) LSVs for FeNC-850 with various rotation rates; (c) Corresponding K-L plots (j[-1] vs. ω[-1/2] ) at different potentials; (d) Kinetic-limiting current densities and corresponding electron-transfer numbers at -0.50; (e) Corresponding Tafel plots of FeNC-850 and Pt/C; (f) Chronoamperometric curves of FeNC-850 and Pt/C at -0.30 V in an O2-saturated 0.1 M KOH solution at 1600 rpm. 
@@ -719,47 +719,47 @@ Figure 3. (a) LSV curves of FeNC-850 and Pt/C; (b) LSVs for FeNC-850 with variou
 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 
 
 
-![](_images/Fe-Cluster Pushing Electrons to N-Doped Graphitic Layers with Fe3CFe Hybrid_img/_temp_92017f1b_heal_.pdf-0027-03.png)
+![](_temp_92017f1b_convert__images/_temp_92017f1b_convert_.pdf-0027-03.png)
 
 
 
-![](_images/Fe-Cluster Pushing Electrons to N-Doped Graphitic Layers with Fe3CFe Hybrid_img/_temp_92017f1b_heal_.pdf-0027-04.png)
+![](_temp_92017f1b_convert__images/_temp_92017f1b_convert_.pdf-0027-04.png)
 
 
 
-![](_images/Fe-Cluster Pushing Electrons to N-Doped Graphitic Layers with Fe3CFe Hybrid_img/_temp_92017f1b_heal_.pdf-0027-05.png)
+![](_temp_92017f1b_convert__images/_temp_92017f1b_convert_.pdf-0027-05.png)
 
 
 
-![](_images/Fe-Cluster Pushing Electrons to N-Doped Graphitic Layers with Fe3CFe Hybrid_img/_temp_92017f1b_heal_.pdf-0027-06.png)
+![](_temp_92017f1b_convert__images/_temp_92017f1b_convert_.pdf-0027-06.png)
 
 
 
-![](_images/Fe-Cluster Pushing Electrons to N-Doped Graphitic Layers with Fe3CFe Hybrid_img/_temp_92017f1b_heal_.pdf-0027-07.png)
+![](_temp_92017f1b_convert__images/_temp_92017f1b_convert_.pdf-0027-07.png)
 
 
 
-![](_images/Fe-Cluster Pushing Electrons to N-Doped Graphitic Layers with Fe3CFe Hybrid_img/_temp_92017f1b_heal_.pdf-0027-08.png)
+![](_temp_92017f1b_convert__images/_temp_92017f1b_convert_.pdf-0027-08.png)
 
 
 
-![](_images/Fe-Cluster Pushing Electrons to N-Doped Graphitic Layers with Fe3CFe Hybrid_img/_temp_92017f1b_heal_.pdf-0027-09.png)
+![](_temp_92017f1b_convert__images/_temp_92017f1b_convert_.pdf-0027-09.png)
 
 
 
-![](_images/Fe-Cluster Pushing Electrons to N-Doped Graphitic Layers with Fe3CFe Hybrid_img/_temp_92017f1b_heal_.pdf-0027-10.png)
+![](_temp_92017f1b_convert__images/_temp_92017f1b_convert_.pdf-0027-10.png)
 
 
 
-![](_images/Fe-Cluster Pushing Electrons to N-Doped Graphitic Layers with Fe3CFe Hybrid_img/_temp_92017f1b_heal_.pdf-0027-11.png)
+![](_temp_92017f1b_convert__images/_temp_92017f1b_convert_.pdf-0027-11.png)
 
 
 
-![](_images/Fe-Cluster Pushing Electrons to N-Doped Graphitic Layers with Fe3CFe Hybrid_img/_temp_92017f1b_heal_.pdf-0027-12.png)
+![](_temp_92017f1b_convert__images/_temp_92017f1b_convert_.pdf-0027-12.png)
 
 
 
-![](_images/Fe-Cluster Pushing Electrons to N-Doped Graphitic Layers with Fe3CFe Hybrid_img/_temp_92017f1b_heal_.pdf-0027-13.png)
+![](_temp_92017f1b_convert__images/_temp_92017f1b_convert_.pdf-0027-13.png)
 
 
 Figure 4. (a) A schematic of a Zn-air cell with pump-circulating electrolyte; (b) Discharge curves 
@@ -779,51 +779,51 @@ of Zn-air cells with circulating electrolyte; (d) Current-voltage and current-po
 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 
 
 
-![](_images/Fe-Cluster Pushing Electrons to N-Doped Graphitic Layers with Fe3CFe Hybrid_img/_temp_92017f1b_heal_.pdf-0028-03.png)
+![](_temp_92017f1b_convert__images/_temp_92017f1b_convert_.pdf-0028-03.png)
 
 
 
-![](_images/Fe-Cluster Pushing Electrons to N-Doped Graphitic Layers with Fe3CFe Hybrid_img/_temp_92017f1b_heal_.pdf-0028-04.png)
+![](_temp_92017f1b_convert__images/_temp_92017f1b_convert_.pdf-0028-04.png)
 
 
 
-![](_images/Fe-Cluster Pushing Electrons to N-Doped Graphitic Layers with Fe3CFe Hybrid_img/_temp_92017f1b_heal_.pdf-0028-05.png)
+![](_temp_92017f1b_convert__images/_temp_92017f1b_convert_.pdf-0028-05.png)
 
 
 
-![](_images/Fe-Cluster Pushing Electrons to N-Doped Graphitic Layers with Fe3CFe Hybrid_img/_temp_92017f1b_heal_.pdf-0028-06.png)
+![](_temp_92017f1b_convert__images/_temp_92017f1b_convert_.pdf-0028-06.png)
 
 
 
-![](_images/Fe-Cluster Pushing Electrons to N-Doped Graphitic Layers with Fe3CFe Hybrid_img/_temp_92017f1b_heal_.pdf-0028-07.png)
+![](_temp_92017f1b_convert__images/_temp_92017f1b_convert_.pdf-0028-07.png)
 
 
 
-![](_images/Fe-Cluster Pushing Electrons to N-Doped Graphitic Layers with Fe3CFe Hybrid_img/_temp_92017f1b_heal_.pdf-0028-08.png)
+![](_temp_92017f1b_convert__images/_temp_92017f1b_convert_.pdf-0028-08.png)
 
 
 
-![](_images/Fe-Cluster Pushing Electrons to N-Doped Graphitic Layers with Fe3CFe Hybrid_img/_temp_92017f1b_heal_.pdf-0028-09.png)
+![](_temp_92017f1b_convert__images/_temp_92017f1b_convert_.pdf-0028-09.png)
 
 
 
-![](_images/Fe-Cluster Pushing Electrons to N-Doped Graphitic Layers with Fe3CFe Hybrid_img/_temp_92017f1b_heal_.pdf-0028-10.png)
+![](_temp_92017f1b_convert__images/_temp_92017f1b_convert_.pdf-0028-10.png)
 
 
 
-![](_images/Fe-Cluster Pushing Electrons to N-Doped Graphitic Layers with Fe3CFe Hybrid_img/_temp_92017f1b_heal_.pdf-0028-11.png)
+![](_temp_92017f1b_convert__images/_temp_92017f1b_convert_.pdf-0028-11.png)
 
 
 
-![](_images/Fe-Cluster Pushing Electrons to N-Doped Graphitic Layers with Fe3CFe Hybrid_img/_temp_92017f1b_heal_.pdf-0028-12.png)
+![](_temp_92017f1b_convert__images/_temp_92017f1b_convert_.pdf-0028-12.png)
 
 
 
-![](_images/Fe-Cluster Pushing Electrons to N-Doped Graphitic Layers with Fe3CFe Hybrid_img/_temp_92017f1b_heal_.pdf-0028-13.png)
+![](_temp_92017f1b_convert__images/_temp_92017f1b_convert_.pdf-0028-13.png)
 
 
 
-![](_images/Fe-Cluster Pushing Electrons to N-Doped Graphitic Layers with Fe3CFe Hybrid_img/_temp_92017f1b_heal_.pdf-0028-14.png)
+![](_temp_92017f1b_convert__images/_temp_92017f1b_convert_.pdf-0028-14.png)
 
 
 Figure 5. The projected density of states (DOS) on carbon layer in graphene-iron system (a) and 
@@ -869,11 +869,11 @@ doped graphene (NDG) before and after contacted with Fe or Fe3C. The shadow area
 ## Table of Contents artwork 
 
 
-![](_images/Fe-Cluster Pushing Electrons to N-Doped Graphitic Layers with Fe3CFe Hybrid_img/_temp_92017f1b_heal_.pdf-0030-04.png)
+![](_temp_92017f1b_convert__images/_temp_92017f1b_convert_.pdf-0030-04.png)
 
 
 
-![](_images/Fe-Cluster Pushing Electrons to N-Doped Graphitic Layers with Fe3CFe Hybrid_img/_temp_92017f1b_heal_.pdf-0030-05.png)
+![](_temp_92017f1b_convert__images/_temp_92017f1b_convert_.pdf-0030-05.png)
 
 
 **ACS Paragon Plus Environment** 

@@ -1,0 +1,228 @@
+--- HEADINGS IN DOCX (New) ---
+# LỜI CAM ĐOAN
+# LỜI CẢM ƠN {#lời-cảm-ơn-1}
+# TÓM TẮT
+# ABSTRACT
+# MỤC LỤC
+# DANH MỤC BẢNG BIỂU
+# DANH MỤC HÌNH ẢNH
+# DANH MỤC CÁC CHỮ VIẾT TẮT
+#  {#section-1}
+# MỞ ĐẦU
+## 1. Đặt vấn đề
+### 1.1. Tính cấp thiết và bối cảnh quy chuẩn
+### 1.2. Thách thức về chỉ tiêu phân tích
+### 1.3. Hạn chế của các phương pháp phân tích hiện tại
+### 1.4. Khoảng trống nghiên cứu (Research Gap)
+### 1.5. Câu hỏi nghiên cứu & Giả thuyết khoa học
+## 2. Mục tiêu nghiên cứu
+## 3. Đối tượng và phạm vi nghiên cứu
+### 3.1. Đối tượng nghiên cứu
+### 3.2. Phạm vi nghiên cứu
+## 4. Cách tiếp cận và phương pháp nghiên cứu
+### 4.1. Cách tiếp cận
+### 4.2. Phương pháp nghiên cứu cụ thể
+## 5. Ý nghĩa thực tiễn của đề tài
+## 6. Tổng quan tình hình nghiên cứu trong nước và ngoài nước
+### 6.1. Nghiên cứu ngoài nước
+### 6.2. Nghiên cứu trong nước
+# CHƯƠNG 1. TỔNG QUAN NGHIÊN CỨU
+## 1.1. Sinh khối xơ dừa và tách chiết Cellulose
+### 1.1.1. Thành phần hóa học của xơ dừa Bến Tre
+###### Hình 1.1. Cấu trúc hóa học của Cellulose, Hemicellulose và Lignin
+### 1.1.2. Tính chất cơ lý, cấu trúc bó sợi và ảnh hưởng của quá trình kiềm hóa
+### 1.1.3. Tiềm năng ứng dụng và lý giải cơ chế
+### 1.1.4. Tẩy lignin bán phần và cấu trúc đường xoắn (Tortuous Path)
+## 1.2. Carbon Aerogel biến tính Nitơ và Sắt (N-CA & Fe/N-CA)
+###### Hình 1.2. Sơ đồ chuyển đổi cấu trúc lỗ xốp và cấu hình Nitơ của vật liệu Carbon Aerogel ở các nhiệt độ nung khác nhau
+### 1.2.1. Cơ chế pha tạp Sắt (Fe-doping) bằng phương pháp tẩm sau (Post-impregnation)
+## 1.3. Cơ chế lớp kép điện hóa (EDL), điện thế Zeta, thuyết DLVO và tương tác kỵ nước/hydrogen
+## 1.4. So sánh đối chứng hai hệ dung môi tổng hợp cellulose aerogel
+##### Bảng 1.2. So sánh hệ dung môi NH~4~OH/Urea và NaOH/Urea
+## 1.5. Bismuth Film Electrode (BiFE) và lý do lựa chọn Fe/N-CA
+### 1.5.1. Bismuth Film Electrode
+##### Bảng 1.3: Hạn chế của BiFE --- Cơ sở lý do không sử dụng trong đề tài
+### 1.5.2. Lý do lựa chọn Fe/N-CA --- Luận điểm khoa học
+##### Bảng 1.4: So sánh trực tiếp BiFE và Fe/N-CA:
+## 1.6. Phương pháp phân tích điện hóa
+###### Hình 1.3. Công thức phân tử của chitosan (CAS 9012-76-4)
+###### Hình 1.4. Công thức phân tử của Nafion™ perfluorinated resin solution, 5 wt% (CAS 31175-20-9)
+## 1.7. Đối chiếu công trình nghiên cứu gần đây
+##### Bảng 1.5. Đối chiếu các công trình vật liệu carbon/aerogel liên quan gần đây
+# CHƯƠNG 2. PHƯƠNG PHÁP NGHIÊN CỨU
+## 2.1. Thiết bị, dụng cụ và hóa chất sử dụng
+## 2.2. Quy trình thực nghiệm 8 giai đoạn tổng hợp Carbon Aerogel
+##### Bảng 2.1: Tóm tắt thông số SOP và Biện luận cơ chế
+## 2.3. Sơ đồ Flowchart thực nghiệm
+###### Hình 2.1. Sơ đồ quy trình thực nghiệm tổng hợp Cellulose Aerogel từ xơ dừa
+###### Hình 2.2. Sơ đồ quy trình chuyển hóa Cellulose Aerogel thành N-CA và Fe/N-CA
+###### Hình 2.3. Sơ đồ quy trình tổng hợp màng biến tính và đo đạc điện hóa
+## 2.4. Cơ chế Sol-Gel và Sấy thăng hoa
+### 2.4.1. Cơ chế hòa tan cellulose trong hệ NH~4~OH/Urea/H~2~O
+#### 2.4.1.1. Cấu trúc mạng tinh thể Cellulose I và liên kết Hydro
+#### 2.4.1.2. Cơ chế hòa tan và phá vỡ liên kết hydro
+###### Hình 2.4. Sơ đồ minh họa cơ chế phá vỡ liên kết hydro và solvat hóa chuỗi Cellulose bằng phức hợp Amoniac - Urea
+#### 2.4.1.3. Nhiệt động học quá trình hòa tan ở nhiệt độ thấp
+### 2.4.2. Động học gel hóa âm sâu
+#### 2.4.2.1. Hiệu ứng Cryo-concentration (Tích tụ đông băng)
+#### 2.4.2.2. Sự tái tổ chức Cellulose III
+### 2.4.3. Hóa lý của quá trình keo tụ trong ethanol (Coagulation)
+###### Hình 2.5. Sơ đồ minh họa cấu trúc mạng tinh thể Cellulose I và Cellulose III
+#### 2.4.3.1. Cơ chế keo tụ (Phase Separation) bằng Non-solvent
+#### 2.4.3.2. Động học gradient nồng độ và Tỉ lệ cồn 15:1 (v/v)
+###### Hình 2.6. Sơ đồ cơ chế keo tụ của Cellulose trong dung môi bằng non-solvent
+### 2.4.4. Vật lý sấy thăng hoa
+#### 2.4.4.1. Áp suất mao quản và hiện tượng sụp vách (Pore Collapse)
+#### 2.4.4.2. Nguyên lý thăng hoa băng giữ cấu trúc xốp (Freeze-Drying)
+#### 2.4.4.3. Ràng buộc trao đổi ngược cồn-nước trước khi sấy
+### 2.4.5. Cơ sở khoa học và Lập luận cơ chế định hướng thiết kế
+## 2.5. Cơ chế Nhiệt phân, Doping Nitơ và Phối trí Sắt
+### 2.5.1. Hóa học phản ứng Lignin - Urea trong khung DCF
+#### 2.5.1.1. Bản chất cấu trúc Guaiacyl Lignin của xơ dừa
+###### Hình 2.7. Cấu trúc hóa học 3 đơn vị monolignol cấu thành lignin
+#### 2.5.1.2. Phản ứng ngưng tụ uretan hóa (Urethanization) ở 110--150°C
+### 2.5.2. Động học nhiệt phân carbon hóa lần 1
+##### Bảng 2.2. Chu trình nhiệt cho lò nung
+### 2.5.3. Cấu hình Nitơ bề mặt và vai trò điện hóa
+##### Bảng 2.3. Mối quan hệ giữa nhiệt độ nung và cấu trúc hình thành
+### 2.5.4. Hóa học phối trí tâm hoạt tính Fe-N~x~ và hậu xử lý (Acid Leaching)
+#### 2.5.4.1. Phức chelate Lignin-Sắt ở GĐ6
+#### 2.5.4.2. Sự hình thành các tâm Fe-N~x~ ở GĐ7b (Nung lần 2)
+#### 2.5.4.3. Cơ chế Acid Leaching bằng HCl 0.5 M (GĐ7a)
+#### 2.5.4.4. Vai trò của Re-annealing (GĐ7b)
+## 2.6. Quy trình tổng hợp màng mỏng biến tính điện cực GCE
+###### Hình 2.8. Sơ đồ minh họa quá trình biến tính bề mặt điện cực GCE bằng vật liệu Carbon Aerogel (N-CA và Fe/N-CA) và cơ chế cảm biến
+## 2.7. Sàng lọc điện cực nền và tiêu chí đo đạt
+##### Bảng 2.4. Tổng hợp các tiêu chí kỹ thuật và cách khắc phục
+## 2.8. Quy hoạch thực nghiệm tối ưu hóa (DOE)
+## 2.9. Kế hoạch thẩm định phương pháp phân tích (Validation)
+## 2.10. Thiết lập thông số đo SWASV kim loại nặng (Pb²⁺, Cd²⁺, Zn²⁺)
+##### Bảng 2.5. Khảo sát và tối ưu hóa thông số SWASV đo kim loại vết
+## 2.11. Các tiêu chí đánh giá chất lượng (Quality Gates) định hướng tối ưu hóa
+##### Bảng 2.6. Checklist 5 chỉ số then chốt của vật liệu và màng điện cực
+# CHƯƠNG 3. DỰ KIẾN KẾT QUẢ
+## 3.1. Lý thuyết Điện hóa Phân tích và Đặc trưng Vật liệu
+##### Bảng 3.1. Dự kiến kết quả, Phương pháp kiểm chứng và Xử lý rủi ro
+### 3.1.1. Dự kiến diễn giải phổ FTIR
+##### Bảng 3.2. Diễn giải phổ FTIR dự kiến sau xử lý kiềm
+### 3.1.2. Lý thuyết CV và phép đo baseline probe
+###### Hình 3.1. Sơ đồ lý thuyết điện hóa tại giao diện điện cực và dung dịch điện ly (Lớp điện kép và quá trình truyền khối)
+### 3.1.3. Phổ trở kháng điện hóa (EIS) và mạch tương đương Randles
+###### Hình 3.2. Sơ đồ minh họa --- Mạch tương đương Randles sửa đổi
+#### 3.1.3. Lý thuyết phương pháp vôn-ampe hòa tan sóng vuông (SWASV) đo kim loại nặng
+### 3.1.4. Lý thuyết các phép đặc trưng vật liệu
+### 3.1.5. Lý thuyết lựa chọn chất kết dính (Binder) tổng hợp màng cảm biến
+## 3.2. Dự kiến thẩm định phân tích kim loại nặng (SWASV)
+##### Bảng 3.3. Dự kiến thẩm định quy trình phân tích Pb²⁺, Cd²⁺, Zn²⁺
+## 3.3. Dự kiến kết quả phân tích mẫu thực tế
+##### Bảng 3.4. Dự kiến kết quả phân tích mẫu thực
+## 3.4. Phân tích sai số bằng Sơ đồ xương cá Ishikawa
+###### Hình 3.3. Sơ đồ xương cá Ishikawa phân tích các nguồn sai số phép đo cảm biến điện hóa
+# CHƯƠNG 4. KẾ HOẠCH THỰC HIỆN
+# KẾT LUẬN VÀ KIẾN NGHỊ
+## 1. Kết luận chung (Dự kiến)
+## 2. Kiến nghị hướng phát triển tiếp theo
+# TÀI LIỆU THAM KHẢO
+## Phụ lục 1: Quy trình chuẩn bị dung dịch đệm Acetate pH 4.5 và đệm Phosphate PBS pH 7.4
+## Phụ lục 2: Sơ đồ lắp ráp điện cực GCE sửa đổi và buồng đo điện hóa 3 điện cực
+## Phụ lục 3: Quy trình hiệu chuẩn điện cực so sánh Ag/AgCl
+## Phụ lục 4: Chương trình nhiệt phân 3-ramp (profile nhiệt độ lò ống)
+
+--- HEADINGS IN MD (Original) ---
+# LỜI MỞ ĐẦU / TÓM TẮT LUẬN VĂN (ABSTRACT)
+# PHẦN 1: TỔNG QUAN, MỞ ĐẦU & ĐẶC TRƯNG VẬT LIỆU
+## 1. Bản đồ Tổng quan các Hướng Ứng dụng & Mức độ Kế thừa (%)
+## 2. Chi tiết Thông tin cần tìm kiếm và Đối chiếu theo từng Giai đoạn Tổng hợp
+### Giai đoạn 1: Tiền xử lý kiềm (Alkaline Delignification)
+### Giai đoạn 2: Sol-Gel & Siêu âm (NH₄OH/Urea/H₂O)
+### Giai đoạn 3 & 4: Đúc khuôn, Gel hóa & Sấy thăng hoa (Freeze-drying)
+### Giai đoạn 5: Nhiệt phân & Doping Nitơ (Carbonization & N-doping)
+### Giai đoạn 6 & 7: Doping Sắt (Post-impregnation), Leaching & Annealing lần 2
+### Giai đoạn 8: Chế tạo điện cực & Đo điện hóa
+## 3. Các Tính chất Vật liệu Tương đồng Đặc trưng cần Đối chiếu (Benchmarking)
+## 4. Hướng dẫn Tìm kiếm tài liệu ngoài phục vụ So sánh Đối chiếu (Literature Search Guide)
+## 🔬 TỔNG HỢP SUY LUẬN NGƯỢC TỪ NOTEBOOKLM (BỔ SUNG)
+# PHẦN 2: QUY TRÌNH THỰC NGHIỆM CHI TIẾT (8 GIAI ĐOẠN) & BIỆN LUẬN CƠ CHẾ
+## GĐ 1 — TIỀN XỬ LÝ KIỀM (Alkali Pretreatment)
+### 1. Thông số Thực nghiệm (SOP)
+### 2. Cơ sở Lý thuyết & Biện luận
+### 3. Nguồn kế thừa & Tham khảo
+### 4. Đánh giá & Đóng góp mới (Gaps & Contributions)
+## GĐ 2 — TỔNG HỢP SOL-GEL & ĐÁNH SIÊU ÂM
+### 1. Thông số Thực nghiệm (SOP)
+### Công thức hệ dung môi (cho 1g cellulose)
+### Quy trình thực hiện
+### 2. Cơ sở Lý thuyết & Biện luận
+### 3. Nguồn kế thừa & Tham khảo
+### 4. Đánh giá & Đóng góp mới (Gaps & Contributions)
+## GĐ 3 — ĐÚC KHUÔN & GEL HÓA
+### 1. Thông số Thực nghiệm (SOP)
+### 2. Cơ sở Lý thuyết & Biện luận
+### 3. Nguồn kế thừa & Tham khảo
+### 4. Đánh giá & Đóng góp mới (Gaps & Contributions)
+## GĐ 4 — KEO TỤ, TRAO ĐỔI DUNG MÔI & SẤY THĂNG HOA
+### 1. Thông số Thực nghiệm (SOP)
+### 4a. Rã đông & Đông tụ / Thawing & Coagulation (Chia 2 mẫu song song)
+### 4b. Rửa / Solvent Exchange
+### 4c. Sấy thăng hoa / Freeze Drying
+### 2. Cơ sở Lý thuyết & Biện luận
+### 3. Nguồn kế thừa & Tham khảo
+### 4. Đánh giá & Đóng góp mới (Gaps & Contributions)
+## GĐ 5 — NHIỆT PHÂN
+### 1. Thông số Thực nghiệm (SOP)
+### Thiết lập khí bảo vệ
+### Chương trình nhiệt
+### Nhiệt độ mục tiêu
+### 2. Cơ sở Lý thuyết & Biện luận
+### 3. Nguồn kế thừa & Tham khảo
+### 4. Đánh giá & Đóng góp mới (Gaps & Contributions)
+## GĐ 6 — DOPING Fe
+### 1. Thông số Thực nghiệm (SOP)
+### 2. Cơ sở Lý thuyết & Biện luận
+### 3. Nguồn kế thừa & Tham khảo
+### 4. Đánh giá & Đóng góp mới (Gaps & Contributions)
+## GĐ 7 — HẬU XỬ LÝ
+### 1. Thông số Thực nghiệm (SOP)
+### 7a. Acid Leaching
+### 7b. Annealing lần 2
+### 2. Cơ sở Lý thuyết & Biện luận
+### 3. Nguồn kế thừa & Tham khảo
+### 4. Đánh giá & Đóng góp mới (Gaps & Contributions)
+## GĐ 8 — CHẾ TẠO ĐIỆN CỰC & ĐẶC TRƯNG ĐIỆN HÓA
+### 1. Thông số Thực nghiệm (SOP)
+### 8a. Nghiền, rây & lưu trữ
+### 8b. Hoạt hóa GCE
+### 8c. Pha Ink & Drop-casting
+### 8d. Screening 4 vật liệu (CV, EIS, ECSA, SWASV sơ bộ)
+### 8e. Phân tích Pb²⁺/Cd²⁺/Zn²⁺ (SWASV) — Bài Q1/Q2
+### 8f. Phân tích Paracetamol (DPV) — Bài Q3/Q4
+### 8g. Đánh giá Repeatability, Reproducibility, Stability
+### 2. Cơ sở Lý thuyết & Biện luận
+### 3. Nguồn kế thừa & Tham khảo
+### 4. Đánh giá & Đóng góp mới (Gaps & Contributions)
+## TỔNG KẾT: QUALITY GATE — CHECKLIST SAU MỖI GIAI ĐOẠN
+# PHẦN 3: KẾT QUẢ VÀ THẢO LUẬN
+## 3.1. Đặc trưng Hình thái và Cấu trúc của Vật liệu (Fe/N-CA)
+### 3.1.1. Hình thái bề mặt và Cấu trúc vi mô (SEM, TEM, BET)
+### 3.1.2. Phân tích Cấu trúc Tinh thể và Khuyết tật (XRD, Raman)
+### 3.1.3. Phân tích Thành phần Hóa học và Trạng thái Liên kết (XPS, FTIR)
+## 3.2. Tính chất Điện hóa Cơ bản của Điện cực Biến tính
+### 3.2.1. Động học truyền điện tử bằng Cyclic Voltammetry (CV)
+### 3.2.2. Phổ Tổng trở Điện hóa (EIS)
+## 3.3. Ứng dụng Phân tích Vết Kim loại nặng (Pb²⁺, Cd²⁺) bằng kỹ thuật SWASV
+### 3.3.1. Vai trò của thành phần Chitosan trong Composite Binder và Cơ chế làm giàu
+### 3.3.2. Tối ưu hóa điều kiện phân tích
+### 3.3.3. Khoảng tuyến tính và Giới hạn phát hiện (LOD)
+### 3.3.4. Khảo sát Độ chọn lọc (Interference Study)
+## 3.4. Ứng dụng Phân tích Paracetamol (PAR) bằng kỹ thuật DPV
+### 3.4.1. Vai trò của thành phần Nafion trong Composite Binder và Cơ chế Chống bám bẩn
+### 3.4.2. Khảo sát Khoảng tuyến tính, LOD và Độ chọn lọc
+## 3.5. Đánh giá Độ lặp lại, Độ tái lặp và Phân tích Mẫu thực
+### 3.5.1. Độ lặp lại (Repeatability) và Độ ổn định (Stability)
+### 3.5.2. Phân tích mẫu thực tế (Real Samples) và Độ thu hồi (Recovery)
+## 🔬 TỔNG HỢP SUY LUẬN NGƯỢC TỪ NOTEBOOKLM (BỔ SUNG)
+# PHẦN 4: KẾT LUẬN CHUNG VÀ ĐỊNH HƯỚNG PHÁT TRIỂN
+## 4.1. Kết luận chung
+## 4.2. Đóng góp mới của Đề tài
+## 4.3. Hướng phát triển và mở rộng (Future Works)
+# TÀI LIỆU THAM KHẢO

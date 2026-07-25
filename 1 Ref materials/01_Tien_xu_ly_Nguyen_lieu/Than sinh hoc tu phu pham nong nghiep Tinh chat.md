@@ -3,7 +3,7 @@ _Tạp chí Khoa học Đại học Cần Thơ_
 _Tập 62, Số 1A (2026): 24-34_ 
 
 
-![](_images/Than sinh hoc tu phu pham nong nghiep Tinh chat_img/_temp_9d906400_heal_.pdf-0001-02.png)
+![](_temp_9d906400_convert__images/_temp_9d906400_convert_.pdf-0001-02.png)
 
 
 _DOI:10.22144/ctujos.2026.003_ 
@@ -81,7 +81,7 @@ TSH được sản xuất chính bằng quá trình nhiệt phân ở nhiệt đ
 − Nhiệt phân rất nhanh với tốc độ nung hơn 1000⁰C, quá trình tạo ra phần lớn là hỗn hợp khí. 
 
 
-![](_images/Than sinh hoc tu phu pham nong nghiep Tinh chat_img/_temp_9d906400_heal_.pdf-0003-10.png)
+![](_temp_9d906400_convert__images/_temp_9d906400_convert_.pdf-0003-10.png)
 
 
 **Hình 1. Cấu trúc than sinh học** 
@@ -105,7 +105,7 @@ bã mía, xơ dừa và rơm rạ sẽ tạo ra các loại vật liệu TSH có
 Một trong những yếu tố quan trọng ảnh hưởng lớn đến đặc tính TSH là thành phần nguyên liệu sinh khối ban đầu. Thành phần nguyên liệu sinh khối có thể được đánh giá qua bốn yếu tố như độ ẩm, tỷ lệ hợp chất dễ bay hơi (VM), carbon cố định (FC) và tro (Vassilev et al., 2010). Các thành phần này phụ thuộc rất nhiều vào loại sinh khối như trong Bảng 1. Những sinh khối có hàm lượng chất dễ bay hơi cao khi nhiệt phân tạo ra vật liệu TSH có độ xốp cao và diện tích bề mặt riêng lớn, trong khi TSH thu được lượng lớn với tỷ lệ FC cao trong nguyên liệu. Từ Bảng 2 cho thấy, các nguồn sinh khối khác nhau như 
 
 
-![](_images/Than sinh hoc tu phu pham nong nghiep Tinh chat_img/_temp_9d906400_heal_.pdf-0004-05.png)
+![](_temp_9d906400_convert__images/_temp_9d906400_convert_.pdf-0004-05.png)
 
 
 **Hình 2. Hình thái của TSH từ rơm rạ nung ở các nhiệt độ khác nhau (Vo & Dang, 2025)** 
@@ -125,7 +125,7 @@ _Tập 62, Số 1A (2026): 24-34_
 TSH và mở rộng cấu trúc xốp bằng các hiện tượng phân tách và phân hủy các lớp graphite dẫn tới việc phát triển các vi lỗ và trung lỗ trong vật liệu. 
 
 
-![](_images/Than sinh hoc tu phu pham nong nghiep Tinh chat_img/_temp_9d906400_heal_.pdf-0005-03.png)
+![](_temp_9d906400_convert__images/_temp_9d906400_convert_.pdf-0005-03.png)
 
 
 Hoạt hóa bằng acid giúp nâng cao tính chất bề mặt của vật liệu như cấu trúc xốp, nhóm chức bề mặt và các tính chất hóa học bề mặt. Tác nhân acid có thể loại bỏ thành phần tro, khoáng chất ra khỏi vật liệu, cũng như bổ sung thêm các nhóm chức oxy trên bề mặt của TSH. Sự thay đổi cấu trúc vật liệu xốp này cho thấy khả năng nâng cao dung lượng hấp phụ 
@@ -178,7 +178,7 @@ _Tập 62, Số 1A (2026): 24-34_
 biến tính với NaOH và H3PO4, một số nhóm chức mới xuất hiện cũng như suy giảm (Chau & Nguyen, 2024). 
 
 
-![](_images/Than sinh hoc tu phu pham nong nghiep Tinh chat_img/_temp_9d906400_heal_.pdf-0006-03.png)
+![](_temp_9d906400_convert__images/_temp_9d906400_convert_.pdf-0006-03.png)
 
 
 **Hình 3. Phân tích FT-IR của TSH** 
@@ -249,7 +249,7 @@ môi trường và chi phí thấp. Một trong những ưu điểm của TSH s�
 Các kết quả nghiên cứu cho thấy TSH có khả năng xử lý hiệu quả kháng sinh trong nước, bên cạnh các yếu tố khác như chi phí sản xuất thấp, công nghệ đơn giản, và thân thiện với môi trường hơn (Krasucka et al., 2021). Để cải thiện đặc tính TSH, các phương pháp biến tính vật lý và hoá học được sử dụng để nâng cao hiệu quả hấp phụ kháng sinh (Sajjadi et al., 2018). Bên cạnh đó, TSH có thể kết hợp với kim loại hoặc vật liệu khác để xử lý kháng sinh bằng các phương pháp khác như oxy hoá nâng cao, xúc tác thúc đẩy quá trình phân huỷ kháng sinh (Ahmaruzzaman, 2021; Bartoli et al., 2023). Do đó, việc sử dụng TSH có nguồn gốc từ phụ phẩm nông, lâm nghiệp cho thấy tiềm năng rất lớn trong việc xử lý môi trường ở quy mô lớn, là một giải pháp hiệu quả, khả thi cao để giải quyết các vấn đề ô nhiễm kháng sinh ở Việt Nam. 
 
 
-![](_images/Than sinh hoc tu phu pham nong nghiep Tinh chat_img/_temp_9d906400_heal_.pdf-0008-07.png)
+![](_temp_9d906400_convert__images/_temp_9d906400_convert_.pdf-0008-07.png)
 
 
 **Hình 4. Dung lượng hấp phụ lớn nhất kháng sinh của các loại vật liệu khác nhau** 

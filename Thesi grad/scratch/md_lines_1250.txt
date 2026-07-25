@@ -1,0 +1,31 @@
+1240: <th style="text-align: center;"><strong>LOD</strong></th>
+1241: <th style="text-align: center;"><strong>Khoảng tuyến tính</strong></th>
+1242: <th style="text-align: center;"><strong>TLTK</strong></th>
+1243: </tr>
+1244: </thead>
+1245: <tbody>
+1246: <tr>
+1247: <td>Tảo sinh khối (Algae)</td>
+1248: <td>Dopamine</td>
+1249: <td>Nafion 0.5%</td>
+1250: <td>3.3 nM</td>
+1251: <td>0.01–200 µM</td>
+1252: <td style="text-align: center;">[12]</td>
+1253: </tr>
+1254: <tr>
+1255: <td>Graphene/ZrO<sub>2</sub> composite</td>
+1256: <td>Luteolin</td>
+1257: <td>Chitosan</td>
+1258: <td>1 nM</td>
+1259: <td>5–1000 nM</td>
+1260: <td style="text-align: center;">[42]</td>
+1261: </tr>
+1262: <tr>
+1263: <td>rGO-Chitosan/PLL Nanocomposite</td>
+1264: <td>Pb²⁺, Cd²⁺, Cu²⁺</td>
+1265: <td>Chitosan</td>
+1266: <td>~0.0001 µM</td>
+1267: <td>0.002 - 0.38 µM</td>
+1268: <td style="text-align: center;">[43]</td>
+1269: </tr>
+1270: <tr>

@@ -1,0 +1,21 @@
+510: 
+511: ### 1.4. Khoảng trống nghiên cứu (Research Gap)
+512: 
+513: Yếu tố quyết định hiệu năng của cảm biến điện hóa là vật liệu biến tính
+514: bề mặt điện cực làm việc GCE. Carbon Aerogel (CA) tổng hợp từ sinh khối
+515: (biomass) sở hữu mạng lưới liên thông 3D xốp phân cấp và độ dẫn điện tốt
+516: \[6, 7, 8\].
+517: 
+518: Tuy nhiên, các công trình đã công bố chủ yếu tập trung vào hệ dung môi
+519: NaOH/Urea truyền thống có nguy cơ để lại ion/muối vô cơ nếu rửa không
+520: triệt để, có thể ảnh hưởng cấu trúc sau nung độ cao, cho diện tích bề
+521: mặt riêng thấp (S<sub>BET</sub> ≤ 150 m²/g ở cùng điều kiện) \[6, 7,
+522: 9\].
+523: 
+524: Theo phạm vi tài liệu đã tổng quan trong đề cương, chưa ghi nhận nghiên
+525: cứu nào tối ưu hóa toàn diện quy trình tổng hợp monolith Carbon Aerogel
+526: pha tạp Nitơ (N-CA) và đồng pha tạp Sắt/Nitơ (Fe/N-CA) từ xơ dừa Bến Tre
+527: thông qua hệ dung môi amoniac-urea (NH<sub>4</sub>OH/Urea) kết hợp sấy
+528: thăng hoa và nhiệt phân hai lần (annealing) ứng dụng làm cảm biến điện
+529: hóa trên cùng định hướng nền tảng vật liệu GCE biến tính, với hai nhánh
+530: điện cực riêng.

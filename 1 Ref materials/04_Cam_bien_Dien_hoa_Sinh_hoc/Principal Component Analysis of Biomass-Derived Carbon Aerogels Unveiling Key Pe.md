@@ -1,5 +1,5 @@
 
-![](_images/Principal Component Analysis of Biomass-Derived Carbon Aerogels Unveiling Key Pe_images/_temp_949601a7_convert_.pdf-0001-00.png)
+![](_temp_45d0acba_convert__images/_temp_45d0acba_convert_.pdf-0001-00.png)
 
 
 ## _Article_ 
@@ -69,7 +69,7 @@ The application of PCA offers a systematic approach to ranking and classifying a
 Data have been collected from the published study of Li et al. [1]. Table 1 presents electrochemical features of biomass-derived carbon aerogels used for Principal Component Analysis (PCA). The table includes specific surface area (SSA), specific capacitance (Csp), capacity retention (CR), rate capability (Rate_Cap), energy density (E), and power density (P_density) for various biomass sources, including cellulose, lignin, chitosan, and biomass waste. The data of each of the investigated variables have different weights. In order to remove any bias yielded by the difference in magnitude, a normalization technique similar to the one presented in [12] has been adopted, as follows: 
 
 
-![](_images/Principal Component Analysis of Biomass-Derived Carbon Aerogels Unveiling Key Pe_images/_temp_949601a7_convert_.pdf-0003-08.png)
+![](_temp_45d0acba_convert__images/_temp_45d0acba_convert_.pdf-0003-08.png)
 
 
 where “ _Yst_ ” presents the standardized dataset values. 
@@ -105,39 +105,39 @@ After normalization, PCA findings were compiled using XLSTAT 2024.03 software (A
 The aim of this study is to apply Principal Component Analysis (PCA) to the dataset of biomass-derived carbon aerogels used for supercapacitor applications (Table 1). The PCA aims to identify hidden relationships between the structural and electrochemical properties. Uncovering these correlations provides a deeper understanding of the key factors influencing the electrochemical performance of different aerogels. The insights gained from this analysis can guide material optimization strategies, aiding in the selection of high-performance aerogels for energy storage applications. In this study, PCA has been applied to six key electrochemical factors across various biomass-based aerogels, distinguishing high-performing materials from lower-performing ones (Table 1). PCA, as a data-driven unsupervised machine learning technique, reduces dataset dimensionality while preserving essential information. The results facilitate a clearer visualization of material performance trends, revealing underlying correlations (both positive and negative) and assessing the representativity of the principal components (pcs) in explaining the variance within the dataset. The _j_ th pc matrix ( _Fi_ ) is expressed using a unit-weighting vector ( _uj_ ) and the original data matrix m with _m × n_ dimensions ( _m_ : number of variables, _n_ : number of aerogels), as follows [20–25]: 
 
 
-![](_images/Principal Component Analysis of Biomass-Derived Carbon Aerogels Unveiling Key Pe_images/_temp_949601a7_convert_.pdf-0005-05.png)
+![](_temp_45d0acba_convert__images/_temp_45d0acba_convert_.pdf-0005-05.png)
 
 
 where _u_ is the loading coefficient and _M_ is the data vector of size _n_ . The variance matrix _M_ ( _Var_ ( _M_ )), is obtained by projecting _M_ to _U_ , and should be maximized, as follows: 
 
 
-![](_images/Principal Component Analysis of Biomass-Derived Carbon Aerogels Unveiling Key Pe_images/_temp_949601a7_convert_.pdf-0005-07.png)
+![](_temp_45d0acba_convert__images/_temp_45d0acba_convert_.pdf-0005-07.png)
 
 
 
-![](_images/Principal Component Analysis of Biomass-Derived Carbon Aerogels Unveiling Key Pe_images/_temp_949601a7_convert_.pdf-0005-08.png)
+![](_temp_45d0acba_convert__images/_temp_45d0acba_convert_.pdf-0005-08.png)
 
 
 Since _n_[1] _[MM][T]_[is][the][same][as][the][covariance][matrix][of] _[M]_[(] _[cov]_[(] _[M]_[)),] _[Var]_[(] _[M]_[)][can][be] expressed, as follows: 
 
 
-![](_images/Principal Component Analysis of Biomass-Derived Carbon Aerogels Unveiling Key Pe_images/_temp_949601a7_convert_.pdf-0005-10.png)
+![](_temp_45d0acba_convert__images/_temp_45d0acba_convert_.pdf-0005-10.png)
 
 
 The Lagrangian function can be defined by performing the Lagrange multiplier method, as follows: 
 
 
-![](_images/Principal Component Analysis of Biomass-Derived Carbon Aerogels Unveiling Key Pe_images/_temp_949601a7_convert_.pdf-0005-12.png)
+![](_temp_45d0acba_convert__images/_temp_45d0acba_convert_.pdf-0005-12.png)
 
 
 For (7), “ _U[T] U−_ 1” is considered to be equal to zero, since the weighting vector is a unit vector. Hence, the maximum value of _Var_ ( _M_ ) can be calculated by equating the derivative of the Lagrangian function ( _L_ ), in respect to _U_ , as follows: 
 
 
-![](_images/Principal Component Analysis of Biomass-Derived Carbon Aerogels Unveiling Key Pe_images/_temp_949601a7_convert_.pdf-0005-14.png)
+![](_temp_45d0acba_convert__images/_temp_45d0acba_convert_.pdf-0005-14.png)
 
 
 
-![](_images/Principal Component Analysis of Biomass-Derived Carbon Aerogels Unveiling Key Pe_images/_temp_949601a7_convert_.pdf-0005-15.png)
+![](_temp_45d0acba_convert__images/_temp_45d0acba_convert_.pdf-0005-15.png)
 
 
 where 
@@ -179,7 +179,7 @@ The Principal Component Analysis (PCA) of biomass-based carbon aerogels as elect
 ## **Axes variance (58.20 %)** 
 
 
-![](_images/Principal Component Analysis of Biomass-Derived Carbon Aerogels Unveiling Key Pe_images/_temp_949601a7_convert_.pdf-0007-06.png)
+![](_temp_45d0acba_convert__images/_temp_45d0acba_convert_.pdf-0007-06.png)
 
 
 **----- Start of picture text -----**<br>
@@ -199,7 +199,7 @@ _Sustainability_ **2025** , _17_ , 4530
 ## **Contribution of variables to PCs** 
 
 
-![](_images/Principal Component Analysis of Biomass-Derived Carbon Aerogels Unveiling Key Pe_images/_temp_949601a7_convert_.pdf-0008-04.png)
+![](_temp_45d0acba_convert__images/_temp_45d0acba_convert_.pdf-0008-04.png)
 
 
 **----- Start of picture text -----**<br>
@@ -235,7 +235,7 @@ The third and fourth principal components (PC3 and PC4) accounted for 29.94% of 
 ## **Axes variance (29.94 %)** 
 
 
-![](_images/Principal Component Analysis of Biomass-Derived Carbon Aerogels Unveiling Key Pe_images/_temp_949601a7_convert_.pdf-0010-05.png)
+![](_temp_45d0acba_convert__images/_temp_45d0acba_convert_.pdf-0010-05.png)
 
 
 **----- Start of picture text -----**<br>
@@ -257,7 +257,7 @@ _Sustainability_ **2025** , _17_ , 4530
 ## **Contribution of variables to PCs** 
 
 
-![](_images/Principal Component Analysis of Biomass-Derived Carbon Aerogels Unveiling Key Pe_images/_temp_949601a7_convert_.pdf-0011-03.png)
+![](_temp_45d0acba_convert__images/_temp_45d0acba_convert_.pdf-0011-03.png)
 
 
 **----- Start of picture text -----**<br>

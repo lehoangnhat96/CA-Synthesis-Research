@@ -1,7 +1,7 @@
 Article 
 
 
-![](_images/Electrochemically Controlled Synthesis of Ultrathin Nickel Hydroxide Nanosheets_img/_temp_ab9a43fa_heal_.pdf-0001-02.png)
+![](_temp_ab9a43fa_convert__images/_temp_ab9a43fa_convert_.pdf-0001-02.png)
 
 
 pubs.acs.org/IC 
@@ -15,7 +15,7 @@ Cite This: Inorg. Chem. 2021, 60, 3365−3374
 Read Online 
 
 
-![](_images/Electrochemically Controlled Synthesis of Ultrathin Nickel Hydroxide Nanosheets_img/_temp_ab9a43fa_heal_.pdf-0001-08.png)
+![](_temp_ab9a43fa_convert__images/_temp_ab9a43fa_convert_.pdf-0001-08.png)
 
 
 **----- Start of picture text -----**<br>
@@ -31,7 +31,7 @@ The depletion of fossil fuels and growing environmental problems have forced peo
 transition metal (Fe, Co, Ni, Mn, etc.)-based electrocatalysts.[20][−][23] In particular, cobalt-based electrocatalysts, such as Co-based oxides/hydroxides, sulfides, selenides, phosphides, and borides, have been widely developed for their remarkable OER performance.[24][−][26] For example, Wang et al. synthesized ultrathin CoFe LDH nanosheets by a hydrothermal method, and the catalyst needed an overpotential of only 233 mV to yield a current density of 10 mA cm[−][2] in 1.0 M KOH.[24] Compared with cobalt, nickel usually exhibits much weaker OER activity, although it is much more abundant and cheaper.[27] For instance, the OER performances of pure nickel oxide/hydroxide electrocatalysts are generally rather undesirable.[28][−][33] Han et al. synthesized nickel boridehydroxide nanoparticles [F-Ni2B/Ni(OH)x] by a one-step wetchemical method, which required an overpotential of 340 mV to yield a current density of 10 mA cm[−][2] in 1.0 M KOH.[28] Liu et al. synthesized Ni(OH)2 nanosheets with a thickness in the range of 20−100 nm by a hydrothermal method, requiring an overpotential of 308 mV to yield a current density of 10 mA 
 
 
-![](_images/Electrochemically Controlled Synthesis of Ultrathin Nickel Hydroxide Nanosheets_img/_temp_ab9a43fa_heal_.pdf-0001-13.png)
+![](_temp_ab9a43fa_convert__images/_temp_ab9a43fa_convert_.pdf-0001-13.png)
 
 
 Received: December 23, 2020 Published: February 11, 2021 
@@ -75,7 +75,7 @@ pubs.acs.org/IC
 Article 
 
 
-![](_images/Electrochemically Controlled Synthesis of Ultrathin Nickel Hydroxide Nanosheets_img/_temp_ab9a43fa_heal_.pdf-0003-03.png)
+![](_temp_ab9a43fa_convert__images/_temp_ab9a43fa_convert_.pdf-0003-03.png)
 
 
 Figure 1. (a) Schematic illustration of the electrochemically controlled synthesis of the α-Ni(OH)2/NF self-supporting electrode. SEM images of α-Ni(OH)2 obtained at different electrodeposition potentials (b) −1.0 V vs Ag/AgCl, (c) −2.0 V vs Ag/AgCl, (d) −2.5 V vs Ag/AgCl, and (e) −3.0 V vs Ag/AgCl. 
@@ -99,7 +99,7 @@ Inorganic Chemistry pubs.acs.org/IC
 Article 
 
 
-![](_images/Electrochemically Controlled Synthesis of Ultrathin Nickel Hydroxide Nanosheets_img/_temp_ab9a43fa_heal_.pdf-0004-02.png)
+![](_temp_ab9a43fa_convert__images/_temp_ab9a43fa_convert_.pdf-0004-02.png)
 
 
 Figure 3. (a) PXRD patterns of α-Ni(OH)2 scraped from the NF before (up) and after (down) OER. (b) TEM, (c) AFM, and (d) HRTEM images of α-Ni(OH)2. 
@@ -119,7 +119,7 @@ Inorganic Chemistry pubs.acs.org/IC
 Article 
 
 
-![](_images/Electrochemically Controlled Synthesis of Ultrathin Nickel Hydroxide Nanosheets_img/_temp_ab9a43fa_heal_.pdf-0005-02.png)
+![](_temp_ab9a43fa_convert__images/_temp_ab9a43fa_convert_.pdf-0005-02.png)
 
 
 Figure 4. (a) LSV curves and (b) Tafel plots of α-Ni(OH)2/NF, RuO2/NF, and NF recorded at a scan rate of 1 mV s[−][1] in 1.0 M KOH. (c) Test potentials at high current densities for α-Ni(OH)2/NF in a 1.0 M KOH solution. (d) Galvanostatic electrolysis at 10, 100, and 250 mA cm[−][2] of α- Ni(OH)2/NF in a 1.0 M KOH solution. 
@@ -143,7 +143,7 @@ pubs.acs.org/IC
 Article 
 
 
-![](_images/Electrochemically Controlled Synthesis of Ultrathin Nickel Hydroxide Nanosheets_img/_temp_ab9a43fa_heal_.pdf-0006-03.png)
+![](_temp_ab9a43fa_convert__images/_temp_ab9a43fa_convert_.pdf-0006-03.png)
 
 
 Figure 5. (a) TEM and (b) HRTEM images of α-Ni(OH)2 after OER. High-resolution XPS spectra of (c) Ni 2p and (d) O 1s of α-Ni(OH)2 before (up) and after (down) OER. The black curves in panels c and d are the original data. 

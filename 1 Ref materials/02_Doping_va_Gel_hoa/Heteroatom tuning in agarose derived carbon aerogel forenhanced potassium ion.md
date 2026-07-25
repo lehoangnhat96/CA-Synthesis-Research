@@ -5,11 +5,11 @@ DOI: 10.1002/cey2.427
 R E S E A R C H A R T I C L E 
 
 
-![](_images/Heteroatom tuning in agarose derived carbon aerogel forenhanced potassium ion_img/_temp_46bfa70e_heal_.pdf-0001-03.png)
+![](_temp_46bfa70e_convert__images/_temp_46bfa70e_convert_.pdf-0001-03.png)
 
 
 
-![](_images/Heteroatom tuning in agarose derived carbon aerogel forenhanced potassium ion_img/_temp_46bfa70e_heal_.pdf-0001-04.png)
+![](_temp_46bfa70e_convert__images/_temp_46bfa70e_convert_.pdf-0001-04.png)
 
 
 ## Heteroatom tuning in agarose derived carbon aerogel for enhanced potassium ion multiple energy storage 
@@ -51,7 +51,7 @@ Carbon Energy. 2024;6:e427. https://doi.org/10.1002/cey2.427
 XIE ET AL. 
 
 
-![](_images/Heteroatom tuning in agarose derived carbon aerogel forenhanced potassium ion_img/_temp_46bfa70e_heal_.pdf-0002-03.png)
+![](_temp_46bfa70e_convert__images/_temp_46bfa70e_convert_.pdf-0002-03.png)
 
 
 ## K E Y W O R D S 
@@ -79,7 +79,7 @@ Agarose was obtained from Aladdin, and other chemicals were purchased from Sinop
 XIE ET AL. 
 
 
-![](_images/Heteroatom tuning in agarose derived carbon aerogel forenhanced potassium ion_img/_temp_46bfa70e_heal_.pdf-0003-03.png)
+![](_temp_46bfa70e_convert__images/_temp_46bfa70e_convert_.pdf-0003-03.png)
 
 
 ‐ ‐ and subjected to freeze drying. The freeze drying process is described as follows: The hydrogel samples were stored at −18°C for 24 h in an ultra‐low temperature refrigerator (TF‐60‐400‐LA). Subsequently, the samples were subjected to freeze‐drying in a freeze dryer (LGJ‐10N) maintained at a temperature of −35°C and a pressure of 0.0 Pa for a duration of 48 h to obtain the agarose aerogels, labeled as O‐AA. 
@@ -105,7 +105,7 @@ A nitrogen methyl pyrrolidone solution was incorporated into and thoroughly mixe
 XIE ET AL. 
 
 
-![](_images/Heteroatom tuning in agarose derived carbon aerogel forenhanced potassium ion_img/_temp_46bfa70e_heal_.pdf-0004-03.png)
+![](_temp_46bfa70e_convert__images/_temp_46bfa70e_convert_.pdf-0004-03.png)
 
 
 (GCD) was seen in the current density range of 0.5–20 A g[−][1] when constant current charge and discharge experiments carried out at the same voltage window. Electrochemical impedance spectroscopy (EIS) was performed at an open circuit potential of 5 mV and a frequency range of 0.01 Hz to 100 kHz, and the Nyquist plot was analyzed. Two electrode materials of identical quality were meticulously chosen and segregated by a glass fiber separator to fabricate a symmetrical supercapacitor, which was subsequently immersed in a 1 M KPF6 organic electrolyte solution for electrochemical characterization. All electrochemical experiments were conducted at ambient temperature utilizing an electrochemical workstation. (CHI 760E; CH Instruments Inc.). 
@@ -115,11 +115,11 @@ The O‐CA, ON‐CA, and ONB‐CA were blended with conductive carbon black and 
 The gravimetric specific capacitance (C) was meticulously computed utilizing the following equations[34] : 
 
 
-![](_images/Heteroatom tuning in agarose derived carbon aerogel forenhanced potassium ion_img/_temp_46bfa70e_heal_.pdf-0004-07.png)
+![](_temp_46bfa70e_convert__images/_temp_46bfa70e_convert_.pdf-0004-07.png)
 
 
 
-![](_images/Heteroatom tuning in agarose derived carbon aerogel forenhanced potassium ion_img/_temp_46bfa70e_heal_.pdf-0004-08.png)
+![](_temp_46bfa70e_convert__images/_temp_46bfa70e_convert_.pdf-0004-08.png)
 
 
 where I is the current density, ΔV is the potential change within the discharge time Δt, V is potential, ν is the potential scan rate, and m is the mass of the electroactive materials (capacitance unit: F g[−][1] ). 
@@ -127,11 +127,11 @@ where I is the current density, ΔV is the potential change within the discharge
 The gravimetric specific capacity, energy density (E), and power density (P) of the symmetrical system were rigorously calculated utilizing the following formula[35] : 
 
 
-![](_images/Heteroatom tuning in agarose derived carbon aerogel forenhanced potassium ion_img/_temp_46bfa70e_heal_.pdf-0004-11.png)
+![](_temp_46bfa70e_convert__images/_temp_46bfa70e_convert_.pdf-0004-11.png)
 
 
 
-![](_images/Heteroatom tuning in agarose derived carbon aerogel forenhanced potassium ion_img/_temp_46bfa70e_heal_.pdf-0004-12.png)
+![](_temp_46bfa70e_convert__images/_temp_46bfa70e_convert_.pdf-0004-12.png)
 
 
 The aforementioned formula incorporates the variables I, V, ν, m, and Δt, which, respectively, represent the current density, working range, scan rate, weight of the active materials of the two electrodes, and discharge time (s). The units of energy density and power density are expressed in Wh kg[−][1] and W kg[−][1] , respectively. 
@@ -141,7 +141,7 @@ The aforementioned formula incorporates the variables I, V, ν, m, and Δt, whic
 Throughout the CV test, the peak current at varying scan rates was meticulously recorded, and the correlation between the scan rate and the peak current was analyzed to differentiate between diffusion and pseudocapacitive behavior during charge and discharge. This relationship can be mathematically expressed by the following empirical formula[36] : 
 
 
-![](_images/Heteroatom tuning in agarose derived carbon aerogel forenhanced potassium ion_img/_temp_46bfa70e_heal_.pdf-0004-16.png)
+![](_temp_46bfa70e_convert__images/_temp_46bfa70e_convert_.pdf-0004-16.png)
 
 
 Both a and b are variable parameters in the aforementioned formula. It is pertinent to note that the b value corresponds to the slope of the logi versus logv line. 
@@ -155,7 +155,7 @@ When b = 0.5–1, this is a transitional region between pseudocapacitive materia
 Upon conducting a comprehensive CV test, and considering all relevant factors, a functional relationship between current and scan rate can be rigorously derived as follows[37] : 
 
 
-![](_images/Heteroatom tuning in agarose derived carbon aerogel forenhanced potassium ion_img/_temp_46bfa70e_heal_.pdf-0004-22.png)
+![](_temp_46bfa70e_convert__images/_temp_46bfa70e_convert_.pdf-0004-22.png)
 
 
 The values of k1 and k2 can be meticulously calculated by obtaining the slope and intercept of the linear plot of i(V)/v[1/2] and v[1/2] , respectively. 
@@ -169,13 +169,13 @@ The Vienna ab initio simulation Package was utilized to conduct DFT calculations
 XIE ET AL. 
 
 
-![](_images/Heteroatom tuning in agarose derived carbon aerogel forenhanced potassium ion_img/_temp_46bfa70e_heal_.pdf-0005-03.png)
+![](_temp_46bfa70e_convert__images/_temp_46bfa70e_convert_.pdf-0005-03.png)
 
 
 employed a plane wave basis set with an energy cutoff of 500 eV, projector augmented wave pseudopotentials, and the generalized gradient approximation parameterized by Perdew, Burke, and Ernzerhof for exchange‐correlation functional.[38] To account for the dispersion correction, Grimme's semiempirical DFT‐ D3 scheme was adopted.[39] The vacuum space was established as 15 Å for all three directions in this study. The model structures underwent complete optimization for both ionic and electronic degrees of freedom, employing convergence criteria of 10–4 eV for electronic energy and 10–2 eV/Å for the forces acting on each atom. The binding energy was defined as[40] 
 
 
-![](_images/Heteroatom tuning in agarose derived carbon aerogel forenhanced potassium ion_img/_temp_46bfa70e_heal_.pdf-0005-05.png)
+![](_temp_46bfa70e_convert__images/_temp_46bfa70e_convert_.pdf-0005-05.png)
 
 
 The binding energy was determined by computing the total energies of the heteroatom‐ doped graphene with and without the adsorption of a K atom, denoted as EK/surf and Esurf, respectively. Here, EK represents the energy of a single K atom in the bulk position. 
@@ -185,7 +185,7 @@ The binding energy was determined by computing the total energies of the heteroa
 Scheme 1 illustrates that the synthesis of O‐CA entailed dissolving 2% agarose in hot water at 90°C, which was subsequently cooled to room temperature to form a hydrogel. The formation of the resulting hydrogel is attributed to the intermolecular hydrogen bonding and van der Waals interactions between the agarose molecules. Subsequently, the hydrogel was freeze‐dried to produce agarose aerogel, which was then pyrolyzed at high temperatures under the protection of N2. During the pyrolysis process, the water molecules in the agarose polysaccharide were removed, and the chemical bonds within the molecules began to break, leading to the production of carbides. Similarly, in the preparation of ON‐CA, cyanamide molecules underwent polyaddition and polycondensation reactions with increasing temperature, resulting in specific reactions (Figure S2).[41,42] At a temperature of 520°C, melem underwent polycondensation to form carbon nitride. At an elevated temperature of 800°C, the process of nitrogen–carbon decomposition yields a substantial production of NH3. The aforementioned gases serve as agents for forming 
 
 
-![](_images/Heteroatom tuning in agarose derived carbon aerogel forenhanced potassium ion_img/_temp_46bfa70e_heal_.pdf-0005-09.png)
+![](_temp_46bfa70e_convert__images/_temp_46bfa70e_convert_.pdf-0005-09.png)
 
 
 SCHEME 1 Schematic diagram of O‐CA, ON‐CA and ONB‐CA preparation. CA, carbon aerogel. 
@@ -195,7 +195,7 @@ SCHEME 1 Schematic diagram of O‐CA, ON‐CA and ONB‐CA preparation. CA, carb
 XIE ET AL. 
 
 
-![](_images/Heteroatom tuning in agarose derived carbon aerogel forenhanced potassium ion_img/_temp_46bfa70e_heal_.pdf-0006-03.png)
+![](_temp_46bfa70e_convert__images/_temp_46bfa70e_convert_.pdf-0006-03.png)
 
 
 pores and as dopants of nitrogen in the preparation of N, O‐codoped CA. In the preparation of ONB‐CA, tetrabutylammonium borohydride dissociated in water to produce tetrabutylammonium ions and boron hydroxide ions, while agarose formed a colloidal state in water. ‐ During high temperature pyrolysis, the reaction between B and N2 with carbon chains leads to the formation of H2 ‐ and BN. Meanwhile, through decomposition and carbon chain formation, tetrabutylammonium is utilized to synthesize O/N/B doped CA, as depicted in Figure S3.[43] 
@@ -207,7 +207,7 @@ at 1336 and 1575 cm[−][1] , which correspond to the D‐band (associated with 
 The specific surface area and pore size of O‐CA, ON‐ CA, and ONB‐CA were ascertained by means of N2 adsorption–desorption measurements carried out using BET and BJH techniques (as illustrated in Figure 1C,D and Table S1). The adsorption–desorption isotherm of O‐ CA displays a type IV isotherm, whereas ON‐CA and ONB‐CA exhibit a combination of type I and type IV isotherms, indicating the coexistence of micropores and 
 
 
-![](_images/Heteroatom tuning in agarose derived carbon aerogel forenhanced potassium ion_img/_temp_46bfa70e_heal_.pdf-0006-08.png)
+![](_temp_46bfa70e_convert__images/_temp_46bfa70e_convert_.pdf-0006-08.png)
 
 
 FIGURE 1 (A) XRD patterns of O‐CA, ON‐CA, and ONB‐CA. (B) Raman spectrum of O‐CA, ON‐CA, and ONB‐CA. (C) The isotherms of N2 adsorption/desorption for O‐CA, ON‐CA, and ONB‐CA. (D) The distribution of pore sizes for O‐CA, ON‐CA, and ONB‐CA. (E) XPS survey spectrum of O‐CA, ON‐CA, and ONB‐CA. High‐resolution spectra of (F) C 1s, (G) O 1s, and (H) N 1s for ON‐CA, and (I) B 1s for ONB‐CA. 
@@ -217,7 +217,7 @@ FIGURE 1 (A) XRD patterns of O‐CA, ON‐CA, and ONB‐CA. (B) Raman spectrum o
 XIE ET AL. 
 
 
-![](_images/Heteroatom tuning in agarose derived carbon aerogel forenhanced potassium ion_img/_temp_46bfa70e_heal_.pdf-0007-03.png)
+![](_temp_46bfa70e_convert__images/_temp_46bfa70e_convert_.pdf-0007-03.png)
 
 
 mesopores.[45] The difference in structure results in specific surface areas of 669.14, 409.62, and 179.88 m[2] g[−][1] for O‐CA, ON‐CA, and ONB‐CA, respectively. The reduction in specific surface area can be ‐ ascribed to the formation of organic gas during the high temperature pyrolysis process of CA, which causes the etching of the CA material and consequent disruption of the pore structure. Furthermore, O‐CA also exhibits a hysteresis loop (typical type H4 loop), which is primarily attributed to the existence of large mesopores. However, the N2 adsorption isotherm of ON‐CA and ONB‐CA does not exhibit a hysteresis loop even at higher pressure, indicating the presence of only a few mesopores. According to the pore size distribution diagram (Figure 1D), both ON‐CA and ONB‐CA exhibit a relatively concentrated pore size distribution (below 4 nm), whereas O‐CA demonstrates a dispersed distribution (ranging from 1 to 20 nm). This observation is consistent with the N2 adsorption/desorption isotherms. Based on the pore size distribution (Figure 1D), ON‐CA and ONB‐CA exhibit a relatively centralized pore size distribution (below 4 nm), whereas O‐CA displays a decentralized distribution (ranging from 1 to 20 nm), which is consistent with the N2 adsorption/desorption isotherms. 
@@ -227,7 +227,7 @@ Furthermore, XPS was utilized to investigate the surface functional groups and c
 Table S2. Figure S4 illustrates the C 1s and O 1s spectra of O‐AC. The peaks observed in the high‐resolution C 1s spectrum of ON‐CA (Figure 1F) can be attributed to C–C (284.07 eV), C–N (285.39 eV), C–O (287.12 eV), and C═O (288.79 eV) functionalities. The O 1s spectrum (Figure 1G) reveals the existence of functional groups containing oxygen, including C═O (530.74 eV), C–O (531.99 eV), O═C–O–C═O (532.94 eV), and O═C–O (534.24 eV). The aforementioned oxygen functionalities undergo redox reactions during the charge and discharge processes, thereby imparting additional pseudocapacitance to the material. The N 1s spectrum (Figure 1H) exhibits the presence of pyridinic‐N (398.54 eV), pyrrolic‐N (400.03 eV), N–O (401.79 eV), and N–Q (401.14 eV).[46] Pyridinic‐N and pyrrolic‐N are known to create defects and furnish electrically active sites, which aid in the storage of potassium ions. Quaternary amine nitrogen is in favor to increase the wettability of CA. The forms of C 1s (Figure S5A), N 1s (Figure S5B), O 1s (Figure S5C), and B 1s (Figure 1I) in ONB‐CA were identified as B–N (191.2 eV), BCO2 (192.2 eV), and BC2O (190.6 eV).[47] The nonpolar functional groups of BCO2 and BC2O are insoluble in water, leading to decreased hydrophilicity of ONB‐CA. Thus, contact angles were investigated to verify the hydrophilicity of O‐CA, ON‐CA, and ONB‐CA (Figure S6), which are 27.61°, 9.26°, and 37.03°, respectively. Notably, ON‐CA demonstrated exceptional hydrophilicity, which can be attributed to the copious presence of hydrophilic functional groups containing nitrogen on its surface. This will effectively promote the adsorption of 
 
 
-![](_images/Heteroatom tuning in agarose derived carbon aerogel forenhanced potassium ion_img/_temp_46bfa70e_heal_.pdf-0007-07.png)
+![](_temp_46bfa70e_convert__images/_temp_46bfa70e_convert_.pdf-0007-07.png)
 
 
 FIGURE 2 (A) SEM images of ON‐CA. (B, D) HRTEM images of ON‐CA. (C) Corresponding fast fourier transformation pattern of (B). (E) Energy dispersive X‐ray spectrometry elemental mapping images of C, N, and O in ON‐CA, respectively. 
@@ -237,7 +237,7 @@ FIGURE 2 (A) SEM images of ON‐CA. (B, D) HRTEM images of ON‐CA. (C) Correspo
 XIE ET AL. 
 
 
-![](_images/Heteroatom tuning in agarose derived carbon aerogel forenhanced potassium ion_img/_temp_46bfa70e_heal_.pdf-0008-03.png)
+![](_temp_46bfa70e_convert__images/_temp_46bfa70e_convert_.pdf-0008-03.png)
 
 
 charged particles from the electrolyte onto the charged adsorbent electrode, thereby amplifying the energy storage of potassium ions. 
@@ -251,7 +251,7 @@ Figure 2E is an enlarged portion of Figure 2D, better reflecting the distributio
 The electrochemical performance of O‐CA, ON‐CA, and ONB‐CA for potassium ion storage was evaluated ‐ using a three electrode supercapacitor system with a 6 M KOH electrolyte.[51] The CV curves of O‐CA, ON‐CA, and ONB‐CA were estimated at a scan rate of 100 mV s[−][1] , as shown in Figure 3A. Figure 3B displays the GCD curves for each sample as determined at a current density of 1 A g[−][1] . The results indicate that the ON‐CA electrode demonstrates superior electrochemical performance, as evidenced by its longer discharge time compared to the other electrodes. It is evident that the ON‐CA electrode exhibits a higher oxidation–reduction peak and CV curve area compared to the other control samples. These findings suggest that the ON‐CA electrode possesses a higher specific capacitance and faster redox reaction rate. Figure 3C presents the specific capacitance of each electrode, as determined by the GCD data. The mass‐ specific capacitance of the ON‐CA electrode was determined to be 385.3 F g[−][1] at a current density of 0.5 A g[−][1] , which is notably higher than those of O‐CA and ONB‐ CA. The data presented in Figure 3D illustrates that the ‐ specific capacitance of ON CA surpasses that reported in all previous literature (Table S3), suggesting a superior potassium storage property. The distinctive 3D large‐pore honeycomb structure of ON‐CA offers a significant 
 
 
-![](_images/Heteroatom tuning in agarose derived carbon aerogel forenhanced potassium ion_img/_temp_46bfa70e_heal_.pdf-0008-09.png)
+![](_temp_46bfa70e_convert__images/_temp_46bfa70e_convert_.pdf-0008-09.png)
 
 
 FIGURE 3 (A) O‐CA, ON‐CA, and ONB‐CA CV curves in 6.0 M KOH aqueous solution at a scan rate of 100 mV s[−][1] . (B) O‐CA, ON‐CA, and ONB‐CA CV curves at 0.5 A g[−][1] in current density. (C) O‐CA, ON‐CA, and ONB‐CA specific capacitances at various current densities. (D) Comparison of the specific capacitance of ON‐CA with other materials.[52][–][66] (E) CV curves of ON‐CA in 6.0 M KOH aqueous solution at various scan rates of 5, 10, 20, 50, 100, and 200 mV s[−][1] . (F) ON‐CA charge–discharge curves at different current densities, measured galvanostatically. (G) Nyquist plots of ON‐CA electrodes. (H) 10,000 cycles of testing at 5 A g[−][1] of the electrochemical stability of ON‐CA. 
@@ -261,7 +261,7 @@ FIGURE 3 (A) O‐CA, ON‐CA, and ONB‐CA CV curves in 6.0 M KOH aqueous soluti
 XIE ET AL. 
 
 
-![](_images/Heteroatom tuning in agarose derived carbon aerogel forenhanced potassium ion_img/_temp_46bfa70e_heal_.pdf-0009-03.png)
+![](_temp_46bfa70e_convert__images/_temp_46bfa70e_convert_.pdf-0009-03.png)
 
 
 number of active sites and ample surface area, thereby facilitating ion/electron transfer. 
@@ -279,11 +279,11 @@ To enhance the comprehension of the electrode energy storage capabilities of CA,
 XIE ET AL. 
 
 
-![](_images/Heteroatom tuning in agarose derived carbon aerogel forenhanced potassium ion_img/_temp_46bfa70e_heal_.pdf-0010-03.png)
+![](_temp_46bfa70e_convert__images/_temp_46bfa70e_convert_.pdf-0010-03.png)
 
 
 
-![](_images/Heteroatom tuning in agarose derived carbon aerogel forenhanced potassium ion_img/_temp_46bfa70e_heal_.pdf-0010-04.png)
+![](_temp_46bfa70e_convert__images/_temp_46bfa70e_convert_.pdf-0010-04.png)
 
 
 FIGURE 4 The dependence of parameter b for (A) O‐CA, (B) ON‐CA, and (C) ONB‐CA. The separation of capacitive and diffusion contributions for (D) O‐CA, (E) ON‐CA, and (F) ONB‐CA at 20 mV s[−][1] . Capacitance contribution rates of (G) O‐CA, (H) ON‐CA, and (I) ONB‐CA electrodes at diverse scan rates. 
@@ -299,11 +299,11 @@ As shown in Figure 5E, the CV curve exhibits a well‐ defined rectangle from 0 
 XIE ET AL. 
 
 
-![](_images/Heteroatom tuning in agarose derived carbon aerogel forenhanced potassium ion_img/_temp_46bfa70e_heal_.pdf-0011-03.png)
+![](_temp_46bfa70e_convert__images/_temp_46bfa70e_convert_.pdf-0011-03.png)
 
 
 
-![](_images/Heteroatom tuning in agarose derived carbon aerogel forenhanced potassium ion_img/_temp_46bfa70e_heal_.pdf-0011-04.png)
+![](_temp_46bfa70e_convert__images/_temp_46bfa70e_convert_.pdf-0011-04.png)
 
 
 FIGURE 5 (A) O‐CA, ON‐CA, and ONB‐CA CV curves at a scan rate of 50 mV s[−][1] . (B) O‐CA, ON‐CA, and ONB‐CA CV curves with a current density of 0.5 A g[−][1] . (C) O‐CA, ON‐CA, and ONB‐CA specific capacitances at various current densities. (D) Ragone plot of O‐CA, ON‐CA, and ONB‐CA symmetric supercapacitor. (E) ON‐CA//ON‐CA CV curves symmetrical supercapacitor with a scan rate of 100 mV s[−][1] and different operating voltages. (F) CV curves of an ON‐CA//ON‐CA symmetrical supercapacitor at different scan speeds in the voltage range of 0–2.8 V. (G) GCD curves of the ON‐CA//ON‐CA symmetric supercapacitor at various current densities. (H) Electrochemical stability of the ON‐CA symmetric supercapacitor 10,000 cycles test. 
@@ -319,11 +319,11 @@ were utilized. Figure S29 presents the first three consecutive CV curves for the
 XIE ET AL. 
 
 
-![](_images/Heteroatom tuning in agarose derived carbon aerogel forenhanced potassium ion_img/_temp_46bfa70e_heal_.pdf-0012-03.png)
+![](_temp_46bfa70e_convert__images/_temp_46bfa70e_convert_.pdf-0012-03.png)
 
 
 
-![](_images/Heteroatom tuning in agarose derived carbon aerogel forenhanced potassium ion_img/_temp_46bfa70e_heal_.pdf-0012-04.png)
+![](_temp_46bfa70e_convert__images/_temp_46bfa70e_convert_.pdf-0012-04.png)
 
 
 FIGURE 6 (A) CV curves of ON‐CA at different scan rates. (B) The rate capabilities of O‐CA, ON‐CA, and ONB‐CA. (C) Electrochemical cycle stability of ON‐CA in cycles at 0.1 A g[−][1] . (D) The digital photos of O‐CA, ON‐CA, and ONB‐CA assembled PIBs lighting up blue LEDs. 
@@ -341,7 +341,7 @@ density. However, upon reverting to a current density of ‐ ‐ 100 mA g[−][1
 XIE ET AL. 
 
 
-![](_images/Heteroatom tuning in agarose derived carbon aerogel forenhanced potassium ion_img/_temp_46bfa70e_heal_.pdf-0013-03.png)
+![](_temp_46bfa70e_convert__images/_temp_46bfa70e_convert_.pdf-0013-03.png)
 
 
 unhindered diffusion and transfer of potassium ions and electrons. This observation is consistent with previous electrochemical tests.[73,74] Finally, as illustrated in Figure 6D, O‐CA, ON‐CA, and ONB‐CA were capable of ‐ successfully lighting up 49 light emitting diode (LED) bulbs, demonstrating the significant commercial value of heteroatom‐doped CA. 
@@ -353,7 +353,7 @@ dopants, exhibits smaller adsorption energy for K[+] (−1.62 eV) compared to th
 The present study employs the density of states (DOS) calculations of O‐CA, ON‐CA, and ONB‐CA models to 
 
 
-![](_images/Heteroatom tuning in agarose derived carbon aerogel forenhanced potassium ion_img/_temp_46bfa70e_heal_.pdf-0013-08.png)
+![](_temp_46bfa70e_convert__images/_temp_46bfa70e_convert_.pdf-0013-08.png)
 
 
 FIGURE 7 First‐principles analysis of O‐CA, ON‐CA, and ONB‐CA electrodes: side view of 3D differential charge density map for (A) O‐CA, (B) ON‐CA, and (C) ONB‐CA; DOS for (D) O‐CA, (E) ON‐CA, and (F) ONB‐CA adsorbed with K[+] . Diffusion path of K[+] in (G) O‐CA, ‐ ‐ (H) ON CA, and (I) ONB CA. The white, red, gray, and blue spheres, respectively, represent hydrogen, oxygen, carbon, and nitrogen atoms, while the yellow and blue regions correspond to an increase and decrease in electron density, respectively. 
@@ -363,7 +363,7 @@ FIGURE 7 First‐principles analysis of O‐CA, ON‐CA, and ONB‐CA electrodes
 XIE ET AL. 
 
 
-![](_images/Heteroatom tuning in agarose derived carbon aerogel forenhanced potassium ion_img/_temp_46bfa70e_heal_.pdf-0014-03.png)
+![](_temp_46bfa70e_convert__images/_temp_46bfa70e_convert_.pdf-0014-03.png)
 
 
 explore the adsorption mechanism of potassium ions on the surface of CA.[76] In Figure 7D–F, it can be observed that the electronic states of ON‐CA, and ONB‐CA near the Fermi level have increased, indicating that the doping of N and B in CA has enhanced the electron transfer rate, which effectively improves the adsorption and diffusion of K[+] on the material surface. The inherent DOS of CA in the figures is mainly divided into three parts: the section from −20 to −10 eV corresponds to the sp[2] hybridized CA with δ bond formation, the section from −10 to 0 eV corresponds to the π orbital of CA, and the section from 0 to –5 eV corresponds to the anti‐ π orbital of CA. However, ON‐CA exhibits the highest total density of states between −20 and −10 eV, indicating the most electronic contributions of the p and s orbitals of the K atom in ON‐CA. This is mainly due to the strong electronegativity of nitrogen and oxygen atoms and hydrophilic functional groups of hydroxyl and amino formed by them.[77] 
@@ -421,7 +421,7 @@ Yihui Zou http://orcid.org/0000-0003-1190-0752
 XIE ET AL. 
 
 
-![](_images/Heteroatom tuning in agarose derived carbon aerogel forenhanced potassium ion_img/_temp_46bfa70e_heal_.pdf-0015-03.png)
+![](_temp_46bfa70e_convert__images/_temp_46bfa70e_convert_.pdf-0015-03.png)
 
 
    - stretchable ionogel‐based supercapacitors. Energy Storage Mater. 2022;45:380‐388. 
@@ -503,7 +503,7 @@ conjugated covalent organic frameworks for high capacity and ultrastable potassi
 XIE ET AL. 
 
 
-![](_images/Heteroatom tuning in agarose derived carbon aerogel forenhanced potassium ion_img/_temp_46bfa70e_heal_.pdf-0016-03.png)
+![](_temp_46bfa70e_convert__images/_temp_46bfa70e_convert_.pdf-0016-03.png)
 
 
 50. Yu ZL, Xin S, You Y, et al. Ion‐catalyzed synthesis of microporous hard carbon embedded with expanded nanographite for enhanced lithium/sodium storage. J Am Chem Soc. 2016;138(45):14915‐14922. 

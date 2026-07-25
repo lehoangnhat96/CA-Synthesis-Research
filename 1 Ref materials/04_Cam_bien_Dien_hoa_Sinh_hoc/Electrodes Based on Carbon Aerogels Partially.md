@@ -1,11 +1,11 @@
 
-![](_images/Electrodes Based on Carbon Aerogels Partially_images/_temp_5170464c_convert_.pdf-0001-00.png)
+![](_temp_23c6a68d_convert__images/_temp_23c6a68d_convert_.pdf-0001-00.png)
 
 
 ## _**nanomaterials**_ 
 
 
-![](_images/Electrodes Based on Carbon Aerogels Partially_images/_temp_5170464c_convert_.pdf-0001-02.png)
+![](_temp_23c6a68d_convert__images/_temp_23c6a68d_convert_.pdf-0001-02.png)
 
 
 _Article_ 
@@ -81,11 +81,11 @@ XPS measurements of the carbon aerogels were performed using a Physical Electron
 Cyclic Voltammetry (CV) and Linear Sweep Voltammetry (LSV) experiments were conducted on a three-electrode cell controlled by a Biologic VMP multichannel potentiostat (Bio-Logic Spain, Barcelona, Spain). A Rotating Disk Electrode (RDE) Metrohm AUTOLAB RDE-2 with a 3 mm Glassy Carbon tip (Gomensoro S.A, Madrid, Spain) was used as a working electrode. 5 mg of electro-catalyst were suspended on 1 mL of a solution which contained Nafion (5%) and water in a 1:9 ( _v_ : _v_ ) ratio. Subsequently, 10 µL of this suspension were loaded on RDE tip and dried under an infrared lamp [14]. The glassy carbon electrode had been previously polished with 1, 0.3 and 0.05 µm alumina powder and sonicated in deionized water and ethanol. Ag/AgCl was chosen as a reference electrode and Pt-wire as a counter electrode. The three electrodes were immersed in a 0.1 M KOH (electrolyte) solution in water. The oxygen reduction reaction may occur by two different pathways: one implies 2 es _[−]_[transference] and the formation of peroxide species (Equation (1)) which could damage the electro-catalytic layer which is not desirable; the other leads only to the formation of hydroxide and it occurs by a 4 es _[−]_ (Equation (2)) which is the requested one. 
 
 
-![](_images/Electrodes Based on Carbon Aerogels Partially_images/_temp_5170464c_convert_.pdf-0003-10.png)
+![](_temp_23c6a68d_convert__images/_temp_23c6a68d_convert_.pdf-0003-10.png)
 
 
 
-![](_images/Electrodes Based on Carbon Aerogels Partially_images/_temp_5170464c_convert_.pdf-0003-11.png)
+![](_temp_23c6a68d_convert__images/_temp_23c6a68d_convert_.pdf-0003-11.png)
 
 
 CV experiments were carried out while N2 or O2 bubbled through the electrolyte solution during the measurements. The chosen potential window ranged from _−_ 0.8 to 0.4 V (at 5 mV _·_ s _[−]_[1] and 50 mV _·_ s _[−]_[1] ). LSV curves were obtained in O2-saturated 0.1 M KOH solutions at a different rotation 
@@ -97,11 +97,11 @@ _Nanomaterials_ **2018** , _8_ , 266
 speed and sweeping voltage, from 0.4 to _−_ 0.8 V (5 mV _·_ s _[−]_[1] ). Data were fitted to the Koutecky-Levich model (Equations (3) and (4)) in order to evaluate the electro-catalytic performance of the samples and the transferred electron number for each of them [14]. 
 
 
-![](_images/Electrodes Based on Carbon Aerogels Partially_images/_temp_5170464c_convert_.pdf-0004-03.png)
+![](_temp_23c6a68d_convert__images/_temp_23c6a68d_convert_.pdf-0004-03.png)
 
 
 
-![](_images/Electrodes Based on Carbon Aerogels Partially_images/_temp_5170464c_convert_.pdf-0004-04.png)
+![](_temp_23c6a68d_convert__images/_temp_23c6a68d_convert_.pdf-0004-04.png)
 
 
 where _j_ , current density; _jk_ , kinetic current density; _ω_ , rotation speed; _F_ , Faraday constant; _DO_ 2 , oxygen diffusion coefficient (1.9 _×_ 10 _[−]_[5] cm[2] _·_ s _[−]_[1] ); _ν_ , viscosity (0.01 cm[2] _·_ s _[−]_[1] ); _CO_ 2, oxygen concentration (1.2 _×_ 10 _[−]_[6] mol _·_ cm _[−]_[3] ). 
@@ -128,13 +128,13 @@ _Nanomaterials_ **2018** , _8_ , 266
 5 of 15 
 
 
-![](_images/Electrodes Based on Carbon Aerogels Partially_images/_temp_5170464c_convert_.pdf-0005-02.png)
+![](_temp_23c6a68d_convert__images/_temp_23c6a68d_convert_.pdf-0005-02.png)
 
 
 **Figure 1.** SEM microphotographs obtained at 100.00 KX of magnification of the samples ANi1, ANi6, ACo6 and AFe6. 
 
 
-![](_images/Electrodes Based on Carbon Aerogels Partially_images/_temp_5170464c_convert_.pdf-0005-04.png)
+![](_temp_23c6a68d_convert__images/_temp_23c6a68d_convert_.pdf-0005-04.png)
 
 
 **Figure 2.** HRTEM images of the samples ANi4, ACo6, ANi6 and AFe6. 
@@ -144,13 +144,13 @@ _Nanomaterials_ **2018** , _8_ , 266
 6 of 15 
 
 
-![](_images/Electrodes Based on Carbon Aerogels Partially_images/_temp_5170464c_convert_.pdf-0006-02.png)
+![](_temp_23c6a68d_convert__images/_temp_23c6a68d_convert_.pdf-0006-02.png)
 
 
 **Figure 3.** AEM spectra collected in STEM mode using a HAADF detector of the samples ANi1, ACo6, ANi6 and AFe6. 
 
 
-![](_images/Electrodes Based on Carbon Aerogels Partially_images/_temp_5170464c_convert_.pdf-0006-04.png)
+![](_temp_23c6a68d_convert__images/_temp_23c6a68d_convert_.pdf-0006-04.png)
 
 
 **Figure 4.** Particle size distributions obtained from HRTEM images. 
@@ -164,7 +164,7 @@ _Nanomaterials_ **2018** , _8_ , 266
 be detected; although the coincidence of this signal with the peak (101) of graphite makes both its assignation and resolution, difficult. 
 
 
-![](_images/Electrodes Based on Carbon Aerogels Partially_images/_temp_5170464c_convert_.pdf-0007-03.png)
+![](_temp_23c6a68d_convert__images/_temp_23c6a68d_convert_.pdf-0007-03.png)
 
 
 **Figure 5.** XRD patterns of aerogels ANi6, ACo6 and AFe6. 
@@ -172,7 +172,7 @@ be detected; although the coincidence of this signal with the peak (101) of grap
 Analyzing the XP spectra, the peaks corresponding with metal phases cannot be practically distinguished from the base line in the case of ANi1 and ANi4, this means that Ni concentration on the external surface of these samples can be considered negligible. Only Ni2p, Co2p and Fe2p spectra of aerogels with 6 wt % could be analyzed. Figure 6 shows in the Ni2p spectrum only one Ni2p3/2 signal at 853.3 eV which is assigned to Ni (II) [33]; its corresponding satellite peak can be clearly observed at 859.8 eV. In this line, only one Co2p3/2 signal is observed at 781.1 eV of BE together its corresponding satellite at 786.1 eV, which is also assigned to Co (II) species [33]. Finally, the Fe2p spectrum contains two species of iron at 710.7 and 712.7 eV being these signals assigned to Fe2O3 (76.5%) and Fe3O4 (23.5%), respectively [33]. 
 
 
-![](_images/Electrodes Based on Carbon Aerogels Partially_images/_temp_5170464c_convert_.pdf-0007-06.png)
+![](_temp_23c6a68d_convert__images/_temp_23c6a68d_convert_.pdf-0007-06.png)
 
 
 **Figure 6.** XP spectra of the doped carbon aerogels. 
@@ -184,7 +184,7 @@ _Nanomaterials_ **2018** , _8_ , 266
 Raman spectra show (Figure 7) two main peaks at 1340 and 1580 cm _[−]_[1] approx. which correspond to the D and G bands respectively [33]. In carbon aerogels, the D band can be associated with alternating ring vibrations in condensed benzene rings [34], while the G band can be associated with the development of the sp[2] carbon structure throughout the material during the carbonization process. It should be noted that carbon gels are normally amorphous carbon materials. Besides this, the intensity of the G band ( _I_ G) with respect to its D band ( _I_ D) is higher in the Ni doped aerogels than in the case of Fe or Co samples, and among the Ni samples this ratio _I_ G/ _I_ D is clearly higher in ANi6 and ANi4 than in ANi1 (Table 2). 
 
 
-![](_images/Electrodes Based on Carbon Aerogels Partially_images/_temp_5170464c_convert_.pdf-0008-03.png)
+![](_temp_23c6a68d_convert__images/_temp_23c6a68d_convert_.pdf-0008-03.png)
 
 
 **Figure 7.** Raman spectra of the doped carbon aerogels. 
@@ -211,7 +211,7 @@ _Nanomaterials_ **2018** , _8_ , 266
 as well as for AFe6 and ACo6 samples at 50 mV _·_ s _[−]_[1] for comparison. In all cases a peak corresponding to the oxygen reduction can be observed when the curve is obtained on the O2-saturated electrolyte. 
 
 
-![](_images/Electrodes Based on Carbon Aerogels Partially_images/_temp_5170464c_convert_.pdf-0009-03.png)
+![](_temp_23c6a68d_convert__images/_temp_23c6a68d_convert_.pdf-0009-03.png)
 
 
 **Figure 8.** Cyclic voltammetries on N2-saturated KOH 0.1 M (grey) and O2-saturated KOH 0.1 M (black). ( **a** ) 5 mV _·_ s _[−]_[1] ; ( **b** – **d** ) 50 mV _·_ s _[−]_[1] . 
@@ -233,19 +233,19 @@ _Nanomaterials_ **2018** , _8_ , 266
 10 of 15 
 
 
-![](_images/Electrodes Based on Carbon Aerogels Partially_images/_temp_5170464c_convert_.pdf-0010-02.png)
+![](_temp_23c6a68d_convert__images/_temp_23c6a68d_convert_.pdf-0010-02.png)
 
 
 **Figure 9.** ( **a** ) LSV for ANi6 at different RDE rotating speed. ( **b** ) Koutecky-Levich fits at different potentials: from _−_ 0.5 to _−_ 0.8 V. 
 
 
-![](_images/Electrodes Based on Carbon Aerogels Partially_images/_temp_5170464c_convert_.pdf-0010-04.png)
+![](_temp_23c6a68d_convert__images/_temp_23c6a68d_convert_.pdf-0010-04.png)
 
 
 **Figure 10.** ( **a** ) LSV curves at 2500 rpm, and ( **b** ) variation of _n_ with E vs. Ag/AgCl for samples ANi1 (�), ANi4 (□), ANi6 (�). 
 
 
-![](_images/Electrodes Based on Carbon Aerogels Partially_images/_temp_5170464c_convert_.pdf-0010-06.png)
+![](_temp_23c6a68d_convert__images/_temp_23c6a68d_convert_.pdf-0010-06.png)
 
 
 **Figure 11.** ( **a** ) LSV curves at 2500 rpm, and ( **b** ) variation of n with E vs. Ag/AgCl for samples AFe6 (∆), ACo6 ( _×_ ) and ANi6 (�). 
@@ -421,7 +421,7 @@ _Nanomaterials_ **2018** , _8_ , 266
 48. Goubert-Renaudin, S.N.S.; Wieckowski, A. Ni and/or Co nanoparticles as catalysts for oxygen reduction reaction (ORR) at room temperature. _J. Electroanal. Chem._ **2011** , _652_ , 44–51. [CrossRef] 
 
 
-![](_images/Electrodes Based on Carbon Aerogels Partially_images/_temp_5170464c_convert_.pdf-0015-11.png)
+![](_temp_23c6a68d_convert__images/_temp_23c6a68d_convert_.pdf-0015-11.png)
 
 
 - © 2018 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (http://creativecommons.org/licenses/by/4.0/). 

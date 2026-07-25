@@ -1,11 +1,11 @@
 _**nanomaterials**_ 
 
 
-![](_images/Recent Advanced Supercapacitor A Review of Storage Mechanisms Electrode Material_img/_temp_17826293_heal_.pdf-0001-01.png)
+![](_temp_17826293_convert__images/_temp_17826293_convert_.pdf-0001-01.png)
 
 
 
-![](_images/Recent Advanced Supercapacitor A Review of Storage Mechanisms Electrode Material_img/_temp_17826293_heal_.pdf-0001-02.png)
+![](_temp_17826293_convert__images/_temp_17826293_convert_.pdf-0001-02.png)
 
 
 ## _Review_ 
@@ -31,7 +31,7 @@ Received: 19 September 2022 Accepted: 19 October 2022 Published: 21 October 2022
 **Publisher’s Note:** MDPI stays neutral with regard to jurisdictional claims in published maps and institutional affiliations. 
 
 
-![](_images/Recent Advanced Supercapacitor A Review of Storage Mechanisms Electrode Material_img/_temp_17826293_heal_.pdf-0001-14.png)
+![](_temp_17826293_convert__images/_temp_17826293_convert_.pdf-0001-14.png)
 
 
 **Copyright:** © 2022 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https:// creativecommons.org/licenses/by/ 4.0/). 
@@ -55,7 +55,7 @@ systems include batteries, capacitors, and supercapacitors [5]. The three energy
 A supercapacitor is a promising energy storage device between a traditional physical capacitor and a battery. Based on the differences in energy storage models and structures, supercapacitors are generally divided into three categories: electrochemical double-layer capacitors (EDLCs), redox electrochemical capacitors (pseudocapacitors), and hybrid capacitors (Figure 1) [7]. Figure 1 summarizes the basic energy storage principles of supercapacitors with the classification as the basic framework and examines the research progress of electrode materials commonly used in recent years. 
 
 
-![](_images/Recent Advanced Supercapacitor A Review of Storage Mechanisms Electrode Material_img/_temp_17826293_heal_.pdf-0002-04.png)
+![](_temp_17826293_convert__images/_temp_17826293_convert_.pdf-0002-04.png)
 
 
 **----- Start of picture text -----**<br>
@@ -75,7 +75,7 @@ _Nanomaterials_ **2022** , _12_ , 3708
 constant voltage except when it is near 100% charged/discharged (TOC/EOD) (the GCD curve shows a relatively flat charge-discharge platform). 
 
 
-![](_images/Recent Advanced Supercapacitor A Review of Storage Mechanisms Electrode Material_img/_temp_17826293_heal_.pdf-0003-03.png)
+![](_temp_17826293_convert__images/_temp_17826293_convert_.pdf-0003-03.png)
 
 
 **----- Start of picture text -----**<br>
@@ -101,7 +101,7 @@ It briefly explains the latest research with potential research gaps and the typ
 SCs are similar in their structure to conventional dielectric capacitors, except that instead of metal, porous electrodes coated with electrolytes to make them more effective, a suitable electrolyte material is used instead of a suitable dielectric to make them suitable for ion channeling. According to different energy storage mechanisms, supercapacitors can generally be divided into EDLCs and pseudocapacitors (Figure 3) [11]. 
 
 
-![](_images/Recent Advanced Supercapacitor A Review of Storage Mechanisms Electrode Material_img/_temp_17826293_heal_.pdf-0004-05.png)
+![](_temp_17826293_convert__images/_temp_17826293_convert_.pdf-0004-05.png)
 
 
 **----- Start of picture text -----**<br>
@@ -153,7 +153,7 @@ _Nanomaterials_ **2022** , _12_ , 3708
 7 of 36 
 
 
-![](_images/Recent Advanced Supercapacitor A Review of Storage Mechanisms Electrode Material_img/_temp_17826293_heal_.pdf-0007-02.png)
+![](_temp_17826293_convert__images/_temp_17826293_convert_.pdf-0007-02.png)
 
 
 **----- Start of picture text -----**<br>
@@ -187,7 +187,7 @@ _Nanomaterials_ **2022** , _12_ , 3708
 high theoretical capacitance (area) of up to 550 F g _[−]_[1] , and conducts electricity very well; these characteristics make it a good candidate for supercapacitors. Graphene electrodes that are less stacked have higher disorder, and plenty of available defect sites (edge planes) help enhance the capacitance of graphene supercapacitors. It is possible that graphene can be destacked, or at least stacked into a single sheet, but keeping them unstacked while assembling a device and applying the device is difficult. Gao et al. [43] synthesized an oriented three-dimensional graphene framework (3DGF) that resembles paper but with oriented surfaces, macropores, and interconnected parts created using hard template-directed ordered assembly. 3DGF shows a high specific surface area of 402.5 m[2] /g, which allows one to determine the number of pores, and is mechanically flexible for application as a supercapacitor electrode. The synthesis approach provides controlled pore size and the homogeneous laminar structure of polystyrene microspheres, which provides an efficient way to produce 3DGF with a high degree of control over the pore size and orientation (Figure 5). It has a high specific capacitance of 95 F/g at 0.5 A/g, allowing an enhanced rate capability. Yan et al. [44] developed graphene nanospheres (GNS) by combining template separation with microwave heating and graphitizing carbon layer to form hollow graphene nanospheres. Advancements in synthesized graphene helped to maximize performance further. GNS materials with a specific surface area of 2794 m[2] g _[−]_[1] can deliver capacitances higher than 529 F g _[−]_[1] at 1 A g _[−]_[1] and have capacitance retention of 62.5% in a continuous power supply. The graphene was developed with widened interlayer spacing, defects, and connected graphene bridges, which helped the electrodes deliver superior electrochemical performances [45]. Wen et al. [46] designed MXene-based composite films with different graphene content that were successfully printed onto a thin graphene film using inkjet printing. Graphene composite electrodes retain the excellent conductivity of the matrix itself, but they also exhibit large interlayer spacing, which reduces the transport path of electrolytes to get to the electrodes. The self-stacking effect of MXene is improved by incorporating graphene nanosheets into MXene structures. It is possible to achieve a very high capacitance of 183.5 F cm _[−]_[3] , and a supercapacitor assembled using those electrodes achieves an outstanding energy density of 0.53 MWhcm _[−]_[2] . To prevent the stacking effect that graphene sheets may have when stacked on top of each other, spacers such as metal oxides and conductive materials are inserted between the two layers of graphene to make them more accessible to electrolytes and other electroactive sites. 
 
 
-![](_images/Recent Advanced Supercapacitor A Review of Storage Mechanisms Electrode Material_img/_temp_17826293_heal_.pdf-0009-03.png)
+![](_temp_17826293_convert__images/_temp_17826293_convert_.pdf-0009-03.png)
 
 
 **----- Start of picture text -----**<br>
@@ -247,7 +247,7 @@ particles exhibited high specific capacitance of ion 152 Fg _[−]_[1] due to hi
 Generally, when microporousness is very high, it is difficult to pass electrolyte ions, resulting in excessive internal resistance. On the other hand, the very high macroporosity contributes to the small specific surface area and small specific capacity; thus, the pore size distribution directly affects the electrochemical performance of the material. Ordered mesoporous carbon (OMC) is a type of carbon material with a high specific surface area and porosity. The size of the pores can be adjusted within a certain range, and the mesopores have various shapes. Ordered mesoporous carbon (OMC) is a type of carbon material with a high specific surface area and a high porosity. The size of the pores can be adjusted within a certain range, and the mesopores have various shapes. These mesopores facilitate the ~~rapid and large-scale transport of ions (Figure 6).~~ 
 
 
-![](_images/Recent Advanced Supercapacitor A Review of Storage Mechanisms Electrode Material_img/_temp_17826293_heal_.pdf-0013-04.png)
+![](_temp_17826293_convert__images/_temp_17826293_convert_.pdf-0013-04.png)
 
 
 **----- Start of picture text -----**<br>
@@ -267,7 +267,7 @@ addition, the specific capacitance of EDLCs is related to the mesoporous surface
 A type of hierarchical porous carbon-containing micropores, mesopores, and macropores has been extensively studied. As shown in Figure 7, the carbon contains pores of different sizes, and many pore structures are interconnected and assembled in a hierarchical form. As mentioned previously, the presence of micropores provides a large surface area for enhanced charge storage capability. On the other hand, mesopores, macropores, and hierarchical structures can improve electrolyte penetration and promote ion diffusion. The capacitance of carbon-based supercapacitor electrodes is generally maintained between 100 and 200 F g _[−]_[1] , whereas the capacitance of graded porous carbon-based supercapacitor electrodes exceeds 300 F g _[−]_[1] . 
 
 
-![](_images/Recent Advanced Supercapacitor A Review of Storage Mechanisms Electrode Material_img/_temp_17826293_heal_.pdf-0014-04.png)
+![](_temp_17826293_convert__images/_temp_17826293_convert_.pdf-0014-04.png)
 
 
 **Figure 7.** SEM images of ( **a** ) pore structure of hierarchical porous carbon (HPC-1) ( **b** ) foam-like pore structure of hierarchical porous carbon (HPC-2), ( **c** ) layered structure of hierarchical porous carbon (HPC3), ( **d** , **e** ) TEM images of HPC-3 ( **f** ) The plot of the Gravimetric specific capacitances of HPCs at different current densities. Reproduced with permission [138] Copyright © 2022, Journal of Energy Storage. 
@@ -295,7 +295,7 @@ _Nanomaterials_ **2022** , _12_ , 3708
 16 of 36 
 
 
-![](_images/Recent Advanced Supercapacitor A Review of Storage Mechanisms Electrode Material_img/_temp_17826293_heal_.pdf-0016-02.png)
+![](_temp_17826293_convert__images/_temp_17826293_convert_.pdf-0016-02.png)
 
 
 **----- Start of picture text -----**<br>
@@ -303,7 +303,7 @@ _Nanomaterials_ **2022** , _12_ , 3708
 
 
 
-![](_images/Recent Advanced Supercapacitor A Review of Storage Mechanisms Electrode Material_img/_temp_17826293_heal_.pdf-0016-03.png)
+![](_temp_17826293_convert__images/_temp_17826293_convert_.pdf-0016-03.png)
 
 
 **----- Start of picture text -----**<br>
@@ -327,7 +327,7 @@ using the polycondensation reaction of resorcinol and formaldehyde as the raw ma
 As mentioned earlier, the ideal electrode material should have a hierarchical porous structure with large pores for ion buffer pools, mesopores for ion transport, and micropores for enhanced charge storage. Therefore, the porous carbon structure of a carbon aerogel should preferably have multiscale pores. Liu et al. [131] fabricated multifunctional supercapacitors using nanocellulose-based composite carbon aerogels (Figure 9). The manufactured nanocellulose-based carbon aerogels. Provides high compressibility and excellent fatigue resistance due to its high capacitance of 109.4 mF cm _[−]_[2] at 0.4 mA cm _[−]_[2] and its porous structure. The porosity of the honeycomb structure efficiently transferred stress to the entire microstructure and contributed to rapid ion transport. Because of these characteristics, 85% of the capacitance was maintained even after 10,000 cycles. The carbon aerogels produced through this process are supercapacitor electrodes with excellent mechanical flexibility and linear sensitivity, which can be widely applied to wearable devices. 
 
 
-![](_images/Recent Advanced Supercapacitor A Review of Storage Mechanisms Electrode Material_img/_temp_17826293_heal_.pdf-0017-04.png)
+![](_temp_17826293_convert__images/_temp_17826293_convert_.pdf-0017-04.png)
 
 
 **Figure 9.** ( **a** ) Illustration for CNF/CNT/RGO carbon aerogels fabrication. ( **b** ) The schematic diagram of the interaction between CNF, CNT, and RGO. ( **c** ) Schematic diagram of ice crystal growth mechanism. ( **d** – **f** ) Top-view and ( **g** ) side-view SEM images of CNF/CNT/RGO-3 carbon aerogel. ( **h** ) CV curves of CNF/CNT/RGO-2, CNF/CNT/RGO-3, and CNF/CNT/RGO-4 at 2 mVs _[−]_[1] . ( **i** ) GCD curves of CNF/CNT/RGO-3 carbon aerogel. Reproduced with permission [162] Copyright © 2022, Advanced Functional Materials. 
@@ -470,7 +470,7 @@ _Nanomaterials_ **2022** , _12_ , 3708
 23 of 36 
 
 
-![](_images/Recent Advanced Supercapacitor A Review of Storage Mechanisms Electrode Material_img/_temp_17826293_heal_.pdf-0023-02.png)
+![](_temp_17826293_convert__images/_temp_17826293_convert_.pdf-0023-02.png)
 
 
 **----- Start of picture text -----**<br>
@@ -504,7 +504,7 @@ _Nanomaterials_ **2022** , _12_ , 3708
 describes the possibilities for the enhancement of supercapacitor performance. The second section contains the required strategies for achieving it. The third section contains supercapacitor enhancement challenges. The third section contains a detailed analysis of the challenges associated with enhancing supercapacitors. The goal is to identify areas where improvement is needed to make these devices more efficient and effective. Additionally, this section provides potential solutions to address these challenges. 
 
 
-![](_images/Recent Advanced Supercapacitor A Review of Storage Mechanisms Electrode Material_img/_temp_17826293_heal_.pdf-0025-03.png)
+![](_temp_17826293_convert__images/_temp_17826293_convert_.pdf-0025-03.png)
 
 
 **----- Start of picture text -----**<br>
@@ -534,7 +534,7 @@ _Nanomaterials_ **2022** , _12_ , 3708
 26 of 36 
 
 
-![](_images/Recent Advanced Supercapacitor A Review of Storage Mechanisms Electrode Material_img/_temp_17826293_heal_.pdf-0026-02.png)
+![](_temp_17826293_convert__images/_temp_17826293_convert_.pdf-0026-02.png)
 
 
 **Figure 12.** A Ragone plot of the specific energy and power densities of various energy storage devices. Reproduced with permission [7] Copyright © 2022, Energy & Environmental Science. 
@@ -542,7 +542,7 @@ _Nanomaterials_ **2022** , _12_ , 3708
 Supercapacitors are a promising technology for energy storage, but the electrode materials and electrolytes limit their performance. In addition, the energy density of supercapacitors is still much lower than that of batteries. This is due to the limited specific capacitance of electrode materials and the low solubility of electrolytes in the organic solvent. One way to optimize supercapacitor performance is carefully selecting the materials used for the electrodes and electrolytes. High-performance devices can be achieved by optimizing electrode materials and electrolytes. (Figure 13). In this section, we will discuss how to optimize electrode materials and electrolytes in order to improve the energy density of supercapacitors. 
 
 
-![](_images/Recent Advanced Supercapacitor A Review of Storage Mechanisms Electrode Material_img/_temp_17826293_heal_.pdf-0026-05.png)
+![](_temp_17826293_convert__images/_temp_17826293_convert_.pdf-0026-05.png)
 
 
 **----- Start of picture text -----**<br>
@@ -568,7 +568,7 @@ _Nanomaterials_ **2022** , _12_ , 3708
 Supercapacitors are effective energy storage devices in many industries and fields. The massive market will provide limitless prospects for the development of supercapacitors. However, there is still tremendous room for advancement in these beneficial energy storage technologies. Driving electric vehicles and wearing smart clothing are becoming increasingly trendy. As a result, it is important to broaden the application range of supercapacitors, lower costs, and boost energy density. However, there are still issues with some electrode materials that affect the performance and cost of supercapacitors. Figure 14 presents an overview of the state of efforts to obtain high-performance and highly applicable supercapacitor devices. 
 
 
-![](_images/Recent Advanced Supercapacitor A Review of Storage Mechanisms Electrode Material_img/_temp_17826293_heal_.pdf-0027-06.png)
+![](_temp_17826293_convert__images/_temp_17826293_convert_.pdf-0027-06.png)
 
 
 **Figure 14.** Schematic of several current challenges and future solutions to obtaining highly applicable supercapacitor devices. 

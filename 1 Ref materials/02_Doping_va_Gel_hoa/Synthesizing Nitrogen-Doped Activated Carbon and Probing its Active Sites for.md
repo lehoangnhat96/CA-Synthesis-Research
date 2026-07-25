@@ -3,7 +3,7 @@ Research Article
 www.acsami.org 
 
 
-![](_images/Synthesizing Nitrogen-Doped Activated Carbon and Probing its Active Sites for_images/_temp_68f53a0e_convert_.pdf-0001-02.png)
+![](_temp_f3f4f54c_convert__images/_temp_f3f4f54c_convert_.pdf-0001-02.png)
 
 
 ## Synthesizing Nitrogen-Doped Activated Carbon and Probing its Active Sites for Oxygen Reduction Reaction in Microbial Fuel Cells 
@@ -19,7 +19,7 @@ www.acsami.org
 ABSTRACT: Cost-effective cathode catalysts are critical to the development of microbial fuel cell (MFC) technology. Herein, a synthesis route is presented to improve the nitrogen content and nitrogen functionality in the nitrogen-doped activated carbon (AC) as a low cost and efficient catalyst for oxygen reduction reaction (ORR). It was demonstrated that key factors for successful nitrogen doping were the proper pretreatment with acidic and alkaline solutions consecutively and the use of a solidstate nitrogen precursor. The AC pretreated with both acidic and alkaline solutions resulted in a nitrogen content of 8.65% (atom %) (in which 5.56% is pyridinic-N) on its surface, and exhibited an outstanding electrocatalytic activity for ORR in both electrochemical and MFC tests. A good agreement between pyridinic-N content and ORR activity was observed, indicating 
 
 
-![](_images/Synthesizing Nitrogen-Doped Activated Carbon and Probing its Active Sites for_images/_temp_68f53a0e_convert_.pdf-0001-09.png)
+![](_temp_f3f4f54c_convert__images/_temp_f3f4f54c_convert_.pdf-0001-09.png)
 
 
 that pyridinic-N is the most active site for ORR in the nitrogen-doped AC. The pretreated nitrogen-doped AC catalysts resulted in a higher maximum power density than the untreated AC and the commercial Pt/C (10% Pt) catalysts. The exceptional performance associated with the advantages, such as simple and convenient preparation procedure, easily obtained raw materials, and low cost, makes the pretreated nitrogen-doped AC promising for the ongoing effort to scale up MFCs. KEYWORDS: nitrogen-doping, activated carbon, oxygen reduction reaction, microbial fuel cell, bioenergy 
@@ -85,7 +85,7 @@ The MFC performance was monitored and examined by using polarization tests and c
 Synthesis and Characterization of the AC Catalysts. The procedure for preparing the acidic/basic-ACN was demonstrated in Figure 1. The synthesis starts from the 
 
 
-![](_images/Synthesizing Nitrogen-Doped Activated Carbon and Probing its Active Sites for_images/_temp_68f53a0e_convert_.pdf-0003-07.png)
+![](_temp_f3f4f54c_convert__images/_temp_f3f4f54c_convert_.pdf-0003-07.png)
 
 
 Figure 1. Schematic illustration for fabricating the acidic/basic-ACN. 
@@ -101,7 +101,7 @@ There has been an argument about the contribution of micropore area on ORR catal
 The XPS spectra of the ACN, the acidic-ACN and the acidic/ basic-ACN catalysts are presented in Figure 3 and Figure S3 in the Supporting Information. According to the XPS spectra, the surface nitrogen contents of the three catalysts are: 4.2% for the ACN, 6.0% for the acidic-ACN, and 8.7% for the acidic/basicACN (Table 1), significantly higher than those (around 2%) in two prior studies of the nitrogen-doped activated carbon[15] and nitrogen-doped carbon black[22] as a cathode catalyst in MFCs. The acidic pretreatment increased the nitrogen content by 45% (the ACN vs the acidic-ACN), and the combined acidic and basic pretreatment further improved the nitrogen content by 
 
 
-![](_images/Synthesizing Nitrogen-Doped Activated Carbon and Probing its Active Sites for_images/_temp_68f53a0e_convert_.pdf-0003-14.png)
+![](_temp_f3f4f54c_convert__images/_temp_f3f4f54c_convert_.pdf-0003-14.png)
 
 
 Figure 2. (a) Zero-energy loss bright-field image of the acidic/basic-ACN, (b) the corresponding carbon element mapping, and (c) the nitrogen element mapping. 
@@ -115,7 +115,7 @@ ACS Applied Materials & Interfaces
 Research Article 
 
 
-![](_images/Synthesizing Nitrogen-Doped Activated Carbon and Probing its Active Sites for_images/_temp_68f53a0e_convert_.pdf-0004-02.png)
+![](_temp_f3f4f54c_convert__images/_temp_f3f4f54c_convert_.pdf-0004-02.png)
 
 
 Figure 3. N 1s spectra of (a) the ACN, (b) the acidic-ACN, and (c) the acidic/basic-ACN. 
@@ -129,7 +129,7 @@ The successful nitrogen doping of AC in this study relied on two key factors: (1
 Electrochemical Performance. The results of the LSV tests of the AC, the ACN, the acidic-ACN, the acidic/basic-ACN, and the Pt/C are presented in Figure 4 and Figure S4 in the 
 
 
-![](_images/Synthesizing Nitrogen-Doped Activated Carbon and Probing its Active Sites for_images/_temp_68f53a0e_convert_.pdf-0004-08.png)
+![](_temp_f3f4f54c_convert__images/_temp_f3f4f54c_convert_.pdf-0004-08.png)
 
 
 Figure 4. Linear sweep voltammetry of the AC catalysts and the Pt/C at 1600 rpm. 
@@ -168,7 +168,7 @@ The deconvoluted N 1s spectra of three nitrogen-doped AC showed distinct differe
 were not found for the pyrrolic-N or quaternary-N (Figure 5). These results suggested that the pyridinic-N might be the most 
 
 
-![](_images/Synthesizing Nitrogen-Doped Activated Carbon and Probing its Active Sites for_images/_temp_68f53a0e_convert_.pdf-0005-08.png)
+![](_temp_f3f4f54c_convert__images/_temp_f3f4f54c_convert_.pdf-0005-08.png)
 
 
 Figure 5. Correlations between different N functionalities and ORR catalytic activity: (a) pyridinic-N, (b) pyrrolic-N, and (c) quaternaryN. 
@@ -186,7 +186,7 @@ ACS Applied Materials & Interfaces
 Research Article 
 
 
-![](_images/Synthesizing Nitrogen-Doped Activated Carbon and Probing its Active Sites for_images/_temp_68f53a0e_convert_.pdf-0006-02.png)
+![](_temp_f3f4f54c_convert__images/_temp_f3f4f54c_convert_.pdf-0006-02.png)
 
 
 Figure 6. Maximum power densities of the MFCs with different cathode catalysts. 
@@ -194,7 +194,7 @@ Figure 6. Maximum power densities of the MFCs with different cathode catalysts.
 for the AC cathodes are compared in Figure.7; it should be noted that those batch current profiles were obtained with a 
 
 
-![](_images/Synthesizing Nitrogen-Doped Activated Carbon and Probing its Active Sites for_images/_temp_68f53a0e_convert_.pdf-0006-05.png)
+![](_temp_f3f4f54c_convert__images/_temp_f3f4f54c_convert_.pdf-0006-05.png)
 
 
 Figure 7. Profile of the current generation in the MFCs with different AC catalysts. 

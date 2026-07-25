@@ -1,0 +1,18 @@
+1528: 
+1529: - Liên kết hydro liên phân tử (Inter-chain H-bonds): Giữa các chuỗi song
+1530:   song xếp chồng lên nhau tạo thành các bó microfibril tinh khiết \[48,
+1531:   49\].
+1532: 
+1533: #### 2.4.1.2. Cơ chế hòa tan và phá vỡ liên kết hydro
+1534: 
+1535: Hệ dung môi NH4OH/Urea hòa tan cellulose thông qua cơ chế solvat hóa và
+1536: phá vỡ liên kết hydro nội phân tử (cơ chế tương tự từ hệ NaOH/urea)
+1537: \[23, 6, 24, 25\]. Tốc độ và hướng làm lạnh (từ dưới lên trên hoặc đẳng
+1538: hướng) sẽ quyết định hình dáng của lỗ xốp. Trong quá trình cấp đông âm
+1539: sâu (cryo-gelation), sự phát triển của các tinh thể đá (ice-templating)
+1540: tạo lực chèn ép cơ học lên các chuỗi polymer, ép dung môi ra ngoài và
+1541: định hình sự tái tổ hợp của các chuỗi xenlulozo thành mạng lưới hydrogel
+1542: 3D xốp phân cấp (hierarchical macropores) vững chắc. Khi băng thăng hoa,
+1543: nó để lại một mạng lưới các rãnh xốp vĩ mô (macropores) đan xen
+1544: (interconnected pathways), rất lý tưởng cho sự khuếch tán của các ion
+1545: kim loại nặng đi vào bên trong điện cực \[50, 51\].

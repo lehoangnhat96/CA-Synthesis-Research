@@ -1,7 +1,7 @@
 Electrochemistry Communications 51 (2015) 6–10 
 
 
-![](_images/Self-supported bimodal-pore structured nitrogen-doped carbon fiber_images/_temp_151fab1d_convert_.pdf-0001-01.png)
+![](_temp_2159f6f6_convert__images/_temp_2159f6f6_convert_.pdf-0001-01.png)
 
 
 Contents lists available at ScienceDirect 
@@ -11,7 +11,7 @@ Contents lists available at ScienceDirect
 journal homepage: www.elsevier.com/locate/elecom 
 
 
-![](_images/Self-supported bimodal-pore structured nitrogen-doped carbon fiber_images/_temp_151fab1d_convert_.pdf-0001-05.png)
+![](_temp_2159f6f6_convert__images/_temp_2159f6f6_convert_.pdf-0001-05.png)
 
 
 ## Short communication 
@@ -19,7 +19,7 @@ journal homepage: www.elsevier.com/locate/elecom
 ## Self-supported bimodal-pore structured nitrogen-doped carbon fiber aerogel as electrocatalyst for oxygen reduction reaction 
 
 
-![](_images/Self-supported bimodal-pore structured nitrogen-doped carbon fiber_images/_temp_151fab1d_convert_.pdf-0001-08.png)
+![](_temp_2159f6f6_convert__images/_temp_2159f6f6_convert_.pdf-0001-08.png)
 
 
 ## Yibing Li[a] , Haimin Zhang[a][,] ⁎, Porun Liu[a] , Yun Wang[a] , Huagui Yang[a] , Ying Li[c] , Huijun Zhao[a][,][b][,] ⁎⁎ 
@@ -61,7 +61,7 @@ Y. Li et al. / Electrochemistry Communications 51 (2015) 6–10
 7 
 
 
-![](_images/Self-supported bimodal-pore structured nitrogen-doped carbon fiber_images/_temp_151fab1d_convert_.pdf-0002-02.png)
+![](_temp_2159f6f6_convert__images/_temp_2159f6f6_convert_.pdf-0002-02.png)
 
 
 **----- Start of picture text -----**<br>
@@ -69,7 +69,7 @@ a b<br>c<br>d e<br>f g<br>**----- End of picture text -----**<br>
 
 
 
-![](_images/Self-supported bimodal-pore structured nitrogen-doped carbon fiber_images/_temp_151fab1d_convert_.pdf-0002-03.png)
+![](_temp_2159f6f6_convert__images/_temp_2159f6f6_convert_.pdf-0002-03.png)
 
 
 Fig. 1. (a) Fabrication procedure of the N-doped aerogel fiber from prawn shells. (b) and (c) SEM images of chitin aerogel before and after calcination at 900 °C under Ar protection, respectively. (d) XPS survey spectrum of Chitin-900. (e) Core-level N1s XPS of Chitin-900. (f) FT-IR spectrum of chitin and Chitin-900. (g) BET curve and pore size distribution (inset) of Chitin-900. 
@@ -99,11 +99,11 @@ Pre-treatment of the glassy carbon (GC) electrode can be found in our previously
 Electrochemical measurements were performed using a computercontrolled potentiostat (CHI 760D, CH Instrument, USA) with a typical three-electrode cell, incorporating a working GC rotating disk electrode (RDE, 5.0 mm in diameter) for the examination in the cyclic voltammograms (CVs) and linear sweep voltammograms (LSVs), an Ag/AgCl, KCl (3 M) electrode as reference electrode, and a Pt electrode as counter electrode. The CV experiments were conducted in O2-saturated 0.1 M KOH solution for ORR with a scan rate of 100 mV s[−][1] from −1.2 to +0.2 V at room temperature. LSV measurements were performed on RDE in the oxygen-saturated 0.1 M KOH solution at different rotation rates with a scan rate of 10 mV s[−][1] . The exact electron transfer number (n) was analyzed on the basis of Koutecky–Levich (K–L) equations shown in Eqs. (1)–(3) [6,11]. 
 
 
-![](_images/Self-supported bimodal-pore structured nitrogen-doped carbon fiber_images/_temp_151fab1d_convert_.pdf-0003-06.png)
+![](_temp_2159f6f6_convert__images/_temp_2159f6f6_convert_.pdf-0003-06.png)
 
 
 
-![](_images/Self-supported bimodal-pore structured nitrogen-doped carbon fiber_images/_temp_151fab1d_convert_.pdf-0003-07.png)
+![](_temp_2159f6f6_convert__images/_temp_2159f6f6_convert_.pdf-0003-07.png)
 
 
 where J is the measured current density, JK and JL are the kinetic and diffusion limiting current densities, ω is the angular velocity of the disk (ω = 2πN, N is the linear rotation speed), and n is the overall number of electrons transferred in oxygen reduction. According to Eqs. (1) and (2), the number n and JK can be obtained from the slope and intercept of the Koutecky–Levich plots, respectively. F is the Faraday constant (F = 96,485 C mol[−][1] ), C0 is the bulk concentration of O2 (C0 = 1.2 × 10[−][3] mol L[−][1] ), ν is the kinematic viscosity of the electrolyte (ν = 0.1 m[2] s[−][1] in 0.1 M KOH), and k is the electron transfer rate constant. D0 is the diffusion coefficient of O2 in 0.1 M KOH (D0 = 1.9 × 10[−][5] cm s[−][1] ). The constant 0.2 is adopted when the rotating speed is expressed in rpm. 
@@ -123,7 +123,7 @@ Y. Li et al. / Electrochemistry Communications 51 (2015) 6–10
 9 
 
 
-![](_images/Self-supported bimodal-pore structured nitrogen-doped carbon fiber_images/_temp_151fab1d_convert_.pdf-0004-02.png)
+![](_temp_2159f6f6_convert__images/_temp_2159f6f6_convert_.pdf-0004-02.png)
 
 
 **----- Start of picture text -----**<br>

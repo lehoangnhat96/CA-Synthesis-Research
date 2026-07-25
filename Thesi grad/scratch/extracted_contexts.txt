@@ -1,0 +1,246 @@
+=========================================
+KEYWORD: FTIR (Found 6 times)
+=========================================
+[Paragraph index 101]:
+[3.1. Lý thuyết Điện hóa Phân tích và Đặc trưng Vật liệu
+[50](#lý-thuyết-điện-hóa-phân-tích-và-đặc-trưng-vật-liệu)](#lý-thuyết-điện-hóa-phân-tích-và-đặc-trưng-vật-liệu)
+
+[3.1.1. Dự kiến diễn giải phổ FTIR
+[50](#dự-kiến-diễn-giải-phổ-ftir)](#dự-kiến-diễn-giải-phổ-ftir)
+
+[3.1.2. Lý thuyết CV và phép đo baseline probe
+[51](#lý-thuyết-cv-và-phép-đo-baseline-probe)](#lý-thuyết-cv-và-phép-đo-baseline-probe)
+
+[Paragraph index 130]:
+[Bảng 3.1. Dự kiến kết quả, Phương pháp kiểm chứng và Xử lý rủi ro
+[50](#bảng-3.1.-dự-kiến-kết-quả-phương-pháp-kiểm-chứng-và-xử-lý-rủi-ro)](#bảng-3.1.-dự-kiến-kết-quả-phương-pháp-kiểm-chứng-và-xử-lý-rủi-ro)
+
+[Bảng 3.2. Diễn giải phổ FTIR dự kiến sau xử lý kiềm
+[51](#bảng-3.2.-diễn-giải-phổ-ftir-dự-kiến-sau-xử-lý-kiềm)](#bảng-3.2.-diễn-giải-phổ-ftir-dự-kiến-sau-xử-lý-kiềm)
+
+[Bảng 3.3. Dự kiến thẩm định quy trình phân tích Pb²⁺, Cd²⁺, Zn²⁺
+[57](#bảng-3.3.-dự-kiến-thẩm-định-quy-trình-phân-tích-pb²-cd²-zn²)](#bảng-3.3.-dự-kiến-thẩm-định-quy-trình-phân-tích-pb²-cd²-zn²)
+
+[Paragraph index 162]:
+      BET     Brunauer-Emmett-Teller (Phương pháp đo diện tích bề mặt
+              riêng)
+
+     FTIR     Fourier-transform Infrared Spectroscopy (Quang phổ hồng
+              ngoại biến đổi Fourier)
+
+      XPS     X-ray Photoelectron Spectroscopy (Quang phổ điện tử quang
+              tia X)
+
+=========================================
+KEYWORD: Cellulose III (Found 9 times)
+=========================================
+[Paragraph index 142]:
+[Hình 2.4. Sơ đồ minh họa cơ chế phá vỡ liên kết hydro và solvat hóa
+chuỗi Cellulose bằng phức hợp Amoniac - Urea
+[32](#hình-2.4.-sơ-đồ-minh-họa-cơ-chế-phá-vỡ-liên-kết-hydro-và-solvat-hóa-chuỗi-cellulose-bằng-phức-hợp-amoniac---urea)](#hình-2.4.-sơ-đồ-minh-họa-cơ-chế-phá-vỡ-liên-kết-hydro-và-solvat-hóa-chuỗi-cellulose-bằng-phức-hợp-amoniac---urea)
+
+[Hình 2.5. Sơ đồ minh họa cấu trúc mạng tinh thể Cellulose I và
+Cellulose III
+[34](#hình-2.5.-sơ-đồ-minh-họa-cấu-trúc-mạng-tinh-thể-cellulose-i-và-cellulose-iii)](#hình-2.5.-sơ-đồ-minh-họa-cấu-trúc-mạng-tinh-thể-cellulose-i-và-cellulose-iii)
+
+[Hình 2.6. Sơ đồ cơ chế keo tụ của Cellulose trong dung môi bằng
+non-solvent
+[35](#hình-2.6.-sơ-đồ-cơ-chế-keo-tụ-của-cellulose-trong-dung-môi-bằng-non-solvent)](#hình-2.6.-sơ-đồ-cơ-chế-keo-tụ-của-cellulose-trong-dung-môi-bằng-non-solvent)
+
+[Paragraph index 254]:
+Quá trình hòa tan là phản ứng tỏa nhiệt (ΔH \< 0) và giảm entropy (ΔS \<
+0) --- được Cai và Zhang xác nhận bằng phân tích nhiệt lượng quét vi sai
+(DSC) \[33\] --- do đó sol chỉ ổn định và đồng nhất ở nhiệt độ ≤ 10°C
+(tối ưu 0 - 5°C).
+
+Hiệu ứng tích tụ đông (Cryo-concentration) và tổ chức Cellulose III: Khi
+cấp đông sol ở nhiệt độ -5°C/24h \[7\], \[24\], nước kết tinh đá tinh
+khiết dồn ép cellulose và urea vào các kênh lỏng siêu hẹp chưa đông.
+Dưới lực ép tinh thể đá ở cự ly tiếp xúc phân tử cực ngắn (\< 0.3 nm),
+kén urea bị phá vỡ, các nhóm hydroxyl tự do liên kết chéo trực tiếp vật
+lý với nhau, giả thuyết chuyển dịch cấu hình tinh thể sang dạng
+Cellulose III (cần bổ sung XRD), định hình khung gel 3D tổ ong.
+
+Cơ chế 2 bước này khớp với kết quả phân tích synchrotron XRD trên hệ
+NaOH/urea cổ điển, cho thấy các vòng glucopyranoside xếp chồng nhờ tương
+tác kỵ nước tạo tấm đơn phân tử, sau đó liên kết chéo qua liên kết hydro
+hình thành tinh thể Na-cellulose IV (dạng hydrat của Cellulose II) khi
+gel hóa lạnh --- trái với gel hóa nhiệt cho tín hiệu tinh thể rất yếu.
+Do hệ dung môi của đề tài dùng NH~4~OH thay NaOH, sản phẩm tinh thể cuối
+cùng (Cellulose III hay Na-cellulose IV) cần được xác nhận thực nghiệm
+bằng XRD \[34\].
+
+[Paragraph index 255]:
+Hiệu ứng tích tụ đông (Cryo-concentration) và tổ chức Cellulose III: Khi
+cấp đông sol ở nhiệt độ -5°C/24h \[7\], \[24\], nước kết tinh đá tinh
+khiết dồn ép cellulose và urea vào các kênh lỏng siêu hẹp chưa đông.
+Dưới lực ép tinh thể đá ở cự ly tiếp xúc phân tử cực ngắn (\< 0.3 nm),
+kén urea bị phá vỡ, các nhóm hydroxyl tự do liên kết chéo trực tiếp vật
+lý với nhau, giả thuyết chuyển dịch cấu hình tinh thể sang dạng
+Cellulose III (cần bổ sung XRD), định hình khung gel 3D tổ ong.
+
+Cơ chế 2 bước này khớp với kết quả phân tích synchrotron XRD trên hệ
+NaOH/urea cổ điển, cho thấy các vòng glucopyranoside xếp chồng nhờ tương
+tác kỵ nước tạo tấm đơn phân tử, sau đó liên kết chéo qua liên kết hydro
+hình thành tinh thể Na-cellulose IV (dạng hydrat của Cellulose II) khi
+gel hóa lạnh --- trái với gel hóa nhiệt cho tín hiệu tinh thể rất yếu.
+Do hệ dung môi của đề tài dùng NH~4~OH thay NaOH, sản phẩm tinh thể cuối
+cùng (Cellulose III hay Na-cellulose IV) cần được xác nhận thực nghiệm
+bằng XRD \[34\].
+
+### 1.1.3. Tiềm năng ứng dụng và lý giải cơ chế
+
+=========================================
+KEYWORD: Fe-N (Found 33 times)
+=========================================
+[Paragraph index 31]:
+# TÓM TẮT
+
+Đề tài nghiên cứu tổng hợp carbon aerogel pha tạp nitơ (N-CA) và đồng
+pha tạp sắt/nitơ (Fe/N-CA) từ xơ dừa Bến Tre ứng dụng làm điện cực cảm
+biến điện hóa xác định song song/tuần tự các ion kim loại nặng trên cùng
+nền GCE Pb²⁺, Cd²⁺, Zn²⁺ trong mẫu nước. Quy trình tổng hợp sử dụng hệ
+dung môi NH~4~OH/Urea/H~2~O kết hợp đánh siêu âm lạnh (≤ 10°C), sấy
+thăng hoa và nhiệt phân hai giai đoạn trong khí N~2~. Vật liệu N-CA được
+nung ở 700°C ưu tiên cấu hình Pyridinic-N làm tâm phối trí ion kim loại,
+trong khi Fe/N-CA được tổng hợp bổ sung qua ngâm tẩm FeCl~3~·6H~2~O hậu
+nhiệt phân, rửa acid HCl 0,5M (80°C/8h) và nung lại (re-annealing) trong
+môi trường khí trơ N~2~ với kỳ vọng hình thành và ổn định các tâm xúc
+tác Fe-N~x~. Sự tồn tại của cấu trúc này sẽ được đánh giá gián tiếp
+thông qua sự cải thiện truyền electron (EIS) và phân tích hóa học bề mặt
+(XPS, Raman). Điện cực Fe/N-CA/Chitosan/GCE xác định đồng thời Pb²⁺,
+Cd²⁺, Zn²⁺ bằng kỹ thuật SWASV với mục tiêu LOD lần lượt \< 0,1; 0,2;
+0,5 ppb (đệm acetate pH 4,5). Phương pháp được thẩm định theo ICH Q2(R2)
+và Trần Cao Sơn, (dự kiến đối chiếu chéo với ICP-MS trên mẫu nước thực
+tế nếu có điều kiện thiết bị).
+
+- *Từ khóa*: Carbon aerogel, xơ dừa Bến Tre, pha tạp nitơ/sắt, SWASV,
+  kim loại nặng, cảm biến điện hóa.
+
+[Paragraph index 34]:
+# ABSTRACT
+
+This study investigates the synthesis of nitrogen-doped carbon aerogel
+(N-CA) and iron/nitrogen co-doped carbon aerogel (Fe/N-CA) derived from
+Bến Tre coconut coir fiber for electrochemical sensor applications.
+Target analytes are heavy metal ions Pb²⁺, Cd²⁺, Zn²⁺ (SWASV) in water
+samples. The synthesis employs an NH~4~OH/Urea/H~2~O solvent system
+combined with cold ultrasonication (≤ 10°C), freeze-drying, and a
+two-stage N~2~ pyrolysis (700°C for N-CA; 800°C base for Fe/N-CA). As a
+proposed experimental design, Fe/N-CA undergoes additional
+post-pyrolysis FeCl~3~ impregnation in ethanol, acid leaching (0.5M HCl,
+80°C, 8h) and re-annealing (750°C base case vs. 800°C as DOE comparison)
+to form Fe-N~x~ candidate sites. The Fe/N-CA/Chitosan/GCE electrode
+targets simultaneous LOD \< 0.1, 0.2, and 0.5 ppb for Pb²⁺, Cd²⁺, Zn²⁺
+respectively in acetate buffer (pH 4.5). The method is validated per ICH
+Q2(R2) and Vietnamese analytical validation guidance by Trần Cao Sơn,
+with planned cross-validation against ICP-MS if instrumental conditions
+are available on real spiked water samples.
+
+- *Keywords*: Carbon aerogel, Bến Tre coconut coir, N-doping, Fe/N
+  co-doping, SWASV, heavy metals, electrochemical sensor.
+
+[Paragraph index 92]:
+[2.5.3. Cấu hình Nitơ bề mặt và vai trò điện hóa
+[39](#cấu-hình-nitơ-bề-mặt-và-vai-trò-điện-hóa)](#cấu-hình-nitơ-bề-mặt-và-vai-trò-điện-hóa)
+
+[2.5.4. Hóa học phối trí tâm hoạt tính Fe-N~x~ và hậu xử lý (Acid
+Leaching)
+[40](#hóa-học-phối-trí-tâm-hoạt-tính-fe-nx-và-hậu-xử-lý-acid-leaching)](#hóa-học-phối-trí-tâm-hoạt-tính-fe-nx-và-hậu-xử-lý-acid-leaching)
+
+[2.6. Quy trình tổng hợp màng mỏng biến tính điện cực GCE
+[42](#quy-trình-tổng-hợp-màng-mỏng-biến-tính-điện-cực-gce)](#quy-trình-tổng-hợp-màng-mỏng-biến-tính-điện-cực-gce)
+
+=========================================
+KEYWORD: sấy thăng hoa (Found 20 times)
+=========================================
+[Paragraph index 82]:
+[2.3. Sơ đồ Flowchart thực nghiệm
+[27](#sơ-đồ-flowchart-thực-nghiệm)](#sơ-đồ-flowchart-thực-nghiệm)
+
+[2.4. Cơ chế Sol-Gel và Sấy thăng hoa
+[30](#cơ-chế-sol-gel-và-sấy-thăng-hoa)](#cơ-chế-sol-gel-và-sấy-thăng-hoa)
+
+[2.4.1. Cơ chế hòa tan cellulose trong hệ NH~4~OH/Urea/H~2~O
+[30](#cơ-chế-hòa-tan-cellulose-trong-hệ-nh4ohureah2o)](#cơ-chế-hòa-tan-cellulose-trong-hệ-nh4ohureah2o)
+
+[Paragraph index 86]:
+[2.4.3. Hóa lý của quá trình keo tụ trong ethanol (Coagulation)
+[33](#hóa-lý-của-quá-trình-keo-tụ-trong-ethanol-coagulation)](#hóa-lý-của-quá-trình-keo-tụ-trong-ethanol-coagulation)
+
+[2.4.4. Vật lý sấy thăng hoa
+[36](#vật-lý-sấy-thăng-hoa)](#vật-lý-sấy-thăng-hoa)
+
+[2.4.5. Cơ sở khoa học và Lập luận cơ chế định hướng thiết kế
+[37](#cơ-sở-khoa-học-và-lập-luận-cơ-chế-định-hướng-thiết-kế)](#cơ-sở-khoa-học-và-lập-luận-cơ-chế-định-hướng-thiết-kế)
+
+[Paragraph index 193]:
+Các công trình đã công bố chủ yếu tập trung vào hệ dung môi NaOH/Urea
+truyền thống, có nguy cơ không duy trì được cấu trúc mao quản tổ ong
+(honeycomb) sau quá trình nhiệt phân do ion Na⁺ để lại ảnh hưởng cấu
+trúc cho diện tích bề mặt riêng thấp (S~BET~ ≤ 150 m²/g ở cùng điều
+kiện), trong khi hệ NH₄OH/Urea được chứng minh có khả năng bảo toàn cấu
+trúc này tốt hơn \[5\], \[7\].
+
+Theo phạm vi tài liệu đã tổng quan trong đề cương, chưa ghi nhận nghiên
+cứu nào tối ưu hóa toàn diện quy trình tổng hợp monolith Carbon Aerogel
+pha tạp Nitơ (N-CA) và đồng pha tạp Sắt/Nitơ (Fe/N-CA) từ xơ dừa Bến Tre
+thông qua hệ dung môi amoniac-urea (NH~4~OH/Urea) kết hợp sấy thăng hoa
+và nhiệt phân hai lần (annealing) ứng dụng làm cảm biến điện hóa trên
+cùng định hướng nền tảng vật liệu GCE biến tính, với hai nhánh điện cực
+riêng.
+
+### 1.5. Câu hỏi nghiên cứu & Giả thuyết khoa học
+
+=========================================
+KEYWORD: gel hóa (Found 6 times)
+=========================================
+[Paragraph index 84]:
+[2.4.1. Cơ chế hòa tan cellulose trong hệ NH~4~OH/Urea/H~2~O
+[30](#cơ-chế-hòa-tan-cellulose-trong-hệ-nh4ohureah2o)](#cơ-chế-hòa-tan-cellulose-trong-hệ-nh4ohureah2o)
+
+[2.4.2. Động học gel hóa âm sâu
+[33](#động-học-gel-hóa-âm-sâu)](#động-học-gel-hóa-âm-sâu)
+
+[2.4.3. Hóa lý của quá trình keo tụ trong ethanol (Coagulation)
+[33](#hóa-lý-của-quá-trình-keo-tụ-trong-ethanol-coagulation)](#hóa-lý-của-quá-trình-keo-tụ-trong-ethanol-coagulation)
+
+[Paragraph index 252]:
+- *Cơ chế sol-gel trong hệ NH~4~OH/Urea/H*~2~*O và tạo gel đông lạnh
+  (Cryo-gelation)*:
+
+Thuyết Kén phân tử (Inclusion Complex Theory) được xây dựng bởi nhóm GS.
+Lina Zhang: cơ chế hòa tan được mô tả qua hành vi gel hóa đặc biệt của
+cellulose trong hệ kiềm/urea \[4\], trong đó Urea đóng vai trò tạo lớp
+vỏ bảo vệ quanh chuỗi cellulose thông qua tương tác van der Waals và
+liên kết hydro --- điều này được xác nhận trực tiếp bằng kỹ thuật NMR
+bởi Xiong và cộng sự \[31\]. Cơ chế này được giả định tương tự cho hệ
+dung môi amoniac/urea/nước được sử dụng trong đề tài \[23\], \[32\],
+trong đó cellulose hòa tan theo cơ chế phối trí đa thành phần ở nhiệt độ
+lạnh.
+
+Quá trình hòa tan là phản ứng tỏa nhiệt (ΔH \< 0) và giảm entropy (ΔS \<
+0) --- được Cai và Zhang xác nhận bằng phân tích nhiệt lượng quét vi sai
+(DSC) \[33\] --- do đó sol chỉ ổn định và đồng nhất ở nhiệt độ ≤ 10°C
+(tối ưu 0 - 5°C).
+
+[Paragraph index 255]:
+Hiệu ứng tích tụ đông (Cryo-concentration) và tổ chức Cellulose III: Khi
+cấp đông sol ở nhiệt độ -5°C/24h \[7\], \[24\], nước kết tinh đá tinh
+khiết dồn ép cellulose và urea vào các kênh lỏng siêu hẹp chưa đông.
+Dưới lực ép tinh thể đá ở cự ly tiếp xúc phân tử cực ngắn (\< 0.3 nm),
+kén urea bị phá vỡ, các nhóm hydroxyl tự do liên kết chéo trực tiếp vật
+lý với nhau, giả thuyết chuyển dịch cấu hình tinh thể sang dạng
+Cellulose III (cần bổ sung XRD), định hình khung gel 3D tổ ong.
+
+Cơ chế 2 bước này khớp với kết quả phân tích synchrotron XRD trên hệ
+NaOH/urea cổ điển, cho thấy các vòng glucopyranoside xếp chồng nhờ tương
+tác kỵ nước tạo tấm đơn phân tử, sau đó liên kết chéo qua liên kết hydro
+hình thành tinh thể Na-cellulose IV (dạng hydrat của Cellulose II) khi
+gel hóa lạnh --- trái với gel hóa nhiệt cho tín hiệu tinh thể rất yếu.
+Do hệ dung môi của đề tài dùng NH~4~OH thay NaOH, sản phẩm tinh thể cuối
+cùng (Cellulose III hay Na-cellulose IV) cần được xác nhận thực nghiệm
+bằng XRD \[34\].
+
+### 1.1.3. Tiềm năng ứng dụng và lý giải cơ chế
+

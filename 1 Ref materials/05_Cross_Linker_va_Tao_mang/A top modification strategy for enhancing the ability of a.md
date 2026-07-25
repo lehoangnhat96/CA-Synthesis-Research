@@ -1,7 +1,7 @@
 Journal of Colloid and Interface Science 594 (2021) 141–149 
 
 
-![](_images/A top modification strategy for enhancing the ability of a_images/_temp_db2b80de_convert_.pdf-0001-01.png)
+![](_temp_1e684f03_convert__images/_temp_1e684f03_convert_.pdf-0001-01.png)
 
 
 Contents lists available at ScienceDirect 
@@ -11,7 +11,7 @@ Contents lists available at ScienceDirect
 journal homepage: www.elsevier.com/locate/jcis 
 
 
-![](_images/A top modification strategy for enhancing the ability of a_images/_temp_db2b80de_convert_.pdf-0001-05.png)
+![](_temp_1e684f03_convert__images/_temp_1e684f03_convert_.pdf-0001-05.png)
 
 
 ## Regular Article 
@@ -19,7 +19,7 @@ journal homepage: www.elsevier.com/locate/jcis
 ## A ‘top modification’ strategy for enhancing the ability of a chitosan aerogel to efficiently capture heavy metal ions 
 
 
-![](_images/A top modification strategy for enhancing the ability of a_images/_temp_db2b80de_convert_.pdf-0001-08.png)
+![](_temp_1e684f03_convert__images/_temp_1e684f03_convert_.pdf-0001-08.png)
 
 
 ## Shize Li, Yaping Li, Zi Fu, Lingbin Lu[⇑] , Jingru Cheng, Yongsheng Fei 
@@ -29,7 +29,7 @@ Special Glass Key Lab of Hainan Province, School of Materials Science and Engine
 ## g r a p h i c a l a b s t r a c t 
 
 
-![](_images/A top modification strategy for enhancing the ability of a_images/_temp_db2b80de_convert_.pdf-0001-12.png)
+![](_temp_1e684f03_convert__images/_temp_1e684f03_convert_.pdf-0001-12.png)
 
 
 ## a r t i c l e i n f o a b s t r a c t 
@@ -79,13 +79,13 @@ The micromorphology of the samples was observed via scanning electron microscopy
 The apparent density was expressed in the following formula: 
 
 
-![](_images/A top modification strategy for enhancing the ability of a_images/_temp_db2b80de_convert_.pdf-0002-12.png)
+![](_temp_1e684f03_convert__images/_temp_1e684f03_convert_.pdf-0002-12.png)
 
 
 The porosity (P) was expressed in the following formula: 
 
 
-![](_images/A top modification strategy for enhancing the ability of a_images/_temp_db2b80de_convert_.pdf-0002-14.png)
+![](_temp_1e684f03_convert__images/_temp_1e684f03_convert_.pdf-0002-14.png)
 
 
 where qCsA and qs are the densities of the aerogel and solid scaffold (approximated to a chitosan skeleton of 1.46 g/cm[3] ), respectively. 
@@ -107,11 +107,11 @@ Cu(NO3)2, Cd(NO3)2 and Pb(NO3)2 were used to prepare the Cu (II), Cd(II), and Pb
 The adsorption capacity (Q, mg/g) and removal efficiency (R, %) were calculated according to formulae (4) and (5) [22]: 
 
 
-![](_images/A top modification strategy for enhancing the ability of a_images/_temp_db2b80de_convert_.pdf-0002-24.png)
+![](_temp_1e684f03_convert__images/_temp_1e684f03_convert_.pdf-0002-24.png)
 
 
 
-![](_images/A top modification strategy for enhancing the ability of a_images/_temp_db2b80de_convert_.pdf-0002-25.png)
+![](_temp_1e684f03_convert__images/_temp_1e684f03_convert_.pdf-0002-25.png)
 
 
 where C0 (mg/L), Ct (mg/L) and Ce (mg/L) are heavy metal ion concentrations at the initial time, given time and adsorption equilibrium time, respectively; V (L) is the volume of heavy metal ion solution; and m0 (g) is the weight of the adsorbent. 
@@ -129,11 +129,11 @@ S. Li, Y. Li, Z. Fu et al.
 To investigate adsorption kinetics, 0.2 g E-CS aerogel was placed in 200 ml 50 mg/L heavy metal ion solution at pH = 5 for a given duration. The adsorption kinetics of the E-CS aerogel were evaluated using the pseudo first-order kinetic equation (6) and pseudo second-order kinetic equation (7) [23,24]: 
 
 
-![](_images/A top modification strategy for enhancing the ability of a_images/_temp_db2b80de_convert_.pdf-0003-04.png)
+![](_temp_1e684f03_convert__images/_temp_1e684f03_convert_.pdf-0003-04.png)
 
 
 
-![](_images/A top modification strategy for enhancing the ability of a_images/_temp_db2b80de_convert_.pdf-0003-05.png)
+![](_temp_1e684f03_convert__images/_temp_1e684f03_convert_.pdf-0003-05.png)
 
 
 where Qe (mg/g) is the fitting value of equilibrium adsorption capacity, t (h) is the adsorption time, Qt (mg/g) is the adsorption capacity at given time t, and k1 and k2 are adsorption rate constants of the pseudo first-order kinetic equation and pseudo second-order kinetic equation, respectively. 
@@ -141,11 +141,11 @@ where Qe (mg/g) is the fitting value of equilibrium adsorption capacity, t (h) i
 Isothermal adsorption was tested by placing 0.1 g E-CS aerogel in a heavy metal ion solution with pH = 5 for 12 h. The data were fitted by both the Langmuir model (8) [25] and the Freundlich model (9) [26]. The saturated adsorption capacity (Qm) was obtained from the Langmuir model: 
 
 
-![](_images/A top modification strategy for enhancing the ability of a_images/_temp_db2b80de_convert_.pdf-0003-08.png)
+![](_temp_1e684f03_convert__images/_temp_1e684f03_convert_.pdf-0003-08.png)
 
 
 
-![](_images/A top modification strategy for enhancing the ability of a_images/_temp_db2b80de_convert_.pdf-0003-09.png)
+![](_temp_1e684f03_convert__images/_temp_1e684f03_convert_.pdf-0003-09.png)
 
 
 where Qe (mg/g) is the equilibrium adsorption capacity, Ce (mg/L) is the equilibrium concentration, KL is the Langmuir adsorption constant, and KF and 1/n are Freundlich adsorption constants. 
@@ -169,7 +169,7 @@ To improve the capturing ability to heavy metal ions using a relatively easy and
 The FTIR spectra of the CS aerogel and E-CS aerogel indicated a chemical reaction between chitosan and EDTAA, as shown in Fig. 1. The wide peak from 3000 to 3700 cm[�][1] can be attributed to AOH intramolecular association and ANH2 stretching vibration. In the FTIR spectra of the CS aerogel, the peaks at 1590 cm[�][1] and 1652 cm[�][1] corresponded to amides I and amides II in the chitosan molecule, respectively [28]. In the FTIR spectra of the E-CS aerogel, 
 
 
-![](_images/A top modification strategy for enhancing the ability of a_images/_temp_db2b80de_convert_.pdf-0003-20.png)
+![](_temp_1e684f03_convert__images/_temp_1e684f03_convert_.pdf-0003-20.png)
 
 
 Scheme 1. Acylation reaction between chitosan unit and EDTAA. 
@@ -181,7 +181,7 @@ S. Li, Y. Li, Z. Fu et al.
 Journal of Colloid and Interface Science 594 (2021) 141–149 
 
 
-![](_images/A top modification strategy for enhancing the ability of a_images/_temp_db2b80de_convert_.pdf-0004-02.png)
+![](_temp_1e684f03_convert__images/_temp_1e684f03_convert_.pdf-0004-02.png)
 
 
 Fig. 1. FTIR spectra of CS aerogel, E-CS aerogel and Cu-loaded E-CS aerogel. 
@@ -199,7 +199,7 @@ The thermogravimetric (TG) and differential thermogravimetric (DTG) curves of th
 Requiring a low dosage is an ideal characteristic of an adsorbent. Fig. 3A shows the influence of adsorbent dosage on the removal efficiency of Cu[2+] , Pb[2+] and Cd[2+] with an initial metal ion concentration of 20 mg/L and pH = 5. With increasing 
 
 
-![](_images/A top modification strategy for enhancing the ability of a_images/_temp_db2b80de_convert_.pdf-0004-10.png)
+![](_temp_1e684f03_convert__images/_temp_1e684f03_convert_.pdf-0004-10.png)
 
 
 Fig. 2. SEM images of the CS aerogel (A) and E-CS aerogel (B, C) and TG curves of the CS aerogel and E-CS aerogel (inset shows the DTG curves) (D). 
@@ -211,7 +211,7 @@ Journal of Colloid and Interface Science 594 (2021) 141–149
 S. Li, Y. Li, Z. Fu et al. 
 
 
-![](_images/A top modification strategy for enhancing the ability of a_images/_temp_db2b80de_convert_.pdf-0005-02.png)
+![](_temp_1e684f03_convert__images/_temp_1e684f03_convert_.pdf-0005-02.png)
 
 
 Fig. 3. Influence of E-CS aerogel dosage (A) and pH of solution (B) on removal efficiency for Cu[2+] , Pb[2+] and Cd[2+] . Three parallel tests were performed for each sample. 
@@ -231,7 +231,7 @@ To describe the adsorption process of the E-CS aerogel, the adsorption mechanism
 The adsorption kinetics of the E-CS aerogel for three heavy metal ions were investigated at pH 5 and an ion concentration of 50 mg/L, as shown in Fig. 5A, B and C. There was a rapid adsorption stage in the first 70 min, and then the adsorption tended to reach equilibrium after 4 h. The fitting results of the kinetic models are shown in Table 1. According to the fitting results, the correlation coefficients R[2] of Cu[2+] , Pb[2+] and Cd[2+] were 0.964, 0.944 and 0.970 with the pseudo first-order kinetic model, respectively. The R[2] values of Cu[2+] , Pb[2+] and Cd[2+] were 0.985, 0.972 and 0.979 with the pseudo second-order kinetic model, respectively. The adsorption process of the E-CS aerogel for heavy metal ions was thus well 
 
 
-![](_images/A top modification strategy for enhancing the ability of a_images/_temp_db2b80de_convert_.pdf-0005-11.png)
+![](_temp_1e684f03_convert__images/_temp_1e684f03_convert_.pdf-0005-11.png)
 
 
 Fig. 4. E-CS aerogel before (A) and after (B) adsorbing Cu[2+] ; the state of the E-CS aerogel during adsorption (C); and the removal efficiency of the E-CS aerogel in three adsorption- desorption cycles, where the dotted box indicates the removal efficiency of the CS aerogel before being modified by EDTAA (D). Three parallel tests were performed for each sample. 
@@ -243,7 +243,7 @@ S. Li, Y. Li, Z. Fu et al.
 Journal of Colloid and Interface Science 594 (2021) 141–149 
 
 
-![](_images/A top modification strategy for enhancing the ability of a_images/_temp_db2b80de_convert_.pdf-0006-02.png)
+![](_temp_1e684f03_convert__images/_temp_1e684f03_convert_.pdf-0006-02.png)
 
 
 Fig. 5. Time-dependent adsorption capacity and kinetic fittings of the E-CS aerogel for Cu[2+] (A), Pb[2+] (B) and Cd[2+] (C). Three parallel tests were performed for each sample. 
@@ -265,7 +265,7 @@ described by a pseudo second-order kinetic equation, and therefore, it was belie
 As shown in Fig. 6, the maximum adsorption efficiency was shown when the concentration of heavy metal ions reached a certain value due to the fixed number of active sites in the aerogel [32]. Both Langmuir and Freundlich isotherm models were used to perform nonlinear fitting with the experimental data, as shown in Fig. 6. Additionally, the parameters are shown in Table 2, where it appeared that the adsorbent-adsorbate system was better explained by the Langmuir model in accordance with R[2] (0.972 for Cu[2+] , 0.942 for Pb[2+] and 0.954 for Cd[2+] ). The mechanism obeyed single molecule layer adsorption or chemical adsorption, and the 
 
 
-![](_images/A top modification strategy for enhancing the ability of a_images/_temp_db2b80de_convert_.pdf-0006-10.png)
+![](_temp_1e684f03_convert__images/_temp_1e684f03_convert_.pdf-0006-10.png)
 
 
 Fig. 6. Adsorption isotherms of E-CS aerogel for Cu[2+] , Pb[2+] and Cd[2+] . Three parallel tests were performed for each sample. 
@@ -307,7 +307,7 @@ certain copper ions were adsorbed on the adsorbent’s surface by physical inter
 tively, which shifted to 399.8 and 402.5 eV after loading Cu[2+] , respectively. The increased binding energies indicated that the lone pair electrons of N in the amino group interacted with Cu[2+] , and the electron cloud density around ANH2 decreased. Fig. 7D shows the O 1s spectra of the E-CS aerogel before and after loading Cu[2+] . Before loading Cu[2+] , the binding energies of CAOAH, O@C and CAOAC were 533.1, 532.0 and 531.3 eV, respectively. After 
 
 
-![](_images/A top modification strategy for enhancing the ability of a_images/_temp_db2b80de_convert_.pdf-0007-10.png)
+![](_temp_1e684f03_convert__images/_temp_1e684f03_convert_.pdf-0007-10.png)
 
 
 Fig. 7. XPS spectra of the E-CS aerogel and Cu-loaded E-CS aerogel. Total survey scans of XPS spectra (A); Cu 2p spectrum of Cu-loaded E-CS aerogel (B); N 1s spectra of E-CS aerogel and Cu-loaded E-CS aerogel (C); O 1s spectra of E-CS aerogel and Cu-loaded E-CS aerogel (D). 

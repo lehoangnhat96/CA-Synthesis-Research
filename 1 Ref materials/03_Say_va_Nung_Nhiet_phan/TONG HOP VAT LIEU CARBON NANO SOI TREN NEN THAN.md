@@ -74,7 +74,7 @@ _1 Dc: Kích thước tinh thể tính theo công thức Scherrer tại pic 2θ=
 Từ kết quả Bảng 1 cho thấy, khi tăng tỷ lệ H2/LPG thì sản phẩm CNFs tạo thành giảm. Điều này có thể giải thích là do khi tăng tỷ lệ H2/LPG, nồng độ của LPG hay carbon trong môi trường phản ứng giảm, làm giảm sự hình thành sản phẩm trên bề mặt than xốp C*. 
 
 
-![](_images/TONG HOP VAT LIEU CARBON NANO SOI TREN NEN THAN_img/_temp_e0b98f04_heal_.pdf-0002-17.png)
+![](_temp_e0b98f04_convert__images/_temp_e0b98f04_convert_.pdf-0002-17.png)
 
 
 **----- Start of picture text -----**<br>
@@ -88,7 +88,7 @@ _**Hình 1.** Ảnh mẫu a) than xốp C* và b) sản phẩm sau tổng hợp_
 Để chứng minh sự tồn tại của các sợi CNFs, mẫu được phân tích bằng kính hiển vi điện tử quét SEM. Ảnh chụp được trình bày trên Hình 2. 
 
 
-![](_images/TONG HOP VAT LIEU CARBON NANO SOI TREN NEN THAN_img/_temp_e0b98f04_heal_.pdf-0002-21.png)
+![](_temp_e0b98f04_convert__images/_temp_e0b98f04_convert_.pdf-0002-21.png)
 
 
 _**Hình 2.** Ảnh SEM của các mẫu a) than xốp; và sợi CNFs tổng hợp với tỉ lệ H2/LPG bằng: b, e) 0; c) 0,5; và d, f) 1,0_ 
@@ -104,7 +104,7 @@ Hình 2a là ảnh SEM của bề mặt than xốp. Hình 2b, 2c và 2d lần l�
 Hình 3 biểu diễn giản đồ XRD của các mẫu vật liệu than xốp từ sọ dừa và CNFs tổng hợp với tỉ lệ H2/LPG khác nhau. Giản đồ XRD của mẫu than hoạt tính gồm một pic rất rộng có đỉnh ở 23,3° và trải dài từ 14,4° cho đến hơn 30° và một pic nhỏ ở 2θ bằng 43,5° (đường a). Pic đầu tiên tại 23,3° đặc trưng cho sự tồn tại của carbon ở dạng vô định hình trong khi đó pic thứ hai thể hiện sự có mặt của tinh thể graphite [10], [11]. Khi tổng hợp CNF theo các tỷ lệ H2/LPG bằng 0; 0,5 và 1,0, các giản đồ XRD có sự xuất hiện của các pic đặc trưng cho graphite tại 2θ bằng 26,5°, 43,5° và 54,3° (ICDD-PDF#056-0160) và của một pic đặc trưng cho xúc tác Ni tại 2θ bằng 44,8° (ICDDPDF#071-4655). Khi tăng tỷ lệ H2/LPG, cường độ pic của graphite giảm nhẹ. Kích thước tinh thể Dc của graphite của CNF được tính theo công thức Scherrer tại pic 2θ=26,5°, kết quả được cho trong Bảng 1. Giá trị Dc giảm nhẹ từ 3,8 nm về 3,3 nm. 
 
 
-![](_images/TONG HOP VAT LIEU CARBON NANO SOI TREN NEN THAN_img/_temp_e0b98f04_heal_.pdf-0003-05.png)
+![](_temp_e0b98f04_convert__images/_temp_e0b98f04_convert_.pdf-0003-05.png)
 
 
 **----- Start of picture text -----**<br>
@@ -120,7 +120,7 @@ Hình 4A biểu diễn đường đẳng nhiệt hấp phụ và giải hấp ph
 tạo ra giữa đường hấp phụ và giải hấp trên các mẫu khá rõ và phân bố từ P/Pᴼ 0,45 đến 1,0. Theo phân loại của UIPAC, vòng trễ này cho biết vật liệu thuộc loại mao quản trung bình loại IV, đặc trưng lỗ xốp loại H3 có dạng hình tấm [12]. Trong khi đó vòng trễ rất nhỏ của than hoạt tính cho thấy vật liệu này gần thuộc loại I với các vi xốp có đường kính nhỏ hơn 1 nm. Diện tích bề mặt riêng tính theo phương pháp BET được cho trong Bảng 1. Chúng ta có thể thấy vật liệu CNF-C* được tổng hợp có bề mặt riêng khoảng 207 - 224 m[2] /g khi tổng hợp với tỉ lệ H2/LPG từ 0,5 đến 1,0. Giá trị này lớn hơn trong trường hợp không có hydro trong môi trường phản ứng. Kết quả này phù hợp với hình thái SEM của sợi CNFs, sợi nhỏ có diện tích bề mặt riêng lớn hơn. Hình 4B biểu diễn phân bố kích thước lỗ xốp của vật liệu CNF phân bố từ 3 đến 5 nm. 
 
 
-![](_images/TONG HOP VAT LIEU CARBON NANO SOI TREN NEN THAN_img/_temp_e0b98f04_heal_.pdf-0003-10.png)
+![](_temp_e0b98f04_convert__images/_temp_e0b98f04_convert_.pdf-0003-10.png)
 
 
 _**Hình 4.** A) Đường đẳng nhiệt hấp phụ - giải hấp ở 77 K; và B) phân bố kích thước mao quản thu được của các mẫu vật liệu a) than xốp; và sợi CNFs tổng hợp với tỉ lệ H2/LPG bằng: b) 0; c) 0,5; và d) 1,0_ 

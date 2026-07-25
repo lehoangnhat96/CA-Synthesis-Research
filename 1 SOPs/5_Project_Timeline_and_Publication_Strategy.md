@@ -1,8 +1,8 @@
 # 5_Project_Timeline_and_Publication_Strategy.md — Lộ Trình Nghiên Cứu & Chiến Lược Công Bố Khoa Học
 
 > [!NOTE]
-> * Quy trình liên hợp chế tạo: [1_Active_Protocol_Synthesis.md](file:///D:/1%20Master's%20Ana%20Chem/1%20Master's%20thesis/Carbon%20Aerogel/1%20SOPs/1_Active_Protocol_Synthesis.md)  
-> * Quy trình liên hợp đo đạc: [2_Active_Protocol_Electrochemistry.md](file:///D:/1%20Master's%20Ana%20Chem/1%20Master's%20thesis/Carbon%20Aerogel/1%20SOPs/2_Active_Protocol_Electrochemistry.md)
+> * Quy trình liên hợp chế tạo: [1_Protocol_Synthesis.md](file:///D:/1%20Master's%20Ana%20Chem/1%20Master's%20thesis/Carbon%20Aerogel/1%20SOPs/1_Protocol_Synthesis.md)  
+> * Quy trình liên hợp đo đạc: [2_Protocol_Electrochemistry.md](file:///D:/1%20Master's%20Ana%20Chem/1%20Master's%20thesis/Carbon%20Aerogel/1%20SOPs/2_Protocol_Electrochemistry.md)
 > * Cơ sở lý thuyết: [3_Literature_Review_and_Gap_Analysis.md](file:///D:/1%20Master's%20Ana%20Chem/1%20Master's%20thesis/Carbon%20Aerogel/1%20SOPs/3_Literature_Review_and_Gap_Analysis.md)
 
 ---
@@ -34,11 +34,11 @@ gantt
 
 ## 2. CHIẾN LƯỢC CÔNG BỐ BÀI BÁO QUỐC TẾ (Publication Strategy)
 
-*Đề tài nghiên cứu điện hóa được phân tách một cách khoa học thành **2 bài báo quốc tế độc lập** nhằm khai thác tối đa tính mới và phân chia quyền lợi tác giả hợp lý:*
+*Đề tài nghiên cứu điện hóa được phân tách một cách khoa học thành **2 bài báo quốc tế độc lập** và 1 bài báo mở rộng chiến lược nhằm khai thác tối đa tính mới và phân chia quyền lợi tác giả hợp lý:*
 
 ### 2.1 Bài báo 1 — Ứng dụng cảm biến điện hóa đo Paracetamol (DPV)
-*   **Vật liệu nền:** N-CA-700 (Carbon aerogel chỉ doping Nitơ nung ở 700 °C hệ amoniac).
-*   **Ứng dụng điện hóa:** Phân tích paracetamol bằng kỹ thuật Von-Ampe vi phân xung (DPV) sử dụng binder Nafion 0.25%.
+*   **Vật liệu nền:** N-CA-700 (Carbon aerogel chỉ doping Nitơ nung ở 700 ℃ hệ amoniac).
+*   **Ứng dụng điện hóa:** Phân tích paracetamol bằng kỹ thuật Von-Ampe vi phân xung (DPV) sử dụng binder Nafion (nồng độ gốc 5 wt%, nồng độ cuối trong mực 0.25 wt%).
 *   **Phân vai tác giả:**
     *   *Tác giả chính (First Author):* Bạn cùng lớp (Người hỗ trợ thu thập dữ liệu đo paracetamol).
     *   *Đồng tác giả (Co-author):* **Nhật** (Người chế tạo và tối ưu hóa vật liệu carbon aerogel từ xơ dừa Bến Tre).
@@ -46,8 +46,9 @@ gantt
 *   **Mục tiêu phân khúc:** Tạp chí ISI/Scopus nhóm **Q3 hoặc Q4** (làm bản lề tích lũy điểm phản biện nhanh).
 
 ### 2.2 Bài báo 2 — Cảm biến điện hóa siêu nhạy đo Pb²⁺ (SWASV) kết hợp xúc tác ORR
-*   **Vật liệu nền:** Fe/N-CA-800/800 (Carbon aerogel co-doped Fe/N nung 800 °C, tẩm Fe, leaching HCl và nung lại ở 800 °C).
-*   **Ứng dụng điện hóa:** Phân tích đồng thời kim loại nặng Pb2+ bằng sóng vuông hòa tan (SWASV) sử dụng binder Chitosan 1%, kết hợp phép đo đối chứng động học xúc tác ORR trong KOH 0.1M làm "Proof of Concept" chứng minh cấu trúc coordinated Fe-N₄.
+*   **Vật liệu nền:** Fe/N-CA-800/750 (Carbon aerogel co-doped Fe/N nung 800 ℃, tẩm Fe, leaching HCl và nung lại ở 750 ℃ — đã chốt 2026-05-31).
+*   **Ứng dụng điện hóa:** Phân tích đồng thời kim loại nặng Pb2+ bằng sóng vuông hòa tan (SWASV) sử dụng binder Chitosan (nồng độ gốc 1 wt%, nồng độ cuối trong mực 0.05 wt%), kết hợp phép đo đối chứng động học xúc tác ORR trong KOH 0.1M làm "Proof of Concept" chứng minh cấu trúc coordinated Fe-N₄.
+*   **Cơ sở thực thi & Tính khả thi:** Hệ thiết bị điện cực đĩa quay RDE (Rotating Disk Electrode) cùng máy Potentiostat thế hệ mới và các bình khí O₂/N₂ tinh khiết có sẵn tại phòng thí nghiệm chuyên ngành của IUH TP.HCM. Việc khảo sát ORR sẽ cung cấp dữ liệu động học (số electron trao đổi $n \approx 4$) để khẳng định cấu hình Fe-Nₓ hoạt tính cao, nâng tầm học thuật của công trình.
 *   **Phân vai tác giả:**
     *   *Tác giả chính & Tác giả liên hệ (First & Co-corresponding Author):* **Nhật** (Đảm nhiệm 100% phần thiết kế vật liệu Fe-N₄, đo đạc điện hóa nâng cao và viết nháp bài báo).
     *   *Đồng tác giả (2nd Author):* Bạn cùng lớp.
@@ -59,6 +60,16 @@ gantt
 > Do mẫu vật liệu **Fe/N-CA** có giá trị khoa học và độ mới cao hơn hẳn mẫu **N-CA**, việc quản lý thời gian nộp bài báo phải được tính toán kỹ:
 > 1. **Phương án A:** Thực hiện viết nháp song song cả 2 bài. **Nộp bài báo 2 (Q1/Q2 - Sắt/Nitơ) trước** bài báo 1 khoảng 2–4 tuần.
 > 2. **Phương án B:** Nộp đồng thời cả hai bài vào các hệ thống tạp chí khác nhau của cùng nhà xuất bản (ví dụ Elsevier hoặc Springer) để đảm bảo hai ban biên tập độc lập và ngày nhận bài (Received Date) trùng nhau, tránh việc bài N-CA công bố trước làm giảm tính mới về mặt phương pháp của bài Fe/N-CA.
+
+### 2.4 Bài báo 3 (Mở rộng chiến lược) — Siêu tụ điện thế cao trong môi trường hữu cơ (Organic Supercapacitor)
+*   **Ý nghĩa:** Tận dụng tối đa bột Carbon Aerogel ($N-CA$ và $Fe/N-CA$) đã tổng hợp để tạo giá trị công bố mới mà không tốn thêm chi phí tổng hợp vật liệu.
+*   **Cơ sở thực thi & Tính khả thi:** Điện cực so sánh phi nước Ag/Ag⁺ có sẵn tại lab. Các dung môi hữu cơ Acetonitrile chất lượng cao, các muối nền ($TEABF_4$, $LiClO_4$) và bọt niken làm đế dẫn đều được trang bị đầy đủ. Cấu trúc carbon aerogel 3D siêu xốp từ xơ dừa giúp hấp phụ tĩnh điện ion tối ưu và dẻo dai cơ lý tốt, chịu lực co giãn thể tích khi sạc xả ở mật độ dòng lớn ($0.5 - 10\text{ A/g}$).
+*   **Vật liệu & Hệ thống đo:**
+    *   *Vật liệu điện cực:* Bột carbon aerogel từ xơ dừa tráng lên bọt niken (Nickel foam) làm điện cực làm việc.
+    *   *Chất điện ly hữu cơ:* $1.0\text{ M } TEABF_4$ trong Acetonitrile (AN) để nâng vùng thế hoạt động lên $2.5\text{ V} - 3.0\text{ V}$.
+    *   *Điện cực so sánh:* Sử dụng **Non-aqueous Silver Ion Reference Electrode** (đã có sẵn trong thiết bị lab).
+*   **Giá trị học thuật:** Tạp chí chuyên ngành Năng lượng / Vật liệu nhóm **Q1 hoặc Q2** (vd: *Journal of Energy Storage, Electrochimica Acta*). Tạo mảnh ghép hoàn hảo cho bài toán "Vật liệu đa chức năng" (Dual-functional Carbon Aerogel).
+
 
 ---
 

@@ -1,11 +1,11 @@
 ## RSC Advances 
 
 
-![](_images/Performance and mechanisms of waste-based carbon adsorbents in heavy metal_img/_temp_0e764fb4_heal_.pdf-0001-01.png)
+![](_temp_0e764fb4_convert__images/_temp_0e764fb4_convert_.pdf-0001-01.png)
 
 
 
-![](_images/Performance and mechanisms of waste-based carbon adsorbents in heavy metal_img/_temp_0e764fb4_heal_.pdf-0001-02.png)
+![](_temp_0e764fb4_convert__images/_temp_0e764fb4_convert_.pdf-0001-02.png)
 
 
 ## PAPER 
@@ -13,7 +13,7 @@
 # Performance and mechanisms of waste-based – carbon adsorbents in heavy metal removal an experimental and theoretical approach 
 
 
-![](_images/Performance and mechanisms of waste-based carbon adsorbents in heavy metal_img/_temp_0e764fb4_heal_.pdf-0001-05.png)
+![](_temp_0e764fb4_convert__images/_temp_0e764fb4_convert_.pdf-0001-05.png)
 
 
 Cite this: RSC Adv., 2025, 15, 34609 
@@ -87,7 +87,7 @@ chitosan were dissolved in 250 millilitres of a 1% (v/v) acetic acid solution, a
 Adsorption experiments were carried out at room temperature, approximately 23 ± 1 °C. For the preparation of stock solutions (1000 ppm) of Pb[2+] , Cr[6+] , and Cd[2+] , Pb (NO3)2, K2Cr2O7, and CdCl2$H2O were dissolved in deionized water, respectively. The intended working solutions of 50, 100 and 200 ppm were made by diluting the stock solutions. To perform the batch experiments, 25.00 mg of adsorbent was added in a 100 mL Erlenmeyer ask, and then heavy metal aqueous solutions (50 mL) were added. A total of six solutions containing 50 ppm of chromium, cadmium, and lead were prepared. Then the asks were shaken for a maximum of three hours at 180 rpm while placed on the orbital shaker. At intervals of 30 minutes, the solution was withdrawn, ltered using lter paper, and the concentration of heavy metals remaining in the supernatant was assessed via Atomic Absorption Spectroscopy (AAS). The following equation was employed to determine the adsorption capacity of the adsorbents: 
 
 
-![](_images/Performance and mechanisms of waste-based carbon adsorbents in heavy metal_img/_temp_0e764fb4_heal_.pdf-0003-07.png)
+![](_temp_0e764fb4_convert__images/_temp_0e764fb4_convert_.pdf-0003-07.png)
 
 
 where, qe (mg g[−][1] ) is the amount of heavy metal adsorbed at equilibrium per gram of adsorbent; V (L) is the volume of the solution; C0 and Ce (ppm) refer to the initial and equilibrium concentrations of the heavy metal in solution, respectively; and m (g) corresponds to the mass of the dry adsorbent used.[37] 
@@ -119,7 +119,7 @@ or crystallite present in the original biomass.The XRD pattern of BN char exhibi
 4.1.3 Raman spectroscopy. The structural ordering and disorder of carbon in GAC and GAC-CS samples were 
 
 
-![](_images/Performance and mechanisms of waste-based carbon adsorbents in heavy metal_img/_temp_0e764fb4_heal_.pdf-0004-06.png)
+![](_temp_0e764fb4_convert__images/_temp_0e764fb4_convert_.pdf-0004-06.png)
 
 
 Fig. 1 FTIR spectra of (A) – PJ biochar (B) – BN char (C) – GAC and GAC-CS illustrating the surface functional groups present in the material. 
@@ -141,7 +141,7 @@ determined by using Energy Dispersive X-ray Spectroscopy (EDX) as a characterisa
 The SEM micrograph of BN char reveals that it possesses a fragmented and porous texture, characterized by irregular particle shapes and a distribution of pores with varying sizes across the surface. Similarly, FE-SEM images reveal well-dened pore channels and a fragmented char structure. The surface irregularities indicate non-uniform pore distribution, characterized by a richly textured and porous network with numerous interconnected voids. Higher-resolution images reveal a surface characterized by crack formations and thin, ake-like sheets. 
 
 
-![](_images/Performance and mechanisms of waste-based carbon adsorbents in heavy metal_img/_temp_0e764fb4_heal_.pdf-0005-06.png)
+![](_temp_0e764fb4_convert__images/_temp_0e764fb4_convert_.pdf-0005-06.png)
 
 
 Fig. 2 XRD patterns of (A) – PJ biochar (B) – BN char (C) – GAC and GAC-CS and Raman spectra of (D) GAC and GAC-CS. 
@@ -155,7 +155,7 @@ RSC Advances
 Paper 
 
 
-![](_images/Performance and mechanisms of waste-based carbon adsorbents in heavy metal_img/_temp_0e764fb4_heal_.pdf-0006-02.png)
+![](_temp_0e764fb4_convert__images/_temp_0e764fb4_convert_.pdf-0006-02.png)
 
 
 Fig. 3 SEM images (A1, B1, C1, D1) and FE-SEM images (A2, A3, B2, B3, C2, C3, D2, D3) of (A) PJBC, (B) BN char, (C) GAC, and (D) GAC-CS, respectively, showing surface morphology. 
@@ -175,7 +175,7 @@ RSC Advances
 Paper 
 
 
-![](_images/Performance and mechanisms of waste-based carbon adsorbents in heavy metal_img/_temp_0e764fb4_heal_.pdf-0007-02.png)
+![](_temp_0e764fb4_convert__images/_temp_0e764fb4_convert_.pdf-0007-02.png)
 
 
 Fig. 4 Image representing BET adsorption–disorption isotherm of (A1) GAC, (B1) GAC-CS, (C1) BN char, (D1) PJ biochar and pore size distribution of (A2) GAC, (B2) GAC-CS, (C2) BN char, (D2) PJ biochar. 
@@ -215,7 +215,7 @@ RSC Advances
 Paper 
 
 
-![](_images/Performance and mechanisms of waste-based carbon adsorbents in heavy metal_img/_temp_0e764fb4_heal_.pdf-0009-02.png)
+![](_temp_0e764fb4_convert__images/_temp_0e764fb4_convert_.pdf-0009-02.png)
 
 
 Fig. 5 Graphs of the removal of chromium with (A) – GAC (B) – GAC-CS (C) – PJ biochar (D) – BN char. 
@@ -235,7 +235,7 @@ RSC Advances
 Paper 
 
 
-![](_images/Performance and mechanisms of waste-based carbon adsorbents in heavy metal_img/_temp_0e764fb4_heal_.pdf-0010-02.png)
+![](_temp_0e764fb4_convert__images/_temp_0e764fb4_convert_.pdf-0010-02.png)
 
 
 Fig. 6 Graphs of removal of cadmium with (A) – GAC (B) – GAC-CS (C) – PJ biochar (D) – BN char. 
@@ -274,13 +274,13 @@ RSC Advances
 Paper 
 
 
-![](_images/Performance and mechanisms of waste-based carbon adsorbents in heavy metal_img/_temp_0e764fb4_heal_.pdf-0011-02.png)
+![](_temp_0e764fb4_convert__images/_temp_0e764fb4_convert_.pdf-0011-02.png)
 
 
 Fig. 7 Graphs of lead removal from solution using (A) – GAC (B) – GAC-CS (C) – PJ biochar (D) – BN char. 
 
 
-![](_images/Performance and mechanisms of waste-based carbon adsorbents in heavy metal_img/_temp_0e764fb4_heal_.pdf-0011-04.png)
+![](_temp_0e764fb4_convert__images/_temp_0e764fb4_convert_.pdf-0011-04.png)
 
 
 Fig. 8 Adsorption capacities of different adsorbents for (A) chromium, (B) cadmium, and (C) lead ions. Error bars indicate standard deviation. 
@@ -320,7 +320,7 @@ RSC Advances
 Paper 
 
 
-![](_images/Performance and mechanisms of waste-based carbon adsorbents in heavy metal_img/_temp_0e764fb4_heal_.pdf-0013-02.png)
+![](_temp_0e764fb4_convert__images/_temp_0e764fb4_convert_.pdf-0013-02.png)
 
 
 Fig. 9 Comparison of IR spectra of all adsorbents with chromium, cadmium and lead. 
@@ -346,7 +346,7 @@ In the past few years, theoretical analysis has been utilized alongside experime
 Fused benzene rings were used to simulate carbonaceous surfaces, resembling a graphite (111)-like conguration and saturated carbon atoms.[77] In order to examine the role of functional groups in metal adsorption on carbonaceous materials, various nitrogen and oxygen based functional groups, including carboxyl, hydroxyl, methoxy and amine, were incorporated into the carbon surface (Fig. 10). DFT calculations were used to analyse the interaction of metals with the simulated molecular structure. Molecular electrostatic potential (MEP), interaction energy, thermodynamic variables, frontier molecular orbitals (FMO) and structural parameters were studied, whereas topological properties were examined using the quantum theory of atoms in molecules (QTAIM). To calculate the binding energy (DEbind) of the metals on the carbonaceous surface, the following equation was used: 
 
 
-![](_images/Performance and mechanisms of waste-based carbon adsorbents in heavy metal_img/_temp_0e764fb4_heal_.pdf-0014-06.png)
+![](_temp_0e764fb4_convert__images/_temp_0e764fb4_convert_.pdf-0014-06.png)
 
 
 where, Ecomplex is the total energy associated with the metalcarbonaceous surface complex, Emetal is the energy associated with metal ion, and Esurface is the energy associated with the carbonaceous surface.[77] Furthermore, the formulas provided in equations were used to determine the thermodynamic 
@@ -354,43 +354,43 @@ where, Ecomplex is the total energy associated with the metalcarbonaceous surfac
 variables, specically enthalpy (DH) and Gibbs free energy (DG). Eqn (2) and (3).[78] 
 
 
-![](_images/Performance and mechanisms of waste-based carbon adsorbents in heavy metal_img/_temp_0e764fb4_heal_.pdf-0014-09.png)
+![](_temp_0e764fb4_convert__images/_temp_0e764fb4_convert_.pdf-0014-09.png)
 
 
 
-![](_images/Performance and mechanisms of waste-based carbon adsorbents in heavy metal_img/_temp_0e764fb4_heal_.pdf-0014-10.png)
+![](_temp_0e764fb4_convert__images/_temp_0e764fb4_convert_.pdf-0014-10.png)
 
 
 Numerous reactivity indices, including chemical hardness (h), electronegativity (c), chemical soness (S), chemical potential (m), electrophilicity index (u) and nucleophilicity index (N), were computed using the HOMO and LUMO energy values. These parameters were determined using eqn (4)–(9), in accordance with density functional theory (DFT) and Koopmans' theorem.[79] 
 
 
-![](_images/Performance and mechanisms of waste-based carbon adsorbents in heavy metal_img/_temp_0e764fb4_heal_.pdf-0014-12.png)
+![](_temp_0e764fb4_convert__images/_temp_0e764fb4_convert_.pdf-0014-12.png)
 
 
 
-![](_images/Performance and mechanisms of waste-based carbon adsorbents in heavy metal_img/_temp_0e764fb4_heal_.pdf-0014-13.png)
+![](_temp_0e764fb4_convert__images/_temp_0e764fb4_convert_.pdf-0014-13.png)
 
 
 
-![](_images/Performance and mechanisms of waste-based carbon adsorbents in heavy metal_img/_temp_0e764fb4_heal_.pdf-0014-14.png)
+![](_temp_0e764fb4_convert__images/_temp_0e764fb4_convert_.pdf-0014-14.png)
 
 
 
-![](_images/Performance and mechanisms of waste-based carbon adsorbents in heavy metal_img/_temp_0e764fb4_heal_.pdf-0014-15.png)
+![](_temp_0e764fb4_convert__images/_temp_0e764fb4_convert_.pdf-0014-15.png)
 
 
 
-![](_images/Performance and mechanisms of waste-based carbon adsorbents in heavy metal_img/_temp_0e764fb4_heal_.pdf-0014-16.png)
+![](_temp_0e764fb4_convert__images/_temp_0e764fb4_convert_.pdf-0014-16.png)
 
 
 
-![](_images/Performance and mechanisms of waste-based carbon adsorbents in heavy metal_img/_temp_0e764fb4_heal_.pdf-0014-17.png)
+![](_temp_0e764fb4_convert__images/_temp_0e764fb4_convert_.pdf-0014-17.png)
 
 
 QTAIM (Quantum Theory of Atoms in Molecules) investigations were performed to examine the fundamental nature of the interactions between heavy metal ions and adsorption surfaces. By analysing electron density distribution, QTAIM allows for a deeper understanding of how atoms interact within chemical bonds.[79,80] The analysis involved examining kinetic energy (G(r)), potential energy (V(r)), electron density (r(r)) and Laplacian of electron density (V[2] r(r)). Additionally, the total electronic energy (H(r)) at the Bond Critical Point (BCP) was derived through eqn (10).[80,81] Furthermore, the FT-IR spectra for all complexes were computed and are included in the SI (S10). 
 
 
-![](_images/Performance and mechanisms of waste-based carbon adsorbents in heavy metal_img/_temp_0e764fb4_heal_.pdf-0014-19.png)
+![](_temp_0e764fb4_convert__images/_temp_0e764fb4_convert_.pdf-0014-19.png)
 
 
 ## 5.1 Molecular electrostatic potential (MEP) analysis 
@@ -406,13 +406,13 @@ RSC Advances
 Paper 
 
 
-![](_images/Performance and mechanisms of waste-based carbon adsorbents in heavy metal_img/_temp_0e764fb4_heal_.pdf-0015-02.png)
+![](_temp_0e764fb4_convert__images/_temp_0e764fb4_convert_.pdf-0015-02.png)
 
 
 Fig. 10 Optimized structures of a graphite-like surface and its complexes with Cr, Cd, and Pb, computed using the 6-31G(d) basis set and the B3LYP functional. 
 
 
-![](_images/Performance and mechanisms of waste-based carbon adsorbents in heavy metal_img/_temp_0e764fb4_heal_.pdf-0015-04.png)
+![](_temp_0e764fb4_convert__images/_temp_0e764fb4_convert_.pdf-0015-04.png)
 
 
 Fig. 11 Molecular electrostatic potential of (A) graphite (111) like plane (B) graphite with –OH functionality (C) graphite plane with –COOH moiety (D) graphite plane with –OCH3 functional group (E) graphite plane with –NH2 group. 
@@ -436,7 +436,7 @@ The investigation of HOMO–LUMO band structure in graphite like congurations
 The HOMO–LUMO distribution of Cd, Cr, and Pb with functionalized graphene reveals key aspects of their adsorption behaviour (Fig. 13). It is evident from the gure that for all three metals, the carboxyl (–COOH) and amino (–NH2) functional groups induce a signicant localization of HOMO and LUMO densities around the metal-functional group region, resulting in enhanced chemisorption. In Cr-based systems, both –OH and –NH2 groups reveal signicant LUMO delocalization across the Cr atom and the surrounding graphite like surface, suggesting strong chemisorptive interactions due to efficient 
 
 
-![](_images/Performance and mechanisms of waste-based carbon adsorbents in heavy metal_img/_temp_0e764fb4_heal_.pdf-0016-07.png)
+![](_temp_0e764fb4_convert__images/_temp_0e764fb4_convert_.pdf-0016-07.png)
 
 
 Fig. 12 Image representing the HOMO–LUMO band gap of selected structures. 
@@ -450,7 +450,7 @@ RSC Advances
 Paper 
 
 
-![](_images/Performance and mechanisms of waste-based carbon adsorbents in heavy metal_img/_temp_0e764fb4_heal_.pdf-0017-02.png)
+![](_temp_0e764fb4_convert__images/_temp_0e764fb4_convert_.pdf-0017-02.png)
 
 
 Fig. 13 Visualization of HOMO and LUMO orbitals in metal-adsorbed complexes. 

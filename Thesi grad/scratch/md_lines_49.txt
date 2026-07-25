@@ -1,0 +1,5 @@
+349: Bảng 2.1: Tóm tắt thông số SOP và Biện luận cơ chế \[22, 23\] 22
+425: [49](#hình-3.3.-sơ-đồ-xương-cá-ishikawa-phân-tích-các-nguồn-sai-số-phép-đo-cảm-biến-điện-hóa)](#hình-3.3.-sơ-đồ-xương-cá-ishikawa-phân-tích-các-nguồn-sai-số-phép-đo-cảm-biến-điện-hóa)
+1495: ###### Hình 2.1. Sơ đồ quy trình thực nghiệm tổng hợp Cellulose Aerogel từ xơ dừa \[22\]
+2649: \[19\] J. Heikenfeld, A. Jajack, J. Rogers, et al., “Wearable sensors:
+2803: \[49\] S. Park, J. O. Baker, M. E. Himmel, P. A. Parilla, and D. K.

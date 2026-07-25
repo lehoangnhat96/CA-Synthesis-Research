@@ -3,7 +3,7 @@
 **www.afm-journal.de** 
 
 
-![](_images/Hierarchical Cross-Linked Carbon Aerogels with Transition_images/_temp_d81e4509_convert_.pdf-0001-02.png)
+![](_temp_8f67a08a_convert__images/_temp_8f67a08a_convert_.pdf-0001-02.png)
 
 
 ## **Hierarchical Cross-Linked Carbon Aerogels with Transition Metal-Nitrogen Sites for Highly Efficient Industrial-Level CO Electroreduction 2** 
@@ -57,7 +57,7 @@ _Adv. Funct. Mater._ **2021** , 2104377
 **www.advancedsciencenews.com** 
 
 
-![](_images/Hierarchical Cross-Linked Carbon Aerogels with Transition_images/_temp_d81e4509_convert_.pdf-0003-02.png)
+![](_temp_8f67a08a_convert__images/_temp_8f67a08a_convert_.pdf-0003-02.png)
 
 
 **Figure 1.** A) Schematic illustration of the preparation process for CA/N-M aerogels, B) FESEM image of CA/N-Ni aerogel (inset: digital photo), C,D) TEM and HRTEM images of CA/N-Ni aerogel (inset: corresponding SAED pattern), E) EDX elemental distribution mappings of C, N, O, and Ni for CA/N-Ni aerogel. 
@@ -79,15 +79,15 @@ _Adv. Funct. Mater._ **2021** , 2104377
 **www.advancedsciencenews.com** 
 
 
-![](_images/Hierarchical Cross-Linked Carbon Aerogels with Transition_images/_temp_d81e4509_convert_.pdf-0004-02.png)
+![](_temp_8f67a08a_convert__images/_temp_8f67a08a_convert_.pdf-0004-02.png)
 
 
 
-![](_images/Hierarchical Cross-Linked Carbon Aerogels with Transition_images/_temp_d81e4509_convert_.pdf-0004-03.png)
+![](_temp_8f67a08a_convert__images/_temp_8f67a08a_convert_.pdf-0004-03.png)
 
 
 
-![](_images/Hierarchical Cross-Linked Carbon Aerogels with Transition_images/_temp_d81e4509_convert_.pdf-0004-04.png)
+![](_temp_8f67a08a_convert__images/_temp_8f67a08a_convert_.pdf-0004-04.png)
 
 
 **Figure 2.** A) Normalized Raman spectra of CA/N-M and CA/N aerogels, B) XPS survey spectra of CA/N-M and CA/N aerogels, C1–6) FESEM images of CA/N-M and CA/N aerogels, D1–6) digital photos of different shapes of hydrogels. 
@@ -109,7 +109,7 @@ _Adv. Funct. Mater._ **2021** , 2104377
 **www.advancedsciencenews.com** 
 
 
-![](_images/Hierarchical Cross-Linked Carbon Aerogels with Transition_images/_temp_d81e4509_convert_.pdf-0005-02.png)
+![](_temp_8f67a08a_convert__images/_temp_8f67a08a_convert_.pdf-0005-02.png)
 
 
 **Figure 3.** A) Polarization curves of CA/N-Ni aerogel under Ar and CO2 flowing in 0.5 m KHCO3 solution, B) CO FEs of CA/N-M and CA/N aerogels, C) CO partial current densities of CA/N-M and CA/N aerogels, D) comparison of CO2RR performance of CA/N-Ni aerogel with other reported Ni-N/ − carbon based catalysts, E) stability test of CA/N-Ni aerogel at 0.8 V and corresponding CO FE, F) Tafel slopes of CA/N-M and CA/N aerogels, G) Nyquist plots of CA/N-M and CA/N aerogels, H) _C_ dl values of CA/N-M and CA/N aerogels. 
@@ -133,15 +133,15 @@ _Adv. Funct. Mater._ **2021** , 2104377
 **www.advancedsciencenews.com** 
 
 
-![](_images/Hierarchical Cross-Linked Carbon Aerogels with Transition_images/_temp_d81e4509_convert_.pdf-0006-02.png)
+![](_temp_8f67a08a_convert__images/_temp_8f67a08a_convert_.pdf-0006-02.png)
 
 
 
-![](_images/Hierarchical Cross-Linked Carbon Aerogels with Transition_images/_temp_d81e4509_convert_.pdf-0006-03.png)
+![](_temp_8f67a08a_convert__images/_temp_8f67a08a_convert_.pdf-0006-03.png)
 
 
 
-![](_images/Hierarchical Cross-Linked Carbon Aerogels with Transition_images/_temp_d81e4509_convert_.pdf-0006-04.png)
+![](_temp_8f67a08a_convert__images/_temp_8f67a08a_convert_.pdf-0006-04.png)
 
 
 **Figure 4.** A) CO FEs of CA/N-Ni aerogel before and after poisoning experiments, B–F) high-resolution N 1s XPS spectra of CA/N-M aerogels, G) schematic illustration of five types of N species, H) the contents of fitted N species and ratios of pyrrolic-N/pyridinic-N for CA/N-M aerogels. 
@@ -165,7 +165,7 @@ _Adv. Funct. Mater._ **2021** , 2104377
 **www.advancedsciencenews.com** 
 
 
-![](_images/Hierarchical Cross-Linked Carbon Aerogels with Transition_images/_temp_d81e4509_convert_.pdf-0007-02.png)
+![](_temp_8f67a08a_convert__images/_temp_8f67a08a_convert_.pdf-0007-02.png)
 
 
 **Figure 5.** A) Schematic configuration of in situ ATR-FTIR test, B,C) in situ ATR-FTIR spectra and corresponding contour image of CA/N-Ni aerogel, D) in situ ATR-FTIR spectra of CA/N-Ni aerogel at −0.6, −0.9, and −1.2 V, E) CO partial current density of CA/N-Ni aerogel at different KHCO3 concentrations, F) a proposed catalytic mechanism of CA/N-M aerogel for CO2RR. 
@@ -189,7 +189,7 @@ _Adv. Funct. Mater._ **2021** , 2104377
 **www.advancedsciencenews.com** 
 
 
-![](_images/Hierarchical Cross-Linked Carbon Aerogels with Transition_images/_temp_d81e4509_convert_.pdf-0008-01.png)
+![](_temp_8f67a08a_convert__images/_temp_8f67a08a_convert_.pdf-0008-01.png)
 
 
 **----- Start of picture text -----**<br>
@@ -197,7 +197,7 @@ www.afm-journal.de<br>**----- End of picture text -----**<br>
 
 
 
-![](_images/Hierarchical Cross-Linked Carbon Aerogels with Transition_images/_temp_d81e4509_convert_.pdf-0008-02.png)
+![](_temp_8f67a08a_convert__images/_temp_8f67a08a_convert_.pdf-0008-02.png)
 
 
 **Figure 6.** A) Schematic configuration of a flow-cell reactor with a GDL loaded with catalyst, B) CO FEs and corresponding current densities of CA/N-Ni and CA/N aerogels in a flow-cell reactor, C) comparison of CO2RR performance of CA/N-Ni aerogel with other previously reported M-N/carbon based electrocatalysts in a flow-cell reactor, D) schematic configuration of ZnCO2 battery, which assembly carbon paper coated with CA/N-M catalyst in the CO2 bubbled electrolyte, E) polarization curves and power density of CA/N-Ni aerogel, F) CO FE and current density of CA/N-Ni aerogel in ZnCO2 battery, G) galvanostatic charge–discharge cycling curve of CA/N-Ni aerogel at 0.5 mA cm[−][2] , H) digital photo of light-driven by two ZnCO2 batteries. 

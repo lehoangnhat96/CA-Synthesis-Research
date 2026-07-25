@@ -1,7 +1,7 @@
 Journal of Materials Chemistry A 
 
 
-![](_images/Insights into sustainable aerogels from lignocellulosic materials_images/_temp_3812de84_convert_.pdf-0001-02.png)
+![](_temp_9ceb523b_convert__images/_temp_9ceb523b_convert_.pdf-0001-02.png)
 
 
 ## REVIEW 
@@ -11,7 +11,7 @@ Journal of Materials Chemistry A
 **View Journal | View Issue** 
 
 
-![](_images/Insights into sustainable aerogels from lignocellulosic materials_images/_temp_3812de84_convert_.pdf-0001-06.png)
+![](_temp_9ceb523b_convert__images/_temp_9ceb523b_convert_.pdf-0001-06.png)
 
 
 Cite this: J. Mater. Chem. A, 2022, 10, 23467 
@@ -71,7 +71,7 @@ In the dispersion route (Fig. 1a), cellulose bers are dispersed in deionized 
 The second route to obtain cellulose aerogels is via dissolution (Fig. 1b), which cleaves the hydrogen bonds between 
 
 
-![](_images/Insights into sustainable aerogels from lignocellulosic materials_images/_temp_3812de84_convert_.pdf-0002-11.png)
+![](_temp_9ceb523b_convert__images/_temp_9ceb523b_convert_.pdf-0002-11.png)
 
 
 Fig. 1 Schematic preparation of cellulose aerogels: (a) dispersion route ref.[26] (Adapted from Duong, H. M., Ling, N. R. B., Thai, Q. B., Le, D. K., Nguyen, P. T. T., Goh, X. Y. and Phan-Thien, N., A novel aerogel from thermal power plant waste for thermal and acoustic insulation applications, Waste Management, 124, 2021, 1–7, copyright 2021, with permission from Elsevier), (b) dissolution route (reproduced from ref.[27] with permission from PCCP Owner Societies). 
@@ -155,7 +155,7 @@ Researchers have considered hybridizing different materials with cellulose be
 Lignin, sharing up to 25% of lignocellulosic materials, contains phenolic polymer precursors such as macromolecules p-coumaryl alcohol, coniferyl alcohol, and sinapyl alcohol, which 
 
 
-![](_images/Insights into sustainable aerogels from lignocellulosic materials_images/_temp_3812de84_convert_.pdf-0004-09.png)
+![](_temp_9ceb523b_convert__images/_temp_9ceb523b_convert_.pdf-0004-09.png)
 
 
 Fig. 2 SEM images of (a) before and (b) after coating methyltrimethoxysilane (MTMS) from recycled paper waste aerogels (Reprinted with permission from Nguyen, S. T., Feng, J., Le, N. T., Le, A. T. T., Hoang, N., Tan, V. B. C. and Duong, H. M., Cellulose Aerogel from Paper Waste for Crude Oil Spill Cleaning, Industrial & Engineering Chemistry Research, 2013, 52, 18386–18391.[36] Copyright (2013) American Chemistry Society), (c) from Pineapple Aerogel,[28] (Adapted from Do, N. H. N., Luu, T. P., Thai, Q. B., Le, D. K., Chau, N. D. Q., Nguyen, S. T., Le, P. K., Phan-Thien, N. and Duong, H. M., Heat and sound insulation applications of pineapple aerogels from pineapple waste, Materials Chemistry and Physics, 2020, 242, 122267, copyright 2020, with permission Elsevier), (d) from recycled cellulose fibers[29] (Adapted from Feng, J., Nguyen, S. T., Fan, Z. and Duong, H. M., Advanced fabrication, and oil absorption properties of super-hydrophobic recycled cellulose aerogels, Chemical Engineering Journal, 2015, 270, 168–175, copyright 2015, with permission from Elsevier). Top row: aerogels prepared by the dissolution route, bottom row: aerogels prepared by the dispersion route. 
@@ -173,7 +173,7 @@ Journal of Materials Chemistry A
 correspond to p-hydroxyphenyl, guaiacyl, and syringyl monomer units.[49] Resorcinol/formaldehyde (RF) aerogel is the most studied organic aerogel, but the high cost of resorcinol hinders RF from mass production. Chen et at. reported that lignin could substitute resorcinol to prepare lignin-resorcinol-formaldehyde (LRF) aerogels that had SA in a range of 191–478 m[2] g[−][1] , large mesopore volume (Vmes = 0.834–0.895 cm[3] g[−][1] ),[50] which was comparable to an aerogel prepared from resorcinol (SA = 552 m[2] g[−][1] , Vmes = 0.895 cm[3] g[−][1] ). Increasing the lignin content increases the pore width and decreases the pore volume, leading to a smaller SA.[50] The amount of phenolic precursors in lignin also affected aerogels' properties e.g., kra lignin-based carbon aerogel had a larger SA of 121 m[2] g[−][1] than an organosolv lignin-based carbon aerogel (20 m[2] g[−][1] ) because the kra lignin has more reaction sites (p-coumaryl alcohol and coniferyl alcohol) with formaldehyde than organosolv lignin.[51] Experimental conditions, such as the ratio of lignin to formaldehyde, temperature, mixing, and reaction time also inuence the properties of the prepared aerogel. For instance, a higher ratio of formaldehyde to lignin resulted in lower SA of aerogels, while the opposite effect was observed in carbon aerogels, in that, SA 
 
 
-![](_images/Insights into sustainable aerogels from lignocellulosic materials_images/_temp_3812de84_convert_.pdf-0005-05.png)
+![](_temp_9ceb523b_convert__images/_temp_9ceb523b_convert_.pdf-0005-05.png)
 
 
 Fig. 3 (a) Correlation of initial formaldehyde–lignin mass ratio (F/L) and the specific BET surface area (SBET) for resulting aerogels. (b) Pore size distributions of the aerogels (red) and carbon aerogels (black) made from solutions with different ratios of F/L[52] (Reprinted from Aufischer, G., Kamm, B. and Paulik, C., Polycondensation of kraft-lignin toward value-added biomaterials: carbon aerogels, International Journal of Biobased Plastics, 2021, 3, 19–28, Creative Commons Attribution License). 
@@ -283,7 +283,7 @@ Journal of Materials Chemistry A
 Review 
 
 
-![](_images/Insights into sustainable aerogels from lignocellulosic materials_images/_temp_3812de84_convert_.pdf-0008-04.png)
+![](_temp_9ceb523b_convert__images/_temp_9ceb523b_convert_.pdf-0008-04.png)
 
 
 Fig. 4 SEM images of NCF aerogels: (a, b) HIUS-NCF aerogel, (c, d) HCl-NCF aerogel, (e, f) TMP-NCF aerogel, and (g, h) HSO-NCF aerogel. NCF contents: (a, c, e, g) 0.1 wt% and (b, d, f, h) 0.5 wt%. The scale bars in the insets of all images correspond to 1 mm (Reprinted with permission from Chen, W., Li, Q., Wang, Y., Yi, X., Zeng, J., Yu, H., Liu, Y. and Li, J., Comparative Study of Aerogels Obtained from Differently Prepared Nanocellulose Fibers, ChemSusChem, 2017, 7, 54–161),[75] (i) cellulose nanowhisker aerogel, the inset is the TEM image of cellulose nanowhiskers (Reproduced from ref.[76] with permission from the Royal Society of Chemistry). Acronyms: HIUS: high-intensity ultrasonication, HCl: 20 wt% HCl hydrolysis, TMP: tetramethyl-1-piperidinyloxy (TEMPO)-mediated oxidation (TMP), HSO: 65 wt% H2SO4 hydrolysis. 
@@ -309,13 +309,13 @@ Journal of Materials Chemistry A
 Review 
 
 
-![](_images/Insights into sustainable aerogels from lignocellulosic materials_images/_temp_3812de84_convert_.pdf-0009-04.png)
+![](_temp_9ceb523b_convert__images/_temp_9ceb523b_convert_.pdf-0009-04.png)
 
 
 Fig. 5 X-ray microtomography analysis of nano-fibrillated cellulose aerogels (a) 3D image of 0.75 wt% aerogel, (a[′] and a[′′] ) top and bottom side slice (2D) images of 0.75 wt% aerogel; (b) 3D image of 1.00 wt% aerogel, (b[′] and b[′′] ) top and bottom side slice (2D) images of 1.00 wt% aerogel; (c) 3D image of 1.75 wt% aerogel, (c[′] and c[′′] ) top and bottom side slice (2D) images of 1.75 wt% aerogel[79] (Reprinted from Gupta, P., Singh, B., Agrawal, A. K. and Maji, P. K., Low density and high strength nanofibrillated cellulose aerogel for thermal insulation application, Materials & Design, 2018, 158, 224–236, copyright 2018, with permission from Elsevier), (d) correlation of density and BET specific surface area of the micro-fibrillated cellulose aerogels (Reproduced from ref.[80] with permission from the Royal Society of Chemistry). 
 
 
-![](_images/Insights into sustainable aerogels from lignocellulosic materials_images/_temp_3812de84_convert_.pdf-0009-06.png)
+![](_temp_9ceb523b_convert__images/_temp_9ceb523b_convert_.pdf-0009-06.png)
 
 
 Fig. 6 Phase diagram of the liquid to be removed from the gel network. Reprinted with permission from Ziegler, C., Wolf, A., Liu, W., Herrmann, A.-K., Gaponik, N. and Eychm¨uller, A., Modern Inorganic Aerogels, Angewandte Chemie International Edition, 2017, 56, 13200– 13221. 
@@ -335,7 +335,7 @@ Journal of Materials Chemistry A
 Review 
 
 
-![](_images/Insights into sustainable aerogels from lignocellulosic materials_images/_temp_3812de84_convert_.pdf-0010-04.png)
+![](_temp_9ceb523b_convert__images/_temp_9ceb523b_convert_.pdf-0010-04.png)
 
 
 Fig. 7 SEM of cellulose aerogels obtained from (a) supercritical CO2 drying, (b) freeze-drying, (c) evaporative drying, the insets are aerogel samples.[82] Reprinted from Ganesan, K., Dennstedt, A., Barowski, A. and Ratke, L., Design of aerogels, cryogels and xerogels of cellulose with hierarchical porous structures, Materials & Design, 2016, 92, 345–355, copyright 2016, with permission from Elsevier. 
@@ -365,7 +365,7 @@ Journal of Materials Chemistry A
 Review 
 
 
-![](_images/Insights into sustainable aerogels from lignocellulosic materials_images/_temp_3812de84_convert_.pdf-0011-04.png)
+![](_temp_9ceb523b_convert__images/_temp_9ceb523b_convert_.pdf-0011-04.png)
 
 
 Fig. 8 Fabrication strategies for certain applications. Properties preferred are listed in the order of priority. Materials and synthesis routes are derived from the required properties. Red arrows mean primary conditions, while blue arrows mean secondary conditions. The primary condition is chosen to achieve the most important property. 
@@ -391,7 +391,7 @@ Journal of Materials Chemistry A
 Review 
 
 
-![](_images/Insights into sustainable aerogels from lignocellulosic materials_images/_temp_3812de84_convert_.pdf-0012-04.png)
+![](_temp_9ceb523b_convert__images/_temp_9ceb523b_convert_.pdf-0012-04.png)
 
 
 Fig. 9 SEM images of k-carrageenan aerogel samples: (a) dissolved in BmimCl, (b) dissolved in water and KCl[87] (Reprinted from Agostinho, D. A. S., Paninho, A. I., Cordeiro, T., Nunes, A. V. M., Fonseca, I. M., Pereira, C., Matias, A. and Ventura, M. G., Properties of k-carrageenan aerogels prepared using different dissolution media and its application as drug delivery systems, Materials Chemistry and Physics, 2020, 253, 123290, copyright 2020, with permission from Elsevier). SEM images of sugarcane bagasse aerogel samples prepared by dissolution in NaOH : thiourea : urea (8 : 6.5 : 8 w/v%): (c) 1 wt%, (d) 5 wt% (Reprinted with permission from Chin, S.-F., Jimmy, F. B. and Pang, S.-C., Fabrication of Cellulose Aerogel from Sugarcane Bagasse as Drug Delivery Carriers, Journal of Physical Science, 2016, 27, 159–168).[77] 
@@ -401,7 +401,7 @@ the properties of aerogels have not been investigated. For instance, in the disp
 time of the cross-linking reaction, dispersion time, or the power of ultrasonic have not been investigated. For the dissolution route, the regeneration of cellulose has been studied, however, 
 
 
-![](_images/Insights into sustainable aerogels from lignocellulosic materials_images/_temp_3812de84_convert_.pdf-0012-08.png)
+![](_temp_9ceb523b_convert__images/_temp_9ceb523b_convert_.pdf-0012-08.png)
 
 
 Fig. 10 SEM images of k-carrageenan aerogels (top row) and the computationally designed nanostructured aerogel network (bottom row) of 1 wt% (a, b), 2 wt% (c, d) 3 wt% (e, f) k-carrageenan[96] (Adapted from Chandrasekaran, R., Hillg¨artner, M., Ganesan, K., Milow, B., Itskov, M. and Rege, A., Computational design of biopolymer aerogels and predictive modelling of their nanostructure and mechanical behaviour, Scientific Reports, 2021, 11, 10198, Creative Commons Attribution 4.0 International License). 

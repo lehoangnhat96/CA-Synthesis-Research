@@ -21,13 +21,13 @@ The increasing demand for mobile electrochemical energy storage is fueling the w
 - [b] _F. Schmidt, S. Kirchhoff, K. Jägle, P. Härtel, Dr. S. Dörfler, Dr. T. Abendroth, Dr. B. Schumm, Dr. H. Althues, Prof. Dr. S. Kaskel Chemical Surface and Battery Technology Fraunhofer Institute for Material and Beam Technology Winterberg Straße 28, 01277 Dresden (Germany) E-mail: Susanne.Doerfler@iws.fraunhofer.de_ 
 
 
-![](_images/Sustainable Protein-Based Binder for Lithium-Sulfur Cathodes Processed by a Solv_images/_temp_264005f8_convert_.pdf-0001-11.png)
+![](_temp_a27b30ad_convert__images/_temp_a27b30ad_convert_.pdf-0001-11.png)
 
 
 Supporting information for this article is available on the WWW under https://doi.org/10.1002/cssc.202201320 
 
 
-![](_images/Sustainable Protein-Based Binder for Lithium-Sulfur Cathodes Processed by a Solv_images/_temp_264005f8_convert_.pdf-0001-13.png)
+![](_temp_a27b30ad_convert__images/_temp_a27b30ad_convert_.pdf-0001-13.png)
 
 
 - _© 2022 The Authors. ChemSusChem published by Wiley-VCH GmbH. This is an open access article under the terms of the Creative Commons Attribution License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited._ 
@@ -80,7 +80,7 @@ far.[[13,27,32,33]] The surface morphology as well as the adhesion properties of
 In previous publications, S/C cathodes based on different carbon materials were all prepared, following the same solvent-free approach, with the established PTFE binder.[[13,27,32,33]] Such S/C cathodes based on the SOTA PTFE binder are depicted in Figure 1a–c. In Figure 1b,c PTFE fibrils are visible. These fibrils are characteristic of the PTFE binder and are crucial for the cathode film formation, as well as for the cohesion of the cathode itself. The fibrils connect the single S/Ketjenblack (KB) agglomerate particles by forming a spiderweb-like network, as visible in Figure 1b,c. These fibrils are formed by shearing the PTFE spheres (Figure S1a). The 
 
 
-![](_images/Sustainable Protein-Based Binder for Lithium-Sulfur Cathodes Processed by a Solv_images/_temp_264005f8_convert_.pdf-0002-12.png)
+![](_temp_a27b30ad_convert__images/_temp_a27b30ad_convert_.pdf-0002-12.png)
 
 
 **Figure 1.** SEM images of (a–c) PTFE-based and (d–f) sericin-based dry-film cathodes. 
@@ -108,7 +108,7 @@ Figure 2d shows the height profiles of a DD-wetted sericinbased cathode. The ini
 The swelling dynamics of both cathodes are also evaluated with two other sparingly polysulfide-solvating electrolytes (SPSEs), HD and TMS/TTE. For HD electrolyte, as depicted in 
 
 
-![](_images/Sustainable Protein-Based Binder for Lithium-Sulfur Cathodes Processed by a Solv_images/_temp_264005f8_convert_.pdf-0003-09.png)
+![](_temp_a27b30ad_convert__images/_temp_a27b30ad_convert_.pdf-0003-09.png)
 
 
 **Figure 2.** Height profiles of (a–c) PTFE- and (d–f) sericin-based cathodes after10 μL of (a,d) DD, (b,e) HD, and (c,f) TT electrolyte is applied. The pristine electrode thickness is normalized on the actual thickness of the dry-film electrode coating. 
@@ -136,7 +136,7 @@ The adhesion of both cathodes to the current collector is evaluated by 180° pee
 As depicted in Figure 3, the adhesion force of the PTFEbased cathode is higher than of the sericin-based one. The maximum adhesion forces are 7.6 and 4.9 Ncm[�][2] , respectively. These adhesion forces are average values obtained by a threefold determination. The average adhesion force of the sericinbased cathodes is 35% lower than the one of the PTFE-based standard dry-film cathodes. The better adhesion of the PTFEbased cathodes could be explained by its long-distance fibrils, which connects the cathode layer better with the current collector. Furthermore, the lower molecular weight of the 
 
 
-![](_images/Sustainable Protein-Based Binder for Lithium-Sulfur Cathodes Processed by a Solv_images/_temp_264005f8_convert_.pdf-0004-09.png)
+![](_temp_a27b30ad_convert__images/_temp_a27b30ad_convert_.pdf-0004-09.png)
 
 
 **Figure 3.** Average adhesion forces of PTFE- and sericin-based dry-film coatings to the aluminum current collector. 
@@ -174,7 +174,7 @@ Research Article doi.org/10.1002/cssc.202201320
 ChemSusChem 
 
 
-![](_images/Sustainable Protein-Based Binder for Lithium-Sulfur Cathodes Processed by a Solv_images/_temp_264005f8_convert_.pdf-0006-02.png)
+![](_temp_a27b30ad_convert__images/_temp_a27b30ad_convert_.pdf-0006-02.png)
 
 
 **Figure 4.** Voltage profiles and galvanostatic cycling stability on coin cell level of PTFE- and sericin-based cathodes in (a,b) DD [E/S = 7 μLmg(S)[�][1] ], (c,d) HD [E/ S = 5 μLmg(S)[�][1] ], and (e,f) TT [E/S = 5 μLmg(S)[�][1] ] electrolyte. 
@@ -220,7 +220,7 @@ Research Article doi.org/10.1002/cssc.202201320
 ChemSusChem 
 
 
-![](_images/Sustainable Protein-Based Binder for Lithium-Sulfur Cathodes Processed by a Solv_images/_temp_264005f8_convert_.pdf-0008-02.png)
+![](_temp_a27b30ad_convert__images/_temp_a27b30ad_convert_.pdf-0008-02.png)
 
 
 **Figure 5.** Voltage profiles and galvanostatic cycling stability on pouch cell level of PTFE- and sericin-based cathodes in (a,b) DD, (c,d) HD, and (e,f) TT electrolyte. An E/S ration of 4.5 μLmg(S)[�][1] was applied. The same testing procedure as for the coin cells was conducted. 

@@ -5,7 +5,7 @@ _**Bài nghiên cứu**_
 **Open Access Full Text Article** 
 
 
-![](_images/Tong hop truc tiep cacbon mao quan tu tinh tu_images/_temp_a08a19c3_convert_.pdf-0001-03.png)
+![](_temp_27049d98_convert__images/_temp_27049d98_convert_.pdf-0001-03.png)
 
 
 # **Tổng hợp trực tiếp cacbon mao quản từtính từxơ dừa và ứng dụng trong xúc tác phân hủy p-nitrophenol bằng H** 2 **O** 2 
@@ -13,7 +13,7 @@ _**Bài nghiên cứu**_
 **Nguyễn Minh Hùng[1,2] , ĐỗNgọc Hân[1,2] , ĐỗNgọc Hằng[1,2] , Bùi Lê Nam Quang[1,2] , Lâm Hoa Hùng[1,2] , Trần Thụy Tuyết Mai[1,2] , Nguyễn Quang Long[1,2] , Nguyễn Văn Dũng[1,2,*]** 
 
 
-![](_images/Tong hop truc tiep cacbon mao quan tu tinh tu_images/_temp_a08a19c3_convert_.pdf-0001-06.png)
+![](_temp_27049d98_convert__images/_temp_27049d98_convert_.pdf-0001-06.png)
 
 
 Use your smartphone to scan this QR code and download this article 
@@ -45,7 +45,7 @@ _•_ Ngày đăng: 15-02-2023
 **https://doi.org/10.32508/stdjet.v5iSI1.988** 
 
 
-![](_images/Tong hop truc tiep cacbon mao quan tu tinh tu_images/_temp_a08a19c3_convert_.pdf-0001-21.png)
+![](_temp_27049d98_convert__images/_temp_27049d98_convert_.pdf-0001-21.png)
 
 
 ## **Bản quyền** 
@@ -53,7 +53,7 @@ _•_ Ngày đăng: 15-02-2023
 © ĐHQG Tp.HCM. Đây là bài báo công bố mởđược phát hành theo các điều khoản của the Creative Commons Attribution 4.0 International license. 
 
 
-![](_images/Tong hop truc tiep cacbon mao quan tu tinh tu_images/_temp_a08a19c3_convert_.pdf-0001-24.png)
+![](_temp_27049d98_convert__images/_temp_27049d98_convert_.pdf-0001-24.png)
 
 
 ## **GIỚI THIỆU CHUNG** 
@@ -128,13 +128,13 @@ _**Tạp chí Phát triển Khoa học và Công nghệ – Kĩ thuật và Côn
 _*Hiệu suất tổng hợp là tỉlệkhối lượng của MPC thu được và hỗn hợp trước khi nung_ 
 
 
-![](_images/Tong hop truc tiep cacbon mao quan tu tinh tu_images/_temp_a08a19c3_convert_.pdf-0003-04.png)
+![](_temp_27049d98_convert__images/_temp_27049d98_convert_.pdf-0003-04.png)
 
 
 **Hình 1** : XRD của các mẫu MPC được tổng hợp ở500 _o_ C, 600 _o_ C và 700 _o_ C 
 
 
-![](_images/Tong hop truc tiep cacbon mao quan tu tinh tu_images/_temp_a08a19c3_convert_.pdf-0003-06.png)
+![](_temp_27049d98_convert__images/_temp_27049d98_convert_.pdf-0003-06.png)
 
 
 **Hình 2** : XRD của các mẫu MPC được tổng hợp trong 1 giờ, 2 giờvà 4 giờ 
@@ -165,13 +165,13 @@ Bảng 2 cho thấy khi hàm lượng FeCl3 tẩm lên xơ dừa tăng, MPC đư
 _**Tạp chí Phát triển Khoa học và Công nghệ – Kĩ thuật và Công nghệ 2022, 5(SI1):120-127**_ 
 
 
-![](_images/Tong hop truc tiep cacbon mao quan tu tinh tu_images/_temp_a08a19c3_convert_.pdf-0004-01.png)
+![](_temp_27049d98_convert__images/_temp_27049d98_convert_.pdf-0004-01.png)
 
 
 **Hình 3** : Ảnh SEM của Fe10MPC600-2 
 
 
-![](_images/Tong hop truc tiep cacbon mao quan tu tinh tu_images/_temp_a08a19c3_convert_.pdf-0004-03.png)
+![](_temp_27049d98_convert__images/_temp_27049d98_convert_.pdf-0004-03.png)
 
 
 **Hình 4** : Đường cong từhoá của Fe10MPC600-2 
@@ -185,7 +185,7 @@ Các mẫu MPC đều có từtính và có thểbịhút dễdàng bằng một
 Trong quá trình oxy hóa nâng cao, H2O2 là nguồn cung cấp các gốc tựdo _·_ OH cho phản ứng oxi hóa[23] . Theo lý thuyết, lượng H2O2 cần cho việc phân hủy hoàn toàn 100 ppm PNP là 342 ppm[13,14] . Do đó, nồng độH2O2 trong khoảng 120 – 700 ppm được tiến hành khảo sát (Hình 5). 
 
 
-![](_images/Tong hop truc tiep cacbon mao quan tu tinh tu_images/_temp_a08a19c3_convert_.pdf-0004-09.png)
+![](_temp_27049d98_convert__images/_temp_27049d98_convert_.pdf-0004-09.png)
 
 
 **Hình5** : Ảnhhưởng củanồng độH2O2 đếnkhảnăng mất màu PNP bằng xúc tác MPC 
@@ -211,13 +211,13 @@ Thời gian nhiệt phân càng kéo dài, hiệu quảphân huỷ PNP càng gi�
 _**Tạp chí Phát triển Khoa học và Công nghệ – Kĩ thuật và Công nghệ 2022, 5(SI1):120-127**_ 
 
 
-![](_images/Tong hop truc tiep cacbon mao quan tu tinh tu_images/_temp_a08a19c3_convert_.pdf-0005-01.png)
+![](_temp_27049d98_convert__images/_temp_27049d98_convert_.pdf-0005-01.png)
 
 
 **Hình 6** : Ảnh hưởng của nhiệt độtổng hợp MPC đến khảnăng mất màu PNP 
 
 
-![](_images/Tong hop truc tiep cacbon mao quan tu tinh tu_images/_temp_a08a19c3_convert_.pdf-0005-03.png)
+![](_temp_27049d98_convert__images/_temp_27049d98_convert_.pdf-0005-03.png)
 
 
 **Hình 7** : Ảnh hưởng của thời gian tổng hợp MPC đến khảnăng mất màu PNP 
@@ -235,7 +235,7 @@ lượng cacbon trong MPC, dẫn đến giảm dung lượng hấp phụ.
 Vềhoạt tính xúc tác, PNP gần như không bịmất màu bởi tác nhân oxi hóa H2O2 khi thiếu xúc tác MPC (Hình 8). Khi thay đổi tỉlệFeCl3/xơ dừa trong quá trình tổng hợp MPC, hoạt tính xúc tác của các mẫu vật liệu thu được cũng thay đổi theo. 
 
 
-![](_images/Tong hop truc tiep cacbon mao quan tu tinh tu_images/_temp_a08a19c3_convert_.pdf-0005-11.png)
+![](_temp_27049d98_convert__images/_temp_27049d98_convert_.pdf-0005-11.png)
 
 
 **Hình 8** : Ảnh hưởng của tỉlệkhối lượng FeCl3/xơ dừa (R g/100 g) trong tổng hợp MPC đến khảnăng mất màu PNP 
@@ -376,7 +376,7 @@ _**Research**_
 **Open Access Full Text Article** 
 
 
-![](_images/Tong hop truc tiep cacbon mao quan tu tinh tu_images/_temp_a08a19c3_convert_.pdf-0008-03.png)
+![](_temp_27049d98_convert__images/_temp_27049d98_convert_.pdf-0008-03.png)
 
 
 ## **Direct synthesis of magnetic porous carbon from coconut husk and its application in catalytic degradation of p-nitrophenol by H** 2 **O** 2 
@@ -384,7 +384,7 @@ _**Research**_
 **Hung Minh Nguyen[1,2] , Han Ngoc Do[1,2] , Hang Ngoc Do[1,2] , Quang Le Nam Bui[1,2] , Hung Hoa Lam[1,2] , Tuyet Mai Tran-Thuy[1,2] , Long Quang Nguyen[1,2] , Dung Van Nguyen[1,2,*]** 
 
 
-![](_images/Tong hop truc tiep cacbon mao quan tu tinh tu_images/_temp_a08a19c3_convert_.pdf-0008-06.png)
+![](_temp_27049d98_convert__images/_temp_27049d98_convert_.pdf-0008-06.png)
 
 
 Use your smartphone to scan this QR code and download this article 
@@ -416,7 +416,7 @@ _•_ Published: 15-2-2023
 **DOI : https://doi.org/10.32508/stdjet.v5iSI1.988** 
 
 
-![](_images/Tong hop truc tiep cacbon mao quan tu tinh tu_images/_temp_a08a19c3_convert_.pdf-0008-21.png)
+![](_temp_27049d98_convert__images/_temp_27049d98_convert_.pdf-0008-21.png)
 
 
 ## **Copyright** 
@@ -424,7 +424,7 @@ _•_ Published: 15-2-2023
 © VNUHCM Press. This is an openaccess article distributed under the terms of the Creative Commons Attribution 4.0 International license. 
 
 
-![](_images/Tong hop truc tiep cacbon mao quan tu tinh tu_images/_temp_a08a19c3_convert_.pdf-0008-24.png)
+![](_temp_27049d98_convert__images/_temp_27049d98_convert_.pdf-0008-24.png)
 
 
 **Cite this article :** Nguyen H M, Do H N, Do H N, Bui Q L N, Lam H H, Tran-Thuy T M, Nguyen L Q, Nguyen D V. **Direct synthesis of magnetic porous carbon from coconut husk and its application in catalytic degradation of p-nitrophenol by H** 2 **O** 2. _Sci. Tech. Dev. J. – Engineering and Technology;_ 2022, 5(SI1):120-127. 

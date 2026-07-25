@@ -1,11 +1,11 @@
 _**nanomaterials**_ 
 
 
-![](_images/Carbon Aerogels as Electrocatalysts for Sustainable Energy Applications Recent D_img/_temp_1e07e7e7_heal_.pdf-0001-01.png)
+![](_temp_1e07e7e7_convert__images/_temp_1e07e7e7_convert_.pdf-0001-01.png)
 
 
 
-![](_images/Carbon Aerogels as Electrocatalysts for Sustainable Energy Applications Recent D_img/_temp_1e07e7e7_heal_.pdf-0001-02.png)
+![](_temp_1e07e7e7_convert__images/_temp_1e07e7e7_convert_.pdf-0001-02.png)
 
 
 ## _Review_ 
@@ -33,7 +33,7 @@ Received: 11 July 2022 Accepted: 1 August 2022 Published: 8 August 2022
 **Publisher’s Note:** MDPI stays neutral with regard to jurisdictional claims in published maps and institutional affiliations. 
 
 
-![](_images/Carbon Aerogels as Electrocatalysts for Sustainable Energy Applications Recent D_img/_temp_1e07e7e7_heal_.pdf-0001-15.png)
+![](_temp_1e07e7e7_convert__images/_temp_1e07e7e7_convert_.pdf-0001-15.png)
 
 
 **Copyright:** © 2022 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https:// creativecommons.org/licenses/by/ 4.0/). 
@@ -65,7 +65,7 @@ _Nanomaterials_ **2022** , _12_ , 2721
 3 of 19 
 
 
-![](_images/Carbon Aerogels as Electrocatalysts for Sustainable Energy Applications Recent D_img/_temp_1e07e7e7_heal_.pdf-0003-02.png)
+![](_temp_1e07e7e7_convert__images/_temp_1e07e7e7_convert_.pdf-0003-02.png)
 
 
 **Figure 1.** ( **a** ) Schematic diagram of the synthesis process of CAs. ( **b** ) The electrochemical processes include ORR in fuel cells, the OER and HER in water electrolyzers, and the CO2RR in CO2 reduction electrolyzers [33]. Reproduced with permission. Copyright 2021, Wiley-VCH. 
@@ -101,7 +101,7 @@ _Nanomaterials_ **2022** , _12_ , 2721
 5 of 19 
 
 
-![](_images/Carbon Aerogels as Electrocatalysts for Sustainable Energy Applications Recent D_img/_temp_1e07e7e7_heal_.pdf-0005-02.png)
+![](_temp_1e07e7e7_convert__images/_temp_1e07e7e7_convert_.pdf-0005-02.png)
 
 
 **Figure 2.** ( **a** ) Heteroatom-doped and metal-doped carbon structures. ( **b** ) Hierarchical porous structure assembled by CAs as carriers. 
@@ -115,7 +115,7 @@ _Nanomaterials_ **2022** , _12_ , 2721
 6 of 19 
 
 
-![](_images/Carbon Aerogels as Electrocatalysts for Sustainable Energy Applications Recent D_img/_temp_1e07e7e7_heal_.pdf-0006-02.png)
+![](_temp_1e07e7e7_convert__images/_temp_1e07e7e7_convert_.pdf-0006-02.png)
 
 
 **Figure 3.** ( **a** ) Schematic illustration of possible ORR mechanism for CA and CA _−_ KOH [50]. Reproduced with permission. Copyright 2018, Elsevier. ( **b** ) Schematic illustration of the synthesis process. ( **c** , **d** ) Low-resolution ( **c** ) and high-resolution ( **d** ) FESEM images of NSCA _−_ 700 _−_ 1000. ( **e** ) TEM image and the corresponding EDS mapping for C, N, and S elements of NSCA _−_ 700 _−_ 1000 [51]. Reproduced with permission. Copyright 2018, Elsevier. ( **f** ) Schematic illustration of zinc–air battery. ( **g** ) Open circuit voltage, ( **h** ) Cell voltage vs. time at various current densities, and ( **i** ) Polarization and power density curves of samples NCG, Fe/NCG, Ce/Fe/NCG _−_ 2 cell, and ( **j** ) Pt/C cell with 6 M KOH electrolyte, long-term galvanostatic discharge of Ce/Fe/NCG _−_ 2 and Pt/C cell, and ( **k** ) assembly illustration of zinc–air battery [52]. Reproduced with permission. Copyright 2021, Elsevier. ( **l** ) Schematic illustration of the preparation of Co9S8/N and P-APC [53]. Reproduced with permission. Copyright 2019, Elsevier. 
@@ -191,7 +191,7 @@ _Nanomaterials_ **2022** , _12_ , 2721
 10 of 19 
 
 
-![](_images/Carbon Aerogels as Electrocatalysts for Sustainable Energy Applications Recent D_img/_temp_1e07e7e7_heal_.pdf-0010-02.png)
+![](_temp_1e07e7e7_convert__images/_temp_1e07e7e7_convert_.pdf-0010-02.png)
 
 
 **Figure 4.** Schematic description of facile synthesis. ( **a** ) The fabrication of CoP@C _−_ NPs/GA-x obtained from SA/graphene gelation. ( **b** ) The synthetic route of CoP@C-NPs/GA-5. ( **c** ) Core-shell model schematic of CoP@C _−_ NPs [76]. Reproduced with permission. Copyright 2018, The Royal Society of Chemistry. ( **d** ) Schematic diagram of the preparation of the hollow CFP NFs@NPGA. ( **e** ) The XRD patterns of CoFe-PBA, CF NFs@GA, and CFP NFs@NPGA. ( **f** ) The comparison of the crystal phase between CoFe _−_ PBA and CF NFs@GA. Reproduced with permission [77]. Copyright 2020, Elsevier. ( **g** ) Schematic of the synthesis of MoxSy@GCA [78]. Reproduced with permission. Copyright 2019, The Royal Society of Chemistry ( **h** ) Schematic illustration of BN/CA _−_ NiCoFe fabrication process. Reproduced with permission [79]. Copyright 2022, Elsevier. ( **i** ) Schematic illustration of the construction of Bx/GCS. DFT-calculated HER activities of B5/GCS. ( **j** ) The optimal configuration of B5/GCS and B5/GCA. Green, red, blue, and brown spheres represent B, O, N, and C atoms. ( **k** ) The projected density of states on B site of B5/GCS and B5/GCA. ( **l** ) The projected density of states on the C site of B5/GCS and B5/GCA. ( **m** ) The calculated free-energy diagram of HER at the equilibrium potential for carbon-based catalysts (B5/GCS and B5/GCA with different active sites and Pt reference. Reproduced with permission [80]. Copyright 2019, Elsevier. 
@@ -221,7 +221,7 @@ _Nanomaterials_ **2022** , _12_ , 2721
 13 of 19 
 
 
-![](_images/Carbon Aerogels as Electrocatalysts for Sustainable Energy Applications Recent D_img/_temp_1e07e7e7_heal_.pdf-0013-02.png)
+![](_temp_1e07e7e7_convert__images/_temp_1e07e7e7_convert_.pdf-0013-02.png)
 
 
 **Figure 5.** ( **a** ) Schematic of the synthesis process of the SF-Cu/CA or SF-Cu/CA-1. Reproduced with permission [91]. Copyright 2021, Elsevier. ( **b** ) Schematic Illustration of the preparation of Mn-based heterogeneous catalysts. Reproduced with permission [92]. Copyright 2021, ACS Publications. ( **c** ) Schematic illustration of the fabrication of Ni SACs supported on CAs based on the Ni/Zn _−_ ZIF _−_ 8/carboxymethylcellulose aerogel. ( **d** ) Schematic of a flow cell configuration. ( **e** ) FECO and jCO of Ni-NCA _−_ 10 in the flow cell at different potentials. ( **f** ) TOF of Ni-NCA-10 compared with Ni _−_ NC in an aqueous solution of 1 M KOH in the flow cell. ( **g** ) Stability of Ni _−_ NCA _−_ 10 at a current density of 100 mA cm _[−]_[2] in the flow cell. Reproduced with permission [93]. Copyright 2022, Elsevier. 

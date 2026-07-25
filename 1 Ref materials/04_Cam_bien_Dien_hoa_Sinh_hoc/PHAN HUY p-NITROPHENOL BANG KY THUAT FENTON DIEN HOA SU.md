@@ -3,7 +3,7 @@ _Tạp chı́ Khoa học Trườ ng Đại học Cần Thơ_
 _Tập 49, Phần A (2017): 27-33_ 
 
 
-![](_images/PHAN HUY p-NITROPHENOL BANG KY THUAT FENTON DIEN HOA SU_img/_temp_907109c4_heal_.pdf-0001-02.png)
+![](_temp_907109c4_convert__images/_temp_907109c4_convert_.pdf-0001-02.png)
 
 
 _DOI:10.22144/jvn.2017.004_ 
@@ -81,13 +81,13 @@ _Tập 49, Phần A (2017): 27-33_
 quá trình khử Fe[3+] thì dung dịch Fe2(SO4)3 0,001 M cùng chất điện ly trơ Na2SO4 0,05 M được cho vào cốc chứa catod. Khi nghiên cứu quá trình khử oxy tạo H2O2, dung dịch chứa chất điện ly trơ Na2SO4 0,05 M được cho tiếp xúc catod và oxy không khí được sục qua liên tục nhằm đảm bảo điều kiện bão 
 
 
-![](_images/PHAN HUY p-NITROPHENOL BANG KY THUAT FENTON DIEN HOA SU_img/_temp_907109c4_heal_.pdf-0003-03.png)
+![](_temp_907109c4_convert__images/_temp_907109c4_convert_.pdf-0003-03.png)
 
 
 hòa O2. Các yếu tố khảo sát là hiệu điện thế áp DC áp vào, diện tích điện cực graphit và nồng độ của Fe[2+] và H2O2 tạo thành theo thời gian áp đặt thế. Fe[2+] tạo thành từ phản ứng điện cực được phân tích bằng phương pháp 1,10 – phenanthroline còn H2O2 được phân tích theo phương pháp titan sunphat. 
 
 
-![](_images/PHAN HUY p-NITROPHENOL BANG KY THUAT FENTON DIEN HOA SU_img/_temp_907109c4_heal_.pdf-0003-05.png)
+![](_temp_907109c4_convert__images/_temp_907109c4_convert_.pdf-0003-05.png)
 
 
 **Hình 1: Mô hình thì nghiệm khử Fe[3+] (A) và khử oxy (B) trên điện cực graphit: (1) Máy khuấy từ, (2) Catod (điện cực graphit), (3) Cốc chứa dung dịch, (4) Cầu muối, (5) Nguồn, (6) Anod (điện cực Pt/Ti), (7) cá từ, (8) ống sục không khí** 
@@ -99,7 +99,7 @@ Fe2(SO4)3 được cho vào để đạt nồng độ cần khảo sát ([Fe[3+]
 Quá trình phân hủy p-nitrophenol bằng Fenton điện hóa được tiến hành theo mô hình điện phân không màng ngăn như trong Hình 2. Theo đó, dung dịch p-nitrophenol có nồng độ 5,0 mg/L và Na2SO4 0,05 M ở pH khảo sát (pH 1 tới 4) được cho vào cốc chứa cả anod và catod. Áp điện thế từ nguồn một chiều 7,0 V để đảm bảo quá trình tạo H2O2. Trước khi điện phân, một lượng chính xác 
 
 
-![](_images/PHAN HUY p-NITROPHENOL BANG KY THUAT FENTON DIEN HOA SU_img/_temp_907109c4_heal_.pdf-0003-10.png)
+![](_temp_907109c4_convert__images/_temp_907109c4_convert_.pdf-0003-10.png)
 
 
 **Hình 2: Mô hình bể điện phân không ngăn cách nhằm phân hủy p – nitrophenol: (1) Cốc chứa dung dịch, (2) Catod (điện cực graphit), (3) Anod (điện cực Pt/Ti), (4) Cá từ, (5) Máy khuấy từ, (6) nguồn điện một chiều, (7) ống sục không khí** 
@@ -119,7 +119,7 @@ Quá trình khử Fe[3+] trên điện cực graphit là khá dễ dàng. Theo k
 tăng mạnh chứng tỏ tốc độ phản ứng tăng theo điện thế áp vào. Dù vậy khi  U vượt quá 3 V thì tốc độ của phản ứng điện cực đi dần tới giá trị cân bằng. Điều này là do tốc độ của phản ứng điện cực bị giới hạn bởi diện tích bề mặt của điện cực. Khi gia tăng bề mặt điện cực, tốc độ phản ứng khử Fe[3+] trên điện cực gia tăng tương ứng (Hình 3b). Như vậy, muốn quá trình điện cực được tốt, cần thiết phải gia tăng diện tích bề mặt của điện cực để gia tăng tốc độ phản ứng. 
 
 
-![](_images/PHAN HUY p-NITROPHENOL BANG KY THUAT FENTON DIEN HOA SU_img/_temp_907109c4_heal_.pdf-0004-06.png)
+![](_temp_907109c4_convert__images/_temp_907109c4_convert_.pdf-0004-06.png)
 
 
 **----- Start of picture text -----**<br>
@@ -129,7 +129,7 @@ tăng mạnh chứng tỏ tốc độ phản ứng tăng theo điện thế áp 
 **Hình 3: Ảnh hưởng của hiệu điện thế áp vào (Hình 3A) và diện tích catod (Hình 3B) lên quá trình khử Fe[3+] thành Fe[2+] (Vdd = 200 mL, [Na2SO4] = 0,05 M, [Fe[3+] ] = 0,001 M, thời gian áp thế 30 phút)** 
 
 
-![](_images/PHAN HUY p-NITROPHENOL BANG KY THUAT FENTON DIEN HOA SU_img/_temp_907109c4_heal_.pdf-0004-08.png)
+![](_temp_907109c4_convert__images/_temp_907109c4_convert_.pdf-0004-08.png)
 
 
 **----- Start of picture text -----**<br>
@@ -155,7 +155,7 @@ _Tập 49, Phần A (2017): 27-33_
 khá thấp. Hình 5A cho thấy hiệu điện thế có ảnh hưởng rất lớn đến sự tạo thành H2O2. Cụ thể, trong khoảng điện áp  U dưới 4 V thì lượng H2O2 hầu như không được tạo thành. Chỉ khi  U > 4 V thì quá trình khử oxy tạo H2O2 mới diễn ra một cách đáng kể. Trong khoảng  U từ 4 – 7 V thì nồng độ H2O2 tạo thành tăng liên tục theo điện thế áp vào. Nhưng sau khi vượt quá 7 V thì lượng H2O2 không còn tăng nữa mà hầu như không tăng khi gia tăng 
 
 
-![](_images/PHAN HUY p-NITROPHENOL BANG KY THUAT FENTON DIEN HOA SU_img/_temp_907109c4_heal_.pdf-0005-03.png)
+![](_temp_907109c4_convert__images/_temp_907109c4_convert_.pdf-0005-03.png)
 
 
 **----- Start of picture text -----**<br>
@@ -165,11 +165,11 @@ khá thấp. Hình 5A cho thấy hiệu điện thế có ảnh hưởng rất l
  U. Kết quả này khá phù hợp vì theo tài liệu tham khảo (Yu et al., 2013), khi điện thế  U áp vào khoảng 5 V thì điện thế tại catod là -0,55 V vs (SCE) và thế này đủ để khử oxy tạo H2O2 theo phương trình. 
 
 
-![](_images/PHAN HUY p-NITROPHENOL BANG KY THUAT FENTON DIEN HOA SU_img/_temp_907109c4_heal_.pdf-0005-05.png)
+![](_temp_907109c4_convert__images/_temp_907109c4_convert_.pdf-0005-05.png)
 
 
 
-![](_images/PHAN HUY p-NITROPHENOL BANG KY THUAT FENTON DIEN HOA SU_img/_temp_907109c4_heal_.pdf-0005-06.png)
+![](_temp_907109c4_convert__images/_temp_907109c4_convert_.pdf-0005-06.png)
 
 
 **Hình 5: Ảnh hưởng của hiệu điện thế áp vào (Hình 5A) và thời gian (Hình 5B) lên quá trình khử oxy tạo H2O2 trên điện cực graphit (Vdd = 200 mL, [Na2SO4] = 0,050 M, sục không khí liên tục, Sđiện cực = 15,4 cm[2] ,**  **U = 7,0 V)** 
@@ -177,7 +177,7 @@ khá thấp. Hình 5A cho thấy hiệu điện thế có ảnh hưởng rất l
 Hình 5B thể hiện ảnh hưởng của thời gian áp thế lên quá trình hình thành H2O2. Kết quả cho thấy nồng độ H2O2 dao động trong khoảng 9,5.10[-5] – 11.10[-5] M và ổn định trong khoảng thời gian dài từ 30 – 120 phút. Khi sục không khí liên tục thì H2O2 luôn được tạo thành nhưng lượng H2O2 tích lũy trong quá trình điện phân lại có thể bị phân hủy dưới tác dụng của dòng điện hay bị phân hủy tự nhiên theo các phản ứng sau đây: 
 
 
-![](_images/PHAN HUY p-NITROPHENOL BANG KY THUAT FENTON DIEN HOA SU_img/_temp_907109c4_heal_.pdf-0005-09.png)
+![](_temp_907109c4_convert__images/_temp_907109c4_convert_.pdf-0005-09.png)
 
 
 Do đó, cần duy trì sục không khí liên tục để đảm bảo có mặt oxy tại bề mặt điện cực nhằm tránh phản ứng khử tiếp H2O2 tạo H2O. Sự thiếu oxy tại bề mặt điện cực sẽ dẫn đến hàm lượng H2O2 giảm dần do quá trình khử sẽ xảy ra trên chính H2O2 tạo thành. Ở hiệu điện thế áp vào là 7 V, nồng độ H2O2 tạo thành bằng phản ứng khử oxy trên điện cực graphit ổn định ở mức   1.10[-4] M và ngưỡng nồng độ này đủ để xử lý các dung dịch p – 
@@ -195,7 +195,7 @@ _Tạp chı́ Khoa học Trườ ng Đại học Cần Thơ_
 _Tập 49, Phần A (2017): 27-33_ 
 
 
-![](_images/PHAN HUY p-NITROPHENOL BANG KY THUAT FENTON DIEN HOA SU_img/_temp_907109c4_heal_.pdf-0006-02.png)
+![](_temp_907109c4_convert__images/_temp_907109c4_convert_.pdf-0006-02.png)
 
 
 **----- Start of picture text -----**<br>
@@ -207,7 +207,7 @@ _Tập 49, Phần A (2017): 27-33_
 Khi hàm lượng [Fe[3+] ] ban đầu quá cao hay quá thấp thì hiệu suất xử lý đều kém. Điều này là do phản ứng khử Fe[3+] thành Fe[2+] diễn ra dễ dàng hơn so với phản ứng khử điện hóa oxy trên catod nên nếu nồng độ Fe[3+] quá cao thì Fe[3+ ] sẽ ưu tiên phóng điện trước và cản trở hoàn toàn phản ứng khử oxy tạo H2O2 trên catod. Ngược lại, nếu [Fe[3+] ] quá thấp thì lượng Fe[2+] tạo thành quá ít nên không đủ để tạo gốc tự do OH[*] theo phương trình: 
 
 
-![](_images/PHAN HUY p-NITROPHENOL BANG KY THUAT FENTON DIEN HOA SU_img/_temp_907109c4_heal_.pdf-0006-05.png)
+![](_temp_907109c4_convert__images/_temp_907109c4_convert_.pdf-0006-05.png)
 
 
 Điều này cũng dẫn đến hiệu quả xử lý kém. Do vậy, cần có một nồng độ thích hợp Fe[3+] đủ để tạo ra lượng Fe[2+] đủ để tương tác với H2O2 mà không gây cản trở đáng kể lên quá trình tạo H2O2 ở catod. Trong điều kiện thực nghiệm, [Fe[3+] ] ban đầu thích hợp là 0,001 M và được cố định trong thí nghiệm khảo sát ảnh hưởng của pH. 

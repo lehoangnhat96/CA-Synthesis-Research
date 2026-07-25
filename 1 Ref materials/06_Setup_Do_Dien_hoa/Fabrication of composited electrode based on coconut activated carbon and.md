@@ -1,7 +1,7 @@
 Vietnam Journal of Catalysis and Adsorption, 12 – issue 1 (2023) 60-67 
 
 
-![](_images/Fabrication of composited electrode based on coconut activated carbon and_images/_temp_e389f271_convert_.pdf-0001-01.png)
+![](_temp_a7199df7_convert__images/_temp_a7199df7_convert_.pdf-0001-01.png)
 
 
 Vietnam Journal of Catalysis and Adsorption Tạp chí xúc tác và hấp phụ Việt Nam 
@@ -37,7 +37,7 @@ Vietnam Journal of Catalysis and Adsorption, 12 – issue 1 (2023) 60-67
 đó anion bị hấp phụ trên điện cực dương và các cation hấp phụ trên điện cực âm.[3] Khi ngừng áp thế hoặc đảo cực, ion được giải hấp ra khỏi điện cực, điện cực được tái sinh. Hiệu suất của CDI phần lớn phụ thuộc vào các đặc tính của điện cực. Vì thế nghiên cứu trong lĩnh vực CDI tập trung chủ yếu vào việc chọn lọc và chế tạo các vật liệu điện cực phù hợp. Nhìn chung, các điện cực CDI cần có diện tích bề mặt riêng lớn, phân bố lỗ xốp phù hợp và độ dẫn điện vượt trội sẽ có lợi thế trong việc hấp phụ một lượng lớn các ion trong nước.[4] 
 
 
-![](_images/Fabrication of composited electrode based on coconut activated carbon and_images/_temp_e389f271_convert_.pdf-0002-02.png)
+![](_temp_a7199df7_convert__images/_temp_a7199df7_convert_.pdf-0002-02.png)
 
 
 **----- Start of picture text -----**<br>
@@ -112,7 +112,7 @@ CCD được thực hiện trên hệ ba điện cực tương tự như hệ đ
 Hệ thống đo hấp phụ muối được thiết lập như trong hình 2, bao gồm một tế bào CDI, bơm nhu động, máy đo độ dẫn, máy đo điện thế đa năng. Tế bào CDI được lắp ráp gồm một cặp điện cực được đặt đối xứng, cách nhau bằng tấm đệm cách điện độ dày 400 µm. Kích thước mỗi điện cực là 3,0 cm x 2,5 cm, có độ dày 100 µm – 300 µm. Bơm tuần hoàn một thể tích cố định 50 mL dung dịch NaCl 200 ppm qua tế bào CDI với tốc độ dòng không đổi 10 mL phút[-1] . Theo dõi giá trị độ dẫn điện riêng (κ) của dung dịch đi qua tế bào CDI cho đến khi giá trị không đổi, ghi nhận giá trị. Áp điện thế lần lượt từ 0.8 đến 1,6 V vào tế bào CDI và ghi nhận giá trị độ dẫn điện riêng giảm theo thời gian, khoảng 30 giây ghi nhận một giá trị độ dẫn, cho đến khi giá trị độ dẫn điện riêng không đổi. 
 
 
-![](_images/Fabrication of composited electrode based on coconut activated carbon and_images/_temp_e389f271_convert_.pdf-0003-18.png)
+![](_temp_a7199df7_convert__images/_temp_a7199df7_convert_.pdf-0003-18.png)
 
 
 Hình 2: tế bào CDI (a) và hệ thống thiết bị đo dung lượng hấp phụ ion (b) 
@@ -173,21 +173,21 @@ Bảng 2: Diện tích bề mặt riêng và kích thước mao quản trung bì
 
 
 
-![](_images/Fabrication of composited electrode based on coconut activated carbon and_images/_temp_e389f271_convert_.pdf-0004-19.png)
+![](_temp_a7199df7_convert__images/_temp_a7199df7_convert_.pdf-0004-19.png)
 
 
 Hình 3: Đường đẳng nhiệt hấp phụ và giải hấp của vật liệu composite 
 
 
-![](_images/Fabrication of composited electrode based on coconut activated carbon and_images/_temp_e389f271_convert_.pdf-0004-21.png)
+![](_temp_a7199df7_convert__images/_temp_a7199df7_convert_.pdf-0004-21.png)
 
 
 
-![](_images/Fabrication of composited electrode based on coconut activated carbon and_images/_temp_e389f271_convert_.pdf-0004-22.png)
+![](_temp_a7199df7_convert__images/_temp_a7199df7_convert_.pdf-0004-22.png)
 
 
 
-![](_images/Fabrication of composited electrode based on coconut activated carbon and_images/_temp_e389f271_convert_.pdf-0004-23.png)
+![](_temp_a7199df7_convert__images/_temp_a7199df7_convert_.pdf-0004-23.png)
 
 
 **----- Start of picture text -----**<br>
@@ -207,7 +207,7 @@ Vietnam Journal of Catalysis and Adsorption, 12 – issue 1 (2023) 60-67
 không đồng nhất nhưng khá chặt chẽ. Hình 5 là ảnh SEM của mẫu C-0 và C-2 chụp ở độ phóng đại 10.000 lần, cho thấy các sợi MCNTs trong mẫu C-2 đan chéo giữa các phiến than, như các cầu nối trong cấu trúc của composite. Nhờ cầu nối dẫn điện của MCNTs, tính dẫn điện trong điện cực composite có thể được cải thiện. 
 
 
-![](_images/Fabrication of composited electrode based on coconut activated carbon and_images/_temp_e389f271_convert_.pdf-0005-02.png)
+![](_temp_a7199df7_convert__images/_temp_a7199df7_convert_.pdf-0005-02.png)
 
 
 C-0                                  C-2 
@@ -221,7 +221,7 @@ Tính chất điện hóa của điện cực composite
 Hình 5 biểu diễn giản đồ CV của các điện cực composite C-0, C-1, C-2, C-3 tương ứng với thành phần CNT thay đổi từ 0 đến 2%. 
 
 
-![](_images/Fabrication of composited electrode based on coconut activated carbon and_images/_temp_e389f271_convert_.pdf-0005-08.png)
+![](_temp_a7199df7_convert__images/_temp_a7199df7_convert_.pdf-0005-08.png)
 
 
 Hình 5: Đường CV của các điện cực không và có MCNTs trong NaCl 0,5 M, tốc độ quét 20 mV.s[-1 ] 
@@ -231,11 +231,11 @@ Diện tích của CV (biểu thị cho tổng điện tích nạp và phóng đ
 Sự giảm điện dung của mẫu C-3 có thể do diện tích bề mặt riêng giảm (Bảng 2), mặc dù điện cực được tăng cường chất phụ gia dẫn điện. Như vậy mẫu C-2 chứa 1% MCNTs là điện cực có khả năng hấp phụ ion tốt nhất trong số các mẫu composite khảo sát trong nghiên cứu này. 
 
 
-![](_images/Fabrication of composited electrode based on coconut activated carbon and_images/_temp_e389f271_convert_.pdf-0005-12.png)
+![](_temp_a7199df7_convert__images/_temp_a7199df7_convert_.pdf-0005-12.png)
 
 
 
-![](_images/Fabrication of composited electrode based on coconut activated carbon and_images/_temp_e389f271_convert_.pdf-0005-13.png)
+![](_temp_a7199df7_convert__images/_temp_a7199df7_convert_.pdf-0005-13.png)
 
 
 Hình 6: Giản đồ CV của điện cực (a) C-0 và (b) C-2  với độ dày thay đổi 100 µm – 300 µm tốc độ quét 5 mV.s[-1] . Bảng 3: Điện dung riêng của điện cực composite 
@@ -274,7 +274,7 @@ Bảng 4: Điện dung và điện dung riêng của điện cực C- 0 và C-2
 
 
 
-![](_images/Fabrication of composited electrode based on coconut activated carbon and_images/_temp_e389f271_convert_.pdf-0006-04.png)
+![](_temp_a7199df7_convert__images/_temp_a7199df7_convert_.pdf-0006-04.png)
 
 
 Hình 7: Đường CCD của điện cực C-2 trong dung dịch NaCl 0,5 M, đo với dòng điện riêng 30 mA.g[-1] 
@@ -284,7 +284,7 @@ Bảng 5 trình bày giá trị điện dung và điện dung riêng của hai m
 Hình 8 cho thấy giá trị điện trở rơi của màng điện cực C-0 tăng nhanh từ 19,7 lên 43,6 Omh khi tăng độ dày điện cực từ 100 µm - 300 µm. Trong khi điện trở rơi trên mẫu C-2 chỉ tăng nhẹ trong khoảng 5,5 - 6,5 Ohm. Chứng tỏ rằng phụ gia dẫn điện MCNTS đã cải thiện tính dẫn điện cho màng điện cực. 
 
 
-![](_images/Fabrication of composited electrode based on coconut activated carbon and_images/_temp_e389f271_convert_.pdf-0006-08.png)
+![](_temp_a7199df7_convert__images/_temp_a7199df7_convert_.pdf-0006-08.png)
 
 
 Hình 8: Giá trị điện trở rơi trên điện cực C-0 và C-2 tương ứng với độ dày 100, 200 và 300 µm 
@@ -304,13 +304,13 @@ Vietnam Journal of Catalysis and Adsorption, 12 – issue 1 (2023) 60-67
 trong quá trình điện hấp phụ, từ đó làm cho dung lượng hấp phụ bị suy giảm. 
 
 
-![](_images/Fabrication of composited electrode based on coconut activated carbon and_images/_temp_e389f271_convert_.pdf-0007-02.png)
+![](_temp_a7199df7_convert__images/_temp_a7199df7_convert_.pdf-0007-02.png)
 
 
 Hình 9: Quá trình hấp phụ muối của tế bào CDI sử dụng điện cực C-2 với các độ dày khác nhau 
 
 
-![](_images/Fabrication of composited electrode based on coconut activated carbon and_images/_temp_e389f271_convert_.pdf-0007-04.png)
+![](_temp_a7199df7_convert__images/_temp_a7199df7_convert_.pdf-0007-04.png)
 
 
 Hình 10: Dung lượng hấp phụ muối C-2 với độ dày 100, 200, 300 µm, trong dung dịch NaCl 200 ppm 
@@ -320,19 +320,19 @@ Giá trị dung lượng hấp phụ muối cực đạt có thể đạt 11.97 
 Quá trình hấp phụ muối NaCl qua tế bào CDI chế tạo từ điện cực có độ dày 200 µm, hoạt động tại điện thế 1,2 V được đề nghị theo động học bậc 1 bởi phương trình (4): 
 
 
-![](_images/Fabrication of composited electrode based on coconut activated carbon and_images/_temp_e389f271_convert_.pdf-0007-08.png)
+![](_temp_a7199df7_convert__images/_temp_a7199df7_convert_.pdf-0007-08.png)
 
 
 Trong đó qc, qt, lần lượt là dung lượng hấp phụ muối tối đa và dung lượng hấp phụ muối tại thời điểm t, k1 là hằng số tốc độ của phương trình bậc 1. 
 
 
-![](_images/Fabrication of composited electrode based on coconut activated carbon and_images/_temp_e389f271_convert_.pdf-0007-10.png)
+![](_temp_a7199df7_convert__images/_temp_a7199df7_convert_.pdf-0007-10.png)
 
 
 Hình 11: Dung lượng hấp phụ muối NaCl theo thế của điện cực C-2 với độ dày 200 µm 
 
 
-![](_images/Fabrication of composited electrode based on coconut activated carbon and_images/_temp_e389f271_convert_.pdf-0007-12.png)
+![](_temp_a7199df7_convert__images/_temp_a7199df7_convert_.pdf-0007-12.png)
 
 
 Hình 12: Đồ thị biểu diễn phương trình bậc 1 của quá trình hấp phụ muối NaCl qua tế bào CDI chế tạo bằng điện cực có độ dày khác nhau. 
@@ -408,7 +408,7 @@ https://doi.org/10.1149/1.1490535
 18. L.K. Duyen, P.Q. Nghiep and L.A. Kien, Science & Technology Development (2016) 19 K6 155–164. https://doi.org/10.32508/stdj.v19i3.570 
 
 
-![](_images/Fabrication of composited electrode based on coconut activated carbon and_images/_temp_e389f271_convert_.pdf-0008-26.png)
+![](_temp_a7199df7_convert__images/_temp_a7199df7_convert_.pdf-0008-26.png)
 
 
 https://doi.org/10.51316/jca.2023.010 

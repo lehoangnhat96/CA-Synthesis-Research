@@ -1,11 +1,11 @@
 
-![](_images/3 Porous Starch Materials via Supercritical- and Freeze-Drying_images/_temp_859ebf26_convert_.pdf-0001-00.png)
+![](_temp_3a4f229e_convert__images/_temp_3a4f229e_convert_.pdf-0001-00.png)
 
 
 ## _**gels**_ 
 
 
-![](_images/3 Porous Starch Materials via Supercritical- and Freeze-Drying_images/_temp_859ebf26_convert_.pdf-0001-02.png)
+![](_temp_3a4f229e_convert__images/_temp_3a4f229e_convert_.pdf-0001-02.png)
 
 
 ## _Article_ 
@@ -67,13 +67,13 @@ _Gels_ **2019** , _5_ , 12
 3 of 14 
 
 
-![](_images/3 Porous Starch Materials via Supercritical- and Freeze-Drying_images/_temp_859ebf26_convert_.pdf-0003-02.png)
+![](_temp_3a4f229e_convert__images/_temp_3a4f229e_convert_.pdf-0003-02.png)
 
 
 **Figure 1.** Physical appearance of freeze-dried starch samples (“FD”) derived from 5 and 10 wt.% starch suspensions corresponding respectively to the first and second row of pictures ( **a** – **d** ) and ( **e** – **h** ). Samples gelled and retrograded at +6 _[◦]_ C overnight are denoted as “FD-G” (pictures ( **a** , **b** , **e** , **f** )), non-gelled samples are denoted as “FD-NG” (pictures ( **c** , **d** , **g** , **h** )). Prior to freeze-drying the samples were frozen at _−_ 20 _[◦]_ C in a freezer (“FR”—pictures ( **a** , **e** , **c** , **g** )) or in liquid nitrogen (“LN”—pictures ( **b** , **f** , **d** , **h** )). Sublimation was performed at 0.045 mbar (cold trap temperature _−_ 49 _[◦]_ C) for 96 h. The scale bar corresponds to approximatively 1 cm. 
 
 
-![](_images/3 Porous Starch Materials via Supercritical- and Freeze-Drying_images/_temp_859ebf26_convert_.pdf-0003-04.png)
+![](_temp_3a4f229e_convert__images/_temp_3a4f229e_convert_.pdf-0003-04.png)
 
 
 **Figure 2.** Physical appearance of freeze-dried starch samples (“FD”) derived from 5 and 10 wt.% starch suspensions corresponding respectively to the first and second row of pictures ( **a** – **d** ) and ( **e** – **h** ). Samples gelled and retrograded at +6 _[◦]_ C overnight are denoted as “FD-G” (pictures ( **a** , **b** , **e** , **f** )), non-gelled samples are denoted as “FD-NG” (pictures ( **c** , **d** , **g** , **h** )). Prior to freeze-drying the samples were frozen at _−_ 20 _[◦]_ C in a freezer (“FR”—pictures ( **a** , **e** , **c** , **g** )) or in liquid nitrogen (“LN”—pictures ( **b** , **f** , **d** , **h** )). Sublimation was performed at 2.38 mbar (cold trap temperature _−_ 10 _[◦]_ C) for 48 h. The scale bar corresponds to approximatively 1 cm. 
@@ -87,7 +87,7 @@ _Gels_ **2019** , _5_ , 12
 4 of 14 
 
 
-![](_images/3 Porous Starch Materials via Supercritical- and Freeze-Drying_images/_temp_859ebf26_convert_.pdf-0004-02.png)
+![](_temp_3a4f229e_convert__images/_temp_3a4f229e_convert_.pdf-0004-02.png)
 
 
 **Figure 3.** Structure of the sample FD-G-FR derived from 5 wt.% starch suspension and freeze-dried at sublimation pressure of 0.045 mbar ( **A** , **C** ) and 2.38 mbar ( **B** ). 
@@ -97,7 +97,7 @@ The sheet-like structures are usually attributed to the slow growth of water cry
 Rapid freezing of the starch gels in liquid nitrogen (samples FD-G-LN, both 5 and 10 wt.%) did not result in a finer structure: mostly dense sheets can be observed in Figure 4A,C. However, in this case some regions were found to be much more porous than others (cf. Figure 5A,B). This inhomogeneity probably arises from the temperature gradient set up in the radial direction when the gel was immersed in liquid nitrogen, with fine ice crystals in the peripheral zone and coarse crystals in the central region. It was natural to expect that slow freezing at _−_ 20 _[◦]_ C (sample FD-G-FR) should result in essentially the same morphology with dense walls what was indeed observed in our experiments. It is important to note that both 5 and 10 wt.% suspensions demonstrated similar morphology (data not shown). 
 
 
-![](_images/3 Porous Starch Materials via Supercritical- and Freeze-Drying_images/_temp_859ebf26_convert_.pdf-0004-06.png)
+![](_temp_3a4f229e_convert__images/_temp_3a4f229e_convert_.pdf-0004-06.png)
 
 
 **Figure 4.** Dense structure of the sample FD-G-LN derived from 5 wt.% starch suspension and freeze-dried at sublimation pressure of 2.38 mbar. Picture ( **A** ) shows an overview of the material structure and picture ( **B** ) presents a dense pore wall with higher magnification. 
@@ -107,7 +107,7 @@ _Gels_ **2019** , _5_ , 12
 5 of 14 
 
 
-![](_images/3 Porous Starch Materials via Supercritical- and Freeze-Drying_images/_temp_859ebf26_convert_.pdf-0005-02.png)
+![](_temp_3a4f229e_convert__images/_temp_3a4f229e_convert_.pdf-0005-02.png)
 
 
 **Figure 5.** Partially porous structure of the sample FD-G-LN derived from 5 wt.% starch suspension and freeze-dried at sublimation pressure of 0.045 mbar. Picture ( **C** ) shows an overview of the material structure. Pictures ( **A** , **B** ) correspond respectively to a pore wall with apparent porosity and a region with smaller pores observed with higher magnifications. 
@@ -115,7 +115,7 @@ _Gels_ **2019** , _5_ , 12
 Similarly, when pasted starch (hot melt) was frozen at _−_ 20 _[◦]_ C without preliminary gelation and retrogradation (sample FD-NG-FR), ordinary sheet-like structures was generated (Figure 6A) with dense sheets and craters on them with a diameter larger than 100 µm (Figure 6B). In contrast to the above observations, for quenching the pasted starch in liquid nitrogen (sample FD-NG-LN) two distinctly different structures were observed depending on the starch concentration. At low starch concentration, rough (Figure 7A) and relatively dense sheets were obtained (Figure 7B,C), whereas an open cell foam with thin nonporous and interconnected sheets with a typical pore diameter of ~20 µm, was observed with higher starch concentration (Figure 8). Similar structures were reported for freeze-dried nanofibrillated cellulose (frozen at _−_ 80 _[◦]_ C), cryogelated gelatin–fibrinogen [23], and potato starch cross-linked by citric acid [17,32]. 
 
 
-![](_images/3 Porous Starch Materials via Supercritical- and Freeze-Drying_images/_temp_859ebf26_convert_.pdf-0005-05.png)
+![](_temp_3a4f229e_convert__images/_temp_3a4f229e_convert_.pdf-0005-05.png)
 
 
 **Figure 6.** Structure of the sample FD-NG-FR derived from 5 wt.% starch suspension and freeze-dried at sublimation pressure of 2.38 mbar. Picture ( **A** ) shows an overview of the material structure and picture ( **B** ) a dense pore wall with higher magnification. 
@@ -125,13 +125,13 @@ _Gels_ **2019** , _5_ , 12
 6 of 14 
 
 
-![](_images/3 Porous Starch Materials via Supercritical- and Freeze-Drying_images/_temp_859ebf26_convert_.pdf-0006-02.png)
+![](_temp_3a4f229e_convert__images/_temp_3a4f229e_convert_.pdf-0006-02.png)
 
 
 **Figure 7.** Structure of the sample FD-NG-LN derived from 5 wt.% starch suspension and freeze-dried at sublimation pressure of 0.045 mbar. Picture ( **A** ) shows an overview of the material structure and pictures ( **B** , **C** ) a pore wall with higher magnifications 
 
 
-![](_images/3 Porous Starch Materials via Supercritical- and Freeze-Drying_images/_temp_859ebf26_convert_.pdf-0006-04.png)
+![](_temp_3a4f229e_convert__images/_temp_3a4f229e_convert_.pdf-0006-04.png)
 
 
 **Figure 8.** Structure of the sample FD-NG-LN derived from 10 wt.% starch suspension and freeze-dried at sublimation pressure of 0.045 mbar. Picture ( **A** ) shows an overview of the material which fine structure is displayed with a higher magnification on picture ( **B** ). 
@@ -147,7 +147,7 @@ _Gels_ **2019** , _5_ , 12
 pattern of starch aerogels which presented a band at 2Θ = 15–19 _[◦]_ which corresponds to a B-type diffraction pattern [38]. In addition to the previous considerations, these observations reinforce further the results of Robitzer et al. [35,36] stating that the supercritical drying preserves the microstructure present in the hydrogel. 
 
 
-![](_images/3 Porous Starch Materials via Supercritical- and Freeze-Drying_images/_temp_859ebf26_convert_.pdf-0007-03.png)
+![](_temp_3a4f229e_convert__images/_temp_3a4f229e_convert_.pdf-0007-03.png)
 
 
 **Figure 9.** Structure of the starch aerogel (SCD-G) derived from 10 wt.% starch suspension. Picture ( **A** ) shows an overview of the material which fine structure is displayed with a higher magnification on picture ( **B** ). 
@@ -183,13 +183,13 @@ _Gels_ **2019** , _5_ , 12
 9 of 14 
 
 
-![](_images/3 Porous Starch Materials via Supercritical- and Freeze-Drying_images/_temp_859ebf26_convert_.pdf-0009-02.png)
+![](_temp_3a4f229e_convert__images/_temp_3a4f229e_convert_.pdf-0009-02.png)
 
 
 **Figure 10.** Envelope density comparison of freeze-dried and supercritically dried samples for starch concentration of 5 w% (hashed bars) and 10 wt.% (plain bars). 
 
 
-![](_images/3 Porous Starch Materials via Supercritical- and Freeze-Drying_images/_temp_859ebf26_convert_.pdf-0009-04.png)
+![](_temp_3a4f229e_convert__images/_temp_3a4f229e_convert_.pdf-0009-04.png)
 
 
 **Figure 11.** Porosity comparison of freeze-dried and supercritically dried samples for starch concentration of 5 w% (hashed bars) and 10 wt.% (plain bars). 
@@ -259,7 +259,7 @@ Directly after the starch pasting, when no gel is yet formed, some samples were 
 BET surface was measured with nitrogen adsorption (NOVA 4000e, Quantachrome Instrument; Anton Paar, Graz, Austria). Microstructure of the porous starch materials was studied by scanning electron microscopy (Leo Gemini 1530, Zeiss, Oberkochen, Germany) after sputtering with 10 nm gold. The envelope density ρenv for cylindrical samples was calculated from the sample weight and dimensions (diameter and length). The skeletal density ρskel was measured with Helium pycnometry (Micromeritics 1305, Aachen, Germany). The porosity was then calculated according to Equation (1). 
 
 
-![](_images/3 Porous Starch Materials via Supercritical- and Freeze-Drying_images/_temp_859ebf26_convert_.pdf-0011-12.png)
+![](_temp_3a4f229e_convert__images/_temp_3a4f229e_convert_.pdf-0011-12.png)
 
 
 Density measurements were conducted in triplicates and reported as the mean _±_ standard deviation. Uncertainty of the porosity was estimated as follows: One thousand normally distributed pairs were generated for the envelope and skeletal densities with the mean and the standard 
@@ -407,7 +407,7 @@ _Gels_ **2019** , _5_ , 12
 48. Yildirim, N.; Shaler, S.M.; Gardner, D.J.; Rice, R.; Bousfield, D.W. Cellulose nanofibril (CNF) reinforced starch insulating foams. _Cellulose_ **2014** , _21_ , 4337–4347. [CrossRef] 
 
 
-![](_images/3 Porous Starch Materials via Supercritical- and Freeze-Drying_images/_temp_859ebf26_convert_.pdf-0014-21.png)
+![](_temp_3a4f229e_convert__images/_temp_3a4f229e_convert_.pdf-0014-21.png)
 
 
 - © 2019 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (http://creativecommons.org/licenses/by/4.0/). 

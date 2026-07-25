@@ -5,7 +5,7 @@ supercritical CO2 and freeze drying
 Authors: Deniz Ciftci, Ali Ubeyitogullari, Raquel Razera Huerta, Ozan N. Ciftci, Rolando A. Flores, Marleny D.A. Salda˜na 
 
 
-![](_images/Lupin hull cellulose nanofiber aerogel preparation by supercritical CO2 and_img/_temp_9a5c945d_heal_.pdf-0001-03.png)
+![](_temp_9a5c945d_convert__images/_temp_9a5c945d_convert_.pdf-0001-03.png)
 
 
 PII: S0896-8446(16)30513-7 DOI: http://dx.doi.org/doi:10.1016/j.supflu.2017.04.002 Reference: SUPFLU 3903 
@@ -17,7 +17,7 @@ Please cite this article as: Deniz Ciftci, Ali Ubeyitogullari, Raquel Razera Hue
 This is a PDF of an unedited manuscript that has been accepted for publication. As a service to our customers we are providing this early version of the manuscript. The manuscript will undergo copyediting, typesetting, and review of the resulting proof before it is published in its final form. Please note that during the production process errors may be discovered which could affect the content, and all legal disclaimers that apply to the journal pertain. 
 
 
-![](_images/Lupin hull cellulose nanofiber aerogel preparation by supercritical CO2 and_img/_temp_9a5c945d_heal_.pdf-0002-00.png)
+![](_temp_9a5c945d_convert__images/_temp_9a5c945d_convert_.pdf-0002-00.png)
 
 
 # **Lupin hull cellulose nanofiber aerogel preparation by supercritical CO2 and freeze drying** 
@@ -39,13 +39,13 @@ Fax: +1 780 492 8914
 b*Present address: College of Agricultural, Consumer and Environmental Sciences, New Mexico State University, Las Cruces, NM, USA 30003 **Graphical abstract** 
 
 
-![](_images/Lupin hull cellulose nanofiber aerogel preparation by supercritical CO2 and_img/_temp_9a5c945d_heal_.pdf-0002-10.png)
+![](_temp_9a5c945d_convert__images/_temp_9a5c945d_convert_.pdf-0002-10.png)
 
 
 1 
 
 
-![](_images/Lupin hull cellulose nanofiber aerogel preparation by supercritical CO2 and_img/_temp_9a5c945d_heal_.pdf-0003-00.png)
+![](_temp_9a5c945d_convert__images/_temp_9a5c945d_convert_.pdf-0003-00.png)
 
 
 ## Highlights 
@@ -71,7 +71,7 @@ Aerogels are ultra lightweight and highly porous solid materials that have stimu
 2 
 
 
-![](_images/Lupin hull cellulose nanofiber aerogel preparation by supercritical CO2 and_img/_temp_9a5c945d_heal_.pdf-0004-00.png)
+![](_temp_9a5c945d_convert__images/_temp_9a5c945d_convert_.pdf-0004-00.png)
 
 
 (0.0011 to ~0.5 g/cm[3] ), high porosity (> 80%), high specific surface area (up to 1000 m[2] /g), low thermal conductivity (~15 mW/m K), low dielectric permittivity, and excellent shock absorption [2-5]. Aerogels obtained from cellulose nanofibers have received great attention due to renewability, biodegradability, and biocompatibility of cellulose, which is the most abundant biopolymer on Earth [6, 7]. Such materials offer new applications in the medical and pharmaceutical fields, where biocompatibility and biodegradability are needed [8], as well as in environmentally friendly packaging, and high performance and biodegradable nanocomposites [9]. Moreover, chemical functionality of resultant cellulose nanofiber aerogels creates more application areas, such as development of super hydrophobic materials via post-treatment with titanium dioxide nanoparticles [10] and silanes [11] to be used as oil adsorbents or separation medium for mixtures of oil/water liquids. 
@@ -83,7 +83,7 @@ The first study on aerogel cellulose nanofiber was reported by Pääkkö et al. 
 3 
 
 
-![](_images/Lupin hull cellulose nanofiber aerogel preparation by supercritical CO2 and_img/_temp_9a5c945d_heal_.pdf-0005-00.png)
+![](_temp_9a5c945d_convert__images/_temp_9a5c945d_convert_.pdf-0005-00.png)
 
 
 g/cm[3] and high porosity up to 98% were obtained. Regarding the surface area, the cryogenic freeze drying yielded a value of 66 m[2] /g, while the vacuum freeze drying yielded a lower value of 20 m[2] /g. Similar freeze drying methods have been employed to obtain cellulose nanofiber aerogels from biomass such as wood pulp and poplar wood [8,14,15]. To reduce the extent of nanofiber aggregation during freeze drying due to ice sublimation, Sehaqui et al. [16] performed a solvent exchange of water to _tert_ -butanol prior to freeze drying to obtain aerogels of wood pulp 2,2,6,6-tetramethyl-1-piperidinyloxy (TEMPO)oxidized cellulose nanofibers (1 wt% solid content in aqueous suspension). The resultant specific surface areas were as high as 153-284 m[2] /g due to the exchange of water with _tert_ - butanol. Therefore, _tert_ -butanol was successfully employed in other studies to obtain cellulose nanofiber aerogels [17-19]. 
@@ -93,7 +93,7 @@ Supercritical drying has also been used to prepare aerogels as this method avoid
 4 
 
 
-![](_images/Lupin hull cellulose nanofiber aerogel preparation by supercritical CO2 and_img/_temp_9a5c945d_heal_.pdf-0006-00.png)
+![](_temp_9a5c945d_convert__images/_temp_9a5c945d_convert_.pdf-0006-00.png)
 
 
 Drying the gel/hydrogel influences final aerogel properties, including density, 
@@ -109,7 +109,7 @@ Lupin hulls were kindly provided by Ceapro Inc. (Edmonton, AB, Canada). Lupin hu
 5 
 
 
-![](_images/Lupin hull cellulose nanofiber aerogel preparation by supercritical CO2 and_img/_temp_9a5c945d_heal_.pdf-0007-00.png)
+![](_temp_9a5c945d_convert__images/_temp_9a5c945d_convert_.pdf-0007-00.png)
 
 
 PA, USA). All chemicals used, such as sodium chlorite and ethanol, were of laboratory grade and obtained from Fisher Scientific (Pittsburgh, PA, USA). 
@@ -125,7 +125,7 @@ Cellulose nanofiber hydrogels (7 mL) were placed in cylindrical tubes (6.0 cm he
 6 
 
 
-![](_images/Lupin hull cellulose nanofiber aerogel preparation by supercritical CO2 and_img/_temp_9a5c945d_heal_.pdf-0008-00.png)
+![](_temp_9a5c945d_convert__images/_temp_9a5c945d_convert_.pdf-0008-00.png)
 
 
 freeze-drying process. Then, the ice in the frozen hydrogel was sublimated at -45 °C and 15 Pa for 2 days using a freeze dryer (FreeZone, Labconco Corp., Kansas, MO, USA). 
@@ -139,7 +139,7 @@ SCCO2 drying was carried out in a laboratory scale SCCO2 extraction system (SFT1
 7 
 
 
-![](_images/Lupin hull cellulose nanofiber aerogel preparation by supercritical CO2 and_img/_temp_9a5c945d_heal_.pdf-0009-00.png)
+![](_temp_9a5c945d_convert__images/_temp_9a5c945d_convert_.pdf-0009-00.png)
 
 
 the set temperature was reached, the system was pressurized to 100 bar and kept at the set pressure for 10 min using the double head syringe pump (model 260D, Teledyne ISCO, Lincoln, NE, USA). Then, the shut off valve was opened and the CO2 flow rate was set to 0.5 L/min (measured at ambient conditions) and maintained constant using the 
@@ -155,7 +155,7 @@ Volume of the aerogel monolith was determined from its final dried dimensions th
 The porosity (P) of the aerogels was calculated using the da values in the Eq. (1), where the density of the crystalline cellulose nanofibers (dn) is equal to 1.6 g/cm[3] [14]. 
 
 
-![](_images/Lupin hull cellulose nanofiber aerogel preparation by supercritical CO2 and_img/_temp_9a5c945d_heal_.pdf-0009-07.png)
+![](_temp_9a5c945d_convert__images/_temp_9a5c945d_convert_.pdf-0009-07.png)
 
 
 ## **2.5.2. Specific surface area and pore size** 
@@ -165,7 +165,7 @@ Brunauer–Emmett–Teller (BET) surface area and Barrett-Joyner-Halenda (BJH) p
 8 
 
 
-![](_images/Lupin hull cellulose nanofiber aerogel preparation by supercritical CO2 and_img/_temp_9a5c945d_heal_.pdf-0010-00.png)
+![](_temp_9a5c945d_convert__images/_temp_9a5c945d_convert_.pdf-0010-00.png)
 
 
 Norcross, GA, USA). Small pieces of aerogel samples (0.1-0.3 g) were placed in the sample tube, and then degassed under vacuum at 115 °C for 10 h prior to analysis. Nitrogen sorption experiments were performed at -196 °C. Specific surface area was determined at a relative pressure (p/p0, equilibrium pressure of nitrogen at the sample surface/saturation pressure of nitrogen) between 0.05 and 0.3 by multipoint BET adsorption characteristics. Pore size distribution was at p/p0 > 0.35. The BJH average pore size and pore volume were calculated considering pores between 1.7 nm and 300 nm width based on the Kelvin 
@@ -183,7 +183,7 @@ transmission electron microscope (TEM) (H7500 TEM, Hitachi, Tokyo, Japan) operat
 9 
 
 
-![](_images/Lupin hull cellulose nanofiber aerogel preparation by supercritical CO2 and_img/_temp_9a5c945d_heal_.pdf-0011-00.png)
+![](_temp_9a5c945d_convert__images/_temp_9a5c945d_convert_.pdf-0011-00.png)
 
 
 processing software (IJ1.46) by loading the TEM images into the software and measuring the fiber diameters. Scale bars on each TEM image were used for calibration of the 
@@ -197,7 +197,7 @@ Crystallinity of the aerogel samples was determined using a PANalytical Empyrean
 The crystallinity index (CI) was calculated from the heights of the intensity of the crystalline region (I002 at 2 _θ_ = 22.5º) and the intensity of the amorphous region (Iam at 2 _θ_ = 18.5º) using the Segal method [26]: 
 
 
-![](_images/Lupin hull cellulose nanofiber aerogel preparation by supercritical CO2 and_img/_temp_9a5c945d_heal_.pdf-0011-06.png)
+![](_temp_9a5c945d_convert__images/_temp_9a5c945d_convert_.pdf-0011-06.png)
 
 
 ## **2.5.6. Thermo-gravimetric analysis** 
@@ -207,7 +207,7 @@ Thermo-gravimetric (TG) analyses were done using a TG 209 F1 Libra TG analyzer (
 10 
 
 
-![](_images/Lupin hull cellulose nanofiber aerogel preparation by supercritical CO2 and_img/_temp_9a5c945d_heal_.pdf-0012-00.png)
+![](_temp_9a5c945d_convert__images/_temp_9a5c945d_convert_.pdf-0012-00.png)
 
 
 ## **2.6. Statistical analysis** 
@@ -225,7 +225,7 @@ The lowest density of 0.009 g/cm[3] was achieved at 1 wt% hydrogel concentration
 11 
 
 
-![](_images/Lupin hull cellulose nanofiber aerogel preparation by supercritical CO2 and_img/_temp_9a5c945d_heal_.pdf-0013-00.png)
+![](_temp_9a5c945d_convert__images/_temp_9a5c945d_convert_.pdf-0013-00.png)
 
 
 relationship, the highest porosity was calculated as 99.4% for the SCCO2-dried aerogel, having the lowest density of 0.009 g/cm[3] . 
@@ -239,7 +239,7 @@ A similar phenomenon where increasing hydrogel concentration and density led to 
 12 
 
 
-![](_images/Lupin hull cellulose nanofiber aerogel preparation by supercritical CO2 and_img/_temp_9a5c945d_heal_.pdf-0014-00.png)
+![](_temp_9a5c945d_convert__images/_temp_9a5c945d_convert_.pdf-0014-00.png)
 
 
 whereas increasing the concentration to 3.13 wt% yielded a higher density of 0.030 g cm[-3 ] with a lower BET area of 11 m[2] /g due to the presence of more nanofiber per unit volume, which results in a denser structure. Comparison of the present aerogel BET surface area values with the previous aerogel studies based on cellulose nanofibers in the similar concentration range tested in this study showed that the BET surface area was affected by many parameters in addition to concentration, such as freezing type/speed and additional solvent exchange time and solvent. The values for BET areas of cellulose nanofiber freezedried aerogels (2 wt%) obtained in this study were similar to those of vacuum freeze-dried aerogels reported by Pääkkö et al. [9], who obtained the area of 20 m[2] /g using 2 wt% cellulose nanofiber gel of softwood pulp. The reason for the small surface area of freezedried aerogels (16-20 m[2] /g) in this study can be explained by the use of the BJH pore volume (0.08-0.09 cm[3] /g) calculated in the range of 1.7-300 nm, and also collapse of the pores during freeze drying. On the other hand, BET surface area values of this study were lower than those obtained by Sehaqui et al. [16], who conducted additional solvent exchange step with _tert_ -butanol prior to freeze drying, achieving 153-284 m[2] /g with 1 wt% concentration of wood pulp cellulose nanofiber hydrogel. However, the use of _tert_ -butanol in the solvent exchange step for the preparation of aerogels from coconut shell cellulose nanofiber gel (0.5 wt%) resulted in much lower BET surface area (9.1 m[2] /g) [19], which could be related to the influence of the other variables involved in the formation of aerogels, such as source, treatment/mechanical fibrillation method used or surface charge of the starting cellulose nanofibers. Surface modification pretreatments of cellulose fibers to add ionic groups on the surface by oxidation and carboxymethylation before mechanical treatments can affect the final aerogel properties, resulting in high specific surface areas. 
@@ -247,7 +247,7 @@ whereas increasing the concentration to 3.13 wt% yielded a higher density of 0.0
 13 
 
 
-![](_images/Lupin hull cellulose nanofiber aerogel preparation by supercritical CO2 and_img/_temp_9a5c945d_heal_.pdf-0015-00.png)
+![](_temp_9a5c945d_convert__images/_temp_9a5c945d_convert_.pdf-0015-00.png)
 
 
 ## **3.2. Morphology** 
@@ -263,7 +263,7 @@ Flow ability of the hydrogels varied with changing concentration from 1 to 2 wt%
 14 
 
 
-![](_images/Lupin hull cellulose nanofiber aerogel preparation by supercritical CO2 and_img/_temp_9a5c945d_heal_.pdf-0016-00.png)
+![](_temp_9a5c945d_convert__images/_temp_9a5c945d_convert_.pdf-0016-00.png)
 
 
 by more inter- and intra-molecular hydrogen bonds and entanglements in the viscous hydrogels. They evaluated the effect of hydrogel concentration obtained from wood cellulose nanofibers on water uptake capability of the resultant aerogels and reported that water uptake capability (ratio of water to aerogel) of aerogels decreased from 155 to 54 with increasing concentration from 0.1 to 1.5 wt% due to increase of such physical crosslinking. 
@@ -281,7 +281,7 @@ Morphologies of freeze-dried aerogels, initially frozen with liquid nitrogen, we
 15 
 
 
-![](_images/Lupin hull cellulose nanofiber aerogel preparation by supercritical CO2 and_img/_temp_9a5c945d_heal_.pdf-0017-00.png)
+![](_temp_9a5c945d_convert__images/_temp_9a5c945d_convert_.pdf-0017-00.png)
 
 
 drying method was more effective in forming aerogels, exhibiting more homogenous porous structures that were composed of thinner and not aggregated individualized fibers, which is attributed to the lack of any intermediate liquid-vapor interface and no surface tension in the gel pores [20]. 
@@ -297,7 +297,7 @@ crystals formed during freezing [32]. Fig. 4 compares the morphologies of the ae
 16 
 
 
-![](_images/Lupin hull cellulose nanofiber aerogel preparation by supercritical CO2 and_img/_temp_9a5c945d_heal_.pdf-0018-00.png)
+![](_temp_9a5c945d_convert__images/_temp_9a5c945d_convert_.pdf-0018-00.png)
 
 
 structure (Fig. 4a-b). More compact two-dimensional sheet-like structures were formed, displaying wave-like roughness during the relatively slow freezing process at -18 °C (Fig. 4c-d). 
@@ -317,7 +317,7 @@ applications like insulation as high crystallinity is closely related with high 
 17 
 
 
-![](_images/Lupin hull cellulose nanofiber aerogel preparation by supercritical CO2 and_img/_temp_9a5c945d_heal_.pdf-0019-00.png)
+![](_temp_9a5c945d_convert__images/_temp_9a5c945d_convert_.pdf-0019-00.png)
 
 
 ## **3.4. Thermal stability** 
@@ -331,7 +331,7 @@ Highly porous and lightweight cellulose nanofiber aerogels were successfully pre
 18 
 
 
-![](_images/Lupin hull cellulose nanofiber aerogel preparation by supercritical CO2 and_img/_temp_9a5c945d_heal_.pdf-0020-00.png)
+![](_temp_9a5c945d_convert__images/_temp_9a5c945d_convert_.pdf-0020-00.png)
 
 
 biodegradable cellulose nanofibers can be used in various applications, including 
@@ -369,7 +369,7 @@ Promising biodegradable carriers for drug delivery systems, Carbohydr. Polym. 86
 19 
 
 
-![](_images/Lupin hull cellulose nanofiber aerogel preparation by supercritical CO2 and_img/_temp_9a5c945d_heal_.pdf-0021-00.png)
+![](_temp_9a5c945d_convert__images/_temp_9a5c945d_convert_.pdf-0021-00.png)
 
 
 [8] C. Aulin, J. Netrval, L. Wågberg, T. Lindström, Aerogels from nanofibrillated cellulose with tunable oleophobicity, Soft Matter 6 (2010) 3298-3305. 
@@ -391,7 +391,7 @@ Promising biodegradable carriers for drug delivery systems, Carbohydr. Polym. 86
 20 
 
 
-![](_images/Lupin hull cellulose nanofiber aerogel preparation by supercritical CO2 and_img/_temp_9a5c945d_heal_.pdf-0022-00.png)
+![](_temp_9a5c945d_convert__images/_temp_9a5c945d_convert_.pdf-0022-00.png)
 
 
 [16] H. Sehaqui, Q. Zhou, L.A. Berglund, High-porosity aerogels of high specific surface area prepared from nanofibrillated cellulose (NFC), Compos. Sci. Technol. 71 (2011) 15931599. 
@@ -421,7 +421,7 @@ characterization of cellulose nanofibers from cassava pulp, Macromol Symp. 354 (
 21 
 
 
-![](_images/Lupin hull cellulose nanofiber aerogel preparation by supercritical CO2 and_img/_temp_9a5c945d_heal_.pdf-0023-00.png)
+![](_temp_9a5c945d_convert__images/_temp_9a5c945d_convert_.pdf-0023-00.png)
 
 
 [25] E.P. Barrett, L.G. Joyner, P.P. Halenda, The determination of pore volume and area distributions in porous substances. I. Computations from nitrogen isotherms, J. Am. Chem. Soc. 73 (1951) 373-380. 
@@ -441,7 +441,7 @@ characterization of cellulose nanofibers from cassava pulp, Macromol Symp. 354 (
 22 
 
 
-![](_images/Lupin hull cellulose nanofiber aerogel preparation by supercritical CO2 and_img/_temp_9a5c945d_heal_.pdf-0024-00.png)
+![](_temp_9a5c945d_convert__images/_temp_9a5c945d_convert_.pdf-0024-00.png)
 
 
 [34] W. Li, J. Yue, S. Liu S, Preparation of nanocrystalline cellulose via ultrasound and its reinforcement capability for poly (vinyl alcohol) composites, Ultrason. Sonochem. 19 (2012) 479-485. 
@@ -466,7 +466,7 @@ characterization of cellulose nanofibers from cassava pulp, Macromol Symp. 354 (
 23 
 
 
-![](_images/Lupin hull cellulose nanofiber aerogel preparation by supercritical CO2 and_img/_temp_9a5c945d_heal_.pdf-0025-00.png)
+![](_temp_9a5c945d_convert__images/_temp_9a5c945d_convert_.pdf-0025-00.png)
 
 
 *Different letters in the same row within each drying method are significantly different at p<0.05. **Data values in parenthesis are standard errors. BET: Brunauer–Emmett–Teller; BJH: Barrett-Joyner-Halenda. 
@@ -496,11 +496,11 @@ wt%.
 24 
 
 
-![](_images/Lupin hull cellulose nanofiber aerogel preparation by supercritical CO2 and_img/_temp_9a5c945d_heal_.pdf-0026-00.png)
+![](_temp_9a5c945d_convert__images/_temp_9a5c945d_convert_.pdf-0026-00.png)
 
 
 
-![](_images/Lupin hull cellulose nanofiber aerogel preparation by supercritical CO2 and_img/_temp_9a5c945d_heal_.pdf-0026-01.png)
+![](_temp_9a5c945d_convert__images/_temp_9a5c945d_convert_.pdf-0026-01.png)
 
 
 **Fig. 1** 
@@ -508,11 +508,11 @@ wt%.
 25 
 
 
-![](_images/Lupin hull cellulose nanofiber aerogel preparation by supercritical CO2 and_img/_temp_9a5c945d_heal_.pdf-0027-00.png)
+![](_temp_9a5c945d_convert__images/_temp_9a5c945d_convert_.pdf-0027-00.png)
 
 
 
-![](_images/Lupin hull cellulose nanofiber aerogel preparation by supercritical CO2 and_img/_temp_9a5c945d_heal_.pdf-0027-01.png)
+![](_temp_9a5c945d_convert__images/_temp_9a5c945d_convert_.pdf-0027-01.png)
 
 
 ## **Fig. 2** 
@@ -520,11 +520,11 @@ wt%.
 26 
 
 
-![](_images/Lupin hull cellulose nanofiber aerogel preparation by supercritical CO2 and_img/_temp_9a5c945d_heal_.pdf-0028-00.png)
+![](_temp_9a5c945d_convert__images/_temp_9a5c945d_convert_.pdf-0028-00.png)
 
 
 
-![](_images/Lupin hull cellulose nanofiber aerogel preparation by supercritical CO2 and_img/_temp_9a5c945d_heal_.pdf-0028-01.png)
+![](_temp_9a5c945d_convert__images/_temp_9a5c945d_convert_.pdf-0028-01.png)
 
 
 ## **Fig. 3** 
@@ -532,11 +532,11 @@ wt%.
 27 
 
 
-![](_images/Lupin hull cellulose nanofiber aerogel preparation by supercritical CO2 and_img/_temp_9a5c945d_heal_.pdf-0029-00.png)
+![](_temp_9a5c945d_convert__images/_temp_9a5c945d_convert_.pdf-0029-00.png)
 
 
 
-![](_images/Lupin hull cellulose nanofiber aerogel preparation by supercritical CO2 and_img/_temp_9a5c945d_heal_.pdf-0029-01.png)
+![](_temp_9a5c945d_convert__images/_temp_9a5c945d_convert_.pdf-0029-01.png)
 
 
 ## **Fig. 4** 
@@ -544,11 +544,11 @@ wt%.
 28 
 
 
-![](_images/Lupin hull cellulose nanofiber aerogel preparation by supercritical CO2 and_img/_temp_9a5c945d_heal_.pdf-0030-00.png)
+![](_temp_9a5c945d_convert__images/_temp_9a5c945d_convert_.pdf-0030-00.png)
 
 
 
-![](_images/Lupin hull cellulose nanofiber aerogel preparation by supercritical CO2 and_img/_temp_9a5c945d_heal_.pdf-0030-01.png)
+![](_temp_9a5c945d_convert__images/_temp_9a5c945d_convert_.pdf-0030-01.png)
 
 
 **----- Start of picture text -----**<br>
@@ -560,11 +560,11 @@ wt%.
 29 
 
 
-![](_images/Lupin hull cellulose nanofiber aerogel preparation by supercritical CO2 and_img/_temp_9a5c945d_heal_.pdf-0031-00.png)
+![](_temp_9a5c945d_convert__images/_temp_9a5c945d_convert_.pdf-0031-00.png)
 
 
 
-![](_images/Lupin hull cellulose nanofiber aerogel preparation by supercritical CO2 and_img/_temp_9a5c945d_heal_.pdf-0031-01.png)
+![](_temp_9a5c945d_convert__images/_temp_9a5c945d_convert_.pdf-0031-01.png)
 
 
 **----- Start of picture text -----**<br>

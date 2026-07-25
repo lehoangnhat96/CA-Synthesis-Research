@@ -129,7 +129,7 @@ Xơ dừa thô được thu mua tại Công ty TNHH đầu tư kinh doanh chế 
 Quy trình và các điều kiện tổng hợp vật liệu PXA được thiết kế dựa theo tài liệu [25] và có cải tiến phù hợp (Hình 2.1 và Bảng 2.1). 
 
 
-![](_images/TOM_TAT_NTXPhuong_images/_temp_eda40ffc_convert_.pdf-0009-03.png)
+![](_temp_45e2f775_convert__images/_temp_45e2f775_convert_.pdf-0009-03.png)
 
 
 **----- Start of picture text -----**<br>
@@ -153,7 +153,7 @@ DCF<br>PVA và XTG<br>Khuấy  1 giờ, 80 °C<br>Siêu âm  30 phút<br>Già h�
 Quy trình và các điều kiện tổng hợp vật liệu NUA và NUTA được thiết kế dựa theo tài liệu [13, 15], có cải tiến phù hợp và tóm tắt theo sơ đồ Hình 2.2 và Bảng 2.2. 
 
 
-![](_images/TOM_TAT_NTXPhuong_images/_temp_eda40ffc_convert_.pdf-0010-02.png)
+![](_temp_45e2f775_convert__images/_temp_45e2f775_convert_.pdf-0010-02.png)
 
 
 **----- Start of picture text -----**<br>
@@ -250,7 +250,7 @@ lên, làm ráo để loại bỏ dầu thừa trong 30 giây và xác định k
 Hình 3.1 cho thấy quá trình tiền xử lý thu hồi cellulose từ xơ dừa diễn ra thành công bằng NaOH 6 wt%. Vì các hợp chất lignin, sáp chứa nhiều trong RCF nên sợi có màu nâu sẫm, bề mặt nhẵn với đường kính sợi khoảng 80–100 μm, hàm lượng cellulose khoảng 41,29 wt% và chỉ số kết tinh 46,97%. Sau khi xử lý bằng dung dịch NaOH 6 wt% ở 90 °C, sợi xơ DCF sáng màu hơn RCF với kích thước giảm đáng kể còn 20–50 μm, hàm lượng cellulose tăng lên 69,87 wt%, các đỉnh ở 16,4; 21,9 và 34,0° của DCF có cường độ cao, sắc nét và rõ ràng hơn so với RCF và chỉ số kết tinh 55,23%. 
 
 
-![](_images/TOM_TAT_NTXPhuong_images/_temp_eda40ffc_convert_.pdf-0013-04.png)
+![](_temp_45e2f775_convert__images/_temp_45e2f775_convert_.pdf-0013-04.png)
 
 
 **Hình 3.1.** Ảnh SEM của (a) RCF và (b) DCF, (c) giản đồ XRD của RCF và BCF 
@@ -270,7 +270,7 @@ Bảng 3.1 cho thấy, khi hàm lượng DCF tăng dần thì khối lượng ri
 
 
 
-![](_images/TOM_TAT_NTXPhuong_images/_temp_eda40ffc_convert_.pdf-0014-02.png)
+![](_temp_45e2f775_convert__images/_temp_45e2f775_convert_.pdf-0014-02.png)
 
 
 **Hình 3.2.** Ảnh SEM của vật liệu PXA khi thay đổi hàm lượng (a–c) DCF 1–3 wt%, (d–f) PVA 0,5–0,7 wt%, (g–i) XTG 0,2–0,4 wt% 
@@ -278,7 +278,7 @@ Bảng 3.1 cho thấy, khi hàm lượng DCF tăng dần thì khối lượng ri
 Sự tương đồng trong phổ FT-IR và TGA của DCF và PXA cho thấy không có bất kỳ phản ứng hóa học nào xảy ra trong phương pháp tổng hợp cellulose aerogel PXA bằng chất tạo liên kết ngang vật lý PVA/XTG. Khi đó, DCF liên kết chéo với PVA/XTG bằng các liên kết hydrogen linh động giữa một số nhóm hydroxyl trên mạch cellulose với chuỗi PVA và XTG. 
 
 
-![](_images/TOM_TAT_NTXPhuong_images/_temp_eda40ffc_convert_.pdf-0014-05.png)
+![](_temp_45e2f775_convert__images/_temp_45e2f775_convert_.pdf-0014-05.png)
 
 
 **----- Start of picture text -----**<br>
@@ -294,15 +294,15 @@ Sự tương đồng trong phổ FT-IR và TGA của DCF và PXA cho thấy khô
 Hiệu quả hấp phụ dao động đối với MB, CV và MO lần lượt là 70,88–80,57%; 73,66–82,04% và 11,35–16,67% và cân bằng trong 30-50 phút (Hình 3.4). PXA3 có chứa lượng DCF cao nhất, làm tăng cường số lượng tâm hấp phụ có khả năng liên kết với các phân tử chất màu hữu cơ. Đối với hai chất màu cation MB và CV, khả năng hấp phụ tăng đáng kể khi giá trị pH tăng từ 3 đến 7 và giảm nhẹ không đáng kể từ pH 9 đến 11. Trong khi đó, hiệu quả PXA3 hấp phụ MO giảm dần khi pH tăng dần. Sự khác nhau này là do ảnh hưởng của điện tích trên bề mặt vật liệu (pHpzc 6,8). Ngoài ra, khi tăng nồng độ ban đầu của dung dịch chất màu, dung lượng hấp phụ của vật liệu tăng dần. 
 
 
-![](_images/TOM_TAT_NTXPhuong_images/_temp_eda40ffc_convert_.pdf-0015-03.png)
+![](_temp_45e2f775_convert__images/_temp_45e2f775_convert_.pdf-0015-03.png)
 
 
 
-![](_images/TOM_TAT_NTXPhuong_images/_temp_eda40ffc_convert_.pdf-0015-04.png)
+![](_temp_45e2f775_convert__images/_temp_45e2f775_convert_.pdf-0015-04.png)
 
 
 
-![](_images/TOM_TAT_NTXPhuong_images/_temp_eda40ffc_convert_.pdf-0015-05.png)
+![](_temp_45e2f775_convert__images/_temp_45e2f775_convert_.pdf-0015-05.png)
 
 
 **----- Start of picture text -----**<br>
@@ -326,19 +326,19 @@ Sự hấp phụ chất màu hữu cơ của vật liệu PXA có thể diễn r
 Sự xuất hiện của các nhóm chức đặc trưng trong MB, CV hay MO (C=C, C–N, C–S hay S=O/SO3[2–] ) và sự thay đổi về thành phần nguyên tố trong vật liệu PXA sau khi hấp phụ chứng tỏ PXA có tiềm năng hấp phụ các chất màu hữu cơ. 
 
 
-![](_images/TOM_TAT_NTXPhuong_images/_temp_eda40ffc_convert_.pdf-0016-04.png)
+![](_temp_45e2f775_convert__images/_temp_45e2f775_convert_.pdf-0016-04.png)
 
 
 
-![](_images/TOM_TAT_NTXPhuong_images/_temp_eda40ffc_convert_.pdf-0016-05.png)
+![](_temp_45e2f775_convert__images/_temp_45e2f775_convert_.pdf-0016-05.png)
 
 
 
-![](_images/TOM_TAT_NTXPhuong_images/_temp_eda40ffc_convert_.pdf-0016-06.png)
+![](_temp_45e2f775_convert__images/_temp_45e2f775_convert_.pdf-0016-06.png)
 
 
 
-![](_images/TOM_TAT_NTXPhuong_images/_temp_eda40ffc_convert_.pdf-0016-07.png)
+![](_temp_45e2f775_convert__images/_temp_45e2f775_convert_.pdf-0016-07.png)
 
 
 **----- Start of picture text -----**<br>
@@ -356,7 +356,7 @@ PXA được biến tính bằng MTMS tạo thành PXSA với góc thấm ướt
 Dung lượng hấp phụ của cả ba loại vật liệu PXSA(1–3) tăng dần theo thứ tự dầu parafin, dầu 5w30 và dầu bơm chân không. Xu hướng này có liên quan đến độ nhớt của các loại dầu. Dầu có độ nhớt thấp hơn mất ít thời gian hơn để đi vào bên trong vật liệu [140]. Từ đường cong động học hấp phụ, các PXSA đều có khả năng hấp phụ dầu 5w30 rất nhanh và đạt cân bằng trong khoảng 30 s đầu tiên, dung lượng hấp phụ giảm dần (từ 20,32 xuống 14,49 g/g) khi độ xốp của vật liệu giảm dần. Phân tử dầu được giữ lại trong các lỗ xốp nên độ xốp càng cao thì hiệu quả hấp phụ dầu càng tốt [29, 30]. Khả năng hấp phụ của PXSA1 giảm 23,77% sau một chu kỳ tái hấp phụ. Tuy nhiên, đến chu kỳ thứ ba, hiệu quả hấp phụ chỉ đạt 8,95 g/g, giảm 55,90% so với vật liệu ban đầu. Quá trình hấp phụ dầu của NUSA tuân theo mô hình động học bậc hai và trải qua hai giai đoạn (i) khuếch tán biên và (ii) khuếch tán mao quản. 
 
 
-![](_images/TOM_TAT_NTXPhuong_images/_temp_eda40ffc_convert_.pdf-0017-01.png)
+![](_temp_45e2f775_convert__images/_temp_45e2f775_convert_.pdf-0017-01.png)
 
 
 **Hình 3.6.** (a) Tính chất hoá – lý và (b) khả năng hấp phụ dầu bôi trơn của vật liệu PXSA 
@@ -372,7 +372,7 @@ Tuy nhiên, PXA còn chứa nhiều nhóm –OH có khả năng tương tác v�
 DCF tiếp tục được tẩy trắng bằng NaOH/H2O2 10 wt% thu được BCF có màu vàng sáng, mặt ngoài sần sùi, kích thước 10–20 μm, hàm lượng cellulose đạt 92,37%, chỉ số kết tinh 57,15% (Hình 4.1). 
 
 
-![](_images/TOM_TAT_NTXPhuong_images/_temp_eda40ffc_convert_.pdf-0018-03.png)
+![](_temp_45e2f775_convert__images/_temp_45e2f775_convert_.pdf-0018-03.png)
 
 
 **Hình 4.1.** Ảnh SEM của (a) DCF và (b) BCF, (c) giản đồ XRD của DCF và BCF 
@@ -394,21 +394,21 @@ Bảng 4.1 cho thấy các NUA có khối lượng riêng thấp (39,68–63,30 
 Theo ảnh SEM Hình 4.2, BCF chủ yếu được tái cấu trúc lại nhờ vào NaOH/urea nên vật liệu chỉ là những sợi BCF đan xen nhau, không có sự xuất hiện của màng – polymer như PXA. Khi hàm lượng BCF tăng lên (từ 1 3 wt%), các sợi chiếm nhiều không gian và xếp gần nhau hơn trong một thể tích aerogel nhất định, dẫn đến cấu trúc chặt chẽ hơn. Khi bổ sung TEPA vào aerogel thì TEPA bám trên bề mặt sợi BCF và tạo liên kết giữa các sợi BCF làm xuất hiện các đuôi gai và tăng cường số lượng tâm hấp phụ của vật liệu thu được. 
 
 
-![](_images/TOM_TAT_NTXPhuong_images/_temp_eda40ffc_convert_.pdf-0019-01.png)
+![](_temp_45e2f775_convert__images/_temp_45e2f775_convert_.pdf-0019-01.png)
 
 
 **Hình 4.2.** Ảnh SEM của các mẫu (a–c) NUA(1–3) và (d–f) NUTA(1–3) Hình 4.3. cho thấy sự tăng cường độ hấp thu của nhóm N–H ở đỉnh 1601 cm[−1] , dải rung kéo dài CH2–OH của cellulose ở bước sóng 1431cm[–1] đã biến mất, đỉnh ở bước sóng 1048 cm[–1] do sự kéo dài C–N và sự xuất hiện liên kết N–O ở 1389 cm[–1] và xu hướng phân hủy nhiệt khác nhau của NUA và NUTA thể hiện sự hình thành liên kết cộng hóa trị giữa O/BCF và –NH/TEPA trong vật liệu NUTA (Hình 4.4) [13, 31]. 
 
 
-![](_images/TOM_TAT_NTXPhuong_images/_temp_eda40ffc_convert_.pdf-0019-03.png)
+![](_temp_45e2f775_convert__images/_temp_45e2f775_convert_.pdf-0019-03.png)
 
 
 
-![](_images/TOM_TAT_NTXPhuong_images/_temp_eda40ffc_convert_.pdf-0019-04.png)
+![](_temp_45e2f775_convert__images/_temp_45e2f775_convert_.pdf-0019-04.png)
 
 
 
-![](_images/TOM_TAT_NTXPhuong_images/_temp_eda40ffc_convert_.pdf-0019-05.png)
+![](_temp_45e2f775_convert__images/_temp_45e2f775_convert_.pdf-0019-05.png)
 
 
 **----- Start of picture text -----**<br>
@@ -420,7 +420,7 @@ Theo ảnh SEM Hình 4.2, BCF chủ yếu được tái cấu trúc lại nhờ 
 17 
 
 
-![](_images/TOM_TAT_NTXPhuong_images/_temp_eda40ffc_convert_.pdf-0020-00.png)
+![](_temp_45e2f775_convert__images/_temp_45e2f775_convert_.pdf-0020-00.png)
 
 
 **Hình 4.4.** Liên kết hình thành trong NUTA 
@@ -434,15 +434,15 @@ Theo Hình 4.5, NUTA2 (2 wt% BCF, ngâm hydrogel trong hệ TEPA:EtOH:H2O với 
 18 
 
 
-![](_images/TOM_TAT_NTXPhuong_images/_temp_eda40ffc_convert_.pdf-0021-00.png)
+![](_temp_45e2f775_convert__images/_temp_45e2f775_convert_.pdf-0021-00.png)
 
 
 
-![](_images/TOM_TAT_NTXPhuong_images/_temp_eda40ffc_convert_.pdf-0021-01.png)
+![](_temp_45e2f775_convert__images/_temp_45e2f775_convert_.pdf-0021-01.png)
 
 
 
-![](_images/TOM_TAT_NTXPhuong_images/_temp_eda40ffc_convert_.pdf-0021-02.png)
+![](_temp_45e2f775_convert__images/_temp_45e2f775_convert_.pdf-0021-02.png)
 
 
 **----- Start of picture text -----**<br>
@@ -462,11 +462,11 @@ Hấp phụ MB và CV NUTA2 đều được kiểm soát bởi quá trình hoá 
 Hình 4.6 cho thấy quá trình hấp phụ MB và CV trên vật liệu NUTA dựa trên các cơ chế chính tương tự PXA. Đặc biệt, ái lực của N và O trong NUTA lôi kéo cation MB và CV bằng lực hút tĩnh điện [32]. Sự xuất hiện của các nhóm chức đặc trưng trong MB và CV (C=C, C–N hay C–S) và sự thay đổi về thành phần nguyên tố trong vật liệu NUTA sau khi hấp phụ chứng tỏ NUTA có tiềm năng hấp phụ các chất màu hữu cơ. 
 
 
-![](_images/TOM_TAT_NTXPhuong_images/_temp_eda40ffc_convert_.pdf-0022-02.png)
+![](_temp_45e2f775_convert__images/_temp_45e2f775_convert_.pdf-0022-02.png)
 
 
 
-![](_images/TOM_TAT_NTXPhuong_images/_temp_eda40ffc_convert_.pdf-0022-03.png)
+![](_temp_45e2f775_convert__images/_temp_45e2f775_convert_.pdf-0022-03.png)
 
 
 **Hình 4.6.** (a) Cơ chế hấp phụ chất màu hữu cơ của NUTA, sự thay đổi về (b) phổ FT-IR, (c) EDX của vật liệu trước – sau khi hấp phụ 
@@ -478,7 +478,7 @@ Vật liệu NUA được biến tính bằng MTMS tạo thành NUSA (Hình 4.7)
 20 
 
 
-![](_images/TOM_TAT_NTXPhuong_images/_temp_eda40ffc_convert_.pdf-0023-00.png)
+![](_temp_45e2f775_convert__images/_temp_45e2f775_convert_.pdf-0023-00.png)
 
 
 **----- Start of picture text -----**<br>

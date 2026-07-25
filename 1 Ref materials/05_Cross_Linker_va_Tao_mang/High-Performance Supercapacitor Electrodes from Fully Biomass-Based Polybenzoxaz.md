@@ -1,7 +1,7 @@
 _**gels**_ 
 
 
-![](_images/High-Performance Supercapacitor Electrodes from Fully Biomass-Based Polybenzoxaz_images/_temp_8df93f99_convert_.pdf-0001-01.png)
+![](_temp_d9f8ccc7_convert__images/_temp_d9f8ccc7_convert_.pdf-0001-01.png)
 
 
 ## _Article_ 
@@ -27,7 +27,7 @@ Received: 14 June 2024 Revised: 3 July 2024 Accepted: 12 July 2024 Published: 15
 **Keywords:** polybenzoxazine; aerogel; porous carbon; electrode material; supercapacitor 
 
 
-![](_images/High-Performance Supercapacitor Electrodes from Fully Biomass-Based Polybenzoxaz_images/_temp_8df93f99_convert_.pdf-0001-13.png)
+![](_temp_d9f8ccc7_convert__images/_temp_d9f8ccc7_convert_.pdf-0001-13.png)
 
 
 **Copyright:** © 2024 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https:// creativecommons.org/licenses/by/ 4.0/). 
@@ -65,17 +65,17 @@ _Gels_ **2024** , _10_ , 462
 fusion of a benzene ring with an oxazine ring [22]. Further examination unveiled peaks at 1147 and 1224 cm _[−]_[1] , corresponding to C-N-C stretching and methoxycarbonyl stretching, respectively. Additionally, intense peaks at 2924 and 2854 cm _[−]_[1] , denoting C-H stretching vibrations of the alkyl side chain of stearylamine were notable [23,24]. 
 
 
-![](_images/High-Performance Supercapacitor Electrodes from Fully Biomass-Based Polybenzoxaz_images/_temp_8df93f99_convert_.pdf-0003-03.png)
+![](_temp_d9f8ccc7_convert__images/_temp_d9f8ccc7_convert_.pdf-0003-03.png)
 
 
 
-![](_images/High-Performance Supercapacitor Electrodes from Fully Biomass-Based Polybenzoxaz_images/_temp_8df93f99_convert_.pdf-0003-04.png)
+![](_temp_d9f8ccc7_convert__images/_temp_d9f8ccc7_convert_.pdf-0003-04.png)
 
 
 **Figure 1.** ( **a** ) Synthesis procedure and ring-opening polymerization of E-St-Bz; ( **b** ) FT-IR; ( **c** )[1] H-NMR; ~~and (~~ ~~**d** )[13] C-NMR of E-St-Bz.~~ 
 
 
-![](_images/High-Performance Supercapacitor Electrodes from Fully Biomass-Based Polybenzoxaz_images/_temp_8df93f99_convert_.pdf-0003-06.png)
+![](_temp_d9f8ccc7_convert__images/_temp_d9f8ccc7_convert_.pdf-0003-06.png)
 
 
 **Scheme 1.** Schematic illustration showing the preparation process of E-St-Bz monome ~~r a~~ nd PBzbased carbon aerogel. 
@@ -91,7 +91,7 @@ In concurrence with the FT-IR findings,[1] H-NMR analysis also provided further 
 The polymerization behavior of E-St-Bz was analyzed using differential scanning calorimetry (DSC) under nitrogen, with a heating rate of 10 _[◦]_ C/min from 30 to 350 _[◦]_ C. As observed via the DSC thermogram (Figure 2a), the benzoxazine monomer (E-St-Bz) started to melt at 49 _[◦]_ C, marked by a distinct endothermic peak. The curing process began around 218 _[◦]_ C, with an exothermic peak maximum at 230 _[◦]_ C, indicating the maximum curing process. This curing process between 200–250 _[◦]_ C signifies ring-opening polymerization, a trend that can generally be observed in all sorts of benzoxazine monomers [27,28]. Notably, E-St-Bz exhibited a processing window of 169 _[◦]_ C, indicating favorable processability. Additionally, an exothermic peak at 335 _[◦]_ C was observed, indicating the degradation of aliphatic chains in the E-St-Bz monomer. Confirmation of the curing process of the E-St-Bz monomer was achieved through FT-IR analysis (Figure 2b). FT-IR spectra obtained from the monomer heated incrementally at 100, 150, 200, and 230 _[◦]_ C for 1 h each illustrated the curing progression. Curing involved cleavage of the C-O-C bond within the oxazine ring, resulting in decreases in peak intensity around 936, 1012, 1147, 1224, and 1352 cm _[−]_[1] , corresponding to stretching vibrations of the oxazine ring (C-O-C) and -CH2 of the benzene ring. At higher temperatures (200 _[◦]_ C), involvement of the allyl group within the eugenol moiety in curing was evident, as seen by the disappearance of the peak at 1636 cm _[−]_[1] , indicative of stretching vibrations associated with the allylic moiety [29–31]. 
 
 
-![](_images/High-Performance Supercapacitor Electrodes from Fully Biomass-Based Polybenzoxaz_images/_temp_8df93f99_convert_.pdf-0004-05.png)
+![](_temp_d9f8ccc7_convert__images/_temp_d9f8ccc7_convert_.pdf-0004-05.png)
 
 
 **Figure 2.** ( **a** ) DSC curves of E-St-Bz; ( **b** ) FT-IR spectra of E-St-Bz at different curing temperatures; ( **c** ) TGA; and ( **d** ) DTG curve of poly(E-St-Bz). 
@@ -119,11 +119,11 @@ _Gels_ **2024** , _10_ , 462
 the presence of microporous and mesoporous materials. However, a distinct difference was observed between the two: ESC-N obtained via calcination had a broad mesopore distribution, whereas ESC-G derived from the aerogel featured a narrower mesopore distribution along with a significantly higher pore volume. This specific mesopore structure in ESC-G was attributed to the unique properties obtained through the aerogel process. Moreover, the specific surface area obtained from BET was found to be 289 m[2] g _[−]_[1] for ESC-N and 673 m[2] g _[−]_[1] for ESC-G. This substantial difference underscores the effectiveness of the aerogel approach in creating a highly porous material, along with increased surface area [44]. 
 
 
-![](_images/High-Performance Supercapacitor Electrodes from Fully Biomass-Based Polybenzoxaz_images/_temp_8df93f99_convert_.pdf-0006-03.png)
+![](_temp_d9f8ccc7_convert__images/_temp_d9f8ccc7_convert_.pdf-0006-03.png)
 
 
 
-![](_images/High-Performance Supercapacitor Electrodes from Fully Biomass-Based Polybenzoxaz_images/_temp_8df93f99_convert_.pdf-0006-04.png)
+![](_temp_d9f8ccc7_convert__images/_temp_d9f8ccc7_convert_.pdf-0006-04.png)
 
 
 **Figure 3.** ( **a** ) Raman spectra; ( **b** ) XRD patterns; ( **c** ) BET isotherms; and ( **d** ) pore size distribution curves of ESC-N and ESC-G. 
@@ -135,7 +135,7 @@ _Gels_ **2024** , _10_ , 462
 7 of 15 
 
 
-![](_images/High-Performance Supercapacitor Electrodes from Fully Biomass-Based Polybenzoxaz_images/_temp_8df93f99_convert_.pdf-0007-02.png)
+![](_temp_d9f8ccc7_convert__images/_temp_d9f8ccc7_convert_.pdf-0007-02.png)
 
 
 **Figure 4.** SEM images of ( **a** – **c** ) ESC-N and ( **d** – **f** ) ESC-G at different magnifications. 
@@ -151,11 +151,11 @@ _Gels_ **2024** , _10_ , 462
 8 of 15 
 
 
-![](_images/High-Performance Supercapacitor Electrodes from Fully Biomass-Based Polybenzoxaz_images/_temp_8df93f99_convert_.pdf-0008-02.png)
+![](_temp_d9f8ccc7_convert__images/_temp_d9f8ccc7_convert_.pdf-0008-02.png)
 
 
 
-![](_images/High-Performance Supercapacitor Electrodes from Fully Biomass-Based Polybenzoxaz_images/_temp_8df93f99_convert_.pdf-0008-03.png)
+![](_temp_d9f8ccc7_convert__images/_temp_d9f8ccc7_convert_.pdf-0008-03.png)
 
 
 **Figure 5.** ( **a** – **c** ) TEM images at different magnifications; and ( **d** ) SAED pattern of ESC-G. 
@@ -182,7 +182,7 @@ _Gels_ **2024** , _10_ , 462
 of 531.3, 533.1, 533.6, and 537.1 eV, corresponding to hydroxyl (C–OH), epoxy (C–O–C), carbonyl (C=O)/carboxyl (COO-), and chemisorbed oxygen or water functional groups, respectively [48–50]. This confrmed the presence of oxygen-containing functionalities ~~and possibly entrapped water molecules within the carbon matrix. The XPS analysis unequivocally confrmed the presence of nitrogen and oxygen functionalities within the structure of the synthesized carbon materials.~~ 
 
 
-![](_images/High-Performance Supercapacitor Electrodes from Fully Biomass-Based Polybenzoxaz_images/_temp_8df93f99_convert_.pdf-0009-03.png)
+![](_temp_d9f8ccc7_convert__images/_temp_d9f8ccc7_convert_.pdf-0009-03.png)
 
 
 **Figure 6.** ( **a** ) XPS survey spectrum; and ( **b** – **d** ) deconvoluted spectra of ESC-N and ESC-G. 
@@ -196,13 +196,13 @@ _Gels_ **2024** , _10_ , 462
 10 of 15 
 
 
-![](_images/High-Performance Supercapacitor Electrodes from Fully Biomass-Based Polybenzoxaz_images/_temp_8df93f99_convert_.pdf-0010-02.png)
+![](_temp_d9f8ccc7_convert__images/_temp_d9f8ccc7_convert_.pdf-0010-02.png)
 
 
 **Figure 7.** ( **a** ) CV curves at different scan rates; ( **b** ) GCD curves at various current densities; ( **c** ) specific ~~capacitances with changing current densities; and (~~ ~~**d** ) an EIS Nyquist plot of the prepared~~ ESCN electrode. 
 
 
-![](_images/High-Performance Supercapacitor Electrodes from Fully Biomass-Based Polybenzoxaz_images/_temp_8df93f99_convert_.pdf-0010-04.png)
+![](_temp_d9f8ccc7_convert__images/_temp_d9f8ccc7_convert_.pdf-0010-04.png)
 
 
 **Figure 8.** ( **a** ) CV curves at different scan rates; ( **b** ) GCD curves at various current densities; ( **c** ) specific capacitances with changing current densities; and ( **d** ) an EIS Nyquist plot of the prepared ESCG material. 
@@ -232,7 +232,7 @@ interaction. This effectively meets a key requirement for high capacitance, posi
 To further explore the practical viability of these electrodes, their cycling stability was evaluated through a GCD study over 5000 charge–discharge cycles (Figure 9d). Notably, the Cs of the ESC-G electrode exhibited exceptional stability throughout the test at a current density of 0.5 A g _[−]_[1] , although a slight decrease from 151 to 117 F g _[−]_[1] was observed after 5000 cycles and the capacitance retention ratio maintained at 89%. This outstanding stability underscores the long-term durability of ESC-G electrodes, rendering them highly suitable for real-world supercapacitor devices. 
 
 
-![](_images/High-Performance Supercapacitor Electrodes from Fully Biomass-Based Polybenzoxaz_images/_temp_8df93f99_convert_.pdf-0012-04.png)
+![](_temp_d9f8ccc7_convert__images/_temp_d9f8ccc7_convert_.pdf-0012-04.png)
 
 
 **Figure 9.** ( **a** ) CV; ( **b** ) GCD; ( **c** ) specific capacitance; and ( **d** ) cyclic stability of the ESC-N and ESCG electrodes. 

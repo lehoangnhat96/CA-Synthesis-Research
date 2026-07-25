@@ -1,11 +1,11 @@
 _**micromachines**_ 
 
 
-![](_images/1 Biomass-Derived Carbon-Based Electrodes for Electrochemical Sensing_images/_temp_6e1f928f_convert_.pdf-0001-01.png)
+![](_temp_afa78d50_convert__images/_temp_afa78d50_convert_.pdf-0001-01.png)
 
 
 
-![](_images/1 Biomass-Derived Carbon-Based Electrodes for Electrochemical Sensing_images/_temp_6e1f928f_convert_.pdf-0001-02.png)
+![](_temp_afa78d50_convert__images/_temp_afa78d50_convert_.pdf-0001-02.png)
 
 
 ## _Review_ 
@@ -29,7 +29,7 @@ Academic Editor: James F. Rusling
 Received: 1 August 2023 Revised: 22 August 2023 Accepted: 27 August 2023 Published: 29 August 2023 
 
 
-![](_images/1 Biomass-Derived Carbon-Based Electrodes for Electrochemical Sensing_images/_temp_6e1f928f_convert_.pdf-0001-13.png)
+![](_temp_afa78d50_convert__images/_temp_afa78d50_convert_.pdf-0001-13.png)
 
 
 **Copyright:** © 2023 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https:// creativecommons.org/licenses/by/ 4.0/). 
@@ -88,7 +88,7 @@ The following review classifies, summarizes, and analyses different research mad
 Biomass-derived carbon materials can be prepared using various methods depending on the desired application and the type of biomass required; however, the most commonly employed techniques for electrochemical applications are described below and illustrated in Figure 1. The synthesis method and associated parameters, such as temperature, pressure, residence time, pH, gas atmosphere, solvent, and substrate concentration, play a pivotal role in determining the structure and activity of the resulting material. Carefully controlling these synthesis parameters is crucial in tailoring the carbon material’s properties to meet specific electrochemical requirements [8,9]. 
 
 
-![](_images/1 Biomass-Derived Carbon-Based Electrodes for Electrochemical Sensing_images/_temp_6e1f928f_convert_.pdf-0003-09.png)
+![](_temp_afa78d50_convert__images/_temp_afa78d50_convert_.pdf-0003-09.png)
 
 
 **Figure 1.** Main synthesis methods for preparing biomass-derived carbon materials for sensing applications. 
@@ -151,11 +151,11 @@ _Micromachines_ **2023** , _14_ , 1688
 6 of 26 
 
 
-![](_images/1 Biomass-Derived Carbon-Based Electrodes for Electrochemical Sensing_images/_temp_6e1f928f_convert_.pdf-0006-02.png)
+![](_temp_afa78d50_convert__images/_temp_afa78d50_convert_.pdf-0006-02.png)
 
 
 
-![](_images/1 Biomass-Derived Carbon-Based Electrodes for Electrochemical Sensing_images/_temp_6e1f928f_convert_.pdf-0006-03.png)
+![](_temp_afa78d50_convert__images/_temp_afa78d50_convert_.pdf-0006-03.png)
 
 
 **Figure 2.** Scheme of activated carbon production from wetland biomass with conventional H3PO4 activation [20]. 
@@ -165,11 +165,11 @@ _Micromachines_ **2023** , _14_ , 1688
 Biomass-derived carbon materials are commonly doped with heteroatoms like B, N, P, and S. These heteroatoms are introduced into the carbon network of different molecules (Figure 3a) when the precursors are heated, developing a catalyst with a synergic effect on the carbon materials. This doping enhances their chemical and physicochemical properties, improving electrochemical sensing capabilities [22]. 
 
 
-![](_images/1 Biomass-Derived Carbon-Based Electrodes for Electrochemical Sensing_images/_temp_6e1f928f_convert_.pdf-0006-07.png)
+![](_temp_afa78d50_convert__images/_temp_afa78d50_convert_.pdf-0006-07.png)
 
 
 
-![](_images/1 Biomass-Derived Carbon-Based Electrodes for Electrochemical Sensing_images/_temp_6e1f928f_convert_.pdf-0006-08.png)
+![](_temp_afa78d50_convert__images/_temp_afa78d50_convert_.pdf-0006-08.png)
 
 
 **Figure 3.** ( **a** ) Schematic illustration of heteroatoms self-doped porous carbon derived from biomass sources; types of ( **b** ) nitrogen, ( **c** ) sulfur, and ( **d** ) phosphorous [23]. 
@@ -201,7 +201,7 @@ _Micromachines_ **2023** , _14_ , 1688
 which significantly enhanced contact with the active sites and facilitated redox reactions. Under optimized conditions, the system demonstrated remarkable sensitivity and selective response in the coexistence of ascorbic acid, dopamine, and uric acid. It achieved linear response ranges of 0.05–200 µM, 2–2000 µM, and 1–2500 µM, respectively, and detection limits (LODs) of 0.02 µM, 0.16 µM, and 0.11 µM, respectively. The excellent sensing performance was attributed to the abundant edges and defects of the surface of the prepared catalyst, which facilitate the electrolyte penetration and transportation, and to the high contact probability between the reactant molecules and the active sites. 
 
 
-![](_images/1 Biomass-Derived Carbon-Based Electrodes for Electrochemical Sensing_images/_temp_6e1f928f_convert_.pdf-0008-03.png)
+![](_temp_afa78d50_convert__images/_temp_afa78d50_convert_.pdf-0008-03.png)
 
 
 **Figure 4.** Schematic methodology for preparing the electrochemical sensor using kiwi peel [39]. 
@@ -217,7 +217,7 @@ _Micromachines_ **2023** , _14_ , 1688
 The unique chemical composition and three-dimensional structures of plant- and leafderived biomass provide ample opportunities for engineering novel electrode materials with tailored properties. These properties include large surface areas, hierarchical porous structures, and the ability to capture and interact with analytes of interest, resulting in improved electrochemical sensing performance [41–50]. Manickaraj et al. [51] successfully developed a highly porous houseplant ( _Sansevieria trifasciata)_ biomass-derived activated carbon using a supercritical CO2 route. The catalyst was fabricated for Metol electrochemical sensing, utilizing a modified screen-printed carbon electrode by DPV analysis. The fabrication of the SC-ST-AC catalyst involved a thermal and activation process. The biomass was pre-carbonized at 400 _[◦]_ C for 4 h under an N2 atmosphere, followed by a chemical activation process using a 3 M KOH solution for 12 h. Subsequently, the sample was subjected to the CO2 process and was further heated at 600 _[◦]_ C for 2 h under a N2 atmosphere. The prepared catalyst exhibited higher porous architecture and superior phase purity with an amorphous nature compared to the catalyst obtained for a conventional method. Moreover, the process not only facilitated the porous nature, but also enhanced the activation reaction kinetics, contributing to its enhanced electrochemical performance. The presence of the porous nature on the carbon surface was attributed to the reaction of K[+] from KOH with the carbon on the biomass-derived surface (1)–(6). 
 
 
-![](_images/1 Biomass-Derived Carbon-Based Electrodes for Electrochemical Sensing_images/_temp_6e1f928f_convert_.pdf-0009-04.png)
+![](_temp_afa78d50_convert__images/_temp_afa78d50_convert_.pdf-0009-04.png)
 
 
 Furthermore, the optimized catalyst exhibited a superior detection limit (0.005 µM L _[−]_[1] ) and sensitivity (0.854 µA µM _[−]_[1] cm _[−]_[2] ), which were attributed to the higher porous, active sites, and charge transfer efficiency of the prepared catalyst. The development of this highly porous biomass-derived activated carbon presents a promising approach for efficient electrochemical sensing applications, with potential implications in various analytical and environmental monitoring systems. Similarly, a cost-effective, green, and environmentally friendly phosphorous-doped nitrogenous porous carbon material was fabricated by Huang et al. [52] using lotus leaves for the electrochemical and simultaneous sensing of ascorbic acid, dopamine, and uric acid. The prepared catalyst showed a high BET surface area and mesoporous structure, facilitating low resistance channels and providing more active sites, thereby enhancing the electrochemical sensing performance. Electrochemical characterization revealed that the phosphorous-doped nitrogenous porous carbon material-modified glassy carbon electrode improved the conductivity and promoted electron transmission compared to the bare glassy carbon electrode (Figure 5A). Moreover, the prepared electrode demonstrated distinct and higher oxidation peak currents for ascorbic acid, DA, and UA using cyclic voltammetry (Figure 5B) and DPV (Figure 5C) compared with the bare glassy carbon electrode. The authors attributed this improvement to two potential factors: (i) the formation of hydrogen bonds between the three molecules and the nitrogen atom in the phosphorous-doped nitrogenous porous carbon material surface and (ii) the high surface area of the phosphorous-doped nitrogenous porous carbon material, which promotes the electrochemical signals. The effect of the pH was also studied (Figure 5D), revealing a shift of the oxidation peak potentials toward more negative values when the pH increases, indicating that a proton transfer accompanies the oxidation of 
@@ -229,7 +229,7 @@ _Micromachines_ **2023** , _14_ , 1688
 the analytes. The optimization of the sensor design resulted in linear response ranges of 20–250 µM for ascorbic acid, 10–480 µM for DA, and 25–2500 µM for UA, with LODs of 4.25 µM, 0.86 µM, and 0.20 µM, respectively. 
 
 
-![](_images/1 Biomass-Derived Carbon-Based Electrodes for Electrochemical Sensing_images/_temp_6e1f928f_convert_.pdf-0010-03.png)
+![](_temp_afa78d50_convert__images/_temp_afa78d50_convert_.pdf-0010-03.png)
 
 
 **Figure 5.** ( **A** ) Cyclic voltammogram of different electrodes in a solution of 0.1 M KCl containing 5.0 mM Fe(CN)6[3] _[−]_ /[4] _[−]_ ; ( **B** ) cyclic voltammogram of bare glassy carbon electrode, CN-modified glassy carbon electrode, and phosphorous-doped nitrogenous porous carbon material modified glassy carbon electrode in 0.1 M phosphate buffer solution (pH 7.0) with 0.2 mM ascorbic acid, DA, and UA; ( **C** ) DPV phosphorous-doped nitrogenous porous carbon material-modified glassy carbon electrode, and bare glassy carbon electrode in 0.1 M phosphate buffer solution (pH 7.0) with 0.2 mM ascorbic acid, DA, and UA; ( **D** ) effect of pH value [52]. 
@@ -249,7 +249,7 @@ of waste coffee ground activated carbon and gold nanoparticles. The prepared sen
 Seed-derived biomass-based electrochemical sensors have shown promising results in various applications. They have been utilized to detect environmental pollutants, making them relevant in environmental monitoring [59–64]. Regarding this, Sha et al. [65] presented a highly sensitive and selective sensor based on carbon quantum dots for the electrochemical determination of hydrazine. The catalyst was fabricated using chia seed as a natural and cost-effective precursor through a single-step pyrolysis process and subsequently employed for the modification of glassy carbon electrodes by drop-casting. The synthesized carbon quantum dots displayed a quasi-spherical morphology with a size distribution ranging from 2 to 6 nm and numerous surface functional groups. Amperometric measurements of the carbon quantum dot-based electrode showed a fast response towards hydrazine oxidation in the 125–1125 µM range at the potential 0.65 V under hydrodynamic conditions (Figure 6a). A good linearity between the concentration and the recorded current was observed (Figure 6b), resulting in a sensitivity of 151.5 µA mM _[−]_[1] cm _[−]_[2] and an LOD of 39.7 µM. Utilizing chia-seed-derived carbon quantum dots as the catalyst material offers an environmentally friendly and economical approach for the sensitive detection of hydrazine. 
 
 
-![](_images/1 Biomass-Derived Carbon-Based Electrodes for Electrochemical Sensing_images/_temp_6e1f928f_convert_.pdf-0011-05.png)
+![](_temp_afa78d50_convert__images/_temp_afa78d50_convert_.pdf-0011-05.png)
 
 
 **Figure 6.** ( **a** ) Amperometric response of the carbon quantum dot-modified glassy carbon electrode towards sequential addition of hydrazine at 0.65 V vs. Ag/AgCl in 0.1 M phosphate buffer solution; ( **b** ) calibration curve representing the response of electrodes (N = 3) [65]. 
@@ -263,11 +263,11 @@ _Micromachines_ **2023** , _14_ , 1688
 surface of the electrode. This facilitated superior electrochemical sensing capabilities. Notably, the sensor exhibited a remarkably low LOD of 0.36 µM and a high sensitivity of 0.03436 µA µM _[−]_[1] within a wide linear dynamic range of 18–592 µM. Moreover, the modified electrode exhibited excellent selectivity in the presence of various common interfering compounds, such as ascorbic acid, UA, urea, glucose, and fructose, among many others (Figure 7). A list with more recent studies of herbaceous biomass and derivates for electrochemical sensing is listed in Table 3. As can be seen, different biomass-derived materials, such as fruit peels and seeds, have been used for sensing several groups of analytes, including heavy metals, dyes, and pharmaceutical-related compounds. Furthermore, techniques such as DPV, anodic stripping differential-pulse voltammetry (ASDPV), amperometry (Amp), and differential-pulse adsorptive stripping voltammetry (DPAdSV) are the most employed for sensing using biomass-derived carbon-based materials. 
 
 
-![](_images/1 Biomass-Derived Carbon-Based Electrodes for Electrochemical Sensing_images/_temp_6e1f928f_convert_.pdf-0012-03.png)
+![](_temp_afa78d50_convert__images/_temp_afa78d50_convert_.pdf-0012-03.png)
 
 
 
-![](_images/1 Biomass-Derived Carbon-Based Electrodes for Electrochemical Sensing_images/_temp_6e1f928f_convert_.pdf-0012-04.png)
+![](_temp_afa78d50_convert__images/_temp_afa78d50_convert_.pdf-0012-04.png)
 
 
 **Figure 7.** Selectivity study of glassy carbon electrode modified with gold nanoparticles/reduced graphene oxide with date-seed-derived biomass-derived activated carbon upon the injection of 100 µM 4-nitrophenol and five times (500 µM) higher concentrations of KCl, MgSO4, Na2SO4, K2CO3, CaCl2, CoNO3, urea, oxalic acid (OA), galactose, glucose, sucrose, and fructose, and three times (300 µM) higher concentrations of ascorbic acid, and dopamine, and similar (100 µM) concentrations of uric acid, thiourea (TU), 3-nitrophenol (3-NP), nitrobenzene (NB), and 4-nitrotoluene (4-NT) interfering chemicals in 0.1 M phosphate buffer solution (pH = 7.0) at a working potential of _−_ 0.6 V [66]. 
@@ -326,15 +326,15 @@ _Micromachines_ **2023** , _14_ , 1688
 approach for sensitive and reliable electrochemical sensing of 2-nitrophenol. Several recent studies of woody biomass and derivates for electrochemical sensing are listed in Table 3. As can be seen, several catalysts have been developed using woody-derived materials, which have been mainly used for the electrochemical sensing of organic compounds. 
 
 
-![](_images/1 Biomass-Derived Carbon-Based Electrodes for Electrochemical Sensing_images/_temp_6e1f928f_convert_.pdf-0015-03.png)
+![](_temp_afa78d50_convert__images/_temp_afa78d50_convert_.pdf-0015-03.png)
 
 
 
-![](_images/1 Biomass-Derived Carbon-Based Electrodes for Electrochemical Sensing_images/_temp_6e1f928f_convert_.pdf-0015-04.png)
+![](_temp_afa78d50_convert__images/_temp_afa78d50_convert_.pdf-0015-04.png)
 
 
 
-![](_images/1 Biomass-Derived Carbon-Based Electrodes for Electrochemical Sensing_images/_temp_6e1f928f_convert_.pdf-0015-05.png)
+![](_temp_afa78d50_convert__images/_temp_afa78d50_convert_.pdf-0015-05.png)
 
 
 **Figure 8.** Scanning electron microscope images ( **A** – **C** ) and transmission electron microscopy images ( **D** – **F** ) of LRPC-800, N&P/LRPC-800-1, and N&P/LRPC-800-2, respectively [95]. 
@@ -354,7 +354,7 @@ _Micromachines_ **2023** , _14_ , 1688
 demonstrated that the over-oxidized carbon paste electrode modified with the membrane (Figure 9) exhibited a remarkable improvement in the electron transfer kinetics for Vitamin C by lowering the anodic over-potential and increasing the anodic peak current. The sensor performance achieved a low LOD of 5.96 µM, a wide linear range of 9.9–280.5 µM, and a good sensitivity of 2.1969 µA/µmol dm _[−]_[3] . 
 
 
-![](_images/1 Biomass-Derived Carbon-Based Electrodes for Electrochemical Sensing_images/_temp_6e1f928f_convert_.pdf-0016-03.png)
+![](_temp_afa78d50_convert__images/_temp_afa78d50_convert_.pdf-0016-03.png)
 
 
 **Figure 9.** Schematic methodology for the determination of Vitamin C using a yellow membrane of chicken feet-derived waste [104]. 
@@ -366,7 +366,7 @@ Yang et al. [85] demonstrated the utilization of a natural crab shell as a templ
 ~~17 of 26~~ 
 
 
-![](_images/1 Biomass-Derived Carbon-Based Electrodes for Electrochemical Sensing_images/_temp_6e1f928f_convert_.pdf-0017-02.png)
+![](_temp_afa78d50_convert__images/_temp_afa78d50_convert_.pdf-0017-02.png)
 
 
 **Figure 10.** ( **a** ) Cyclic voltammograms of 25 µM malachite green in 0.05 M H2SO4 on the ordered mesoporous carbon nanofiber arrays on glassy carbon (red line) and glassy carbon (black line), with the scan rate = 100 mVs _[−]_[1] and ( **b** ) Nyquist plots corresponding to the glassy carbon and ordered mesoporous carbon nanofiber arrays on glassy carbon surface in 5 mM Fe(CN) _[−]_[3] / _[−]_[4] +0.1 M KCl [85]. 
@@ -388,7 +388,7 @@ _Micromachines_ **2023** , _14_ , 1688
 18 of 26 
 
 
-![](_images/1 Biomass-Derived Carbon-Based Electrodes for Electrochemical Sensing_images/_temp_6e1f928f_convert_.pdf-0018-02.png)
+![](_temp_afa78d50_convert__images/_temp_afa78d50_convert_.pdf-0018-02.png)
 
 
 **Figure 11.** Schematic methodology to electrochemical monitoring of Palbociclib–DNA interaction using human hair waste [105]. 
@@ -402,7 +402,7 @@ _Micromachines_ **2023** , _14_ , 1688
 19 of 26 
 
 
-![](_images/1 Biomass-Derived Carbon-Based Electrodes for Electrochemical Sensing_images/_temp_6e1f928f_convert_.pdf-0019-02.png)
+![](_temp_afa78d50_convert__images/_temp_afa78d50_convert_.pdf-0019-02.png)
 
 
 **Figure 12.** Determination of AC in 0.1 M phosphate buffer solution (pH = 7.4) using glassy carbon modified with the catalyst obtained with consecutive activations. ( **a** ) DPV plots and ( **b** ) corresponding linear calibration plots of the result. The range of concentration of acetaminophen was from 0.01 µM to 20 µM. The determination of acetaminophen in 0.1 M phosphate buffer solution (pH = 7.4) using glassy carbon modified with the catalyst obtained with consecutive activations with 100 µM of ascorbic acid and 1 µM of dopamine. ( **c** ) DPV plots and ( **d** ) corresponding linear calibration plots of the result. The range of concentration of AC was from 0.02 µM to 20 µM [16]. 
@@ -416,11 +416,11 @@ _Micromachines_ **2023** , _14_ , 1688
 20 of 26 
 
 
-![](_images/1 Biomass-Derived Carbon-Based Electrodes for Electrochemical Sensing_images/_temp_6e1f928f_convert_.pdf-0020-02.png)
+![](_temp_afa78d50_convert__images/_temp_afa78d50_convert_.pdf-0020-02.png)
 
 
 
-![](_images/1 Biomass-Derived Carbon-Based Electrodes for Electrochemical Sensing_images/_temp_6e1f928f_convert_.pdf-0020-03.png)
+![](_temp_afa78d50_convert__images/_temp_afa78d50_convert_.pdf-0020-03.png)
 
 
 **Figure 13.** Differential pulse voltammograms recorded in 0.1 M acetic buffer pH 4.75 at the prepared catalyst for ( **a** ) 0.1 mM hydroquinone; ( **b** ) 0.025 mM catechol; ( **c** ) 0.1 mM gallic acid; ( **d** ) 0.1 mM resorcinol; ( **e** ) 0.1 mM vanillin; pulse amplitude 90 mV, pulse width 60 ms, and scan rate 30 mVs _[−]_[1] [109]. 

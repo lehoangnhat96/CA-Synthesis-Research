@@ -1,9 +1,9 @@
 
-![](_images/Danh gia dac tinh soi xo dua qua qua trinh_images/_temp_dd421711_convert_.pdf-0001-00.png)
+![](_temp_8b108585_convert__images/_temp_8b108585_convert_.pdf-0001-00.png)
 
 
 
-![](_images/Danh gia dac tinh soi xo dua qua qua trinh_images/_temp_dd421711_convert_.pdf-0001-01.png)
+![](_temp_8b108585_convert__images/_temp_8b108585_convert_.pdf-0001-01.png)
 
 
 _Bài báo khoa học_ 
@@ -39,11 +39,11 @@ nghiên cứu sợi dừa bằng phương pháp sàng, nghiền thành kích th�
 ## _2.1_ . _Quy trình thực nghiệm_ 
 
 
-![](_images/Danh gia dac tinh soi xo dua qua qua trinh_images/_temp_dd421711_convert_.pdf-0002-04.png)
+![](_temp_8b108585_convert__images/_temp_8b108585_convert_.pdf-0002-04.png)
 
 
 
-![](_images/Danh gia dac tinh soi xo dua qua qua trinh_images/_temp_dd421711_convert_.pdf-0002-05.png)
+![](_temp_8b108585_convert__images/_temp_8b108585_convert_.pdf-0002-05.png)
 
 
 **Hình 1.** Sơ đồ quy trình xử lý sợi xơ dừa. 
@@ -75,7 +75,7 @@ trong 30 phút. Sau đó, sợi xơ dừa được đem đi lọc, rửa với n
 Phương pháp này được thực hiện dựa trên phương pháp sấy khô theo tiêu chuẩn Việt Nam TCVN 1867:2001. Công thức xác định hàm lượng ẩm là: 
 
 
-![](_images/Danh gia dac tinh soi xo dua qua qua trinh_images/_temp_dd421711_convert_.pdf-0003-07.png)
+![](_temp_8b108585_convert__images/_temp_8b108585_convert_.pdf-0003-07.png)
 
 
 Trong đó m1 là khối lượng của mẫu thử trước khi sấy, tính bằng gam (g); mo là khối lượng mẫu thử sau khi sấy, tính bằng gam (g); M là độ ẩm của mẫu thử, biểu hiện theo phần trăm khối lượng (%kl). 
@@ -93,11 +93,11 @@ Cơ tính của sợi xơ dừa được đánh giá dựa theo tiêu chuẩn AS
 _Tạp chí Khí tượng Thủy văn_ **2022** , _EME4_ , 297-306; doi:10.36335/VNJHM.2022(EME4).297-306          300 
 
 
-![](_images/Danh gia dac tinh soi xo dua qua qua trinh_images/_temp_dd421711_convert_.pdf-0004-01.png)
+![](_temp_8b108585_convert__images/_temp_8b108585_convert_.pdf-0004-01.png)
 
 
 
-![](_images/Danh gia dac tinh soi xo dua qua qua trinh_images/_temp_dd421711_convert_.pdf-0004-02.png)
+![](_temp_8b108585_convert__images/_temp_8b108585_convert_.pdf-0004-02.png)
 
 
 **Hình 2.** Mẫu đo độ bền kéo sợi theo tiêu chuẩn ASTM C1557–03. 
@@ -119,7 +119,7 @@ Theo những nghiên cứu về đường kính sợi xơ dừa trước đó v�
 _Tạp chí Khí tượng Thủy văn_ **2022** , _EME4_ , 297-306; doi:10.36335/VNJHM.2022(EME4).297-306          301 
 
 
-![](_images/Danh gia dac tinh soi xo dua qua qua trinh_images/_temp_dd421711_convert_.pdf-0005-01.png)
+![](_temp_8b108585_convert__images/_temp_8b108585_convert_.pdf-0005-01.png)
 
 
 **----- Start of picture text -----**<br>
@@ -131,7 +131,7 @@ _Tạp chí Khí tượng Thủy văn_ **2022** , _EME4_ , 297-306; doi:10.36335
 Hình 3 cho thấy đường kính trung bình của sợi xơ dừa từ 215–300 µm, nằm trong vùng kích thước sợi phổ biến khảo sát trước đó [15–17]. Qua các quá trình xử lí với các dung dịch NaOH và H2O2, kích thước sợi bị giảm so với sợi xơ dừa chỉ được rửa qua với H2O (mẫu M). Điều này được giải thích là do NaOH, H2O2 đã giúp loại bỏ các phần vô định hình trong sợi như lignin, pectin, hemicellulose nên đường kính xơ dừa đã bị giảm kích thước. 
 
 
-![](_images/Danh gia dac tinh soi xo dua qua qua trinh_images/_temp_dd421711_convert_.pdf-0005-04.png)
+![](_temp_8b108585_convert__images/_temp_8b108585_convert_.pdf-0005-04.png)
 
 
 **----- Start of picture text -----**<br>
@@ -151,7 +151,7 @@ _Tạp chí Khí tượng Thủy văn_ **2022** , _EME4_ , 297-306; doi:10.36335
 5). Như vậy, xử lý sợi xơ dừa với các dung dịch NaOH, H2O2 sẽ làm tăng bộ biến dạng của sợi, nhờ việc loại bỏ các thành phần có trong sợi như lignin, hemicellulose. 
 
 
-![](_images/Danh gia dac tinh soi xo dua qua qua trinh_images/_temp_dd421711_convert_.pdf-0006-02.png)
+![](_temp_8b108585_convert__images/_temp_8b108585_convert_.pdf-0006-02.png)
 
 
 **----- Start of picture text -----**<br>
@@ -163,7 +163,7 @@ _Tạp chí Khí tượng Thủy văn_ **2022** , _EME4_ , 297-306; doi:10.36335
 Kết quả đo độ bền kéo cho thấy, sợi xơ dừa đã qua xử lý ở nhiệt độ 70[o] C, 80[o] C (mẫu M1, M1H, M2, M2H) với dung dịch là NaOH và H2O2 cho kết quả với độ bền kéo tăng so với mẫu rửa với nước (M). Đặc biệt với mẫu M2 có độ bền kéo cao nhất, đạt trên 200 MPa. Tuy nhiên, sợi xơ dừa được xử lý ở điều kiện 90[o] C với dung dịch NaOH và H2O2 thì độ bền kéo giảm từ 3–9 MPa theo mẫu tương ứng là M3H và M3 (Hình 6). Việc giảm độ bền kéo mẫu M3; M3H khi xử lý ở nhiệt độ 90[o] C chứng tỏ rằng khi xử lý sợi ở nhiệt độ cao sẽ làm giảm độ bền kéo sợi. Nguyên nhân là khi xử lý sợi ở nhiệt độ quá cao có thể làm mất đi những thành phần có trong sợi không chỉ là lignin, pectin, hecmicellulose mà còn có thể gây tác động đến cấu trúc phân tử trong vật liệu sợi. Vì vậy nên chọn lựa nhiệt độ xử lý sợi phù hợp để tránh giảm độ bền kéo của sợi. 
 
 
-![](_images/Danh gia dac tinh soi xo dua qua qua trinh_images/_temp_dd421711_convert_.pdf-0006-05.png)
+![](_temp_8b108585_convert__images/_temp_8b108585_convert_.pdf-0006-05.png)
 
 
 **----- Start of picture text -----**<br>
@@ -183,7 +183,7 @@ trên cho thấy sợi xơ dừa thô khi xử lý với nước đã làm giả
 Ngoài ra, các đỉnh trong vùng số sóng từ 1830–730 cm[–1] là vùng đặc trưng của lignin: đỉnh ở 1602 cm[–1] đặc trưng cho dao động kéo dãn của C=C trong vòng thơm, đỉnh ở 1242 cm[–1] đặc trưng cho dao động kéo dãn của liên kết ete giữa vòng thơm và nhóm ankyl (Hình 7). Trong phổ FTIR của các mẫu sợi, những đỉnh này đã giảm cường độ sau khi xử lý sợi bằng NaOH và NaOH/H2O2, chứng tỏ quá trình loại bỏ lignin ra khỏi sợi cellulose [18]. Hydro peroxit có xu hướng oxy hóa các nhóm hydroxyl từ cellulose trong bề mặt sợi thành các nhóm cacboxyl tạo cho sợi có thế cation mềm [22]. Quá trình oxy hóa này được xác nhận bởi phổ FTIR của các sợi được xử lý với H2O2 tại vị trí đỉnh ở 1728 cm[–1] . Tín hiệu carbonyl ban đầu xuất hiện từ lignin và hemicellulose, sau khi xử lý, quan sát thấy sự hình thành các nhóm cacboxyl, mà dao động dọc trục của C=O tăng cường cực đại. Dải ở 1238 cm[–1] trong phổ FTIR của sợi được xử lý H2O2 được tăng cường bởi sự hiện diện của các nhóm cacboxyl được hình thành, chứng tỏ sợi xơ dừa có nhiều cellulose trên bề mặt. Tóm lại, thành phần sợi xơ dừa có sự thay đổi khi xử lý với dung môi khác nhau trong điều kiện nhiệt độ khác nhau. 
 
 
-![](_images/Danh gia dac tinh soi xo dua qua qua trinh_images/_temp_dd421711_convert_.pdf-0007-03.png)
+![](_temp_8b108585_convert__images/_temp_8b108585_convert_.pdf-0007-03.png)
 
 
 **----- Start of picture text -----**<br>

@@ -69,7 +69,7 @@ Màng điện cực có độ dày 150 μm được sấy bằng tủ sấy châ
 Phương pháp quét thế vòng tuần hoàn (cyclic voltammetry – CV) được thực hiện trong khoảng thế 0,0 đến +1,0 V (vs. Ag/ AgCl), tốc độ quét 5 mV/s, 10 mV/, 25 mV/s, 50 mV/s, 75 mV/s, 100 mV/s. Từ đường cong CV tính được điện dung riêng dựa vào công thức (Kim et al., 2015): 
 
 
-![](_images/TONG HOP VAT LIEU MnO2CARBON AEROGEL UNG DUNG_img/_temp_bb1b0f05_heal_.pdf-0003-10.png)
+![](_temp_bb1b0f05_convert__images/_temp_bb1b0f05_convert_.pdf-0003-10.png)
 
 
 trong đó, ∆S là diện tích đường cong CV, v là tốc độ quét (V/s), m là khối lượng của vật liệu điện cực được sử dụng cho thí nghiệm điện hóa (g) không bao gồm keo in điện cực và ∆E là khoảng quét thế (V). 
@@ -85,13 +85,13 @@ Tạp chí Khoa học Trường ĐHSP TPHCM
 Các thí nghiệm CDI được tiến hành theo chế độ tuần hoàn (batch-mode) với hệ thống bao gồm bơm nhu động, tế bào đơn vị CDI, máy áp dòng và máy đo độ dẫn điện (Jenway 4510). Trong mỗi thí nghiệm, 30 mL dung dịch NaCl 200 ppm với tốc độ dòng chảy 30 mL/phút được bơm liên tục bằng bơm nhu động vào tế bào CDI và nước thải được tuần hoàn liên tục vào bể cấp. Hiệu điện thế khảo sát lần lượt là 1,0 V; 1,2 V; 1,4 V và 1,6 V (Chen et al., 2017). Khả năng hấp phụ NaCl (q, mg/g) của điện cực được ước tính theo phương trình (Li et al., 2020): 
 
 
-![](_images/TONG HOP VAT LIEU MnO2CARBON AEROGEL UNG DUNG_img/_temp_bb1b0f05_heal_.pdf-0004-03.png)
+![](_temp_bb1b0f05_convert__images/_temp_bb1b0f05_convert_.pdf-0004-03.png)
 
 
 Tốc độ hấp phụ tương ứng (v, mg/g.phút) được xác định theo các phương trình (Li et al., 2020): 
 
 
-![](_images/TONG HOP VAT LIEU MnO2CARBON AEROGEL UNG DUNG_img/_temp_bb1b0f05_heal_.pdf-0004-05.png)
+![](_temp_bb1b0f05_convert__images/_temp_bb1b0f05_convert_.pdf-0004-05.png)
 
 
 trong đó, C0 và Ce (mg/L) là nồng độ NaCl ban đầu và sau khi hấp phụ, V (L) là thể tích dung dịch và m (g) là khối lượng của vật liệu điện cực, t (phút) là thời gian hấp phụ. 
@@ -103,7 +103,7 @@ trong đó, C0 và Ce (mg/L) là nồng độ NaCl ban đầu và sau khi hấp 
 Phép đo nhiễu xạ tia X (XRD) được sử dụng để nghiên cứu cấu trúc tinh thể của vật liệu thu được. Như thể hiện trong Hình 1, sự tồn tại của MnO2 có thể được xác nhận và các đỉnh nhiễu xạ tương đối yếu cho thấy MnO2 chủ yếu tồn tại ở dạng vô định hình. Các đỉnh nhiễu xạ yếu của MnO2 ở các góc: 2θ ≈ 12,5°; 25,2°; 36,2°; 65,4° tương ứng với mặt mạng (001), (002), (-111), (-312) phù hợp với δ-MnO2 (Khamsanga et al., 2019). Kích thước tinh thể lớn nhất đạt được kích thước nano 50,5 nm của mẫu δ-MnO2. 
 
 
-![](_images/TONG HOP VAT LIEU MnO2CARBON AEROGEL UNG DUNG_img/_temp_bb1b0f05_heal_.pdf-0004-10.png)
+![](_temp_bb1b0f05_convert__images/_temp_bb1b0f05_convert_.pdf-0004-10.png)
 
 
 _**Hình 1.** Giản đồ XRD của MnO2, CA/MnO2-Mn30 và CA/MnO2-Mn15_ 
@@ -115,7 +115,7 @@ Tạp chí Khoa học Trường ĐHSP TPHCM
 _**Phan Thị Diệu My và tgk**_ 
 
 
-![](_images/TONG HOP VAT LIEU MnO2CARBON AEROGEL UNG DUNG_img/_temp_bb1b0f05_heal_.pdf-0005-02.png)
+![](_temp_bb1b0f05_convert__images/_temp_bb1b0f05_convert_.pdf-0005-02.png)
 
 
 _**Hình 2.** Kết quả Raman của các mẫu vật liệu (a) MnO2 và (b) CA/MnO2-Mn30; CA/MnO2-Mn15_ Phổ Raman của cấu trúc nano MnO2 được mô tả trong Hình 2(a). Từ biểu đồ phổ Raman có thể quan sát có một đỉnh nổi bật ở vùng tần số cao ở 641 cm[-1] , là do các dao động Mn-O đối xứng. Các đỉnh Raman ở các vùng có số sóng thấp được quan sát thấy ở 304cm[-1] được gán cho cấu trúc phân lớp của pha δ-MnO2, phù hợp với kết quả phân tích giản đồ XRD của vật liệu (Roychaudhuri et al., 2018). Hình 2(b) biểu diễn phổ Raman vật liệu hỗn hợp CA/MnO2, quan sát thấy hai đỉnh đặc trưng cho trạng thái hỗn loạn D ở 1349 cm[-1] và vùng ổn định G ở 1593 cm[-1] . Điều này xảy ra do các khuyết tật trong cấu trúc của các nguyên tử carbon sp[3] làm xuất hiện tín hiệu của đỉnh D. Trong khi đó đỉnh G đặc trưng sắp xếp dạng vòng 6 cạnh của carbon sp[2] . Việc xuất hiện tín hiệu đặc trưng D và G của cùng với tín hiệu 639 cm[-1] cho thấy sự kết hợp của CA và MnO2 (Jaoude et al., 2020) 
@@ -129,7 +129,7 @@ _**Tập 20, Số 12(2023): 2106-2118**_
 Tạp chí Khoa học Trường ĐHSP TPHCM 
 
 
-![](_images/TONG HOP VAT LIEU MnO2CARBON AEROGEL UNG DUNG_img/_temp_bb1b0f05_heal_.pdf-0006-02.png)
+![](_temp_bb1b0f05_convert__images/_temp_bb1b0f05_convert_.pdf-0006-02.png)
 
 
 _**Hình 3.** Ảnh SEM của (a) MnO2; (b) CA/MnO2-Mn30; (c) CA/MnO2-Mn15_ Thành phần hóa học của mẫu được xác định bằng phương pháp phổ tán xạ năng lượng tia X (EDX). Kết quả thành phần phần trăm nguyên tố của các mẫu thể hiện trong Bảng 2: _**Bảng 2.** Thành phần nguyên tố của các mẫu vật liệu_ 
@@ -160,13 +160,13 @@ dung điện dung riêng chủ yếu là do tác dụng hiệp đồng của CA 
 Điện dung riêng phụ thuộc tốc độ quét đã được mô tả trong Hình 4(b). Điện dung riêng của điện cực CA/MnO2-Mn30 giảm khi tăng tốc độ quét. Ở tốc độ quét cao, các ion trong dung dịch điện li không thể khuếch tán hoàn toàn vào bề mặt bên trong của điện cực do thời gian khuếch tán ngắn. Trong trường hợp tốc độ quét thấp, hầu hết các ion điện phân được khuếch tán đầy đủ vào các vị trí hoạt động do thời gian khuếch tán lâu hơn (Wadi et al., 2022). 
 
 
-![](_images/TONG HOP VAT LIEU MnO2CARBON AEROGEL UNG DUNG_img/_temp_bb1b0f05_heal_.pdf-0007-04.png)
+![](_temp_bb1b0f05_convert__images/_temp_bb1b0f05_convert_.pdf-0007-04.png)
 
 
 _**Hình 4.** (a) Đồ thị quét thế vòng tuần hoàn tại tốc độ quét 5 mV/s của MnO2, CA/MnO2-Mn30, CA/MnO2-Mn15 trong dung dịch điện li NaCl 0,5 M; (b) Đồ thị quét thế vòng tuần hoàn tại các tốc độ quét khác nhau của CA/MnO2-Mn30 trong dung dịch điện li NaCl 0,5 M_ 
 
 
-![](_images/TONG HOP VAT LIEU MnO2CARBON AEROGEL UNG DUNG_img/_temp_bb1b0f05_heal_.pdf-0007-06.png)
+![](_temp_bb1b0f05_convert__images/_temp_bb1b0f05_convert_.pdf-0007-06.png)
 
 
 _**Hình 5.** Điện dung của mẫu MnO2, CA/MnO2-Mn30, CA/MnO2-Mn15 trong dung dịch điện li NaCl 0,5 M_ 
@@ -182,7 +182,7 @@ Tạp chí Khoa học Trường ĐHSP TPHCM
 Mn30, CA/MnO2-Mn15 lớn hơn nhiều so với MnO2. Tuy nhiên, cung khuếch tán mẫu CA/MnO2-Mn30, CA/MnO2-Mn15 có độ dốc lớn hơn MnO2. Nghiên cứu EIS xác nhận rằng điện cực dựa trên CA/MnO2-Mn30 có điện trở thấp với phản ứng ion tốt ở dải tần số cao. Phân tích EIS làm nổi bật giá trị của điện cực dựa trên CA/MnO2-Mn30 có thể đáp ứng các yêu cầu về cả điện trở thấp và siêu điện dung cao hơn đối với việc phát triển điện cực tiềm năng cho các ứng dụng của CDI. 
 
 
-![](_images/TONG HOP VAT LIEU MnO2CARBON AEROGEL UNG DUNG_img/_temp_bb1b0f05_heal_.pdf-0008-03.png)
+![](_temp_bb1b0f05_convert__images/_temp_bb1b0f05_convert_.pdf-0008-03.png)
 
 
 _**Hình 6.** Đường cong Nyquist của điện cực MnO2, CA/MnO2-Mn30, CA/MnO2-Mn15 tại nhiệt độ phòng trong dung dịch điện li NaCl 0,5 M_ 
@@ -232,7 +232,7 @@ _**Bảng 3.** So sánh điện dung riêng và khả năng hấp phụ điện 
 
 
 
-![](_images/TONG HOP VAT LIEU MnO2CARBON AEROGEL UNG DUNG_img/_temp_bb1b0f05_heal_.pdf-0010-05.png)
+![](_temp_bb1b0f05_convert__images/_temp_bb1b0f05_convert_.pdf-0010-05.png)
 
 
 **----- Start of picture text -----**<br>

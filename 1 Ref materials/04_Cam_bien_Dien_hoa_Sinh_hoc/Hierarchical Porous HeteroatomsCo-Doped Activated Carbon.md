@@ -1,11 +1,11 @@
 _**nanomaterials**_ 
 
 
-![](_images/Hierarchical Porous HeteroatomsCo-Doped Activated Carbon_images/_temp_061c2706_convert_.pdf-0001-01.png)
+![](_temp_18a0e6a6_convert__images/_temp_18a0e6a6_convert_.pdf-0001-01.png)
 
 
 
-![](_images/Hierarchical Porous HeteroatomsCo-Doped Activated Carbon_images/_temp_061c2706_convert_.pdf-0001-02.png)
+![](_temp_18a0e6a6_convert__images/_temp_18a0e6a6_convert_.pdf-0001-02.png)
 
 
 ## _Article_ 
@@ -37,7 +37,7 @@ Received: 10 September 2022 Accepted: 4 October 2022 Published: 7 October 2022
 **Publisher’s Note:** MDPI stays neutral with regard to jurisdictional claims in published maps and institutional affiliations. 
 
 
-![](_images/Hierarchical Porous HeteroatomsCo-Doped Activated Carbon_images/_temp_061c2706_convert_.pdf-0001-17.png)
+![](_temp_18a0e6a6_convert__images/_temp_18a0e6a6_convert_.pdf-0001-17.png)
 
 
 **Copyright:** © 2022 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https:// creativecommons.org/licenses/by/ 4.0/). 
@@ -111,7 +111,7 @@ For the preparation of heteroatom-doped (S, N and O element-doped) hierarchical 
 The prepared undoped AC sample is represented by C/KOH/x, where x is the weight multiple of KOH to the coconut shell; in contrast, the prepared doped AC is represented by C/KOH/S-y:z, where S is the doping source (ammonium persulfate), and y:z is the weight ratio of KOH to ammonium persulfate in the raw materials. In this study, the activation was generally performed at a temperature of 700 _[◦]_ C; however, in order to explore the effect of the activation temperature, some doped ACs were activated at different temperatures between 400 and 700 _[◦]_ C. In the samples where the activation temperature was different from the general activation temperature (700 _[◦]_ C), the activation temperature has been included in the sample name. The procedure for preparing AC from coconut shell is shown ~~in Scheme 1. Table 1 shows the preparatory conditions of the as-prepared activated carb~~ on obtained using coconut shell as a raw material. 
 
 
-![](_images/Hierarchical Porous HeteroatomsCo-Doped Activated Carbon_images/_temp_061c2706_convert_.pdf-0005-05.png)
+![](_temp_18a0e6a6_convert__images/_temp_18a0e6a6_convert_.pdf-0005-05.png)
 
 
 **Scheme 1.** The preparatory conditions of the as-prepared activated carbon obtained using coconut shell as raw material. 
@@ -144,7 +144,7 @@ Cyclic voltammetry (CV) and galvanostatic charge–discharge (GCD) were measured
 Moreover, the specific capacitance ( _Cm_ ) was obtained according to the discharge curve of the GCD test using Equation (1): 
 
 
-![](_images/Hierarchical Porous HeteroatomsCo-Doped Activated Carbon_images/_temp_061c2706_convert_.pdf-0006-11.png)
+![](_temp_18a0e6a6_convert__images/_temp_18a0e6a6_convert_.pdf-0006-11.png)
 
 
 where _i_ (A) is the discharge current, ∆ _t_ (s) is the discharge time, ∆ _V_ (V) is the discharge potential difference, and _m_ (g) is the mass of the porous activated carbon material. 
@@ -164,19 +164,19 @@ Electrochemical impedance spectra (EIS) were determined at an open-circuit volta
 An SEM image of coconut shell after activation with KOH at 700 _[◦]_ C is shown in Figure 1. It can be observed in the figure that the prepared activated carbon has different morphologies. Figure 1a shows the AC sample obtained from the coconut shell treated without KOH activator (C/KOH-0). The as-obtained activated carbon sample with a weight ratio of coconut shell/KOH of 1.0 (C/KOH-1) shows a spongy structure, indicating successful activation of the sample on the surface; Figure 1b. It can be seen that a small-pore structure has been formed. Furthermore, the pores of the obtained activated carbon increase in size with increasing addition of KOH, as shown in Figure 1c–f. It can be explained that, due to the CO, CO2, water vapor and other gases produced in the chemical activation process, many holes are formed in the activated carbon, and the number of these defects increases in the activated carbon. 
 
 
-![](_images/Hierarchical Porous HeteroatomsCo-Doped Activated Carbon_images/_temp_061c2706_convert_.pdf-0007-07.png)
+![](_temp_18a0e6a6_convert__images/_temp_18a0e6a6_convert_.pdf-0007-07.png)
 
 
 
-![](_images/Hierarchical Porous HeteroatomsCo-Doped Activated Carbon_images/_temp_061c2706_convert_.pdf-0007-08.png)
+![](_temp_18a0e6a6_convert__images/_temp_18a0e6a6_convert_.pdf-0007-08.png)
 
 
 
-![](_images/Hierarchical Porous HeteroatomsCo-Doped Activated Carbon_images/_temp_061c2706_convert_.pdf-0007-09.png)
+![](_temp_18a0e6a6_convert__images/_temp_18a0e6a6_convert_.pdf-0007-09.png)
 
 
 
-![](_images/Hierarchical Porous HeteroatomsCo-Doped Activated Carbon_images/_temp_061c2706_convert_.pdf-0007-10.png)
+![](_temp_18a0e6a6_convert__images/_temp_18a0e6a6_convert_.pdf-0007-10.png)
 
 
 **----- Start of picture text -----**<br>
@@ -194,7 +194,7 @@ _Nanomaterials_ **2022** , _12_ , 3504
 of a large number of micropores and mesopores, which is the same as the above-mentioned isotherm adsorption curve. 
 
 
-![](_images/Hierarchical Porous HeteroatomsCo-Doped Activated Carbon_images/_temp_061c2706_convert_.pdf-0008-03.png)
+![](_temp_18a0e6a6_convert__images/_temp_18a0e6a6_convert_.pdf-0008-03.png)
 
 
 **----- Start of picture text -----**<br>
@@ -202,7 +202,7 @@ of a large number of micropores and mesopores, which is the same as the above-me
 
 
 
-![](_images/Hierarchical Porous HeteroatomsCo-Doped Activated Carbon_images/_temp_061c2706_convert_.pdf-0008-04.png)
+![](_temp_18a0e6a6_convert__images/_temp_18a0e6a6_convert_.pdf-0008-04.png)
 
 
 **----- Start of picture text -----**<br>
@@ -210,7 +210,7 @@ of a large number of micropores and mesopores, which is the same as the above-me
 
 
 
-![](_images/Hierarchical Porous HeteroatomsCo-Doped Activated Carbon_images/_temp_061c2706_convert_.pdf-0008-05.png)
+![](_temp_18a0e6a6_convert__images/_temp_18a0e6a6_convert_.pdf-0008-05.png)
 
 
 **----- Start of picture text -----**<br>
@@ -222,7 +222,7 @@ of a large number of micropores and mesopores, which is the same as the above-me
 Figure 3a shows the nitrogen adsorption and desorption curve of heteroatom-co-doped activated carbon. It can be seen that there are also no significant differences between the adsorption and desorption curve types of each material, and they are all of the first type of adsorption isotherm. The structure is composed of mesopores with a large number of micropores. Obviously, the doped AC obtained from coconut shell, KOH and ammonium persulfate in the weight ratio 1:3:1 (C/KOH/S-3:1 sample) had the greatest adsorption capacity, which indicates that it had the highest specific surface area. Figure 3b shows the pore size distribution curve of heteroatom-co-doped AC (C/KOH/S sample). The results indicate that most of the C/KOH/S samples had a pore size in the range of 1–10 nm. According to the IUPAC pore type classification, it can be judged that the activated carbon synthesized in this study is a material composed of a large number of micropores and mesopores, which is the same as the judgment made on the basis of the above-mentioned N2 isotherm adsorption curve. 
 
 
-![](_images/Hierarchical Porous HeteroatomsCo-Doped Activated Carbon_images/_temp_061c2706_convert_.pdf-0008-08.png)
+![](_temp_18a0e6a6_convert__images/_temp_18a0e6a6_convert_.pdf-0008-08.png)
 
 
 **----- Start of picture text -----**<br>
@@ -230,7 +230,7 @@ Figure 3a shows the nitrogen adsorption and desorption curve of heteroatom-co-do
 
 
 
-![](_images/Hierarchical Porous HeteroatomsCo-Doped Activated Carbon_images/_temp_061c2706_convert_.pdf-0008-09.png)
+![](_temp_18a0e6a6_convert__images/_temp_18a0e6a6_convert_.pdf-0008-09.png)
 
 
 **----- Start of picture text -----**<br>
@@ -238,7 +238,7 @@ Figure 3a shows the nitrogen adsorption and desorption curve of heteroatom-co-do
 
 
 
-![](_images/Hierarchical Porous HeteroatomsCo-Doped Activated Carbon_images/_temp_061c2706_convert_.pdf-0008-10.png)
+![](_temp_18a0e6a6_convert__images/_temp_18a0e6a6_convert_.pdf-0008-10.png)
 
 
 **----- Start of picture text -----**<br>
@@ -270,7 +270,7 @@ fact that the K-containing species from KOH in the chemical activation process o
 Activated carbon is used for the capacitance of electrode materials, and the degree of graphitization of activated carbon is a key factor in improving electrical properties [73]. Furthermore, the degree of graphitization of samples can be obtained by means of Raman spectroscopy. Figure 4a shows an analysis of the Raman spectra of the activated carbon materials. From the figure, all samples show two different characteristic peaks, which are centered at 1350 and 1595 cm _[−]_[1] , representing the D band and G band of the carbon material, respectively. 
 
 
-![](_images/Hierarchical Porous HeteroatomsCo-Doped Activated Carbon_images/_temp_061c2706_convert_.pdf-0009-07.png)
+![](_temp_18a0e6a6_convert__images/_temp_18a0e6a6_convert_.pdf-0009-07.png)
 
 
 **----- Start of picture text -----**<br>
@@ -296,7 +296,7 @@ _Nanomaterials_ **2022** , _12_ , 3504
 11 of 21 
 
 
-![](_images/Hierarchical Porous HeteroatomsCo-Doped Activated Carbon_images/_temp_061c2706_convert_.pdf-0011-02.png)
+![](_temp_18a0e6a6_convert__images/_temp_18a0e6a6_convert_.pdf-0011-02.png)
 
 
 **----- Start of picture text -----**<br>
@@ -345,7 +345,7 @@ _Nanomaterials_ **2022** , _12_ , 3504
 13 of 21 
 
 
-![](_images/Hierarchical Porous HeteroatomsCo-Doped Activated Carbon_images/_temp_061c2706_convert_.pdf-0013-02.png)
+![](_temp_18a0e6a6_convert__images/_temp_18a0e6a6_convert_.pdf-0013-02.png)
 
 
 **----- Start of picture text -----**<br>
@@ -353,7 +353,7 @@ _Nanomaterials_ **2022** , _12_ , 3504
 
 
 
-![](_images/Hierarchical Porous HeteroatomsCo-Doped Activated Carbon_images/_temp_061c2706_convert_.pdf-0013-03.png)
+![](_temp_18a0e6a6_convert__images/_temp_18a0e6a6_convert_.pdf-0013-03.png)
 
 
 **----- Start of picture text -----**<br>
@@ -361,7 +361,7 @@ _Nanomaterials_ **2022** , _12_ , 3504
 
 
 
-![](_images/Hierarchical Porous HeteroatomsCo-Doped Activated Carbon_images/_temp_061c2706_convert_.pdf-0013-04.png)
+![](_temp_18a0e6a6_convert__images/_temp_18a0e6a6_convert_.pdf-0013-04.png)
 
 
 **----- Start of picture text -----**<br>
@@ -383,7 +383,7 @@ _Nanomaterials_ **2022** , _12_ , 3504
 the prepared N, S co-doped AC of C/KOH/S-3:3 electrode has both EDLC characteristics and pseudo-capacitance characteristics. Figure 7c shows the charge–discharge analysis at 1 A g _[−]_[1] of C/KOH/S electrodes with different weight ratios of ammonium persulfate. The results show that the specific capacitance of the C/KOH/S-3:3 electrode calcined at 700 _[◦]_ C reached as high as 184 F g _[−]_[1] . 
 
 
-![](_images/Hierarchical Porous HeteroatomsCo-Doped Activated Carbon_images/_temp_061c2706_convert_.pdf-0014-03.png)
+![](_temp_18a0e6a6_convert__images/_temp_18a0e6a6_convert_.pdf-0014-03.png)
 
 
 **----- Start of picture text -----**<br>
@@ -415,7 +415,7 @@ _Nanomaterials_ **2022** , _12_ , 3504
 16 of 21 
 
 
-![](_images/Hierarchical Porous HeteroatomsCo-Doped Activated Carbon_images/_temp_061c2706_convert_.pdf-0016-02.png)
+![](_temp_18a0e6a6_convert__images/_temp_18a0e6a6_convert_.pdf-0016-02.png)
 
 
 **----- Start of picture text -----**<br>
@@ -431,7 +431,7 @@ The stability test of C/KOH-3 and C/KOH/S-3:3-700 electrodes is shown in Figure 
 ~~17 of 21~~ 
 
 
-![](_images/Hierarchical Porous HeteroatomsCo-Doped Activated Carbon_images/_temp_061c2706_convert_.pdf-0017-02.png)
+![](_temp_18a0e6a6_convert__images/_temp_18a0e6a6_convert_.pdf-0017-02.png)
 
 
 **----- Start of picture text -----**<br>

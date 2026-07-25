@@ -3,27 +3,27 @@ This article is licensed under CC-BY-NC-ND 4.0
 Review 
 
 
-![](_images/Electrochemical Sensors for Heavy Metal Ion Detection in Aqueous Medium_images/_temp_f03c789e_convert_.pdf-0001-03.png)
+![](_temp_8f2107f7_convert__images/_temp_8f2107f7_convert_.pdf-0001-03.png)
 
 
 
-![](_images/Electrochemical Sensors for Heavy Metal Ion Detection in Aqueous Medium_images/_temp_f03c789e_convert_.pdf-0001-04.png)
+![](_temp_8f2107f7_convert__images/_temp_8f2107f7_convert_.pdf-0001-04.png)
 
 
 
-![](_images/Electrochemical Sensors for Heavy Metal Ion Detection in Aqueous Medium_images/_temp_f03c789e_convert_.pdf-0001-05.png)
+![](_temp_8f2107f7_convert__images/_temp_8f2107f7_convert_.pdf-0001-05.png)
 
 
 
-![](_images/Electrochemical Sensors for Heavy Metal Ion Detection in Aqueous Medium_images/_temp_f03c789e_convert_.pdf-0001-06.png)
+![](_temp_8f2107f7_convert__images/_temp_8f2107f7_convert_.pdf-0001-06.png)
 
 
 
-![](_images/Electrochemical Sensors for Heavy Metal Ion Detection in Aqueous Medium_images/_temp_f03c789e_convert_.pdf-0001-07.png)
+![](_temp_8f2107f7_convert__images/_temp_8f2107f7_convert_.pdf-0001-07.png)
 
 
 
-![](_images/Electrochemical Sensors for Heavy Metal Ion Detection in Aqueous Medium_images/_temp_f03c789e_convert_.pdf-0001-08.png)
+![](_temp_8f2107f7_convert__images/_temp_8f2107f7_convert_.pdf-0001-08.png)
 
 
 http://pubs.acs.org/journal/acsodf 
@@ -43,7 +43,7 @@ ACCESS Metrics & More
 ABSTRACT: Heavy metal ions (HMIs) are very harmful to the ecosystem when they are present in excess of the recommended limits. They are carcinogenic in nature and can cause serious health issues. So, it is important to detect the metal ions quickly and accurately. The metal ions arsenic (As[3+] ), cadmium (Cd[2+] ), chromium (Cr[3+] ), lead (Pb[2+] ), and mercury (Hg[2+] ) are considered to be very toxic among other metal ions. Standard analytical methods like atomic absorption spectroscopy, atomic fluorescence spectroscopy, and X-ray fluorescence spectroscopy are used to detect HMIs. But these methods necessitate highly technical equipment and lengthy procedures with skilled personnel. So, 
 
 
-![](_images/Electrochemical Sensors for Heavy Metal Ion Detection in Aqueous Medium_images/_temp_f03c789e_convert_.pdf-0001-17.png)
+![](_temp_8f2107f7_convert__images/_temp_8f2107f7_convert_.pdf-0001-17.png)
 
 
 electrochemical sensing methods are considered to be more advantageous because of their quick analysis with precision and simplicity to operate. They can detect a wide range of heavy metals providing real-time monitoring and are cost-effective and enable multiparametric detection. Various sensing applications necessitate severe regulation regarding the modification of electrode surfaces. Numerous nanomaterials such as graphene, carbon nanotubes, and metal nanoparticles have been extensively explored as interface materials in electrode modifiers. These nanoparticles offer excellent electrical conductivity, distinctive catalytic properties, and high surface area resulting in enhanced electrochemical performance. This review examines different HMI detection methods in an aqueous medium by an electrochemical sensing approach and studies the recent developments in interface materials for altering the electrodes. 
@@ -59,7 +59,7 @@ posing serious risks to the environment.[3][,][4] Heavy metals may cause nausea,
 When an HMI enters the cell, it changes the biochemical lifecycle and becomes hazardous due to the metal’s ability to form bonds with the thiol group of proteins. Several international organizations, including the World Health Organization (WHO),[6][−][9] the Joint Food and Agricultural Organization (FAO), the Centers for Disease Control (CDC),[10] and the International Agency for Research on Cancer (IARC) are investigating the harmful effects of HMI. Therefore, it is essential to develop fast and precise techniques for the analysis of low-concentration HMIs in samples from the 
 
 
-![](_images/Electrochemical Sensors for Heavy Metal Ion Detection in Aqueous Medium_images/_temp_f03c789e_convert_.pdf-0001-24.png)
+![](_temp_8f2107f7_convert__images/_temp_8f2107f7_convert_.pdf-0001-24.png)
 
 
 Received: January 29, 2024 Revised: May 13, 2024 Accepted: May 24, 2024 Published: June 5, 2024 
@@ -79,7 +79,7 @@ environment, samples from food and medicine, and biological samples.
 To examine heavy metals in food and environmental samples, standard analytical techniques have been developed. These include inductively coupled plasma methods,[11][−][13] X-ray fluorescence spectrometry,[14] and atomic absorption and emission spectroscopies[15][−][17] that can operate in both optical and mass differentiation. These methods are well established and provide high accuracy of results when performed in highly equipped laboratories.[18][−][20] However, they necessitate highly technical equipment, skilled personnel, challenging preconcentration steps before measurement, and lengthy procedures. For HMI detection, different methods such as electrochemical and optical analyses have acquired popularity due to their superior sensitivity, selectivity, speed, affordability, and user-friendliness compared to conventional analytical methods. When compared to the methods mentioned above, the electrochemical method is more advantageous because of its quick analysis with greater precision, economical, simple operation, and easy miniaturization. It is also suitable for in situ analysis, point-of-care analysis, and in vivo real-time analysis.[21] The detection of HMIs in various samples has received significant attention in recent times, as shown in Figure 1. In the past decade, there 
 
 
-![](_images/Electrochemical Sensors for Heavy Metal Ion Detection in Aqueous Medium_images/_temp_f03c789e_convert_.pdf-0002-05.png)
+![](_temp_8f2107f7_convert__images/_temp_8f2107f7_convert_.pdf-0002-05.png)
 
 
 Figure 1. Number of publications in the field of electrochemical detection of heavy metal ions in the last 10 years (www.scopus.com; keywords: electrochemical detection of heavy metal ion). 
@@ -125,7 +125,7 @@ https://doi.org/10.1021/acsomega.4c00933 _ACS Omega_ 2024, 9, 25493−25512
 Review 
 
 
-![](_images/Electrochemical Sensors for Heavy Metal Ion Detection in Aqueous Medium_images/_temp_f03c789e_convert_.pdf-0004-02.png)
+![](_temp_8f2107f7_convert__images/_temp_8f2107f7_convert_.pdf-0004-02.png)
 
 
 **----- Start of picture text -----**<br>
@@ -133,7 +133,7 @@ http://pubs.acs.org/journal/acsodf<br>**----- End of picture text -----**<br>
 
 
 
-![](_images/Electrochemical Sensors for Heavy Metal Ion Detection in Aqueous Medium_images/_temp_f03c789e_convert_.pdf-0004-03.png)
+![](_temp_8f2107f7_convert__images/_temp_8f2107f7_convert_.pdf-0004-03.png)
 
 
 Figure 2. Block diagram of an atomic absorption spectrometer. 
@@ -143,7 +143,7 @@ excitation energy and atomic absorption spectroscopy can be used to identify ele
 _2.1.2. Atomic Fluorescence Spectrometry._ This method makes use of the fluorescence spectra of each individual metal. In this method, the samples are pretreated to remove unwanted impurities. Then the elements of the sample are atomized by the same method adopted in AAS. The illumination of atoms by a radioactive light source causes atomic excitation, which results in emission of fluorescence signals. These signals are detected by the detector. The block diagram of AFS is shown in Figure 3. The construction and working principle of AFS are the same as those of AAS, but the main difference is AAS detects the light absorbed whereas AFS detects the emitted light. 
 
 
-![](_images/Electrochemical Sensors for Heavy Metal Ion Detection in Aqueous Medium_images/_temp_f03c789e_convert_.pdf-0004-07.png)
+![](_temp_8f2107f7_convert__images/_temp_8f2107f7_convert_.pdf-0004-07.png)
 
 
 Figure 3. Block diagram of an atomic fluorescence spectrometer. 
@@ -169,7 +169,7 @@ https://doi.org/10.1021/acsomega.4c00933 _ACS Omega_ 2024, 9, 25493−25512
 Review 
 
 
-![](_images/Electrochemical Sensors for Heavy Metal Ion Detection in Aqueous Medium_images/_temp_f03c789e_convert_.pdf-0005-03.png)
+![](_temp_8f2107f7_convert__images/_temp_8f2107f7_convert_.pdf-0005-03.png)
 
 
 Figure 4. X-ray fluorescence spectroscopy. 
@@ -213,7 +213,7 @@ Table 2. HMI Detection by Analytical Methods
 time, these techniques are used to do exhaustive electrolysis for quantitative analysis, but they give very little information about the type of the analyte. In complicated environmental matrices, voltammetric methods are most commonly utilized to measure heavy metal ions. In contrast to the amperometric method, which uses a single potential point to measure current, these methods measure current at different potential points along a 
 
 
-![](_images/Electrochemical Sensors for Heavy Metal Ion Detection in Aqueous Medium_images/_temp_f03c789e_convert_.pdf-0005-08.png)
+![](_temp_8f2107f7_convert__images/_temp_8f2107f7_convert_.pdf-0005-08.png)
 
 
 Figure 5. Experimental setup of potentiostatic techniques. 
@@ -235,7 +235,7 @@ https://doi.org/10.1021/acsomega.4c00933 _ACS Omega_ 2024, 9, 25493−25512
 Review 
 
 
-![](_images/Electrochemical Sensors for Heavy Metal Ion Detection in Aqueous Medium_images/_temp_f03c789e_convert_.pdf-0006-03.png)
+![](_temp_8f2107f7_convert__images/_temp_8f2107f7_convert_.pdf-0006-03.png)
 
 
 Figure 6. Experimental setup of galvanostatic techniques. 
@@ -257,7 +257,7 @@ Carbon nanoparticle modified electrodes in electrochemical sensors provide a rap
 The adsorption capability of an electrode surface is significant in electrochemical behavior. Ferrite nanoparticles have received a lot of attention due to their excellent adsorption capacity and supermagnetism. This property is utilized to detect arsenic in water using monodispersed ferrite 
 
 
-![](_images/Electrochemical Sensors for Heavy Metal Ion Detection in Aqueous Medium_images/_temp_f03c789e_convert_.pdf-0006-13.png)
+![](_temp_8f2107f7_convert__images/_temp_8f2107f7_convert_.pdf-0006-13.png)
 
 
 Figure 7. Diagrammatic representation of electrochemical impedance spectroscopy. 
@@ -273,13 +273,13 @@ https://doi.org/10.1021/acsomega.4c00933 _ACS Omega_ 2024, 9, 25493−25512
 Review 
 
 
-![](_images/Electrochemical Sensors for Heavy Metal Ion Detection in Aqueous Medium_images/_temp_f03c789e_convert_.pdf-0007-03.png)
+![](_temp_8f2107f7_convert__images/_temp_8f2107f7_convert_.pdf-0007-03.png)
 
 
 Figure 8. Schematic diagram of electrochemical sensor. Reprinted with permission from ref 51. Copyright 2021 Elsevier. 
 
 
-![](_images/Electrochemical Sensors for Heavy Metal Ion Detection in Aqueous Medium_images/_temp_f03c789e_convert_.pdf-0007-05.png)
+![](_temp_8f2107f7_convert__images/_temp_8f2107f7_convert_.pdf-0007-05.png)
 
 
 Figure 9. (a) Typical SWASV response of arsenic(III) at a Au/Fe3O4 screen-printed electrode across different concentrations. (b) Corresponding linear calibration plot of peak current against arsenic concentrations from 0.1 to 10 ppb Insets in (a) and (b) are the enlarged views that correspond to a range of 0.1−2 ppb. Reprinted with permission from ref 70. Copyright 2018 American Chemical Society. 
@@ -337,7 +337,7 @@ The cadmium ion can be detected using a GCE with high adsorption capabilities mo
 Cadmium ions can be detected by anodic stripping voltammetry using nanostructured magnesium−aluminum layered double hydroxides that are highly selective and sensitive.[96] This double hydroxide has the benefit of requiring minimal modification, and its surface has specific hydroxyl functional groups that can react with metal ions via chemical binding to produce inner-sphere complexes. Figure 10a demonstrates the SWASV responses of nanostructured magnesium−aluminum layered double hydroxide/Nafion to 
 
 
-![](_images/Electrochemical Sensors for Heavy Metal Ion Detection in Aqueous Medium_images/_temp_f03c789e_convert_.pdf-0008-09.png)
+![](_temp_8f2107f7_convert__images/_temp_8f2107f7_convert_.pdf-0008-09.png)
 
 
 Figure 10. SWASV response and corresponding calibration plot (inset) of magnesium−aluminum double layered hydroxide/Nafion glass carbon electrode toward cadmium over the concentration range of (a) 0.1−1.9 _μ_ M by depositing for 120 s and (b) 20−60 nm by depositing for 30 min. Reprinted with permission from ref 96. Copyright 2018 Royal Society of Chemistry. 
@@ -353,7 +353,7 @@ https://doi.org/10.1021/acsomega.4c00933 _ACS Omega_ 2024, 9, 25493−25512
 Review 
 
 
-![](_images/Electrochemical Sensors for Heavy Metal Ion Detection in Aqueous Medium_images/_temp_f03c789e_convert_.pdf-0009-03.png)
+![](_temp_8f2107f7_convert__images/_temp_8f2107f7_convert_.pdf-0009-03.png)
 
 
 Figure 11. (a) DPV curves of cadmium with various concentration levels (from 1 nM to 10 _μ_ M) on a PB-PEDOT/LSG/glassy carbon electrode. (b) Magnified DPV curves of cadmium with low concentration (from 1 to 10 nM). (c,d) corresponding current versus cadmium concentration calibration curves. Reproduced from open access article ref 97 distributed under the terms and conditions of the Creative Commons Attribution license http://creativecommons.org/licenses/by/4.0/. 
@@ -407,7 +407,7 @@ https://doi.org/10.1021/acsomega.4c00933 _ACS Omega_ 2024, 9, 25493−25512
 Review 
 
 
-![](_images/Electrochemical Sensors for Heavy Metal Ion Detection in Aqueous Medium_images/_temp_f03c789e_convert_.pdf-0010-03.png)
+![](_temp_8f2107f7_convert__images/_temp_8f2107f7_convert_.pdf-0010-03.png)
 
 
 Figure 12. DPV of graphite paste electrode/silver nanoparticles biphenol biphenoquinone nanoribbons in 0.1 M PBS containing various concentrations of chromium. Insets represent the plots of anodic peak current Vs concentrations of chromium. The error bars represents the standard deviation of three parallel test Reprinted with permission from ref 131. Copyright 2018 Elsevier. 
@@ -476,7 +476,7 @@ Table 5. Electrochemical Sensing of Chromium
 
 
 
-![](_images/Electrochemical Sensors for Heavy Metal Ion Detection in Aqueous Medium_images/_temp_f03c789e_convert_.pdf-0011-05.png)
+![](_temp_8f2107f7_convert__images/_temp_8f2107f7_convert_.pdf-0011-05.png)
 
 
 Figure 13. SWASV for different concentrations of lead ions from acarbon paste electrode modified with polydiaminonaphthalene and bismuth film. (inset) Calibration curve of lead ions. Reproduced from open access article ref 162 distributed under the terms and conditions of the Creative Commons Attribution license http://creativecommons.org/licenses/by/4.0/.. 
@@ -555,7 +555,7 @@ https://doi.org/10.1021/acsomega.4c00933 _ACS Omega_ 2024, 9, 25493−25512
 Review 
 
 
-![](_images/Electrochemical Sensors for Heavy Metal Ion Detection in Aqueous Medium_images/_temp_f03c789e_convert_.pdf-0013-03.png)
+![](_temp_8f2107f7_convert__images/_temp_8f2107f7_convert_.pdf-0013-03.png)
 
 
 Figure 14. (a) DPV curve of zinc oxide/reduced graphene oxide/polypyrrole for different mercury ion concentrations. (b) Corresponding calibration curve of mercury ion concentrations. Reprinted with permission from ref 182. Copyright 2018 Elsevier. 

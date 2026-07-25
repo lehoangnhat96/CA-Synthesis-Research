@@ -1,7 +1,7 @@
 _**gels**_ 
 
 
-![](_images/Bio-Based Aerogels in Energy Storage Systems_img/_temp_04c9ec3e_heal_.pdf-0001-01.png)
+![](_temp_04c9ec3e_convert__images/_temp_04c9ec3e_convert_.pdf-0001-01.png)
 
 
 ## _Review_ 
@@ -25,7 +25,7 @@ Academic Editors: Tobias Abt and Mingze Sun
 Received: 20 May 2024 Revised: 14 June 2024 Accepted: 27 June 2024 Published: 30 June 2024 
 
 
-![](_images/Bio-Based Aerogels in Energy Storage Systems_img/_temp_04c9ec3e_heal_.pdf-0001-12.png)
+![](_temp_04c9ec3e_convert__images/_temp_04c9ec3e_convert_.pdf-0001-12.png)
 
 
 **Copyright:** © 2024 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https:// creativecommons.org/licenses/by/ 4.0/). 
@@ -69,15 +69,15 @@ The preparation methods and diverse applications of aerogels have undergone exte
 Since the inception of aerogels, significant attention has been directed toward organic and metal oxide variants. However, inherent drawbacks such as hazardous degradation byproducts, poor biodegradability, and toxic precursors have spurred a shift towards the investigation of bio-based aerogels. These bio-based aerogels are primarily derived from proteins, polymers, and polysaccharides sourced from biomass [41]. While biobased aerogels may not fully replicate all the advantageous properties of their inorganic counterparts, recent research has focused on developing hybrid aerogels tailored to specific applications. Among the various methods employed for the preparation of bio-based aerogels, the sol–gel method stands out as conventional. This method enables the formation of a highly porous 3D network and facilitates control of porosity, mechanical strength, specific surface area, and other final properties of the aerogels. Additionally, the inclusion of inorganics during preparation can impact the chemistry, but more importantly, can impact the pore size and pore size distribution within the aerogels. However, among all the parameters affecting aerogel properties, the drying process exerts the most significant influence—schematically shown in Figure 1(a). 
 
 
-![](_images/Bio-Based Aerogels in Energy Storage Systems_img/_temp_04c9ec3e_heal_.pdf-0003-10.png)
+![](_temp_04c9ec3e_convert__images/_temp_04c9ec3e_convert_.pdf-0003-10.png)
 
 
 
-![](_images/Bio-Based Aerogels in Energy Storage Systems_img/_temp_04c9ec3e_heal_.pdf-0003-11.png)
+![](_temp_04c9ec3e_convert__images/_temp_04c9ec3e_convert_.pdf-0003-11.png)
 
 
 
-![](_images/Bio-Based Aerogels in Energy Storage Systems_img/_temp_04c9ec3e_heal_.pdf-0003-12.png)
+![](_temp_04c9ec3e_convert__images/_temp_04c9ec3e_convert_.pdf-0003-12.png)
 
 
 **----- Start of picture text -----**<br>
@@ -157,19 +157,19 @@ including carbon nanotubes, graphene, and carbon black [56–58]. However, their
 On the other hand, chitosan (CH), a renewable nitrogen-containing natural biopolymer, serves as an advantageous precursor for incorporating nitrogen functionalities into graphene-based electrodes [60]. It facilitates the entrapment of metal oxide nanoparticles within the graphene framework and acts as a gelation-cum-reducing agent for graphene oxide (GO) precursors However, it is worth noting that most electrode studies are conducted using a 3-electrode configuration rather than a 2-electrode setup, which limits their practical applicability [61,62]. Moreover, the supercapacitor performance is also directed by the nature of the electrolyte; most studies are performed only with simple aqueous electrolytes, and mostly no comparative study in the different electrolytes is observed [63]. 
 
 
-![](_images/Bio-Based Aerogels in Energy Storage Systems_img/_temp_04c9ec3e_heal_.pdf-0006-05.png)
+![](_temp_04c9ec3e_convert__images/_temp_04c9ec3e_convert_.pdf-0006-05.png)
 
 
 
-![](_images/Bio-Based Aerogels in Energy Storage Systems_img/_temp_04c9ec3e_heal_.pdf-0006-06.png)
+![](_temp_04c9ec3e_convert__images/_temp_04c9ec3e_convert_.pdf-0006-06.png)
 
 
 
-![](_images/Bio-Based Aerogels in Energy Storage Systems_img/_temp_04c9ec3e_heal_.pdf-0006-07.png)
+![](_temp_04c9ec3e_convert__images/_temp_04c9ec3e_convert_.pdf-0006-07.png)
 
 
 
-![](_images/Bio-Based Aerogels in Energy Storage Systems_img/_temp_04c9ec3e_heal_.pdf-0006-08.png)
+![](_temp_04c9ec3e_convert__images/_temp_04c9ec3e_convert_.pdf-0006-08.png)
 
 
 **----- Start of picture text -----**<br>
@@ -213,7 +213,7 @@ _Gels_ **2024** , _10_ , 438
 9 of 26 
 
 
-![](_images/Bio-Based Aerogels in Energy Storage Systems_img/_temp_04c9ec3e_heal_.pdf-0009-02.png)
+![](_temp_04c9ec3e_convert__images/_temp_04c9ec3e_convert_.pdf-0009-02.png)
 
 
 **Figure 3.** Bio-aerogel electrodes [75]. Testing of lignin–SiO2 aerogels as an electrode in LIB: ( **a** ) CV curves at a scan rate of 0.1 mV, where different peaks can be observed. Two irreversible peaks during the first discharge process—corresponding to the formation of SEI layer and irreversible reactions between SiO2 and Li+ ions; ( **b** ) charge/discharge curves at a current of 0.1 A g _[−]_[1] , where similar behaviour as on CV curves could be observed; ( **c** ) rate properties at different current densities; ( **d** ) Coulombic efficiency and cycling performance at a current of 0.1 A g _[−]_[1] of different lignin– SiO2 samples; ( **e** ) capacities compared between high-capacity materials reported in the literature and the lignin–SiO2 from this research paper; ( **f** ) long-term cycling stabilities at a high current density of 5 A g _[−]_[1] ; ( **g** ) CV curves at different scan rates; ( **h** ) normalized contribution ratio of capacitive at different scan rates, where the capacitive contribution slowly increases with the scan rate increase, indicating larger capacitance contribution favouring Li[+] storage; ( **i** ) the contribution ratio of pseudocapacitance at 0.8 mV s _[−]_[1] , by which good charge transfer kinetics is confirmed. Reproduced with permission from Huang, S., Micropor. Mesopor. Mater.; published by Elsevier, 2021. 
@@ -279,11 +279,11 @@ _Gels_ **2024** , _10_ , 438
 14 of 26 
 
 
-![](_images/Bio-Based Aerogels in Energy Storage Systems_img/_temp_04c9ec3e_heal_.pdf-0014-02.png)
+![](_temp_04c9ec3e_convert__images/_temp_04c9ec3e_convert_.pdf-0014-02.png)
 
 
 
-![](_images/Bio-Based Aerogels in Energy Storage Systems_img/_temp_04c9ec3e_heal_.pdf-0014-03.png)
+![](_temp_04c9ec3e_convert__images/_temp_04c9ec3e_convert_.pdf-0014-03.png)
 
 
 **----- Start of picture text -----**<br>
@@ -315,59 +315,59 @@ _Gels_ **2024** , _10_ , 438
 should and will be worked on in order to improve cellulose-aerogels as viable substitutes ~~for commercially used non-biodegradable materials.~~ 
 
 
-![](_images/Bio-Based Aerogels in Energy Storage Systems_img/_temp_04c9ec3e_heal_.pdf-0016-03.png)
+![](_temp_04c9ec3e_convert__images/_temp_04c9ec3e_convert_.pdf-0016-03.png)
 
 
 
-![](_images/Bio-Based Aerogels in Energy Storage Systems_img/_temp_04c9ec3e_heal_.pdf-0016-04.png)
+![](_temp_04c9ec3e_convert__images/_temp_04c9ec3e_convert_.pdf-0016-04.png)
 
 
 
-![](_images/Bio-Based Aerogels in Energy Storage Systems_img/_temp_04c9ec3e_heal_.pdf-0016-05.png)
+![](_temp_04c9ec3e_convert__images/_temp_04c9ec3e_convert_.pdf-0016-05.png)
 
 
 
-![](_images/Bio-Based Aerogels in Energy Storage Systems_img/_temp_04c9ec3e_heal_.pdf-0016-06.png)
+![](_temp_04c9ec3e_convert__images/_temp_04c9ec3e_convert_.pdf-0016-06.png)
 
 
 
-![](_images/Bio-Based Aerogels in Energy Storage Systems_img/_temp_04c9ec3e_heal_.pdf-0016-07.png)
+![](_temp_04c9ec3e_convert__images/_temp_04c9ec3e_convert_.pdf-0016-07.png)
 
 
 
-![](_images/Bio-Based Aerogels in Energy Storage Systems_img/_temp_04c9ec3e_heal_.pdf-0016-08.png)
+![](_temp_04c9ec3e_convert__images/_temp_04c9ec3e_convert_.pdf-0016-08.png)
 
 
 
-![](_images/Bio-Based Aerogels in Energy Storage Systems_img/_temp_04c9ec3e_heal_.pdf-0016-09.png)
+![](_temp_04c9ec3e_convert__images/_temp_04c9ec3e_convert_.pdf-0016-09.png)
 
 
 
-![](_images/Bio-Based Aerogels in Energy Storage Systems_img/_temp_04c9ec3e_heal_.pdf-0016-10.png)
+![](_temp_04c9ec3e_convert__images/_temp_04c9ec3e_convert_.pdf-0016-10.png)
 
 
 
-![](_images/Bio-Based Aerogels in Energy Storage Systems_img/_temp_04c9ec3e_heal_.pdf-0016-11.png)
+![](_temp_04c9ec3e_convert__images/_temp_04c9ec3e_convert_.pdf-0016-11.png)
 
 
 
-![](_images/Bio-Based Aerogels in Energy Storage Systems_img/_temp_04c9ec3e_heal_.pdf-0016-12.png)
+![](_temp_04c9ec3e_convert__images/_temp_04c9ec3e_convert_.pdf-0016-12.png)
 
 
 
-![](_images/Bio-Based Aerogels in Energy Storage Systems_img/_temp_04c9ec3e_heal_.pdf-0016-13.png)
+![](_temp_04c9ec3e_convert__images/_temp_04c9ec3e_convert_.pdf-0016-13.png)
 
 
 
-![](_images/Bio-Based Aerogels in Energy Storage Systems_img/_temp_04c9ec3e_heal_.pdf-0016-14.png)
+![](_temp_04c9ec3e_convert__images/_temp_04c9ec3e_convert_.pdf-0016-14.png)
 
 
 
-![](_images/Bio-Based Aerogels in Energy Storage Systems_img/_temp_04c9ec3e_heal_.pdf-0016-15.png)
+![](_temp_04c9ec3e_convert__images/_temp_04c9ec3e_convert_.pdf-0016-15.png)
 
 
 
-![](_images/Bio-Based Aerogels in Energy Storage Systems_img/_temp_04c9ec3e_heal_.pdf-0016-16.png)
+![](_temp_04c9ec3e_convert__images/_temp_04c9ec3e_convert_.pdf-0016-16.png)
 
 
 **----- Start of picture text -----**<br>
@@ -405,15 +405,15 @@ _Gels_ **2024** , _10_ , 438
 19 of 26 
 
 
-![](_images/Bio-Based Aerogels in Energy Storage Systems_img/_temp_04c9ec3e_heal_.pdf-0019-02.png)
+![](_temp_04c9ec3e_convert__images/_temp_04c9ec3e_convert_.pdf-0019-02.png)
 
 
 
-![](_images/Bio-Based Aerogels in Energy Storage Systems_img/_temp_04c9ec3e_heal_.pdf-0019-03.png)
+![](_temp_04c9ec3e_convert__images/_temp_04c9ec3e_convert_.pdf-0019-03.png)
 
 
 
-![](_images/Bio-Based Aerogels in Energy Storage Systems_img/_temp_04c9ec3e_heal_.pdf-0019-04.png)
+![](_temp_04c9ec3e_convert__images/_temp_04c9ec3e_convert_.pdf-0019-04.png)
 
 
 **----- Start of picture text -----**<br>

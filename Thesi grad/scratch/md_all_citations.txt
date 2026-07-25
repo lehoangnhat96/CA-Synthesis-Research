@@ -1,0 +1,310 @@
+74: ICH Q2(R2) \[1\] và Trần Cao Sơn \[2\], (dự kiến đối chiếu chéo với
+121: [MỞ ĐẦU [1](#mở-đầu)](#mở-đầu)
+123: [1. Đặt vấn đề [1](#đặt-vấn-đề)](#đặt-vấn-đề)
+126: [1](#tính-cấp-thiết-và-bối-cảnh-quy-chuẩn)](#tính-cấp-thiết-và-bối-cảnh-quy-chuẩn)
+129: [1](#thách-thức-về-chỉ-tiêu-phân-tích)](#thách-thức-về-chỉ-tiêu-phân-tích)
+132: [1](#hạn-chế-của-các-phương-pháp-phân-tích-hiện-tại)](#hạn-chế-của-các-phương-pháp-phân-tích-hiện-tại)
+135: [2](#khoảng-trống-nghiên-cứu-research-gap)](#khoảng-trống-nghiên-cứu-research-gap)
+138: [2](#câu-hỏi-nghiên-cứu-giả-thuyết-khoa-học)](#câu-hỏi-nghiên-cứu-giả-thuyết-khoa-học)
+140: [2. Mục tiêu nghiên cứu [3](#mục-tiêu-nghiên-cứu)](#mục-tiêu-nghiên-cứu)
+143: [4](#đối-tượng-và-phạm-vi-nghiên-cứu)](#đối-tượng-và-phạm-vi-nghiên-cứu)
+146: [4](#đối-tượng-nghiên-cứu)](#đối-tượng-nghiên-cứu)
+148: [3.2. Phạm vi nghiên cứu [4](#phạm-vi-nghiên-cứu)](#phạm-vi-nghiên-cứu)
+151: [4](#cách-tiếp-cận-và-phương-pháp-nghiên-cứu)](#cách-tiếp-cận-và-phương-pháp-nghiên-cứu)
+153: [4.1. Cách tiếp cận [4](#cách-tiếp-cận)](#cách-tiếp-cận)
+156: [4](#phương-pháp-nghiên-cứu-cụ-thể)](#phương-pháp-nghiên-cứu-cụ-thể)
+159: [4](#ý-nghĩa-thực-tiễn-của-đề-tài)](#ý-nghĩa-thực-tiễn-của-đề-tài)
+162: [5](#tổng-quan-tình-hình-nghiên-cứu-trong-nước-và-ngoài-nước)](#tổng-quan-tình-hình-nghiên-cứu-trong-nước-và-ngoài-nước)
+165: [5](#nghiên-cứu-ngoài-nước)](#nghiên-cứu-ngoài-nước)
+168: [6](#nghiên-cứu-trong-nước)](#nghiên-cứu-trong-nước)
+171: [7](#chương-1.-tổng-quan-nghiên-cứu)](#chương-1.-tổng-quan-nghiên-cứu)
+174: [7](#sinh-khối-xơ-dừa-và-tách-chiết-cellulose)](#sinh-khối-xơ-dừa-và-tách-chiết-cellulose)
+176: [1.1.1. Thành phần hóa học của xơ dừa Bến Tre \[1\]
+177: [7](#thành-phần-hóa-học-của-xơ-dừa-bến-tre-15)](#thành-phần-hóa-học-của-xơ-dừa-bến-tre-15)
+181: [8](#tính-chất-cơ-lý-cấu-trúc-bó-sợi-và-ảnh-hưởng-của-quá-trình-kiềm-hóa)](#tính-chất-cơ-lý-cấu-trúc-bó-sợi-và-ảnh-hưởng-của-quá-trình-kiềm-hóa)
+184: [10](#tiềm-năng-ứng-dụng-và-lý-giải-cơ-chế)](#tiềm-năng-ứng-dụng-và-lý-giải-cơ-chế)
+187: [11](#tẩy-lignin-bán-phần-và-cấu-trúc-đường-xoắn-tortuous-path)](#tẩy-lignin-bán-phần-và-cấu-trúc-đường-xoắn-tortuous-path)
+190: [11](#carbon-aerogel-biến-tính-nitơ-và-sắt-n-ca-fen-ca)](#carbon-aerogel-biến-tính-nitơ-và-sắt-n-ca-fen-ca)
+194: [14](#cơ-chế-pha-tạp-sắt-fe-doping-bằng-phương-pháp-tẩm-sau-post-impregnation)](#cơ-chế-pha-tạp-sắt-fe-doping-bằng-phương-pháp-tẩm-sau-post-impregnation)
+198: [15](#cơ-chế-lớp-kép-điện-hóa-edl-điện-thế-zeta-thuyết-dlvo-và-tương-tác-kỵ-nướchydrogen)](#cơ-chế-lớp-kép-điện-hóa-edl-điện-thế-zeta-thuyết-dlvo-và-tương-tác-kỵ-nướchydrogen)
+201: [16](#so-sánh-đối-chứng-hai-hệ-dung-môi-tổng-hợp-cellulose-aerogel)](#so-sánh-đối-chứng-hai-hệ-dung-môi-tổng-hợp-cellulose-aerogel)
+204: [17](#bismuth-film-electrode-bife-và-lý-do-lựa-chọn-fen-ca)](#bismuth-film-electrode-bife-và-lý-do-lựa-chọn-fen-ca)
+207: [17](#bismuth-film-electrode)](#bismuth-film-electrode)
+210: [17](#lý-do-lựa-chọn-fen-ca-luận-điểm-khoa-học)](#lý-do-lựa-chọn-fen-ca-luận-điểm-khoa-học)
+213: [19](#phương-pháp-phân-tích-điện-hóa)](#phương-pháp-phân-tích-điện-hóa)
+216: [20](#đối-chiếu-công-trình-nghiên-cứu-gần-đây)](#đối-chiếu-công-trình-nghiên-cứu-gần-đây)
+219: [22](#chương-2.-phương-pháp-nghiên-cứu)](#chương-2.-phương-pháp-nghiên-cứu)
+222: [22](#thiết-bị-dụng-cụ-và-hóa-chất-sử-dụng)](#thiết-bị-dụng-cụ-và-hóa-chất-sử-dụng)
+225: [22](#quy-trình-thực-nghiệm-8-giai-đoạn-tổng-hợp-carbon-aerogel)](#quy-trình-thực-nghiệm-8-giai-đoạn-tổng-hợp-carbon-aerogel)
+228: [24](#sơ-đồ-flowchart-thực-nghiệm)](#sơ-đồ-flowchart-thực-nghiệm)
+231: [27](#cơ-chế-sol-gel-và-sấy-thăng-hoa)](#cơ-chế-sol-gel-và-sấy-thăng-hoa)
+235: [27](#cơ-chế-hòa-tan-cellulose-trong-hệ-nh4ohureah2o)](#cơ-chế-hòa-tan-cellulose-trong-hệ-nh4ohureah2o)
+238: [29](#động-học-gel-hóa-âm-sâu)](#động-học-gel-hóa-âm-sâu)
+241: [29](#hóa-lý-của-quá-trình-keo-tụ-trong-ethanol-coagulation)](#hóa-lý-của-quá-trình-keo-tụ-trong-ethanol-coagulation)
+244: [32](#vật-lý-sấy-thăng-hoa)](#vật-lý-sấy-thăng-hoa)
+247: [32](#cơ-sở-khoa-học-và-lập-luận-cơ-chế-định-hướng-thiết-kế)](#cơ-sở-khoa-học-và-lập-luận-cơ-chế-định-hướng-thiết-kế)
+250: [33](#cơ-chế-nhiệt-phân-doping-nitơ-và-phối-trí-sắt)](#cơ-chế-nhiệt-phân-doping-nitơ-và-phối-trí-sắt)
+253: [33](#hóa-học-phản-ứng-lignin---urea-trong-khung-dcf)](#hóa-học-phản-ứng-lignin---urea-trong-khung-dcf)
+256: [34](#động-học-nhiệt-phân-carbon-hóa-lần-1)](#động-học-nhiệt-phân-carbon-hóa-lần-1)
+259: [35](#cấu-hình-nitơ-bề-mặt-và-vai-trò-điện-hóa)](#cấu-hình-nitơ-bề-mặt-và-vai-trò-điện-hóa)
+263: [35](#hóa-học-phối-trí-tâm-hoạt-tính-fe-nx-và-hậu-xử-lý-acid-leaching)](#hóa-học-phối-trí-tâm-hoạt-tính-fe-nx-và-hậu-xử-lý-acid-leaching)
+266: [36](#quy-trình-tổng-hợp-màng-mỏng-biến-tính-điện-cực-gce)](#quy-trình-tổng-hợp-màng-mỏng-biến-tính-điện-cực-gce)
+269: [38](#sàng-lọc-điện-cực-nền-và-tiêu-chí-đo-đạt)](#sàng-lọc-điện-cực-nền-và-tiêu-chí-đo-đạt)
+272: [38](#quy-hoạch-thực-nghiệm-tối-ưu-hóa-doe)](#quy-hoạch-thực-nghiệm-tối-ưu-hóa-doe)
+275: [39](#kế-hoạch-thẩm-định-phương-pháp-phân-tích-validation)](#kế-hoạch-thẩm-định-phương-pháp-phân-tích-validation)
+278: [40](#thiết-lập-thông-số-đo-swasv-kim-loại-nặng-pb²-cd²-zn²)](#thiết-lập-thông-số-đo-swasv-kim-loại-nặng-pb²-cd²-zn²)
+282: [41](#các-tiêu-chí-đánh-giá-chất-lượng-quality-gates-định-hướng-tối-ưu-hóa)](#các-tiêu-chí-đánh-giá-chất-lượng-quality-gates-định-hướng-tối-ưu-hóa)
+285: [42](#chương-3.-dự-kiến-kết-quả)](#chương-3.-dự-kiến-kết-quả)
+288: [42](#lý-thuyết-điện-hóa-phân-tích-và-đặc-trưng-vật-liệu)](#lý-thuyết-điện-hóa-phân-tích-và-đặc-trưng-vật-liệu)
+291: [43](#lý-thuyết-cv-và-phép-đo-baseline-probe)](#lý-thuyết-cv-và-phép-đo-baseline-probe)
+294: [44](#phổ-trở-kháng-điện-hóa-eis-và-mạch-tương-đương-randles)](#phổ-trở-kháng-điện-hóa-eis-và-mạch-tương-đương-randles)
+297: [46](#lý-thuyết-các-phép-đặc-trưng-vật-liệu)](#lý-thuyết-các-phép-đặc-trưng-vật-liệu)
+300: [47](#lý-thuyết-lựa-chọn-chất-kết-dính-binder-tổng-hợp-màng-cảm-biến)](#lý-thuyết-lựa-chọn-chất-kết-dính-binder-tổng-hợp-màng-cảm-biến)
+303: [48](#dự-kiến-thẩm-định-phân-tích-kim-loại-nặng-swasv)](#dự-kiến-thẩm-định-phân-tích-kim-loại-nặng-swasv)
+306: [48](#dự-kiến-kết-quả-phân-tích-mẫu-thực-tế)](#dự-kiến-kết-quả-phân-tích-mẫu-thực-tế)
+309: [48](#phân-tích-sai-số-bằng-sơ-đồ-xương-cá-ishikawa)](#phân-tích-sai-số-bằng-sơ-đồ-xương-cá-ishikawa)
+312: [51](#chương-4.-kế-hoạch-thực-hiện)](#chương-4.-kế-hoạch-thực-hiện)
+315: [52](#kết-luận-và-kiến-nghị)](#kết-luận-và-kiến-nghị)
+318: [52](#kết-luận-chung-dự-kiến)](#kết-luận-chung-dự-kiến)
+321: [52](#kiến-nghị-hướng-phát-triển-tiếp-theo)](#kiến-nghị-hướng-phát-triển-tiếp-theo)
+323: [TÀI LIỆU THAM KHẢO [53](#tài-liệu-tham-khảo)](#tài-liệu-tham-khảo)
+326: điện cực [62](#_Toc233587764)](#_Toc233587764)
+329: [62](#_Toc233587765)](#_Toc233587765)
+332: [62](#_Toc233587766)](#_Toc233587766)
+337: [16](#bảng-1.2.-so-sánh-hệ-dung-môi-nh4ohurea-và-naohurea)](#bảng-1.2.-so-sánh-hệ-dung-môi-nh4ohurea-và-naohurea)
+340: [17](#bảng-1.3-hạn-chế-của-bife-cơ-sở-lý-do-không-sử-dụng-trong-đề-tài)](#bảng-1.3-hạn-chế-của-bife-cơ-sở-lý-do-không-sử-dụng-trong-đề-tài)
+343: [18](#bảng-1.4-so-sánh-trực-tiếp-bife-và-fen-ca)](#bảng-1.4-so-sánh-trực-tiếp-bife-và-fen-ca)
+347: [20](#bảng-1.5.-đối-chiếu-các-công-trình-vật-liệu-carbonaerogel-liên-quan-gần-đây)](#bảng-1.5.-đối-chiếu-các-công-trình-vật-liệu-carbonaerogel-liên-quan-gần-đây)
+349: Bảng 2.1: Tóm tắt thông số SOP và Biện luận cơ chế \[22, 23\] 22
+352: [34](#bảng-2.2.-chu-trình-nhiệt-cho-lò-nung)](#bảng-2.2.-chu-trình-nhiệt-cho-lò-nung)
+355: [35](#bảng-2.3.-mối-quan-hệ-giữa-nhiệt-độ-nung-và-cấu-trúc-hình-thành)](#bảng-2.3.-mối-quan-hệ-giữa-nhiệt-độ-nung-và-cấu-trúc-hình-thành)
+358: [38](#bảng-2.4.-tổng-hợp-các-tiêu-chí-kỹ-thuật-và-cách-khắc-phục)](#bảng-2.4.-tổng-hợp-các-tiêu-chí-kỹ-thuật-và-cách-khắc-phục)
+361: [41](#bảng-2.5.-khảo-sát-và-tối-ưu-hóa-thông-số-swasv-đo-kim-loại-vết)](#bảng-2.5.-khảo-sát-và-tối-ưu-hóa-thông-số-swasv-đo-kim-loại-vết)
+364: [42](#bảng-3.1.-dự-kiến-kết-quả-phương-pháp-kiểm-chứng-và-xử-lý-rủi-ro)](#bảng-3.1.-dự-kiến-kết-quả-phương-pháp-kiểm-chứng-và-xử-lý-rủi-ro)
+367: [48](#bảng-3.2.-dự-kiến-thẩm-định-quy-trình-phân-tích-pb²-cd²-zn²)](#bảng-3.2.-dự-kiến-thẩm-định-quy-trình-phân-tích-pb²-cd²-zn²)
+370: [48](#bảng-3.3.-dự-kiến-kết-quả-phân-tích-mẫu-thực)](#bảng-3.3.-dự-kiến-kết-quả-phân-tích-mẫu-thực)
+375: [8](#hình-1.1.-cấu-trúc-hóa-học-của-cellulose-hemicellulose-và-lignin)](#hình-1.1.-cấu-trúc-hóa-học-của-cellulose-hemicellulose-và-lignin)
+379: [13](#hình-1.2.-sơ-đồ-chuyển-đổi-cấu-trúc-lỗ-xốp-và-cấu-hình-nitơ-của-vật-liệu-carbon-aerogel-ở-các-nhiệt-độ-nung-khác-nhau)](#hình-1.2.-sơ-đồ-chuyển-đổi-cấu-trúc-lỗ-xốp-và-cấu-hình-nitơ-của-vật-liệu-carbon-aerogel-ở-các-nhiệt-độ-nung-khác-nhau)
+382: [19](#hình-1.3.-công-thức-phân-tử-của-chitosan-cas-9012-76-4)](#hình-1.3.-công-thức-phân-tử-của-chitosan-cas-9012-76-4)
+386: [20](#hình-1.4.-công-thức-phân-tử-của-nafion-perfluorinated-resin-solution-5-wt-cas-31175-20-9)](#hình-1.4.-công-thức-phân-tử-của-nafion-perfluorinated-resin-solution-5-wt-cas-31175-20-9)
+389: dừa \[22\] 25
+392: Fe/N-CA \[23, 38\] 26
+395: [27](#hình-2.3.-sơ-đồ-quy-trình-tổng-hợp-màng-biến-tính-và-đo-đạc-điện-hóa)](#hình-2.3.-sơ-đồ-quy-trình-tổng-hợp-màng-biến-tính-và-đo-đạc-điện-hóa)
+399: [28](#hình-2.4.-sơ-đồ-minh-họa-cơ-chế-phá-vỡ-liên-kết-hydro-và-solvat-hóa-chuỗi-cellulose-bằng-phức-hợp-amoniac---urea)](#hình-2.4.-sơ-đồ-minh-họa-cơ-chế-phá-vỡ-liên-kết-hydro-và-solvat-hóa-chuỗi-cellulose-bằng-phức-hợp-amoniac---urea)
+403: [30](#hình-2.5.-sơ-đồ-minh-họa-cấu-trúc-mạng-tinh-thể-cellulose-i-và-cellulose-iii)](#hình-2.5.-sơ-đồ-minh-họa-cấu-trúc-mạng-tinh-thể-cellulose-i-và-cellulose-iii)
+407: [31](#hình-2.6.-sơ-đồ-cơ-chế-keo-tụ-của-cellulose-trong-dung-môi-bằng-non-solvent)](#hình-2.6.-sơ-đồ-cơ-chế-keo-tụ-của-cellulose-trong-dung-môi-bằng-non-solvent)
+410: [33](#hình-2.7.-cấu-trúc-hóa-học-3-đơn-vị-monolignol-cấu-thành-lignin)](#hình-2.7.-cấu-trúc-hóa-học-3-đơn-vị-monolignol-cấu-thành-lignin)
+414: [38](#hình-2.8.-sơ-đồ-minh-họa-quá-trình-biến-tính-bề-mặt-điện-cực-gce-bằng-vật-liệu-carbon-aerogel-n-ca-và-fen-ca-và-cơ-chế-cảm-biến)](#hình-2.8.-sơ-đồ-minh-họa-quá-trình-biến-tính-bề-mặt-điện-cực-gce-bằng-vật-liệu-carbon-aerogel-n-ca-và-fen-ca-và-cơ-chế-cảm-biến)
+418: [44](#hình-3.1.-sơ-đồ-lý-thuyết-điện-hóa-tại-giao-diện-điện-cực-và-dung-dịch-điện-ly-lớp-điện-kép-và-quá-trình-truyền-khối)](#hình-3.1.-sơ-đồ-lý-thuyết-điện-hóa-tại-giao-diện-điện-cực-và-dung-dịch-điện-ly-lớp-điện-kép-và-quá-trình-truyền-khối)
+421: [45](#hình-3.2.-sơ-đồ-minh-họa-mạch-tương-đương-randles-sửa-đổi)](#hình-3.2.-sơ-đồ-minh-họa-mạch-tương-đương-randles-sửa-đổi)
+425: [49](#hình-3.3.-sơ-đồ-xương-cá-ishikawa-phân-tích-các-nguồn-sai-số-phép-đo-cảm-biến-điện-hóa)](#hình-3.3.-sơ-đồ-xương-cá-ishikawa-phân-tích-các-nguồn-sai-số-phép-đo-cảm-biến-điện-hóa)
+472: gan và hệ tuần hoàn của con người ngay cả ở nồng độ cực thấp \[3\].
+475: mặt) \[4\], giới hạn hàm lượng cho phép đối với Chì (Pb²⁺) là 20 µg/L
+503: phân tích xanh (Green Analytical Chemistry - GAC) \[5\].
+516: \[6, 7, 8\].
+550: lượng \[10, 11\] sang nền tảng carbon sinh khối dự kiến sẽ cung cấp các
+552: làm giàu kim loại trong phản ứng hòa tan (stripping) \[12, 13\].
+558: độc hại trong môi trường \[14\]. Tuy nhiên, mặc dù carbon aerogel từ
+564: ở nhiệt độ cao \[15, 16\]. Hơn nữa, việc lạm dụng hóa chất tẩy trắng làm
+573: phân cấp (đường xoắn - tortuous path) \[17, 18\]. Sự kết hợp này dự kiến
+590:     thực tế theo các tiêu chuẩn quốc tế (ICH Q2(R2)) \[1\] và hướng dẫn
+591:     của (Trần Cao Sơn) \[2\].
+643: các hệ cảm biến màng mỏng linh hoạt hiện đại \[9, 19, 20\].
+654: khả năng hấp phụ nước, dầu cũng như methylene blue tốt \[21\]. Đây là
+658: aerogel từ xơ dừa thông qua direct pyrolysis \[22\].
+660: Fauziyah và cộng sự (2020) \[22\] là nhóm đầu tiên tổng hợp carbon
+665: \[23, 24\] đã mở rộng nghiên cứu sang hướng pha tạp N trên nền sợi xơ
+667: \[25\] để nâng cao hoạt tính điện xúc tác. Tuy nhiên, cả hai nhóm nghiên
+675: Wu và cộng sự (2024) \[12\] đã tổng hợp cảm biến điện hóa xác định
+679: tổng quan vật liệu carbon sinh khối cho cảm biến điện hóa \[13\]. Trên
+689: dưới 0,1 ppb nhằm thay thế cho điện cực giọt thủy ngân độc hại \[26\].
+693: chất bổ trợ biến tính trong dung dịch đo \[13\]. Chi tiết phân tích và
+698: - Phương và cộng sự (2024, Luận án TS, ĐHBK HCM) \[15\] và Phương và
+699:   cộng sự (2022, doi: 10.1016/j.mtsust.2022.100175) \[16, 27\]:
+704: - Nguyễn Thị Thanh Nguyễn và cộng sự (2021) \[7\]: Aerogel xơ dừa qua
+708: - Nguyễn Quốc Việt và cộng sự (2014) \[28\]: Đặc trưng sợi xơ dừa Bến
+725: ### 1.1.1. Thành phần hóa học của xơ dừa Bến Tre \[15\]
+767:   175 MPa \[15, 28\].
+773:   lignin và hemicellulose \[27, 29\], làm giảm đáng kể
+791: \[6\] cho cơ chế hòa tan cellulose trong hệ NaOH/Urea. Cơ chế này được
+793: đề tài \[22, 23\], trong đó hòa tan cellulose hòa tan cellulose theo cơ
+825:   composite dùng sợi chưa xử lý \[6\].
+830:   thụ âm thanh (SAC) \[27\].
+835:   xếp chồng π-π mạnh mẽ với các chất ô nhiễm \[7, 29\].
+840: qua các composite BC/CNT \[30\], mở hướng cho việc phát triển carbon
+847: bằng luôn đạt mức cao (\> 90%) \[22, 21\].
+858: (stochastic) \[8\] — đây là tiền đề cho việc tối ưu hóa cấu trúc tổ ong
+866: tính sợi và gây sụp đổ hệ thống lỗ xốp vĩ mô (macropores) \[17, 18\].
+869: bật \[17, 18\]. Lignin với cấu trúc polymer thơm 3D cứng chắc đóng vai
+875: trúc “đường xoắn” (tortuous path) \[17, 18\]. Cấu trúc đường xoắn này
+884: xốp phân cấp thuận lợi cho khuếch tán ion \[31\]. Trên nền tảng đó, việc
+892: cấp nguyên tử Nitơ doping vào mạng carbon \[23, 24, 32\].
+906: bảo vệ nitơ khỏi bị bay hơi sớm ở nhiệt độ thấp \[15, 17\].
+917: aerogel từ tinh bột \[32\]).
+924: Pyridinic-N \[23, 32\]. Đối với mẫu Fe/N-CA nền, nung ở 800°C để tăng độ
+925: dẫn điện của carbon nền \[23\].
+958: NH<sub>4</sub>OH/Urea tối ưu \[23\]) với cấu hình Pyridinic-N. Khi tăng
+962: \[23\].
+973: của Carbon Aerogel xơ dừa (hệ NH<sub>4</sub>OH/Urea) \[23\]
+985: \[12, 25\], phương pháp tẩm sau (Post-impregnation) ưu việt hơn so với
+999: chứng thông qua các mô hình phân tử mô phỏng lý thuyết \[33\] và trên
+1000: vật liệu thực tế \[34\]). Quá trình hậu xử lý thông qua đun hồi lưu axit
+1003: phối trí phẳng Fe-Nx trên vách mạng carbon liên hợp sp² \[10, 11\]. Mặc
+1010: cảm biến \[12, 13\]. Đây được xem là bằng chứng trực tiếp mạnh mẽ nhất
+1015: \[35\]. Tuy nhiên, việc phát triển hệ cảm biến này từ nguồn sinh khối xơ
+1024: trội \[36, 37\]. Khuyết tật mạng lưới sp<sup>2</sup> sinh ra từ quá
+1028: vòng benzen như Acetaminophen (Paracetamol) \[38\].
+1037: Hiemenz \[39\], thuyết DLVO chỉ ra sự thế cân bằng giữa lực đẩy tĩnh
+1072: Theo Jacob N. Israelachvili \[40\], tương tác kỵ nước và tương tác xếp
+1097: NH<sub>4</sub>OH/Urea thay vì hệ NaOH/Urea truyền thống \[27, 29\]. Bảng
+1102: tăng lên mức 3603–3730 m²/g \[22, 23\] so với mức ≤ 150 m²/g của hệ
+1103: NaOH/Urea truyền thống \[21\].
+1123: với độ tái lặp tốt và độc tính thấp hơn Hg đáng kể. \[26\]
+1145: chế tương tự đã được chứng minh trong phản ứng khử oxy (ORR) \[41\]. Đây
+1215: QCVN 08:2023/BTNMT \[4\] quy định giới hạn 500 µg/L, LOD \< 0,5 ppb được
+1252: <td style="text-align: center;">[12]</td>
+1260: <td style="text-align: center;">[42]</td>
+1268: <td style="text-align: center;">[43]</td>
+1276: <td style="text-align: center;">[44]</td>
+1284: <td style="text-align: center;">[45]</td>
+1292: <td style="text-align: center;">[42]</td>
+1300: <td style="text-align: center;">[36]</td>
+1308: <td style="text-align: center;">[37]</td>
+1316: <td style="text-align: center;">[46]</td>
+1324: <td style="text-align: center;">[35]</td>
+1360: ##### Bảng 2.1: Tóm tắt thông số SOP và Biện luận cơ chế \[22, 23\]
+1436:   soát hiệu quả tách hemicellulose/lignin \[22, 21, 27, 29\].
+1442:   chế độ xung trong 30 phút \[22, 23, 24\].
+1446:   đông ở nhiệt độ −25°C trong 24 giờ \[29, 47, 48\].
+1455:   mục tiêu trước freeze-dry là ethanol cuối ≤10–15% v/v \[22, 29, 47\].
+1459:   dẫn phá hủy vách xốp \[23\].
+1466:   nhóm Pyridinic-N \[23, 32\]. Đối với mẫu Fe/N-CA nền, nung ở 800°C để
+1467:   tăng độ dẫn điện của carbon nền \[23\].
+1472:   khuấy từ ở 25 ± 2°C trong 24 giờ. Sấy khô ở 60°C \[12, 25\].
+1477:   \[38, 10\].
+1495: ###### Hình 2.1. Sơ đồ quy trình thực nghiệm tổng hợp Cellulose Aerogel từ xơ dừa \[22\]
+1500: ###### Hình 2.2. Sơ đồ quy trình chuyển hóa Cellulose Aerogel thành N-CA và Fe/N-CA \[23, 12\]
+1537: \[23, 6, 24, 25\]. Tốc độ và hướng làm lạnh (từ dưới lên trên hoặc đẳng
+1545: kim loại nặng đi vào bên trong điện cực \[50, 51\].
+1557: môi bị định hướng cố định quanh kén cellulose \[6, 48\].
+1567: kén urea, dẫn đến việc cellulose tự kết tủa lại (tách pha) \[6\].
+1572: qua hiện tượng kết tinh đóng băng có định hướng (Ice-templating) \[50\].
+1580: \[52\]. Nồng độ cellulose trong các kênh lỏng siêu hẹp chưa đông băng
+1584: hơn hẳn so với các mạng xốp ngẫu nhiên (stochastic networks) \[8\].
+1593: \[22, 48\]. Khung gel 3D tổ ong được định hình, giam giữ các tinh thể đá
+1614: cứng”) mạng lưới polyme thành trạng thái tủa trắng rắn chắc \[6, 48\].
+1619: nồng độ cồn trong bể ngâm phải luôn duy trì ở mức cao \[22\].
+1624: suốt quá trình trao đổi \[22, 21\]. Khi hydrogel (chứa lượng lớn nước)
+1633: lưới hydrogel cellulose trước khi tiến hành sấy thăng hoa \[6, 21\].
+1658: Shrinkage \> 20%) \[39\].
+1668: \[53\].
+1676: sập hoặc biến dạng mạng gel (boiling collapse) \[54, 55\]. Do đó, bắt
+1697: qua phổ XPS, phổ Raman và phổ tổng trở điện hóa EIS \[34\].
+1722: \[18, 50\]:
+1741: nhiệt phân \[18, 48\].
+1763: tăng độ dẫn điện của carbon nền \[23, 32\].
+1818: sắt vào sâu trong lòng mao quản carbon \[12, 25\].
+1827: vật liệu năng lượng \[10, 11\] sang nền tảng sinh khối lignocellulose đã
+1830: \[12, 13\].
+1857: bảo vệ \[10, 11\]; mức độ bảo toàn sẽ được kiểm chứng chéo thông qua phổ
+1872: tâm và khôi phục độ dẫn điện cho màng cảm biến \[10, 12\].
+1886: wt%). Siêu âm phân tán lạnh \< 15°C trong 45 phút \[56, 57\].
+1894: Paracetamol \[56, 57\], đảm bảo bề mặt cảm biến luôn ổn định qua nhiều
+1901:   hóa cấu hình bề mặt thu hút ion \[58\]. Điện cực sau khi nhỏ mực được
+1932: (nếu không đạt phải đánh bóng lại từ đầu theo SOP GCE Polishing) \[59\].
+1954: tượng mẫu nước tự nhiên dựa trên các hướng dẫn của Trần Cao Sơn \[2\]:
+1965:   chuẩn hóa \[38, 36, 37\], các kỹ thuật quét thế vòng tuần hoàn (CV) và
+1985:   chuẩn của đường nền \[1\] hoặc tung độ gốc, theo công thức:
+2006:   nhận tham khảo của AOAC và EU \[60\]).
+2019:   hoặc công cụ GAPI \[5\]. Ràng buộc Hóa học xanh: ≤5.0 mL cho quy trình
+2063:   tạp \[23, 25\].
+2154: cụ cốt lõi để đánh giá tính chất điện hóa của điện cực làm việc. \[59\].
+2164: quá trình khuếch tán kiểm soát ở 25°C \[59\]:
+2239: electron nhanh hơn hẳn nền carbon thường \[38, 10\].
+2252: - Giai đoạn hòa tan (Stripping Step) \[59\]:
+2282: \(2\) Mạng lưới graphite sp² đủ nguyên vẹn để dẫn điện tốt \[23, 32\].
+2289: \[22, 23\].
+2294: eV) và sắt oxit tự do (712 eV trở lên) \[38, 12\].
+2303: hiện tượng bít tắc lỗ xốp khi biến tính mực in điện cực \[22, 23\].
+2313:   tốt lên GCE \[61\]. Quan trọng hơn, mạng lưới polymer này cung cấp
+2318:   tín hiệu đỉnh \[62, 63\]. Đặc biệt, việc sử dụng màng Chitosan không
+2322:   và cộng sự chứng minh thành công trên hệ nền RGO-Chitosan \[43\].
+2328:   bề mặt điện cực nhờ khả năng phân tán tốt \[56\], mà còn hoạt động như
+2331:   trình ngưng tụ và trùng hợp của các sản phẩm phụ hữu cơ \[46\]. Cơ chế
+2334:   phẩm có dòng oxi hóa phân hủy phức tạp như Paracetamol \[57, 63\]. Hơn
+2338:   đạt mức vết (0.21 µM) \[46\], tạo cơ sở trực tiếp để so sánh và định
+2355: hiện nay \[14, 26, 64\]. Kết quả đột phá này dự kiến đạt được nhờ sự
+2366: thường \[10, 12\].
+2431: ra sai số chính được thiết lập và tích hợp dưới đây \[2\]:
+2451:   \[43\]. Sự trôi thế của điện cực so sánh (RE - Ag/AgCl) do sự rò rỉ
+2460:   diện tích hoạt tính thực tế (ECSA) và động học truyền electron \[59\].
+2506: Tháng 6, thẩm định phương pháp theo tiêu chuẩn \[1, 2\], khảo sát ion
+2551: \[18\].
+2565: \[1\] International Council for Harmonisation (ICH), “ICH harmonised
+2569: \[2\] T. C. Sơn, P. X. Đà, L. T. H. Hảo, và N. T. Trung, Thẩm định
+2573: \[3\] World Health Organization, “Zinc in drinking-water: Background
+2577: \[4\] QCVN 08:2023/BTNMT — Quy chuẩn kỹ thuật quốc gia về chất lượng
+2580: \[5\] F. Pena-Pereira, W. Wojnowski, and M. Tobiszewski,
+2585: \[6\] J. Cai and L. Zhang, “Unique gelation behavior of cellulose in
+2589: \[7\] N. T. T. Nguyen et al., “Synthesis of cellulose aerogels from coir
+2594: \[8\] C. Zhu, T. Y. Han, E. B. Duoss, et al., “Highly compressible 3D
+2598: \[9\] K. Jost, D. Stenger, C. R. Perez, et al., “Knitted and screen
+2603: \[10\] R. Zhong, C. Zhi, Y. Wu, Z. Liang, H. Tabassum, H. Zhang, T. Qiu,
+2610: \[11\] X. Wang, H. Zhang, H. Lin, et al., "Directly converting Fe-doped
+2615: \[12\] H. Wu, Q. Wen, X. Luan, W. Yang, L. Guo, and G. Wei, “Facile
+2620: \[13\] C. Onfray and A. Thiam, “Biomass-derived carbon-based electrodes
+2624: \[14\] A. Lochab, R. Sharma, S. Kumar, and R. Saxena, "Recent advances
+2629: \[15\] N. T. X. Phương, “Tổng hợp vật liệu cellulose aerogel từ xơ dừa
+2634: \[16\] N. T. X. Phuong et al., “A comparative study on modification of
+2639: \[17\] A. Rahayu, F. F. Hanum, N. A. Z. Amrillah, L. W. Lim, and S.
+2644: \[18\] M. Cho, J. Yiu, L. T. Lin, Q. Hua, M. A. Karaaslan, and S.
+2649: \[19\] J. Heikenfeld, A. Jajack, J. Rogers, et al., “Wearable sensors:
+2653: \[20\] Y. Luo, M. R. Abidian, J. Ahn, et al., “Technology Roadmap for
+2657: \[21\] M. Fauziyah, W. Widiyastuti, R. Balgis, and H. Setyawan,
+2662: \[22\] M. Fauziyah, W. Widiyastuti, and H. Setyawan, “Nitrogen-doped
+2669: \[23\] S. Susanto, T. Nurtono, W. Widiyastuti, M.-H. Yeh, and H.
+2674: \[24\] S. Susanto, T. F. Rochman, M. R. Kamandanu, T. Nurtono, W.
+2681: \[25\] S. Susanto, N. Avabel, N. Septianingrum, T. Nurtono, and H.
+2686: \[26\] J. Wang, J. Lu, S. B. Hocevar, P. A. M. Farias, and B. Ogorevc,
+2691: \[27\] K. H. Ho, P. X. T. Nguyen, N. H. N. Do, K. A. Le, and P. K. Le,
+2696: \[28\] N. Q. Việt, N. V. V. Linh, P. N. Sinh, N. N. K. Tuyến, P. M. Trí,
+2701: \[29\] N. T. X. Phuong et al., “Novel Fabrication of Renewable Aerogels
+2705: \[30\] H. Hosseini, M. Kokabi, and S. M. Mousavi, “Conductive bacterial
+2710: \[31\] S. H. Osman, S. K. Kamarudin, S. Basri, and N. A. Karim, “Organic
+2715: \[32\] M. Kubicka, M. Bakierska, K. Chudzik, M. Świętosławski, and M.
+2721: \[33\] T. Marshall-Roth et al., "A pyridinic Fe-N4 macrocycle models the
+2726: \[34\] H. Fei, J. Dong, Y. Feng, et al., "General synthesis and
+2731: \[35\] X. Wu, Y. Sun, T. He, Y. Zhang, G.-J. Zhang, Q. Liu, and S. Chen,
+2736: \[36\] Y. Feng, Y. Li, S. Yu, Q. Yang, Y. Tong, and B.-C. Ye,
+2742: \[37\] S. Allende, Y. Liu, and M. V. Jacob, "Electrochemical sensing of
+2747: \[38\] N. G. Tsierkezos, S. H. Othman, and U. Ritter, "Nitrogen-doped
+2751: \[39\] A. W. Adamson and A. P. Gast, Physical Chemistry of Surfaces, 6th
+2754: \[40\] J. N. Israelachvili, Intermolecular and Surface Forces, 3rd ed.
+2757: \[41\] G. Yang, J. Zhu, P. Yuan, et al., “Regulating Fe-spin state by
+2762: \[42\] P. Knihnicki et al., "Electrochemical Sensing of Pb2+ and Cd2+
+2767: \[43\] Z. Guo et al., "Simultaneous determination of trace Cd(II),
+2773: \[44\] J.-H. Hwang, P. Pathak, X. Wang, K. L. Rodriguez, H. J. Cho, and
+2779: \[45\] R. Huang, J. Lv, J. Chen, Y. Zhu, J. X. Zhu, T. Wågberg, and G.
+2785: \[46\] F. Yang, J.-H. Liu, H.-T. Lu, and Q. Zhang, "Electrochemical
+2791: \[47\] A. S. Suryandari, T. Nurtono, W. Widiyastuti, and H. Setyawan,
+2797: \[48\] P. Singh et al., “From cellulose dissolution and regeneration to
+2803: \[49\] S. Park, J. O. Baker, M. E. Himmel, P. A. Parilla, and D. K.
+2808: \[50\] B. Thomas et al., “Ice-Templating of Lignin and Cellulose
+2813: \[51\] S. Geng, J. Wei, S. Jonasson, J. Hedlund, and K. Oksman,
+2819: \[52\] Y. Hu et al., “3D hierarchical porous N-doped carbon aerogel from
+2824: \[53\] Ö. P. Konuk et al., “The effect of synthesis conditions and
+2828: \[54\] S. Hoepfner, L. Ratke, and B. Milow, "Synthesis and
+2832: \[55\] N. Buchtová and T. Budtova, "Cellulose aero-, cryo- and xerogels:
+2836: \[56\] J. Wang, M. Musameh, and Y. Lin, "Solubilization of Carbon
+2841: \[57\] L. Alves et al., "Nafion/Carbon composite membranes for
+2846: \[58\] C. S. Ong, N. H. B. Zaharum, N. Mohamad Nor, et al., "Morphology
+2852: \[59\] J. Wang, Analytical Electrochemistry, 3rd ed. Hoboken, NJ, USA:
+2855: \[60\] AOAC INTERNATIONAL, “Appendix F: Guidelines for Standard Method
+2860: \[61\] C. Hao, L. Ding, X. Zhang, and H. Ju, “Biocompatible Conductive
+2865: \[62\] W. Wang, Q. Meng, Q. Li, et al., "Chitosan Derivatives and Their
+2870: \[63\] V. Myndrul, I. Iatsunskyi, N. Babayevska, M. Jarek, and T.
+2876: \[64\] Y. El Hamdouni et al., "Biomass valorization of walnut shell into
+2882: \[65\] Z. Zhang et al., “Hierarchically Interconnected N-Doped Carbon
+2888: \[66\] R. E. Ruther et al., “Stable Electrolyte for High Voltage
+2893: ## Phụ lục 1: Quy trình chuẩn bị dung dịch đệm Acetate pH 4.5 và đệm Phosphate PBS pH 7.4 \[8, 16\]
+2921:   AgCl xám tro theo quy chuẩn kỹ thuật điện hóa \[8\]. Bơm dung dịch KCl

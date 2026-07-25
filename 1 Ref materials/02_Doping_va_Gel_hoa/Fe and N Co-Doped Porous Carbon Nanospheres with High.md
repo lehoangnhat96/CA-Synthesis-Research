@@ -1,11 +1,11 @@
 Subscriber access provided by ALBRIGHT COLLEGE 
 
 
-![](_images/Fe and N Co-Doped Porous Carbon Nanospheres with High_images/_temp_bbb5e6da_convert_.pdf-0001-01.png)
+![](_temp_e5c218c2_convert__images/_temp_e5c218c2_convert_.pdf-0001-01.png)
 
 
 
-![](_images/Fe and N Co-Doped Porous Carbon Nanospheres with High_images/_temp_bbb5e6da_convert_.pdf-0001-02.png)
+![](_temp_e5c218c2_convert__images/_temp_e5c218c2_convert_.pdf-0001-02.png)
 
 
 ## C: Surfaces, Interfaces, Porous Materials, and Catalysis 
@@ -209,7 +209,7 @@ Controlled potential electrolysis (CPE) method was performed on a H-shape electr
 cell with a Nafion 115 membrane as the separator using three-electrode system. The porous working electrode was prepared by the gas-diffusion electrode (GDE) method. In brief, the XC72 carbon powder, polytetrafluoroethylene (PTFE) colloid and isopropanol/water (IPA/H2O) were mixed with the weight ratio of 4:1:120. The suspension was sprayed on the carbon paper to form the micro-porous layer (MPL) with the carbon loading of 1 mg cm[-2] . Thereafter, the asprepared catalysts and Nafion resin with the mass ratio of 3:1 were ultrasonically dispersed in IPA/H2O solution for 3 h and then coated on the MPL with the catalyst loading of 1.0 mg cm[-2] . The geometric reaction area of electrode was 1×1 cm[2] . The electrolyte was CO2-saturated 0.5 mol·L[-1] KHCO3 solution. During the experiment, CO2 was continuously bubbled into the cathode at a constant rate of 20 mL min[-1] . The gaseous products of cathodic compartment were directly vented into a gas chromatograph (GC) equipped with a thermal conductive detector (TCD) and a flame ionization detector (FID). Each electrode was electrolyzed under applied potentials for 20 min. And the GC run was initiated every 10 min. The faradaic efficiencies (FE) of the gas products were calculated by the following equation: 
 
 
-![](_images/Fe and N Co-Doped Porous Carbon Nanospheres with High_images/_temp_bbb5e6da_convert_.pdf-0008-06.png)
+![](_temp_e5c218c2_convert__images/_temp_e5c218c2_convert_.pdf-0008-06.png)
 
 
 Where _V_ CO2 is the flow rate of CO2 (20 mL min[-1] ), _C_ (ppm) is the concentration of the 
@@ -245,13 +245,13 @@ DFT calculations were performed using the Vienna Ab initio Simulation Package (V
 Å. As for electrochemical CO2RR, we considered the following elementary steps: 
 
 
-![](_images/Fe and N Co-Doped Porous Carbon Nanospheres with High_images/_temp_bbb5e6da_convert_.pdf-0009-12.png)
+![](_temp_e5c218c2_convert__images/_temp_e5c218c2_convert_.pdf-0009-12.png)
 
 
 where (g), * and (aq) represent the gaseous phase, adsorption state and aqueous phase, respectively. Reaction free energy change of each elementary step was estimated by using the computational hydrogen electrode model.[30] The free energies of each species were calculated according to the formula: 
 
 
-![](_images/Fe and N Co-Doped Porous Carbon Nanospheres with High_images/_temp_bbb5e6da_convert_.pdf-0009-14.png)
+![](_temp_e5c218c2_convert__images/_temp_e5c218c2_convert_.pdf-0009-14.png)
 
 
 8 
@@ -273,7 +273,7 @@ The synthesis of Fe-N-PC is schematic illustrated in Scheme 1. Firstly, the poly
 comparison, the op-Fe-N-PC without the protection of SiO2 shell was also synthesized. 
 
 
-![](_images/Fe and N Co-Doped Porous Carbon Nanospheres with High_images/_temp_bbb5e6da_convert_.pdf-0010-07.png)
+![](_temp_e5c218c2_convert__images/_temp_e5c218c2_convert_.pdf-0010-07.png)
 
 
 **----- Start of picture text -----**<br>
@@ -303,7 +303,7 @@ Page 10 of 29
 shown in Figure 1a and Figure S2, the Fe-N-PC shows the structure of defective porous nanospheres with a diameter of ~50 nm. Furthermore, no obvious Fe-containing nanoparticles could be observed from the TEM images of Fe-N-PC. The aberration-corrected HAADF-STEM images (Figure 1b and Figure S3) of Fe-N-PC reveal that the Fe atoms are mostly dispersed as isolated single atoms throughout the carbon substrate, which are identified by bright dots marked with red cycles. It is worth to mentioning that the bright areas (1~2 nm) could be attributed to the amorphous Fe clusters. The elemental mapping analysis (Figure 1c) reveals that the Fe and N atoms are homogeneously distributed over the whole carbon matrix. 
 
 
-![](_images/Fe and N Co-Doped Porous Carbon Nanospheres with High_images/_temp_bbb5e6da_convert_.pdf-0011-06.png)
+![](_temp_e5c218c2_convert__images/_temp_e5c218c2_convert_.pdf-0011-06.png)
 
 
 **----- Start of picture text -----**<br>
@@ -311,7 +311,7 @@ a<br>mesoporous<br>**----- End of picture text -----**<br>
 
 
 
-![](_images/Fe and N Co-Doped Porous Carbon Nanospheres with High_images/_temp_bbb5e6da_convert_.pdf-0011-07.png)
+![](_temp_e5c218c2_convert__images/_temp_e5c218c2_convert_.pdf-0011-07.png)
 
 
 **----- Start of picture text -----**<br>
@@ -319,7 +319,7 @@ b<br>**----- End of picture text -----**<br>
 
 
 
-![](_images/Fe and N Co-Doped Porous Carbon Nanospheres with High_images/_temp_bbb5e6da_convert_.pdf-0011-08.png)
+![](_temp_e5c218c2_convert__images/_temp_e5c218c2_convert_.pdf-0011-08.png)
 
 
 **----- Start of picture text -----**<br>
@@ -327,7 +327,7 @@ C N<br>Fe O<br>**----- End of picture text -----**<br>
 
 
 
-![](_images/Fe and N Co-Doped Porous Carbon Nanospheres with High_images/_temp_bbb5e6da_convert_.pdf-0011-09.png)
+![](_temp_e5c218c2_convert__images/_temp_e5c218c2_convert_.pdf-0011-09.png)
 
 
 **----- Start of picture text -----**<br>
@@ -355,7 +355,7 @@ X-ray adsorption near edge structure (XANES) and extended X-ray adsorption fine 
 for both Fe-N-PC and op-Fe-N-PC, which can be attributed to Fe-N(O) scattering paths, matched well with the peak of Fe[Ⅱ] Pc. Interestingly, the EXAFS spectrum of Fe-N-PC displays a weak peak at around 2.1 Å, which can be assigned as Fe-Fe bond. Combined with the HAADF-STEM observation, a few Fe clusters might exist in Fe-N-PC, which are probably formed during NH3 heat-treatment. By contrast, the FT-EXAFS curve of the op-Fe-N-PC sample presents a high peak at 2.1 Å, indicative of the presence of much more Fe-Fe bond. These results clearly demonstrate the critical role of SiO2 shell in restricting isolated Fe atoms from aggregation, hence greatly improving the density of atomic Fe active sites. 
 
 
-![](_images/Fe and N Co-Doped Porous Carbon Nanospheres with High_images/_temp_bbb5e6da_convert_.pdf-0012-05.png)
+![](_temp_e5c218c2_convert__images/_temp_e5c218c2_convert_.pdf-0012-05.png)
 
 
 **----- Start of picture text -----**<br>
@@ -417,7 +417,7 @@ Page 14 of 29
 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 
 
 
-![](_images/Fe and N Co-Doped Porous Carbon Nanospheres with High_images/_temp_bbb5e6da_convert_.pdf-0015-03.png)
+![](_temp_e5c218c2_convert__images/_temp_e5c218c2_convert_.pdf-0015-03.png)
 
 
 **----- Start of picture text -----**<br>
@@ -457,7 +457,7 @@ Page 16 of 29
 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 
 
 
-![](_images/Fe and N Co-Doped Porous Carbon Nanospheres with High_images/_temp_bbb5e6da_convert_.pdf-0017-04.png)
+![](_temp_e5c218c2_convert__images/_temp_e5c218c2_convert_.pdf-0017-04.png)
 
 
 **----- Start of picture text -----**<br>
@@ -503,7 +503,7 @@ Page 18 of 29
 suggesting the thorough removal of Fe clusters. The CO2RR catalytic activity and selectivity on Fe-N-PC-A (Figure S13 and S14) decrease to _j_ CO of 6.97 mA cm[−2] and FECO of 78.4 % at −0.49 V, inferior to that of Fe-N-PC. XPS survey shows that there is almost no change in N structure and content within the Fe-N-PC-A (Figure S15), but a slight decrease in Fe content, probably resulting from the removal of Fe clusters during the acid-leaching (Table S1). Accordingly, the presence of a few Fe clusters may facilitate the CO2RR catalytic performance. 
 
 
-![](_images/Fe and N Co-Doped Porous Carbon Nanospheres with High_images/_temp_bbb5e6da_convert_.pdf-0019-05.png)
+![](_temp_e5c218c2_convert__images/_temp_e5c218c2_convert_.pdf-0019-05.png)
 
 
 **----- Start of picture text -----**<br>
@@ -549,7 +549,7 @@ S4. Therefore, the three extra iron atoms with Fe-N structure forming a cluster 
 activity and selectivity of CO2RR. 
 
 
-![](_images/Fe and N Co-Doped Porous Carbon Nanospheres with High_images/_temp_bbb5e6da_convert_.pdf-0021-08.png)
+![](_temp_e5c218c2_convert__images/_temp_e5c218c2_convert_.pdf-0021-08.png)
 
 
 **Figure 6.** Free energy profiles for the CO2RR at (a) 0 V (RHE) and (b) -0.5 V (RHE), and (c) 
@@ -813,7 +813,7 @@ Page 28 of 29
 ## **TOC Graphic** 
 
 
-![](_images/Fe and N Co-Doped Porous Carbon Nanospheres with High_images/_temp_bbb5e6da_convert_.pdf-0029-05.png)
+![](_temp_e5c218c2_convert__images/_temp_e5c218c2_convert_.pdf-0029-05.png)
 
 
 28 
@@ -827,7 +827,7 @@ The Journal of Physical Chemistry
 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 
 
 
-![](_images/Fe and N Co-Doped Porous Carbon Nanospheres with High_images/_temp_bbb5e6da_convert_.pdf-0030-03.png)
+![](_temp_e5c218c2_convert__images/_temp_e5c218c2_convert_.pdf-0030-03.png)
 
 
 212x100mm (150 x 150 DPI) 

@@ -37,7 +37,7 @@ _Xử lý sợi lá chuối bằng phương pháp hóa học:_ Lá chuối xanh 
 _*Email: linhnvv@hcmute.edu.vn_ 
 
 
-![](_images/Anh huong cua qua trinh xu ly hoa hoc voi_images/_temp_8402174e_convert_.pdf-0001-19.png)
+![](_temp_492ada5d_convert__images/_temp_492ada5d_convert_.pdf-0001-19.png)
 
 
 44 
@@ -67,7 +67,7 @@ _**Keywords:**_ **banana fibre, banana leaf, cellulose, chemical treatment, lign
 dịch NaOH (ở các nồng độ khảo sát khác nhau là 0,5, 1 và 1,5%) và gia nhiệt đến 100[o] C, tiếp theo cho 30 g lá chuối đã xử lý với nước vào. Sau khi duy trì nhiệt độ xử lý 100[o] C trong 100 phút, sợi chuối được rửa nhiều lần với nước cho đến khi đạt pH 7. Tiếp theo, lá chuối được đem đi giã với chày và cối, lượng mẫu cho mỗi lần giã là 15 g, tiến hành giã trong 5 phút. Sau đó, sợi giã được cho vào 100 ml dung dịch H2O2 (5, 10 và 15%) ở nhiệt độ 80[o] C trong vòng 45 phút. Các mẫu lá chuối được xử lý ở các điều kiện khác nhau có ký hiệu như bảng 1. Sau khi xử lý xong với H2O2 lọc rửa mẫu nhiều lần với nước cho đến khi pH 7 (hình 1). 
 
 
-![](_images/Anh huong cua qua trinh xu ly hoa hoc voi_images/_temp_8402174e_convert_.pdf-0002-11.png)
+![](_temp_492ada5d_convert__images/_temp_492ada5d_convert_.pdf-0002-11.png)
 
 
 **Hình 1. Quy trình xử lý sợi chuối. Bảng 1. Các mẫu lá chuối được xử lý với các tác nhân hóa học khác nhau.** 
@@ -94,7 +94,7 @@ _Đánh giá độ ẩm sợi chuối:_ được thực hiện dựa trên phư�
 Hàm lượng ẩm (M, % khối lượng) được xác định theo công thức: 
 
 
-![](_images/Anh huong cua qua trinh xu ly hoa hoc voi_images/_temp_8402174e_convert_.pdf-0002-18.png)
+![](_temp_492ada5d_convert__images/_temp_492ada5d_convert_.pdf-0002-18.png)
 
 
 trong đó: m1 là khối lượng của mẫu thử trước khi sấy (g); mo là khối lượng mẫu thử sau khi sấy (g). 
@@ -106,7 +106,7 @@ trong đó: m1 là khối lượng của mẫu thử trước khi sấy (g); mo 
 Ảnh SEM cho thấy, ở nồng độ NaOH thấp (0,5%) thì các bó sợi chưa được tách ra do còn nhiều lignin và 
 
 
-![](_images/Anh huong cua qua trinh xu ly hoa hoc voi_images/_temp_8402174e_convert_.pdf-0002-23.png)
+![](_temp_492ada5d_convert__images/_temp_492ada5d_convert_.pdf-0002-23.png)
 
 
 45 
@@ -118,7 +118,7 @@ _**Khoa học Kỹ thuật và Công nghệ**_ / _Kỹ thuật hóa học_
 hemicellulose, so với mẫu sợi chuối thô thì không có sự thay đổi về hình thái (hình 2A và 2B). Khi tăng nồng độ NaOH lên 1 và 1,5% thì các bó sợi đã tách ra và xuất hiện một số vi sợi, nguyên nhân là do NaOH đã loại bỏ chất kết dính sợi là lignin. Ngoài ra, đường kính trung bình của sợi chuối giảm dần từ 215 xuống còn 188 µm khi nồng độ dung dịch NaOH tăng dần từ 1 lên 1,5% (hình 2C và 2D). Điều này được giải thích là do quá trình xử lý với NaOH, sợi chuối đã được loại bỏ các thành phần như lignin, pectin, hemicellulose nên đường kính sợi chuối đã bị giảm. 
 
 
-![](_images/Anh huong cua qua trinh xu ly hoa hoc voi_images/_temp_8402174e_convert_.pdf-0003-02.png)
+![](_temp_492ada5d_convert__images/_temp_492ada5d_convert_.pdf-0003-02.png)
 
 
 **Hình 2. Ảnh SEM của mẫu sợi chuối thô (A) và sợi xử lý với dung dịch NaOH ở các nồng độ khác nhau 0,5% (B), 1% (C) và 1,5% (D).** 
@@ -126,7 +126,7 @@ hemicellulose, so với mẫu sợi chuối thô thì không có sự thay đổ
 Kết quả hình 3 cho thấy, ở vị trí đỉnh 3500-3100 cm[-1] đặc trưng cho dao động kéo dãn của nhóm O-H có trong cấu trúc của cellulose và hemicellulose. Đỉnh tại vị trí 2916 và 2850 cm[-1] đặc trưng cho dao động kéo giãn đối xứng và không đối xứng của C-H trong nhóm CH2 của cellulose và hemicellulose. Ở vị trí khoảng 1733 cm[-1] đặc trưng cho dao động giãn của nhóm ester C=O và vị trí 1460 cm[-1] đặc trưng cho dao động kéo giãn C=O của nhóm acetyl có trong hemicellulose đã suy giảm khi nồng độ NaOH tăng từ 0,5 lên 1,5%. Tại các đỉnh đặc trưng cho lignin như vị trí 1640 và 1170 cm[-1] có sự suy giảm cường độ khi tăng nồng độ NaOH xử lý sợi từ 0,5, 1 đến 1,5%. Ở vị trí 1640 cm[-1] đặc trưng dao động kéo giãn C=C trong vòng thơm của lignin, ở vị trí 1170 cm[-1] đặc trưng cho cho nhóm C-O-C trong lignin [10, 11]. Đỉnh tại vị trí 1045 cm[-1] đặc trưng cho nhóm C-O có trong cellulose tăng cường độ vì tạp chất trong sợi được loại một phần. Như vậy, ở giai đoạn xử lý này đã loại bỏ 1 phần lignin và hemicellulose, vì vậy sẽ tiếp tục đến giai đoạn xử lý với H2O2 để loại bỏ tạp chất tiếp tục. 
 
 
-![](_images/Anh huong cua qua trinh xu ly hoa hoc voi_images/_temp_8402174e_convert_.pdf-0003-05.png)
+![](_temp_492ada5d_convert__images/_temp_492ada5d_convert_.pdf-0003-05.png)
 
 
 **----- Start of picture text -----**<br>
@@ -140,7 +140,7 @@ _**Ảnh hưởng của nồng độ H2O2 lên hình thái sợi**_
 Ảnh SEM của sợi chuối qua quá trình xử lý với các dung dịch NaOH/H2O2 cho thấy kích thước sợi giảm so với sợi thô và sợi xử lý NaOH. Điều này được giải thích là do quá trình xử lý NaOH/H2O2 với sợi chuối đã giúp loại bỏ các phần vô định hình trong sợi như lignin, pectin, hecmicellulose nên đường kính sợi chuối đã bị giảm kích thước (hình 4A-C). Sau khi xử lý với NaOH/H2O2 5% các sợi cellulose bắt đầu được tách ra khỏi các bó sợi lớn, tăng nồng độ lên 10% thì các bó sợi tách ra riêng lẽ, lúc này kích thước sợi giảm từ 260 xuống 49,3 µm (hình 4A, 4B, 4D và 4F). Khi tăng nồng độ H2O2 xử lý lên 15% thì nhìn thấy các vi sợi cellulose được tách dần ra từ các sợi ngày càng nhiều, kích thước vi sợi đạt 34,3 µm (hình 4C và 4F). Có thể giải thích là do khi xử lý với H2O2 thấp chưa đủ để loại bỏ nhiều hemicellulose và lignin là chất kết dính trong các bó sợi, khi xử lý sợi với nồng độ NaOH/H2O2 cao (10-15%) thì loại bỏ hemicellulose và lignin trong nhiều bó sợi hơn. Tuy nhiên, khi xử lý với nồng độ NaOH/H2O2 15% hoặc cao hơn trong thời gian lâu sẽ tác động không tốt cho sợi, dẫn đến sợi yếu và giòn [12, 13]. 
 
 
-![](_images/Anh huong cua qua trinh xu ly hoa hoc voi_images/_temp_8402174e_convert_.pdf-0003-09.png)
+![](_temp_492ada5d_convert__images/_temp_492ada5d_convert_.pdf-0003-09.png)
 
 
 **Hình 4. Ảnh SEM (A-C) và đồ thị phân bố kích thước sợi (D-F) các mẫu xử lý với dung dịch NaOH/H2O2 ở nồng độ H2O2 khác nhau:  5% (A và D), 10% (B và E) và 15% (C và F).** 
@@ -148,7 +148,7 @@ _**Ảnh hưởng của nồng độ H2O2 lên hình thái sợi**_
 FTIR của sợi sau quá trình xử lý với H2O2 cho thấy, khi tăng nồng độ thì thành phần tạp chất và hemicellulose bị loại bỏ hiệu quả hơn. Có thể thấy, các đỉnh đặc trưng cho 
 
 
-![](_images/Anh huong cua qua trinh xu ly hoa hoc voi_images/_temp_8402174e_convert_.pdf-0003-12.png)
+![](_temp_492ada5d_convert__images/_temp_492ada5d_convert_.pdf-0003-12.png)
 
 
 46 
@@ -160,7 +160,7 @@ _**Khoa học Kỹ thuật và Công nghệ**_ / _Kỹ thuật hóa học_
 hemicellulose tại vị trí 2916 và 2850 cm[-1] đặc trưng cho dao động kéo giãn C-H trong nhóm CH2; ví trí 1730 cm[-1] đặc trưng cho dao động giãn của nhóm C=O đã suy giảm dần và một số đỉnh biến mất khi xử lý ở nồng độ H2O2 cao. Đỉnh tại vị trí 1642 cm[-1] đặc trưng cho liên kết C=C trong vòng thơm của lignin đã suy giảm dần khi tăng nồng độ H2O2. Đỉnh tại vị trí khoảng 1040 cm[-1] đặc trưng cho dao động giãn C-O-C của cấu trúc cellulose đã xuất hiện rõ hơn vì tạp chất trong mẫu bị loại bỏ (hình 5). Như vậy, khi hỗn hợp mẫu xử lý NaOH và H2O2 đã làm sạch hầu hết hemicellulose, sáp và một phần lignin. 
 
 
-![](_images/Anh huong cua qua trinh xu ly hoa hoc voi_images/_temp_8402174e_convert_.pdf-0004-02.png)
+![](_temp_492ada5d_convert__images/_temp_492ada5d_convert_.pdf-0004-02.png)
 
 
 **----- Start of picture text -----**<br>
@@ -174,7 +174,7 @@ _**Ảnh hưởng của quá trình xử lý sợi với các tác nhân khác n
 Ảnh SEM cho thấy, lá chuối sau khi xử lý với H2O nóng vẫn chưa tách ra thành các bó sợi riêng lẻ mà kết dính bởi các thành phần như sáp, hemicellulose và lignin (hình 6A). Khi xử lý tiếp tục với dung dịch NaOH thì bắt đầu có xuất hiện các bó sợi nhỏ nhưng các bó sợi này chỉ được tách một phần, chưa được tách ra khỏi sợi lớn hoàn toàn (hình 6B). Các bó sợi nhỏ xuất hiện càng nhiều khi xử lý sợi tiếp tục với H2O2 do các thành phần như hemicellulose, lignin gắn kết các bó sợi bị loại bỏ càng nhiều (hình 6C). 
 
 
-![](_images/Anh huong cua qua trinh xu ly hoa hoc voi_images/_temp_8402174e_convert_.pdf-0004-06.png)
+![](_temp_492ada5d_convert__images/_temp_492ada5d_convert_.pdf-0004-06.png)
 
 
 **Hình 6. Ảnh SEM của mẫu lá (sợi) chuối sau khi xử lý với các dung  dịch nước (A), nước/NaOH (B) và nước/NaOH/H2O2 (C).** 
@@ -184,7 +184,7 @@ Phổ FTIR của các mẫu sợi chuối xử lý với các tác nhân khác n
 học [14]. Tuy nhiên, đỉnh đặc trưng cho dao động kéo giãn đối xứng và bất đối xứng của C-H trong hemicellulose tại vị trí 2916 và 2850 cm[-1] cũng đã suy giảm dần tương ứng với các mẫu M, Na1 và Na1H10. Các đỉnh đặc trưng cho cho dao động kéo giãn C=O của nhóm carbonyl, carboxylic và acetyl có trong cấu trúc hemicellulose tại vị trí 1733 và 1460 cm[-1] thể hiện rõ ở mẫu ở sợi chuối thô và mẫu xử lý với H2O (M), sau đó đỉnh suy giảm dần khi xử lý với dung dịch NaOH (Na1) và biến mất đối với mẫu Na1H10. Điều này chứng tỏ, hemicellulose được loại bỏ dần qua các quá trình xử lý sợi với các dung dịch gồm nước, NaOH, H2O2 [10, 11, 15]. Ngoài ra, các đỉnh tại vị trí 1640 cm[-1] đặc trưng cho liên kết C=C trong vòng thơm và 1170 cm[-1] đặc trưng cho liên kết C-O-C của lignin suy giảm dần sau khi xử lý với nước nóng, NaOH và H2O2 (hình 7). Điều này chứng tỏ, quá trình loại bỏ lignin ra khỏi sợi cellulose, tuy nhiên không hoàn toàn, trong sợi vẫn còn 1 lượng nhỏ lignin [10]. Kết quả này phù hợp với định hướng chế tạo màng sợi cellulose phân hủy sinh học từ sợi lá chuối và một phần lignin còn lại có thể làm chất kết dính. 
 
 
-![](_images/Anh huong cua qua trinh xu ly hoa hoc voi_images/_temp_8402174e_convert_.pdf-0004-10.png)
+![](_temp_492ada5d_convert__images/_temp_492ada5d_convert_.pdf-0004-10.png)
 
 
 **----- Start of picture text -----**<br>
@@ -196,7 +196,7 @@ Thô<br>3340 1733    1170<br>M OH C=O C-O-C<br>1460<br>C=O<br>Na1<br>2916 2850 1
 Kết quả hình 8 cho thấy, độ ẩm (hay hàm lượng ẩm) của các mẫu sợi ban đầu và sau khi xử lý hóa học với các tác nhân như nước, NaOH, H2O2 giảm dần từ 12,45 xuống còn 2,52 %. Kết quả này cho thấy, khả năng hấp thụ nước của sợi chuối qua các giai đoạn xử lý với tác nhân giảm. Điều này được giải thích dựa trên bản chất và khả năng hấp thụ nước của các thành phần có trong sợi lá chuối là cellulose, hemicelluloses, lignin, pectin, sáp. Cellulose là một polysaccharide bán tinh thể được tạo thành từ các đơn vị D-glucopyranose được liên kết với nhau bằng các liên kết β-(1-4)-glycosidic và một lượng lớn nhóm hydroxyl trong cellulose mang lại đặc tính ưa nước sợi tự nhiên [12]. Hemicellulose được liên kết chặt chẽ với các sợi cellulose bởi các liên kết hydro. Do cấu trúc mở của nó chứa nhiều nhóm hydroxyl và acetyl, hemicellulose hòa tan một phần trong nước và hút ẩm. Lignin là các polyme vô định hình, cấu trúc phức tạp, chủ yếu là vòng thơm của các đơn vị phenylpropane, vì vậy là thành phần không thấm nước trong 
 
 
-![](_images/Anh huong cua qua trinh xu ly hoa hoc voi_images/_temp_8402174e_convert_.pdf-0004-13.png)
+![](_temp_492ada5d_convert__images/_temp_492ada5d_convert_.pdf-0004-13.png)
 
 
 47 
@@ -208,7 +208,7 @@ _**Khoa học Kỹ thuật và Công nghệ**_ / _Kỹ thuật hóa học_
 sợi tự nhiên. Để hướng đến ứng dụng làm khẩu trang phân hủy sinh học, sợi chuối cần được xử lý để giảm khả năng hút ẩm (độ ẩm) của chúng. Để giảm khả năng hút ẩm trong sợi chuối cần giảm nhóm hydroxyl có trong sợi bằng các phương pháp hóa học với dung dịch NaOH, H2O2 để xử lý nhằm thay đổi bề mặt và giảm các thành phần hóa học bên trong sợi [16]. 
 
 
-![](_images/Anh huong cua qua trinh xu ly hoa hoc voi_images/_temp_8402174e_convert_.pdf-0005-02.png)
+![](_temp_492ada5d_convert__images/_temp_492ada5d_convert_.pdf-0005-02.png)
 
 
 **Hình 8. Độ ẩm của các mẫu sợi chuối sau khi xử lý hóa học với các dung dịch.** 
@@ -256,7 +256,7 @@ Tác giả xin chân thành cảm ơn Trường Đại học Sư phạm Kỹ thu
 [16] A. Chaker, et al. (2014), “Agriculture crop residues as a source for the production of nanofibrillated cellulose with low energy demand”, _Cellulose_ **21(6)** , pp.4247-4259. 
 
 
-![](_images/Anh huong cua qua trinh xu ly hoa hoc voi_images/_temp_8402174e_convert_.pdf-0005-25.png)
+![](_temp_492ada5d_convert__images/_temp_492ada5d_convert_.pdf-0005-25.png)
 
 
 48 

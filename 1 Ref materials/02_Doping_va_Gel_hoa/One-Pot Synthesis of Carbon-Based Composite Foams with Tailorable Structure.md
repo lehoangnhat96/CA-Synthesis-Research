@@ -15,7 +15,7 @@
 Dehumidification plays a vital role across industrial, commercial, and residential settings, where controlling moisture is essential for maintaining air quality, protecting materials, and ensuring comfort. Calcium chloride (CaCl2) is a widely used, low-cost desiccant, but it suffers from a critical drawback: under humid conditions, particles tend to agglomerate, which reduces their ability to absorb water. In addition, when the salt dissolves in hydration water, its contact surface with moist air decreases, and corrosive liquid leakage can occur. Embedding CaCl2 into hydrophilic porous matrices offers a solution by dispersing particles more effectively, preventing agglomeration, increasing the contact area, and retaining liquid within the pore network to suppress leakage. In this study, we introduce a novel approach for fabricating carbon-based foams impregnated with CaCl2, produced through the thermal decomposition of glucose under self-induced pressure. These foams exhibit a composite architecture that integrates CaCl2 and calcium carbonate, enabling controlled porosity through selective dissolution. Importantly, the in situ transformation of CaCl2 into calcite refines the internal structure, improving both stability and acids absorption performance. FTIR confirmed the strong hydrophilicity of the foam walls, which enhances water vapor uptake while preventing leakage of saturated salt solutions. The carbon matrix further suppresses salt particle agglomeration during moisture absorption, resulting in high efficiency. These multifunctional foams not only capture water vapor and volatile acids but also show potential as phase change materials. Mechanical testing revealed tunable behavior among the fabricated foams, ranging from high-stiffness structures with superior energy absorption (e.g., C2) to more compliant foams with extended strain capacity (e.g., A2), illustrating their versatility for practical applications. 
 
 
-![](_images/One-Pot Synthesis of Carbon-Based Composite Foams with Tailorable Structure_images/_temp_3a95c60c_convert_.pdf-0001-08.png)
+![](_temp_041acebf_convert__images/_temp_041acebf_convert_.pdf-0001-08.png)
 
 
 Academic Editor: Shi-Jie Cao Received: 15 November 2025 Revised: 8 December 2025 Accepted: 12 December 2025 Published: 23 December 2025 
@@ -91,11 +91,11 @@ After cooling, the resulting carbonaceous foams were extracted and cut into cyli
 Foam specimens were subjected to a secondary vapor-phase treatment in an atmosphere containing CO2, NH3, and H2O. These vapors were generated in situ by the thermal decomposition of 58 mg of ammonium bicarbonate (NH4HCO3) placed inside the autoclave, ensuring no direct contact with the samples. The treatment was conducted at 180 _[◦]_ C for 12 h. Subsequently, the samples were heated in air at 200 _[◦]_ C for 60 h to sublimate residual byproducts formed during the in situ conversion of CaCl2 to CaCO3 (calcite). For clarity, the overall experimental workflow is summarized in Figure 1, which outlines the synthesis, treatment, and characterization steps in a sequential manner. 
 
 
-![](_images/One-Pot Synthesis of Carbon-Based Composite Foams with Tailorable Structure_images/_temp_3a95c60c_convert_.pdf-0005-08.png)
+![](_temp_041acebf_convert__images/_temp_041acebf_convert_.pdf-0005-08.png)
 
 
 
-![](_images/One-Pot Synthesis of Carbon-Based Composite Foams with Tailorable Structure_images/_temp_3a95c60c_convert_.pdf-0005-09.png)
+![](_temp_041acebf_convert__images/_temp_041acebf_convert_.pdf-0005-09.png)
 
 
 **----- Start of picture text -----**<br>
@@ -139,7 +139,7 @@ Force-displacement data were converted into engineering stress–strain curves u
 Following the initial thermal treatment and subsequent cooling, the resulting carbonaceous foams were extracted. Cylindrical specimens with a diameter of 18 _±_ 0.2 mm and a height of 5 _±_ 0.3 mm were cut from the foams using a CNC machine as in Figure 2. 
 
 
-![](_images/One-Pot Synthesis of Carbon-Based Composite Foams with Tailorable Structure_images/_temp_3a95c60c_convert_.pdf-0006-09.png)
+![](_temp_041acebf_convert__images/_temp_041acebf_convert_.pdf-0006-09.png)
 
 
 **Figure 2.** Cylindrical Foam Specimens Prepared for Experimental where A1–A3 are described in Figure 1. 
@@ -151,7 +151,7 @@ Following the initial thermal treatment and subsequent cooling, the resulting ca
 Upon heating the glucose–CaCl2 mixture to approximately 150 _[◦]_ C, glucose begins to melt and dissolves anhydrous CaCl2, forming eutectic mixtures with reduced viscosity at specific molar ratios. As the temperature increases, reaction (1) is promoted, leading to the formation of 5-hydroxymethylfurfural (HMF) through a three-step dehydration of glucose: 
 
 
-![](_images/One-Pot Synthesis of Carbon-Based Composite Foams with Tailorable Structure_images/_temp_3a95c60c_convert_.pdf-0006-14.png)
+![](_temp_041acebf_convert__images/_temp_041acebf_convert_.pdf-0006-14.png)
 
 
 (1) 
@@ -187,13 +187,13 @@ _Buildings_ **2026** , _16_ , 56
 heating of the foams in NH4HCO3 vapor, reaction (2) initiates the thermal decomposition of ammonium carbonate, yielding NH3, H2O, and CO2; These gaseous products then react with CaCl2 embedded in the foam matrix, leading to the in situ formation of calcite (CaCO3) and ammonium chloride (NH4Cl) via reaction (3). 
 
 
-![](_images/One-Pot Synthesis of Carbon-Based Composite Foams with Tailorable Structure_images/_temp_3a95c60c_convert_.pdf-0008-03.png)
+![](_temp_041acebf_convert__images/_temp_041acebf_convert_.pdf-0008-03.png)
 
 
 As observed in the XRD patterns shown in Figure 3, samples A1N–A3N contain both calcite and NH4Cl, as expected according to reaction (3). To remove this phase from the system, the samples were subjected to thermal treatment for 60 h at 200 _[◦]_ C, as described in the experimental section. At this temperature, the vapor pressure of NH4Cl is approximately 1 mmHg, sufficiently high to enable complete sublimation of this crystalline phase. Consequently, the XRD spectra of samples A1–A3 no longer exhibit the NH4Cl phase. At 200 _[◦]_ C, the vapor pressure of NH4Cl is approximately 1.0 mmHg, which is sufficiently high to enable complete sublimation of the crystalline phase from the foam matrix. This value aligns with literature data from Tomida et al. (2008) [44], who measured vapor pressures of NH4Cl–NH3 mixtures and reported values consistent with this range at elevated temperatures. Their work provides a reliable basis for interpreting sublimation behavior under your experimental conditions. The XRD analysis confirming the coexistence of carbon phases and in situ formed calcite further supports the potential of these foams to be adapted as building materials, since the mineral reinforcement combined with the porous carbon matrix can provide both mechanical stability and enhanced thermal insulation properties. 
 
 
-![](_images/One-Pot Synthesis of Carbon-Based Composite Foams with Tailorable Structure_images/_temp_3a95c60c_convert_.pdf-0008-05.png)
+![](_temp_041acebf_convert__images/_temp_041acebf_convert_.pdf-0008-05.png)
 
 
 **Figure 3.** XRD comparison of ammonia-treated (A1N–A3N; the curves are displayed in shades of red) and thermally purified (A1–A3; the curves are plotted in different shades of gray) foams. 
@@ -213,11 +213,11 @@ Before testing, all samples were dried at 220 _[◦]_ C for 48 h to remove absor
 The compressive stress–strain responses of the investigated carbon-based composite foams are presented in Figure 4a, accompanied by magnified views of the initial elastic region (Figure 4b) and the plateau region (Figure 4c). All samples follow the characteristic deformation sequence of cellular solids, consisting of an initial linear elastic regime, a plateau region governed by the progressive collapse of the cellular structure, and a final densification stage marked by a rapid increase in stress with strain [45–47]. Despite this shared deformation pattern, the detailed shapes of the curves differ markedly among the foams, reflecting variations in composition and processing history. 
 
 
-![](_images/One-Pot Synthesis of Carbon-Based Composite Foams with Tailorable Structure_images/_temp_3a95c60c_convert_.pdf-0009-05.png)
+![](_temp_041acebf_convert__images/_temp_041acebf_convert_.pdf-0009-05.png)
 
 
 
-![](_images/One-Pot Synthesis of Carbon-Based Composite Foams with Tailorable Structure_images/_temp_3a95c60c_convert_.pdf-0009-06.png)
+![](_temp_041acebf_convert__images/_temp_041acebf_convert_.pdf-0009-06.png)
 
 
 **Figure 4.** Compressive stress–strain curves ( **a** ), with magnified views of the elastic ( **b** ) and plateau ( **c** ) regimes. 
@@ -235,15 +235,15 @@ _Buildings_ **2026** , _16_ , 56
 0.21 MPa and a plateau stress (PS) of 0.15 MPa (Figure 5b). By contrast, A2 and A2N show significantly lower E of 0.13 MPa and 0.06 MPa, respectively. Their PSs remain limited to 0.06 MPa (A2) and 0.01 MPa (A2N), reflecting their reduced load-bearing capacity. The densification strain (εd) values (Figure 5c) further differentiate the materials: A2 densifies at 71.5% strain, the highest among the samples; C2 densifies at ~61%; and A2N reaches εd at 54.4%. EA (Figure 5d) mirrors these trends. Foam C2 absorbs 0.15 MJ/m[3] , outperforming A2 (0.06 MJ/m[3] ) and A2N (<0.01 MJ/m[3] ). Despite its broad deformation interval, A2 shows only moderate EA due to its low PS, while A2N exhibits minimal performance across all metrics. Overall, C2 demonstrates superior stiffness, strength, and EA, whereas A2 combines low rigidity with large strain capacity, and A2N shows the weakest mechanical response. 
 
 
-![](_images/One-Pot Synthesis of Carbon-Based Composite Foams with Tailorable Structure_images/_temp_3a95c60c_convert_.pdf-0010-03.png)
+![](_temp_041acebf_convert__images/_temp_041acebf_convert_.pdf-0010-03.png)
 
 
 
-![](_images/One-Pot Synthesis of Carbon-Based Composite Foams with Tailorable Structure_images/_temp_3a95c60c_convert_.pdf-0010-04.png)
+![](_temp_041acebf_convert__images/_temp_041acebf_convert_.pdf-0010-04.png)
 
 
 
-![](_images/One-Pot Synthesis of Carbon-Based Composite Foams with Tailorable Structure_images/_temp_3a95c60c_convert_.pdf-0010-05.png)
+![](_temp_041acebf_convert__images/_temp_041acebf_convert_.pdf-0010-05.png)
 
 
 **Figure 5.** Compression-derived mechanical properties: modulus ( **a** ), stresses ( **b** ), densification strain ( **c** ), and absorbed energy ( **d** ). 
@@ -263,15 +263,15 @@ influence of NH4Cl formation and sublimation on the mechanical resilience of the
 The SEM images presented in Figure 6 provide valuable insight into the morphological evolution of the foam material synthesized from CaCl2 and glucose under thermal pressure in an autoclave. 
 
 
-![](_images/One-Pot Synthesis of Carbon-Based Composite Foams with Tailorable Structure_images/_temp_3a95c60c_convert_.pdf-0011-05.png)
+![](_temp_041acebf_convert__images/_temp_041acebf_convert_.pdf-0011-05.png)
 
 
 
-![](_images/One-Pot Synthesis of Carbon-Based Composite Foams with Tailorable Structure_images/_temp_3a95c60c_convert_.pdf-0011-06.png)
+![](_temp_041acebf_convert__images/_temp_041acebf_convert_.pdf-0011-06.png)
 
 
 
-![](_images/One-Pot Synthesis of Carbon-Based Composite Foams with Tailorable Structure_images/_temp_3a95c60c_convert_.pdf-0011-07.png)
+![](_temp_041acebf_convert__images/_temp_041acebf_convert_.pdf-0011-07.png)
 
 
 **----- Start of picture text -----**<br>
@@ -297,7 +297,7 @@ _Buildings_ **2026** , _16_ , 56
 by hydrate decomposition and water release mechanisms. However, our foam system introduces an additional complexity: the porous carbon matrix facilitates vapor migration and may enhance water desorption kinetics compared to bulk salt systems. This distinction highlights the role of pore architecture in modulating thermal behavior under oxidative conditions. In the DTA spectrum, the melting of CaCl2 _×_ 4H2O is manifested by small endothermic peaks around 50 _[◦]_ C (Figure 7) for samples C1–C3). The thermal behavior observed in our TG curves is further supported by the work of Karunadasa [50], who examined the dehydration of calcium chloride using high-temperature X-ray powder diffraction. His study confirms the presence of intermediate hydrates such as CaCl2 _·_ 4H2O and CaCl2 _·_ 2H2O, which remain stable at room temperature and begin to decompose progressively upon heating. In our system, the initial mass loss up to 170 _[◦]_ C corresponds well with this staged dehydration, suggesting that the foam matrix retains both surfacebound and structurally integrated water. The presence of carbon also introduces additional thermal pathways, which may influence the rate and completeness of dehydration. These distinctions highlight the importance of matrix composition and microstructure in modulating thermal decomposition behavior under oxidative conditions. The loss of the last two water molecules occurs at temperatures between 100 and 170 _[◦]_ C, manifested by two other endothermic peaks at temperatures around 120 and 170 _[◦]_ C. 
 
 
-![](_images/One-Pot Synthesis of Carbon-Based Composite Foams with Tailorable Structure_images/_temp_3a95c60c_convert_.pdf-0012-03.png)
+![](_temp_041acebf_convert__images/_temp_041acebf_convert_.pdf-0012-03.png)
 
 
 **Figure 7.** TG/DTA and comparative of C1–C3 samples recorded in air. 
@@ -305,11 +305,11 @@ by hydrate decomposition and water release mechanisms. However, our foam system 
 The reactions that take place are 
 
 
-![](_images/One-Pot Synthesis of Carbon-Based Composite Foams with Tailorable Structure_images/_temp_3a95c60c_convert_.pdf-0012-06.png)
+![](_temp_041acebf_convert__images/_temp_041acebf_convert_.pdf-0012-06.png)
 
 
 
-![](_images/One-Pot Synthesis of Carbon-Based Composite Foams with Tailorable Structure_images/_temp_3a95c60c_convert_.pdf-0012-07.png)
+![](_temp_041acebf_convert__images/_temp_041acebf_convert_.pdf-0012-07.png)
 
 
 https://doi.org/10.3390/buildings16010056 
@@ -351,7 +351,7 @@ _Buildings_ **2026** , _16_ , 56
 15 of 26 
 
 
-![](_images/One-Pot Synthesis of Carbon-Based Composite Foams with Tailorable Structure_images/_temp_3a95c60c_convert_.pdf-0015-02.png)
+![](_temp_041acebf_convert__images/_temp_041acebf_convert_.pdf-0015-02.png)
 
 
 **Figure 8.** FTIR Spectra of Foam Samples C2, A2N (Ammonia-Treated) and A2 (Post-Sublimatio) corresponding to G/C Ratio of 1.5. 
@@ -363,7 +363,7 @@ The water absorption capacity of the foam was evaluated by recirculating subsatu
 To generate air with controlled humidity, a bubbling system was employed. Air was passed through a calcium chloride (CaCl2) solution of known concentration, producing subsaturated vapor. Aerosols were removed using a 0.2 µm pore-size filter, and the humidity of the incoming air was measured in-line using a calibrated hygrometer positioned just before the reactor inlet. It is known that the dependence of the relative vapor pressure _π_ , on the mass fraction, _ξ_ , of dissolved CaCl2 and on temperature for an aqueous CaCl2 solution, defined as the ratio between the vapor pressures of the solution and the saturated water vapor, both determined at the same temperature, is given by an equation that depends on two functions, _π_ 25 and _f_ (x,q). The function _π_ 25 provides the equation for the dependence of the relative pressure _π_ determined at a temperature of 25 _[◦]_ C on the mass fraction _ξ_ , while the function _f_ (x,q) is a correction function that extends the validity of the equation over the entire temperature range. The dependence of the relative vapor pressure of the CaCl2 solution on the functions π25 and _f_ (x,q) is of the following form [59]: 
 
 
-![](_images/One-Pot Synthesis of Carbon-Based Composite Foams with Tailorable Structure_images/_temp_3a95c60c_convert_.pdf-0015-07.png)
+![](_temp_041acebf_convert__images/_temp_041acebf_convert_.pdf-0015-07.png)
 
 
 https://doi.org/10.3390/buildings16010056 
@@ -379,7 +379,7 @@ _pH_ 2 _O_ ( _T_ ) is the vapor pressure of liquid water at temperature _T_ ;
 _ξ_ is the mass fraction of CaCl2 dissolved in the solution. 
 
 
-![](_images/One-Pot Synthesis of Carbon-Based Composite Foams with Tailorable Structure_images/_temp_3a95c60c_convert_.pdf-0016-05.png)
+![](_temp_041acebf_convert__images/_temp_041acebf_convert_.pdf-0016-05.png)
 
 
 Here 
@@ -391,13 +391,13 @@ _T_ is absolute temperature, K;
 _Tc_ , _H_ 2 _O_ is the critical temperature of water (647.096 K), where 
 
 
-![](_images/One-Pot Synthesis of Carbon-Based Composite Foams with Tailorable Structure_images/_temp_3a95c60c_convert_.pdf-0016-10.png)
+![](_temp_041acebf_convert__images/_temp_041acebf_convert_.pdf-0016-10.png)
 
 
 and 
 
 
-![](_images/One-Pot Synthesis of Carbon-Based Composite Foams with Tailorable Structure_images/_temp_3a95c60c_convert_.pdf-0016-12.png)
+![](_temp_041acebf_convert__images/_temp_041acebf_convert_.pdf-0016-12.png)
 
 
 This air was then passed through a bed of absorbent material for analysis of water uptake. 
@@ -415,7 +415,7 @@ The parameters from _π_ 0 to _π_ 9 used to calculate the relative vapor pressu
 The temperature dependence of the saturated water vapor pressure, expressed in Pa, is given by the Wexler equation [60]: 
 
 
-![](_images/One-Pot Synthesis of Carbon-Based Composite Foams with Tailorable Structure_images/_temp_3a95c60c_convert_.pdf-0016-18.png)
+![](_temp_041acebf_convert__images/_temp_041acebf_convert_.pdf-0016-18.png)
 
 
 The values of the coefficients _g_ 0– _g_ 7 can be found in Table 2: 
@@ -444,7 +444,7 @@ _Buildings_ **2026** , _16_ , 56
 The concentration of water vapor in moist air, expressed in mg/cm[3] , is given by the relation: 
 
 
-![](_images/One-Pot Synthesis of Carbon-Based Composite Foams with Tailorable Structure_images/_temp_3a95c60c_convert_.pdf-0017-03.png)
+![](_temp_041acebf_convert__images/_temp_041acebf_convert_.pdf-0017-03.png)
 
 
 where: 
@@ -458,7 +458,7 @@ _R_ —universal gas constant [Pa _·_ m[3] /mol _·_ K]
 The graphical representation of the dependence between relative vapor pressure and CaCl2 concentration is shown in Figure 9. 
 
 
-![](_images/One-Pot Synthesis of Carbon-Based Composite Foams with Tailorable Structure_images/_temp_3a95c60c_convert_.pdf-0017-09.png)
+![](_temp_041acebf_convert__images/_temp_041acebf_convert_.pdf-0017-09.png)
 
 
 **Figure 9.** Time-resolved relative mass change (%) of the absorbent material during exposure to sub-saturated water vapor at 25 _[◦]_ C. Experimental data (red triangles) are fitted with an exponential decay model (black curve), indicating rapid initial uptake followed by saturation. Model parameters: A_1 = 114.87 _±_ 1.46, t_1 = _−_ 116.32 _±_ 1.31, y_0 = 60.37 _±_ 1.47; R[2] = 0.99871. 
@@ -494,7 +494,7 @@ Collectively, the results confirm that Foam C3, with its high CaCl2 content and 
 As can be seen in Figure 10, during the first 35 min of stabilization, there is a decrease in the absorbance value (recorded absorbance curve) 1. This is probably due to the adsorption of acetic acid on the inner walls of the reactor and its dissolution in the silicone grease used to seal the valves and window gaskets. 
 
 
-![](_images/One-Pot Synthesis of Carbon-Based Composite Foams with Tailorable Structure_images/_temp_3a95c60c_convert_.pdf-0018-10.png)
+![](_temp_041acebf_convert__images/_temp_041acebf_convert_.pdf-0018-10.png)
 
 
 **----- Start of picture text -----**<br>
@@ -502,7 +502,7 @@ Acetic acid removal<br> Recorded Absorbance 1.7<br>2.0  Corrected Absorbance<br>
 
 
 
-![](_images/One-Pot Synthesis of Carbon-Based Composite Foams with Tailorable Structure_images/_temp_3a95c60c_convert_.pdf-0018-11.png)
+![](_temp_041acebf_convert__images/_temp_041acebf_convert_.pdf-0018-11.png)
 
 
 **----- Start of picture text -----**<br>
@@ -510,11 +510,11 @@ Acetic acid removal<br> Recorded Absorbance 1.7<br>2.0  Corrected Absorbance<br>
 
 
 
-![](_images/One-Pot Synthesis of Carbon-Based Composite Foams with Tailorable Structure_images/_temp_3a95c60c_convert_.pdf-0018-12.png)
+![](_temp_041acebf_convert__images/_temp_041acebf_convert_.pdf-0018-12.png)
 
 
 
-![](_images/One-Pot Synthesis of Carbon-Based Composite Foams with Tailorable Structure_images/_temp_3a95c60c_convert_.pdf-0018-13.png)
+![](_temp_041acebf_convert__images/_temp_041acebf_convert_.pdf-0018-13.png)
 
 
 **----- Start of picture text -----**<br>
@@ -534,7 +534,7 @@ _Buildings_ **2026** , _16_ , 56
 (~1730 cm _[−]_[1] ) during stabilization and early reaction. Silicone grease is composed of polydimethylsiloxane and amorphous silicon dioxide as a thickening agent. The dissolution process is diffusion-limited. After powder release at 35 min, the absorption phase begins, with corrected absorbance (black circles) and fitted curve (blue line) indicating active uptake and reaction progression; After 35 min, the powder was released into the gas cell. During absorption, the following reaction takes place: 
 
 
-![](_images/One-Pot Synthesis of Carbon-Based Composite Foams with Tailorable Structure_images/_temp_3a95c60c_convert_.pdf-0019-03.png)
+![](_temp_041acebf_convert__images/_temp_041acebf_convert_.pdf-0019-03.png)
 
 
 Strong gas absorption occurs in the first 5 min, after which absorption is limited by the diffusion of the gas into the solid porous mass. Water vapor and the formed CO2 are adsorbed onto the porous carbon; for this reason, the characteristic CO2 band does not appear in the FTIR spectra. Overall, the foam’s performance supports its applicability in dehumidification systems, moisture control in packaging, and passive climate regulation technologies, offering a scalable and eco-friendly solution for vapor-phase water capture. 
@@ -586,11 +586,11 @@ To minimize water vapor condensation during gas recirculation, the acetic acid s
 Gas circulation was maintained using a diaphragm-type micropump over a 120 min period. Once the system was sealed, 80 mg of foam was introduced into the cell, and FTIR spectra were collected at 300 s intervals for a total duration of 65 min. A schematic representation of the experimental setup is provided in Figure A1: 
 
 
-![](_images/One-Pot Synthesis of Carbon-Based Composite Foams with Tailorable Structure_images/_temp_3a95c60c_convert_.pdf-0021-10.png)
+![](_temp_041acebf_convert__images/_temp_041acebf_convert_.pdf-0021-10.png)
 
 
 
-![](_images/One-Pot Synthesis of Carbon-Based Composite Foams with Tailorable Structure_images/_temp_3a95c60c_convert_.pdf-0021-11.png)
+![](_temp_041acebf_convert__images/_temp_041acebf_convert_.pdf-0021-11.png)
 
 
 **----- Start of picture text -----**<br>
@@ -610,11 +610,11 @@ SEM Figure A2 illustrates the morphological changes in the foams following water
 The SEM image clearly reveals the development of open porosity after washing, confirming that the foam architecture can be tuned to yield either closed or open pores depending on the treatment conditions. 
 
 
-![](_images/One-Pot Synthesis of Carbon-Based Composite Foams with Tailorable Structure_images/_temp_3a95c60c_convert_.pdf-0022-04.png)
+![](_temp_041acebf_convert__images/_temp_041acebf_convert_.pdf-0022-04.png)
 
 
 
-![](_images/One-Pot Synthesis of Carbon-Based Composite Foams with Tailorable Structure_images/_temp_3a95c60c_convert_.pdf-0022-05.png)
+![](_temp_041acebf_convert__images/_temp_041acebf_convert_.pdf-0022-05.png)
 
 
 **----- Start of picture text -----**<br>
@@ -622,11 +622,11 @@ C1<br>**----- End of picture text -----**<br>
 
 
 
-![](_images/One-Pot Synthesis of Carbon-Based Composite Foams with Tailorable Structure_images/_temp_3a95c60c_convert_.pdf-0022-06.png)
+![](_temp_041acebf_convert__images/_temp_041acebf_convert_.pdf-0022-06.png)
 
 
 
-![](_images/One-Pot Synthesis of Carbon-Based Composite Foams with Tailorable Structure_images/_temp_3a95c60c_convert_.pdf-0022-07.png)
+![](_temp_041acebf_convert__images/_temp_041acebf_convert_.pdf-0022-07.png)
 
 
 **----- Start of picture text -----**<br>

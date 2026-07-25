@@ -1,0 +1,5 @@
+515: \[9, 10, 11\].
+520: mặt riêng thấp (SBET ≤ 150 m²/g ở cùng điều kiện) \[9, 10, 12\].
+1546: môi bị định hướng cố định quanh kén cellulose \[9, 46\].
+1602: cứng”) mạng lưới polyme thành trạng thái tủa trắng rắn chắc \[9, 46\].
+1621: lưới hydrogel cellulose trước khi tiến hành sấy thăng hoa \[9, 24\].

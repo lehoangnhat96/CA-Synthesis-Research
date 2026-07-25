@@ -1,0 +1,325 @@
+﻿---
+─É├│ng g├│p ─æß╗Öt ph├í cß╗ºa luß║¡n v─ân nß║▒m ß╗ƒ viß╗çc ti├¬n phong ß╗⌐ng dß╗Ñng hß╗ç chß║Ñt kß║┐t d├¡nh lai **Composite Binder (Chitosan + 0.5% Nafion)**. Hß╗ç vß║¡t liß╗çu n├áy tß║ío ra c╞í chß║┐ "mß╗Å neo k├⌐p": Chitosan ─æ├│ng vai tr├▓ bß║»t giß╗» (chelate h├│a) l├ám gi├áu nß╗ông ─æß╗Ö chß║Ñt ph├ón t├¡ch tß║íi bß╗ü mß║╖t, trong khi Nafion ─æ├│ng vai tr├▓ "r├óy kß╗╡ n╞░ß╗¢c" chß╗æng b├ím bß║⌐n hß╗»u c╞í (antifouling). Sß╗▒ cß╗Öng h╞░ß╗ƒng giß╗»a khung x╞░╞íng dß║½n ─æiß╗çn si├¬u xß╗æp Fe/N-CA v├á m├áng sinh hß╗ìc lai n├áy ─æ├ú gi├║p cß║úm biß║┐n ─æß║ít ─æ╞░ß╗úc giß╗¢i hß║ín ph├ít hiß╗çn si├¬u vß║┐t (LOD) ß╗ƒ ng╞░ß╗íng $ppb$ cho kim loß║íi nß║╖ng ($Pb^{2+}, Cd^{2+}$) bß║▒ng kß╗╣ thuß║¡t SWASV, v├á ng╞░ß╗íng $\mu M$ cho Paracetamol bß║▒ng kß╗╣ 
+---
+```mermaid
+graph TD
+    Root["Carbon Aerogel tß╗½ X╞í Dß╗½a"] --> ORR["X├║c t├íc Redox / ORR (Kß║┐ thß╗½a: 85 - 90%)"]
+    Root --> Supercap["Si├¬u tß╗Ñ ─æiß╗çn / T├¡ch n─âng l╞░ß╗úng (Kß║┐ thß╗½a: 75 - 85%)"]
+    Root --> Adsorb["Hß║Ñp phß╗Ñ m├┤i tr╞░ß╗¥ng (Kß║┐ thß╗½a: 60 - 70%)"]
+    Root --> Insulation["C├ích nhiß╗çt / Thß║Ñm dß║ºu (Kß║┐ thß╗½a: 35 - 40%)"]
+    
+    ORR --> ORR1["Fe-Nx Active Sites"]
+    ORR --> ORR2["Rß╗¡a Acid Leaching"]
+    ORR --> ORR3["Phß╗ò XPS / Raman / EIS"]
+    
+    Supercap --> SC1["─Éß╗Ö rß╗ùng BET / Porosity"]
+    Supercap --> SC2["Doping N (Urea/NH3)"]
+    Supercap --> SC3["CV / EIS baseline"]
+    
+    Adsorb --> AD1
+---
+### Giai ─æoß║ín 2: Sol-Gel & Si├¬u ├óm (NHΓéäOH/Urea/HΓééO)
+*   **Th├┤ng tin cß║ºn t├¼m tß╗½ t├ái liß╗çu kh├íc:**
+    *   *Tß╗½ h╞░ß╗¢ng Si├¬u tß╗Ñ / ORR:* C╞í chß║┐ h├▓a tan v├á ph├ón t├ín cellulose trong hß╗ç dung m├┤i lß║ính $NH_4OH/Urea$. Viß╗çc khß╗æng chß║┐ nhiß╗çt ─æß╗Ö si├¬u ├óm bß║»t buß╗Öc $\le 10^\circ\text{C}$ gi├║p triß╗çt ti├¬u nhiß╗çt ph├ít ra tß╗½ ─æß║ºu ph├ít, giß╗» kh├¡ NHΓéâ h├▓a tan trong pha lß╗Ång v├á bß║úo to├án cß║Ñu tr├║c bao thß╗â (inclusion complex - IC).
+    *   *Tß╗½ h╞░ß╗¢ng Review / L├╜ thuyß║┐t:* ─Éß╗Öng hß╗ìc tß╗▒ lß║»p r├íp (Dynamic Self-Assembly) chß╗ë ra Urea kh├┤ng gß║»n trß╗▒c tiß║┐p l├¬n x╞í dß╗½a m├á tß║ío lß╗¢p vß╗Å hydrate bao bß╗ìc kiß╗üm-cellulose ng─ân t├íi kß║┐t tß╗Ñ. Vß╗Å bß╗ìc n├áy
+---
+### Giai ─æoß║ín 6 & 7: Doping Sß║»t (Post-impregnation), Leaching & Annealing lß║ºn 2
+*   **Th├┤ng tin cß║ºn t├¼m tß╗½ t├ái liß╗çu kh├íc:**
+    *   *Tß╗½ h╞░ß╗¢ng X├║c t├íc ORR / X├║c t├íc Fenton:* Quy tr├¼nh tß║⌐m muß╗æi sß║»t ($FeCl_3\cdot 6H_2O$ 1-5% w/v trong ethanol) v├á sß╗▒ h├¼nh th├ánh li├¬n kß║┐t phß╗æi tr├¡ Fe-NΓéô (─æß║╖c biß╗çt l├á Fe-NΓéä single-atom sites) sau khi nung lß║íi ß╗ƒ $800^\circ\text{C}$.
+    *   *C╞í chß║┐ rß╗¡a acid (Acid Leaching) bß║▒ng HCl 0.5M:* Loß║íi bß╗Å sß║»t tß╗▒ do/sß║»t oxit kh├┤ng hoß║ít ─æß╗Öng ─æiß╗çn h├│a ─æß╗â lß╗Ö c├íc t├óm hoß║ít ─æß╗Öng Fe-NΓéä. Lß╗▒a chß╗ìn HCl (acid kh├┤ng oxy h├│a) gi├║p bß║úo to├án cß║Ñu tr├║c graphite h├│a sp┬▓ v├á giß╗» trß╗ƒ kh├íng chuyß╗ân ─æi
+---
+### Giai ─æoß║ín 8: Chß║┐ tß║ío ─æiß╗çn cß╗▒c & ─Éo ─æiß╗çn h├│a
+*   **Th├┤ng tin cß║ºn t├¼m tß╗½ t├ái liß╗çu kh├íc:**
+    *   *Tß╗½ h╞░ß╗¢ng Si├¬u tß╗Ñ:* Ph├⌐p ─æo CV (Cyclic Voltammetry) trong dung dß╗ïch chuß║⌐n $[Fe(CN)_6]^{3-/4-}$ ─æß╗â t├¡nh to├ín diß╗çn t├¡ch bß╗ü mß║╖t ─æiß╗çn h├│a hoß║ít ─æß╗Öng ($A_{ECSA}$) cß╗ºa ─æiß╗çn cß╗▒c carbon aerogel. Ph├⌐p ─æo trß╗ƒ kh├íng ─æiß╗çn h├│a (EIS) ─æß╗â ─æß╗æi chiß║┐u ─æiß╗çn trß╗ƒ chuyß╗ân ─æiß╗çn t├¡ch ($R_{ct}$) - ─æß║╖c tr╞░ng cho ─æß╗Ö dß║½n ─æiß╗çn cß╗ºa lß╗¢p biß║┐n t├¡nh.
+    *   *Tß╗½ h╞░ß╗¢ng Hß║Ñp phß╗Ñ kim loß║íi nß║╖ng:* Khß║ú n─âng t╞░╞íng th├¡ch c╞í hß╗ìc cß╗ºa m├áng biß║┐n t├¡nh tr├¬n nß╗ün Glassy Carbon (GCE) khi sß╗¡ dß╗Ñng hß╗ç **Composite Binder (Chitosan + 0.5% Nafion)**. Hß╗ç n
+---
+| STT | T├¡nh chß║Ñt vß║¡t liß╗çu | Ph╞░╞íng ph├íp ph├ón t├¡ch | Gi├í trß╗ï ─æß║╖c tr╞░ng ß╗ƒ c├íc h╞░ß╗¢ng kh├íc ─æß╗â ─æß╗æi chiß║┐u | C├ích bß║ín sß╗¡ dß╗Ñng th├┤ng tin n├áy trong nghi├¬n cß╗⌐u cß║úm biß║┐n |
+| :---: | :--- | :---: | :--- | :--- |
+| 1 | **Diß╗çn t├¡ch bß╗ü mß║╖t ri├¬ng & Cß║Ñu tr├║c xß╗æp** | **BET / BJH** | $SSA > 300\text{ m}^2/\text{g}$. Cß║Ñu tr├║c xß╗æp ph├ón cß║Ñp gß╗ôm cß║ú micropore ($<2\text{ nm}$), mesopore ($2-50\text{ nm}$) v├á macropore ($>50\text{ nm}$). <br>*─Éß╗æi chiß║┐u th├¬m:* composite ZrO2/CS/rGOA c├│ $SSA \approx 193.86\text{ m}^2/\text{g}$ (giß║úm nhß║╣ so vß╗¢i rGOA th├┤ $239.16\text{ m}^2/\text{g}$ do hß║ít oxit v├á polymer chiß║┐m chß╗ù nh╞░ng 
+---
+1.  **Tß╗½ kh├│a t├¼m kiß║┐m h╞░ß╗¢ng Si├¬u tß╗Ñ ─æiß╗çn (Supercapacitors):**
+    *   *Tiß║┐ng Anh:* `"coconut coir" OR "coir fiber" AND "carbon aerogel" AND "supercapacitor"`
+    *   *Dß╗» liß╗çu cß║ºn tr├¡ch xuß║Ñt:* Gi├í trß╗ï diß╗çn t├¡ch bß╗ü mß║╖t ri├¬ng BET cao nhß║Ñt ─æß║ít ─æ╞░ß╗úc l├á bao nhi├¬u? Gi├í trß╗ï ─æiß╗çn dung ri├¬ng ($F/g$), giß║ún ─æß╗ô trß╗ƒ kh├íng ─æiß╗çn h├│a (EIS) ─æß╗â l├ám mß╗æc ─æß╗æi chiß║┐u ─æß╗Ö dß║½n ─æiß╗çn.
+2.  **Tß╗½ kh├│a t├¼m kiß║┐m h╞░ß╗¢ng X├║c t├íc ─Éiß╗çn h├│a (Redox Catalyst / ORR):**
+    *   *Tiß║┐ng Anh:* `"biomass carbon aerogel" OR "coconut coir carbon" AND "ORR" AND "single atom iron" OR "Fe-N-C"`
+    *   *Dß╗» liß╗çu cß║ºn tr├¡ch xuß║Ñt:* C├ích xß╗¡ l├╜ mß║½u b
+---
+4. **Tß╗æi ╞░u h├│a ─æiß╗çn cß╗▒c:** Tß╗▒ tß║ío mß║íng dß║½n ─æiß╗çn 3D liß╗ün mß║ích tß╗æt h╞ín dß║íng bß╗Öt than hoß║ít t├¡nh rß╗¥i rß║íc, ─æß╗ông thß╗¥i tß╗▒ cß║Ñp t├¡nh thß║Ñm ╞░ß╗¢t (hydrophilic) gi├║p bß╗Å qua b╞░ß╗¢c tiß╗ün xß╗¡ l├╜ acid ─æß╗Öc hß║íi (HNO3) ß╗ƒ kh├óu l├ám ─æiß╗çn cß╗▒c.
+---
+*   *Ghi ch├║ ─Éß╗æi chß╗⌐ng:* ─É├óy l├á bß╗Ö th├┤ng sß╗æ **chuß║⌐n mß╗▒c** ─æß╗â chiß║┐t t├ích v├á tr╞░╞íng nß╗ƒ vi sß╗úi x╞í dß╗½a, ─æ╞░ß╗úc minh chß╗⌐ng vß╗»ng chß║»c bß╗ƒi c├íc t├ái liß╗çu tß╗½ ─ÉH B├ích Khoa TP.HCM (*Synthesis of Cellulose Aerogels from Coir Fibers, Green Fabrication of Bio-based Aerogels...*). Nhiß╗çt ─æß╗Ö hß║í xuß╗æng 80┬░C (thay v├¼ 90┬░C) gi├║p bß║úo vß╗ç t├¡nh vß║╣n to├án cß╗ºa cß║Ñu tr├║c sß╗úi.
+---
+## G─É 2 ΓÇö Tß╗öNG Hß╗óP SOL-GEL & ─É├üNH SI├èU ├éM
+---
+| Pha dung m├┤i | NHΓéâ ΓåÆ Urea (cho tß╗½ tß╗½ ─æß║┐n tan) ΓåÆ HΓééO | **TUYß╗åT ─Éß╗ÉI KH├öNG** d├╣ng NaOH thay NHΓéâ. |
+| Cho cellulose | Cho v├áo sau c├╣ng, bß╗ìc k├¡n bß║▒ng m├áng thß╗▒c phß║⌐m | Tr├ính NHΓéâ bay h╞íi. |
+| ─É├ính si├¬u ├óm | 30 ph├║t, pulse 2s on / 1s off | Ph├ón t├ín ─æß╗ông nhß║Ñt cellulose. |
+| Kiß╗âm so├ít nhiß╗çt | Ice bath Γëñ 10┬░C (╞░u ti├¬n 0ΓÇô5┬░C) | **Bß║«T BUß╗ÿC** ΓÇö Nß║┐u > 10┬░C, NHΓéâ bay h╞íi ΓåÆ mß║Ñt nguß╗ôn N ΓåÆ XPS N at% thß║Ñp. |
+| Dß║Ñu hiß╗çu ─æß║ít | Sol ─æß╗ông nhß║Ñt, kh├┤ng c├▓n sß╗úi x╞í th├┤ | Nß║┐u ch╞░a ─æß║ít ΓåÆ t─âng thß╗¥i gian si├¬u ├óm nh╞░ng giß╗» T Γëñ 10┬░C. |
+| Bß║úo quß║ún sol | 0ΓÇô5┬░C / 24h trong tß╗º lß║ính | Bß║úo quß║ún ß╗ƒ trß║íng th├íi sol lß║ính (0ΓÇô5┬░C) ─æ├│ng vai
+---
+> **Failure mode:** Nß║┐u NHΓéâ bay h╞íi khi si├¬u ├óm ΓåÆ nß╗ông ─æß╗Ö N-doping giß║úm ΓåÆ XPS N at% < 3% ΓåÆ t├¡n hiß╗çu ─æiß╗çn h├│a yß║┐u. Lu├┤n giß╗» ice bath v├á bß╗ìc k├¡n.
+---
+*   **C╞í chß║┐ h├▓a tan & N-doping:** Hß╗ç dung m├┤i ph├ón cß╗▒c amoniac/urea ß╗ƒ nhiß╗çt ─æß╗Ö thß║Ñp gi├║p h├▓a tan cellulose. Bß║»t buß╗Öc giß╗» nhiß╗çt ─æß╗Ö si├¬u ├óm lß║ính ($\le 10^\circ\text{C}$) ─æß╗â tr├ính tho├ít kh├¡ amoniac (NHΓéâ), qua ─æ├│ bß║úo to├án l╞░ß╗úng tiß╗ün chß║Ñt nit╞í ─æß╗â tß╗▒ doping (self-doping) v├áo mß║íng carbon ß╗ƒ b╞░ß╗¢c nhiß╗çt ph├ón sau n├áy. ─Éß╗ông thß╗¥i hß╗ç NHΓéâ/Urea gi├║p giß║ú thuyß║┐t chuyß╗ân h├│a tinh thß╗â tß╗½ Cellulose I sang Cellulose III (bß╗ün nhiß╗çt), bß║úo vß╗ç cß║Ñu tr├║c lß╗ù xß╗æp tß╗ò ong kh├┤ng bß╗ï sß╗Ñp ─æß╗ò khi nung.
+---
+*   **─Éß╗Öng hß╗ìc Tß╗▒ lß║»p r├íp (Dynamic Self-Assembly):** Theo nghi├¬n cß╗⌐u c╞í bß║ún cß╗ºa *Cai et al. (2008)*, ph├ón t├¡ch ┬╣Γü╡N NMR v├á TEM x├íc nhß║¡n Urea kh├┤ng gß║»n kß║┐t trß╗▒c tiß║┐p v├áo chuß╗ùi cellulose m├á chß╗ë ß╗ƒ dß║íng hydrate bao bß╗ìc b├¬n ngo├ái kiß╗üm-cellulose tß║ío phß╗⌐c hß╗úp bao thß╗â (inclusion complex - IC) ng─ân t├íi kß║┐t tß╗Ñ. Qu├í tr├¼nh h├▓a tan cellulose diß╗àn ra thuß║¡n lß╗úi ß╗ƒ nhiß╗çt ─æß╗Ö thß║Ñp nhß╗¥ sß╗▒ tß╗▒ lß║»p r├íp cß║Ñu tr├║c bao thß╗â ß╗òn ─æß╗ïnh n├áy. Nhß╗»ng nghi├¬n cß╗⌐u thß╗▒c nghiß╗çm nhiß╗çt ─æß╗Öng hß╗ìc tß╗½ hß╗ç dung m├┤i kiß╗üm/urea chuß║⌐n chß╗ë ra phß║ún ß╗⌐ng tß║ío phß╗⌐c chß║Ñt bao thß╗â l├á phß║ún ß╗⌐ng tß╗Åa nhiß╗çt mß║ính, do ─æ├│ ╞░u ti├¬n diß╗àn ra ß╗ƒ nhiß╗çt ─æß╗Ö rß║Ñt thß║Ñp. ─Éiß╗üu
+---
+> *   **Vß║Ñn ─æß╗ü biß╗çn luß║¡n:** Tß║íi sao luß║¡n v─ân chß╗ìn hß╗ç dung m├┤i NHΓéâ/Urea thay v├¼ hß╗ç chuß║⌐n mß╗▒c NaOH/Urea vß╗æn rß║Ñt phß╗ò biß║┐n trong c├┤ng nghiß╗çp h├▓a tan cellulose?
+---
+> *   **Diß╗àn giß║úi suy luß║¡n:** Nß║┐u d├╣ng NaOH/Urea, NaOH kh├┤ng cung cß║Ñp nguß╗ôn Nit╞í n├áo. Khi ─æem nung, carbon aerogel thu ─æ╞░ß╗úc sß║╜ l├á carbon thuß║ºn, dß║½n ─æiß╗çn k├⌐m v├á thiß║┐u c├íc t├óm khuyß║┐t tß║¡t ─æiß╗çn h├│a (active sites). Bß║▒ng c├ích thay NaOH bß║▒ng NHΓéâ (Amoniac), quy tr├¼nh ─æß║ít "1 m┼⌐i t├¬n tr├║ng 2 ─æ├¡ch": vß╗½a tß║ío m├┤i tr╞░ß╗¥ng kiß╗üm h├▓a tan cellulose, vß╗½a t├¡ch hß╗úp N-doping (tß║ío C-N, C=N in-situ). H╞ín nß╗»a, viß╗çc phß╗æi hß╗úp **─æ├ính si├¬u ├óm xung (Pulse 2s on/1s off) v├á ng├óm Ice bath** giß║úi quyß║┐t triß╗çt ─æß╗â vß║Ñn ─æß╗ü sinh nhiß╗çt cß╗ºa s├│ng si├¬u ├óm, gi├║p ng─ân NHΓéâ bay h╞íi v├á kh├┤ng ph├í vß╗í vß╗Å bß╗ìc Urea bß║úo vß╗ç cß╗ºa ─æß╗Öng hß╗ìc tß╗▒ lß║»p r├íp.
+---
+> *   **Bß║úo vß╗ç tiß╗ün chß║Ñt Nit╞í:** ─É├ính si├¬u ├óm bß║▒ng kß╗╣ thuß║¡t Pulse (2s on/1s off) ng├óm trong bß╗â ─æ├í (Ice bath) kh├┤ng chß╗ë gi├║p h├▓a tan nhanh cellulose m├á c├▓n l├á biß╗çn ph├íp triß╗çt ─æß╗â khß╗æng chß║┐ ├íp suß║Ñt h╞íi cß╗ºa NHΓéâ. Viß╗çc "─æ├│ng b─âng" sß╗▒ bay h╞íi n├áy bß║úo tß╗ôn tß╗æi ─æa l╞░ß╗úng Nit╞í dß╗ôi d├áo trong mß║íng l╞░ß╗¢i gel, chuß║⌐n bß╗ï cho qu├í tr├¼nh N-doping (tß║ío li├¬n kß║┐t C-N, C=N) ß╗ƒ giai ─æoß║ín nhiß╗çt ph├ón, l├á ch├¼a kh├│a ─æß╗â ─æß║ít mß║¡t ─æß╗Ö Pyridinic-N cao.
+---
+*   **Kß╗╣ thuß║¡t Pulse Si├¬u ├óm (2s on / 1s off) & Bß╗â ─æ├í:** T├ái liß╗çu gß╗æc (Fauziyah 2020) chß╗ë ─æß╗ü cß║¡p ─æ├ính si├¬u ├óm 30 ph├║t. Viß╗çc bß╗ò sung chß║┐ ─æß╗Ö xung (pulse) v├á ng├óm bß╗â ─æ├í lß║ính li├¬n tß╗Ñc l├á mß╗Öt sß╗▒ tß╗æi ╞░u h├│a thß╗▒c tß║┐ xuß║Ñt sß║»c nhß║▒m khß╗æng chß║┐ ├íp suß║Ñt h╞íi cß╗ºa Amoniac, tr├ính bay h╞íi NH3 do sinh nhiß╗çt cß╗Ñc bß╗Ö. ─Éiß╗üu n├áy bß║úo to├án l╞░ß╗úng Nit╞í tß╗æi ─æa trong gel cho qu├í tr├¼nh N-doping.
+---
+> *   **Diß╗àn giß║úi suy luß║¡n:** Nhß╗¥ thao t├íc cß╗æ t├¼nh giß╗» lß║íi mß╗Öt phß║ºn lignin cß╗⌐ng ß╗ƒ Giai ─æoß║ín 1, kß║┐t hß╗úp vß╗¢i viß╗çc sß╗úi x╞í dß╗½a Bß║┐n Tre ─æ├ú "chß╗º ─æß╗Öng" co ng├│t ─æ╞░ß╗¥ng k├¡nh 14-24% tr╞░ß╗¢c khi h├▓a tan, khung gel cellulose thu ─æ╞░ß╗úc c├│ vai tr├▓ nh╞░ mß╗Öt bß╗Ö "cß╗æt th├⌐p tß╗▒ nhi├¬n" cß╗▒c kß╗│ vß╗»ng ch├úi. Ch├¡nh sß╗▒ kß║┐t d├¡nh bß╗ün vß╗»ng n├áy gi├║p khß╗æi monolith c├│ khß║ú n─âng chß╗æng chß╗ïu sß╗▒ thay ─æß╗òi thß╗â t├¡ch ─æß╗Öt ngß╗Öt d╞░ß╗¢i ├íp suß║Ñt ch├ón kh├┤ng cao, giß╗» ─æß╗Ö co r├║t to├án khß╗æi thß║Ñp v├á nguy├¬n khß╗æi h├¼nh trß╗Ñ (kh├┤ng m├│p m├⌐o).
+---
+| Mß║½u | T_target | L├╜ do |
+|---|---:|---|
+| **N-CA** | **700┬░C** | Giß╗» nhiß╗üu pyridinic-N (ph├ón hß╗ºy ß╗ƒ T > 800┬░C). ─Éß╗º cho DPV paracetamol. |
+| **Fe/N-CA** (nß╗ün) | **800┬░C** | T─âng graphitization ΓåÆ t─âng ─æß╗Ö dß║½n ΓåÆ nß╗ün tß╗æt cho Fe-NΓéô. |
+---
+*   **─Éß╗Ö graphit h├│a (Graphitization) vs. T├¡nh thß║Ñm ╞░ß╗¢t ─æiß╗çn cß╗▒c (Wettability):** C├│ mß╗Öt sß╗▒ ─æ├ính ─æß╗òi (trade-off) quan trß╗ìng khi nung. Theo *Thomas et al. (2022)* `[ACS Appl. Nano Mater., 2022, 5, 6, 7954-7966, DOI: 10.1021/acsanm.2c01033]`, nhiß╗çt ─æß╗Ö carbon h├│a thß║Ñp dß║½n ─æß║┐n carbon chß╗º yß║┐u v├┤ ─æß╗ïnh h├¼nh vß╗¢i diß╗çn t├¡ch bß╗ü mß║╖t ri├¬ng ($S_{BET}$) v├á ─æß╗Ö dß║½n ─æiß╗çn thß║Ñp. Ng╞░ß╗úc lß║íi, nhiß╗çt ─æß╗Ö carbon h├│a qu├í cao ($> 900^\circ\text{C}$) l├ám ph├ón hß╗ºy c├íc nh├│m chß╗⌐c chß╗⌐a oxy ph├ón cß╗▒c tr├¬n bß╗ü mß║╖t, l├ám t─âng g├│c tiß║┐p x├║c (contact angle) cß╗ºa giß╗ìt n╞░ß╗¢c l├¬n tß╗¢i $139^\circ$, tß║ío t├¡nh kß╗╡ n╞░ß╗¢c mß║ính (*hydrophobic carbon*)
+---
+> *   **Diß╗àn giß║úi suy luß║¡n:** Viß╗çc chia chß║╖ng giß╗» nhiß╗çt ß╗ƒ $150^\circ\text{C}$ v├á $400^\circ\text{C}$ l├á mß╗Öt sß╗▒ suy luß║¡n biß╗çn chß╗⌐ng ─æß╗â "h├▓a ho├ún" vß╗¢i c├íc ─æiß╗âm ph├ón hß╗ºy tß╗¢i hß║ín. $150^\circ\text{C}$ cho ph├⌐p l╞░ß╗úng n╞░ß╗¢c (ß║⌐m) cuß╗æi c├╣ng tho├ít ra tß╗½ tß╗½ m├á kh├┤ng "s├┤i s├╣ng sß╗Ñc". $400^\circ\text{C}$ tß║ío khoß║úng ─æß╗çm thß╗¥i gian ─æß╗º d├ái ─æß╗â c├íc bß╗ìt kh├¡ tß╗½ sß╗▒ nß╗⌐t g├úy mß║ích v├▓ng cellulose tho├ít ra dß║ºn dß║ºn, ─æß╗ïnh h├¼nh hß╗ç mesopore tr╞ín tru m├á kh├┤ng l├ám sß║¡p v├ích mao quß║ún. Bß║▒ng chiß║┐n l╞░ß╗úc h├úm tß╗æc ─æß╗Ö v├á chia chß║╖ng n├áy, ta kiß╗âm so├ít ─æ╞░ß╗úc ch├¡nh x├íc tß╗╖ lß╗ç micro/mesopore, duy tr├¼ nguy├¬n vß║╣n h├¼nh th├íi monolith cß╗ºa aerogel.
+---
+| Th├┤ng sß╗æ | ─Éiß╗üu kiß╗çn | Mß╗Ñc ─æ├¡ch & L╞░u ├╜ |
+|---|---|---|
+| Tiß╗ün chß║Ñt | FeClΓéâ┬╖6HΓééO (MWΓÇ»=ΓÇ»270.3ΓÇ»g┬╖molΓü╗┬╣) | Tan tß╗æt trong ethanol; tr├ính d├╣ng n╞░ß╗¢c v├¼ Fe(OH)Γéâ sß║╜ kß║┐t tß╗ºa. |
+| Dung m├┤i | Ethanol (100ΓÇ»% nguy├¬n chß║Ñt) | ─Éß║úm bß║úo m├┤i tr╞░ß╗¥ng kß╗╜ n╞░ß╗¢c cho carbon aerogel ─æ├ú carbon ho├í. |
+| Nß╗ông ─æß╗Ö Fe khß║úo s├ít | **1ΓÇ»%**, **2ΓÇ»%**, **5ΓÇ»%** (0.048ΓÇ»g, 0.097ΓÇ»g, 0.242ΓÇ»g FeClΓéâ┬╖6HΓééOΓÇ»/ΓÇ»g mß║½u) | Khß║úo s├ít tß╗æi ╞░u ho├í ─æß╗Ö nß║íp Fe; 2ΓÇ»% ─æ╞░ß╗úc thß╗¡ nghiß╗çm ─æß╗â ─æ├ính gi├í ß║únh h╞░ß╗ƒng tß╗¢i FeΓÇæNΓéô. |
+| 30ΓÇ»ph├║t ─æß║ºu | Si├¬u ├óm nhß║╣ (40ΓÇ»kHz, 30ΓÇ»W) | ─Éß║⌐y Fe┬│Γü║ v├áo mao quß║ún ban ─æß║ºu. |
+| Thß╗¥i gian c├▓n lß║íi | Khuß║Ñy chß║¡m, 24ΓÇ»h (25ΓÇ»rpm) | Cho Fe┬│Γü║ kh
+---
+*   **C╞í chß║┐ phß╗æi tr├¡ bß╗ü mß║╖t (C╞í chß║┐ neo - Anchoring):** Ion kim loß║íi chuyß╗ân tiß║┐p (nh╞░ Fe┬│Γü║) khi ─æ╞░ß╗úc h├▓a tan trong dung m├┤i cß╗ôn sß║╜ dß╗à d├áng thß║⌐m thß║Ñu s├óu v├áo v├ích lß╗ù xß╗æp cß╗ºa khß╗æi N-doped carbon aerogel (─æ├ú h├¼nh th├ánh tß╗½ G─É 5). Tß║íi ─æ├óy, cß║Ñu h├¼nh orbital trß╗æng cß╗ºa ion kim loß║íi nhanh ch├│ng t├¼m ─æß║┐n v├á phß╗æi tr├¡ trß╗▒c tiß║┐p vß╗¢i c├íc cß║╖p electron tß╗▒ do cß╗ºa c├íc vß╗ï tr├¡ nit╞í khuyß║┐t tß║¡t, ─æß║╖c biß╗çt l├á nh├│m **pyridinic-N** c├│ mß║¡t ─æß╗Ö electron v├á ─æß╗Ö ├óm ─æiß╗çn cao. Sß╗▒ phß╗æi tr├¡ n├áy tß║ío ra c├íc tiß╗ün chß║Ñt li├¬n kß║┐t $M-N$ (nh╞░ Fe-N hoß║╖c Co-N) bß╗ün chß║╖t b├ím tr├¬n bß╗ü mß║╖t mao quß║ún, ─æ├│ng vai tr├▓ l├á "mß╗Å neo" vß╗»ng chß║»c cho c├íc t
+---
+> *   **Dß╗» kiß╗çn nß╗ün tß║úng:** Vß║¡t liß╗çu Carbon Aerogel sau khi nung ß╗ƒ G─É 5 ─æ├ú bß╗ï carbon h├│a n├¬n to├án bß╗Ö mß║íng l╞░ß╗¢i bß╗ü mß║╖t mang t├¡nh kß╗╡ n╞░ß╗¢c (hydrophobic) rß║Ñt mß║ính, ─æß║⌐y l├╣i n╞░ß╗¢c cß║Ñt. Ng╞░ß╗úc lß║íi, Cß╗ôn (Ethanol) l├á dung m├┤i c├│ sß╗⌐c c─âng bß╗ü mß║╖t rß║Ñt thß║Ñp v├á thß║Ñm ╞░ß╗¢t cß╗▒c tß╗æt c├íc cß║Ñu tr├║c kß╗╡ n╞░ß╗¢c.
+---
+> *   **Diß╗àn giß║úi suy luß║¡n:** Nß║┐u d├╣ng n╞░ß╗¢c cß║Ñt ─æß╗â h├▓a tan FeClΓéâ, lß╗▒c mao quß║ún ├óm v├á t├¡nh kß╗╡ n╞░ß╗¢c cß╗ºa bß╗ü mß║╖t carbon sß║╜ cß║ún trß╗ƒ dung dß╗ïch ─æi v├áo trong c├íc mao quß║ún nhß╗Å (micro/mesopore). Bß║▒ng biß╗çn luß║¡n thß╗▒c tiß╗àn h├│a l├╜, viß╗çc sß╗¡ dß╗Ñng Ethanol tuyß╗çt ─æß╗æi gi├║p dung dß╗ïch muß╗æi sß║»t dß╗à d├áng thß║Ñm ╞░ß╗¢t bß╗ü mß║╖t, "len lß╗Åi" mao dß║½n v├áo s├óu tß║¡n c├╣ng hß╗ç thß╗æng lß╗ù xß╗æp ph├ón cß║Ñp cß╗ºa carbon aerogel, ─æß║úm bß║úo ─æß╗Ö ph├ón t├ín sß║»t ─æß║ít mß╗⌐c ─æß╗Ö nguy├¬n tß╗¡ (atomic dispersion) cao nhß║Ñt c├│ thß╗â.
+---
+| Th├┤ng sß╗æ | ─Éiß╗üu kiß╗çn | Mß╗Ñc ─æ├¡ch |
+|---|---|---|
+| Acid | HCl 0.5M | H├▓a tan Fe metallic, FeΓéâC, Fe oxide. Lß╗▒a chß╗ìn HCl (axit kh├┤ng oxy h├│a) gi├║p loß║íi bß╗Å sß║»t tß╗▒ do/oxit sß║»t m├á kh├┤ng g├óy phß║ún ß╗⌐ng oxy h├│a h├│a hß╗ìc l├ám hß╗Ång mß║íng carbon sp┬▓ li├¬n hß╗úp. Viß╗çc tr├ính c├íc axit oxy h├│a mß║ính nh╞░ $HNO_3$ hay $H_2SO_4$ ─æß║╖c gi├║p bß║úo to├án cß║Ñu tr├║c graphite dß║½n ─æiß╗çn cao, giß╗» cho ─æiß╗çn trß╗ƒ truyß╗ün ─æiß╗çn t├¡ch ($R_{ct}$) cß╗ºa cß║úm biß║┐n GCE ß╗ƒ mß╗⌐c tß╗æi thiß╗âu. ─Éß╗ông thß╗¥i, sß╗▒ nhiß╗àm ─æß╗Öc ion Cl- l├á kh├┤ng ─æ├íng kß╗â ─æß╗æi vß╗¢i cß║úm biß║┐n ─æiß╗çn h├│a pha lß╗Ång (─æo trong m├┤i tr╞░ß╗¥ng ─æß╗çm chß╗⌐a clorua) so vß╗¢i c├íc ß╗⌐ng dß╗Ñng pin ORR pha kh├¡. |
+| Nhi
+---
+*   **Nung Annealing (Kh├┤i phß╗Ñc cß║Ñu tr├║c & Ho├án thiß╗çn t├óm x├║c t├íc):** Sau khi rß╗¡a axit n├│ng suß╗æt 8 giß╗¥, hß╗ç thß╗æng mao quß║ún cß╗ºa carbon aerogel bß╗ï ─ân m├▓n bß╗ü mß║╖t nhß║Ñt ─æß╗ïnh v├á sinh ra nhiß╗üu khuyß║┐t tß║¡t. Viß╗çc nung lß║íi (annealing) lß║ºn 2 ß╗ƒ 800┬░C l├á thß╗º thuß║¡t bß║»t buß╗Öc ─æß╗â kh├óu h├án (heal) lß║íi mß║íng l╞░ß╗¢i carbon sp┬▓. ─É├íng ch├║ ├╜, qu├í tr├¼nh nung n├áy c├▓n tß║ío ra c├íc vi khuyß║┐t tß║¡t (defects) mß╗¢i c├│ t├¡nh ─æß╗ïnh h╞░ß╗¢ng, gi├║p ─æiß╗üu chß╗ënh lß║íi cß║Ñu tr├║c ─æiß╗çn tß╗¡ (electronic structure) cß╗ºa c├íc nguy├¬n tß╗¡ Fe trong t├óm phß╗æi tr├¡ FeN4. H╞ín thß║┐ nß╗»a, nhiß╗çt ─æß╗Ö cao k├¡ch hoß║ít sß╗▒ t├íi tß╗ò chß╗⌐c cß╗ºa c├íc cß╗Ñm Fe ch╞░a phß╗æi tr├¡ hß║┐t, trß╗▒c tiß║┐p h
+---
+> *   **Diß╗àn giß║úi suy luß║¡n:** Tuy nhi├¬n, ß╗⌐ng dß╗Ñng cß╗ºa luß║¡n v─ân l├á "Cß║úm biß║┐n ─Éiß╗çn h├│a" ─æo trß╗▒c tiß║┐p kim loß║íi nß║╖ng/Paracetamol trong pha lß╗Ång. Dung dß╗ïch nß╗ün ─æß╗â ─æo ─æiß╗çn h├│a lß║íi l├á c├íc bß╗Ö ─æß╗çm chß╗⌐a sß║╡n nß╗ông ─æß╗Ö muß╗æi rß║Ñt cao (v├¡ dß╗Ñ KCl 0.1M hoß║╖c PBS). Ngh─⌐a l├á cß║úm biß║┐n n├áy vß╗æn ─æ├ú phß║úi hoß║ít ─æß╗Öng "b╞íi lß╗Öi" trong m├┤i tr╞░ß╗¥ng ngß║¡p tr├án ion clorua. Bß║▒ng suy luß║¡n phß║ún biß╗çn logic n├áy, luß║¡n v─ân tß╗▒ tin b├íc bß╗Å nß╗ùi lo "ngß╗Ö ─æß╗Öc clorua" v├á khß║│ng ─æß╗ïnh viß╗çc sß╗¡ dß╗Ñng HCl l├á tß╗æi ╞░u nhß║Ñt cß║ú vß╗ü mß║╖t an to├án thao t├íc (tr├ính ch├íy nß╗ò khi d├╣ng $HClO_4$ ─æun n├│ng vß╗¢i carbon hß╗»u c╞í) lß║½n hiß╗çu quß║ú bß║úo vß╗ç ─æß╗Ö dß║½n ─æiß╗çn cß╗ºa mß║íng graph
+---
+> *   **Kh├┤i phß╗Ñc Mß║íng dß║½n ─æiß╗çn sp2 (Giß║úm Rct):** Viß╗çc ß╗º nhiß╗çt lß║íi (annealing) ß╗ƒ 800┬░C trong kh├¡ N2 c├│ t├íc dß╗Ñng k├⌐p. Ngo├ái viß╗çc l├ám bay h╞íi c├íc oxide sß║»t ($Fe_2O_3, Fe_3O_4$) v├á hß║ít nano Fe tß╗▒ do d╞░ thß╗½a ─æ├ú bß╗ï t├ích khß╗Åi mß║íng l╞░ß╗¢i sau tß║⌐y acid nhß║▒m giß║úi ph├│ng thß╗â t├¡ch lß╗ù xß╗æp si├¬u nhß╗Å, qu├í tr├¼nh n├áy c├▓n tß║ío ra n─âng l╞░ß╗úng t├íi lß║¡p trß║¡t tß╗▒ (Graphit h├│a cß╗Ñc bß╗Ö). N├│ h├án gß║»n c├íc "khuyß║┐t tß║¡t qu├í mß╗⌐c" (over-defects) do dung dß╗ïch HCl g├óy ra tr├¬n viß╗ün tß║Ñm graphene, tß╗½ ─æ├│ phß╗Ñc hß╗ôi lß║íi mß║íng l╞░ß╗¢i li├¬n kß║┐t ─æ├┤i sp┬▓. Hß╗ç quß║ú trß╗▒c tiß║┐p l├á giß║úm mß║ính ─æiß╗çn trß╗ƒ truyß╗ün ─æiß╗çn t├¡ch ($R_{ct}$) tr├¬n phß╗ò EIS, tß║ío ─æiß╗üu kiß╗çn 
+---
+> *   **Nghß╗ïch l├╜ Fe3C (Fuel Cell vs Biosensor):** Trong ß╗⌐ng dß╗Ñng Pin nhi├¬n liß╗çu (ORR), sß╗▒ tß╗ôn tß║íi cß╗ºa tinh thß╗â FeΓéâC th╞░ß╗¥ng bß╗ï coi l├á "bß║Ñt lß╗úi" v├¼ n├│ k├¡ch hoß║ít c╞í chß║┐ khß╗¡ oxy 2-electron sinh ra HΓééOΓéé ph├í hß╗ºy m├áng Nafion. Tuy nhi├¬n, vß╗¢i mß╗Ñc ti├¬u cß╗ºa luß║¡n v─ân l├á **Cß║úm biß║┐n ─æiß╗çn h├│a** (─æo Dopamine/Paracetamol bß║▒ng ph╞░╞íng ph├íp oxy h├│a anß╗æt DPV/SWASV), sß╗▒ c├│ mß║╖t cß╗ºa FeΓéâC ─æ╞░ß╗úc bß╗ìc trong vß╗Å graphit lß║íi l├á mß╗Öt lß╗úi thß║┐ tuyß╗çt ─æß╗æi! T├¡nh chß║Ñt kim loß║íi cß╗ºa FeΓéâC tß║ío ra c├íc "trß║ím trung chuyß╗ân" electron si├¬u tß╗æc, gi├║p giß║úm mß║ính ─æiß╗çn trß╗ƒ truyß╗ün ─æiß╗çn t├¡ch ($R_{ct}$) v├á khuß║┐ch ─æß║íi d├▓ng t├¡n hiß╗çu ph├ón t├¡ch. Viß╗çc tr
+---
+*   **Biß╗çn luß║¡n b├íc bß╗Å hiß╗çu ß╗⌐ng ngß╗Ö ─æß╗Öc Clorua:** Tß╗▒ x├óy dß╗▒ng lß║¡p luß║¡n so s├ính ch├⌐o ─æiß╗üu kiß╗çn hoß║ít ─æß╗Öng giß╗»a Pin nhi├¬n liß╗çu pha kh├¡ (─æ├▓i hß╗Åi si├¬u sß║ích) v├á Cß║úm biß║┐n ─æiß╗çn h├│a pha lß╗Ång (chß╗⌐a sß║╡n ─æß╗çm muß╗æi) ─æß╗â "minh oan" cho viß╗çc sß╗¡ dß╗Ñng dung m├┤i HCl rß╗¡a axit trong quy tr├¼nh tß╗òng hß╗úp Fe/N-CA. ─É├óy l├á g├│c nh├¼n hß╗ìc thuß║¡t phß║ún biß╗çn (critical thinking) rß║Ñt ─æ├íng gi├í trong b├ío c├ío biß╗çn luß║¡n luß║¡n v─ân.
+---
+**Mß╗Ñc ─æ├¡ch:** Chuyß╗ân vß║¡t liß╗çu bß╗Öt CA th├ánh ─æiß╗çn cß╗▒c l├ám viß╗çc, ─æ├ính gi├í hiß╗çu n─âng ph├ón t├¡ch.
+---
+| B╞░ß╗¢c | ─Éiß╗üu kiß╗çn | Mß╗Ñc ─æ├¡ch |
+|---|---|---|
+| M├ái | AlΓééOΓéâ 0.05 ┬╡m, h├¼nh sß╗æ 8, 2 ph├║t ├ù 2 lß║ºn | L├ám sß║ích + tß║ío bß╗ü mß║╖t mß╗¢i. |
+| Si├¬u ├óm | DI water 1 min ├ù 3 + Ethanol 1 min ├ù 1 | Loß║íi bß╗Ñi AlΓééOΓéâ. |
+| Loß║íi AlΓééOΓéâ d╞░ | NaOH 0.1 M + anodize +1.8 V / 10 s | ΓÇö |
+| Kiß╗âm tra | CV 3 chu kß╗│, 5.0 mM KΓéâFe(CN)Γéå / 0.1 M KCl, 50 mV/s | ╬öE_p < 70 mV, I_pa/I_pc = 0.95ΓÇô1.05. |
+---
+| Th├┤ng sß╗æ | ─Éiß╗üu kiß╗çn | L╞░u ├╜ |
+|---|---|---|
+| C├ón carbon | 5.0 mg ┬▒ 0.01 mg bß╗Öt Fe/N-CA | Sß╗¡ dß╗Ñng bß╗Öt ─æ├ú qua r├óy < 75 ┬╡m ─æß╗â tr├ính tß║»c nghß║╜n mao quß║ún. |
+| Dung m├┤i | 950 ┬╡L DMF (HPLC grade) | **Vai tr├▓ ph├ón t├ín:** DMF c├│ hß║▒ng sß╗æ ─æiß╗çn m├┤i cao (36.7) v├á bay h╞íi chß║¡m, gi├║p hß║ít carbon aerogel ph├ón t├ín ─æß╗üu kh├┤ng bß╗ï v├│n cß╗Ñc, tr├ính hiß╗çu ß╗⌐ng v├▓ng c├á ph├¬ (coffee-ring) khi kh├┤. |
+| Binder | 50 ┬╡L dung dß╗ïch composite binder (Chitosan + 0.5 wt% Nafion pha trong DMF) | **C├ích pha chß║┐:** Pha lo├úng Nafion 5% th╞░╞íng mß║íi th├ánh Nafion 0.5% bß║▒ng DMF (tß╗╖ lß╗ç 1:9 thß╗â t├¡ch), sau ─æ├│ phß╗æi trß╗Ön vß╗¢i dung dß╗ïch Chitosan
+---
+### 8d. Screening 4 vß║¡t liß╗çu (CV, EIS, ECSA, SWASV s╞í bß╗Ö)
+---
+| Ph├⌐p ─æo | Dung dß╗ïch | Th├┤ng sß╗æ | Ti├¬u ch├¡ Pass |
+|---|---|---|---|
+| **CV** | 5.0 mM KΓéâFe(CN)Γéå / 0.1 M KCl | 50 mV/s, 5 chu kß╗│ | Ip t─âng ΓëÑ 30%, ╬öE_p giß║úm so vß╗¢i bare GCE |
+| **EIS** | 5.0 mM KΓéâFe(CN)Γéå / 0.1 M KCl | 100 kHz ΓåÆ 0.1 Hz, 10 mV, E_dc = 0.22 V | R_ct giß║úm ΓëÑ 30% so vß╗¢i bare GCE |
+| **ECSA** | 0.1 M HΓééSOΓéä | 25ΓÇô200 mV/s | T├¡nh C_dl ΓåÆ ECSA |
+| **SWASV s╞í bß╗Ö** | Pb┬▓Γü║ + Cd┬▓Γü║ 100 ppb, acetate pH 4.5 | E_dep = ΓÇô1.1 V, t_dep = 120 s, 25 Hz | T├ích peak ╬öE_p ΓëÑ 100 mV, RSD < 8% |
+---
+| Th├┤ng sß╗æ | Khoß║úng khß║úo s├ít | Gi├í trß╗ï khß╗ƒi ─æß║ºu |
+|---|---|---|
+| pH dung dß╗ïch nß╗ün | 3.5ΓÇô6.0 (acetate buffer) | 4.5 |
+| Thß║┐ lß║»ng khß╗¡ (E_dep) | ΓÇô0.8 V ─æß║┐n ΓÇô1.4 V vs. Ag/AgCl | ΓÇô1.2 V |
+| Thß╗¥i gian lß║»ng khß╗¡ (t_dep) | 60ΓÇô240 s (khuß║Ñy 400 rpm) | 180 s |
+| SW frequency | 10ΓÇô100 Hz | 25 Hz |
+| SW amplitude | 10ΓÇô50 mV | 50 mV |
+| Step potential | 2ΓÇô10 mV | 5 mV |
+---
+### 8f. Ph├ón t├¡ch Paracetamol (DPV) ΓÇö B├ái Q3/Q4
+---
+| Th├┤ng sß╗æ | Khoß║úng khß║úo s├ít | Gi├í trß╗ï khß╗ƒi ─æß║ºu |
+|---|---|---|
+| pH dung dß╗ïch nß╗ün | 5.0ΓÇô8.0 (PBS) | 7.0 |
+| Pulse amplitude | 10ΓÇô75 mV | 50 mV |
+| Pulse width | 10ΓÇô100 ms | 50 ms |
+| Step potential | 2ΓÇô10 mV | 5 mV |
+---
+- **LOD mß╗Ñc ti├¬u:** < 0.05 ┬╡M (Benchmark tuyß╗çt vß╗¥i ─æß║ít: 0.0303 ┬╡M [N-CMOS DPV Paracetamol])
+---
+| Chß╗ë ti├¬u | Ph╞░╞íng ph├íp | Ti├¬u ch├¡ |
+|---|---|---|
+| Repeatability | 1 ─æiß╗çn cß╗▒c ├ù 10 lß║ºn li├¬n tiß║┐p | RSD < 5% |
+| Reproducibility | 5 ─æiß╗çn cß╗▒c ─æß╗Öc lß║¡p, c├╣ng ─æiß╗üu kiß╗çn | RSD < 8% |
+| Stability | ─Éo lß║íi sau 0, 7, 14, 30 ng├áy (bß║úo quß║ún 4┬░C) | > 90% Ip sau 14 ng├áy |
+---
+*   **─Éß╗Öng hß╗ìc truyß╗ün ─æiß╗çn tß╗¡ v├á Sß╗▒ ph├ón t├ín hoß║ít chß║Ñt:** Phß╗ò tß╗òng trß╗ƒ ─æiß╗çn h├│a EIS ─æ├ính gi├í ─æß╗Öng hß╗ìc cß╗ºa bß╗ü mß║╖t ─æiß╗çn cß╗▒c th├┤ng qua gi├í trß╗ï ─æiß╗çn trß╗ƒ chuyß╗ân ─æiß╗çn t├¡ch ($R_{ct}$, t╞░╞íng ß╗⌐ng vß╗¢i ─æ╞░ß╗¥ng k├¡nh v├▓ng b├ín nguyß╗çt ß╗ƒ v├╣ng tß║ºn sß╗æ cao). Bß╗ü mß║╖t khung carbon graphit sp┬▓ tß╗½ aerogel ─æ╞░ß╗úc phß╗æi tr├¡ vß╗¢i sß║»t tß║ío ra c├íc "cß║ºu nß╗æi" truyß╗ün dß║½n electron si├¬u tß╗æc, gi├║p gi├í trß╗ï $R_{ct}$ giß║úm ─æß╗Öt ph├í so vß╗¢i ─æiß╗çn cß╗▒c bare GCE tr╞ín ban ─æß║ºu [S├ích_Analytical_Electrochemistry]. ß╗₧ ─æ├óy, cß║Ñu tr├║c mß║íng l╞░ß╗¢i rß╗ùng 3D cß╗ºa aerogel sinh khß╗æi tß╗▒ n├│ hoß║ít ─æß╗Öng nh╞░ mß╗Öt chß║Ñt mang ph├ón t├ín l├╜ t╞░ß╗ƒng. Theo nghi├¬n cß╗⌐u ─æß╗æi chß╗⌐ng cß╗º
+---
+*   **C╞í chß║┐ l├ám gi├áu Pre-concentration bß║▒ng Chitosan [29] (Hß╗ç Kim Loß║íi Nß║╖ng):** Khi ─æo KLN (Pb, Cd, Zn) bß║▒ng kß╗╣ thuß║¡t SWASV, dung dß╗ïch kß║┐t d├¡nh (binder) Chitosan 1% ─æ╞░ß╗úc sß╗¡ dß╗Ñng kh├┤ng chß╗ë ─æß╗â d├ín bß╗Öt carbon l├¬n ─æiß╗çn cß╗▒c m├á c├▓n ─æ├│ng vai tr├▓ l├á "nam ch├óm" h├│a hß╗ìc. C├íc nh├│m chß╗⌐c amine ($-NH_2$) v├á hydroxyl ($-OH$) tß╗▒ do tr├¬n mß║ích polymer cß╗ºa Chitosan chelate h├│a mß║ính vß╗¢i ion Pb┬▓Γü║, Cd┬▓Γü║, t├¡ch l┼⌐y ch├║ng chß║╖t chß║╜ tr├¬n bß╗ü mß║╖t ─æiß╗çn cß╗▒c trong giai ─æoß║ín lß║»ng khß╗¡ ($t_{dep}$), tß╗½ ─æ├│ ─æß║⌐y t├¡n hiß╗çu oxy h├│a h├▓a tan (stripping) vß╗ìt l├¬n cß╗▒c ─æß║íi, gi├║p hß║í ng╞░ß╗íng LOD xuß╗æng mß╗⌐c si├¬u vß║┐t. [Chitosan Nafion]
+---
+*   **M├áng chß╗æng b├ím bß║⌐n Antifouling bß║▒ng Nafion (Hß╗ç Paracetamol):** Khi ph├ón t├¡ch Paracetamol (thuß╗æc hß╗»u c╞í), Nafion ─æ├│ng vai tr├▓ l├á m├áng polyme trao ─æß╗òi cation chß╗⌐a mß║íng kß╗╡ n╞░ß╗¢c fluorocarbon v├á nh├│m sulfonate ph├ón cß╗▒c ├óm ($-\text{SO}_3^-$) mang ─æiß╗çn t├¡ch ├óm cß╗æ ─æß╗ïnh tr├¬n th├ánh mao quß║ún m├áng. Lß╗¢p phß╗º mß╗Ång n├áy hoß║ít ─æß╗Öng nh╞░ mß╗Öt "m├áng r├óy chß╗ìn lß╗ìc" chß╗æng b├ím bß║⌐n (antifouling) dß╗▒a tr├¬n **Hiß╗çu ß╗⌐ng loß║íi trß╗½ Donnan (Donnan exclusion effect)**. ß╗₧ pH ─æo tß╗æi ╞░u (pH 7.4), c├íc chß║Ñt cß║ún trß╗ƒ phß╗ò biß║┐n trong dß╗ïch sinh hß╗ìc l├á Ascorbic Acid ($pK_a = 4.17$) v├á Uric Acid ($pK_a = 5.4$) ─æß╗üu bß╗ï deproton h├│a ho├án t
+---
+*   **Chelate chß╗ìn lß╗ìc cß╗ºa Zirconium (─Éß╗ïnh h╞░ß╗¢ng mß╗ƒ rß╗Öng):** Sß╗▒ phß╗æi tr├¡ giß╗»a ion kim loß║íi v├á nh├│m ortho-hydroxyl tß║ío dß╗ï v├▓ng 5 cß║ính bß╗ün vß╗»ng c├│ t├¡nh chß╗ìn lß╗ìc rß║Ñt cao, v├á bß╗ï phß╗Ñ thuß╗Öc mß║ính v├áo pH ─æß╗çm (tß╗æt nhß║Ñt ß╗ƒ pH 6.0, pH kiß╗üm sß║╜ sinh $OH^-$ tß╗▒ do cß║ún trß╗ƒ phß╗æi tr├¡). [ZrO2 CS rGOA Luteolin DPV Sensor]
+---
+> *   **Vß║Ñn ─æß╗ü biß╗çn luß║¡n:** Tß║íi sao tr├¬n c├╣ng mß╗Öt vß║¡t liß╗çu nß╗ün Fe/N-CA, ta lß║íi phß║úi cß╗▒c nhß╗ìc pha 2 hß╗ç Mß╗▒c in (Ink) kh├íc nhau d├╣ng 2 loß║íi polyme d├ín (binder) ─æß╗æi nghß╗ïch (Chitosan v├á Nafion) cho hai b├ái to├ín ß╗⌐ng dß╗Ñng? Hoß║╖c liß╗çu c├│ thß╗â d├╣ng **Hß╗ç Binder Hß╗ùn hß╗úp (Composite Binder)**?
+---
+> *   **Dß╗» kiß╗çn nß╗ün tß║úng:** L├┤ 20 t├ái liß╗çu Analogical (tß╗½ c├íc t├ái liß╗çu tiß╗ün ─æß╗ü) ─æß╗ông loß║ít chß╗⌐ng minh viß╗çc sß╗¡ dß╗Ñng hß╗ç **Chitosan + 0.5% Nafion** phß╗º tr├¬n GCE mang lß║íi hiß╗çu ß╗⌐ng cß╗Öng gß╗Öp tuyß╗çt vß╗¥i cho cß║ú cß║úm biß║┐n hß╗»u c╞í (Luteolin, Paracetamol) v├á v├┤ c╞í (Kim loß║íi nß║╖ng). RAG Oracle (NotebookLM) c┼⌐ng ─æ├ú x├íc nhß║¡n ─æß╗Ö t╞░╞íng th├¡ch ho├án hß║úo cß╗ºa hß╗ç n├áy vß╗¢i SOP hiß╗çn tß║íi.
+---
+>     - Nß║┐u d├╣ng ri├¬ng rß║╜: **Chitosan** c├│ sß╗⌐c h├║t h├│a hß╗ìc thß╗Ñ ─æß╗Öng (chelate h├│a) tß╗æt cho Kim loß║íi nß║╖ng nh╞░ng dß╗à bß╗ï b├ím bß║⌐n (fouling). **Nafion** chß╗æng b├ím bß║⌐n tuyß╗çt vß╗¥i cho Paracetamol nh╞░ng lß║íi cß║ún trß╗ƒ qu├í tr├¼nh pre-concentration cß╗ºa ion d╞░╞íng.
+---
+>     - **Giß║úi ph├íp ─Éß╗Öt ph├í (Composite Binder):** Phß╗æi hß╗úp Chitosan v├á 0.5% Nafion tß║ío th├ánh m├áng polyme lai. Chitosan cung cß║Ñp bß╗Ö khung rß╗ùng chß╗⌐a nh├│m -NH2 / -OH ─æß╗â bß║½y ion (Pre-concentration chß╗º ─æß╗Öng), trong khi lß╗¢p m├áng Nafion mß╗Ång (0.5%) ─æ├│ng vai tr├▓ nh╞░ chiß║┐c r├óy lß╗ìc t─⌐nh ─æiß╗çn hoß║ít ─æß╗Öng qua **Hiß╗çu ß╗⌐ng loß║íi trß╗½ Donnan (Donnan exclusion effect)** ─æß║⌐y t─⌐nh ─æiß╗çn c├íc anion hß╗»u c╞í g├óy nhiß╗àu mang ─æiß╗çn ├óm ($AA, UA$) v├á tß║ío "bß╗Ö khi├¬n kß╗╡ n╞░ß╗¢c" xua ─æuß╗òi c├íc ph├ón tß╗¡ cß╗ông kß╗ünh b├ím rß╗à (antifouling).
+---
+>     - **Kß║┐t luß║¡n:** Hß╗ç Binder hß╗ùn hß╗úp `Chitosan + 0.5% Nafion` ch├¡nh l├á "ch├¼a kh├│a v├áng" gi├║p ─æiß╗çn cß╗▒c Fe/N-CA "c├ón" ─æ╞░ß╗úc cß║ú hai b├ái to├ín si├¬u vß║┐t v├┤ c╞í v├á hß╗»u c╞í m├á kh├┤ng cß║ºn phß║úi thay ─æß╗òi c├┤ng thß╗⌐c pha mß╗▒c in.
+---
+> *   **Tß╗Ñ hß╗Öi ─Éß║╖c t├¡nh (Convergence of Properties):** Quy tr├¼nh "k├⌐n nhß╗Öng" tß╗½ G─É 1 ─æß║┐n 7 ─æ├ú tß║ío ra vß║¡t liß╗çu Carbon Aerogel ─æß║ít t├¡nh si├¬u thß║Ñm ╞░ß╗¢t (Superhydrophilic) nhß╗¥ bß║úo l╞░u h├ái h├▓a nh├│m chß╗⌐c chß╗⌐a oxy v├á c├íc khiß║┐m khuyß║┐t Nit╞í. Nhß╗¥ ─æ├│, mß╗▒c (ink) cß║úm biß║┐n ph├ón t├ín ─æß╗ông nhß║Ñt tuyß╗çt vß╗¥i trong hß╗ç dung m├┤i (th╞░ß╗¥ng pha theo tß╗╖ lß╗ç kinh ─æiß╗ân: 80% vß║¡t liß╗çu hoß║ít t├¡nh, 10% chß║Ñt dß║½n ─æiß╗çn, 10% binder [Highly Porous Carbon...]) v├á kß║┐t hß╗úp vß╗¢i Binder (Chitosan/Nafion) tß║ío ─æß╗Ö b├ím d├¡nh cß╗▒c kß╗│ bß╗ün chß║»c l├¬n ─æiß╗çn cß╗▒c than k├¡nh (GCE). Sß╗▒ gß║»n kß║┐t n├áy gi├║p m├áng phim tr├ính ─æ╞░ß╗úc hiß╗çu ß╗⌐ng v├▓ng c├á ph├¬ (coffee-ring ef
+---
+| ╞»u ti├¬n | T├ái liß╗çu tham khß║úo ch├¡nh | Th╞░ mß╗Ñc |
+| :---: | :--- | :--- |
+| **1** | Biomass-Derived Carbon-Based Electrodes for Electrochemical Sensing... [90% kß║┐ thß╗½a, 10% suy luß║¡n] | `04_Cam_bien_Dien_hoa_Sinh_hoc` |
+| **2** | A screen-printed carbon electrode modified with a chitosan-based film... [95% kß║┐ thß╗½a, 5% suy luß║¡n] | `05_Cross_Linker_va_Tao_mang` |
+| **3** | Facile Synthesis of Fe-Doped Algae Residue-Derived Carbon... [90% kß║┐ thß╗½a, 10% suy luß║¡n] | `02_Doping_va_Gel_hoa` |
+| **4** | Analytical Electrochemistry (Joseph Wang) [100% kß║┐ thß╗½a, 0% suy luß║¡n] | `07_Giao_trinh_Ly_thuyet` |
+| 
+---
+*   **Mß╗⌐c kß║┐ thß╗½a:** ~95% (Kß║┐ thß╗½a chuß║⌐n mß╗▒c m├ái GCE, pha tß╗╖ lß╗ç DMF/Binder v├á c├íc c├┤ng thß╗⌐c ph├ón t├¡ch $R_{ct}$, $LOD$, $ECSA$).
+---
+*   **Tß╗æi ╞░u Loading Drop-cast:** Mß║╖c d├╣ kß║┐ thß╗½a ph╞░╞íng ph├íp nhß╗Å giß╗ìt, nh╞░ng tß║úi l╞░ß╗úng tß╗æi ╞░u (3, 5, hay 7 ┬╡L) phß╗Ñ thuß╗Öc triß╗çt ─æß╗â v├áo ─æß╗Ö xß╗æp v├á diß╗çn t├¡ch bß╗ü mß║╖t (BET) ─æß║╖c th├╣ cß╗ºa vß║¡t liß╗çu tß╗▒ tß╗òng hß╗úp. Quy tr├¼nh tß╗▒ chß╗º ─æß╗Öng s├áng lß╗ìc loading bß║▒ng ─æß╗ô thß╗ï $\Delta E_p$ v├á c╞░ß╗¥ng ─æß╗Ö ─æß╗ënh $I_{pa}$ qua ph├⌐p ─æo CV.
+---
+*   **Hß╗ç thß╗æng h├│a quy luß║¡t chß╗ìn Binder (Chitosan vs Nafion):** Lß║ºn ─æß║ºu ti├¬n ─æ├│ng g├│i viß╗çc ph├ón loß║íi polyme kß║┐t d├¡nh th├ánh mß╗Öt nguy├¬n l├╜ nß╗ün tß║úng thay v├¼ chß╗ë "bß║»t ch╞░ß╗¢c" mß╗Öt c├ích m├íy m├│c tß╗½ y v─ân. Lß║¡p luß║¡n r├╡ c╞í chß║┐ "L├ám gi├áu" vs "Chß╗æng b├ím bß║⌐n" ph├╣ hß╗úp vß╗¢i tß╗½ng chß║Ñt ph├ón t├¡ch.
+---
+| Giai ─æoß║ín | Dß╗» liß╗çu bß║»t buß╗Öc ghi nhß║¡n | Ti├¬u ch├¡ PASS | Nß║┐u FAIL |
+|---|---|---|---|
+| G─É 1 | % weight-loss (sß║Ñy 105┬░C) | C├│ dß╗» liß╗çu tr╞░ß╗¢c/sau | Kh├┤ng c├│ dß╗» liß╗çu gß╗æc ΓåÆ thiß║┐u Original Contribution |
+| G─É 2 | Nhiß╗çt ─æß╗Ö ice bath trong suß╗æt si├¬u ├óm | Sol ─æß╗ông nhß║Ñt, T Γëñ 10┬░C | T─âng thß╗¥i gian si├¬u ├óm, th├¬m ─æ├í |
+| G─É 3 | ß║ónh gel sau cß║Ñp ─æ├┤ng | Kh├┤ng nß╗⌐t, kh├┤ng sß╗Ñp | Tß╗æi ╞░u tß╗╖ lß╗ç ethanol exchange |
+| G─É 4 | H├¼nh dß║íng aerogel sau sß║Ñy | Mß║íng 3D, co r├║t thß║Ñp | Kiß╗âm tra cß║Ñp ─æ├┤ng ─æß╗º ch╞░a |
+| G─É 5 | Yield %, m├áu, ─æß╗Ö gi├▓n | ─Éen, gi├▓n, kh├┤ng bß╗ï ch├íy | Kiß╗âm tra purge NΓéé |
+| G─É 6 | L╞░ß╗úng FeClΓéâ c├ón, thß╗¥i gian n
+---
+> **Nß║┐u cß║ú 5 chß╗ë sß╗æ tr├¬n ─æß╗üu PASS** ΓåÆ vß║¡t liß╗çu ─æß╗º nß╗ün ─æß╗â chuyß╗ân sang tß╗æi ╞░u DPV/SWASV v├á x├óy dß╗▒ng phß║ºn Analytical Performance cho b├ái b├ío.
+---
+## 3.1. ─Éß║╖c tr╞░ng H├¼nh th├íi v├á Cß║Ñu tr├║c cß╗ºa Vß║¡t liß╗çu (Fe/N-CA)
+---
+### 3.1.1. H├¼nh th├íi bß╗ü mß║╖t v├á Cß║Ñu tr├║c vi m├┤ (SEM, TEM, BET)
+---
+**[Tr├¡ch xuß║Ñt v├á Biß╗çn luß║¡n]**
+*   **H├¼nh th├íi SEM / TEM:** Quan s├ít d╞░ß╗¢i k├¡nh hiß╗ân vi ─æiß╗çn tß╗¡ qu├⌐t (SEM), h├¼nh ß║únh dß╗▒ kiß║┐n cß╗ºa Fe/N-CA thß╗â hiß╗çn r├╡ sß╗▒ chuyß╗ân h├│a tß╗½ c├íc cß║Ñu tr├║c vi sß╗úi x╞í dß╗½a ban ─æß║ºu th├ánh mß╗Öt mß║íng l╞░ß╗¢i xß╗æp tß╗ò ong 3D (3D honeycomb-like structure) ─æan xen li├¬n tß╗Ñc. Mß║íng l╞░ß╗¢i lß╗ù xß╗æp ph├ón cß║Ñp n├áy ─æ╞░ß╗úc h├¼nh th├ánh trß╗▒c tiß║┐p nhß╗¥ sß╗▒ ph├ít triß╗ân ─æß╗ïnh h╞░ß╗¢ng tinh thß╗â ─æ├í cß╗ºa qu├í tr├¼nh cß║Ñp ─æ├┤ng chß║¡m ß╗ƒ $-15^\circ\text{C}$ ─æß║┐n $-20^\circ\text{C}$ (**Ice-templating**), tß║ío n├¬n c├íc r├únh xß╗æp v─⌐ m├┤ tß╗ò ong song song ─æß╗üu ─æß║╖n. 
+    ─Éß╗â bß║úo to├án mß║íng l╞░ß╗¢i xß╗æp 3D n├áy khi sß║Ñy th─âng hoa, qu├í tr├¼nh **trao
+---
+### 3.1.2. Ph├ón t├¡ch Cß║Ñu tr├║c Tinh thß╗â v├á Khuyß║┐t tß║¡t (XRD, Raman)
+---
+### 3.1.3. Ph├ón t├¡ch Th├ánh phß║ºn H├│a hß╗ìc v├á Trß║íng th├íi Li├¬n kß║┐t (XPS, FTIR)
+---
+**[Tr├¡ch xuß║Ñt v├á Biß╗çn luß║¡n]**
+*   **Ph├ón t├¡ch To├án phß╗ò v├á Th├ánh nguy├¬n tß╗æ:** Phß╗ò XPS (X-ray Photoelectron Spectroscopy) to├án dß║úi x├íc nhß║¡n sß╗▒ tß╗ôn tß║íi ─æß╗ông thß╗¥i cß╗ºa C, O, N v├á Fe. Tß╗╖ lß╗ç % nguy├¬n tß╗¡ (atomic %) kß╗│ vß╗ìng ─æß║ít: N chiß║┐m khoß║úng 3 - 6 at% v├á Fe chiß║┐m 0.4 - 1.5 at%. Tß╗╖ lß╗ç N/Fe d╞░ dß║ú (khoß║úng 4:1) l├á tiß╗ün ─æß╗ü bß║»t buß╗Öc ─æß╗â ─æß║úm bß║úo mß╗ùi nguy├¬n tß╗¡ sß║»t ─æß╗üu c├│ ─æß╗º nit╞í v├óy quanh tß║ío li├¬n kß║┐t.
+*   **Trß║íng th├íi Li├¬n kß║┐t (Phß╗ò Ph├ón giß║úi cao):** 
+    *   **N 1s:** Viß╗çc giß║úi chß║¡p phß╗ò (deconvolution) N 1s dß╗▒ kiß║┐n cho c├íc ─æß╗ënh ch├¡nh: Pyridinic-N (398.3 eV), Fe-N phß╗æi tr├¡ (399.1 eV), Pyrrolic-N (400.1 eV) v├á
+---
+## 3.2. T├¡nh chß║Ñt ─Éiß╗çn h├│a C╞í bß║ún cß╗ºa ─Éiß╗çn cß╗▒c Biß║┐n t├¡nh
+---
+─Éß╗â ─æ├ính gi├í chß║Ñt l╞░ß╗úng truyß╗ün dß║½n electron cß╗ºa m├áng vß║¡t liß╗çu biß║┐n t├¡nh so vß╗¢i ─æiß╗çn cß╗▒c nguy├¬n bß║ún, kß╗╣ thuß║¡t qu├⌐t thß║┐ v├▓ng tuß║ºn ho├án (CV) v├á phß╗ò tß╗òng trß╗ƒ ─æiß╗çn h├│a (EIS) ─æ╞░ß╗úc sß╗¡ dß╗Ñng tr├¬n nß╗ün dung dß╗ïch th─âm d├▓ ti├¬u chuß║⌐n $[Fe(CN)_6]^{3-/4-}$ 5 mM trong dung dß╗ïch ─æß╗çm nß╗ün KCl 0.1 M.
+---
+### 3.2.1. ─Éß╗Öng hß╗ìc truyß╗ün ─æiß╗çn tß╗¡ bß║▒ng Cyclic Voltammetry (CV)
+---
+**[Tr├¡ch xuß║Ñt v├á Biß╗çn luß║¡n]**
+*   **So s├ính D├▓ng ─æß╗ënh (Peak Current):** ─Éß╗ô thß╗ï CV dß╗▒ kiß║┐n cß╗ºa ─æiß╗çn cß╗▒c than k├¡nh tr╞ín (Bare GCE) sß║╜ c├│ ─æß╗ënh oxy h├│a/khß╗¡ kh├í do├úng. Khi ─æ╞░ß╗úc phß╗º lß╗¢p N-CA, d├▓ng ─æß╗ënh ($I_p$) t─âng mß║ính v├á h├¼nh d├íng peak sß║»c n├⌐t h╞ín. Tuy nhi├¬n, hiß╗çu n─âng ─æß║ít cß╗▒c ─æß║íi ß╗ƒ ─æiß╗çn cß╗▒c **Fe/N-CA/GCE**.
+*   **─Éß╗Ö ph├ón cß╗▒c ($\Delta E_p$):** Khoß║úng c├ích giß╗»a ─æiß╗çn thß║┐ ─æß╗ënh oxy h├│a v├á ─æß╗ënh khß╗¡ ($\Delta E_p$) l├á th╞░ß╗¢c ─æo ─æß╗Öng hß╗ìc thuß║¡n nghß╗ïch. Kß╗│ vß╗ìng $\Delta E_p$ cß╗ºa Bare GCE > 200 mV, nh╞░ng ß╗ƒ Fe/N-CA/GCE, gi├í trß╗ï n├áy sß║╜ thu hß║╣p lß║íi **$< 120 \text{ mV}$**, tiß║┐n gß║ºn tß╗¢i l├╜ thuyß║┐t cß╗ºa hß╗ç thuß║¡n nghß╗ïc
+---
+### 3.2.2. Phß╗ò Tß╗òng trß╗ƒ ─Éiß╗çn h├│a (EIS)
+---
+**[Tr├¡ch xuß║Ñt v├á Biß╗çn luß║¡n]**
+*   **─É╞░ß╗¥ng k├¡nh V├▓ng b├ín nguyß╗çt ($R_{ct}$):** Phß╗ò Nyquist (EIS) hiß╗ân thß╗ï v├╣ng tß║ºn sß╗æ cao dß║íng v├▓ng b├ín nguyß╗çt v├á tß║ºn sß╗æ thß║Ñp dß║íng ─æ╞░ß╗¥ng thß║│ng khuß║┐ch t├ín. ─É╞░ß╗¥ng k├¡nh v├▓ng b├ín nguyß╗çt ─æß║íi diß╗çn cho ─æiß╗çn trß╗ƒ chuyß╗ân ─æiß╗çn t├¡ch bß╗ü mß║╖t ($R_{ct}$). 
+*   **Biß╗çn luß║¡n so s├ính:** T╞░╞íng tß╗▒ nh╞░ CV, gi├í trß╗ï $R_{ct}$ dß╗▒ kiß║┐n sß╗Ñt giß║úm nghi├¬m trß╗ìng theo thß╗⌐ tß╗▒: Bare GCE $\gg$ N-CA/GCE > Fe/N-CA/GCE. Gi├í trß╗ï $R_{ct}$ si├¬u nhß╗Å cß╗ºa Fe/N-CA (kß╗│ vß╗ìng $< 100 \, \Omega$) giß║úi th├¡ch bß║▒ng hiß╗çn t╞░ß╗úng "hiß╗çp ─æß╗ông ─æiß╗çn tß╗¡" (electronic synergy). Khung graphit cung cß║Ñp cao tß╗æc dß║½n ─æiß╗çn sp┬▓, trong 
+---
+## 3.3. ß╗¿ng dß╗Ñng Ph├ón t├¡ch Vß║┐t Kim loß║íi nß║╖ng (Pb┬▓Γü║, Cd┬▓Γü║) bß║▒ng kß╗╣ thuß║¡t SWASV
+---
+Kß╗╣ thuß║¡t Voltammetry S├│ng Vu├┤ng H├▓a Tan Anß╗æt (SWASV) ─æ╞░ß╗úc ├íp dß╗Ñng. ─Éiß╗çn cß╗▒c biß║┐n t├¡nh ─æ╞░ß╗úc qu├⌐t hß╗ç **Composite Binder (Chitosan + 0.5% Nafion)** l├ám chß║Ñt kß║┐t d├¡nh v├á "mß╗Å neo k├⌐p" l├ám gi├áu (pre-concentration) ─æß╗ông thß╗¥i chß╗æng b├ím bß║⌐n.
+---
+### 3.3.1. Vai tr├▓ cß╗ºa th├ánh phß║ºn Chitosan trong Composite Binder v├á C╞í chß║┐ l├ám gi├áu
+**[Tr├¡ch xuß║Ñt v├á Biß╗çn luß║¡n]**
+*   Chitosan l├á mß╗Öt biopolyme tß╗▒ nhi├¬n gi├áu c├íc nh├│m chß╗⌐c mang ─æiß╗çn tß╗▒ do (chß╗º yß║┐u l├á $-NH_2$ v├á $-OH$). Khi ─æ╞░ß╗úc phß╗º l├¬n bß╗ü mß║╖t Fe/N-CA, mß║íng l╞░ß╗¢i Chitosan hoß║ít ─æß╗Öng nh╞░ mß╗Öt "nam ch├óm" h├│a hß╗ìc. Trong b╞░ß╗¢c lß║»ng khß╗¡ ($t_{dep}$), c├íc nh├│m chß╗⌐c n├áy tß║ío phß╗⌐c chelate mß║ính mß║╜ vß╗¢i c├íc ion Pb┬▓Γü║ v├á Cd┬▓Γü║, k├⌐o v├á giß╗» chß║╖t ch├║ng s├ít v├áo t├óm x├║c t├íc Fe-NΓéä. Ngo├ái ra, sß╗▒ hß║Ñp phß╗Ñ Paracetamol (PAR) l├¬n bß╗ü mß║╖t c┼⌐ng ─æ╞░ß╗úc t─âng c╞░ß╗¥ng ─æ├íng kß╗â nhß╗¥ t╞░╞íng t├íc lß╗▒c h├║t Van der Waals v├á xß║┐p chß╗ông v├▓ng th╞ím $
+---
+### 3.3.2. Tß╗æi ╞░u h├│a ─æiß╗üu kiß╗çn ph├ón t├¡ch
+**[Tr├¡ch xuß║Ñt v├á Biß╗çn luß║¡n]**
+*   **ß║ónh h╞░ß╗ƒng cß╗ºa pH:** Dung dß╗ïch ─æß╗çm Acetate (ABS) th╞░ß╗¥ng ─æ╞░ß╗úc chß╗ìn. Khß║úo s├ít tß╗½ pH 4.0 ─æß║┐n 6.0 cho thß║Ñy d├▓ng ─æß╗ënh ($I_p$) ─æß║ít tß╗æi ─æa ß╗ƒ pH 5.0. Nß║┐u pH qu├í thß║Ñp, proton ($H^+$) cß║ính tranh khß╗æc liß╗çt vß╗¢i ion kim loß║íi tr├¬n c├íc ─æiß╗âm b├ím. Nß║┐u pH qu├í cao (> 6.0), qu├í tr├¼nh thß╗ºy ph├ón tß║ío hydroxit kim loß║íi l├ám mß║Ñt ion tß╗▒ do.
+*   **─Éiß╗çn thß║┐ lß║»ng ($E_{dep}$) v├á Thß╗¥i gian lß║»ng ($t_{dep}$):** ─Éß║╖t ─æiß╗çn thß║┐ ├óm s├óu (v├¡ dß╗Ñ -1.2 V) trong thß╗¥i gian ─æß╗º d├ái (khoß║úng 120 - 180s) gi├║p khß╗¡ ho├án to├án $M^{2+} \rightarrow M^0$ t├¡ch tß╗Ñ tr├¬n bß╗ü mß║╖t.
+---
+### 3.3.3. Khoß║úng tuyß║┐n t├¡nh v├á Giß╗¢i hß║ín ph├ít hiß╗çn (LOD)
+**[Tr├¡ch xuß║Ñt v├á Biß╗çn luß║¡n]**
+*   Thß╗▒c hiß╗çn ─æo ─æß║íc ß╗ƒ c├íc nß╗ông ─æß╗Ö chuß║⌐n li├¬n tiß║┐p (ti├¬m lß║╖p lß║íi). ─Éß╗ô thß╗ï $I_p$ phß╗Ñ thuß╗Öc theo nß╗ông ─æß╗Ö (C) kß╗│ vß╗ìng cho ─æß╗Ö tuyß║┐n t├¡nh tuyß╗çt vß╗¥i ($R^2 > 0.99$) trong khoß║úng rß╗Öng (v├¡ dß╗Ñ tß╗½ 1 ppb ─æß║┐n 100 ppb).
+*   T├¡nh to├ín LOD dß╗▒a tr├¬n c├┤ng thß╗⌐c $3\sigma/S$ dß╗▒ kiß║┐n ─æß║ít **0.1 - 0.5 ppb** cho cß║ú Pb v├á Cd. Mß╗⌐c n├áy thß║Ñp h╞ín cß╗▒c nhiß╗üu so vß╗¢i ng╞░ß╗íng an to├án n╞░ß╗¢c uß╗æng cß╗ºa WHO (10 ppb cho Pb, 3 ppb cho Cd), chß╗⌐ng minh khß║ú n─âng cß║úm biß║┐n si├¬u vi l╞░ß╗úng cß╗ºa Fe/N-CA.
+---
+### 3.3.4. Khß║úo s├ít ─Éß╗Ö chß╗ìn lß╗ìc (Interference Study)
+**[Tr├¡ch xuß║Ñt v├á Biß╗çn luß║¡n]**
+*   Ti├¬m th├¬m c├íc ion ngoß║íi lai c├│ nß╗ông ─æß╗Ö gß║Ñp 10-50 lß║ºn (nh╞░ $Na^+, K^+, Ca^{2+}, Mg^{2+}, Zn^{2+}$). Sß╗▒ thay ─æß╗òi t├¡n hiß╗çu dß╗▒ kiß║┐n $\Delta I_p < 5\%$, khß║│ng ─æß╗ïnh t├¡nh ─æß║╖c hiß╗çu cao cß╗ºa ─æiß╗çn cß╗▒c ─æß╗æi vß╗¢i Pb/Cd trong ─æa sß╗æ ion phß╗ò biß║┐n. Tuy nhi├¬n, sß╗▒ xuß║Ñt hiß╗çn cß╗ºa ion ─æß╗ông (Cu┬▓Γü║) ß╗ƒ nß╗ông ─æß╗Ö cao l├á t├íc nh├ón nhiß╗àu nguy hiß╗âm nhß║Ñt ─æß╗æi vß╗¢i Pb┬▓Γü║ v├á Cd┬▓Γü║ do hiß╗çn t╞░ß╗úng cß║ính tranh t├óm chelate cß╗ºa Chitosan v├á sß╗▒ h├¼nh th├ánh hß╗úp chß║Ñt li├¬n kim loß║íi (intermetallic compounds Cu-Pb, Cu-Zn) g├óy m├⌐o m├│ v├á triß╗çt ti├¬u d├▓ng ─æß╗ënh. ─Éß╗â kiß╗â
+---
+## 3.4. ß╗¿ng dß╗Ñng Ph├ón t├¡ch Paracetamol (PAR) bß║▒ng kß╗╣ thuß║¡t DPV
+---
+Chuyß╗ân sang cß║Ñu h├¼nh ─æo hß╗úp chß║Ñt hß╗»u c╞í sinh hß╗ìc Paracetamol bß║▒ng Voltammetry Xung Vi ph├ón (DPV). Vß║½n sß╗¡ dß╗Ñng hß╗ç **Composite Binder (Chitosan + 0.5% Nafion)** ─æa n─âng m├á kh├┤ng cß║ºn thay thß║┐ ri├¬ng rß║╜.
+---
+### 3.4.1. Vai tr├▓ cß╗ºa th├ánh phß║ºn Nafion trong Composite Binder v├á C╞í chß║┐ Chß╗æng b├ím bß║⌐n
+**[Tr├¡ch xuß║Ñt v├á Biß╗çn luß║¡n]**
+*   Nafion l├á polyme chß╗⌐a khung perfluorocarbon kß╗╡ n╞░ß╗¢c v├á c├íc nh├│m sulfonate ph├ón cß╗▒c ├óm (ΓÇôSOΓéâΓü╗) mang ─æiß╗çn t├¡ch ├óm cß╗æ ─æß╗ïnh tr├¬n th├ánh mao quß║ún m├áng. Lß╗¢p phß╗º mß╗Ång n├áy hoß║ít ─æß╗Öng nh╞░ mß╗Öt "m├áng r├óy chß╗ìn lß╗ìc" chß╗æng b├ím bß║⌐n (antifouling) dß╗▒a tr├¬n **Hiß╗çu ß╗⌐ng loß║íi trß╗½ Donnan (Donnan exclusion effect)**. Theo l├╜ thuyß║┐t c├ón bß║▒ng m├áng Donnan, sß╗▒ hiß╗çn diß╗çn cß╗ºa c├íc ─æiß╗çn t├¡ch ├óm cß╗æ ─æß╗ïnh n├áy ng─ân cß║ún sß╗▒ th├óm nhß║¡p cß╗ºa c├íc ion c├╣ng dß║Ñu (anion) ─æi qua m├áng ─æß╗â duy tr├¼ t├¡nh trung h├▓a ─æiß╗çn t├¡ch. ß╗₧
+---
+### 3.4.2. Khß║úo s├ít Khoß║úng tuyß║┐n t├¡nh, LOD v├á ─Éß╗Ö chß╗ìn lß╗ìc
+**[Tr├¡ch xuß║Ñt v├á Biß╗çn luß║¡n]**
+*   **─Éo ─æ╞ín lß║╗:** T├¡n hiß╗çu oxy h├│a cß╗ºa Paracetamol tß╗╖ lß╗ç thuß║¡n vß╗¢i nß╗ông ─æß╗Ö tß╗½ 0.5 $\mu M$ ─æß║┐n 500 $\mu M$. Giß╗¢i hß║ín ph├ít hiß╗çn (LOD) kß╗│ vß╗ìng ─æß║ít ng╞░ß╗íng **0.05 - 0.5 $\mu M$**. ─Éß╗Ö nhß║íy ph├ón t├¡ch hß╗»u c╞í PAR ─æß║ít mß╗⌐c v╞░ß╗út trß╗Öi nhß╗¥ t╞░╞íng t├íc lß╗▒c h├║t Van der Waals v├á xß║┐p chß╗ông v├▓ng th╞ím $\pi-\pi$ (inter-molecular $\pi-\pi$ stacking) mß║ính mß║╜ giß╗»a v├▓ng benzene cß╗ºa PAR v├á mß║íng carbon sp2 dß║½n ─æiß╗çn cß╗ºa aerogel.
+*   **─Éo ─æß╗ông thß╗¥i (Simultaneous Detection):** Khi trß╗Ön lß║½n PAR vß╗¢i h├ám l╞░ß╗úng lß╗¢n AA v├á UA, ─æß╗ô thß╗ï DPV cß╗ºa ─æ
+---
+> **Tß╗öNG Kß║╛T PHß║ªN 3:**
+> Sß╗▒ kß║┐t hß╗úp giß╗»a bß╗Ö khung **Carbon Aerogel xß╗æp 3D** (chß╗æng nghß║╜n, dß║½n ─æiß╗çn sp┬▓) v├á t├óm x├║c t├íc **Fe-NΓéä** nguy├¬n tß╗¡ (─æß╗Öng hß╗ìc cß╗▒c mß║ính), c├╣ng ─æß╗Öt ph├í "mß╗Å neo k├⌐p" cß╗ºa hß╗ç **Composite Binder (Chitosan + 0.5% Nafion)** ─æ├ú tß║ío ra mß╗Öt hß╗ç platform cß║úm biß║┐n ─æiß╗çn h├│a ─æa dß╗Ñng ho├án hß║úo. C├╣ng mß╗Öt hß╗ç vß║¡t liß╗çu v├á chß║Ñt kß║┐t d├¡nh nh╞░ng ─æ├íp ß╗⌐ng xuß║Ñt sß║»c y├¬u cß║ºu khß║»t khe cß╗ºa cß║ú ph├ón t├¡ch v├┤ c╞í (m├┤i tr╞░ß╗¥ng) lß║½n hß╗»u c╞í (y sinh).
+---
+> **[≡ƒöä RAG-AGENTIC DEDUCTION: T╞░╞íng quan Phß╗ò Raman & XPS]**
+> Mß╗æi li├¬n kß║┐t giß╗»a phß╗ò Raman v├á XPS l├á ch├¼a kh├│a chß╗⌐ng minh bß║ún chß║Ñt x├║c t├íc ─æiß╗çn h├│a. Tß╗╖ lß╗ç c╞░ß╗¥ng ─æß╗Ö Id/Ig tr├¬n phß╗ò Raman tß║íi 800┬░C ─æß║ít mß╗⌐c c├ón bß║▒ng (~1.0 - 1.05) cho thß║Ñy kiß║┐n tr├║c vß║¡t liß╗çu vß╗½a c├│ ─æß╗Ö dß║½n ─æiß╗çn tß╗æt (─æß╗ënh G) vß╗½a chß╗⌐a l╞░ß╗úng lß╗¢n c├íc khiß║┐m khuyß║┐t vi m├┤ (─æß╗ënh D). C├íc khiß║┐m khuyß║┐t n├áy, qua ─æß╗æi chiß║┐u phß╗ò XPS v├╣ng N1s, ch├¡nh x├íc l├á c├íc t├óm Pyridinic-N v├á Pyrrolic-N nß║▒m ß╗ƒ r├¼a c├íc tß║Ñm graphene. Nhß╗¥ sß╗▒ khuyß║┐t tß║¡t c├│ chß╗º ─æ├¡ch n├áy, mß║íng carbon aerogel kh├┤ng phß║úi l├á c├íc tß║Ñm graphit tr╞í l├¼, m├á trß╗ƒ th├ánh mß╗Öt "tß║Ñm xß╗æp t├¡ch ─æiß╗çn" gi├║p
+---
+2. **Vß╗ü Cß║Ñu tr├║c Vß║¡t liß╗çu (Characterization):**
+   Qu├í tr├¼nh nhiß╗çt ph├ón 3 chß║╖ng kß║┐t hß╗úp tß║⌐m Fe v├á hß║¡u xß╗¡ l├╜ bß║▒ng HCl 0.5M n├│ng (Acid Leaching) ─æ├ú gi├║p l├ám sß║ích ho├án to├án c├íc cß╗Ñm nano Fe v├│n cß╗Ñc, chß╗ë ─æß╗â lß║íi c├íc t├óm hoß║ít ─æß╗Öng phß╗æi tr├¡ cß╗▒c nhß╗Å. Ph├ón t├¡ch XPS v├á phß╗ò tß╗òng trß╗ƒ EIS khß║│ng ─æß╗ïnh sß╗▒ h├¼nh th├ánh cß╗ºa t├óm x├║c t├íc Fe-NΓéä, mang lß║íi ─æß╗Ö dß║½n ─æiß╗çn sp┬▓ si├¬u viß╗çt v├á giß║úm thiß╗âu r├áo cß║ún truyß╗ün ─æiß╗çn t├¡ch (─æiß╗çn trß╗ƒ $R_{ct} < 100\,\Omega$).
+---
+3. **Vß╗ü ß╗¿ng dß╗Ñng ─Éiß╗çn h├│a (Application):**
+   Vß║¡t liß╗çu Fe/N-CA thß╗â hiß╗çn khß║ú n─âng t├╣y biß║┐n mß║ính mß║╜ khi hoß║ít ─æß╗Öng nh╞░ mß╗Öt nß╗ün tß║úng cß║úm biß║┐n (Platform Sensor):
+   - Chß║┐ tß║ío cß║úm biß║┐n ─æo kim loß║íi nß║╖ng ($Pb^{2+}, Cd^{2+}$) v├á Paracetamol dß╗▒a tr├¬n ─æß╗Öt ph├í cß╗ºa hß╗ç **Composite Binder (Chitosan + 0.5% Nafion)**.
+   - C╞í chß║┐ "mß╗Å neo k├⌐p" ph├ít huy xuß║Ñt sß║»c: Chitosan l├ám gi├áu (pre-concentration) gi├║p ─æß║ít giß╗¢i hß║ín ph├ít hiß╗çn si├¬u vß║┐t (ppb) cho v├┤ c╞í, trong khi Nafion tß║ío r├óy kß╗╡ n╞░ß╗¢c chß╗æng b├ím bß║⌐n (anti-fouling) xuß║Ñt sß║»c, loß║íi bß╗Å ho├án to├án nhiß╗àu sinh l├╜ hß╗ìc (AA, UA) cho hß╗»u c╞í.
+---
+## 4.2. ─É├│ng g├│p mß╗¢i cß╗ºa ─Éß╗ü t├ái
+Nghi├¬n cß╗⌐u mang lß║íi mß╗Öt sß╗æ ─æiß╗âm nhß║Ñn hß╗ìc thuß║¡t v├á kß╗╣ thuß║¡t mang t├¡nh ─æ├│ng g├│p gß╗æc:
+*   **Chiß║┐n l╞░ß╗úc nhiß╗çt 3 chß║╖ng (Three-ramp Thermal Strategy):** Thay v├¼ nung li├¬n tß╗Ñc, viß╗çc h├úm gia nhiß╗çt tß║íi $150^\circ C$ v├á $400^\circ C$ ─æ├ú giß║úi quyß║┐t triß╗çt ─æß╗â vß║Ñn ─æß╗ü sß║¡p cß║Ñu tr├║c vi m├┤ do sß╗æc nhiß╗çt (thermal shock) khi c├íc kh├¡ ph├ón hß╗ºy tho├ít ra tß╗½ sinh khß╗æi hß╗»u c╞í.
+*   **─Éß╗Öt ph├í Hß╗ç thß╗æng kß║┐t d├¡nh lai (Composite Binder):** Thay v├¼ d├╣ng ─æß╗Öc lß║¡p, lß║ºn ─æß║ºu ti├¬n ├íp dß╗Ñng hß╗ç Composite (Chitosan + Nafion) tß║ío th├ánh cß║Ñu tr├║c "mß╗Å neo k├⌐p". Vß╗½a khai th├íc khß║ú n─âng bß║»t giß╗» (chelate h├│a) cß╗ºa
+---
+## 4.3. H╞░ß╗¢ng ph├ít triß╗ân v├á mß╗ƒ rß╗Öng (Future Works)
+Dß╗▒a tr├¬n nß╗ün tß║úng c╞í sß╗ƒ ─æ├ú x├óy dß╗▒ng, vß║¡t liß╗çu Fe/N-CA vß╗¢i hß╗ç Composite Binder c├│ tiß╗üm n─âng mß╗ƒ rß╗Öng rß║Ñt lß╗¢n. Dß╗▒a tr├¬n ph├ón t├¡ch ─æß╗æi chß╗⌐ng ch├⌐o RAG-Agentic tß╗½ dß╗» liß╗çu hß╗ìc thuß║¡t to├án cß║ºu (h╞ín 23 t├ái liß╗çu tham khß║úo cß╗æt l├╡i), nghi├¬n cß╗⌐u ─æß╗ü xuß║Ñt 3 ─æß╗ïnh h╞░ß╗¢ng mang t├¡nh khß║ú thi cß╗▒c cao:
+---
+1. **N├óng cß║Ñp th├ánh Cß║úm biß║┐n sinh hß╗ìc ├íi lß╗▒c (Aptasensor):**
+   * *C╞í sß╗ƒ logic:* Chitosan cung cß║Ñp mß║¡t ─æß╗Ö cao c├íc gß╗æc amin tß╗▒ do ($-NH_2$). C├íc nh├│m n├áy hoß║ít ─æß╗Öng nh╞░ c├íc "mß╗Å neo sinh hß╗ìc" l├╜ t╞░ß╗ƒng ─æß╗â gß║»n kß║┐t cß╗Öng h├│a trß╗ï vß╗¢i DNA/Aptamer chß╗ìn lß╗ìc bß╗çnh l├╜ (v├¡ dß╗Ñ: vi-r├║t, ung th╞░) th├┤ng qua phß║ún ß╗⌐ng gh├⌐p cß║╖p EDC/NHS **[1-4]**. Nafion tiß║┐p tß╗Ñc ─æ├│ng vai tr├▓ m├áng chß╗ìn lß╗ìc thß║Ñm (permselective coating) chß╗æng b├ím d├¡nh protein ngoß║íi lai **[8]**.
+   * *T├¡nh khß║ú thi:* Rß║Ñt khß║ú thi. Carbon aerogel cung cß║Ñp mß╗Öt nß╗ün tß║úng ─æiß╗çn cß╗▒c tuyß╗çt vß╗¥i nhß╗¥ diß╗çn t├¡ch bß╗ü mß║╖t cß╗▒c lß╗¢n, ─æß╗Ö xß╗æp cao, ─æß╗Ö dß║½n ─æiß╗çn tß╗æt v├á cß╗¡a sß╗ò ─æ
+---
+3. **Thiß║┐t bß╗ï Cß║úm biß║┐n in l╞░ß╗¢i mang mß║╖c (Wearable / Flexible Screen-Printed Sensor):**
+   * *C╞í sß╗ƒ logic:* C├íc thiß║┐t bß╗ï ─æiß╗çn tß╗¡ mang mß║╖c ─æ├▓i hß╗Åi vß║¡t liß╗çu ─æiß╗çn cß╗▒c linh hoß║ít v├á b├ím d├¡nh tß╗æt **[18]**. Mß╗▒c in pha tß╗½ cß║Ñu tr├║c ph├ón lß╗¢p 3D cß╗ºa Fe/N-CA cung cß║Ñp khß║ú n─âng n├⌐n si├¬u ─æ├án hß╗ôi, ─æß╗Ö nß║úy tß╗æt v├á chß╗ïu ─æ╞░ß╗úc biß║┐n dß║íng c╞í hß╗ìc mß║ính m├á kh├┤ng bß╗ï ─æß╗⌐t g├úy **[22]**.
+   * *T├¡nh khß║ú thi:* Rß║Ñt khß║ú thi v├á ─æß╗Öt ph├í. Kß║┐t hß╗úp vß╗¢i khß║ú n─âng tß╗▒ ph├ón hß╗ºy, an to├án v├á t├¡nh tß║ío m├áng (film-forming) tuyß╗çt vß╗¥i cß╗ºa Chitosan **[19-21]**, lß╗¢p phß╗º x├║c t├íc b├ím d├¡nh cß╗▒c kß╗│ chß║»c chß║»n l├¬n ─æß║┐ ─æiß╗çn cß╗▒c SPCE dß║╗o (PET/Polyimide) m├á k
+---
+> **Lß╗£I Kß║╛T**
+> Bß║▒ng sß╗▒ kß║┐t hß╗úp giß╗»a kiß║┐n tr├║c 3D (Carbon Aerogel), ─æß╗Öng c╞í h├│a hß╗ìc (Fe-NΓéä) v├á giao diß╗çn sinh hß╗ìc (Chitosan/Nafion), luß║¡n v─ân kh├┤ng chß╗ë dß╗½ng lß║íi ß╗ƒ mß╗Öt c├┤ng thß╗⌐c chß║┐ tß║ío vß║¡t liß╗çu tß╗½ phß╗Ñ phß║⌐m n├┤ng nghiß╗çp, m├á c├▓n thiß║┐t lß║¡p mß╗Öt nß╗ün tß║úng t╞░ duy linh hoß║ít cho cß║úm biß║┐n ─æiß╗çn h├│a hiß╗çn ─æß║íi, g├│p phß║ºn khß║│ng ─æß╗ïnh gi├í trß╗ï c├┤ng nghß╗ç cao cß╗ºa phß╗Ñ phß║⌐m x╞í dß╗½a Viß╗çt Nam tr├¬n bß║ún ─æß╗ô vß║¡t liß╗çu ti├¬n tiß║┐n thß║┐ giß╗¢i.
+---
+[1] Hu X. *et al.*, "Disposable electrochemical aptasensor based on carbon nanotubes- V2O5-chitosan nanocomposite for detection of ciprofloxacin," *Sensors and Actuators B Chemical*, 2018, doi: 10.1016/j.snb.2018.03.155.
+---
+[2] N. Prabhakar, H. Thakur, A. Bharti, and N. Kaur, "Chitosan-iron oxide nanocomposite based electrochemical aptasensor for determination of malathion," *Analytica Chimica Acta*, vol. 939, pp. 108-116, 2016, doi: 10.1016/j.aca.2016.08.015.
+---
+[3] G. Shen, Y. Guo, X. Sun, and X. Wang, "Electrochemical Aptasensor Based on Prussian Blue-Chitosan-Glutaraldehyde for the Sensitive Determination of Tetracycline," *Nano-Micro Letters*, vol. 6, no. 2, pp. 143-152, 2014, doi: 10.1007/bf03353778.
+---
+[4] B. Rezaei, H. R. Jamei, and A. A. Ensafi, "An ultrasensitive and selective electrochemical aptasensor based on rGO-MWCNTs/Chitosan/carbon quantum dot for the detection of lysozyme," *Biosensors and Bioelectronics*, vol. 115, pp. 37-44, 2018, doi: 10.1016/j.bios.2018.05.012.
+---
+[20] W. Wang, Q. Meng, Q. Li, et al., "Chitosan Derivatives and Their Application in Biomedicine," *International Journal of Molecular Sciences*, vol. 21, no. 2, pp. 487, 2020, doi: 10.3390/ijms21020487.
+---
+[21] C. Hao, L. Ding, X. Zhang, and H. Ju, "Biocompatible Conductive Architecture of Carbon Nanofiber-Doped Chitosan Prepared with Controllable Electrodeposition for Cytosensing," *Analytical Chemistry*, vol. 79, no. 12, pp. 4442-4447, 2007, doi: 10.1021/ac062344z.
+---
+[24] V. Myndrul, I. Iatsunskyi, N. Babayevska, M. Jarek, and T. Jesionowski, "Effect of Electrode Modification with Chitosan and Nafion┬« on the Efficiency of Real-Time Enzyme Glucose Biosensors Based on ZnO Tetrapods," *Materials*, vol. 15, no. 13, pp. 4672, 2022, doi: 10.3390/ma15134672.
+---
+[25] C. S. Ong, N. H. B. Zaharum, N. Mohamad Nor, et al., "Morphology and atomic configuration control of heavy metal attraction modified layer on screen-printed electrode to enhance electrochemical sensing performance," *Journal of Electroanalytical Chemistry*, vol. 939, pp. 117477, 2023, doi: 10.1016/j.jelechem.2023.117477.
+[26] N. Isobe, S. Kimura, M. Wada, and S. Kuga, "Mechanism of cellulose gelation from aqueous alkali-urea solution," *Carbohydrate Polymers*, vol. 89, no. 4, pp. 1298ΓÇô1300, 2012, doi: 10.1016/j.carbpol.2012.03.023.

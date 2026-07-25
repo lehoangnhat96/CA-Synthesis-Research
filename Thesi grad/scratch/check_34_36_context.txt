@@ -1,0 +1,66 @@
+=== CITATIONS FOR [36] ===
+--- Match around line 265 ---
+263: 
+264: [2.6. Quy trình tổng hợp màng mỏng biến tính điện cực GCE
+265: [36](#quy-trình-tổng-hợp-màng-mỏng-biến-tính-điện-cực-gce)](#quy-trình-tổng-hợp-màng-mỏng-biến-tính-điện-cực-gce)
+266: 
+267: [2.7. Sàng lọc điện cực nền và tiêu chí đo đạt
+
+--- Match around line 1008 ---
+1006: vật liệu này có khả năng cảm biến điện hóa đa phương thức (dual-mode)
+1007: hiệu quả, đặc biệt là trong việc phát hiện glucose với giới hạn phát
+1008: hiện (LOD) đạt 0.5 µM \[36\].
+1009: 
+1010: Bên cạnh khả năng chelate hóa các cation kim loại nặng, cấu trúc xốp 3D
+
+--- Match around line 1296 ---
+1294: <td>0.5 µM</td>
+1295: <td>-</td>
+1296: <td style="text-align: center;">[36]</td>
+1297: </tr>
+1298: <tr>
+
+--- Match around line 2678 ---
+2676: pp. 63–72, Jan. 2018, doi: 10.1038/s41929-017-0008-y.
+2677: 
+2678: \[36\] X. Wu, Y. Sun, T. He, Y. Zhang, G.-J. Zhang, Q. Liu, and S. Chen,
+2679: “Iron, Nitrogen-Doped Carbon Aerogels for Fluorescent and
+2680: Electrochemical Dual-Mode Detection of Glucose,” Langmuir, vol. 37, no.
+
+
+=== CITATIONS FOR [34] ===
+--- Match around line 255 ---
+253: 
+254: [2.5.2. Động học nhiệt phân carbon hóa lần 1
+255: [34](#động-học-nhiệt-phân-carbon-hóa-lần-1)](#động-học-nhiệt-phân-carbon-hóa-lần-1)
+256: 
+257: [2.5.3. Cấu hình Nitơ bề mặt và vai trò điện hóa
+
+--- Match around line 351 ---
+349: 
+350: [Bảng 2.2. Chu trình nhiệt cho lò nung
+351: [34](#bảng-2.2.-chu-trình-nhiệt-cho-lò-nung)](#bảng-2.2.-chu-trình-nhiệt-cho-lò-nung)
+352: 
+353: [Bảng 2.3. Mối quan hệ giữa nhiệt độ nung và cấu trúc hình thành
+
+--- Match around line 994 ---
+992: hình orbital trống của ion sắt sẽ tìm đến và phối trí trực tiếp với các
+993: cặp electron tự do của các vị trí nitơ khuyết tật (đặc biệt là
+994: Pyridinic-N), định hình các liên kết Fe-N bền chặt \[34, 35\]. Quá trình
+995: hậu xử lý thông qua đun hồi lưu axit (HCl 0.5M) và nung phục hồi cấu
+996: trúc (Re-annealing ở 750°C) được thiết kế nhằm hòa tan các pha oxit sắt
+
+--- Match around line 1663 ---
+1661: (stripping) các ion kim loại nặng (Pb²⁺, Cd²⁺, Zn²⁺). Sự hiện diện và
+1662: hiệu năng thực tế của các pha tạp bề mặt này sẽ được đánh giá chéo thông
+1663: qua phổ XPS, phổ Raman và phổ tổng trở điện hóa EIS \[34, 35\].
+1664: 
+1665: ## 2.5. Cơ chế Nhiệt phân, Doping Nitơ và Phối trí Sắt
+
+--- Match around line 2668 ---
+2666: Sep. 2021, doi: 10.3390/ijms22189918.
+2667: 
+2668: \[34\] T. Marshall-Roth et al., "A pyridinic Fe-N4 macrocycle models the
+2669: active sites in Fe/N-doped carbon electrocatalysts," Nature
+2670: Communications, vol. 11, no. 1, p. 5231, Oct. 2020, doi:
+

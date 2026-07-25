@@ -1,0 +1,76 @@
+﻿Found at index: 79916
+G─É 8 ΓÇö CHß║╛ Tß║áO ─ÉIß╗åN Cß╗░C & ─Éß║╢C TR╞»NG ─ÉIß╗åN H├ôA
+
+### 1. Th├┤ng sß╗æ Thß╗▒c nghiß╗çm (SOP)
+
+**Mß╗Ñc ─æ├¡ch:** Chuyß╗ân vß║¡t liß╗çu bß╗Öt CA th├ánh ─æiß╗çn cß╗▒c l├ám viß╗çc, ─æ├ính gi├í hiß╗çu n─âng ph├ón t├¡ch.
+
+### 8a. Nghiß╗ün, r├óy & l╞░u trß╗»
+
+| B╞░ß╗¢c | ─Éiß╗üu kiß╗çn | L╞░u ├╜ |
+|---|---|---|
+| Nghiß╗ün | Cß╗æi m├ú n├úo | Bß╗Öt mß╗ïn ─æß╗ông ─æß╗üu. |
+| R├óy | L╞░ß╗¢i 75 ┬╡m (lß║Ñy phß║ºn < 75 ┬╡m) | ─Éß║úm bß║úo k├¡ch th╞░ß╗¢c ─æß╗ông nhß║Ñt cho ink. |
+| L╞░u trß╗» | Vial thß╗ºy tinh n├óu, nß║»p k├¡n, 4┬░C | H├║t ch├ón kh├┤ng nhß║╣ hoß║╖c b╞ím NΓéé. Ghi nh├ún ─æß║ºy ─æß╗º. |
+
+### 8b. Hoß║ít h├│a GCE
+
+| B╞░ß╗¢c | ─Éiß╗üu kiß╗çn | Mß╗Ñc ─æ├¡ch |
+|---|---|---|
+| M├ái | AlΓééOΓéâ 0.05 ┬╡m, h├¼nh sß╗æ 8, 2 ph├║t ├ù 2 lß║ºn | L├ám sß║ích + tß║ío bß╗ü mß║╖t mß╗¢i. |
+| Si├¬u ├óm | DI water 1 min ├ù 3 + Ethanol 1 min ├ù 1 | Loß║íi bß╗Ñi AlΓééOΓéâ. |
+| Loß║íi AlΓééOΓéâ d╞░ | NaOH 0.1 M + anodize +1.8 V / 10 s | ΓÇö |
+| Kiß╗âm tra | CV 3 chu kß╗│, 5.0 mM KΓéâFe(CN)Γéå / 0.1 M KCl, 50 mV/s | ╬öE_p < 70 mV, I_pa/I_pc = 0.95ΓÇô1.05. |
+
+### 8c. Pha Ink & Drop-casting
+
+| Th├┤ng sß╗æ | ─Éiß╗üu kiß╗çn | L╞░u ├╜ |
+|---|---|---|
+| C├ón carbon | 5.0 mg ┬▒ 0.01 mg bß╗Öt Fe/N-CA | Sß╗¡ dß╗Ñng bß╗Öt ─æ├ú qua r├óy < 75 ┬╡m ─æß╗â tr├ính tß║»c nghß║╜n mao quß║ún. |
+| Dung m├┤i | 950 ┬╡L DMF (HPLC grade) | **Vai tr├▓ ph├ón t├ín:** DMF c├│ hß║▒ng sß╗æ ─æiß╗çn m├┤i cao (36.7) v├á bay h╞íi chß║¡m, gi├║p hß║ít carbon aerogel ph├ón t├ín ─æß╗üu kh├┤ng bß╗ï v├│n cß╗Ñc, tr├ính hiß╗çu ß╗⌐ng v├▓ng c├á ph├¬ (coffee-ring) khi kh├┤. |
+| Binder | 50 ┬╡L dung dß╗ïch composite binder (Chitosan + 0.5 wt% Nafion pha trong DMF) | **C├ích pha chß║┐:** Pha lo├úng Nafion 5% th╞░╞íng mß║íi th├ánh Nafion 0.5% bß║▒ng DMF (tß╗╖ lß╗ç 1:9 thß╗â t├¡ch), sau ─æ├│ phß╗æi trß╗Ön vß╗¢i dung dß╗ïch Chitosan. Nafion 0.5% l├á ─æiß╗âm c├ón bß║▒ng tß╗æi ╞░u: < 0.5% dß╗à bong tr├│c m├áng, > 1.0% cß║ún trß╗ƒ ─æß╗Öng hß╗ìc khuß║┐ch t├ín ion. |
+| Si├¬u ├óm | Si├¬u ├óm bß╗â (ice bath < 15 ┬░C) trong 30-45 ph├║t | Duy tr├¼ nhiß╗çt ─æß╗Ö thß║Ñp ─æß╗â tr├ính l├ám ph├ón hß╗ºy mß║ích polymer cß╗ºa binder. |
+| Kiß╗âm tra ink | Dung dß╗ïch ─æen ─æß╗ông nhß║Ñt, kh├┤ng lß║»ng cß║╖n sau 2 giß╗¥ | ─Éß║ít k├¡ch th╞░ß╗¢c hß║ít keo tß╗æi ╞░u (DLS DΓéàΓéÇ < 500 nm). |
+| Drop-cast | **3.0 - 5.0 ┬╡L** nhß╗Å trß╗▒c tiß║┐p l├¬n bß╗ü mß║╖t GCE ─æ├ú hoß║ít h├│a | Loading tß╗æi ╞░u: **15 - 25 ┬╡g** vß║¡t liß╗çu/─æiß╗çn cß╗▒c (─æ╞░ß╗úc ─æß╗æi chß╗⌐ng trß╗▒c tiß║┐p tß╗½ benchmark sensor graphene aerogel [ZrO2 CS rGOA Luteolin GCE]). |
+| Sß║Ñy m├áng | Sß║Ñy kh├┤ tß╗▒ nhi├¬n ß╗ƒ nhiß╗çt ─æß╗Ö ph├▓ng (25 ┬░C) trong tß╗º h├║t, 2-3 giß╗¥ | **Tuyß╗çt ─æß╗æi kh├┤ng d├╣ng m├íy sß║Ñy nhiß╗çt hoß║╖c thß╗òi kh├¡ NΓéé** ─æß╗â tr├ính l├ám m├áng co r├║t kh├┤ng ─æß╗üu hoß║╖c nß╗⌐t nß║╗. |
+
+### 8d. Screening 4 vß║¡t liß╗çu (CV, EIS, ECSA, SWASV s╞í bß╗Ö)
+
+| Ph├⌐p ─æo | Dung dß╗ïch | Th├┤ng sß╗æ | Ti├¬u ch├¡ Pass |
+|---|---|---|---|
+| **CV** | 5.0 mM KΓéâFe(CN)Γéå / 0.1 M KCl | 50 mV/s, 5 chu kß╗│ | Ip t─âng ΓëÑ 30%, ╬öE_p giß║úm so vß╗¢i bare GCE |
+| **EIS** | 5.0 mM KΓéâFe(CN)Γéå / 0.1 M KCl | 100 kHz ΓåÆ 0.1 Hz, 10 mV, E_dc = 0.22 V | R_ct giß║úm ΓëÑ 30% so vß╗¢i bare GCE |
+| **ECSA** | 0.1 M HΓééSOΓéä | 25ΓÇô200 mV/s | T├¡nh C_dl ΓåÆ ECSA |
+| **SWASV s╞í bß╗Ö** | Pb┬▓Γü║ + Cd┬▓Γü║ 100 ppb, acetate pH 4.5 | E_dep = ΓÇô1.1 V, t_dep = 120 s, 25 Hz | T├ích peak ╬öE_p ΓëÑ 100 mV, RSD < 8% |
+
+### 8e. Ph├ón t├¡ch Pb┬▓Γü║/Cd┬▓Γü║/Zn┬▓Γü║ (SWASV) ΓÇö B├ái Q1/Q2
+
+| Th├┤ng sß╗æ | Khoß║úng khß║úo s├ít | Gi├í trß╗ï khß╗ƒi ─æß║ºu |
+|---|---|---|
+| pH dung dß╗ïch nß╗ün | 3.5ΓÇô6.0 (acetate buffer) | 4.5 |
+| Thß║┐ lß║»ng khß╗¡ (E_dep) | ΓÇô0.8 V ─æß║┐n ΓÇô1.4 V vs. Ag/AgCl | ΓÇô1.2 V |
+| Thß╗¥i gian lß║»ng khß╗¡ (t_dep) | 60ΓÇô240 s (khuß║Ñy 400 rpm) | 180 s |
+| SW frequency | 10ΓÇô100 Hz | 25 Hz |
+| SW amplitude | 10ΓÇô50 mV | 50 mV |
+| Step potential | 2ΓÇô10 mV | 5 mV |
+
+- **LOD mß╗Ñc ti├¬u:** Pb┬▓Γü║ < 0.1 ┬╡g/L; Zn┬▓Γü║ < 10 nM (DPASV benchmark: Cd 0.01 ppb, Pb/Cu 0.02 ppb [RGO CS PLL DPASV CdPbCu])
+
+- **─É╞░ß╗¥ng chuß║⌐n:** 0.5, 1, 2, 5, 10, 20, 50, 100, 200 ppb (n=3/─æiß╗âm)
+
+- **Ion g├óy nhiß╗àu:** Cu┬▓Γü║ ΓÜá∩╕Å, Hg┬▓Γü║, Fe┬│Γü║, Mn┬▓Γü║, Ca┬▓Γü║, Mg┬▓Γü║, NaΓü║, KΓü║, NOΓéâΓü╗ (10ΓÇô100├ù nß╗ông ─æß╗Ö analyte)
+
+- **Real sample:** N╞░ß╗¢c s├┤ng, n╞░ß╗¢c m├íy ΓåÆ lß╗ìc 0.45 ┬╡m ΓåÆ v├┤ c╞í h├│a ╞░ß╗¢t (HNOΓéâ + HΓééOΓéé) ΓåÆ Standard Addition 3 ─æiß╗âm
+
+### 8f. Ph├ón t├¡ch Paracetamol (DPV) ΓÇö B├ái Q3/Q4
+
+| Th├┤ng sß╗æ | Khoß║úng khß║úo s├ít | Gi├í trß╗ï khß╗ƒi ─æß║ºu |
+|---|---|---|
+| pH dung dß╗ïch nß╗ün | 5.0ΓÇô8.0 (PBS) | 7.0 |
+| Pulse amplitude | 10ΓÇô75 mV | 50 mV |
+| Pulse width | 10ΓÇô100 ms | 50 ms |
+| Step potential | 2ΓÇô10 mV | 5 mV |
+
+- **LOD mß╗Ñc ti├¬u:** < 0.05 ┬╡M (Benchmark tuyß╗çt vß╗¥i ─æß║ít: 0.0303 ┬╡M [N-CMOS DPV Paracetamol])
+
+- **Chß║Ñt g├óy nhiß╗àu:** A

@@ -1,11 +1,11 @@
 International Journal of _**Molecular Sciences**_ 
 
 
-![](_images/Nitrogen-Doped Carbon Aerogels Derived from Starch Biomass with Improved Electro_images/_temp_26eb516f_convert_.pdf-0001-01.png)
+![](_temp_7b7ee343_convert__images/_temp_7b7ee343_convert_.pdf-0001-01.png)
 
 
 
-![](_images/Nitrogen-Doped Carbon Aerogels Derived from Starch Biomass with Improved Electro_images/_temp_26eb516f_convert_.pdf-0001-02.png)
+![](_temp_7b7ee343_convert__images/_temp_7b7ee343_convert_.pdf-0001-02.png)
 
 
 ## _Article_ 
@@ -33,7 +33,7 @@ Received: 24 August 2021 Accepted: 12 September 2021 Published: 14 September 202
 **Publisher’s Note:** MDPI stays neutral with regard to jurisdictional claims in published maps and institutional affiliations. 
 
 
-![](_images/Nitrogen-Doped Carbon Aerogels Derived from Starch Biomass with Improved Electro_images/_temp_26eb516f_convert_.pdf-0001-15.png)
+![](_temp_7b7ee343_convert__images/_temp_7b7ee343_convert_.pdf-0001-15.png)
 
 
 **Copyright:** © 2021 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https:// creativecommons.org/licenses/by/ 4.0/). 
@@ -81,7 +81,7 @@ _Int. J. Mol. Sci._ **2021** , _22_ , 9918
 The XRD patterns of nitrogen-doped carbon aerogels (MCAGPS-N and CAGPS-N samples) and reference nitrogen-free carbon (CAGPS sample) are shown in Figure 1. These patterns exhibit similar diffraction features with two broad, low-intensity peaks at approximately 2θ = 24 _[◦]_ and 44 _[◦]_ , corresponding to the (002) and (101) crystal planes, respectively, that are typical of amorphous, disordered carbon materials with a low degree of graphitization. No other impurities were observed in the XRD patterns. As MCAGPS-N and CAGPS-N samples have similar diffraction peaks to the pristine carbon (CAGPS), it can be concluded that nitrogen-doping does not cause significant variation in the carbon crystal structure. Nevertheless, with an increase in nitrogen content, the peaks visible in Figure 1 become more prominent and narrow, indicating the improvement of the graphitization degree. This is also reflected in the values of the interlayer distance of the (002) plane (d002) calculated by Bragg’s law, which is 0.3875 nm for the CAGPS and 0.3675 nm for the MCAGPS-N8.0% sample (d002 for graphite is 0.3355 nm). Interestingly, the larger d002 values of the MCAGPS-N and CAGPS-N materials (which, for all obtained samples, is between 0.3675 and 0.3845 nm) in comparison with that of graphite implies that the intercalation of nitrogen results in an enlarged interlayer distance of porous carbon, which can potentially facilitate the diffusion and insertion/extraction of Li[+] in the carbon matrix. 
 
 
-![](_images/Nitrogen-Doped Carbon Aerogels Derived from Starch Biomass with Improved Electro_images/_temp_26eb516f_convert_.pdf-0003-06.png)
+![](_temp_7b7ee343_convert__images/_temp_7b7ee343_convert_.pdf-0003-06.png)
 
 
 **----- Start of picture text -----**<br>
@@ -97,13 +97,13 @@ _Int. J. Mol. Sci._ **2021** , _22_ , 9918
 The nitrogen-doped carbon aerogel materials, as well as the pristine ones (CAGPS), were subjected to galvanostatic charge–discharge tests in a half-cell system. All studied carbons were tested at room temperature (Figures 2 and 3), performing 7 sets of 10 cycles in sequence using currents equivalent to C/2, 1C (0.35 A/g), 2C, 5C, 10C, 20C, 1C (in reference to graphite); then, an additional 500 cycles under 5C current rate were performed (excluding graphite due to its bad performance under higher current load). 
 
 
-![](_images/Nitrogen-Doped Carbon Aerogels Derived from Starch Biomass with Improved Electro_images/_temp_26eb516f_convert_.pdf-0004-03.png)
+![](_temp_7b7ee343_convert__images/_temp_7b7ee343_convert_.pdf-0004-03.png)
 
 
 **Figure 2.** Galvanostatic charge–discharge tests of investigated samples in half-cells under different current loads (MCAGPS— carbon aerogel made from potato starch modified with melamine; CAGPS-N—carbon aerogel made from potato starch modified by N2 pyrolysis; CAGPS—pristine carbon aerogel). 
 
 
-![](_images/Nitrogen-Doped Carbon Aerogels Derived from Starch Biomass with Improved Electro_images/_temp_26eb516f_convert_.pdf-0004-05.png)
+![](_temp_7b7ee343_convert__images/_temp_7b7ee343_convert_.pdf-0004-05.png)
 
 
 **----- Start of picture text -----**<br>
@@ -133,13 +133,13 @@ _Int. J. Mol. Sci._ **2021** , _22_ , 9918
 of intercalation. Reactions occurring between 0.25 V and 0.04 V are connected with the formation of a solid electrolyte interface during the lithiation of graphite [41]. Voltammetry measurements show that the passive layer formation of reference carbon (CAGPS) takes place at higher potentials. After introducing nitrogen into the structure, doped material seem to be less sensitive to side reactions before the first lithiation. As mentioned above, the slight increase of coulombic efficiency in the initial cycle after doping (43.95% for CAGPS, 48.40% for CAGPS-N1.2%, and 56.43% for MCAGPS-N8.0%) can be connected with the partial suppression of the side reactions of the material on the contact surface with the liquid electrolyte. 
 
 
-![](_images/Nitrogen-Doped Carbon Aerogels Derived from Starch Biomass with Improved Electro_images/_temp_26eb516f_convert_.pdf-0006-03.png)
+![](_temp_7b7ee343_convert__images/_temp_7b7ee343_convert_.pdf-0006-03.png)
 
 
 **Figure 4.** Charge–discharge voltage profiles for the ( **a** ) 1st and ( **b** ) 10th cycle of CAGPS-, CAGPS-N1.2%-, and MCAGPSN8.0%-based electrodes at C/2 current rate (MCAGPS—carbon aerogel made from potato starch modified with melamine; CAGPS-N—carbon aerogel made from potato starch modified by N2 pyrolysis; CAGPS—pristine carbon aerogel). 
 
 
-![](_images/Nitrogen-Doped Carbon Aerogels Derived from Starch Biomass with Improved Electro_images/_temp_26eb516f_convert_.pdf-0006-05.png)
+![](_temp_7b7ee343_convert__images/_temp_7b7ee343_convert_.pdf-0006-05.png)
 
 
 **Figure 5.** Cyclic voltammetry curves of ( **a** ) CAGPS-, ( **b** ) CAGPS-N1.2%-, and ( **c** ) MCAGPS-N8.0%-based cells (MCAGPS— carbon aerogel made from potato starch modified with melamine; CAGPS-N—carbon aerogel made from potato starch modified by N2 pyrolysis; CAGPS—pristine carbon aerogel). 
@@ -153,11 +153,11 @@ _Int. J. Mol. Sci._ **2021** , _22_ , 9918
 comparison with pure CAGPS (CAGPS—245 Ω, CAGPS-N1.2%—128 Ω, MCAGPS-N8.0%— 161 Ω). This may correspond to lowering the thickness of the electrolyte interphase layer and/or its better Li[+] permeability. Fully discharged cells (0.001 V) exhibit smaller values of RSEI resistances (CAGPS—84 Ω, CAGPS-N1.2%—92 Ω, MCAGPS-N8.0%—85 Ω). At full charge (3.0 V), RSEI values differ greater in favor of N-doped samples (CAGPS—70 Ω, CAGPS-N1.2%—52 Ω, MCAGPS-N8.0%—62 Ω), which indicates overall stabilization of the formed SEI layer on N-doped samples. The last considered resistance RCT represents the charge-transfer process in the electrode. The results of simulations show a significant decrease in this component for melamine-modified CAG (MCAGPS-N8.0%) through the whole intercalation voltage region (around 1 V–0.001 V). This is a reflection of the improved conductivity due to the introduction of nitrogen into the carbonaceous material structure. The RCT decrease is also observed for N2-treated CAG (CAGPS-N1.2%). 
 
 
-![](_images/Nitrogen-Doped Carbon Aerogels Derived from Starch Biomass with Improved Electro_images/_temp_26eb516f_convert_.pdf-0007-03.png)
+![](_temp_7b7ee343_convert__images/_temp_7b7ee343_convert_.pdf-0007-03.png)
 
 
 
-![](_images/Nitrogen-Doped Carbon Aerogels Derived from Starch Biomass with Improved Electro_images/_temp_26eb516f_convert_.pdf-0007-04.png)
+![](_temp_7b7ee343_convert__images/_temp_7b7ee343_convert_.pdf-0007-04.png)
 
 
 **Figure 6.** Voltage profiles of ( **a** ) CAGPS, ( **b** ) CAGPS-N1.2%, and ( **c** ) MCAGPS-N8.0% materials with marked potentials, in which electrochemical impedance spectroscopy (EIS) measurements were carried out. The values of R1, RSEI, and RCT as functions of potential for ( **d** ) CAGPS, ( **e** ) CAGPS-N1.2%, and ( **f** ) MCAGPS-N8.0%, respectively ((MCAGPS—carbon aerogel made from potato starch modified with melamine; CAGPS-N—carbon aerogel made from potato starch modified by N2 pyrolysis; CAGPS—pristine carbon aerogel). 
@@ -175,7 +175,7 @@ _Int. J. Mol. Sci._ **2021** , _22_ , 9918
 9 of 14 
 
 
-![](_images/Nitrogen-Doped Carbon Aerogels Derived from Starch Biomass with Improved Electro_images/_temp_26eb516f_convert_.pdf-0009-02.png)
+![](_temp_7b7ee343_convert__images/_temp_7b7ee343_convert_.pdf-0009-02.png)
 
 
 **Figure 7.** The X-ray photoelectron spectra of investigated ( **a** – **c** ) CAGPS, ( **d** – **f** ) CAGPS-N1.2%, and ( **g** – **i** ) MCAGPS-N8.0% materials (MCAGPS—carbon aerogel made from potato starch modified with melamine; CAGPS-N—carbon aerogel made from potato starch modified by N2 pyrolysis; CAGPS—pristine carbon aerogel). 

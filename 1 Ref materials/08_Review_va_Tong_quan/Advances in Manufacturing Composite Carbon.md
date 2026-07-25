@@ -1,9 +1,9 @@
 
-![](_images/Advances in Manufacturing Composite Carbon_img/_temp_79492522_heal_.pdf-0001-00.png)
+![](_temp_79492522_convert__images/_temp_79492522_convert_.pdf-0001-00.png)
 
 
 
-![](_images/Advances in Manufacturing Composite Carbon_img/_temp_79492522_heal_.pdf-0001-01.png)
+![](_temp_79492522_convert__images/_temp_79492522_convert_.pdf-0001-01.png)
 
 
 _Review_ 
@@ -51,7 +51,7 @@ While this can be done with pure ethanol, the high temperatures and pressures im
 _J. Compos. Sci._ **2020** , _4_ , 73 
 
 
-![](_images/Advances in Manufacturing Composite Carbon_img/_temp_79492522_heal_.pdf-0003-02.png)
+![](_temp_79492522_convert__images/_temp_79492522_convert_.pdf-0003-02.png)
 
 
 **Figure 1.** Carbon dioxide phase diagram showing the critical point. Reproduced under the terms and conditions of the liberal Creative Commons Attribution 4.0 International (CC BY) license from [5]. Copyright ©2019 The Authors. 
@@ -67,13 +67,13 @@ In the work performed by Yu et al. [11], silica aerogels were blended with polya
 _J. Compos. Sci._ **2020** , _4_ , 73 
 
 
-![](_images/Advances in Manufacturing Composite Carbon_img/_temp_79492522_heal_.pdf-0004-02.png)
+![](_temp_79492522_convert__images/_temp_79492522_convert_.pdf-0004-02.png)
 
 
 **Figure 2.** A unary phase diagram showing the temperature conditions for supercritical fluid drying and freeze drying. _Psc_ defines the supercritical pressure and _Tsc_ represents the supercritical temperature in the diagram. Reproduced under the terms and conditions of the liberal Creative Commons Attribution 4.0 International (CC BY) license from [6]. Copyright ©2019 The Authors. 
 
 
-![](_images/Advances in Manufacturing Composite Carbon_img/_temp_79492522_heal_.pdf-0004-04.png)
+![](_temp_79492522_convert__images/_temp_79492522_convert_.pdf-0004-04.png)
 
 
 **Figure 3.** The schematic and images of SiO2 aerogel modified polyacrylonitrile nanofiber membranes. Reprinted with permission from [11]. Copyright © 2020 Elsevier B.V. 
@@ -87,7 +87,7 @@ _J. Compos. Sci._ **2020** , _4_ , 73
 and shows the image of generated 3D fibrous aerogel product. On the right hand side of Figure 4, how to use the aerogel to make the catalyst support is demonstrated. The PAN and cellulose nanofibers were mixed and processed with cobalt and molybdenum compounds to make the aerogels using the vacuum freezing and drying technology. The photocatalytic activities of the catalyst containing composite aerogels were characterized in view of water remediation including Cr (VI) concentration reduction, hydrogen generation, and disinfection of _E. coli_ and _S. aureus_ under ultraviolet (UV) light. 
 
 
-![](_images/Advances in Manufacturing Composite Carbon_img/_temp_79492522_heal_.pdf-0005-03.png)
+![](_temp_79492522_convert__images/_temp_79492522_convert_.pdf-0005-03.png)
 
 
 **Figure 4.** Three-dimensional fibrous aerogel assemblies made by vacuum freeze drying technology and their application for photocatalyst support. NFA means nanofiber aerogels. ZIF-67 stands for the zeolitic imidazolate framework-67, or 2-methylimidazole cobalt salt. Reprinted with permission from [12]. Copyright © 2019 Elsevier B.V. 
@@ -95,7 +95,7 @@ and shows the image of generated 3D fibrous aerogel product. On the right hand s
 Another advantage of freeze processing is that the unidirectional solidification of solvents allows to prepare highly porous, anisotropic, regularly aligned cell-wall structured aerogels. Examples of nanocellulose-based aerogels were given in the work performed by Wei et al. [13]. To prepare the aerogels, an aqueous cellulose nanofiber dispersion with a solid content of 1 wt % was mechanically separated from birch pulp using a grinder. In a typical case, 62 g of 1 wt % cellulose nanofiber aqueous suspension was mixed with 0.03 g of 1,2,3,4-butanetetracarboxylic acid cross-linker by stirring for 1 h at the room temperature. The mixture was then frozen in a unidirectional way at a cooling rate of −5 K/min using a freeze-casting setup as schematically shown in Figure 5 [13]. The cast was freeze-dried for 72 h at a pressure of 0.064 mbar to form aerogels. Crosslinking was performed by the esterification 
 
 
-![](_images/Advances in Manufacturing Composite Carbon_img/_temp_79492522_heal_.pdf-0005-06.png)
+![](_temp_79492522_convert__images/_temp_79492522_convert_.pdf-0005-06.png)
 
 
 **Figure 5.** Sketches showing the process of unidirectional freeze casting followed by freeze drying to make the acetate-functionalized nanocellulose aerogels for CO2 adsorption. Reproduced under the terms and conditions of the liberal Creative Commons Attribution 4.0 International (CC BY) license from [13]. Published by Springer. Copyright ©2020 The Authors. 
@@ -107,7 +107,7 @@ _J. Compos. Sci._ **2020** , _4_ , 73
 During unidirectional freezing of water, the ice front velocity could affect the structure of the aerogels. Earlier work performed by Deville et al. [14] revealed that the higher the speed of ice front, the smaller the separation between the obtained laminates observed in the structure of composites. Figure 6 from [13] shows the scanning electron microscopic (SEM) images of cellulose nanofiber aerogel, cellulose nanofiber aerogel impregnated with small amount of cellulose acetate, cellulose nanofiber aerogel impregnated with large amount of cellulose acetate, and cellulose nanofiber aerogel impregnated with cellulose nanocrystals. The cross-section of the samples perpendicular to the freezing direction shows the hexagonal cells in images ( **ai** )–( **di** ) in Figure 6, while the cross-section of the specimens parallel to the freezing direction reveals the laminar structure as shown by the two sets of images ( **aii** )–( **dii** ) and ( **aiii** )–( **diii** ) in Figure 6. 
 
 
-![](_images/Advances in Manufacturing Composite Carbon_img/_temp_79492522_heal_.pdf-0006-03.png)
+![](_temp_79492522_convert__images/_temp_79492522_convert_.pdf-0006-03.png)
 
 
 **Figure 6.** Scanning electron microscopic (SEM) images of ( **a** ) cellulose nanofiber aerogel, ( **b** ) cellulose nanofiber aerogel impregnated with a small content of cellulose acetate, ( **c** ) cellulose nanofiber aerogel impregnated with a high content of cellulose acetate, and ( **d** ) cellulose nanofiber aerogel impregnated with cellulose nanocrystals. ( **ai** – **di** ): the cross-section of the samples perpendicular to the freezing direction, ( **aii** – **dii** ): the cross-section of the samples parallel to the freezing direction. ( **aiii** – **diii** ): magnified images of the samples from the parallel cross section. Reproduced under the terms and conditions of the liberal Creative Commons Attribution 4.0 International (CC BY) license from [13]. Published by Springer. Copyright ©2020 The Authors. 
@@ -127,7 +127,7 @@ Carbon aerogels are manufactured into porous blocks, powders, or composite sheet
 Electrospun polyacrylonitrile (PAN) nanofibers can be readily converted into carbon nanofibers with designed functionalities [15]. In the stabilizing temperatures ranging from 225 to 300[◦] C, the PAN molecule can cyclize and transform into a non-meltable ladder structure, which is the original of high strength for the nanofiber. Zhang et al. [16] made a polyacrylonitrile (PAN) and polyvinylpyrrolidone (PVP)-derived composite carbon nanofiber aerogel as the anode material for supercapacitors. Co3O4 was loaded into the aerogel for cathode material application. The freeze casting and drying process for the aerogel formation is illustrated in Figure 7 [16]. The starting materials, PAN/PVP nanofiber membranes, were prepared by electrospinning the homogeneous solutions with 1 g of PAN, 9 mL of DMF, and different amounts of PVP (0.5, 1, and 2 g). PAN-based nanofiber membranes (1 g for each sample) were cut into small pieces and dispersed in 100 mL water/tertbutanol with a volume ratio of 3:1. Uniform nanofiber slurries were made by a homogenizer running at 10,000 rpm for 20 min. The slurries were frozen in a mold at −80[◦] C. Then, freeze-drying was conducted for 48 h to produce the PAN/PVP aerogels with varied PVP contents. 
 
 
-![](_images/Advances in Manufacturing Composite Carbon_img/_temp_79492522_heal_.pdf-0007-05.png)
+![](_temp_79492522_convert__images/_temp_79492522_convert_.pdf-0007-05.png)
 
 
 **Figure 7.** Schematic of making composite carbon nanofiber aerogel anode and Co3O4 containing aerogel cathode materials. Reprinted with permission from [16]. Copyright © 2019 Elsevier B.V. 
@@ -139,7 +139,7 @@ To obtain carbon nanofibers, oxidation/stabilization followed by carbonization w
 _J. Compos. Sci._ **2020** , _4_ , 73 
 
 
-![](_images/Advances in Manufacturing Composite Carbon_img/_temp_79492522_heal_.pdf-0008-02.png)
+![](_temp_79492522_convert__images/_temp_79492522_convert_.pdf-0008-02.png)
 
 
 **Figure 8.** Images and composition of the composite carbon nanofiber aerogel: ( **a** – **c** ) SEM images, ( **d** ) composition. Reprinted with permission from [16]. Copyright © 2019 Elsevier B.V. 
@@ -173,7 +173,7 @@ almost ten times. At an even higher temperature of 800[◦] C, the completion of
 In addition to carbon nanotubes, graphene sheets were incorporated into carbon nanofiber-based aerogels to generate spatial separation effect and to further increase the surface area. Kshetri et al. [38] made a ternary graphene–carbon nanofibers–carbon nanotube aerogel with high surface area for supercapacitance application. Figure 9 [38] shows the schematic of processing the aerogel. There are several steps for the aerogel formation. First, a PAN nanofiber mat was made through the single-nozzle electrospinning on a thin aluminum sheet wrapped on a drum rotating at 900 rpm [39]. Then the PAN fiber mat was cut into small pieces for impregnation with graphene oxide (GO) which was made through the exfoliation of graphite flakes [40]. About 0.05 g of GO and 0.05 g of cut PAN nanofiber mat were dispersed in a plastic tube containing 15 mL of deionized (DI) water. Sonicating the solution for 1 h was performed to generate a homogeneous PAN-GO gelation. 
 
 
-![](_images/Advances in Manufacturing Composite Carbon_img/_temp_79492522_heal_.pdf-0011-04.png)
+![](_temp_79492522_convert__images/_temp_79492522_convert_.pdf-0011-04.png)
 
 
 **Figure 9.** Schematic of making graphene and nanotube containing composite carbon nanofiber aerogel. Reprinted with permission from [38]. Copyright © 2019 Elsevier B.V. 
@@ -187,7 +187,7 @@ _J. Compos. Sci._ **2020** , _4_ , 73
 The electrospun PAN nanofibers can be directly collected in a solvent (water) containing the oxidized graphene suspension [44]. As shown in Figure 10 [44], the graphene oxide (GO) can wrap the PAN nanofiber strands nicely. After freeze drying, the nanofiber (NF)–graphene oxide (GO) aerogels (As) named as “NF/GOAs” can be produced. The pre-oxidation and carbonization procedures allowed the conversion of PAN polymer nanofibers to carbon nanofibers (CNF). Therefore, the final product: carbon nanofiber/graphene oxide aerogels “CNF/GOAs” can be obtained. Such aerogels show strong oil adsorption performance as demonstrated in [44]. 
 
 
-![](_images/Advances in Manufacturing Composite Carbon_img/_temp_79492522_heal_.pdf-0012-03.png)
+![](_temp_79492522_convert__images/_temp_79492522_convert_.pdf-0012-03.png)
 
 
 **Figure 10.** Electrospinning polyacrylonitrile (PAN) polymer nanofiber in graphene oxide (GO) solution to make carbon nanofiber/GO aerogel. Reproduced under the terms and conditions of the liberal Creative Commons Attribution 4.0 International (CC BY) license from [44]. Published by Elsevier B.V., Copyright ©2019 The Authors. 
@@ -207,7 +207,7 @@ _J. Compos. Sci._ **2020** , _4_ , 73
 800[◦] C is considered to be the optimum condition under which the highest specific surface area (SSA) and total pore volume of CAs were achieved. 
 
 
-![](_images/Advances in Manufacturing Composite Carbon_img/_temp_79492522_heal_.pdf-0013-03.png)
+![](_temp_79492522_convert__images/_temp_79492522_convert_.pdf-0013-03.png)
 
 
 **Figure 11.** Schematic and optical micrographs showing the effect of carbonization temperature on the structures of carbonized cellulose nanofibril aerogels for supercapacitor applications. Reprinted with permission from [47]. Copyright ©2019 American Chemical Society. 
@@ -221,13 +221,13 @@ In the work performed by Yang et al. [49], a softwood bleached kraft pulp was us
 _J. Compos. Sci._ **2020** , _4_ , 73 
 
 
-![](_images/Advances in Manufacturing Composite Carbon_img/_temp_79492522_heal_.pdf-0014-02.png)
+![](_temp_79492522_convert__images/_temp_79492522_convert_.pdf-0014-02.png)
 
 
 **Figure 12.** Manufacturing process for a supercapacitor using N-doped carbon nanofiber (NCNF) aerogels from cellulose. Reprinted with permission from [48]. Copyright © 2019 Elsevier Ltd. 
 
 
-![](_images/Advances in Manufacturing Composite Carbon_img/_temp_79492522_heal_.pdf-0014-04.png)
+![](_temp_79492522_convert__images/_temp_79492522_convert_.pdf-0014-04.png)
 
 
 **Figure 13.** SEM images of carbon nanofiber/graphene oxide aerogels with different compositions treated at two different temperatures: ( **a** ) nanofiber: GO = 9:1, heat treated at 750[◦] C, ( **b** ) nanofiber: GO = 8:2, heat treated at 750[◦] C, ( **c** ) nanofiber: GO = 9:1, heat treated at 1100[◦] C. Reprinted with permission from [49]. Copyright ©2019 American Chemical Society. 
@@ -241,7 +241,7 @@ Alginate has been proposed as a sustainable precursor to make carbon nanofiber a
 _J. Compos. Sci._ **2020** , _4_ , 73 
 
 
-![](_images/Advances in Manufacturing Composite Carbon_img/_temp_79492522_heal_.pdf-0015-02.png)
+![](_temp_79492522_convert__images/_temp_79492522_convert_.pdf-0015-02.png)
 
 
 **Figure 14.** Schematic of the synthesis process of FeS nanoparticle-loaded carbon nanofiber aerogel from alginate salt. Reprinted with permission from [50]. Copyright © 2019 Elsevier B.V. 
@@ -261,7 +261,7 @@ Nanofiber generation by self-assembling molecules in solution has been investiga
 _J. Compos. Sci._ **2020** , _4_ , 73 
 
 
-![](_images/Advances in Manufacturing Composite Carbon_img/_temp_79492522_heal_.pdf-0016-02.png)
+![](_temp_79492522_convert__images/_temp_79492522_convert_.pdf-0016-02.png)
 
 
 **Figure 15.** Schematic showing the process of making carbon-nanomaterial-based aerogel from carbon nanotube, graphene oxide, and carbonized sucrose and acacia gum. Reprinted with permission from [52]. Copyright ©2018 American Chemical Society. 
@@ -277,7 +277,7 @@ _J. Compos. Sci._ **2020** , _4_ , 73
 packed in a bush-like morphology and many nanofibers originate from the same point. The EDS confirms the presence of nickel and chlorine in the M-PTCDI aerogels after supercritical drying as can be seen from Figure 17b. Using TEM, M-PTCDI nanofibers are observed with widths around 100–200 nm and predominantly smooth edges as revealed by Figure 17c. After pyrolysis at 1050[◦] C, the SEM image in Figure 17d illustrates that the nanofibers are more irregular and have more curvature after annealing. The composition analyzed using EDS shows the presence of nickel and the elimination of chlorine in the aerogel as can be seen from Figure 17e. Early work performed by Xia et al. [58] described Ni nanoparticle deposition from 0.3 M NiCl2·6H2O precursor solution containing aqueous ammonia and ammonium bicarbonate. At elevated temperatures and in inert and/or reducing gas such as hydrogen, the NiCl2 salt reduces to form Ni nanoparticles, while chlorine is released as HCl gas during the pyrolysis in the atmosphere containing hydrogen [58], i.e., 
 
 
-![](_images/Advances in Manufacturing Composite Carbon_img/_temp_79492522_heal_.pdf-0017-03.png)
+![](_temp_79492522_convert__images/_temp_79492522_convert_.pdf-0017-03.png)
 
 
 TEM imaging confirms the formation of Ni nanoparticles with an approximate diameter of 20 nm, and assembly directly on CNFs as illustrated by Figure 17f. Some Ni nanoparticles contain carbon shells and some areas are made of hollow onions, in which graphitic shells catalytically grow and redeposit prior to nickel evaporation. Nickel is commonly used as a chemical vapor deposition substrate during graphene growth due to its excellent catalytic behavior [59]. Thus, it is expected that nickel plays a catalytic role for the growth of additional carbon structures during the heat treatment. Hollow carbon onions are the major features observed. However, CNF aerogels synthesized using HAuCl4 exhibit additional branching and assembly of Au nanoparticles [57]. Since the upper heat treatment of 2000[◦] C is over the melting point of Ni (1450[◦] C), a highly crystalline and fully graphitic CNF aerogel was obtained with the unique nanoscale morphology as shown by the SEM image in Figure 17g. The 2000[◦] C treated Ni-CNF aerogel maintained the nanofiber morphology of the Ni-PTCDI and Ni-CNF 1050[◦] C aerogel precursors. The EDS as shown in Figure 17h confirms that the nickel has completely evaporated and none remains after treatment at 2000[◦] C. The TEM analysis reveals the evolution of nanoscale morphology as the result of the Ni-directed assembly. Before pyrolysis, a platelet type morphology was observed in the NiCl2-containing precursor nanofibers as shown in Figure 17c. While the pyrolysis at 1050[◦] C allows the nickel nanoparticle to form in the Ni-CNF aerogels. At the temperature as high as 2000[◦] C, carbon atoms can diffuse and changed into the irregular structure as seen in Figure 17i. The irregularity results in an increased number of defects and creates additional active sites for catalysis as reported in [60,61]. Such a morphology also allows larger surface area for more gas storage in the nanofibers. The high crystallinity from graphitization increases the stability of the CNFs. Turner et al. [57] also studied the gold, cobalt, palladium, and iron directed assembly and revealed other nanoscale morphologies including nanoflowers, nanoleaflets, and nanofibers of different widths. The obtained aerogels contain a broad range of compositions controlled by the pyrolysis treatment temperature. This approach can load metal ions directly within the PTCDI organic semiconductor to form the M-PTCDI aerogel. By the heat treatment at the intermediate temperature, a composite carbon nanofiber aerogel, M-CNF-1050, with metal nanoparticles assembled on the low crystallinity graphitic assemblies can be obtained. After the higher temperature pyrolysis, the aerogel was entirely transformed to M-CNF-2000, the highly crystalline graphitic assemblies. It has been reported that the hybrid structures of plasmonic metals and organic semiconductor molecules possess unique optoelectronic properties [62]. They show the plasmon-enhanced behavior in photocatalytic and solar energy applications [63]. The heat treatment at 1050[◦] C leads to the formation of metal nanoparticles assembled on carbon nanofibers, which allows the composite carbon nanofibers to have enhanced electrocatalytic activity, gas sensing performance, and lithium storage capacity [64–68]. If necessary, the metal nanoparticles can be completely eliminated to generate various nanoscale structures within the highly crystalline graphitized carbon nanofiber aerogels by the heat treatment at higher temperature of 2000[◦] C. 
@@ -287,13 +287,13 @@ TEM imaging confirms the formation of Ni nanoparticles with an approximate diame
 _J. Compos. Sci._ **2020** , _4_ , 73 
 
 
-![](_images/Advances in Manufacturing Composite Carbon_img/_temp_79492522_heal_.pdf-0018-02.png)
+![](_temp_79492522_convert__images/_temp_79492522_convert_.pdf-0018-02.png)
 
 
 **Figure 16.** Schematic of perylene tetracarboxyldiimide (PTCDI) self-assembling in water and two-step pyrolysis for crystalline carbon nanofiber aerogel formation. Reprinted with permission from [57]. Copyright © 2019 Elsevier Ltd. 
 
 
-![](_images/Advances in Manufacturing Composite Carbon_img/_temp_79492522_heal_.pdf-0018-04.png)
+![](_temp_79492522_convert__images/_temp_79492522_convert_.pdf-0018-04.png)
 
 
 **Figure 17.** SEM images, EDS spectra and TEM images of ( **a** – **c** ) Ni-PTCDI aerogel, ( **d** – **f** ) Ni-CNF aerogel treated at 1050[◦] C, ( **g** – **i** ) Ni-CNF aerogel treated at 2000[◦] C, respectively. Reprinted with permission from [57]. Copyright © 2019 Elsevier Ltd. 
@@ -313,29 +313,29 @@ From the theory for dielectrophoresis of electrorheological suspensions subjecte
 For simplicity, we assume one dimensional motion of the slurry and define the positive _x_ -axis along the longitudinal direction of the electrospinning jet. The electric potential as a time dependent function, ϕ( _x_ , _t_ ), is related to the electric field intensity, _**E**_ , by its gradient, i.e., 
 
 
-![](_images/Advances in Manufacturing Composite Carbon_img/_temp_79492522_heal_.pdf-0019-07.png)
+![](_temp_79492522_convert__images/_temp_79492522_convert_.pdf-0019-07.png)
 
 
 From experiments, the electric field with a spatially varying phase can be determined by the applying voltages with different phases to the jet and the fiber collector. The real part ϕ1 and the imaginary part ϕ2 of the electric potential, can be obtained by solving the Laplace’s equations: 
 
 
-![](_images/Advances in Manufacturing Composite Carbon_img/_temp_79492522_heal_.pdf-0019-09.png)
+![](_temp_79492522_convert__images/_temp_79492522_convert_.pdf-0019-09.png)
 
 
 
-![](_images/Advances in Manufacturing Composite Carbon_img/_temp_79492522_heal_.pdf-0019-10.png)
+![](_temp_79492522_convert__images/_temp_79492522_convert_.pdf-0019-10.png)
 
 
 According to Jones [74], the dipole moment of the polarized _i_ th particle, _**p** i_ , in the fluctuating electric field with a frequency of ω is expressed as: 
 
 
-![](_images/Advances in Manufacturing Composite Carbon_img/_temp_79492522_heal_.pdf-0019-12.png)
+![](_temp_79492522_convert__images/_temp_79492522_convert_.pdf-0019-12.png)
 
 
 where _ri_ is the radius of the _i_ th oxide particle, ε _o_ is the permittivity of the vacuum, ε _l_ is the permittivity of the polymer fluid, β(ω) is the frequency-dependent Clausius–Mossotti factor which is given by: 
 
 
-![](_images/Advances in Manufacturing Composite Carbon_img/_temp_79492522_heal_.pdf-0019-14.png)
+![](_temp_79492522_convert__images/_temp_79492522_convert_.pdf-0019-14.png)
 
 
 where ε[∗] _p_[is the complex permittivity of the oxide particle and][ ε][∗] _l_[is the complex permittivity of the] polymer fluid. 
@@ -343,13 +343,13 @@ where ε[∗] _p_[is the complex permittivity of the oxide particle and][ ε][�
 The time-averaged dielectrophoretic force acting on an isolated particle, which arises due to the spatial nonuniformity of the electric field, can be given in terms of the electric potential: 
 
 
-![](_images/Advances in Manufacturing Composite Carbon_img/_temp_79492522_heal_.pdf-0019-17.png)
+![](_temp_79492522_convert__images/_temp_79492522_convert_.pdf-0019-17.png)
 
 
 and the force due to the spatial phase variation of the electric field is given by: 
 
 
-![](_images/Advances in Manufacturing Composite Carbon_img/_temp_79492522_heal_.pdf-0019-19.png)
+![](_temp_79492522_convert__images/_temp_79492522_convert_.pdf-0019-19.png)
 
 
 20 of 40 
@@ -361,25 +361,25 @@ where _Re_ [·] is the real part and _Im_ [·] is the imaginary part.
 The time-averaged interaction force between the _i_ th and _j_ th oxide particle may be computed following the analysis as presented in [73]: 
 
 
-![](_images/Advances in Manufacturing Composite Carbon_img/_temp_79492522_heal_.pdf-0020-04.png)
+![](_temp_79492522_convert__images/_temp_79492522_convert_.pdf-0020-04.png)
 
 
 where _**p** i_ denotes the dipole moment of particle _i_ and _**d** ij_ is the displacement vector in the direction connecting the center of the _i_ th particle to the center of the _j_ th particle. The net electrostatic interaction force acting on the _i_ th particle is the sum of the interaction forces with all other particles and is given by 
 
 
-![](_images/Advances in Manufacturing Composite Carbon_img/_temp_79492522_heal_.pdf-0020-06.png)
+![](_temp_79492522_convert__images/_temp_79492522_convert_.pdf-0020-06.png)
 
 
 where _N_ is the number of particles. The total electrostatic force: _**F** E_ , _i_ acting on the _i_ th particle is given by the vector addition of the dielectrophoretic and particle-particle interaction forces, i.e., 
 
 
-![](_images/Advances in Manufacturing Composite Carbon_img/_temp_79492522_heal_.pdf-0020-08.png)
+![](_temp_79492522_convert__images/_temp_79492522_convert_.pdf-0020-08.png)
 
 
 In addition to the electrostatic forces, the particle also experiences an electrostatic torque: _**T** E,i_ whose time average is given by 
 
 
-![](_images/Advances in Manufacturing Composite Carbon_img/_temp_79492522_heal_.pdf-0020-10.png)
+![](_temp_79492522_convert__images/_temp_79492522_convert_.pdf-0020-10.png)
 
 
 Once the electric force _**F** E,i_ , and the electrostatic torque _**T** E,i_ are found, it is readily to determine the translational velocity of the _i_ th particle _**V** i_ and its rotational velocity **Ω** _i_ using the impulse and momentum principles. The velocity of the liquid jet _**V** l_ can also be determined by the continuity and Navier–Stokes equations. Due to the spatial nonuniformity of the electric field, the phase variation of the electric field, it is predicted that the relative velocity between the _i_ th and _j_ th particles _**V** rel_ = _**V** i_ − _**V** j_ should have a non-zero solution. This indicates that with the separation between any of the two particles increases with the electrospinning injection time _t_ . From the above framework, the quantitative results can be obtained to understand the self-assembling or spatial separation of particles in precursor fibers. 
@@ -389,17 +389,17 @@ Once the electric force _**F** E,i_ , and the electrostatic torque _**T** E,i_ a
 The thermal and electrical conductivities of the particle filled micro/nanofiber networks can be analysed using the general formula: 
 
 
-![](_images/Advances in Manufacturing Composite Carbon_img/_temp_79492522_heal_.pdf-0020-14.png)
+![](_temp_79492522_convert__images/_temp_79492522_convert_.pdf-0020-14.png)
 
 
 From this general formula, the thermal conductivity, κ, can be calculated from the ratio of transport rate, i.e., the heat _Q_ flowing through the cross section area _Az_ , to the driving force (∆ _T[e]_ ), which is the temperature difference as marked in Figure 18a [75]. For calculating the electric conductivity, σ, the transport rate should be replaced by the electrical current density _J_ crossing area _Az_ , and the driving force should be replaced by the electrical potential difference ∆ _V[e]_ in Figure 18a. Therefore, 
 
 
-![](_images/Advances in Manufacturing Composite Carbon_img/_temp_79492522_heal_.pdf-0020-16.png)
+![](_temp_79492522_convert__images/_temp_79492522_convert_.pdf-0020-16.png)
 
 
 
-![](_images/Advances in Manufacturing Composite Carbon_img/_temp_79492522_heal_.pdf-0020-17.png)
+![](_temp_79492522_convert__images/_temp_79492522_convert_.pdf-0020-17.png)
 
 
 21 of 40 
@@ -407,7 +407,7 @@ From this general formula, the thermal conductivity, κ, can be calculated from 
 _J. Compos. Sci._ **2020** , _4_ , 73 
 
 
-![](_images/Advances in Manufacturing Composite Carbon_img/_temp_79492522_heal_.pdf-0021-02.png)
+![](_temp_79492522_convert__images/_temp_79492522_convert_.pdf-0021-02.png)
 
 
 **Figure 18.** Schematic of nanofiber networks and coordinate systems for modeling: ( **a** ) 3D nanofiber networks; ( **b** ) contacts in nanofiber networks; ( **c** ) coordinates for analysis. Reproduced under the terms and conditions of the liberal Creative Commons Attribution 4.0 International (CC BY) license from [75]. Published by AIP Publishing, Copyright ©2018 The Authors. 
@@ -415,11 +415,11 @@ _J. Compos. Sci._ **2020** , _4_ , 73
 The thermal conductivity estimation can be carried out following the formulism as described by Zhao et al. [75]. The heat flow _Q_ can be computed as the summation of the heat flow through each individual nanofiber across _Az_ in the _z_ -direction. Similarly, the current density _J_ can be expressed by the summation of the electric current flowing through every fiber. 
 
 
-![](_images/Advances in Manufacturing Composite Carbon_img/_temp_79492522_heal_.pdf-0021-05.png)
+![](_temp_79492522_convert__images/_temp_79492522_convert_.pdf-0021-05.png)
 
 
 
-![](_images/Advances in Manufacturing Composite Carbon_img/_temp_79492522_heal_.pdf-0021-06.png)
+![](_temp_79492522_convert__images/_temp_79492522_convert_.pdf-0021-06.png)
 
 
 Referring to the schematic of the contacts in Figure 18b, α _i_ is the _i_ th contact along nanofiber α, β _j_ refers to the _j_ th contact along nanofiber β, κ _o_ is the thermal conductivity of an individual fiber, _Ao_ is the cross section area of the single fiber. σ _o_ is the conductivity of the single fiber, _L_ is the average length of the fiber, < _Nc_ > is the average of _Nc_ , which is defined as the number of contacts of a nanofiber with orientation distribution (θ, φ) [76]. The angles of θ and φ are shown in the coordinates as illustrated in Figure 18c. _ns_ is the areal number density of the nanofibers penetrating the cross-section _Az_ with the direction of θ = 0 [77]. 
@@ -427,17 +427,17 @@ Referring to the schematic of the contacts in Figure 18b, α _i_ is the _i_ th c
 From Equations (12) and (13), the relative thermal and electrical conductivities can be found as: 
 
 
-![](_images/Advances in Manufacturing Composite Carbon_img/_temp_79492522_heal_.pdf-0021-09.png)
+![](_temp_79492522_convert__images/_temp_79492522_convert_.pdf-0021-09.png)
 
 
 
-![](_images/Advances in Manufacturing Composite Carbon_img/_temp_79492522_heal_.pdf-0021-10.png)
+![](_temp_79492522_convert__images/_temp_79492522_convert_.pdf-0021-10.png)
 
 
 The average number of contacts can be estimated by modifying the Pan’s statistical method [76]. For a 3D random network, the average contact number is calculated as: 
 
 
-![](_images/Advances in Manufacturing Composite Carbon_img/_temp_79492522_heal_.pdf-0021-12.png)
+![](_temp_79492522_convert__images/_temp_79492522_convert_.pdf-0021-12.png)
 
 
 22 of 40 
@@ -447,7 +447,7 @@ _J. Compos. Sci._ **2020** , _4_ , 73
 where _r_ is the average aspect ratio of the micro/nanofibers. The areal number density for a 3D random network, _ns_ , is estimated as [75]: 
 
 
-![](_images/Advances in Manufacturing Composite Carbon_img/_temp_79492522_heal_.pdf-0022-03.png)
+![](_temp_79492522_convert__images/_temp_79492522_convert_.pdf-0022-03.png)
 
 
 _Vf_ is the fiber volume fraction. In the case that fibers are aligned in one direction, _ns_ = _VAof_[.] Based on the analytical modelling, those important structure and property parameters associated with the composite carbon nanofiber aerogels can be obtained. Especially, the relative thermal conductivity and electrical conductivity will be determined by the above models. Some of the parameters related to the single micro- nanofiber including the thermal conductivity of an individual fiber κ _o_ , the cross section area of the single fiber _Ao_ , and the electrical conductivity of an individual fiber σ _o_ can be measured by a conductive atomic force microscopy. 
@@ -459,13 +459,13 @@ The Seebeck coefficients of the particle/carbon fiber aerogel specimens can be m
 Theoretical studies for establishing the necessary Seebeck coefficient model was conducted to understand why the thermoelectric property of the composite aerogel materials can be enhanced. As the start point, the Culter-Mott formula [78] which was initially developed for degenerated semiconductors was used to estimate the Seebeck coefficient of the particle-containing composite carbon nanofiber aerogel _S_ , i.e., 
 
 
-![](_images/Advances in Manufacturing Composite Carbon_img/_temp_79492522_heal_.pdf-0022-08.png)
+![](_temp_79492522_convert__images/_temp_79492522_convert_.pdf-0022-08.png)
 
 
 where, _k_ is the Boltzmann constant, σ the conductivity, _e_ the absolute value of the electron charge, _n_ the density of charge carriers, τ the scattering time and _EF_ the Fermi energy. Since both _p_ -type and _n_ -type oxides are used, the charge carriers in the interface are either holes or electrons. The composite carbon nanofiber aerogel materials as prepared are in 3D network form; the carrier concentration per unit interface area can be approximately by: 
 
 
-![](_images/Advances in Manufacturing Composite Carbon_img/_temp_79492522_heal_.pdf-0022-10.png)
+![](_temp_79492522_convert__images/_temp_79492522_convert_.pdf-0022-10.png)
 
 
 23 of 40 
@@ -475,7 +475,7 @@ _J. Compos. Sci._ **2020** , _4_ , 73
 where, ν is the index of the discrete 3D energy levels, Φ the Heaviside step function whose value is zero for negative argument and equals to 1 for positive argument, _me_ ff the effective mass of the charge carriers, _E_ ν the ν-th energy level. _E_ ν can be determined as: 
 
 
-![](_images/Advances in Manufacturing Composite Carbon_img/_temp_79492522_heal_.pdf-0023-03.png)
+![](_temp_79492522_convert__images/_temp_79492522_convert_.pdf-0023-03.png)
 
 
 where, _d_ is the diameter of the particles. From the above analysis, it is clear that in order to increase the Seebeck coefficient, both conductivity σ, and scattering time τ should be increased. The smaller the diameter of the particles, the higher the absolute value of _E_ ν is. Therefore, it is necessary to make very fine nanoparticles because the finer the nanoparticles, the bigger the interface area, the longer the scattering time in addition to a larger absolute value of _E_ ν. By changing the diameters of the particles and the carbon nanofibers ranging from several nm to hundreds of nm using the approaches as previously shown in [79–81], the conductivity σ, the scattering time τ, and the ν-th energy level _E_ ν was calculated and compared with experimental measurement results. Based on the comparative studies, necessary modification on the model were made. 
@@ -489,13 +489,13 @@ Electrical and thermal conductive properties were characterized to evaluate the 
 Xu et al. [37] reported that the carbonization of the PAN-derived nanofibers can be viewed as a thermally activated process. The kinetics of carbonization can be described by the Arrhenius relation, i.e., 
 
 
-![](_images/Advances in Manufacturing Composite Carbon_img/_temp_79492522_heal_.pdf-0023-09.png)
+![](_temp_79492522_convert__images/_temp_79492522_convert_.pdf-0023-09.png)
 
 
 where _Qc_ is the activation energy for carbonization; σ is the electrical conductivity of the fiber at the given temperature _T_ ; _k_ is the Boltzmann constant; and σ _o_ is a constant related to the material. Taking logarithm on both sides the above Equation (20) and rearranging the terms yield: 
 
 
-![](_images/Advances in Manufacturing Composite Carbon_img/_temp_79492522_heal_.pdf-0023-11.png)
+![](_temp_79492522_convert__images/_temp_79492522_convert_.pdf-0023-11.png)
 
 
 Equation (21) gives a straight line between log (σ) and 1/ _T_ . From the slope of this line, the activation energy for carbonization can be calculated. It is interesting to observe the pyrolysis from the initial carbonization at 450[◦] C to the fast carbonization at 850[◦] C within the whole heat treatment temperature range to understand the kinetics of the carbon nanofiber formation from the PAN polymer. The data of logarithmic conductivity, log (σ), and the reciprocal of temperature, 1/ _T_ , were obtained for composite carbon fibers with and without nanoparticle addition. The data points were fitted linearly and the line 
@@ -585,7 +585,7 @@ The catalysis property of aerogels has been demonstrated in various ways [136,16
 To reduce the use or even replace noble metals such as Pt, Rh, and Pd, cobalt nanoparticle-loaded carbon nanofiber aerogels were studied for oxygen reduction [162]. Interestingly, as a metal-free catalyst, doped carbon fiber aerogels have found potential applications. For example, in the work performed by Liang et al. [136], a bacterial cellulose (BC) was made into aerogel first. After pyrolysis and annealing in ammonia, a derived carbon nanofiber aerogel doped with nitrogen was obtained. The whole process is demonstrated briefly in Figure 19 [136]. The solution containing bacterial cellulose was frozen in liquid nitrogen (−196[◦] C) and then freeze-dried in a bulk tray dryer. Solvent sublimation was done at a temperature of −50[◦] C and a pressure of 0.04 mbar. The dried BC aerogel was carbonized at 800[◦] C in N2 flow to generate a black carbon nanofiber (CNF) aerogel. Then, nitrogen doping was conducted by annealing the CNF aerogel at 700–900[◦] C for 1 h in NH3 atmosphere. The final product of N-doped carbon nanofiber aerogel was tested as a metal-free electrocatalyst. It is confirmed that the aerogel is indeed effective on oxygen reduction reaction (ORR) catalysis when used as the cathode material for the zinc-air battery. N-doped carbon nanofiber aerogels have been investigated as metal-free catalysts for oxygen reduction as well in [163,164]. 
 
 
-![](_images/Advances in Manufacturing Composite Carbon_img/_temp_79492522_heal_.pdf-0029-06.png)
+![](_temp_79492522_convert__images/_temp_79492522_convert_.pdf-0029-06.png)
 
 
 **Figure 19.** Optical pictures (left and middle) and SEM image (right) showing the procedures for making a nitrogen doped carbon nanofiber aerogel as a metal-free catalyst for oxygen reduction reaction catalysis in zinc-air battery. Reprinted with permission from [136]. Copyright © 2014 Elsevier Ltd. 
@@ -1007,7 +1007,7 @@ _J. Compos. Sci._ **2020** , _4_ , 73
 172. Gan, Y.X. Structural assessment of nanocomposites. _Micron_ **2012** , _43_ , 782–817. [CrossRef] 
 
 
-![](_images/Advances in Manufacturing Composite Carbon_img/_temp_79492522_heal_.pdf-0040-04.png)
+![](_temp_79492522_convert__images/_temp_79492522_convert_.pdf-0040-04.png)
 
 
 © 2020 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (http://creativecommons.org/licenses/by/4.0/). 

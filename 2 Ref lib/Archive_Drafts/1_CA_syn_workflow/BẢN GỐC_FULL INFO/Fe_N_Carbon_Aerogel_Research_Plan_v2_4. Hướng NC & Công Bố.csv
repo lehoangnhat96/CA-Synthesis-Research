@@ -1,9 +1,0 @@
-﻿BẢNG HƯỚNG NGHIÊN CỨU CÓ THỂ CÔNG BỐ – PHÂN TÍCH MỨC ĐỘ KHẢ THI & TẠP CHÍ MỤC TIÊU
-STT,Hướng nghiên cứu,Analyte mục tiêu,Điểm mới chính,Tạp chí mục tiêu,IF ước tính,Q hạng,Khả thi?,Thời gian ước tính,Ghi chú chiến lược
-P1,Fe-N Carbon Aerogel/GCE phát hiện Pb²⁺ + Cd²⁺ (ASV),"Pb²⁺, Cd²⁺",Biomass xơ dừa + ambient drying lần đầu cho ASV,Sensors & Actuators B,8–9,Q1,✅ Cao,6–8 tháng,Bài báo CỐT LÕI. LOD <0.01 ppb là cần thiết. So sánh với GCE bare
-P2,Fe-N-CA/GCE sensor dopamine trong PBS pH 7.4,Dopamine (DA),"Chứng minh tính chọn lọc DA vs AA, UA; LOD <10 nM",Analytical Chemistry (ACS),8–10,Q1,✅ Cao,6–8 tháng,Nên kết hợp EIS để giải thích cơ chế. Dùng cùng vật liệu bài P1 → tiết kiệm
-P3,Phát hiện đồng thời Pb²⁺ + DA trên 1 điện cực,Pb²⁺ + DA đồng thời,Dual detection trên cùng điện cực – ít bài công bố,Journal of Hazardous Materials hoặc ACS Appl. Mater.,9–11,Q1,⚠ Trung bình,8–10 tháng,Cần tối ưu window thế để 2 peak không overlap. Rủi ro kỹ thuật cao hơn
-P4,So sánh hiệu quả doping đơn N vs Fe-N vs Fe-N-S,Pb²⁺ hoặc DA,Systematic doping study – phân tích cơ chế DFT,Carbon hoặc Electrochimica Acta,6–8,Q1/Q2,⚠ Trung bình,10–12 tháng,Cần tính toán DFT → cộng tác nhóm lý thuyết hoặc dùng Gaussian/VASP
-P5,Ambient-dried aerogel: so sánh CO₂-supercritical,Không cần analyte,Review/short comm về ambient vs freeze vs supercritical drying,ACS Sustainable Chem. Eng.,9,Q1,✅ Cao,4–5 tháng,"Bài ngắn (short communication), tận dụng dữ liệu BET, SEM đã có từ bài chính"
-P6,CA từ xơ dừa cho supercapacitor (spin-off),Năng lượng điện,Ứng dụng năng lượng – xu hướng hot 2024–2026,Journal of Power Sources,9,Q1,✅ Cao,8–10 tháng,Tận dụng CÙNG vật liệu → 2 bài từ 1 quy trình tổng hợp
-P7,Biomass-derived N-doped CA: review 5 năm gần đây,Review article,Tổng hợp xu hướng; không cần thí nghiệm mới,Coordination Chem. Reviews / Chem. Soc. Rev.,IF >20,Q1,⚠ Khó,12–18 tháng,Chỉ nên làm khi đã có ≥2 bài thực nghiệm. Cần kinh nghiệm viết review

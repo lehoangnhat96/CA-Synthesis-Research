@@ -1,11 +1,11 @@
 
-![](_images/A Comparison of Electrochemical Performance of_images/_temp_faaab244_convert_.pdf-0001-00.png)
+![](_temp_1b4395ed_convert__images/_temp_1b4395ed_convert_.pdf-0001-00.png)
 
 
 ## _**materials**_ 
 
 
-![](_images/A Comparison of Electrochemical Performance of_images/_temp_faaab244_convert_.pdf-0001-02.png)
+![](_temp_1b4395ed_convert__images/_temp_1b4395ed_convert_.pdf-0001-02.png)
 
 
 _Article_ 
@@ -77,13 +77,13 @@ The CA powder (3 g) was mixed with 200 mL of iron solution, chromium solution, a
 The kinetics of the CAs adsorption processes were studied. The appropriate kinetic model was selected to fit the adsorption process. The relevant adsorption kinetic parameters were calculated, which was important for investigating the adsorption processes. In this experiment, pseudo-first-order kinetic equations and pseudo-second-order kinetic equations were used to fit the adsorption process and experimental data of the CAs with metal ions. The expression for the pseudo-first-order kinetic equation is shown below [21]. 
 
 
-![](_images/A Comparison of Electrochemical Performance of_images/_temp_faaab244_convert_.pdf-0003-08.png)
+![](_temp_1b4395ed_convert__images/_temp_1b4395ed_convert_.pdf-0003-08.png)
 
 
 The expression for the pseudo-second-order kinetic equation is shown below. 
 
 
-![](_images/A Comparison of Electrochemical Performance of_images/_temp_faaab244_convert_.pdf-0003-10.png)
+![](_temp_1b4395ed_convert__images/_temp_1b4395ed_convert_.pdf-0003-10.png)
 
 
 In the equation, _k_ 1 (min _[−]_[1] ) and _k_ 2 (g _·_ (mg _·_ min) _[−]_[1] ) stood for the rate constants of pseudo-first-order and pseudo-second-order adsorption, respectively. _t_ was the reaction time (min), _Qt_ was the amount of adsorption at time _t_ (mg _·_ g _[−]_[1] ), and _Qe_ was the balanced adsorption capacity (mg _·_ g _[−]_[1] ). In Equation (1), plotting ln( _Qe − Qt_ ) against t linearizes the data. If a linear function was obtained, it could be used as a pseudo-first-order kinetic model. Similarly, in Equation (2), _Q_ t _t_[plotted against t linearizes the data.] If a linear function was obtained, it could be used as a pseudo-second-order kinetic model. 
@@ -97,7 +97,7 @@ _Materials_ **2018** , _11_ , 2271
 that it desorbed from the solid surface, which corresponds to a dynamic equilibrium process. The basic mathematical expression of the Langmuir isotherm equation is shown below. 
 
 
-![](_images/A Comparison of Electrochemical Performance of_images/_temp_faaab244_convert_.pdf-0004-03.png)
+![](_temp_1b4395ed_convert__images/_temp_1b4395ed_convert_.pdf-0004-03.png)
 
 
 In this equation, _Qe_ is the balanced adsorption capacity (mg _·_ g _[−]_[1] ), _Qm_ is the monolayer saturated _· ·_ adsorption (mg g _[−]_[1] ), b is the adsorption equilibrium constant (L mg _[−]_[1] ), and Ce is the concentration of adsorbates in the system at the adsorption equilibrium (mg _·_ L _[−]_[1] ). 
@@ -105,7 +105,7 @@ In this equation, _Qe_ is the balanced adsorption capacity (mg _·_ g _[−]_[1]
 In addition, the adsorption capacity of carbon aerogels could be assessed based on the amount of adsorbed metal ( _Qe_ ). The amount of adsorbed metal was calculated by the following formula [21]. 
 
 
-![](_images/A Comparison of Electrochemical Performance of_images/_temp_faaab244_convert_.pdf-0004-06.png)
+![](_temp_1b4395ed_convert__images/_temp_1b4395ed_convert_.pdf-0004-06.png)
 
 
 In Formula (4), _qe_ is the adsorption capacity (mg _·_ g _[−]_[1] ), _C_ 0 and _Ce_ are the concentrations of metal ions in the solution before and after adsorption, respectively (mg _·_ L _[−]_[1] ), m is the quantity of adding adsorbent (g), and V is the volume of the solution containing metal ions (L). 
@@ -115,7 +115,7 @@ In Formula (4), _qe_ is the adsorption capacity (mg _·_ g _[−]_[1] ), _C_ 0 a
 The gels were carbonized by tube furnace (OTF-1200X-5L, HeFei Kejing Materials Technology Co. Ltd., Hefei, China) at 600 _[◦]_ C. The Brunaure-Emmett-Teller method and Density-Functional-Theory (DFT) model calculated the specific surface area and the micropore surface area (ASAP 2420, Norcross, GA, USA). The pore volumes and pore size were used in the Barrett-Joyner-Halenda (BJH) model. The degassing temperature was maintained at 90 _[◦]_ C for 1 h and then increased to 250 _[◦]_ C for 6 h. The carrier gas was N2. The surface morphologies of the samples were analyzed by SEM (s-4800-I, Tescan, Brno, Czech Republic), which were equipped with an APOLLO EDS immobilizing the sample with conduction glue. The internal morphology was observed by TEM (JEM-2100 Plus, JEOL. Co. Ltd., Tokyo, Japan), which the ground CA-X powder was placed in an absolute ethanol solution and the ultrasonic wave was evenly uniform and dropped into the micro-grid. XRD (X-ray diffraction, Cu target, λ = 1.54 Å and Kα radiation, UItima IV X-ray diffractometer, Rigaku, Tokyo, Japan) was used to identify the specific peak to metals and the peaks characteristic of the CAs. The surface compositions of CA-X were characterized by XPS (PHI5600, PHI, Lafayette, LA, USA). A UV-vis spectrophotometer (TU-1900, Beijing Persee Instruments Co. Ltd., Beijing, China) was used to measure the metal ions concentration and characterize the adsorption capacity of CAs. Electrochemical performances were measured with a GAMRY Interface 1000 electrochemical workstation. All the measurements used a three-electrode system with a saturated calomel electrode (SCE) and Pt as a reference and counter electrode. The CA-X and blank samples were the working electrode. In this work, cycle voltammetry (CV, scanning rate 0.1~20 mV _·_ s _[−]_[1] , scanning voltage _−_ 0.8 to 0 V), electrochemical impedance spectroscopy (EIS), and charge and discharge testing (voltage range _−_ 0.8 to 0 V, current density range 0.5 to 3.0 A _·_ g _[−]_[1] ) were used for the investigation. The formula to calculate the specific capacitance was shown below [23]. 
 
 
-![](_images/A Comparison of Electrochemical Performance of_images/_temp_faaab244_convert_.pdf-0004-10.png)
+![](_temp_1b4395ed_convert__images/_temp_1b4395ed_convert_.pdf-0004-10.png)
 
 
 In this case, _Cm_ was the single-electrode specific capacitance (F _·_ g _[−]_[1] ), I was the charge current (A), ∆t was the charge time (s), m was the quality (g), and ∆V was the potential window (V). 
@@ -131,7 +131,7 @@ _Materials_ **2018** , _11_ , 2271
 The results of the pseudo-first-order kinetic and the pseudo-second-order kinetic models under different stirring time were shown in Figure 1. From Figure 1A, in the pseudo-first-order kinetic model, the correlation coefficients (R[2] ) of CA-Fe, CA-Cr, and CA-Cu were 0.997, 0.946, and 0.915, respectively. In the pseudo-second-order kinetic model (Figure 1B), the R[2] values of CA-Fe, CA-Cr, and CA-Cu were 0.998, 0.999, and 0.992, respectively. Clearly, the pseudo-second-order kinetic model had a higher R[2] (R[2] > 0.99). The adsorbing metal ions followed pseudo-second-order kinetics model. 
 
 
-![](_images/A Comparison of Electrochemical Performance of_images/_temp_faaab244_convert_.pdf-0005-05.png)
+![](_temp_1b4395ed_convert__images/_temp_1b4395ed_convert_.pdf-0005-05.png)
 
 
 **Figure 1. Figure 1** . ( **A** ) Pseudo-first-order kinetic model and ( **B** ) pseudo-second-order kinetic model. 
@@ -139,7 +139,7 @@ The results of the pseudo-first-order kinetic and the pseudo-second-order kineti
 The results of fitting the Langmuir isothermal adsorption equation to the experimental data were shown in Figure 2. According to Figure 1, CA-Cu had the largest correlation coefficient (R[2] = 0.9999), which indicated that the adsorption process of Cu(II) on CAs was well fitted with physical adsorption. The adsorption capacities of carbon materials were largely dependent on the surface functional groups such as –COOH and –C=O, which could be introduced on the surface of the CAs. These functional groups mainly contributed to the adsorption of Cu (II) on the surface of the CAs [24]. Furthermore, the smaller ionic radius of Cu(II) was more beneficial for the adsorption on CAs [25]. Therefore, the experimental data were consistent with the Langmuir model of single-layer adsorption. 
 
 
-![](_images/A Comparison of Electrochemical Performance of_images/_temp_faaab244_convert_.pdf-0005-08.png)
+![](_temp_1b4395ed_convert__images/_temp_1b4395ed_convert_.pdf-0005-08.png)
 
 
 **----- Start of picture text -----**<br>
@@ -157,7 +157,7 @@ _Materials_ **2018** , _11_ , 2271
 adsorbed by the CAs was 424 mg _·_ g _[−]_[1] . As shown in Table 1, the maximum adsorption amounts of _· ·_ CA-Fe and CA-Cr were 133 mg g _[−]_[1] and 139 mg g _[−]_[1] , respectively. The reason for this was the strong electrostatic attraction between the metal ions and the CAs [26]. Before UV measured the absorbance, the copper solution was adjusted to a pH of approximately 9 with ammonia. When the standard solution containing iron was prepared, 6 M HNO3 was added to dissolve the (NH4)2Fe(SO4) _·_ 6H2O and the pH was approximately 6. The pH value of the standard chromium solution was 7 by using HNO3 and NaOH to adjust. In acidic solutions, metal ions competed with H[+] for the adsorption sites, which resulted in the reduction of adsorption of the heavy metal ions. Therefore, Fe(III) had the smallest adsorption capacity (133 mg _·_ g _[−]_[1] ) and the adsorption amount of Cr(VI) was 139 mg _·_ g _[−]_[1] . However, in an alkaline solution, the proportion of (CuOH)[+] was large, the average charge density was small, and the electronegativity was high. At the same time, more anion adsorption sites provided by functional groups such as carboxyl and carbonyl and surface complexation with Cu(II) resulted in increasing adsorption [27]. The maximum adsorption capacity of different adsorbent for the removal metal ions was shown in Table 2. 
 
 
-![](_images/A Comparison of Electrochemical Performance of_images/_temp_faaab244_convert_.pdf-0006-03.png)
+![](_temp_1b4395ed_convert__images/_temp_1b4395ed_convert_.pdf-0006-03.png)
 
 
 **----- Start of picture text -----**<br>
@@ -195,7 +195,7 @@ _Materials_ **2018** , _11_ , 2271
 and CA-Cu were gentler, which suggests less presence of micropores in CAs, which was caused by the metal ions adsorption on CAs [33,34]. When the relative pressure P/P0 > 0.8, all the curves had an H1 type hysteresis loop, which indicated that there were mesopores and macropores in the materials and capillary condensation occurred. 
 
 
-![](_images/A Comparison of Electrochemical Performance of_images/_temp_faaab244_convert_.pdf-0007-03.png)
+![](_temp_1b4395ed_convert__images/_temp_1b4395ed_convert_.pdf-0007-03.png)
 
 
 **----- Start of picture text -----**<br>
@@ -207,7 +207,7 @@ and CA-Cu were gentler, which suggests less presence of micropores in CAs, which
 Figure 5 showed the pore size distribution. As shown in Figure 5, all curves showed typical hierarchical porosity and the materials were composed of micropores, mesopores, and macropores, which were advantageous for adsorbing metals. Adsorption occurred mainly in micropores while adsorption in micropores required mesoporous/macroporous transitions. From Figure 4, we could understand that the hysteresis loops of the samples were consistent with the H1 model in the IUPAC [32] regulations, which indicates that the materials had good channel connectivity. 
 
 
-![](_images/A Comparison of Electrochemical Performance of_images/_temp_faaab244_convert_.pdf-0007-06.png)
+![](_temp_1b4395ed_convert__images/_temp_1b4395ed_convert_.pdf-0007-06.png)
 
 
 **----- Start of picture text -----**<br>
@@ -252,11 +252,11 @@ _Materials_ **2018** , _11_ , 2271
 9 of 17 
 
 
-![](_images/A Comparison of Electrochemical Performance of_images/_temp_faaab244_convert_.pdf-0009-02.png)
+![](_temp_1b4395ed_convert__images/_temp_1b4395ed_convert_.pdf-0009-02.png)
 
 
 
-![](_images/A Comparison of Electrochemical Performance of_images/_temp_faaab244_convert_.pdf-0009-03.png)
+![](_temp_1b4395ed_convert__images/_temp_1b4395ed_convert_.pdf-0009-03.png)
 
 
 **Figure 6.** SEM images of CA-X ( **A** ) CA-Fe ( **B** ) CA-Cr ( **C** ) CA-Cu and ( **D** ) Blank, EDS of CA-X ( **E** ), CA-Fe ( **F** ) and CA-Cr ( **G** ). 
@@ -266,13 +266,13 @@ _Materials_ **2018** , _11_ , 2271
 10 of 17 
 
 
-![](_images/A Comparison of Electrochemical Performance of_images/_temp_faaab244_convert_.pdf-0010-02.png)
+![](_temp_1b4395ed_convert__images/_temp_1b4395ed_convert_.pdf-0010-02.png)
 
 
 **Figure 7.** TEM images of ( **A** ) CA-Fe, ( **B** ) CA-Cr, ( **C** ) CA-Cu, and ( **D** ) Blank, HRTEM images of ( **a** ) CA-Fe, ( **b** ) CA-Cr and ( **c** ) CA-Cu. 
 
 
-![](_images/A Comparison of Electrochemical Performance of_images/_temp_faaab244_convert_.pdf-0010-04.png)
+![](_temp_1b4395ed_convert__images/_temp_1b4395ed_convert_.pdf-0010-04.png)
 
 
 **----- Start of picture text -----**<br>
@@ -290,13 +290,13 @@ _Materials_ **2018** , _11_ , 2271
 11 of 17 
 
 
-![](_images/A Comparison of Electrochemical Performance of_images/_temp_faaab244_convert_.pdf-0011-02.png)
+![](_temp_1b4395ed_convert__images/_temp_1b4395ed_convert_.pdf-0011-02.png)
 
 
 **Figure 9.** XPS spectra of CA-X, full-scan spectrum ( **a** , **b** , **c** ), C1s ( **d** ), and O1s ( **e** ). 
 
 
-![](_images/A Comparison of Electrochemical Performance of_images/_temp_faaab244_convert_.pdf-0011-04.png)
+![](_temp_1b4395ed_convert__images/_temp_1b4395ed_convert_.pdf-0011-04.png)
 
 
 **----- Start of picture text -----**<br>
@@ -314,7 +314,7 @@ _Materials_ **2018** , _11_ , 2271
 _· ·_ improve charge transfer. The specific capacitance of the CA-Cu was 255 F g _[−]_[1] , the blank was 125 F g _[−]_[1] , and the CA-Fe was 215 F _·_ g _[−]_[1] . The specific capacitance data were shown in Table 4. This analysis result demonstrated that CAs not only removed metal ions but also the CAs adsorbing metals could be used as super capacitor materials. From Table 4, we discovered the specific capacitance of CA-Cu was 255 F _·_ g _[−]_[1] , which was higher than that of CA-Cu-0. This result showed the copper ions of the CA-Cu-0 could desorb and come into the electrolyte. Table 5 showed the comparison of the super capacitors and similar materials. 
 
 
-![](_images/A Comparison of Electrochemical Performance of_images/_temp_faaab244_convert_.pdf-0012-03.png)
+![](_temp_1b4395ed_convert__images/_temp_1b4395ed_convert_.pdf-0012-03.png)
 
 
 **----- Start of picture text -----**<br>
@@ -352,7 +352,7 @@ _Materials_ **2018** , _11_ , 2271
 13 of 17 
 
 
-![](_images/A Comparison of Electrochemical Performance of_images/_temp_faaab244_convert_.pdf-0013-02.png)
+![](_temp_1b4395ed_convert__images/_temp_1b4395ed_convert_.pdf-0013-02.png)
 
 
 **----- Start of picture text -----**<br>
@@ -364,15 +364,15 @@ _·_ **Figure 12.** Charge/discharge cycles of CA-X, CA-Cu-0, and blank at the c
 Figure 13 showed the EIS data including the resistance of CA-X and the blank. The frequency of the Nyquist plot ranged from 0.01 to 100 KHz. The plot was divided into two parts: one was the high frequency region, which was a semicircle [49], and the other was the low frequency region, which showed a similarly straight line. The semicircle represented the charge transfer resistance and a smaller radius indicated a smaller charge transfer resistance (Rct). The low frequency region reflected the ion diffusion rate, Rb was the equivalent circuit resistance, Cdl was the stationary phase element, Zw was the Warburg impedance, and CL was the intercalation capacitance. The electrode kinetics characterized the effect of metal adsorption on the pore structure. The EIS method evaluated the apparent chemical diffusion (Dk+) of the blank and adsorbed metal into the CAs. The K[+] diffusion coefficient was expressed by the following formula [50]. 
 
 
-![](_images/A Comparison of Electrochemical Performance of_images/_temp_faaab244_convert_.pdf-0013-05.png)
+![](_temp_1b4395ed_convert__images/_temp_1b4395ed_convert_.pdf-0013-05.png)
 
 
 
-![](_images/A Comparison of Electrochemical Performance of_images/_temp_faaab244_convert_.pdf-0013-06.png)
+![](_temp_1b4395ed_convert__images/_temp_1b4395ed_convert_.pdf-0013-06.png)
 
 
 
-![](_images/A Comparison of Electrochemical Performance of_images/_temp_faaab244_convert_.pdf-0013-07.png)
+![](_temp_1b4395ed_convert__images/_temp_1b4395ed_convert_.pdf-0013-07.png)
 
 
 **----- Start of picture text -----**<br>
@@ -388,7 +388,7 @@ _Materials_ **2018** , _11_ , 2271
 In Formula (6), _σ_ is the slope of the line and ω is the angular frequency in the low frequency region. In Equation (7), f is the frequency. In addition, A is the specific area of the electrode (0.785 _×_ 10 _[−]_[4] m[2] ), F is the Faraday constant (9.65 _×_ 10[4] C _·_ mol _[−]_[1] ), n represents the number of electrons per molecule involved in the electron transfer, C is the concentration of K[+] in the KOH solution (6 _×_ 10[3] mol _·_ m[3] ), T is the experimental temperature (298 K), and R is the gas constant (8.314 J _·_ K _[−]_[1] _·_ mol _[−]_[1] ). Figure 14 shows the slope. Combined with Equations (6–8), the K[+] diffusion coefficients in the CA-Fe, CA-Cr, CA-Cu and blank samples are 0.76 _×_ 10 _[−]_[15] , 1.8 _×_ 10 _[−]_[15] , 8.0 _×_ 10 _[−]_[15] and 0.5 _×_ 10 _[−]_[16] cm[2] _·_ s _[−]_[1] , respectively. It could be found that the Dk+ values of CA-X and blank are in the magnitude of 10 _[−]_[15] cm[2] _·_ s _[−]_[1] and the diffusion coefficients of K[+] are increased when the Rct increases. This phenomenon revealed that the kinetics of K[+] and electro transfer into the electrodes were much faster at low Rct. Among these samples, K[+] diffusion coefficients in the CA-Cu was the biggest. Therefore, the charge transfer resistance of CA-Cu was the smallest. 
 
 
-![](_images/A Comparison of Electrochemical Performance of_images/_temp_faaab244_convert_.pdf-0014-03.png)
+![](_temp_1b4395ed_convert__images/_temp_1b4395ed_convert_.pdf-0014-03.png)
 
 
 **Figure 14.** Nyquist graph of Zre plotted against ω _[−]_[1/2] of CA-X and the blank. 
@@ -516,7 +516,7 @@ _Materials_ **2018** , _11_ , 2271
 50. Wu, D. Kinetic performance of Li4Ti5O12, anode material synthesized by the solid-state method. _Ionics_ **2012** , _18_ , 559–564. [CrossRef] 
 
 
-![](_images/A Comparison of Electrochemical Performance of_images/_temp_faaab244_convert_.pdf-0017-10.png)
+![](_temp_1b4395ed_convert__images/_temp_1b4395ed_convert_.pdf-0017-10.png)
 
 
 - © 2018 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (http://creativecommons.org/licenses/by/4.0/). 

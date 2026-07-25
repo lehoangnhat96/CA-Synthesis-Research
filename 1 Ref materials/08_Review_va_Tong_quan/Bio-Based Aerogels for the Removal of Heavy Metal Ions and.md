@@ -1,7 +1,7 @@
 _**gels**_ 
 
 
-![](_images/Bio-Based Aerogels for the Removal of Heavy Metal Ions and_img/_temp_f54e77eb_heal_.pdf-0001-01.png)
+![](_temp_f54e77eb_convert__images/_temp_f54e77eb_convert_.pdf-0001-01.png)
 
 
 ## _Review_ 
@@ -27,7 +27,7 @@ Academic Editor: Avinash J. Patil
 Received: 24 November 2023 Revised: 18 December 2023 Accepted: 22 December 2023 Published: 30 December 2023 
 
 
-![](_images/Bio-Based Aerogels for the Removal of Heavy Metal Ions and_img/_temp_f54e77eb_heal_.pdf-0001-13.png)
+![](_temp_f54e77eb_convert__images/_temp_f54e77eb_convert_.pdf-0001-13.png)
 
 
 **Copyright:** © 2023 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https:// creativecommons.org/licenses/by/ 4.0/). 
@@ -47,7 +47,7 @@ _Gels_ **2024** , _10_ , 32
 The present review aims to discuss the more recent applications of bio-based aerogels for environmental remediation, with a special focus on the removal of heavy metal ions and oils from water solutions, elucidating, when possible, the adsorption mechanisms. In relation to their nature, bio-based aerogels from polysaccharide-based materials are environmentally friendly due to being biodegradable and biocompatible and, in particular, are less toxic and are renewable because of their natural origins, which makes them a winning factor in this challenge. Aerogels are key components in the development of new functionalized materials usable in a wide range of applications, as shown in Figure 1. Considering the great and pressing interest of the scientific community in the topic and the growing quantity of data in the literature, the present review was restricted to recent advances in aerogels from cellulose and from chitosan and the derived composite materials. Finally, this review intends to support and contribute to the expansion of these promising materials for a healthier and more sustainable world. 
 
 
-![](_images/Bio-Based Aerogels for the Removal of Heavy Metal Ions and_img/_temp_f54e77eb_heal_.pdf-0002-03.png)
+![](_temp_f54e77eb_convert__images/_temp_f54e77eb_convert_.pdf-0002-03.png)
 
 
 **Figure 1.** Applications of bio-based aerogels for environmental remediation. 
@@ -63,11 +63,11 @@ _Gels_ **2024** , _10_ , 32
 3 of 21 
 
 
-![](_images/Bio-Based Aerogels for the Removal of Heavy Metal Ions and_img/_temp_f54e77eb_heal_.pdf-0003-02.png)
+![](_temp_f54e77eb_convert__images/_temp_f54e77eb_convert_.pdf-0003-02.png)
 
 
 
-![](_images/Bio-Based Aerogels for the Removal of Heavy Metal Ions and_img/_temp_f54e77eb_heal_.pdf-0003-03.png)
+![](_temp_f54e77eb_convert__images/_temp_f54e77eb_convert_.pdf-0003-03.png)
 
 
 **Figure 2.** Representation of the adsorption mechanism for the removal from water of metal ions and oils. 

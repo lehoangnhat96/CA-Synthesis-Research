@@ -1,11 +1,11 @@
 _**polymers**_ 
 
 
-![](_images/Effect of Bleaching Processes on Physicochemical_images/_temp_497f3581_convert_.pdf-0001-01.png)
+![](_temp_a48f8e55_convert__images/_temp_a48f8e55_convert_.pdf-0001-01.png)
 
 
 
-![](_images/Effect of Bleaching Processes on Physicochemical_images/_temp_497f3581_convert_.pdf-0001-02.png)
+![](_temp_a48f8e55_convert__images/_temp_a48f8e55_convert_.pdf-0001-02.png)
 
 
 ## _Article_ 
@@ -37,7 +37,7 @@ _**polymers**_
 Received: 29 June 2023 Revised: 3 August 2023 Accepted: 6 August 2023 Published: 11 August 2023 
 
 
-![](_images/Effect of Bleaching Processes on Physicochemical_images/_temp_497f3581_convert_.pdf-0001-17.png)
+![](_temp_a48f8e55_convert__images/_temp_a48f8e55_convert_.pdf-0001-17.png)
 
 
 **Copyright:** © 2023 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https:// creativecommons.org/licenses/by/ 4.0/). 
@@ -61,13 +61,13 @@ However, waste generated from coconut processing, when discarded or burned, can 
 CMC is versatile cellulose for several applications, such as for use as a thickening agent [11], binder [12], coating agent [13], film [14], and indicator film [15] or being composited in edible films. CMC is prepared by the conventional slurry process using aqueous sodium hydroxide activation cellulose by reacting with the cellulose and monochloroacetic acid as an etherifying agent. Carboxymethylation occurs when the phase-separated system is converted with monochloroacetic acid or its sodium salt. The hydroxyl groups of the cellulose chains are stimulated and transformed into more reactive alkalines in this process, which is termed alkalization form (CLL _−_ ONa) [16]. 
 
 
-![](_images/Effect of Bleaching Processes on Physicochemical_images/_temp_497f3581_convert_.pdf-0002-04.png)
+![](_temp_a48f8e55_convert__images/_temp_a48f8e55_convert_.pdf-0002-04.png)
 
 
 Following this, an etherification is performed as in Equation (2) to obtain CMC, and a side reaction is then performed as in Equation (3), which results in sodium glycolate [11]. 
 
 
-![](_images/Effect of Bleaching Processes on Physicochemical_images/_temp_497f3581_convert_.pdf-0002-06.png)
+![](_temp_a48f8e55_convert__images/_temp_a48f8e55_convert_.pdf-0002-06.png)
 
 
 The demand for CMC mainly driven by the increasing demand for ready-to-eat and low-fat food is positively impacting the CMC market’s growth. The market trend for CMC is expected to rise from approximately USD 1.67 billion in 2021 to USD 2.23 billion in 2028, with a compound annual growth rate of 4% between 2023–2028 [17–19]. CMC, also known as cellulose gum, can be extracted from non-wood sources; for example, orange peel [20], rice straw [21], durian rind [16,22], corn husk [23], corn peel [24], asparagus stalk end [25], papaya peel [12,26], palm bunch [27], banana tree [28], mimosa _pigra_ peel [29], mulberry paper, and bacterial cellulose [30]. 
@@ -95,7 +95,7 @@ Both young and mature coconut coir were peeled and then cut into small pieces, s
 Both young and mature coconut coir were subjected to the alkaline treatment with 15% ( _w_ / _v_ ) NaOH solution in a ratio of 1:15 treated at 90 _[◦]_ C for 3 h under a continuous stirrer (IKA RW 20 digital, BEC Thai Bangkok Equipment & Chemical Co., Ltd., Bangkok, Thailand) at a speed of 500 rpm. The slurry was filtered and rinsed with water until the natural pH was reached. The residue was then dried in an oven at 55 _[◦]_ C for 24 h to obtain pulp. From the pulp were removed hemicellulose and lignin by treatment with 1% ( _w_ / _v_ ) sodium chlorite (NaClO2) and glacial acetic acid in a ratio of 1:10. The pH of the cellulose solutions was controlled by rinsing with distilled water until pH reached around 6.5 to 7. Cellulosic pulp fiber underwent three different bleaching times (1 BT, 2 BT, and 3 BT) of 10% ( _w_ / _v_ ) hydrogen peroxide (H2O2) bleaching. The fiber residue from celllosey and cellulosem was dried again in the oven at 55 _[◦]_ C for 24 h before being stored in plastic bags at room temperature for further use [10]. The cellulosey and cellulosem products were in powder form after synthesis. The yield, expressed as a percentage, was calculated using Equation (4): 
 
 
-![](_images/Effect of Bleaching Processes on Physicochemical_images/_temp_497f3581_convert_.pdf-0003-10.png)
+![](_temp_a48f8e55_convert__images/_temp_a48f8e55_convert_.pdf-0003-10.png)
 
 
 ## _2.4. Carboxymethyl Cellulose (CMC) Synthesized from Young and Mature Coconut Coir_ 
@@ -109,7 +109,7 @@ _Polymers_ **2023** , _15_ , 3376
 rinsing with absolute methanol and being filtered again. The residue was dried at 55 _[◦]_ C in a hot-air oven overnight for obtaining CMCy and CMCm. The percent yield was calculated by the following Equation (5). 
 
 
-![](_images/Effect of Bleaching Processes on Physicochemical_images/_temp_497f3581_convert_.pdf-0004-03.png)
+![](_temp_a48f8e55_convert__images/_temp_a48f8e55_convert_.pdf-0004-03.png)
 
 
 ## _2.5. The Determination of Lignin Content_ 
@@ -123,7 +123,7 @@ The percentage of lignin =[(][Wei][g][ht of residue content][)] _×_ 100 (6) Wei
 Testing of the cellulose fiber was carried out to determine the bleaching ability or degree of delignification of the coconut coir based on the standard method of TAPPIT236 om-99 as a Kappa number [32]. The Kappa number is the amount (in mL) of 0.1 N potassium permanganate solution consumed by one gram of moisture-free pulp under the conditions specified in the method. Briefly, the coir was suspended in distilled water before adding 0.1 M potassium permanganate and 4 M sulfuric acid under continuous stirring for 5 min. The cessation reaction was carried out by using 1 M potassium iodide. The mixture was then titrated immediately with 0.2 M sodium thiosulfate [9]. The kappa number can be calculated using the following Equation (7). 
 
 
-![](_images/Effect of Bleaching Processes on Physicochemical_images/_temp_497f3581_convert_.pdf-0004-09.png)
+![](_temp_a48f8e55_convert__images/_temp_a48f8e55_convert_.pdf-0004-09.png)
 
 
 where K = Kappa number, f = correction factor (g/mL), w = weight of moisture-free pulp (g), p = amount of 0.1 N permanganate consumed (mL), b = amount of the thiosulfate consumed in the blank (mL), a = amount of the thiosulfate consumed by the test specimen (mL), N = normality of the thiosulfate (N). 
@@ -133,7 +133,7 @@ where K = Kappa number, f = correction factor (g/mL), w = weight of moisture-fre
 The color characteristics of all cellulose and CMC samples were evaluated by using a Color Quest XE Spectro colorimeter [25] (Hunter Lab Colorflex EZ 45-0 (LAV), Shen Zhen Wave Optoelectronics Technology Co., Ltd., Xiamen, China) to measure the CIELAB system as three color parameters: L*, a* and b* where L* represents the lightness from black (0) to white (100), a* represents the position between greenness ( _−_ ) to redness (+), and b* represents the yellowness from blue ( _−_ ) to yellow (+). The total chromatic variations (∆E) were calculated from L*, a*, and b* values of cellulose and CMC powders and calculated using Equation (8). 
 
 
-![](_images/Effect of Bleaching Processes on Physicochemical_images/_temp_497f3581_convert_.pdf-0004-13.png)
+![](_temp_a48f8e55_convert__images/_temp_a48f8e55_convert_.pdf-0004-13.png)
 
 
 ## _2.8. Fourier Transform Infrared Spectroscopy (FTIR)_ 
@@ -161,7 +161,7 @@ The DS of CMCy and CMCm were determined using the USP XXXII method standard for 
 The water/oil absorption capacity of cellulose and CMC powder samples was determined based on the method as reported in the literature [22]. The water/oil absorption capacity was calculated based on Equation (9) [34,35]. 
 
 
-![](_images/Effect of Bleaching Processes on Physicochemical_images/_temp_497f3581_convert_.pdf-0005-10.png)
+![](_temp_a48f8e55_convert__images/_temp_a48f8e55_convert_.pdf-0005-10.png)
 
 
 where W is the weight of cellulose and CMC powder samples after the water/oil absorption test and W0 is the initial weight of cellulose and CMC powder samples. 
@@ -171,7 +171,7 @@ where W is the weight of cellulose and CMC powder samples after the water/oil ab
 Sample 0.5 g was added to 25 mL of distilled water/vegetable oil. A tube was placed in a forced-air oven at 37 _[◦]_ C overnight with moderate shaking. After that, the tubes were centrifuged for 10 min at 2000 rpm. The surplus water was decanted, and the tubes were inverted and left to drain for 10 min. Each tube was weighed separately (W2). By deducting the weight before water treatment (W1), the amount of water stored was computed and expressed as dry weight calculated based on Equation (10) [36]. 
 
 
-![](_images/Effect of Bleaching Processes on Physicochemical_images/_temp_497f3581_convert_.pdf-0005-14.png)
+![](_temp_a48f8e55_convert__images/_temp_a48f8e55_convert_.pdf-0005-14.png)
 
 
 where W1 is the initial weight of cellulose and CMC samples and W2 is the weight of cellulose and CMC samples after the determination. 
@@ -181,7 +181,7 @@ where W1 is the initial weight of cellulose and CMC samples and W2 is the weight
 One gram of samples was put into test tubes and weighed (W1). Then, 10 mL of distilled water was added to each sample before mixing for 1 min. The samples were allowed to stand for 30 min at 25 _[◦]_ C before being centrifuged at 4000 _× g_ for 15 min and then drained by tilting the test tubes 10 degrees from horizontal for 10 min. The weight of the test tubes (W2) was determined, and the amount of water retained was computed as follows in Equation (11) [37]. 
 
 
-![](_images/Effect of Bleaching Processes on Physicochemical_images/_temp_497f3581_convert_.pdf-0005-18.png)
+![](_temp_a48f8e55_convert__images/_temp_a48f8e55_convert_.pdf-0005-18.png)
 
 
 where W1 is the initial weight of cellulose and CMC samples and W2 is the weight of cellulose and CMC samples after the determination. 
@@ -195,7 +195,7 @@ _Polymers_ **2023** , _15_ , 3376
 Samples were soaked in distilled water (50 mL) and shaken continuously for 2 h. The residue was filtered and dried in an oven at 105 _[◦]_ C for 24 h. The samples were calculated using Equation (12) [38]. 
 
 
-![](_images/Effect of Bleaching Processes on Physicochemical_images/_temp_497f3581_convert_.pdf-0006-04.png)
+![](_temp_a48f8e55_convert__images/_temp_a48f8e55_convert_.pdf-0006-04.png)
 
 
 where W1 is the weight of cellulose and CMC samples after the dry weight of water leached and W2 is the initial weight of cellulose and CMC samples. 
@@ -211,7 +211,7 @@ Sample solutions (1 g of each sample/25 mL of water) were mixed by using continu
 The percent yields of cellulose and CMC samples are shown in Figure 1. The bleaching times affected the yield of both cellulose and CMC samples. After bleaching, the yields of cellulosey and cellulosem decreased from 50.34% to 40.76% and 60.76% to 45.78%, respectively. The percent yield of cellulosey showed the same trend compared to cellulosem after bleaching; however, the percent yields of cellulosem were significantly higher ( _p_ < 0.05) than cellulosey in each treatment. This may be because the higher lignin content and Kappa number were found in cellulosem compared to cellulosey, as reported in Table 1. Ranking ~~based on the percent yield of cellulose was cellulose at 1 BT > cellulose at 2 BT > cellulos~~ e at 3 BT, which means that the bleaching process can potentially reduce the percent yield of the cellulose [9]. The bleaching process involves the removal of lignin and other impurities from the pulp, resulting in the loss of some cellulose fibers along with the lignin. The removal of fibers reduces the overall yield of cellulose [9,40]. 
 
 
-![](_images/Effect of Bleaching Processes on Physicochemical_images/_temp_497f3581_convert_.pdf-0006-11.png)
+![](_temp_a48f8e55_convert__images/_temp_a48f8e55_convert_.pdf-0006-11.png)
 
 
 **----- Start of picture text -----**<br>
@@ -275,31 +275,31 @@ Cellulose y
 Cellulose m 
 
 
-![](_images/Effect of Bleaching Processes on Physicochemical_images/_temp_497f3581_convert_.pdf-0008-07.png)
+![](_temp_a48f8e55_convert__images/_temp_a48f8e55_convert_.pdf-0008-07.png)
 
 
 
-![](_images/Effect of Bleaching Processes on Physicochemical_images/_temp_497f3581_convert_.pdf-0008-08.png)
+![](_temp_a48f8e55_convert__images/_temp_a48f8e55_convert_.pdf-0008-08.png)
 
 
 
-![](_images/Effect of Bleaching Processes on Physicochemical_images/_temp_497f3581_convert_.pdf-0008-09.png)
+![](_temp_a48f8e55_convert__images/_temp_a48f8e55_convert_.pdf-0008-09.png)
 
 
 
-![](_images/Effect of Bleaching Processes on Physicochemical_images/_temp_497f3581_convert_.pdf-0008-10.png)
+![](_temp_a48f8e55_convert__images/_temp_a48f8e55_convert_.pdf-0008-10.png)
 
 
 
-![](_images/Effect of Bleaching Processes on Physicochemical_images/_temp_497f3581_convert_.pdf-0008-11.png)
+![](_temp_a48f8e55_convert__images/_temp_a48f8e55_convert_.pdf-0008-11.png)
 
 
 
-![](_images/Effect of Bleaching Processes on Physicochemical_images/_temp_497f3581_convert_.pdf-0008-12.png)
+![](_temp_a48f8e55_convert__images/_temp_a48f8e55_convert_.pdf-0008-12.png)
 
 
 
-![](_images/Effect of Bleaching Processes on Physicochemical_images/_temp_497f3581_convert_.pdf-0008-13.png)
+![](_temp_a48f8e55_convert__images/_temp_a48f8e55_convert_.pdf-0008-13.png)
 
 
 Cellulose commercial 
@@ -309,31 +309,31 @@ CMC y
 CMC m 
 
 
-![](_images/Effect of Bleaching Processes on Physicochemical_images/_temp_497f3581_convert_.pdf-0008-17.png)
+![](_temp_a48f8e55_convert__images/_temp_a48f8e55_convert_.pdf-0008-17.png)
 
 
 
-![](_images/Effect of Bleaching Processes on Physicochemical_images/_temp_497f3581_convert_.pdf-0008-18.png)
+![](_temp_a48f8e55_convert__images/_temp_a48f8e55_convert_.pdf-0008-18.png)
 
 
 
-![](_images/Effect of Bleaching Processes on Physicochemical_images/_temp_497f3581_convert_.pdf-0008-19.png)
+![](_temp_a48f8e55_convert__images/_temp_a48f8e55_convert_.pdf-0008-19.png)
 
 
 
-![](_images/Effect of Bleaching Processes on Physicochemical_images/_temp_497f3581_convert_.pdf-0008-20.png)
+![](_temp_a48f8e55_convert__images/_temp_a48f8e55_convert_.pdf-0008-20.png)
 
 
 
-![](_images/Effect of Bleaching Processes on Physicochemical_images/_temp_497f3581_convert_.pdf-0008-21.png)
+![](_temp_a48f8e55_convert__images/_temp_a48f8e55_convert_.pdf-0008-21.png)
 
 
 
-![](_images/Effect of Bleaching Processes on Physicochemical_images/_temp_497f3581_convert_.pdf-0008-22.png)
+![](_temp_a48f8e55_convert__images/_temp_a48f8e55_convert_.pdf-0008-22.png)
 
 
 
-![](_images/Effect of Bleaching Processes on Physicochemical_images/_temp_497f3581_convert_.pdf-0008-23.png)
+![](_temp_a48f8e55_convert__images/_temp_a48f8e55_convert_.pdf-0008-23.png)
 
 
 CMC commercial 
@@ -378,7 +378,7 @@ _Polymers_ **2023** , _15_ , 3376
 is still present in the sample, indicating incomplete removal or preservation of lignin in the material as shown in Table 1. Impurities such as lignin and hemicellulose can interfere with the carboxymethylation process, affecting the efficiency of CMC synthesis. As a result, the IR spectra of all CMC samples synthesized indicate the typical absorptions of the cellulose backbone and the carboxymethyl ether group consecutively. The signal at around 1450–1420 cm _[−]_[1] is attributed to the asymmetric stretching vibration of carboxylate groups introduced during carboxymethylation [47]. This result revealed that carboxymethylation on cellulose molecules had been replaced [11] to become carboxymethyl cellulose (CMC). 
 
 
-![](_images/Effect of Bleaching Processes on Physicochemical_images/_temp_497f3581_convert_.pdf-0010-03.png)
+![](_temp_a48f8e55_convert__images/_temp_a48f8e55_convert_.pdf-0010-03.png)
 
 
 **----- Start of picture text -----**<br>
@@ -398,7 +398,7 @@ _Polymers_ **2023** , _15_ , 3376
 11 of 22 
 
 
-![](_images/Effect of Bleaching Processes on Physicochemical_images/_temp_497f3581_convert_.pdf-0011-02.png)
+![](_temp_a48f8e55_convert__images/_temp_a48f8e55_convert_.pdf-0011-02.png)
 
 
 **----- Start of picture text -----**<br>
@@ -420,7 +420,7 @@ _Polymers_ **2023** , _15_ , 3376
 structure variations. As a result, the fibers exhibit improved uniformity in terms of surface characteristics (Figure 7i,9). The fiber surfaces of cellulosey and cellulosem are quite similar after being treated with a bleaching process. However, cellulosem seems to have a longer shape with some damaged fiber surface after being treated with bleaching three times. 
 
 
-![](_images/Effect of Bleaching Processes on Physicochemical_images/_temp_497f3581_convert_.pdf-0012-03.png)
+![](_temp_a48f8e55_convert__images/_temp_a48f8e55_convert_.pdf-0012-03.png)
 
 
 **----- Start of picture text -----**<br>
@@ -430,7 +430,7 @@ a  b<br>c  d<br>**----- End of picture text -----**<br>
 **Figure 5.** Scanning electron micrographs of ( **a** , **b** ) young coconut coir, and ( **c** , **d** ) young coconut coir after being treated with NaOH. The acceleration voltage was 15 kV under two different magnifications at 50 _×_ and 100 _×_ . 
 
 
-![](_images/Effect of Bleaching Processes on Physicochemical_images/_temp_497f3581_convert_.pdf-0012-05.png)
+![](_temp_a48f8e55_convert__images/_temp_a48f8e55_convert_.pdf-0012-05.png)
 
 
 **----- Start of picture text -----**<br>
@@ -446,7 +446,7 @@ _Polymers_ **2023** , _15_ , 3376
 ## 
 
 
-![](_images/Effect of Bleaching Processes on Physicochemical_images/_temp_497f3581_convert_.pdf-0013-03.png)
+![](_temp_a48f8e55_convert__images/_temp_a48f8e55_convert_.pdf-0013-03.png)
 
 
 **----- Start of picture text -----**<br>
@@ -472,7 +472,7 @@ _Polymers_ **2023** , _15_ , 3376
 15 of 22 
 
 
-![](_images/Effect of Bleaching Processes on Physicochemical_images/_temp_497f3581_convert_.pdf-0015-02.png)
+![](_temp_a48f8e55_convert__images/_temp_a48f8e55_convert_.pdf-0015-02.png)
 
 
 **----- Start of picture text -----**<br>
@@ -545,7 +545,7 @@ _Polymers_ **2023** , _15_ , 3376
 19 of 22 
 
 
-![](_images/Effect of Bleaching Processes on Physicochemical_images/_temp_497f3581_convert_.pdf-0019-02.png)
+![](_temp_a48f8e55_convert__images/_temp_a48f8e55_convert_.pdf-0019-02.png)
 
 
 **----- Start of picture text -----**<br>

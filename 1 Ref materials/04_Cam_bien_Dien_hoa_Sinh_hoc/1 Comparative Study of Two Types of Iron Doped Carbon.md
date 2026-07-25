@@ -57,17 +57,17 @@ Supporting electrolyte was a 0.1 M phosphate buffer solution and the pH was adju
 Carbon paste electrodes modified with carbon aerogel doped with iron were prepared by thoroughly mixing 50 mg graphite powder (Fluka - Buchs, Switzerland) with 50 mg of aerogel and 20 µL paraffin oil (Fluka). The final pastes were put into a cavity of an inhouse made Teflon holder using pyrolytic graphite in the bottom for electric contact. 
 
 
-![](_images/1 Comparative Study of Two Types of Iron Doped Carbon_images/_temp_b7943c28_convert_.pdf-0002-10.png)
+![](_temp_77e16010_convert__images/_temp_77e16010_convert_.pdf-0002-10.png)
 
 
 Figure 1. XRD patterns of K and Fe doped carbon aerogels. 
 
 
-![](_images/1 Comparative Study of Two Types of Iron Doped Carbon_images/_temp_b7943c28_convert_.pdf-0002-12.png)
+![](_temp_77e16010_convert__images/_temp_77e16010_convert_.pdf-0002-12.png)
 
 
 
-![](_images/1 Comparative Study of Two Types of Iron Doped Carbon_images/_temp_b7943c28_convert_.pdf-0002-13.png)
+![](_temp_77e16010_convert__images/_temp_77e16010_convert_.pdf-0002-13.png)
 
 
 Figure 2. TEM images of CAD-Fe[(2+)] (a) and CAD-Fe[(3+)] (b). 
@@ -90,19 +90,19 @@ _Comparative Study of Two Types of Iron Doped Carbon Aerogels for Electrochemica
 ## **3. RESULTS AND DISCUSSIONS** 
 
 
-![](_images/1 Comparative Study of Two Types of Iron Doped Carbon_images/_temp_b7943c28_convert_.pdf-0003-03.png)
+![](_temp_77e16010_convert__images/_temp_77e16010_convert_.pdf-0003-03.png)
 
 
 
-![](_images/1 Comparative Study of Two Types of Iron Doped Carbon_images/_temp_b7943c28_convert_.pdf-0003-04.png)
+![](_temp_77e16010_convert__images/_temp_77e16010_convert_.pdf-0003-04.png)
 
 
 
-![](_images/1 Comparative Study of Two Types of Iron Doped Carbon_images/_temp_b7943c28_convert_.pdf-0003-05.png)
+![](_temp_77e16010_convert__images/_temp_77e16010_convert_.pdf-0003-05.png)
 
 
 
-![](_images/1 Comparative Study of Two Types of Iron Doped Carbon_images/_temp_b7943c28_convert_.pdf-0003-06.png)
+![](_temp_77e16010_convert__images/_temp_77e16010_convert_.pdf-0003-06.png)
 
 
 ## **3.1. Morphological and structural characterization** 
@@ -112,187 +112,187 @@ BET analysis shows that CAD-Fe[(3+)] has the highest surface area (Table 1). CAD
 The TEM images (Figure 2) demonstrate the presence of both isolated and agglomerated iron nanoparticles in the carbon aerogel matrix. The formation of various nanographitic carbon forms (nanoribbons, nanosheets, nanotubes) were already evidenced in previous works [4,30] by using TEM and Raman spectroscopy. The growing of these pseudo-graphitic forms and the decreasing of BET surface area (Table 1) observed in the case of CAD-Fe[(2+)] sample are probably due to the presence of higher iron amount in the carbon framework [4]. 
 
 
-![](_images/1 Comparative Study of Two Types of Iron Doped Carbon_images/_temp_b7943c28_convert_.pdf-0003-10.png)
+![](_temp_77e16010_convert__images/_temp_77e16010_convert_.pdf-0003-10.png)
 
 
 
-![](_images/1 Comparative Study of Two Types of Iron Doped Carbon_images/_temp_b7943c28_convert_.pdf-0003-11.png)
+![](_temp_77e16010_convert__images/_temp_77e16010_convert_.pdf-0003-11.png)
 
 
 
-![](_images/1 Comparative Study of Two Types of Iron Doped Carbon_images/_temp_b7943c28_convert_.pdf-0003-12.png)
+![](_temp_77e16010_convert__images/_temp_77e16010_convert_.pdf-0003-12.png)
 
 
 
-![](_images/1 Comparative Study of Two Types of Iron Doped Carbon_images/_temp_b7943c28_convert_.pdf-0003-13.png)
+![](_temp_77e16010_convert__images/_temp_77e16010_convert_.pdf-0003-13.png)
 
 
 
-![](_images/1 Comparative Study of Two Types of Iron Doped Carbon_images/_temp_b7943c28_convert_.pdf-0003-14.png)
+![](_temp_77e16010_convert__images/_temp_77e16010_convert_.pdf-0003-14.png)
 
 
 
-![](_images/1 Comparative Study of Two Types of Iron Doped Carbon_images/_temp_b7943c28_convert_.pdf-0003-15.png)
+![](_temp_77e16010_convert__images/_temp_77e16010_convert_.pdf-0003-15.png)
 
 
 
-![](_images/1 Comparative Study of Two Types of Iron Doped Carbon_images/_temp_b7943c28_convert_.pdf-0003-16.png)
+![](_temp_77e16010_convert__images/_temp_77e16010_convert_.pdf-0003-16.png)
 
 
 
-![](_images/1 Comparative Study of Two Types of Iron Doped Carbon_images/_temp_b7943c28_convert_.pdf-0003-17.png)
+![](_temp_77e16010_convert__images/_temp_77e16010_convert_.pdf-0003-17.png)
 
 
 
-![](_images/1 Comparative Study of Two Types of Iron Doped Carbon_images/_temp_b7943c28_convert_.pdf-0003-18.png)
+![](_temp_77e16010_convert__images/_temp_77e16010_convert_.pdf-0003-18.png)
 
 
 
-![](_images/1 Comparative Study of Two Types of Iron Doped Carbon_images/_temp_b7943c28_convert_.pdf-0003-19.png)
+![](_temp_77e16010_convert__images/_temp_77e16010_convert_.pdf-0003-19.png)
 
 
 
-![](_images/1 Comparative Study of Two Types of Iron Doped Carbon_images/_temp_b7943c28_convert_.pdf-0003-20.png)
+![](_temp_77e16010_convert__images/_temp_77e16010_convert_.pdf-0003-20.png)
 
 
 
-![](_images/1 Comparative Study of Two Types of Iron Doped Carbon_images/_temp_b7943c28_convert_.pdf-0003-21.png)
+![](_temp_77e16010_convert__images/_temp_77e16010_convert_.pdf-0003-21.png)
 
 
 
-![](_images/1 Comparative Study of Two Types of Iron Doped Carbon_images/_temp_b7943c28_convert_.pdf-0003-22.png)
+![](_temp_77e16010_convert__images/_temp_77e16010_convert_.pdf-0003-22.png)
 
 
 
-![](_images/1 Comparative Study of Two Types of Iron Doped Carbon_images/_temp_b7943c28_convert_.pdf-0003-23.png)
+![](_temp_77e16010_convert__images/_temp_77e16010_convert_.pdf-0003-23.png)
 
 
 
-![](_images/1 Comparative Study of Two Types of Iron Doped Carbon_images/_temp_b7943c28_convert_.pdf-0003-24.png)
+![](_temp_77e16010_convert__images/_temp_77e16010_convert_.pdf-0003-24.png)
 
 
 
-![](_images/1 Comparative Study of Two Types of Iron Doped Carbon_images/_temp_b7943c28_convert_.pdf-0003-25.png)
+![](_temp_77e16010_convert__images/_temp_77e16010_convert_.pdf-0003-25.png)
 
 
 
-![](_images/1 Comparative Study of Two Types of Iron Doped Carbon_images/_temp_b7943c28_convert_.pdf-0003-26.png)
+![](_temp_77e16010_convert__images/_temp_77e16010_convert_.pdf-0003-26.png)
 
 
 
-![](_images/1 Comparative Study of Two Types of Iron Doped Carbon_images/_temp_b7943c28_convert_.pdf-0003-27.png)
+![](_temp_77e16010_convert__images/_temp_77e16010_convert_.pdf-0003-27.png)
 
 
 
-![](_images/1 Comparative Study of Two Types of Iron Doped Carbon_images/_temp_b7943c28_convert_.pdf-0003-28.png)
+![](_temp_77e16010_convert__images/_temp_77e16010_convert_.pdf-0003-28.png)
 
 
 
-![](_images/1 Comparative Study of Two Types of Iron Doped Carbon_images/_temp_b7943c28_convert_.pdf-0003-29.png)
+![](_temp_77e16010_convert__images/_temp_77e16010_convert_.pdf-0003-29.png)
 
 
 
-![](_images/1 Comparative Study of Two Types of Iron Doped Carbon_images/_temp_b7943c28_convert_.pdf-0003-30.png)
+![](_temp_77e16010_convert__images/_temp_77e16010_convert_.pdf-0003-30.png)
 
 
 
-![](_images/1 Comparative Study of Two Types of Iron Doped Carbon_images/_temp_b7943c28_convert_.pdf-0003-31.png)
+![](_temp_77e16010_convert__images/_temp_77e16010_convert_.pdf-0003-31.png)
 
 
 
-![](_images/1 Comparative Study of Two Types of Iron Doped Carbon_images/_temp_b7943c28_convert_.pdf-0003-32.png)
+![](_temp_77e16010_convert__images/_temp_77e16010_convert_.pdf-0003-32.png)
 
 
 
-![](_images/1 Comparative Study of Two Types of Iron Doped Carbon_images/_temp_b7943c28_convert_.pdf-0003-33.png)
+![](_temp_77e16010_convert__images/_temp_77e16010_convert_.pdf-0003-33.png)
 
 
 
-![](_images/1 Comparative Study of Two Types of Iron Doped Carbon_images/_temp_b7943c28_convert_.pdf-0003-34.png)
+![](_temp_77e16010_convert__images/_temp_77e16010_convert_.pdf-0003-34.png)
 
 
 
-![](_images/1 Comparative Study of Two Types of Iron Doped Carbon_images/_temp_b7943c28_convert_.pdf-0003-35.png)
+![](_temp_77e16010_convert__images/_temp_77e16010_convert_.pdf-0003-35.png)
 
 
 
-![](_images/1 Comparative Study of Two Types of Iron Doped Carbon_images/_temp_b7943c28_convert_.pdf-0003-36.png)
+![](_temp_77e16010_convert__images/_temp_77e16010_convert_.pdf-0003-36.png)
 
 
 
-![](_images/1 Comparative Study of Two Types of Iron Doped Carbon_images/_temp_b7943c28_convert_.pdf-0003-37.png)
+![](_temp_77e16010_convert__images/_temp_77e16010_convert_.pdf-0003-37.png)
 
 
 
-![](_images/1 Comparative Study of Two Types of Iron Doped Carbon_images/_temp_b7943c28_convert_.pdf-0003-38.png)
+![](_temp_77e16010_convert__images/_temp_77e16010_convert_.pdf-0003-38.png)
 
 
 
-![](_images/1 Comparative Study of Two Types of Iron Doped Carbon_images/_temp_b7943c28_convert_.pdf-0003-39.png)
+![](_temp_77e16010_convert__images/_temp_77e16010_convert_.pdf-0003-39.png)
 
 
 
-![](_images/1 Comparative Study of Two Types of Iron Doped Carbon_images/_temp_b7943c28_convert_.pdf-0003-40.png)
+![](_temp_77e16010_convert__images/_temp_77e16010_convert_.pdf-0003-40.png)
 
 
 
-![](_images/1 Comparative Study of Two Types of Iron Doped Carbon_images/_temp_b7943c28_convert_.pdf-0003-41.png)
+![](_temp_77e16010_convert__images/_temp_77e16010_convert_.pdf-0003-41.png)
 
 
 
-![](_images/1 Comparative Study of Two Types of Iron Doped Carbon_images/_temp_b7943c28_convert_.pdf-0003-42.png)
+![](_temp_77e16010_convert__images/_temp_77e16010_convert_.pdf-0003-42.png)
 
 
 
-![](_images/1 Comparative Study of Two Types of Iron Doped Carbon_images/_temp_b7943c28_convert_.pdf-0003-43.png)
+![](_temp_77e16010_convert__images/_temp_77e16010_convert_.pdf-0003-43.png)
 
 
 
-![](_images/1 Comparative Study of Two Types of Iron Doped Carbon_images/_temp_b7943c28_convert_.pdf-0003-44.png)
+![](_temp_77e16010_convert__images/_temp_77e16010_convert_.pdf-0003-44.png)
 
 
 
-![](_images/1 Comparative Study of Two Types of Iron Doped Carbon_images/_temp_b7943c28_convert_.pdf-0003-45.png)
+![](_temp_77e16010_convert__images/_temp_77e16010_convert_.pdf-0003-45.png)
 
 
 
-![](_images/1 Comparative Study of Two Types of Iron Doped Carbon_images/_temp_b7943c28_convert_.pdf-0003-46.png)
+![](_temp_77e16010_convert__images/_temp_77e16010_convert_.pdf-0003-46.png)
 
 
 
-![](_images/1 Comparative Study of Two Types of Iron Doped Carbon_images/_temp_b7943c28_convert_.pdf-0003-47.png)
+![](_temp_77e16010_convert__images/_temp_77e16010_convert_.pdf-0003-47.png)
 
 
 
-![](_images/1 Comparative Study of Two Types of Iron Doped Carbon_images/_temp_b7943c28_convert_.pdf-0003-48.png)
+![](_temp_77e16010_convert__images/_temp_77e16010_convert_.pdf-0003-48.png)
 
 
 
-![](_images/1 Comparative Study of Two Types of Iron Doped Carbon_images/_temp_b7943c28_convert_.pdf-0003-49.png)
+![](_temp_77e16010_convert__images/_temp_77e16010_convert_.pdf-0003-49.png)
 
 
 
-![](_images/1 Comparative Study of Two Types of Iron Doped Carbon_images/_temp_b7943c28_convert_.pdf-0003-50.png)
+![](_temp_77e16010_convert__images/_temp_77e16010_convert_.pdf-0003-50.png)
 
 
 
-![](_images/1 Comparative Study of Two Types of Iron Doped Carbon_images/_temp_b7943c28_convert_.pdf-0003-51.png)
+![](_temp_77e16010_convert__images/_temp_77e16010_convert_.pdf-0003-51.png)
 
 
 
-![](_images/1 Comparative Study of Two Types of Iron Doped Carbon_images/_temp_b7943c28_convert_.pdf-0003-52.png)
+![](_temp_77e16010_convert__images/_temp_77e16010_convert_.pdf-0003-52.png)
 
 
 
-![](_images/1 Comparative Study of Two Types of Iron Doped Carbon_images/_temp_b7943c28_convert_.pdf-0003-53.png)
+![](_temp_77e16010_convert__images/_temp_77e16010_convert_.pdf-0003-53.png)
 
 
 
-![](_images/1 Comparative Study of Two Types of Iron Doped Carbon_images/_temp_b7943c28_convert_.pdf-0003-54.png)
+![](_temp_77e16010_convert__images/_temp_77e16010_convert_.pdf-0003-54.png)
 
 
 
-![](_images/1 Comparative Study of Two Types of Iron Doped Carbon_images/_temp_b7943c28_convert_.pdf-0003-55.png)
+![](_temp_77e16010_convert__images/_temp_77e16010_convert_.pdf-0003-55.png)
 
 
 ## **3.2. Electrochemical applications** 
@@ -315,151 +315,151 @@ Table 2. Electrochemical parameters corresponding to voltammetric response of ca
 
 
 
-![](_images/1 Comparative Study of Two Types of Iron Doped Carbon_images/_temp_b7943c28_convert_.pdf-0003-63.png)
+![](_temp_77e16010_convert__images/_temp_77e16010_convert_.pdf-0003-63.png)
 
 
 
-![](_images/1 Comparative Study of Two Types of Iron Doped Carbon_images/_temp_b7943c28_convert_.pdf-0003-64.png)
+![](_temp_77e16010_convert__images/_temp_77e16010_convert_.pdf-0003-64.png)
 
 
 
-![](_images/1 Comparative Study of Two Types of Iron Doped Carbon_images/_temp_b7943c28_convert_.pdf-0003-65.png)
+![](_temp_77e16010_convert__images/_temp_77e16010_convert_.pdf-0003-65.png)
 
 
 
-![](_images/1 Comparative Study of Two Types of Iron Doped Carbon_images/_temp_b7943c28_convert_.pdf-0003-66.png)
+![](_temp_77e16010_convert__images/_temp_77e16010_convert_.pdf-0003-66.png)
 
 
 
-![](_images/1 Comparative Study of Two Types of Iron Doped Carbon_images/_temp_b7943c28_convert_.pdf-0003-67.png)
+![](_temp_77e16010_convert__images/_temp_77e16010_convert_.pdf-0003-67.png)
 
 
 
-![](_images/1 Comparative Study of Two Types of Iron Doped Carbon_images/_temp_b7943c28_convert_.pdf-0003-68.png)
+![](_temp_77e16010_convert__images/_temp_77e16010_convert_.pdf-0003-68.png)
 
 
 
-![](_images/1 Comparative Study of Two Types of Iron Doped Carbon_images/_temp_b7943c28_convert_.pdf-0003-69.png)
+![](_temp_77e16010_convert__images/_temp_77e16010_convert_.pdf-0003-69.png)
 
 
 
-![](_images/1 Comparative Study of Two Types of Iron Doped Carbon_images/_temp_b7943c28_convert_.pdf-0003-70.png)
+![](_temp_77e16010_convert__images/_temp_77e16010_convert_.pdf-0003-70.png)
 
 
 
-![](_images/1 Comparative Study of Two Types of Iron Doped Carbon_images/_temp_b7943c28_convert_.pdf-0003-71.png)
+![](_temp_77e16010_convert__images/_temp_77e16010_convert_.pdf-0003-71.png)
 
 
 
-![](_images/1 Comparative Study of Two Types of Iron Doped Carbon_images/_temp_b7943c28_convert_.pdf-0003-72.png)
+![](_temp_77e16010_convert__images/_temp_77e16010_convert_.pdf-0003-72.png)
 
 
 
-![](_images/1 Comparative Study of Two Types of Iron Doped Carbon_images/_temp_b7943c28_convert_.pdf-0003-73.png)
+![](_temp_77e16010_convert__images/_temp_77e16010_convert_.pdf-0003-73.png)
 
 
 
-![](_images/1 Comparative Study of Two Types of Iron Doped Carbon_images/_temp_b7943c28_convert_.pdf-0003-74.png)
+![](_temp_77e16010_convert__images/_temp_77e16010_convert_.pdf-0003-74.png)
 
 
 
-![](_images/1 Comparative Study of Two Types of Iron Doped Carbon_images/_temp_b7943c28_convert_.pdf-0003-75.png)
+![](_temp_77e16010_convert__images/_temp_77e16010_convert_.pdf-0003-75.png)
 
 
 
-![](_images/1 Comparative Study of Two Types of Iron Doped Carbon_images/_temp_b7943c28_convert_.pdf-0003-76.png)
+![](_temp_77e16010_convert__images/_temp_77e16010_convert_.pdf-0003-76.png)
 
 
 
-![](_images/1 Comparative Study of Two Types of Iron Doped Carbon_images/_temp_b7943c28_convert_.pdf-0003-77.png)
+![](_temp_77e16010_convert__images/_temp_77e16010_convert_.pdf-0003-77.png)
 
 
 
-![](_images/1 Comparative Study of Two Types of Iron Doped Carbon_images/_temp_b7943c28_convert_.pdf-0003-78.png)
+![](_temp_77e16010_convert__images/_temp_77e16010_convert_.pdf-0003-78.png)
 
 
 
-![](_images/1 Comparative Study of Two Types of Iron Doped Carbon_images/_temp_b7943c28_convert_.pdf-0003-79.png)
+![](_temp_77e16010_convert__images/_temp_77e16010_convert_.pdf-0003-79.png)
 
 
 
-![](_images/1 Comparative Study of Two Types of Iron Doped Carbon_images/_temp_b7943c28_convert_.pdf-0003-80.png)
+![](_temp_77e16010_convert__images/_temp_77e16010_convert_.pdf-0003-80.png)
 
 
 
-![](_images/1 Comparative Study of Two Types of Iron Doped Carbon_images/_temp_b7943c28_convert_.pdf-0003-81.png)
+![](_temp_77e16010_convert__images/_temp_77e16010_convert_.pdf-0003-81.png)
 
 
 
-![](_images/1 Comparative Study of Two Types of Iron Doped Carbon_images/_temp_b7943c28_convert_.pdf-0003-82.png)
+![](_temp_77e16010_convert__images/_temp_77e16010_convert_.pdf-0003-82.png)
 
 
 
-![](_images/1 Comparative Study of Two Types of Iron Doped Carbon_images/_temp_b7943c28_convert_.pdf-0003-83.png)
+![](_temp_77e16010_convert__images/_temp_77e16010_convert_.pdf-0003-83.png)
 
 
 
-![](_images/1 Comparative Study of Two Types of Iron Doped Carbon_images/_temp_b7943c28_convert_.pdf-0003-84.png)
+![](_temp_77e16010_convert__images/_temp_77e16010_convert_.pdf-0003-84.png)
 
 
 
-![](_images/1 Comparative Study of Two Types of Iron Doped Carbon_images/_temp_b7943c28_convert_.pdf-0003-85.png)
+![](_temp_77e16010_convert__images/_temp_77e16010_convert_.pdf-0003-85.png)
 
 
 
-![](_images/1 Comparative Study of Two Types of Iron Doped Carbon_images/_temp_b7943c28_convert_.pdf-0003-86.png)
+![](_temp_77e16010_convert__images/_temp_77e16010_convert_.pdf-0003-86.png)
 
 
 
-![](_images/1 Comparative Study of Two Types of Iron Doped Carbon_images/_temp_b7943c28_convert_.pdf-0003-87.png)
+![](_temp_77e16010_convert__images/_temp_77e16010_convert_.pdf-0003-87.png)
 
 
 
-![](_images/1 Comparative Study of Two Types of Iron Doped Carbon_images/_temp_b7943c28_convert_.pdf-0003-88.png)
+![](_temp_77e16010_convert__images/_temp_77e16010_convert_.pdf-0003-88.png)
 
 
 
-![](_images/1 Comparative Study of Two Types of Iron Doped Carbon_images/_temp_b7943c28_convert_.pdf-0003-89.png)
+![](_temp_77e16010_convert__images/_temp_77e16010_convert_.pdf-0003-89.png)
 
 
 
-![](_images/1 Comparative Study of Two Types of Iron Doped Carbon_images/_temp_b7943c28_convert_.pdf-0003-90.png)
+![](_temp_77e16010_convert__images/_temp_77e16010_convert_.pdf-0003-90.png)
 
 
 
-![](_images/1 Comparative Study of Two Types of Iron Doped Carbon_images/_temp_b7943c28_convert_.pdf-0003-91.png)
+![](_temp_77e16010_convert__images/_temp_77e16010_convert_.pdf-0003-91.png)
 
 
 
-![](_images/1 Comparative Study of Two Types of Iron Doped Carbon_images/_temp_b7943c28_convert_.pdf-0003-92.png)
+![](_temp_77e16010_convert__images/_temp_77e16010_convert_.pdf-0003-92.png)
 
 
 
-![](_images/1 Comparative Study of Two Types of Iron Doped Carbon_images/_temp_b7943c28_convert_.pdf-0003-93.png)
+![](_temp_77e16010_convert__images/_temp_77e16010_convert_.pdf-0003-93.png)
 
 
 
-![](_images/1 Comparative Study of Two Types of Iron Doped Carbon_images/_temp_b7943c28_convert_.pdf-0003-94.png)
+![](_temp_77e16010_convert__images/_temp_77e16010_convert_.pdf-0003-94.png)
 
 
 
-![](_images/1 Comparative Study of Two Types of Iron Doped Carbon_images/_temp_b7943c28_convert_.pdf-0003-95.png)
+![](_temp_77e16010_convert__images/_temp_77e16010_convert_.pdf-0003-95.png)
 
 
 
-![](_images/1 Comparative Study of Two Types of Iron Doped Carbon_images/_temp_b7943c28_convert_.pdf-0003-96.png)
+![](_temp_77e16010_convert__images/_temp_77e16010_convert_.pdf-0003-96.png)
 
 
 
-![](_images/1 Comparative Study of Two Types of Iron Doped Carbon_images/_temp_b7943c28_convert_.pdf-0003-97.png)
+![](_temp_77e16010_convert__images/_temp_77e16010_convert_.pdf-0003-97.png)
 
 
 
-![](_images/1 Comparative Study of Two Types of Iron Doped Carbon_images/_temp_b7943c28_convert_.pdf-0003-98.png)
+![](_temp_77e16010_convert__images/_temp_77e16010_convert_.pdf-0003-98.png)
 
 
 
-![](_images/1 Comparative Study of Two Types of Iron Doped Carbon_images/_temp_b7943c28_convert_.pdf-0003-99.png)
+![](_temp_77e16010_convert__images/_temp_77e16010_convert_.pdf-0003-99.png)
 
 
 Figure 3. Cyclic voltammograms corresponding to CAD-K-CPEs (A) and CAD-Fe-CPEs (B). Experimental conditions: starting potential, -1000 mV _vs._ SCE; potential scan rate, 50 mV s[-1] ; supporting electrolyte, 0.1 M phosphate buffer solution (pH 7.0). 
@@ -475,13 +475,13 @@ _Delia Gligor et al. / J. New Mat. Electrochem. Systems_
 100 
 
 
-![](_images/1 Comparative Study of Two Types of Iron Doped Carbon_images/_temp_b7943c28_convert_.pdf-0004-02.png)
+![](_temp_77e16010_convert__images/_temp_77e16010_convert_.pdf-0004-02.png)
 
 
 - Figure 4. Cyclic voltammograms corresponding to CAD-Fe[(3+)] CPEs. Experimental conditions: starting potential, -1000 mV _vs._ SCE; potential scan rate, 50 mV s[-1] ; supporting electrolyte, 0.1 M phosphate buffer. 
 
 
-![](_images/1 Comparative Study of Two Types of Iron Doped Carbon_images/_temp_b7943c28_convert_.pdf-0004-04.png)
+![](_temp_77e16010_convert__images/_temp_77e16010_convert_.pdf-0004-04.png)
 
 
 Figure 5. Potential scan rate influence on electrochemical behavior of CAD-Fe[(2+).] -CPEs. Experimental conditions: see Figure 4. 
@@ -491,13 +491,13 @@ wards formal standard potential), with the scan rate of 50 mV s[-1] , during 25 
 For carbon paste electrodes modified with CAD-Fe[(2+)] aerogel, the electrocatalytic activity for H2O2 reduction was investigated using cyclic voltammetric measurements, knowing the electrocatalytic activity of Fe[2+] /Fe[3+] couple. 
 
 
-![](_images/1 Comparative Study of Two Types of Iron Doped Carbon_images/_temp_b7943c28_convert_.pdf-0004-08.png)
+![](_temp_77e16010_convert__images/_temp_77e16010_convert_.pdf-0004-08.png)
 
 
 Figure 6. Cyclic voltammograms corresponding to cycling the CAD-Fe[(2+)] -CPEs. Experimental conditions: starting potential, -1000 mV _vs._ SCE; potential scan rate, 50 mV s[-1] ; supporting electrolyte, 0.1 M phosphate buffer (pH 7.0). 
 
 
-![](_images/1 Comparative Study of Two Types of Iron Doped Carbon_images/_temp_b7943c28_convert_.pdf-0004-10.png)
+![](_temp_77e16010_convert__images/_temp_77e16010_convert_.pdf-0004-10.png)
 
 
 - Figure 7. Cyclic voltammograms corresponding to CAD-Fe[(2+)] CPEs, in the absence and in the presence of H2O2. Experimental conditions: starting potential, -1200 mV _vs._ SCE; potential scan rate, 10 mV s[-1] ; supporting electrolyte, 0.1 M phosphate buffer (pH 7.0). 
@@ -509,7 +509,7 @@ _Comparative Study of Two Types of Iron Doped Carbon Aerogels for Electrochemica
 101 
 
 
-![](_images/1 Comparative Study of Two Types of Iron Doped Carbon_images/_temp_b7943c28_convert_.pdf-0005-02.png)
+![](_temp_77e16010_convert__images/_temp_77e16010_convert_.pdf-0005-02.png)
 
 
 and measured at the potential of -500 mV _vs._ SCE (39 mM H2O2) had the value of 404% for CAD-Fe[(2+)] -CPEs. 

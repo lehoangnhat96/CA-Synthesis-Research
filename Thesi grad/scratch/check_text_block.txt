@@ -1,0 +1,40 @@
+981: \[15, 26\], phương pháp tẩm sau (Post-impregnation) ưu việt hơn so với
+982: phương pháp đồng kết tủa (Co-precipitation) trực tiếp trong dung dịch
+983: Sol-Gel. Việc đưa muối sắt vào hệ dung môi kiềm mạnh như
+984: NH<sub>4</sub>OH/Urea sẽ ngay lập tức gây kết tủa Fe(OH)<sub>3</sub>
+985: (rủi ro hóa học dự đoán), phá vỡ quá trình tự liên kết hydro của mạng
+986: cellulose và làm sập hoàn toàn cấu trúc gel.
+987: 
+988: Do đó, sắt (Fe³⁺) được hòa tan trong dung môi cồn ethanol nguyên chất
+989: lạnh và tẩm vào aerogel đã qua giai đoạn carbon hóa. Ethanol với sức
+990: căng bề mặt thấp giúp dung dịch thấm ướt bề mặt kỵ nước của mạng carbon,
+991: dễ dàng len lỏi mao dẫn vào sâu hệ thống lỗ xốp phân cấp. Tại đây, cấu
+992: hình orbital trống của ion sắt sẽ tìm đến và phối trí trực tiếp với các
+993: cặp electron tự do của các vị trí nitơ khuyết tật (đặc biệt là
+994: Pyridinic-N), định hình các liên kết Fe-N bền chặt \[34, 35\]. Quá trình
+995: hậu xử lý thông qua đun hồi lưu axit (HCl 0.5M) và nung phục hồi cấu
+996: trúc (Re-annealing ở 750°C) được thiết kế nhằm hòa tan các pha oxit sắt
+997: không hoạt tính và củng cố liên kết phối trí phẳng Fe-Nx trên vách mạng
+998: carbon liên hợp sp² \[13, 14\]. Mặc dù mô hình động học cấu trúc này ban
+999: đầu được khẳng định tính bền vững qua các phản ứng điện xúc tác, việc
+1000: tích hợp chúng lên nền tảng carbon aerogel phân cấp mở ra một tiềm năng
+1001: phân tích điện hóa vượt trội. Các tâm phối trí Fe-Nx với đặc tính giàu
+1002: electron đóng vai trò là các vị trí xúc tác nội tại (intrinsic active
+1003: sites), tạo lực chelate hóa mạnh mẽ để làm giàu các cation kim loại
+1004: nặng, qua đó khuếch đại dòng Faradaic cho cảm biến \[15, 16\]. Trong đó,
+1005: một nghiên cứu gần đây về carbon aerogel pha tạp Fe và N đã chứng minh
+1006: vật liệu này có khả năng cảm biến điện hóa đa phương thức (dual-mode)
+1007: hiệu quả, đặc biệt là trong việc phát hiện glucose với giới hạn phát
+1008: hiện (LOD) đạt 0.5 µM \[36\].
+1009: 
+1010: Bên cạnh khả năng chelate hóa các cation kim loại nặng, cấu trúc xốp 3D
+1011: và các nhóm chức Pyridinic-N trên bề mặt vật liệu carbon aerogel pha tạp
+1012: Nitơ (N-CA) gần đây còn chứng minh được hoạt tính điện xúc tác vượt
+1013: trội \[37, 38\]. Khuyết tật mạng lưới sp<sup>2</sup> sinh ra từ quá
+1014: trình pha tạp Nitơ sẽ thay đổi cấu trúc điện tử, cung cấp các điểm tương
+1015: tác hydro và liên kết $`\pi - \pi`$ mạnh mẽ. Điều này mang lại độ nhạy
+1016: cao trong việc nhận diện và phát hiện các phân tử hữu cơ phức tạp chứa
+1017: vòng benzen như Acetaminophen (Paracetamol) \[5\].
+1018: 
+1019: ## 1.3. Cơ chế lớp kép điện hóa (EDL), điện thế Zeta, thuyết DLVO và tương tác kỵ nước/hydrogen
+1020: 

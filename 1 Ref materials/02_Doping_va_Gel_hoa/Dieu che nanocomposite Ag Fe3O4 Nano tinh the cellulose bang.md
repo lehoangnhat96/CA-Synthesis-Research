@@ -7,7 +7,7 @@ _**Bài nghiên cứu**_
 ## **Vũ Năng An[*] , Nguyễn Lê Tấn Huy, TừThịKim Phụng, Nguyễn Thái Ngọc Uyên, Trần ThịThanh Vân, Lê Văn Hiếu** 
 
 
-![](_images/Dieu che nanocomposite Ag Fe3O4 Nano tinh the cellulose bang_img/_temp_b77a4841_heal_.pdf-0001-04.png)
+![](_temp_b77a4841_convert__images/_temp_b77a4841_convert_.pdf-0001-04.png)
 
 
 Use your smartphone to scan this QR code and download this article 
@@ -35,7 +35,7 @@ _Trường Đại học Khoa học Tựnhiên, ĐHQG-HCM, Việt Nam_
 **DOI : 10.32508/stdjns.v5i4.930** 
 
 
-![](_images/Dieu che nanocomposite Ag Fe3O4 Nano tinh the cellulose bang_img/_temp_b77a4841_heal_.pdf-0001-17.png)
+![](_temp_b77a4841_convert__images/_temp_b77a4841_convert_.pdf-0001-17.png)
 
 
 ## **Bản quyền** 
@@ -43,7 +43,7 @@ _Trường Đại học Khoa học Tựnhiên, ĐHQG-HCM, Việt Nam_
 © ĐHQG Tp.HCM. Đây là bài báo công bố mởđược phát hành theo các điều khoản của the Creative Commons Attribution 4.0 International license. 
 
 
-![](_images/Dieu che nanocomposite Ag Fe3O4 Nano tinh the cellulose bang_img/_temp_b77a4841_heal_.pdf-0001-20.png)
+![](_temp_b77a4841_convert__images/_temp_b77a4841_convert_.pdf-0001-20.png)
 
 
 ## **MỞĐẦU** 
@@ -99,7 +99,7 @@ các acid là cắt đứt các liên kết glycoside và ether trong chuỗi ph
 ## **Chếtạo hạt nano Fe** 3 **O** 4 **bằng phương pháp nhiệt dung môi** 
 
 
-![](_images/Dieu che nanocomposite Ag Fe3O4 Nano tinh the cellulose bang_img/_temp_b77a4841_heal_.pdf-0003-08.png)
+![](_temp_b77a4841_convert__images/_temp_b77a4841_convert_.pdf-0003-08.png)
 
 
 **Hình 1** : Quy trình tổng hợp hạt nano Fe3O4 bằng phương pháp nhiệt dung môi 
@@ -129,7 +129,7 @@ liên kết C=C của các vòng thơm trên lignin và mũi phổtại sốsón
 Kết quảphân tích FT-IR của mẫu tẩy trắng cho thấy mũi 1730 cm _[−]_[1] đã không còn trong phổ, như vậy quá trình tẩy trắng đã loại bỏhiệu quảhemicellulose và lignin. Cảhai phổcủa mẫu tẩy trắng và mẫu thủy _-_ phân đều xuất hiện mũi tại vùng sốsóng khoảng 1640 1650 cm _[−]_[1] , mũi này được cho là có liên quan đến sự hấp thụhơi ẩm tạo liên kết hydrogen liên phân tửcủa O _–_ H đặc trưng trên các thành phần của sợi thực vật với các phân tửnước trong không khí. Cường độmũi 890 cm _[−]_[1] trong phổFT-IR của mẫu qua từng bước xửlý ngày càng hiện rõ, đây chính là mũi đặc trưng cho cấu trúc của cellulose. Mũi này nhỏvà nhọn đặc trưng cho dao động biến dạng C1-H kết hợp với dao động uốn của O-H trong liên kết β-glycoside[40] . 
 
 
-![](_images/Dieu che nanocomposite Ag Fe3O4 Nano tinh the cellulose bang_img/_temp_b77a4841_heal_.pdf-0004-08.png)
+![](_temp_b77a4841_convert__images/_temp_b77a4841_convert_.pdf-0004-08.png)
 
 
 **Hình 2** : PhổFT-IR của (a) mẫu thô, (b) mẫu xửlý PFA, (c) mẫu tẩy trắng và (d) mẫu CNC 
@@ -145,7 +145,7 @@ _**Tạp chí Phát triển Khoa học và Công nghệ – Khoa học Tự nhi�
 mẫu tẩy trắng. Như vậy cho thấy, trải qua các quá trình xửlý hóa học, các thành phần vô định hình như hemicelulose, lignin trong cấu trúc xơ dừa đã được loại bỏ, chỉcòn thành phần cellulose tinh khiết với tính chất của một polysaccharide bán kết tinh. Sựloại bỏcác thành phần vô định hình bao bọc bên ngoài cấu trúc cellulose làm cho độkết tinh của mẫu tăng lên, làm cho cường độđỉnh nhiễu xạtăng. Sợi cellulose là một dạng polymer bán kết tinh mà tại đó các vùng tinh thểliên kết với nhau thông qua vùng vô định hình. Nhằm loại bỏvùng vô định hình, cần thủy phân acid. Trong quá trình thủy phân, acid ưu tiên tấn công vào vùng vô định hình trong khi các vùng có cấu trúc tinh thểkhông bịacid tấn công do mức độtrật tựcao. Chức năng chủyếu của các acid đểcắt đứt các liên kết glycoside và ether trong chuỗi phân tửcellulose của vùng vô định hình, giúp cho hàm lượng kết tinh của mẫu tăng lên. Từcông thức Segal (1), giá trịtính toán được cho thấy từmẫu xơ dừa thô ban đầu đến mẫu xửlý PFA và mẫu sau khi đã tẩy trắng, là cellulose, độkết tinh tăng từ53,1% đến 91,4% và 95,1%. Tuy nhiên, độkết tinh của mẫu thủy phân là 84,8%, nhỏhơn so với mẫu tẩy trắng. Có thểgiải thích là do khi thủy phân sợi xơ dừa trong thời gian dài và ởnhiệt độcao, sau khi loại bỏvùng vô định hình, acid sẽtiếp tục tấn công và phá hủy vùng tinh thể. Chính điều này sẽlàm cho hàm lượng tinh thể của mẫu thủy phân sẽgiảm so với mẫu tẩy trắng[38][,][42] . 
 
 
-![](_images/Dieu che nanocomposite Ag Fe3O4 Nano tinh the cellulose bang_img/_temp_b77a4841_heal_.pdf-0005-02.png)
+![](_temp_b77a4841_convert__images/_temp_b77a4841_convert_.pdf-0005-02.png)
 
 
 **Hình 3** : Giản đồXRD của (a) mẫu thô, (b) mẫu tẩy trắng và (c) mẫu CNC 
@@ -167,7 +167,7 @@ Sợi thực vật có cấu trúc bao gồm phần lõi là cellulose được 
 _**Tạp chí Phát triển Khoa học và Công nghệ – Khoa học Tự nhiên, 5(4):1605-1617**_ 
 
 
-![](_images/Dieu che nanocomposite Ag Fe3O4 Nano tinh the cellulose bang_img/_temp_b77a4841_heal_.pdf-0006-01.png)
+![](_temp_b77a4841_convert__images/_temp_b77a4841_convert_.pdf-0006-01.png)
 
 
 **Hình 4** : Giản đồXRD của (a) Fe3O4, (b) Ag/Fe3O4 và (c) Ag/Fe3O4/CNC 
@@ -191,13 +191,13 @@ Phân tích phổEDX tại Hình 7f, kết hợp với giản đồ XRD tại H�
 _**Tạp chí Phát triển Khoa học và Công nghệ – Khoa học Tự nhiên, 5(4):1605-1617**_ 
 
 
-![](_images/Dieu che nanocomposite Ag Fe3O4 Nano tinh the cellulose bang_img/_temp_b77a4841_heal_.pdf-0007-01.png)
+![](_temp_b77a4841_convert__images/_temp_b77a4841_convert_.pdf-0007-01.png)
 
 
 **Hình 5** : Giản đồTGA và DTG của a) mẫu thô, b) mẫu tẩy trắng và c) CNC 
 
 
-![](_images/Dieu che nanocomposite Ag Fe3O4 Nano tinh the cellulose bang_img/_temp_b77a4841_heal_.pdf-0007-03.png)
+![](_temp_b77a4841_convert__images/_temp_b77a4841_convert_.pdf-0007-03.png)
 
 
 **Hình 6** : Giản đồTGA và DTG của CNC và Ag/Fe3O4/CNC 
@@ -215,13 +215,13 @@ Từtính của vật liệu được phân tích bằng phương pháp đo từ
 _**Tạp chí Phát triển Khoa học và Công nghệ – Khoa học Tự nhiên, 5(4):1605-1617**_ 
 
 
-![](_images/Dieu che nanocomposite Ag Fe3O4 Nano tinh the cellulose bang_img/_temp_b77a4841_heal_.pdf-0008-01.png)
+![](_temp_b77a4841_convert__images/_temp_b77a4841_convert_.pdf-0008-01.png)
 
 
 **Hình 7** : Ảnh SEM của (a) CNC, (b) Fe3O4, (c) Ag/Fe3O4 và (d) Ag/Fe3O4/CNC cùng phổEDX của (e) Ag/Fe3O4 và (f) Ag/Fe3O4/CNC 
 
 
-![](_images/Dieu che nanocomposite Ag Fe3O4 Nano tinh the cellulose bang_img/_temp_b77a4841_heal_.pdf-0008-03.png)
+![](_temp_b77a4841_convert__images/_temp_b77a4841_convert_.pdf-0008-03.png)
 
 
 **Hình 8** : Đường cong từhóa của Fe3O4, Ag/Fe3O4 và Ag/Fe3O4/CNC. Hình ảnh chèn bên góc phải là quá trình thu hồi Ag/Fe3O4/CNC bằng nam châm. 
@@ -239,7 +239,7 @@ Hình 9 là phổUV-Vis xác định hàm lượng MB còn lại theo thời gia
 _**Tạp chí Phát triển Khoa học và Công nghệ – Khoa học Tự nhiên, 5(4):1605-1617**_ 
 
 
-![](_images/Dieu che nanocomposite Ag Fe3O4 Nano tinh the cellulose bang_img/_temp_b77a4841_heal_.pdf-0009-01.png)
+![](_temp_b77a4841_convert__images/_temp_b77a4841_convert_.pdf-0009-01.png)
 
 
 **Hình 9** : PhổUV-Vis khảo sát khảnăng hấp phụMB theo thời gian của các mẫu CNC, Ag/Fe3O4 và Ag/Fe3O4/CNC 
@@ -247,7 +247,7 @@ _**Tạp chí Phát triển Khoa học và Công nghệ – Khoa học Tự nhi�
 là do CNC đã giúp cho Ag/Fe3O4 phân tán một cách đồng đều và tạo ra nhiều khoảng trống đểMB có thể đi sâu vô trong cấu trúc vật liệu giúp tăng diện tích bề mặt tiếp xúc giữa Ag/Fe3O4/CNC và MB. Trên cơ sởkhảnăng hấp phụtốt của Ag/Fe3O4/CNC, khảo sát khảnăng xúc tác của vật liệu khi có mặt của lượng dư NaBH4, kết quảcho thấy độhấp thu đặc trưng tại bước sóng λ = 664 nm của MB giảm nhanh và rõ rệt trong thời gian ngắn (Hình 10). 
 
 
-![](_images/Dieu che nanocomposite Ag Fe3O4 Nano tinh the cellulose bang_img/_temp_b77a4841_heal_.pdf-0009-04.png)
+![](_temp_b77a4841_convert__images/_temp_b77a4841_convert_.pdf-0009-04.png)
 
 
 **Hình 10** : PhổUV-Vis khảo sát khảnăng phân hủy MB theo thời gian của chất xúc tác Ag/Fe3O4/CNC khi có sựhiện diện của NaBH4 
@@ -255,7 +255,7 @@ là do CNC đã giúp cho Ag/Fe3O4 phân tán một cách đồng đều và t�
 Dựa trên công thức (2) khảnăng loại bỏMB của các loại vật liệu được xác định và kết quảđược thểhiện trên Hình 11. Kết quảcho thấy khi sửdụng CNC làm giá mang đểtổng hợp Ag/Fe3O4 bằng phương pháp thủy nhiệt, nanocomposite Ag/Fe3O4/CNC không những cải thiện được khảnăng hấp phụMB của Ag/Fe3O4 mà cùng với sựhỗtrợcủa NaBH4, vật liệu này có thểlàm xúc tác khửMB với vận tốc rất nhanh, MB bịphân hủy tới hơn 80% chỉsau thời gian 2 phút. Khảnăng khửMB nhanh của nanocomposite Ag/Fe3O4/CNC khi có sựhỗtrợcủa NaBH4 có thể 
 
 
-![](_images/Dieu che nanocomposite Ag Fe3O4 Nano tinh the cellulose bang_img/_temp_b77a4841_heal_.pdf-0009-07.png)
+![](_temp_b77a4841_convert__images/_temp_b77a4841_convert_.pdf-0009-07.png)
 
 
 **Hình 11** : Khảnăng loại bỏMB của các loại vật liệu khác nhau theo thời gian. 
@@ -263,7 +263,7 @@ Dựa trên công thức (2) khảnăng loại bỏMB của các loại vật li
 được giải thích thông qua một cơ chếcó hai giai đoạn, như được đềnghịvà minh họa trên Hình 12. 
 
 
-![](_images/Dieu che nanocomposite Ag Fe3O4 Nano tinh the cellulose bang_img/_temp_b77a4841_heal_.pdf-0009-10.png)
+![](_temp_b77a4841_convert__images/_temp_b77a4841_convert_.pdf-0009-10.png)
 
 
 **Hình 12** : Cơ chếhình thành và khửMB của Ag/Fe3O4/CNC khi có sựhiện diện của NaBH4 
@@ -427,7 +427,7 @@ _**Research Article**_
 **Open Access Full Text Article** 
 
 
-![](_images/Dieu che nanocomposite Ag Fe3O4 Nano tinh the cellulose bang_img/_temp_b77a4841_heal_.pdf-0013-03.png)
+![](_temp_b77a4841_convert__images/_temp_b77a4841_convert_.pdf-0013-03.png)
 
 
 ## **Hydrothermal preparation of Ag/Fe** 3 **O** 4 **/Cellulose nanocrystals nanocomposite and its application in methylene blue removal** 
@@ -435,7 +435,7 @@ _**Research Article**_
 ## **Vu Nang An[*] , Nguyen Le Tan Huy, Tu Thi Kim Phung, Nguyen Thai Ngoc Uyen, Tran Thi Thanh Van, Le Van Hieu** 
 
 
-![](_images/Dieu che nanocomposite Ag Fe3O4 Nano tinh the cellulose bang_img/_temp_b77a4841_heal_.pdf-0013-06.png)
+![](_temp_b77a4841_convert__images/_temp_b77a4841_convert_.pdf-0013-06.png)
 
 
 Use your smartphone to scan this QR code and download this article 
@@ -463,7 +463,7 @@ The preparation of reusable and eco-friendly materials from renewable biomass re
 **DOI : 10.32508/stdjns.v5i4.930** 
 
 
-![](_images/Dieu che nanocomposite Ag Fe3O4 Nano tinh the cellulose bang_img/_temp_b77a4841_heal_.pdf-0013-19.png)
+![](_temp_b77a4841_convert__images/_temp_b77a4841_convert_.pdf-0013-19.png)
 
 
 ## **Copyright** 
@@ -471,7 +471,7 @@ The preparation of reusable and eco-friendly materials from renewable biomass re
 © VNU-HCM Press. This is an openaccess article distributed under the terms of the Creative Commons Attribution 4.0 International license. 
 
 
-![](_images/Dieu che nanocomposite Ag Fe3O4 Nano tinh the cellulose bang_img/_temp_b77a4841_heal_.pdf-0013-22.png)
+![](_temp_b77a4841_convert__images/_temp_b77a4841_convert_.pdf-0013-22.png)
 
 
 **Cite this article :** An V N, Huy N L T, Phung T T K, Uyen N T N, Van T T T, Hieu L V. **Hydrothermal preparation of Ag/Fe** 3 **O** 4 **/Cellulose nanocrystals nanocomposite and its application in methylene blue removal** . _Sci. Tech. Dev. J. - Nat. Sci.;_ 5(4):1605-1617. 
